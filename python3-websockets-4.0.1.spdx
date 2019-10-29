@@ -1,0 +1,582 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_python3-websockets-4.0.1-r0-patched.tar.gz_1571457596.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:59:56Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: python3-websockets
+PackageVersion: 4.0.1
+PackageFileName: python3-websockets-4.0.1-r0-patched.tar.gz
+SPDXID: SPDXRef-upload315
+PackageDownloadLocation: https://files.pythonhosted.org/packages/source/w/websockets/websockets-4.0.1.tar.gz
+PackageHomePage: https://github.com/aaugustin/websockets
+PackageSummary: <text>An implementation of the WebSocket Protocol (RFC 6455)</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>python3-websockets version 4.0.1</text>
+PackageChecksum: SHA1: 4eb8dd893d3c8d996139f2bd1e18a390f068bd32
+PackageChecksum: MD5: b99607b8b2ec4c7fb43804748c83ff75
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload315
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_utils.py
+SPDXID: SPDXRef-item837455
+FileChecksum: SHA1: c779b9ae63be941cf738e7d64d32dabe5be7cf9b
+FileChecksum: MD5: b079762b1f70af608566bf65f9d76c18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/server.py
+SPDXID: SPDXRef-item837456
+FileChecksum: SHA1: 940f9f3bd0365fc7b5aededd8756ce3733966bd2
+FileChecksum: MD5: e89adfc340c3a997f6e06785e0e8c230
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_protocol.py
+SPDXID: SPDXRef-item837457
+FileChecksum: SHA1: 91cabab5e2836efe258c0ffe5e806c2700d7614b
+FileChecksum: MD5: 1e65a487d94ba3639303fe84799f670c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/py35/__init__.py
+SPDXID: SPDXRef-item837459
+FileChecksum: SHA1: bbf74aa193a1039e15c3208494eaed109e06bef5
+FileChecksum: MD5: 9070cfd37b4a1989d629d8449e5d0a46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/py35/_test_client_server.py
+SPDXID: SPDXRef-item837460
+FileChecksum: SHA1: a960feba8435404a79d6b1de670a57277d28011f
+FileChecksum: MD5: f4ada410a08fc9441f3e4baf4699e21d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/version.py
+SPDXID: SPDXRef-item837461
+FileChecksum: SHA1: 42b3b505d46d9a167120968ef3fb11e5d51c11bb
+FileChecksum: MD5: 3326a35f94097977310b10f5b5f80c82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_localhost.pem
+SPDXID: SPDXRef-item837462
+FileChecksum: SHA1: d7206d787a33eb8fca76888f8d89f945292e611e
+FileChecksum: MD5: d5250ed09d8a8b9ead29150c84ca1a94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/framing.py
+SPDXID: SPDXRef-item837463
+FileChecksum: SHA1: ce6026a7dc7d04b836a9492eb4ef7a3ea7693c15
+FileChecksum: MD5: 030c3fb1f45035c00fe464908c6dc12f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/py36/protocol.py
+SPDXID: SPDXRef-item837465
+FileChecksum: SHA1: ccf99ccad4a9e58dd3ec8079a5fce8477209e991
+FileChecksum: MD5: 391475296d5e64c1db6c2eeb2c70c6e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/py36/__init__.py
+SPDXID: SPDXRef-item837466
+FileChecksum: SHA1: 096a653d8a928710c37614e5b751f933d6c18a8e
+FileChecksum: MD5: 106d6cb87134a4a43af5580d2058eb1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/py36/_test_client_server.py
+SPDXID: SPDXRef-item837467
+FileChecksum: SHA1: f3d2ecdd874b1b823eba6e56ddee537c2b7f2ccf
+FileChecksum: MD5: efbbfbb0a4724d6abc2e26381fe61297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/handshake.py
+SPDXID: SPDXRef-item837468
+FileChecksum: SHA1: 2953ecaf1c36cac532d08213690f9b9d63558ba0
+FileChecksum: MD5: 4e9bf9ebbfcecf838e1e5bcb25a06198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/speedups.c
+SPDXID: SPDXRef-item837469
+FileChecksum: SHA1: 2f046e2b1f42710acee6abb509acbd015a874f06
+FileChecksum: MD5: 29ce5ba121c71960827c6599886c27f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_exceptions.py
+SPDXID: SPDXRef-item837470
+FileChecksum: SHA1: e631c570a31e6b9c5242a75a2cdbe83b520a5672
+FileChecksum: MD5: f9a98206686eebe6a03d2fe9e424f00d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_framing.py
+SPDXID: SPDXRef-item837471
+FileChecksum: SHA1: c98b392433cc5313dceec986885108df44945ac9
+FileChecksum: MD5: 3c5b18e37a6f60cc4e94b7644f52a15d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/uri.py
+SPDXID: SPDXRef-item837472
+FileChecksum: SHA1: b87ace96f37a7b3244d8db40ae947574f32d438c
+FileChecksum: MD5: eda8e6389dda300f532469a689def2c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/protocol.py
+SPDXID: SPDXRef-item837473
+FileChecksum: SHA1: 7127d4fd06abf602e9ce0d6207eadff8f5177ffc
+FileChecksum: MD5: f84c362a8798fd46f8391d5319461f1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/client.py
+SPDXID: SPDXRef-item837474
+FileChecksum: SHA1: 087423dfa2e3899e11f39bc689da7e71784dbf02
+FileChecksum: MD5: b6c6ded10bda930552d4fe66ed8c0500
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_headers.py
+SPDXID: SPDXRef-item837475
+FileChecksum: SHA1: 6ee10a7198b0701b1be8e08ea0fee98eccee9922
+FileChecksum: MD5: 4f1009bfc01c362c2427b9c4dddbfb5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_uri.py
+SPDXID: SPDXRef-item837476
+FileChecksum: SHA1: b6b3dae3de0f88421b32a15626ea4a85469afdb9
+FileChecksum: MD5: 7c6824d5a1a2a5d8c9bc8cc45b78855b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/exceptions.py
+SPDXID: SPDXRef-item837477
+FileChecksum: SHA1: 2376e4dba86dab99abd1f6b886376df1b4651141
+FileChecksum: MD5: 321c3ca7e6c6a03690a056962e80b6c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_speedups.py
+SPDXID: SPDXRef-item837478
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_client_server.py
+SPDXID: SPDXRef-item837479
+FileChecksum: SHA1: 0715551823be31032043d8c8ac2a55911a76506a
+FileChecksum: MD5: 719cda68a6be018f7878a158e0ca1dbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_handshake.py
+SPDXID: SPDXRef-item837480
+FileChecksum: SHA1: 239dfc080f69ae25723001b8b8aa4291878edeea
+FileChecksum: MD5: 593040abea2d5ccce3583a9699134665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/compatibility.py
+SPDXID: SPDXRef-item837481
+FileChecksum: SHA1: 623cefa36af8d9de50357de2794856b0c6e80a35
+FileChecksum: MD5: b008445e6c31dd18896e0db8cd12d090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/http.py
+SPDXID: SPDXRef-item837482
+FileChecksum: SHA1: a796e2c14843350f15ca68cdb9d69aa3d164441d
+FileChecksum: MD5: dbc9ddc49b293095efc2c9ba0d4d3831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/utils.py
+SPDXID: SPDXRef-item837483
+FileChecksum: SHA1: f7d5932701fe05be58efdfb22a0725a8111eef76
+FileChecksum: MD5: fd3bbcb86666261ad51c8cd895fbea57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/extensions/test_permessage_deflate.py
+SPDXID: SPDXRef-item837485
+FileChecksum: SHA1: e3c3a4c3a566d843e562cfba746c8273a587c845
+FileChecksum: MD5: 883bc472bdb6545913cf0aeee4ccc829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/extensions/base.py
+SPDXID: SPDXRef-item837486
+FileChecksum: SHA1: 01ea9287ea7549f1f184466abd801181b2754ad6
+FileChecksum: MD5: dd4451160a5d5a728a97c9e5ee96321e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/extensions/permessage_deflate.py
+SPDXID: SPDXRef-item837487
+FileChecksum: SHA1: dfe921c412910c9b4625d6013cdfdbbfbec8c808
+FileChecksum: MD5: c57b2f98114d55243aaa5d490f13c017
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/extensions/test_base.py
+SPDXID: SPDXRef-item837488
+FileChecksum: SHA1: 02b1a5969fcd65a058d4406bddaeb11371f1296a
+FileChecksum: MD5: 7b9efba219ab9e8e1bd812000185256b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/extensions/__init__.py
+SPDXID: SPDXRef-item837489
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/test_http.py
+SPDXID: SPDXRef-item837490
+FileChecksum: SHA1: 3e42ff74a2c6fcecae3d5202a46e6f68ad76bd9e
+FileChecksum: MD5: 891209f94642a0fdf4d69446d8d76170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/__init__.py
+SPDXID: SPDXRef-item837491
+FileChecksum: SHA1: 42efa368b37fa3948d871a47e3fc9ae644519f53
+FileChecksum: MD5: 4544602f4e5c14a4d6307ba9f562c8b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets/headers.py
+SPDXID: SPDXRef-item837492
+FileChecksum: SHA1: c8e574c68db3b66da038555e2fa316f11752d2be
+FileChecksum: MD5: 33a94dadf06a23bf7aeac64790ca14dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/setup.cfg
+SPDXID: SPDXRef-item837493
+FileChecksum: SHA1: 532547cb45af30d2ee2a897341f2b8ca0877f9fd
+FileChecksum: MD5: 74e8859c041263fa9a80286a25c4dbdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets.egg-info/dependency_links.txt
+SPDXID: SPDXRef-item837495
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets.egg-info/SOURCES.txt
+SPDXID: SPDXRef-item837496
+FileChecksum: SHA1: 357ecf7baaaa16b1159155b2e8231fe8a9e439f0
+FileChecksum: MD5: 2d10db397809d9322e00f493644c9d5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets.egg-info/top_level.txt
+SPDXID: SPDXRef-item837497
+FileChecksum: SHA1: cae0e3d247f3c9031ef8d289e979e0b1e13063ef
+FileChecksum: MD5: 7f64e984b284d936738baed5cab28d2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/websockets.egg-info/PKG-INFO
+SPDXID: SPDXRef-item837498
+FileChecksum: SHA1: df44f99f24d6f4a22835a07f4f75931cf21c1ed3
+FileChecksum: MD5: c17f2e26b75e9e2d04dddb291bd03787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/MANIFEST.in
+SPDXID: SPDXRef-item837499
+FileChecksum: SHA1: f3216a159c55cbda3735e58cfcbea50851d15522
+FileChecksum: MD5: bbe0c7252ee3ec4460d827e9ae003ba1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/setup.py
+SPDXID: SPDXRef-item837500
+FileChecksum: SHA1: 6d56aa7e772151856822fc9655080eacbddbe4a7
+FileChecksum: MD5: c53502a5be02afc5a8373096c925d9cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/README.rst
+SPDXID: SPDXRef-item837501
+FileChecksum: SHA1: 7ea98bfc5df11c84c27e6ab5bab0e9e39c41163e
+FileChecksum: MD5: c5915dbb20a2ae41030e644ccc12bdb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/LICENSE
+SPDXID: SPDXRef-item837502
+FileChecksum: SHA1: 9cdabbc8e2514d4f8bcfad963d628011abbba89a
+FileChecksum: MD5: 5070256738c06d2e59adbec1f4057dac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/websockets-4.0.1/PKG-INFO
+SPDXID: SPDXRef-item837503
+FileChecksum: SHA1: df44f99f24d6f4a22835a07f4f75931cf21c1ed3
+FileChecksum: MD5: c17f2e26b75e9e2d04dddb291bd03787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+

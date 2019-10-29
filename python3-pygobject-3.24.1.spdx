@@ -1,0 +1,2612 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_python3-pygobject-3.24.1-r0-patched.tar.gz_1571457918.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:05:19Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: python3-pygobject
+PackageVersion: 3.24.1
+PackageFileName: python3-pygobject-3.24.1-r0-patched.tar.gz
+SPDXID: SPDXRef-upload333
+PackageDownloadLocation: http://ftp.gnome.org/pub/GNOME/sources/pygobject/3.24/pygobject-3.24.1.tar.xz
+PackageHomePage: 
+PackageSummary: <text>Python GObject bindings</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>python3-pygobject version 3.24.1</text>
+PackageChecksum: SHA1: 15c7ee13c641600f5b4e594bfdd11c0d0f2ab7a2
+PackageChecksum: MD5: a9451adb73816163ec51552e78f2f9fb
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload333
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-configure.ac-Don-t-use-gnome-common-macros.patch
+SPDXID: SPDXRef-item851589
+FileChecksum: SHA1: b29f7d56ac9db79b513b94e806c7b953aefa1a7d
+FileChecksum: MD5: fb752a29195b5d8f7b58200259fdcbad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygi-convert.sh
+SPDXID: SPDXRef-item851592
+FileChecksum: SHA1: b2d26dfb64e339b5e76ed2e400bf8ce48a6c91e4
+FileChecksum: MD5: 4c6ac221d02dc2caf3d19d7242ca748a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/NEWS
+SPDXID: SPDXRef-item851593
+FileChecksum: SHA1: e564fff898e0815b3588b9505a5cd44b349565ae
+FileChecksum: MD5: 8725d69e8a643bf214a4d47c1e0b7f6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/compile
+SPDXID: SPDXRef-item851594
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygobject.doap
+SPDXID: SPDXRef-item851595
+FileChecksum: SHA1: 0d886d6c70f2e62071e2f4abd2c82724b7636112
+FileChecksum: MD5: 5ea42e2ad56f324eaa0871cd1ca88f0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/install-sh
+SPDXID: SPDXRef-item851596
+FileChecksum: SHA1: 2e3051b2027eaf42b949f495503e7c9090f4113d
+FileChecksum: MD5: b965f98f97ba53fa9e2ed5528caa4efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygtkcompat/pygtkcompat.py
+SPDXID: SPDXRef-item851598
+FileChecksum: SHA1: 40c115b85d9be4e5654eac1ebf5c0f12b4a920ca
+FileChecksum: MD5: 768af6536f9aa7f0ff936f4912472362
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygtkcompat/Makefile.in
+SPDXID: SPDXRef-item851599
+FileChecksum: SHA1: 78192713e53b5062469e946ba2c9c113449d3b9b
+FileChecksum: MD5: 84e4a199b8a7352a47e3313a9c97f950
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygtkcompat/Makefile.am
+SPDXID: SPDXRef-item851600
+FileChecksum: SHA1: 015780926eb4c61d17111fdc4d9206557db57d1a
+FileChecksum: MD5: a8d439805b07252ab28e8d6388be5032
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygtkcompat/generictreemodel.py
+SPDXID: SPDXRef-item851601
+FileChecksum: SHA1: b9325f8a51fbaa54af6aed9737a43831eb33d77a
+FileChecksum: MD5: 20d9bdd35e935f2eb0c3dbbb572ae83a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygtkcompat/__init__.py
+SPDXID: SPDXRef-item851602
+FileChecksum: SHA1: 43f8b020ae26598b25d73c75cf9414a0cb022ccf
+FileChecksum: MD5: 4c37e276927a7bc2f907b0bf0fbd5a18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/aclocal.m4
+SPDXID: SPDXRef-item851603
+FileChecksum: SHA1: 117712e6e81da8bc5b428ea89b31c392bd8a981d
+FileChecksum: MD5: f79b72419d83572eaa3302134d5f0eb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygobject-3.0-uninstalled.pc.in
+SPDXID: SPDXRef-item851604
+FileChecksum: SHA1: b4552d9ce190db4ccd9808f6a31c0de1b84ec479
+FileChecksum: MD5: 8892dd2999a4ab098b3dce133c11489b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/Makefile.in
+SPDXID: SPDXRef-item851605
+FileChecksum: SHA1: d8c9ebfb846c81112c2b44d321033af6ff4b1f2a
+FileChecksum: MD5: a75ed7e5d9a95dd69d54fc4cd32d9280
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/COPYING
+SPDXID: SPDXRef-item851606
+FileChecksum: SHA1: 597bf5f9c0904bd6c48ac3a3527685818d11246d
+FileChecksum: MD5: a916467b91076e631dd8edb7424769c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-basictype.h
+SPDXID: SPDXRef-item851608
+FileChecksum: SHA1: c956cb163c95a52ed52910bee41e0c1f640b06cc
+FileChecksum: MD5: dc3fd65fb1d2ae0cdc1adc912c5f91d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-array.h
+SPDXID: SPDXRef-item851609
+FileChecksum: SHA1: 2064e9b25d3dec0bd91084b911c85acc9daee403
+FileChecksum: MD5: a84a74dfb548a65a0a946b7d2f9ff6da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygoptioncontext.h
+SPDXID: SPDXRef-item851610
+FileChecksum: SHA1: ad9169ac5e3fa5436bb6b8e147610a1253410ddb
+FileChecksum: MD5: f5133ea20907da3412be7d897ea0b9c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/gimodule.c
+SPDXID: SPDXRef-item851611
+FileChecksum: SHA1: 5162793ab58feb32fd60ede08a76f1925bfcdc80
+FileChecksum: MD5: 6588a2dc5b0d409389e3871c49415a2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pyginterface.c
+SPDXID: SPDXRef-item851612
+FileChecksum: SHA1: 63ab60b8279a494d64a3691eeb9aa04489b56835
+FileChecksum: MD5: 4696be593839921297b5713e62699ecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/_gobject/Makefile.in
+SPDXID: SPDXRef-item851614
+FileChecksum: SHA1: 9a864e457462bd8f293a136f62f1d051126f6d4c
+FileChecksum: MD5: a171f7389ceff20c2f83899fe03d7838
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/_gobject/Makefile.am
+SPDXID: SPDXRef-item851615
+FileChecksum: SHA1: 214cc27cf25444f5420b4c626a4ce08319fab189
+FileChecksum: MD5: af5f721a4cfee2e336d73f126d54c080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/_gobject/__init__.py
+SPDXID: SPDXRef-item851616
+FileChecksum: SHA1: 024bf433bdae81865d6a41b806098edae0ca5772
+FileChecksum: MD5: 5c925eb9dc8deb8212b6c0248c2bbd3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/GObject.py
+SPDXID: SPDXRef-item851618
+FileChecksum: SHA1: 48d5b7ae3a8415c7f2bfdb019dd9347112d4198b
+FileChecksum: MD5: 775c015735ca999580b38263848b7eca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/Gtk.py
+SPDXID: SPDXRef-item851619
+FileChecksum: SHA1: 5b1bd2246d96acacf1f49b370843ca7a4f24e07a
+FileChecksum: MD5: 9809b3fbbb3898c1f6770d408c024897
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/Makefile.in
+SPDXID: SPDXRef-item851620
+FileChecksum: SHA1: 80110d4bb1c9e9dcf5862ab800aefe8afbce534a
+FileChecksum: MD5: afc2aa77ea291c5e94c78ba864935498
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/Makefile.am
+SPDXID: SPDXRef-item851621
+FileChecksum: SHA1: 1e4523efad4fc6dcd7fce931304762e3edbaceba
+FileChecksum: MD5: 38def937b3b64c2fd8be619ac5b92cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/Gdk.py
+SPDXID: SPDXRef-item851622
+FileChecksum: SHA1: 5f0e47cd0a8661dbb0ddd378fe18cff14bb8c0ef
+FileChecksum: MD5: 2ac24138bb1bd951ce714a2f06759285
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/GLib.py
+SPDXID: SPDXRef-item851623
+FileChecksum: SHA1: b34f5f98079a22fcf0cee2c5b1888e5c8106f5ee
+FileChecksum: MD5: 93e5824b9fb3e032e3f8c6786fc036be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/Pango.py
+SPDXID: SPDXRef-item851624
+FileChecksum: SHA1: 1aa425417690e4d80ee7c2fa064017ec73302158
+FileChecksum: MD5: fa677359b6da0029a05ac0ebbedd03a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/GIMarshallingTests.py
+SPDXID: SPDXRef-item851625
+FileChecksum: SHA1: 463e4f4a798e1c118e7daba7888206e60b29ff3f
+FileChecksum: MD5: 88280d77a1386d2d90fcf4512bd336b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/Gio.py
+SPDXID: SPDXRef-item851626
+FileChecksum: SHA1: e4e10a5544e91736a3d2f5793dcc5d277293c11e
+FileChecksum: MD5: 43c4377a7dc80e7fd841d6378a1363bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/keysyms.py
+SPDXID: SPDXRef-item851627
+FileChecksum: SHA1: 9f843eb27085760f1753676c640b070527195bc8
+FileChecksum: MD5: a5927dff32034702f182fd1a963ad8ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/overrides/__init__.py
+SPDXID: SPDXRef-item851628
+FileChecksum: SHA1: 55112e66a854332b86e98cb91e1d93c0e05cd413
+FileChecksum: MD5: 1c592500f22e359dcf2000d3f49ff378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pyginterface.h
+SPDXID: SPDXRef-item851629
+FileChecksum: SHA1: 2941d286d525e3777714ddf57bb7473a363ae2fd
+FileChecksum: MD5: 3a322d70a243cfa51da51a7b94867bfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/_propertyhelper.py
+SPDXID: SPDXRef-item851630
+FileChecksum: SHA1: 5446ef52dd275a9cef52fff58e819fde26dd1e95
+FileChecksum: MD5: c14d5f9fee6c9d1e40f5d036567e1769
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-struct-marshal.c
+SPDXID: SPDXRef-item851631
+FileChecksum: SHA1: 6c482a660f934ce8cff61e2a9e9af59946cd87aa
+FileChecksum: MD5: 9e407dbb046dafa50e1e2dd3a9f767ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/glibmodule.c
+SPDXID: SPDXRef-item851632
+FileChecksum: SHA1: a978112d2bcc3e1a65978833e4977b8b2f86c58a
+FileChecksum: MD5: db1d08abbf79507d01ae9338c59ae5de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-foreign.c
+SPDXID: SPDXRef-item851633
+FileChecksum: SHA1: ab8c36a4a0eba203c9cc2f21e2d5167b1782cc59
+FileChecksum: MD5: 276cc0555a9d5cddd70a2cec85c145fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-argument.h
+SPDXID: SPDXRef-item851634
+FileChecksum: SHA1: 8d9403acd1654a86f657d8bf10be937d53f2aebc
+FileChecksum: MD5: f169a1aa1ee49d4e9c33e6058ede3fea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygparamspec.c
+SPDXID: SPDXRef-item851635
+FileChecksum: SHA1: b2472d641706966ddd8fe99c21cc5e836fae302f
+FileChecksum: MD5: 52e1c75fd0eec3757eda4d572c215245
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-foreign.h
+SPDXID: SPDXRef-item851636
+FileChecksum: SHA1: 05b7dacd3db7cb245faf8d60caf93387a27af3cd
+FileChecksum: MD5: abc35a1049c46bc7ead1e11c6026e3a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygflags.h
+SPDXID: SPDXRef-item851637
+FileChecksum: SHA1: 692bb9d6ea122790e7ef2cce93f8267493e645b0
+FileChecksum: MD5: c73d9ced346a87db8ce13c03ab7e7af0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygenum.c
+SPDXID: SPDXRef-item851638
+FileChecksum: SHA1: 9d996bb26f71152def52a8ef5078b1140b5b1684
+FileChecksum: MD5: 5dbb1d21e0b7cd9110d0ba8705ff8092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-invoke-state-struct.h
+SPDXID: SPDXRef-item851639
+FileChecksum: SHA1: 9b0766252c4c0310964439d154f664de93f1f08e
+FileChecksum: MD5: 1130a820e2b25aed2603510b3df013c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pyglib-python-compat.h
+SPDXID: SPDXRef-item851640
+FileChecksum: SHA1: 891ddd638da7dcc506df15ba1d5361fde58f651b
+FileChecksum: MD5: 012dbe17b0f22e8039025e786821c7be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-resulttuple.c
+SPDXID: SPDXRef-item851641
+FileChecksum: SHA1: fbfbc129b6bbd7f07cd503ccbd4c960070031d94
+FileChecksum: MD5: f525dc89381912ccbe6e6fab883b5278
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-struct-marshal.h
+SPDXID: SPDXRef-item851642
+FileChecksum: SHA1: ce3412748a8f956accaaf7a54c285a881ab41427
+FileChecksum: MD5: 924a9e0e82c1b3ee63e3591a46a3d98e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygtkcompat.py
+SPDXID: SPDXRef-item851643
+FileChecksum: SHA1: 53d833ce023448882311d5a56ce4a3a8c6fb95c6
+FileChecksum: MD5: e71b151b54cd0469327f71920fa03177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/importer.py
+SPDXID: SPDXRef-item851644
+FileChecksum: SHA1: d4cb347cbd30ea687dde1fa748e68a7d61154808
+FileChecksum: MD5: 36471d6ff4253a88697e8022ff521051
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/_option.py
+SPDXID: SPDXRef-item851645
+FileChecksum: SHA1: 08711fd342acad2e67ce7f55bde5d84e5122101a
+FileChecksum: MD5: 25f85426b51a704d2052e76a941d0215
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-signal-closure.c
+SPDXID: SPDXRef-item851646
+FileChecksum: SHA1: 8bdc873a1ab9b07576c383732ef239bc690baeb9
+FileChecksum: MD5: 1c543dc3f0045562d13f680074eb03b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/types.py
+SPDXID: SPDXRef-item851647
+FileChecksum: SHA1: c846b5952e8dcc60c331a82c20430713998035b6
+FileChecksum: MD5: 69c218522888edb7101c78283bfe6139
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/Makefile.in
+SPDXID: SPDXRef-item851648
+FileChecksum: SHA1: 65e03b2c4dbb6b7f76eba06802b04296e7cc58c2
+FileChecksum: MD5: 798235bbaa074e81a1259ce4011a3293
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygtype.c
+SPDXID: SPDXRef-item851649
+FileChecksum: SHA1: 1ef51aed0732ba3c9ca0d54b94b43091c47c8543
+FileChecksum: MD5: c7f36b2c88e1f4fd20f389e94af65301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-cache.h
+SPDXID: SPDXRef-item851650
+FileChecksum: SHA1: 932a22dde4b7054f8233ab0c83f95e46d154650e
+FileChecksum: MD5: ba858cf0dec6722b424fac7b77f43aa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/repository/Makefile.in
+SPDXID: SPDXRef-item851652
+FileChecksum: SHA1: d1cbdf1d947a3c806a46b7f1deb42fe27bbb15e6
+FileChecksum: MD5: b35b0fa3576754d606de0d02aa73eafa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/repository/Makefile.am
+SPDXID: SPDXRef-item851653
+FileChecksum: SHA1: 41ec170763017bde7b5a47ad1d19f66b3a488576
+FileChecksum: MD5: 07c713c94f435f8b4bd81ff3f90e81cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/repository/__init__.py
+SPDXID: SPDXRef-item851654
+FileChecksum: SHA1: 30bb95c03f47f46342c867f7c7fff8cb84e64320
+FileChecksum: MD5: 9655944c3ea5b29a7e5b28544e44ee5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygspawn.h
+SPDXID: SPDXRef-item851655
+FileChecksum: SHA1: 86db422eff80399efcfff7f7c78d4118c198955a
+FileChecksum: MD5: af76aa67c82e260e369a58c05a6abdab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-marshal-cleanup.h
+SPDXID: SPDXRef-item851656
+FileChecksum: SHA1: a492430c15d84c2678e634f5c0dc8eb9343a2b51
+FileChecksum: MD5: adbf279917a3111bb5e2c2b67bbcaf8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-boxed.c
+SPDXID: SPDXRef-item851657
+FileChecksum: SHA1: 2832a7ca5724af846c0ad9e4b15062bb1d4b6a54
+FileChecksum: MD5: 23be6b9877a483b50b22c72cddcd2d17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygobject.h
+SPDXID: SPDXRef-item851658
+FileChecksum: SHA1: 5d24275c0a753129d30a76d3dd2786b9286d72b5
+FileChecksum: MD5: e661d970279306c0e55b6f47149df979
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-enum-marshal.c
+SPDXID: SPDXRef-item851659
+FileChecksum: SHA1: 9d36127992533c09f06d507b818055bb7ee78497
+FileChecksum: MD5: 45245723305a2aea7380d79942ee894f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-enum-marshal.h
+SPDXID: SPDXRef-item851660
+FileChecksum: SHA1: e35e8fa2546529e30baaa4eb8992ffaf2847c3e3
+FileChecksum: MD5: 470328f6fef93dc7e17c9af7d0be6aaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygobject-object.h
+SPDXID: SPDXRef-item851661
+FileChecksum: SHA1: ac5a96fd8d4531abbffef2762536f0c80d78253e
+FileChecksum: MD5: ac56716832210ec763ce19ceff100ff9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygoptiongroup.h
+SPDXID: SPDXRef-item851662
+FileChecksum: SHA1: be96281ff15d59f10a995d840137f965717c44eb
+FileChecksum: MD5: 616200a898ea53f54afb99a95e0c0fee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-cache.c
+SPDXID: SPDXRef-item851663
+FileChecksum: SHA1: 6a26c531476e88c807632cf875644ecf916ac4d3
+FileChecksum: MD5: 533ac3182e4c4dc46c0d89727626d99e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygpointer.c
+SPDXID: SPDXRef-item851664
+FileChecksum: SHA1: 3d177071f99e3e1cc94857dc01b32a4e74809a2b
+FileChecksum: MD5: f843434db8686ba3b5210a1cdf237f97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-boxed.h
+SPDXID: SPDXRef-item851665
+FileChecksum: SHA1: 5e37b5861f514dbe4023973f9ea2fcb6500229e5
+FileChecksum: MD5: 99dd119b6fbe646390e8967ba3e2b5fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-repository.c
+SPDXID: SPDXRef-item851666
+FileChecksum: SHA1: b7b8e6de112b2748d33c7b63ee11a389347dce06
+FileChecksum: MD5: 0256826a8a3ce843042fba95c5a89165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-basictype.c
+SPDXID: SPDXRef-item851667
+FileChecksum: SHA1: da5d87e9ed1c8e048595cc208aefeee13e3cc2ff
+FileChecksum: MD5: 78462567b5f47af055f53192dd39876f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygboxed.h
+SPDXID: SPDXRef-item851668
+FileChecksum: SHA1: 77c2cc27b07fb2387000dca1134ffbc230310ce6
+FileChecksum: MD5: 57dcf9f83e35d367f413c77f5dea5acd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygobject-internal.h
+SPDXID: SPDXRef-item851669
+FileChecksum: SHA1: 90448ac91a2bcac06d09573dd03b38f0c5bd92f1
+FileChecksum: MD5: e77d89bcde3dd4b12b81e50a25b32fc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-info.c
+SPDXID: SPDXRef-item851670
+FileChecksum: SHA1: c80b3d3d1d1c7d10e11c20f44ff86584051add3d
+FileChecksum: MD5: c3f4b97dabf5056dae878484e5b22d3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/gobjectmodule.c
+SPDXID: SPDXRef-item851671
+FileChecksum: SHA1: 33ab306aea87410f52acd1b77245f9cd52ed21ea
+FileChecksum: MD5: a5ffc035d9f5072a5ea259a1433b06d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-foreign-api.h
+SPDXID: SPDXRef-item851672
+FileChecksum: SHA1: 87ec32490c0ea0ca5cb0405739100abba45d9489
+FileChecksum: MD5: 8121266c80951360bb2bbe17d751da61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-value.h
+SPDXID: SPDXRef-item851673
+FileChecksum: SHA1: defd3e5ee0d042b16e0686f514fb23aee029a648
+FileChecksum: MD5: e460b1927ab81470e41cd180079f4b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/_signalhelper.py
+SPDXID: SPDXRef-item851674
+FileChecksum: SHA1: 559206f55c674f2bb9b6f392c884eadc64e69321
+FileChecksum: MD5: a527ef9ba0e309dc2297ed911fbba655
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/gobjectmodule.h
+SPDXID: SPDXRef-item851675
+FileChecksum: SHA1: 847d9425e81791a257d30358bffa841bc4c4cd10
+FileChecksum: MD5: f60e3770cae617b5e1426b8096491892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygflags.c
+SPDXID: SPDXRef-item851676
+FileChecksum: SHA1: b0a1ad7bc6cc9ead48d2d472a87b606ef1781fd3
+FileChecksum: MD5: 23bf202f73bab6a610f635884fa40d99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/Makefile.am
+SPDXID: SPDXRef-item851677
+FileChecksum: SHA1: 1bce9b1638160ba38d1234c8374c50d7850ce622
+FileChecksum: MD5: 487d1d73fc851688e9449a208ecf088e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-closure.h
+SPDXID: SPDXRef-item851678
+FileChecksum: SHA1: 4d7fc3b84996fc2693a0f9cf99c9046c19448c5e
+FileChecksum: MD5: c05114b0e7ee2856aa4b641591e0ec11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-resulttuple.h
+SPDXID: SPDXRef-item851679
+FileChecksum: SHA1: a2552bf4255efcca9097d5767a0c5bc05794e2eb
+FileChecksum: MD5: 3b36244843c71b4016078f2407d78e64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-list.h
+SPDXID: SPDXRef-item851680
+FileChecksum: SHA1: d55dc8617aabc824bc1903ab42167b28633d31da
+FileChecksum: MD5: a5d4da45d937508af7ba7d3c1824b2ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-type.c
+SPDXID: SPDXRef-item851681
+FileChecksum: SHA1: 719ffbf598621896dab0ea8d5505754b93c4154f
+FileChecksum: MD5: 9ca4a0ac5cd6a9552c72fa0e692a15f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygpointer.h
+SPDXID: SPDXRef-item851682
+FileChecksum: SHA1: 69f2e6ac42cc8b0e04e5cd0d2433820e1f28f298
+FileChecksum: MD5: ee7596a14b345b9c76b1d48c89e5f76f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygtype.h
+SPDXID: SPDXRef-item851683
+FileChecksum: SHA1: 4e34fad0d72915092448e3288c7c35d8089a1b68
+FileChecksum: MD5: 1bf4b5b6ed98eb912aa9a6bd5c83cb6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/_constants.py
+SPDXID: SPDXRef-item851684
+FileChecksum: SHA1: 1c838618b2a804d5d509ed44c2e73bddad1a0f56
+FileChecksum: MD5: 0181eb2667893702e73516d6d6f5af1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-argument.c
+SPDXID: SPDXRef-item851685
+FileChecksum: SHA1: 4187ba4d28e0d29f8218084fa9e9ea55e814748c
+FileChecksum: MD5: 9fafbfcec757888181059765a1012fab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygobject-object.c
+SPDXID: SPDXRef-item851686
+FileChecksum: SHA1: 8fb5c8882f036bd2bb3e2786db59d5788acf8176
+FileChecksum: MD5: 00086f2ec3def24fd46dee38911e1205
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-closure.c
+SPDXID: SPDXRef-item851687
+FileChecksum: SHA1: 7424829618a40d5a364359f7a888f92d5bad799e
+FileChecksum: MD5: 6cc37cdb19b83d98464df9580f00c1f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-source.h
+SPDXID: SPDXRef-item851688
+FileChecksum: SHA1: 0ef5f236be07bb47cca97743127b4459d974a64c
+FileChecksum: MD5: 6d4d642f65d47a6bcf196246bdfcfb56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-info.h
+SPDXID: SPDXRef-item851689
+FileChecksum: SHA1: 93aa910a4619a9d939f7953186609f9402451ce5
+FileChecksum: MD5: 37305bf410737fb84740e8d486121fff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-property.h
+SPDXID: SPDXRef-item851690
+FileChecksum: SHA1: 268275f148a489dc321a321cb1687668379d9000
+FileChecksum: MD5: deac65ab239e8ff9b75ab0d165c243dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pyglib.h
+SPDXID: SPDXRef-item851691
+FileChecksum: SHA1: 84ef0831bd6fbb936ca4230e23830e76482ca3fc
+FileChecksum: MD5: 6cf2dae3d81e15afb404f746c0cdc4f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygboxed.c
+SPDXID: SPDXRef-item851692
+FileChecksum: SHA1: 4be874e66f81820acd77989dc4e2fe050bda1a7e
+FileChecksum: MD5: b194056e6d4dd2938377d3f51390b02c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-object.h
+SPDXID: SPDXRef-item851693
+FileChecksum: SHA1: 518659fed7f0c68989f5cede5b77fa1a5835f1b4
+FileChecksum: MD5: 17a8b9b5126eb2068ca3e9952f9baaea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygenum.h
+SPDXID: SPDXRef-item851694
+FileChecksum: SHA1: e45f8810a4d6b1df97d683ccce452c469e07a706
+FileChecksum: MD5: 24d55ef1af9e5909a62a52f8346671e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygoptioncontext.c
+SPDXID: SPDXRef-item851695
+FileChecksum: SHA1: bc40cefd2c5c2f921f4556fd3be419aa17b55230
+FileChecksum: MD5: 92670784066296348d03e31f874cdb3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-repository.h
+SPDXID: SPDXRef-item851696
+FileChecksum: SHA1: d047769618a8b039a0356630afc53a591594cef8
+FileChecksum: MD5: f1dd4171f6770ab9233cdd4058a11b1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-marshal-cleanup.c
+SPDXID: SPDXRef-item851697
+FileChecksum: SHA1: bb23005d1ba5807b58f8f8efc2fc9ff3614c620b
+FileChecksum: MD5: 4b7a72938c801b2702c63c979fd6042c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-value.c
+SPDXID: SPDXRef-item851698
+FileChecksum: SHA1: b6dac6586ac3aac616a9942ead36d53a549b9611
+FileChecksum: MD5: f04db12eb3ce382e6eb0bc001c81fdcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygoptiongroup.c
+SPDXID: SPDXRef-item851699
+FileChecksum: SHA1: bf54a846e24969f3c9e9813b97d5388505960765
+FileChecksum: MD5: d67492113e4dee9f195c3ff15775fe23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-util.h
+SPDXID: SPDXRef-item851700
+FileChecksum: SHA1: 2440101e674bc0bbbd0b3e45f0187ff2704a46f9
+FileChecksum: MD5: 52b2828a8c2998e564cc4e66fb4ab2ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-object.c
+SPDXID: SPDXRef-item851701
+FileChecksum: SHA1: d743e4b5a59fbba5bc8c0f9bbeac58f70f9ce9df
+FileChecksum: MD5: e81767b35e6bd7c7959b474686647877
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygspawn.c
+SPDXID: SPDXRef-item851702
+FileChecksum: SHA1: ef4ca1f3e0a8c6524e8a4416468df7e51352c5ed
+FileChecksum: MD5: 29fb64631cac229e291f49a5a6e10dc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-util.c
+SPDXID: SPDXRef-item851703
+FileChecksum: SHA1: 972cc50ce39f7e8f736832ba29102bafe5e88665
+FileChecksum: MD5: a9b2c4a8cc518a75db8a87a3afbdfa5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-property.c
+SPDXID: SPDXRef-item851704
+FileChecksum: SHA1: 75a90efdd40c5258d38963e8ab02276f09c91c0b
+FileChecksum: MD5: b6c437329e0dba3de85e8d3b08571c74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-ccallback.h
+SPDXID: SPDXRef-item851705
+FileChecksum: SHA1: e565f0d58e384ca020acf27ba115412ee29865db
+FileChecksum: MD5: 25d75b30aebefce03f11d7dd9afe6312
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/_error.py
+SPDXID: SPDXRef-item851706
+FileChecksum: SHA1: a6bd223618ba88ad2e0229ac3276e67f52adfa2b
+FileChecksum: MD5: c0dc7868a3b4781bbfec3e0dc7c8b1c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-struct.c
+SPDXID: SPDXRef-item851707
+FileChecksum: SHA1: 61dc6589b3bf59eeccc9d3b5377386881364b766
+FileChecksum: MD5: d068d99547cffe9c8b7abd96a9e7a755
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-array.c
+SPDXID: SPDXRef-item851708
+FileChecksum: SHA1: 7c49385ab9a3db354f6a70c9cab39a079234c192
+FileChecksum: MD5: 69eabb46ba2a934e30aff634ede432d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/module.py
+SPDXID: SPDXRef-item851709
+FileChecksum: SHA1: 7a72dd4adc2553f47ef66f69242c39737f7b80fd
+FileChecksum: MD5: c9c10b38e5dea5c52082e4afab6f5ca8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-hashtable.c
+SPDXID: SPDXRef-item851710
+FileChecksum: SHA1: bba1446dbaf48e6451daa4cb5ddb429a984b2edd
+FileChecksum: MD5: 048b7f9475c2efc0f8211860a798c4c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygparamspec.h
+SPDXID: SPDXRef-item851711
+FileChecksum: SHA1: 3a78843665fb4f09f0a66b65bba23e8d03cfff00
+FileChecksum: MD5: 9da4aa934118e9beb00d385d132ea975
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-foreign-cairo.c
+SPDXID: SPDXRef-item851712
+FileChecksum: SHA1: 22d8c9e7f10f24fea812223e4015d31470533484
+FileChecksum: MD5: bf64c348d420bfa57775dc33e7ec7c55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-signal-closure.h
+SPDXID: SPDXRef-item851713
+FileChecksum: SHA1: 4cf9eeb74da9f1d58225f0c08cc7c5c813acbeb7
+FileChecksum: MD5: 5da08e5a3a2628971558122ec7d6da4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-struct.h
+SPDXID: SPDXRef-item851714
+FileChecksum: SHA1: edae49225188ccedf747c0a176d7d702e9834489
+FileChecksum: MD5: a2490868e13b43ad428d10c8fcadddfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-error.h
+SPDXID: SPDXRef-item851715
+FileChecksum: SHA1: 0ca4ca86d3303ef15cdf233b03ff1d2ffef7abf3
+FileChecksum: MD5: 635e76bd0651bf0b8d2e2d9fc6d93fb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-type.h
+SPDXID: SPDXRef-item851716
+FileChecksum: SHA1: ea829e394aff3f3544c80bcd00e1805a65360f55
+FileChecksum: MD5: debed86858914c73942ae56fdf3629b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-ccallback.c
+SPDXID: SPDXRef-item851717
+FileChecksum: SHA1: 9e603655f8520d39b8b48635bcd8185ac375669f
+FileChecksum: MD5: 0fdbf9eb7a64aec2d5eb3cc3837c6da4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-list.c
+SPDXID: SPDXRef-item851718
+FileChecksum: SHA1: 28dee4eb5381a3a5544b475b9a3befd355ef8d09
+FileChecksum: MD5: cca3be068df72e6b6d040b555b066c64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-invoke.h
+SPDXID: SPDXRef-item851719
+FileChecksum: SHA1: 6c54efe2e61cf9952ad5d2edf04b2f9704f844c3
+FileChecksum: MD5: 7b8440a6135cf623ea070ecaf1e128e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-source.c
+SPDXID: SPDXRef-item851720
+FileChecksum: SHA1: 51ea2fd3d20d275cb2c0809091684a5b79998403
+FileChecksum: MD5: 073f2120c1dc8c6dc5d265b9d2e8db00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/__init__.py
+SPDXID: SPDXRef-item851721
+FileChecksum: SHA1: ac891eb4de6dcd1ec846a3f72d8ca2fcfa05b471
+FileChecksum: MD5: 3b8604256d7b3567cba1f3af0ddbb830
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/docstring.py
+SPDXID: SPDXRef-item851722
+FileChecksum: SHA1: ca3a923258eb2910dd45f4528b8d150c4a89b9a1
+FileChecksum: MD5: 34a7230c251eb3a2faf1af749509658f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-invoke.c
+SPDXID: SPDXRef-item851723
+FileChecksum: SHA1: 49f9a8ec9f316ab4e2e8e16a733b4fc884c53e52
+FileChecksum: MD5: 767e00cd9f8fbf2f898b8fe37bcf5d5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pyglib.c
+SPDXID: SPDXRef-item851724
+FileChecksum: SHA1: 28135dcccff3036bc3e39a6a343b04075e4b3e54
+FileChecksum: MD5: bbf2ff6cf7644fdddb807ae643fa78d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-hashtable.h
+SPDXID: SPDXRef-item851725
+FileChecksum: SHA1: 29c462a3d12f85bbd407463544f56b23df799fbd
+FileChecksum: MD5: 0a5670535b560a096fc3f1648a48ed6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/gi/pygi-error.c
+SPDXID: SPDXRef-item851726
+FileChecksum: SHA1: fab61167e5a5221e583db773f7353f1e7cacfc25
+FileChecksum: MD5: 4b07357e54f4e7780b1af9849a10699c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/configure
+SPDXID: SPDXRef-item851727
+FileChecksum: SHA1: ccf95c6d78aff3027ecd834e17e9df25032d3fe9
+FileChecksum: MD5: fe930933b7a060f8638df39542ca2635
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/ltmain.sh
+SPDXID: SPDXRef-item851728
+FileChecksum: SHA1: a1f1c2ad29368c6f3b3a1803f4b48edac5b6277b
+FileChecksum: MD5: edbcaf917b678b3f00e4fff2608f71c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/examples/Makefile.in
+SPDXID: SPDXRef-item851730
+FileChecksum: SHA1: b4a7f3bfff010b54e4391138a75ace1ed4e5a009
+FileChecksum: MD5: 4bff68e322a05ea9eb66b918ee690dbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/examples/cairo-demo.py
+SPDXID: SPDXRef-item851731
+FileChecksum: SHA1: dc0330bb39f227973c3d17a9796285da6befef23
+FileChecksum: MD5: ebbeba90add865805c1afcad18e89d43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/examples/Makefile.am
+SPDXID: SPDXRef-item851732
+FileChecksum: SHA1: bb26f7a231ddd78dcadf739c4240f9351e4006e9
+FileChecksum: MD5: cdf713cc123498edcc98739633a723ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/examples/signal.py
+SPDXID: SPDXRef-item851733
+FileChecksum: SHA1: cacc30a0fc83744e0eff415131d50f49fe68b2ba
+FileChecksum: MD5: 766cc91e73a1a444daeeb982129c0381
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/examples/option.py
+SPDXID: SPDXRef-item851734
+FileChecksum: SHA1: 4fbe502545147fecad37bdce77eadb8703a5a597
+FileChecksum: MD5: bb90ccf28bf4d40eee1f4a6f68f9f4b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/examples/properties.py
+SPDXID: SPDXRef-item851735
+FileChecksum: SHA1: afadcee993af01bec154c51accddb05dd36ef766
+FileChecksum: MD5: 3a351877bdfee7ed6f979c3783a55687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/PKG-INFO.in
+SPDXID: SPDXRef-item851736
+FileChecksum: SHA1: 1289525d3afd97302c05f8f9f6e48a3aca507a98
+FileChecksum: MD5: bdba99ab95b3d993f31e114258120fde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/m4/ltversion.m4
+SPDXID: SPDXRef-item851738
+FileChecksum: SHA1: 3aae847c163fa6cc7c8241a3a49f98705538d55f
+FileChecksum: MD5: d936fd6b2025c9b5322f826117d7f30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/m4/libtool.m4
+SPDXID: SPDXRef-item851739
+FileChecksum: SHA1: 9b3f425d17beb3342dd9df8ee9d8fe7c090a1ce4
+FileChecksum: MD5: 2cc70ef55adb11e355f6e8c30dcab090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/m4/ltoptions.m4
+SPDXID: SPDXRef-item851740
+FileChecksum: SHA1: 9cd35d79da7776af14f21b259c64f130fa1a3536
+FileChecksum: MD5: 064af1799febaa676203302bbf359180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/m4/jhflags.m4
+SPDXID: SPDXRef-item851741
+FileChecksum: SHA1: ef03d3a5203fda57627529844fefc1e100608514
+FileChecksum: MD5: 7b6b5afb6548265e7cc6ba0be419b9d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/m4/as-ac-expand.m4
+SPDXID: SPDXRef-item851742
+FileChecksum: SHA1: fc1e084a3bd4193d0164e5e55f85d266e4fa56dd
+FileChecksum: MD5: be15e9fe12fc2a469ada1e800234e667
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/m4/ltsugar.m4
+SPDXID: SPDXRef-item851743
+FileChecksum: SHA1: 2028bffadfd9b989bcc63da90596101fe4ec20b9
+FileChecksum: MD5: fa2891f9060865871cbbaa1c6e2d96f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/m4/python.m4
+SPDXID: SPDXRef-item851744
+FileChecksum: SHA1: d6f82e48eac575d58dbf1bc6679c6c9b2fd6d0bc
+FileChecksum: MD5: bdbf23926e26db8087a8ea8b8c410ea5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item851745
+FileChecksum: SHA1: e21f085615f98d3751690c1615923e89160d5783
+FileChecksum: MD5: 22aa295bf5320aec7fba6756ff11058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/config.h.in
+SPDXID: SPDXRef-item851746
+FileChecksum: SHA1: f05bf0b4f6e8295d226f7d07b6e08dbd834a124c
+FileChecksum: MD5: 095b7d1f6e8f47c6028884a8f53165aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/Makefile.am
+SPDXID: SPDXRef-item851747
+FileChecksum: SHA1: 17a06413864256638bcdf0f3f66c49165d06b763
+FileChecksum: MD5: b0b3a1f75d034fc97072505b460085e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/AUTHORS
+SPDXID: SPDXRef-item851748
+FileChecksum: SHA1: 60df2749c653e238085e57461efbd54ddf6dff62
+FileChecksum: MD5: 81da95cf5b27ee81e4c68181ed6eee6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/config.sub
+SPDXID: SPDXRef-item851749
+FileChecksum: SHA1: d13a06e9f75d695d03bbc3973f732b47a635c075
+FileChecksum: MD5: f32edfea91a86edcbb7da9fb63e9149b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_fields.py
+SPDXID: SPDXRef-item851751
+FileChecksum: SHA1: 1272d004b35ad9d28efc8d8188decee38cbd1d84
+FileChecksum: MD5: 6ba9ac56452f8f1954d24f7d94c787ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_overrides_gdk.py
+SPDXID: SPDXRef-item851752
+FileChecksum: SHA1: dfc00d191c3232eb9a6b411d81ea4f49a0515f5f
+FileChecksum: MD5: d04decdf8837a060e118af72f1334310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_cairo.py
+SPDXID: SPDXRef-item851753
+FileChecksum: SHA1: 79ca81b64991ee5b5415bfc993f932cf902f5aec
+FileChecksum: MD5: b6116dd8dc217617b4cde796dacace6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_docstring.py
+SPDXID: SPDXRef-item851754
+FileChecksum: SHA1: b74676921ccb4d0daafc2977eb64a353e9ab0905
+FileChecksum: MD5: 8c8b31b2cc76423e1c25a170735f3238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_atoms.py
+SPDXID: SPDXRef-item851755
+FileChecksum: SHA1: 132feaafe46320df2b5a0c11eb2441af19d1db0c
+FileChecksum: MD5: b5e655f9496467e4bbf1907c87a9c8f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_import_machinery.py
+SPDXID: SPDXRef-item851756
+FileChecksum: SHA1: c19363edb84ad0c568751d19b1bc07c65e7ec7d0
+FileChecksum: MD5: 8854ddfe926c3f16f3d2f418499e3309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_option.py
+SPDXID: SPDXRef-item851757
+FileChecksum: SHA1: 764d3bede47513f931fc6b88272d2c511596c336
+FileChecksum: MD5: 9fdb9ffcb8ba28d85dbe4b058d80706b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_generictreemodel.py
+SPDXID: SPDXRef-item851758
+FileChecksum: SHA1: 3e88b20e8c8ce7ca9133fa528b048209007ce8b2
+FileChecksum: MD5: 75c653065c153b94b03b5aa0166f6959
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_gdbus.py
+SPDXID: SPDXRef-item851759
+FileChecksum: SHA1: 99f7fa8ce2323210b5acd433905376988c7e9746
+FileChecksum: MD5: 86ca5e6dce0d9a790693c2a293e35353
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/gimarshallingtestsextra.h
+SPDXID: SPDXRef-item851760
+FileChecksum: SHA1: 0b3812bdedb94d7e82681ed5cbfa5c6ee1f75cce
+FileChecksum: MD5: c287abba74304584bed4a6050a823672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/compat_test_pygtk.py
+SPDXID: SPDXRef-item851761
+FileChecksum: SHA1: 60940cf6264ccec45b52d8663688f701ac8fb445
+FileChecksum: MD5: c37ea21c5364098310bfee12dff51b25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/Makefile.in
+SPDXID: SPDXRef-item851762
+FileChecksum: SHA1: 9981d52f7d5f41202e5ba1b383e3dfbb926f19f6
+FileChecksum: MD5: 285b086c5ee467d7a7f3433c9e4fe004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_gio.py
+SPDXID: SPDXRef-item851763
+FileChecksum: SHA1: 12bb34911e74292e6b411e1899137fdc9e4c9525
+FileChecksum: MD5: 2e1fceacf7ca58ca17542a8e0eed19f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_mainloop.py
+SPDXID: SPDXRef-item851764
+FileChecksum: SHA1: fdd7309ff9b4f80d062460040ee123da1daa6b8f
+FileChecksum: MD5: b167bb1d926451c5606a18274bee134f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_gtype.py
+SPDXID: SPDXRef-item851765
+FileChecksum: SHA1: e16d35933c8183974bab90b02a8ca1a19a6403b9
+FileChecksum: MD5: bf35f69afa2cece0ae8a20f747f09451
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/gi/overrides/Regress.py
+SPDXID: SPDXRef-item851768
+FileChecksum: SHA1: c114e55f13f8a6f160201061717c1da87ec30f50
+FileChecksum: MD5: c1bc11d54787150e7310078961a2d1cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/gi/overrides/__init__.py
+SPDXID: SPDXRef-item851769
+FileChecksum: SHA1: 78b2c51d96cb678f669aca7e868d19c429e6be0c
+FileChecksum: MD5: 1cdca3de4f8849a3d0d82b678710e112
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/gi/__init__.py
+SPDXID: SPDXRef-item851770
+FileChecksum: SHA1: 78b2c51d96cb678f669aca7e868d19c429e6be0c
+FileChecksum: MD5: 1cdca3de4f8849a3d0d82b678710e112
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_typeclass.py
+SPDXID: SPDXRef-item851771
+FileChecksum: SHA1: f13f7abbf44c1b87d88ccdcd33b459a527b6e60a
+FileChecksum: MD5: c0665ce8dbea46bc062737c840e77174
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_internal_api.py
+SPDXID: SPDXRef-item851772
+FileChecksum: SHA1: 922bb39f801ab200af3a7c25615d65c6db7c9cb8
+FileChecksum: MD5: b13dc0348ca5f1bf1bb8a62cf53be403
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/compathelper.py
+SPDXID: SPDXRef-item851773
+FileChecksum: SHA1: 956cb3b6806df29341cbd841f5f7d9bfefdfbc5c
+FileChecksum: MD5: 1aa93cbe3a9f22345b3c80d5b05859bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test-floating.h
+SPDXID: SPDXRef-item851774
+FileChecksum: SHA1: 8517f698a399de2154bc544d15f8f6344407673c
+FileChecksum: MD5: 5069115837672944be4dd96ab14cb20f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/runtests.py
+SPDXID: SPDXRef-item851775
+FileChecksum: SHA1: d7c44ace8a65580066cf54082087bdf067b414dc
+FileChecksum: MD5: a745bac120f9d932fd48efb7b0aea360
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_glib.py
+SPDXID: SPDXRef-item851776
+FileChecksum: SHA1: 99843d8d062a238fb2d18307e44b8b1d1e76c20b
+FileChecksum: MD5: f888f035863a3ddd700de0f1a43409a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test-unknown.c
+SPDXID: SPDXRef-item851777
+FileChecksum: SHA1: 36d529954ef9a2c2ee3d45bd597fd2740e413bcd
+FileChecksum: MD5: ec0106c1e43affb04d8898d2e8cd492e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/runtests-windows.py
+SPDXID: SPDXRef-item851778
+FileChecksum: SHA1: 7c7a5ff25f59f642cae04fdd5e34d7f794f0a81c
+FileChecksum: MD5: 8a620ab75aaaf019e6327e5f3becfb75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test-thread.h
+SPDXID: SPDXRef-item851779
+FileChecksum: SHA1: 09292227d999f843ff673897168442bc5b2aeada
+FileChecksum: MD5: e6cf1a5473ad88b67628037d80a8e6b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_thread.py
+SPDXID: SPDXRef-item851780
+FileChecksum: SHA1: f7e9b4045f736feef8ec458d981a0b1c32a86e89
+FileChecksum: MD5: 85f47d06ef8562be2b521ffc209270a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/Makefile.am
+SPDXID: SPDXRef-item851781
+FileChecksum: SHA1: d8d90ddc1c7a1790304de7a90f0347ff58a8cdfc
+FileChecksum: MD5: c38c9a0651bf83292da3324b460aabd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/org.gnome.test.gschema.xml
+SPDXID: SPDXRef-item851782
+FileChecksum: SHA1: 677abcd28a2ec739c67c0cbb59b81dba97be8f8e
+FileChecksum: MD5: 436319c76800243604b1dc4f315a2ee0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/gimarshallingtestsextra.c
+SPDXID: SPDXRef-item851783
+FileChecksum: SHA1: a27b49a6055b772a9f3559bbce90d06b966df99d
+FileChecksum: MD5: 9e9bf07247dd048c95d21ef9532652a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_gobject.py
+SPDXID: SPDXRef-item851784
+FileChecksum: SHA1: 8bdbd53601a4c066b67ad2a7cd7e67debc528c7e
+FileChecksum: MD5: 8db32071f4a0f26dc0c277b2a341510c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_source.py
+SPDXID: SPDXRef-item851785
+FileChecksum: SHA1: 25e15b9e73820b1da1a2d47d5650665536cb5b24
+FileChecksum: MD5: 09f44b861d09dbdacf9819a9ec23536d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_object_marshaling.py
+SPDXID: SPDXRef-item851786
+FileChecksum: SHA1: 0f0980299d50bc591ac220c78066d4eb740c2376
+FileChecksum: MD5: 51156a0687234c187a2573866d989e64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_gi.py
+SPDXID: SPDXRef-item851787
+FileChecksum: SHA1: cf903e96c9994e71a4f4b06bf1cb063623b73d7b
+FileChecksum: MD5: 1508d93f17423fb570428bb0f77abe13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test-unknown.h
+SPDXID: SPDXRef-item851788
+FileChecksum: SHA1: cbe495a2b72e0afa5a00e797682b5a6ce0db8eda
+FileChecksum: MD5: 223b6c7fcdddd7581d24cf3b4e3d36fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_signal.py
+SPDXID: SPDXRef-item851789
+FileChecksum: SHA1: 96b60ed18bea744b7338699b2f3b68ff94996de0
+FileChecksum: MD5: 2710734cbd5a1556cf01286c6470c59e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/helper.py
+SPDXID: SPDXRef-item851790
+FileChecksum: SHA1: 102c00310e112aa7c45a5712bfd23ed019706aae
+FileChecksum: MD5: 9508bb95107cdbbd6c0bbb0319f9b40c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test-floating.c
+SPDXID: SPDXRef-item851791
+FileChecksum: SHA1: c9a1ce03a59ae81f24498c2ba4a63c548b77b887
+FileChecksum: MD5: 23c4660a4967fc694958cecefa607a86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_resulttuple.py
+SPDXID: SPDXRef-item851792
+FileChecksum: SHA1: f3027ebf02aab72ac1bfaa0bd911eb3776a2520b
+FileChecksum: MD5: 6090fad2ebdf225549b7ef715caefa55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/testmodule.py
+SPDXID: SPDXRef-item851793
+FileChecksum: SHA1: 092a80e23fc1e453fae1a5604e2fef7d0008555e
+FileChecksum: MD5: eff6b9e0fb4215325f0da1dcb29ac5b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_iochannel.py
+SPDXID: SPDXRef-item851794
+FileChecksum: SHA1: 9247391722d25aae6bbc4046350ef28cfaab23a6
+FileChecksum: MD5: cceab5c983957196dcbdd8714bcb882f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_error.py
+SPDXID: SPDXRef-item851795
+FileChecksum: SHA1: 1b3959533ed552fc16ff5879470884f3f151f38a
+FileChecksum: MD5: f678d5ad895ad488f7ff28d013a0c6cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/testhelpermodule.c
+SPDXID: SPDXRef-item851796
+FileChecksum: SHA1: fe095c459c88fc9bd5f4c9942a4e0f135a7daba9
+FileChecksum: MD5: cd819918ecbd927787ea96a8da24f3a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_repository.py
+SPDXID: SPDXRef-item851797
+FileChecksum: SHA1: 656b174ea578c19f5670e967585bc299e02f6536
+FileChecksum: MD5: 5da36fc3199c5e84f788935b52a4e1bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_overrides_pango.py
+SPDXID: SPDXRef-item851798
+FileChecksum: SHA1: 6cdac2e18e4569b9e4a78e2cf05aab0c89a2bd8a
+FileChecksum: MD5: 4a5f0e18e381f2dae5bd5069846efb58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_everything.py
+SPDXID: SPDXRef-item851799
+FileChecksum: SHA1: a22ebfcdc6f140fa602600fb3c38adf07cf9df12
+FileChecksum: MD5: 60834276f50179a6f9badb7017e332bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/te_ST@nouppera
+SPDXID: SPDXRef-item851800
+FileChecksum: SHA1: 1a78cd34d82b08e348b4a3a963e14fcdf5ff162e
+FileChecksum: MD5: 5ffa527e8a9c811027cfad1e36fcafc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_overrides_glib.py
+SPDXID: SPDXRef-item851801
+FileChecksum: SHA1: 3d5af0cbd429b9570abc72327b244b2ad0a13740
+FileChecksum: MD5: 5dac7e99800fbedb79ab584f5597ce15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_subprocess.py
+SPDXID: SPDXRef-item851802
+FileChecksum: SHA1: ab0e10aa05b9df9e010b811e8549848fb2ecd4eb
+FileChecksum: MD5: fcf4e0a515d54ca74265891974b477ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_properties.py
+SPDXID: SPDXRef-item851803
+FileChecksum: SHA1: fd0f4d94b831fd0a0677b45ee15951d0d20516c4
+FileChecksum: MD5: 34713074007a7b8863f40d54314a9660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test-thread.c
+SPDXID: SPDXRef-item851804
+FileChecksum: SHA1: ecfbe6e46c808751eaf2800bf61640eeb73022b4
+FileChecksum: MD5: 8dea1c66ad706bddb9cd1abd2f03a690
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_interface.py
+SPDXID: SPDXRef-item851805
+FileChecksum: SHA1: 716619a3a27d76164cc647f176bf0f1dcd4fbd31
+FileChecksum: MD5: 3ff8cf7d14e13cabe61e4aa604ff991c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/tests/test_overrides_gtk.py
+SPDXID: SPDXRef-item851806
+FileChecksum: SHA1: f51a2da293f84b9780310eb70ac063299525cc9d
+FileChecksum: MD5: 7974b478ea803e60eaf50ef6a6dacf00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/missing
+SPDXID: SPDXRef-item851807
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/README
+SPDXID: SPDXRef-item851808
+FileChecksum: SHA1: 855df2255de674fe23e9c437190312d5f2631929
+FileChecksum: MD5: 19d94b87ef949c2ff2a0d179adfa355b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/pygobject-3.0.pc.in
+SPDXID: SPDXRef-item851809
+FileChecksum: SHA1: cfb0c8079baae6e5be913260a06847f351e19d0f
+FileChecksum: MD5: 40cd00acbef48e6cf87fb3c3ca86145c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/setup.py
+SPDXID: SPDXRef-item851810
+FileChecksum: SHA1: a5b76d9c10afcd590a5b502863a8013bb02edab0
+FileChecksum: MD5: 752ddf194f25303b5b5595856b34860e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/.pc/applied-patches
+SPDXID: SPDXRef-item851812
+FileChecksum: SHA1: 247970271391cee35766154ec1f2b1e438542a28
+FileChecksum: MD5: 97351f64543c893a63529f58fae0412d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/.pc/.quilt_series
+SPDXID: SPDXRef-item851813
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/.pc/.version
+SPDXID: SPDXRef-item851814
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/.pc/0001-configure.ac-Don-t-use-gnome-common-macros.patch/.timestamp
+SPDXID: SPDXRef-item851816
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/.pc/0001-configure.ac-Don-t-use-gnome-common-macros.patch/configure.ac
+SPDXID: SPDXRef-item851817
+FileChecksum: SHA1: 774a67154c4a0f0b03be27728b9cfa85429161e1
+FileChecksum: MD5: fa92650dfa7285ac46f8e79259d5e609
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/.pc/.quilt_patches
+SPDXID: SPDXRef-item851818
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/.pc/0001-configure.ac-add-sysroot-path-to-GI_DATADIR-don-t-se.patch/.timestamp
+SPDXID: SPDXRef-item851820
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/.pc/0001-configure.ac-add-sysroot-path-to-GI_DATADIR-don-t-se.patch/configure.ac
+SPDXID: SPDXRef-item851821
+FileChecksum: SHA1: 7b7613c4572069048d1c728563b2a6d2869f3eda
+FileChecksum: MD5: 72854a533c4ed679f9627d5a1e61f0b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/py-compile
+SPDXID: SPDXRef-item851822
+FileChecksum: SHA1: 9791f377a7882b3e5065bed4d90459d28de326e9
+FileChecksum: MD5: d02d452e65710ac993cb2d39dbbb1153
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/configure.ac
+SPDXID: SPDXRef-item851823
+FileChecksum: SHA1: d8f04298b3aa80264713fc4cacd0ed6d3146b9b3
+FileChecksum: MD5: 5df0d71ad0c64ba05405b088db1744fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/INSTALL
+SPDXID: SPDXRef-item851824
+FileChecksum: SHA1: fa1eca270cb37e76db7238b8b9211f2350aa39d2
+FileChecksum: MD5: ce6ce0281045fd70ce467094f18def1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/patches/series
+SPDXID: SPDXRef-item851828
+FileChecksum: SHA1: 3e1d4e0ee393398663543a57c7ca8245efcb5041
+FileChecksum: MD5: 169374f704d9fce4fb21d6df7967ab15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/config.guess
+SPDXID: SPDXRef-item851829
+FileChecksum: SHA1: c6204f8ddf6852969b956c464199b71d7dfe4b7e
+FileChecksum: MD5: e6658e52c79b2c368296c883d90979b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/autogen.sh
+SPDXID: SPDXRef-item851830
+FileChecksum: SHA1: 8ba1da0e17f4451273a1152a6257b325870b0b0a
+FileChecksum: MD5: 0fea752425d42d1b6dde35643cc5e0f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/PKG-INFO
+SPDXID: SPDXRef-item851831
+FileChecksum: SHA1: 14487bdc212912b576f6b65c589232b8eae66b34
+FileChecksum: MD5: ed73ec49b88364b0694561b338e9ecd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/depcomp
+SPDXID: SPDXRef-item851832
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pygobject-3.24.1/ChangeLog
+SPDXID: SPDXRef-item851833
+FileChecksum: SHA1: e26a8732503a6fc5aee7fdf82a3e3c7c98021604
+FileChecksum: MD5: ecaccbd2899d5ff221cf5c7c98a958bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-configure.ac-add-sysroot-path-to-GI_DATADIR-don-t-se.patch
+SPDXID: SPDXRef-item851834
+FileChecksum: SHA1: ec9a4e08abfa14219294c001cca00a2dbca3dd90
+FileChecksum: MD5: 2ece4dc6772cbb11ae5ab282eb0be841
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

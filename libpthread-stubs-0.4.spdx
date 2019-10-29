@@ -1,0 +1,208 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libpthread-stubs-0.4-r0-patched.tar.gz_1571458095.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:08:15Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libpthread-stubs
+PackageVersion: 0.4
+PackageFileName: libpthread-stubs-0.4-r0-patched.tar.gz
+SPDXID: SPDXRef-upload347
+PackageDownloadLocation: http://xcb.freedesktop.org/dist/libpthread-stubs-0.4.tar.bz2
+PackageHomePage: http://xcb.freedesktop.org
+PackageSummary: <text>Library that provides weak aliases for pthread functions</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libpthread-stubs version 0.4</text>
+PackageChecksum: SHA1: 5e04cb2a1dbd44455ed90c89e657d9601d0b20ed
+PackageChecksum: MD5: 2590a80ae02e7bec87909559ef2295d1
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload347
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/compile
+SPDXID: SPDXRef-item854040
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/install-sh
+SPDXID: SPDXRef-item854041
+FileChecksum: SHA1: 2e3051b2027eaf42b949f495503e7c9090f4113d
+FileChecksum: MD5: b965f98f97ba53fa9e2ed5528caa4efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/aclocal.m4
+SPDXID: SPDXRef-item854042
+FileChecksum: SHA1: a0ab5539c82dc3768e79f356ed669520188a4b19
+FileChecksum: MD5: 2513b148a753e91c709867ed24eb1dff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/Makefile.in
+SPDXID: SPDXRef-item854043
+FileChecksum: SHA1: bf72ffa909568d84c9b364144a19125a86f3b1b6
+FileChecksum: MD5: 5b3250ad76b9fd532f6cedd1e58e7388
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/COPYING
+SPDXID: SPDXRef-item854044
+FileChecksum: SHA1: 747f912a17321a200ab786514210c32116eb51b4
+FileChecksum: MD5: 6edc1fea03d959f0c2d743fe5ca746ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/configure
+SPDXID: SPDXRef-item854045
+FileChecksum: SHA1: f05037396bb5cc032b0e1da275c38641c3bcb79c
+FileChecksum: MD5: 3d43304551d26d89166123b908c6e6da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/Makefile.am
+SPDXID: SPDXRef-item854046
+FileChecksum: SHA1: b3a8cd4b04dc7306717961c08dd33e35c1624ecb
+FileChecksum: MD5: e32d5438513b27ca7dde2247185a5f55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/missing
+SPDXID: SPDXRef-item854047
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/README
+SPDXID: SPDXRef-item854048
+FileChecksum: SHA1: b293d992c580b0ece9aba5ac0ee79aaf1d48ead0
+FileChecksum: MD5: 4e1025525d09edb70ab806029dcc426c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/configure.ac
+SPDXID: SPDXRef-item854049
+FileChecksum: SHA1: eec26b8d283509798b17b56cd9a6ee40cd464d2b
+FileChecksum: MD5: 3d739738f9bd787029f107806b929dd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libpthread-stubs-0.4/pthread-stubs.pc.in
+SPDXID: SPDXRef-item854050
+FileChecksum: SHA1: 05600edbd16ff99d00e318babcc9b8938d72134b
+FileChecksum: MD5: 75a06df8f149e59dff7db5487a128c92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

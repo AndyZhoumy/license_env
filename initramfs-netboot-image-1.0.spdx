@@ -1,0 +1,59 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_initramfs-netboot-image-1.0-r0-patched.tar.gz_1571459273.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:27:53Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: initramfs-netboot-image
+PackageVersion: 1.0
+PackageFileName: initramfs-netboot-image-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload405
+PackageDownloadLocation: 
+PackageHomePage: 
+PackageSummary: <text>initramfs-netboot-image version 1.0-r0</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>initramfs-netboot-image version 1.0</text>
+PackageChecksum: SHA1: 7a12412bf29aefef5a77e1b9933e1c8a6c06d0d3
+PackageChecksum: MD5: a2991b3d461c9fd15db00c6164212e87
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload405
+
+##--------------------------
+## File Information
+##--------------------------
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+

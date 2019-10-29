@@ -1,0 +1,1071 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_phone-1.0+gitAUTOINC+25da2166ac-r0-patched.tar.gz_1571458963.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:22:43Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: phone
+PackageVersion: 1.0+gitAUTOINC+25da2166ac
+PackageFileName: phone-1.0+gitAUTOINC+25da2166ac-r0-patched.tar.gz
+SPDXID: SPDXRef-upload392
+PackageDownloadLocation: git://gerrit.automotivelinux.org/gerrit/apps/phone;protocol=https;branch=guppy
+PackageHomePage: https://gerrit.automotivelinux.org/gerrit/#/admin/projects/apps/phone
+PackageSummary: <text>Phone for CES2017 AGL Demonstration</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>phone version 1.0+gitAUTOINC+25da2166ac</text>
+PackageChecksum: SHA1: 1fe5fd2a952e1cf1e27224dc71cb7c37a5eb9776
+PackageChecksum: MD5: 911ecbdc875948b810143ac5a98f7da6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload392
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/git/autobuild/linux/autobuild
+SPDXID: SPDXRef-item935026
+FileChecksum: SHA1: 0ba30c85ad1370eb0469bbfdb6f626994d6f1300
+FileChecksum: MD5: ddc5dc4b80953b1c7e01ab4f15dd98db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/autobuild/agl/autobuild
+SPDXID: SPDXRef-item935028
+FileChecksum: SHA1: 3dcd5ed161e753199ceb412ee973bcdd038400c7
+FileChecksum: MD5: 63bceedc764d9b47215979a8bde79fec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/phone.pro
+SPDXID: SPDXRef-item935029
+FileChecksum: SHA1: 41264d95e5b4d7f949aa19b2841b5aef2be234dc
+FileChecksum: MD5: 51ffbd27a253b979f74ea036c1eed2b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.gitreview
+SPDXID: SPDXRef-item935030
+FileChecksum: SHA1: 7f58c61606be5dcf31bbc70ee61e5746c9050f2d
+FileChecksum: MD5: b417cc0f4a066a029caf10dd2cbe0b1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/config
+SPDXID: SPDXRef-item935032
+FileChecksum: SHA1: 2efbbe91c6d2a6e1ce98c8cf751f726fa408070a
+FileChecksum: MD5: 11a06692c63aaee751d402339837b097
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/packed-refs
+SPDXID: SPDXRef-item935034
+FileChecksum: SHA1: 68add442afc295ccae9254c2c68c2dedb521e02e
+FileChecksum: MD5: 64973760c5b6d489c8d96cacb85d7eaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/master
+SPDXID: SPDXRef-item935037
+FileChecksum: SHA1: 81fe94d531f6d4eca770edd54118616df230023e
+FileChecksum: MD5: bc24681b3358607739454a74c08bb28b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/guppy
+SPDXID: SPDXRef-item935038
+FileChecksum: SHA1: 16ae6fa7c5a266434076b8fa5a0ef739e8cdc073
+FileChecksum: MD5: dab37db41ca69bdec8bb6511d1e517b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item935042
+FileChecksum: SHA1: d9427cda09aba1cdde5c69c2b13c905bddb0bc51
+FileChecksum: MD5: 73a00957034783b7b5c8294c54cd3e12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/index
+SPDXID: SPDXRef-item935043
+FileChecksum: SHA1: d8e15e57c68bbb727cc5538918a7327e8915b405
+FileChecksum: MD5: 9fec299d1096bc1fc844aefaa72b242f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/master
+SPDXID: SPDXRef-item935047
+FileChecksum: SHA1: 393c7ad3a7e4a9e4e3b8e268448c6cf2c814f8b4
+FileChecksum: MD5: d215483f7a01e685795bda94b380ec8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/guppy
+SPDXID: SPDXRef-item935048
+FileChecksum: SHA1: a4fc1e7b977d889cd1aa7c15f929c502b10ea7e8
+FileChecksum: MD5: 555c58075e3608da724737bd71a5bbfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item935051
+FileChecksum: SHA1: 393c7ad3a7e4a9e4e3b8e268448c6cf2c814f8b4
+FileChecksum: MD5: d215483f7a01e685795bda94b380ec8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/HEAD
+SPDXID: SPDXRef-item935052
+FileChecksum: SHA1: 810d7676d63beeca5bf544c361a4cb14094b8d19
+FileChecksum: MD5: f9aabfc7c24cd72ea735993f6f35f23e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/description
+SPDXID: SPDXRef-item935053
+FileChecksum: SHA1: 9635f1b7e12c045212819dd934d809ef07efa2f4
+FileChecksum: MD5: a0a7c3fff21f2aea3cfa1d0316dd816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/objects/info/alternates
+SPDXID: SPDXRef-item935057
+FileChecksum: SHA1: 4dbecfb7b03b83f4440c22b134461ef7c09e4689
+FileChecksum: MD5: c619423d3e9c84d16b7aee0b21ba886b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/info/exclude
+SPDXID: SPDXRef-item935059
+FileChecksum: SHA1: c879df015d97615050afa7b9641e3352a1e701ac
+FileChecksum: MD5: 036208b4a1ab4a235d75c181e685e5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/commit-msg.sample
+SPDXID: SPDXRef-item935061
+FileChecksum: SHA1: ee1ed5aad98a435f2020b6de35c173b75d9affac
+FileChecksum: MD5: 579a3c1e12a1e74a98169175fb913012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/post-update.sample
+SPDXID: SPDXRef-item935062
+FileChecksum: SHA1: b614c2f63da7dca9f1db2e7ade61ef30448fc96c
+FileChecksum: MD5: 2b7ea5cee3c49ff53d41e00785eb974c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/update.sample
+SPDXID: SPDXRef-item935063
+FileChecksum: SHA1: e729cd61b27c128951d139de8e7c63d1a3758dde
+FileChecksum: MD5: 517f14b9239689dff8bda3022ebd9004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-commit.sample
+SPDXID: SPDXRef-item935064
+FileChecksum: SHA1: 36aed8976dcc08b5076844f0ec645b18bc37758f
+FileChecksum: MD5: 01b1688f97f94776baae85d77b06048b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/prepare-commit-msg.sample
+SPDXID: SPDXRef-item935065
+FileChecksum: SHA1: 2b6275eda365cad50d167fe3a387c9bc9fedd54f
+FileChecksum: MD5: 7dfe15854212a30f346da5255c1d794b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/applypatch-msg.sample
+SPDXID: SPDXRef-item935066
+FileChecksum: SHA1: 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
+FileChecksum: MD5: ce562e08d8098926a3862fc6e7905199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-push.sample
+SPDXID: SPDXRef-item935067
+FileChecksum: SHA1: 5c8518bfd1d1d3d2c1a7194994c0a16d8a313a41
+FileChecksum: MD5: 3c5989301dd4b949dfa1f43738a22819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-applypatch.sample
+SPDXID: SPDXRef-item935068
+FileChecksum: SHA1: f208287c1a92525de9f5462e905a9d31de1e2d75
+FileChecksum: MD5: 054f9ffb8bfe04a599751cc757226dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-rebase.sample
+SPDXID: SPDXRef-item935069
+FileChecksum: SHA1: 18be3eb275c1decd3614e139f5a311b75f1b0ab8
+FileChecksum: MD5: 3ff6ba9cf6d8e5332978e057559b5562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/HEAD
+SPDXID: SPDXRef-item935070
+FileChecksum: SHA1: e51ca2d47fe07bcf67697ae5b6bb9828ddbaafbd
+FileChecksum: MD5: bb971c55ccd418fda0ea83de0ee285c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/phone.qrc
+SPDXID: SPDXRef-item935072
+FileChecksum: SHA1: 464007b5945c9d246cea7f28982bc69c25a73b22
+FileChecksum: MD5: c451e832704bacb943c41044f17b45ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/ContactsView.qml
+SPDXID: SPDXRef-item935073
+FileChecksum: SHA1: da6757f47ed277c733cbd06d6741c8ea085ee0b3
+FileChecksum: MD5: c33bc83345ae5cce31e1d942008f7e8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/config.tests/libhomescreen/libhomescreen.pro
+SPDXID: SPDXRef-item935076
+FileChecksum: SHA1: 03626ae5da2759415f67cc4a0a407246fa80f388
+FileChecksum: MD5: 7794ad61968ffa85c1cb52c26dac5817
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/config.tests/libhomescreen/libhomescreen.cpp
+SPDXID: SPDXRef-item935077
+FileChecksum: SHA1: c2f2e9cb45d76c44a9b54db964426e16ff466fb8
+FileChecksum: MD5: cda7fef0ed3b39b16b2ecf7e91d6e4d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/app.pri
+SPDXID: SPDXRef-item935078
+FileChecksum: SHA1: 49c4c966ac9a3313705b777cb2ca3582b0c994da
+FileChecksum: MD5: 5aa074d516878a0511a01a45ca605304
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/TabImageButton.qml
+SPDXID: SPDXRef-item935079
+FileChecksum: SHA1: d21c0433544c90c9a51cbdd5dc426f229c7b5ee8
+FileChecksum: MD5: c88340443d9d02bb798729a25f567db0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-3.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/Phone.qml
+SPDXID: SPDXRef-item935080
+FileChecksum: SHA1: dfd7b079cc025f72772841ec133f031853440500
+FileChecksum: MD5: 217ddafd46404b055522a26842284dbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/audio.qrc
+SPDXID: SPDXRef-item935081
+FileChecksum: SHA1: 7e5538e8502c289ad311f1ba60eab9a0cd15aade
+FileChecksum: MD5: 9ee31c993b9e4e3bfc7323bf4e3cac93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/fileplayer.cpp
+SPDXID: SPDXRef-item935082
+FileChecksum: SHA1: da306de1d509af73d68cb1a61f65e12930cb4833
+FileChecksum: MD5: 3dae00a67ecc2aca3fcef0a9b8d4edf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/numbertype.h
+SPDXID: SPDXRef-item935083
+FileChecksum: SHA1: aa8f0367eae42f7654c3f8c6a62ee54866a5211a
+FileChecksum: MD5: f4b3afc65f89db7c1cda6e9e99f22908
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/main.cpp
+SPDXID: SPDXRef-item935084
+FileChecksum: SHA1: 95d57f9a631ecd66dd691a436dad9189a3292ac7
+FileChecksum: MD5: b3096af11477d535b6e05caf668fe09a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_1_Inactive-01.svg
+SPDXID: SPDXRef-item935086
+FileChecksum: SHA1: 740053c2d6ed5b2846924af5e8195d23b99ac3ee
+FileChecksum: MD5: d72272b32762d5b065e5b8aa08b39410
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_ContactScreen_ImageHolder-01.svg
+SPDXID: SPDXRef-item935087
+FileChecksum: SHA1: 212e00c33e8460715e14924bb7c7ed96ce7f81fa
+FileChecksum: MD5: 65c099a308f433cdd5319bb85cde5f28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_NumberSign_Active-01.svg
+SPDXID: SPDXRef-item935088
+FileChecksum: SHA1: 33cacec1d79d30e4cb6ee5228e3032f028bbb2e9
+FileChecksum: MD5: 5117b076af74cc0a802c760a3f04fbdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/ic_dialpad_48px.svg
+SPDXID: SPDXRef-item935089
+FileChecksum: SHA1: 728aae415abdd7f43a607f5f4a38bd84387454c7
+FileChecksum: MD5: 0004eb8e29414768d63b08448a1f96ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_asterisk_Active-01.svg
+SPDXID: SPDXRef-item935090
+FileChecksum: SHA1: 3d5c748bbd4e0858d12ceeaad19fd2d25c3dfb6c
+FileChecksum: MD5: b08bbdab2591d36ab06850fdaa711220
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_ContactScreen_SearchIcon-01.svg
+SPDXID: SPDXRef-item935091
+FileChecksum: SHA1: 747409d18a19c0da972250432dc450690273eed3
+FileChecksum: MD5: dcbc0b2b96e3fac4f576e334dba2192e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_7_Active-01.svg
+SPDXID: SPDXRef-item935092
+FileChecksum: SHA1: 5cf808bed567235606a17263eaba1325aa25ece8
+FileChecksum: MD5: 2d75ff731976d679b84a67b4214fd1eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_9_Active-01.svg
+SPDXID: SPDXRef-item935093
+FileChecksum: SHA1: 058c4509f1aafb376f39463a838c74d3fd3b4160
+FileChecksum: MD5: c7eee841db02766300c0548c5be31c97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_4_Inactive-01.svg
+SPDXID: SPDXRef-item935094
+FileChecksum: SHA1: ac193abd9f89070f70f5a01d3c52b5505535fc81
+FileChecksum: MD5: 1ded77c8d77a0f69ef3f741664942525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_4_Active-01.svg
+SPDXID: SPDXRef-item935095
+FileChecksum: SHA1: 1b0beee56476887b03833356ff87155fe2699d25
+FileChecksum: MD5: b826008c29f46f8da87674bf072bb396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_3_Active-01.svg
+SPDXID: SPDXRef-item935096
+FileChecksum: SHA1: b585763ff703fafafe183a2d21d850718245e781
+FileChecksum: MD5: ddf5398ea0133d537c8bce2bde9f23f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_3_Inactive-01.svg
+SPDXID: SPDXRef-item935097
+FileChecksum: SHA1: d553a00ae3d2376809a14c36fde954fcd4986117
+FileChecksum: MD5: cebcf925dd8d08aa4050c2684fb379de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_5_Active-01.svg
+SPDXID: SPDXRef-item935098
+FileChecksum: SHA1: 95112968f137b97c0a36c12ad851cedf56e512ed
+FileChecksum: MD5: b0d44815536e68a748c95dabb2c95856
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_1_Active-01.svg
+SPDXID: SPDXRef-item935099
+FileChecksum: SHA1: 08bd7253a13e92b8560ccd18e7f0e0a5885043e8
+FileChecksum: MD5: ff8c527eddb065241e2fc75ec1a7d6ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Contact_BlankPhoto.svg
+SPDXID: SPDXRef-item935100
+FileChecksum: SHA1: 119118bde652fd9eb3416a56aa888fc74514015b
+FileChecksum: MD5: 8704ebd280aa8a46f6d33321d273cfaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_8_Active-01.svg
+SPDXID: SPDXRef-item935101
+FileChecksum: SHA1: cb0dc17199405b16cc6d0d46920060f4ed9c7448
+FileChecksum: MD5: d657a2b3a863eed6b5d1792b5ba5be39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_6_Inactive-01.svg
+SPDXID: SPDXRef-item935102
+FileChecksum: SHA1: c64901aab28ed9f77a3c416b633c477609fe83fb
+FileChecksum: MD5: d2b4d465cc4e1102d2957e606366b7d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_Blank_Inactive-01.svg
+SPDXID: SPDXRef-item935103
+FileChecksum: SHA1: 4731daa0150186b4e1dc7debc19467d388b81f4f
+FileChecksum: MD5: b21ba1c0e3af309b8cd1002ffd050c2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_0_Active-01.svg
+SPDXID: SPDXRef-item935104
+FileChecksum: SHA1: 5dcdc429464299dd8518a10c7bf5f86c41c9f449
+FileChecksum: MD5: 9deec1f48cf898e34fcd7349a927c28b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_NumberSign_Inactive-01.svg
+SPDXID: SPDXRef-item935105
+FileChecksum: SHA1: 6e9a01c6c170d5d1846080054a4e2a128ee5d250
+FileChecksum: MD5: 0416e627573d2be081c23af96102863e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_8_Inactive-01.svg
+SPDXID: SPDXRef-item935106
+FileChecksum: SHA1: 1163269aceb842064acd60b43251efaaa69d2114
+FileChecksum: MD5: 7fa65f1a82c9e02654667db9ba39897f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_9_Inactive-01.svg
+SPDXID: SPDXRef-item935107
+FileChecksum: SHA1: 7ac9255143fcf2cb9afc1c65f119fdf18ed00fd2
+FileChecksum: MD5: 424f26220b8f1db27b1fcc48f117e207
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Contacts-01.svg
+SPDXID: SPDXRef-item935108
+FileChecksum: SHA1: 8f3bf8be287b3bcf7f525f103941ca1f69dc9970
+FileChecksum: MD5: ee570b7ab1db63825c9ab58a5efca6ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_Blank_Active-01.svg
+SPDXID: SPDXRef-item935109
+FileChecksum: SHA1: c22ad2568fb43ffc53a08c0733dca485deba5892
+FileChecksum: MD5: bee680fe534cf7d8223f3e4ee195990a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Call.svg
+SPDXID: SPDXRef-item935110
+FileChecksum: SHA1: 3f9d3b226dcad984c535cdc38d3e2f705371ba59
+FileChecksum: MD5: c3da50c6ec8af6c8d2195895e9060089
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Contact_DividingLine.svg
+SPDXID: SPDXRef-item935111
+FileChecksum: SHA1: 394e74e77562dd7f5b8f7c17e36b109664dca7f5
+FileChecksum: MD5: 945fc3ae695709a22cffd5b37512676d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_2_Active-01.svg
+SPDXID: SPDXRef-item935112
+FileChecksum: SHA1: 7b563fcba8ccfbda7128a1c3b1606976107127f0
+FileChecksum: MD5: 7fe74e4ac7029397c8840b202db7e18b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/images.qrc
+SPDXID: SPDXRef-item935113
+FileChecksum: SHA1: 76fd4d37899a5c39a905c45585002058ae0241c3
+FileChecksum: MD5: 9fb2c0a40be08aeff5a28443ae8fd894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/ic_contacts_48px.svg
+SPDXID: SPDXRef-item935114
+FileChecksum: SHA1: f4a3c74543665a3280590fce7d2868079e100c7a
+FileChecksum: MD5: bb4bba8ec2db22019de58eee7bd257e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/ic_schedule_48px.svg
+SPDXID: SPDXRef-item935115
+FileChecksum: SHA1: 327131e3f8ed2584268066f7a2a83d0179c9e65e
+FileChecksum: MD5: 77885dd36d0e5f3ece392f685fec1489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_6_Active-01.svg
+SPDXID: SPDXRef-item935116
+FileChecksum: SHA1: 04dbf069a4da7c53a57bbdb64c68ec33029fe1ed
+FileChecksum: MD5: 9b2c25fc0be270e27afa2a9b4bdd1fca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Hangup.svg
+SPDXID: SPDXRef-item935117
+FileChecksum: SHA1: 5590e4882ad89a11897d561da9ef76b1d5ca3d5f
+FileChecksum: MD5: 79ab4e69430a4897d231454e7af65d41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Back_Icon.svg
+SPDXID: SPDXRef-item935118
+FileChecksum: SHA1: 7d5c5d2378820f2510fb86c3453ebbd24fd8b97c
+FileChecksum: MD5: 8532432ca564e24483690e5d25526513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_2_Inactive-01.svg
+SPDXID: SPDXRef-item935119
+FileChecksum: SHA1: 621cada9c4c2a82bc620d50a024ded5d7a4dd7c6
+FileChecksum: MD5: 1c45b2a4ae307ad030ad01d190b2d972
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_7_Inactive-01.svg
+SPDXID: SPDXRef-item935120
+FileChecksum: SHA1: 5f23be3b0be043da122daedd26337a37f7792b67
+FileChecksum: MD5: 1836e066c174e17edd517f79f5754c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/ic_call_made_48px.svg
+SPDXID: SPDXRef-item935121
+FileChecksum: SHA1: a026bb936836812f6cc6dfc6c40b21ed630b2645
+FileChecksum: MD5: 5cae8c13828f6d0c063e0cb54fe7c6e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_5_Inactive-01.svg
+SPDXID: SPDXRef-item935122
+FileChecksum: SHA1: c48715f24fc48a4c88f7d1879e704a3b6ed195ae
+FileChecksum: MD5: e5ff38ca5fd38be89230c71f9334367e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_ContactScreen_X-01.svg
+SPDXID: SPDXRef-item935123
+FileChecksum: SHA1: 0c0de56cd3bb6eeb4429508275d345dc0f7f4f1f
+FileChecksum: MD5: 7a902a9f6d1556103b8d47ca0a416b4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/ic_call_received_48px.svg
+SPDXID: SPDXRef-item935124
+FileChecksum: SHA1: 5a45ba6fbc1810373d2684c682a3f07e52d8e1a0
+FileChecksum: MD5: 1b2a72aab914113f9a04bfd3bc1b43fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_asterisk_Inactive-01.svg
+SPDXID: SPDXRef-item935125
+FileChecksum: SHA1: 5b13d3bfb476f1a044f0c06afedbf276ff9a31c8
+FileChecksum: MD5: d2fca86ac0aafd8006616ae7eb875b6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/HMI_Phone_Button_0_Inactive-01.svg
+SPDXID: SPDXRef-item935126
+FileChecksum: SHA1: 77a4d679e3fa818aedb46a9b4ab40c362f324ce8
+FileChecksum: MD5: dc020c8d7cc53dcd8a62c5890154ac56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/images/ic_call_missed_48px.svg
+SPDXID: SPDXRef-item935127
+FileChecksum: SHA1: 2724af4f91d3eb754c2489de56d30ae1381d6db7
+FileChecksum: MD5: e3249661895e2c19ab39a2d0b0a5821b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/fileplayer.h
+SPDXID: SPDXRef-item935128
+FileChecksum: SHA1: 85ba9deaeb4e44c5f72f804d0b47553285c8209a
+FileChecksum: MD5: 613d79e2da228b6f5f499ce689e82168
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/app.pro
+SPDXID: SPDXRef-item935129
+FileChecksum: SHA1: 255efffd8fa7a5fa7a20f9a51a5b7cc11d58fd0e
+FileChecksum: MD5: faf9bc7287f58e0d06cc758d4a8ba386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/phone.h
+SPDXID: SPDXRef-item935130
+FileChecksum: SHA1: 05349ca70c8d0d3e2eb2c520d6b6f8d59b152abf
+FileChecksum: MD5: 33a8b9b193db95b4d2a8e9e0e5ba38a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/Recents.qml
+SPDXID: SPDXRef-item935131
+FileChecksum: SHA1: 0e5e5d30b802b6d3b0b5c81e65d3d4d689e88323
+FileChecksum: MD5: b9726d6b8076b0d5ffb620d51813dace
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/phone.cpp
+SPDXID: SPDXRef-item935132
+FileChecksum: SHA1: af9f4af5e64f8f3880f3d746a1a8dc00feca82f4
+FileChecksum: MD5: da6c262912015f3105b5a085a7f1aef6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/Dialer.qml
+SPDXID: SPDXRef-item935133
+FileChecksum: SHA1: 3871c7848f3fa27087226ec58f33d0f72fe1c13b
+FileChecksum: MD5: 15f47cefb9e29cafbc5f95a5b1cfed74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/app/Phone.wav
+SPDXID: SPDXRef-item935134
+FileChecksum: SHA1: 5c7c1040717fe883a8ab7bc93da8eff6614b5972
+FileChecksum: MD5: 6ad5c7d8050ec2720eadf17b22421d57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENSE
+SPDXID: SPDXRef-item935135
+FileChecksum: SHA1: 0e6a6d22000e917d62d1f3d05478965773edc190
+FileChecksum: MD5: ae6497158920d9524cf208c09cc4c984
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/package/config.xml
+SPDXID: SPDXRef-item935137
+FileChecksum: SHA1: 49046b432fe14c4abfcb1e761ade3b5b02a0a4c5
+FileChecksum: MD5: 078fea53e03853a07a18d824ad468a56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/package/package.pro
+SPDXID: SPDXRef-item935138
+FileChecksum: SHA1: becc478f883eec44c0efd00868eb5e05bf3dcf88
+FileChecksum: MD5: 67651284aa013bd9d9a2ba6ac65e23b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/package/icon.svg
+SPDXID: SPDXRef-item935139
+FileChecksum: SHA1: 3d8e5519afec9c9582e08f59e5f313c94a29e428
+FileChecksum: MD5: dcb225303e677079040f7ed884bdf334
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+

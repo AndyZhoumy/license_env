@@ -1,0 +1,283 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_dri2proto-2.8-r0-patched.tar.gz_1571459819.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:36:59Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: dri2proto
+PackageVersion: 2.8
+PackageFileName: dri2proto-2.8-r0-patched.tar.gz
+SPDXID: SPDXRef-upload416
+PackageDownloadLocation: http://xorg.freedesktop.org/releases/individual/proto/dri2proto-2.8.tar.bz2
+PackageHomePage: http://www.x.org
+PackageSummary: <text>DRI2: Direct Rendering Infrastructure 2 headers</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>dri2proto version 2.8</text>
+PackageChecksum: SHA1: 2616109ec19bbd5c466ec57ed2c96b37eecfd66f
+PackageChecksum: MD5: f53562bbaa944dae34707b80c50a6484
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload416
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/install-sh
+SPDXID: SPDXRef-item1044244
+FileChecksum: SHA1: 06ee6336e63bb845c8439d777c32eb2eccc4fbf1
+FileChecksum: MD5: 9d5ae975ae461be51dfd41d904c52af2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/aclocal.m4
+SPDXID: SPDXRef-item1044245
+FileChecksum: SHA1: d2543d517260bfb80dfe3e70886d99a0caf08446
+FileChecksum: MD5: fbc90d930d1071d74f3a23f6fa3f9a49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-GPL-3.0--with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/dri2proto.pc.in
+SPDXID: SPDXRef-item1044246
+FileChecksum: SHA1: 5beef681b2326792ce4217812e36032ead0cf5c1
+FileChecksum: MD5: 26e6b46e9b9f371bea6213904b7e0539
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/Makefile.in
+SPDXID: SPDXRef-item1044247
+FileChecksum: SHA1: acd64f2d37047d37688f1c85d93c0c7ea8f8d582
+FileChecksum: MD5: b781d7c104187d9be623458b2698dfbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/COPYING
+SPDXID: SPDXRef-item1044248
+FileChecksum: SHA1: 254aec9ad4aa42eb4f11c7a58ea1d297e14c43ae
+FileChecksum: MD5: 2e396fa91834f8786032cad2da5638f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/configure
+SPDXID: SPDXRef-item1044249
+FileChecksum: SHA1: 01708a298e2ac5f7fb76d52b77c8787f8b176204
+FileChecksum: MD5: e4260b8d1c22d02777bbc94e627eeaa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/Makefile.am
+SPDXID: SPDXRef-item1044250
+FileChecksum: SHA1: a4014cefb0d58a0c567e3425b87c8dd01cc34e63
+FileChecksum: MD5: afd2ddf6a42da940f700fdd5fe9b5853
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/config.sub
+SPDXID: SPDXRef-item1044251
+FileChecksum: SHA1: d49c962cc02579c219a30c73d4a934d05e2f2f8c
+FileChecksum: MD5: 9b0fe319ee606e8469592eb3a4468b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/dri2proto.txt
+SPDXID: SPDXRef-item1044252
+FileChecksum: SHA1: a9629cc67f70eb9109079232f64f7131c3f0db9c
+FileChecksum: MD5: 9b05f60cb1a890d27db5f5474df0884f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/missing
+SPDXID: SPDXRef-item1044253
+FileChecksum: SHA1: d7c9981a81af13370d4ed152b24c0a82b7028585
+FileChecksum: MD5: 52cc47fe5f31e22f14f911caaf821429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/README
+SPDXID: SPDXRef-item1044254
+FileChecksum: SHA1: 29831a65480c4b74593971b355afdcfdeb84525c
+FileChecksum: MD5: e03af96419222b7d322245f075779854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/dri2tokens.h
+SPDXID: SPDXRef-item1044255
+FileChecksum: SHA1: d0ea0185375e62b3932482cd72049842f98d456d
+FileChecksum: MD5: 82a985819cada0e87be9dc8f74f499d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/configure.ac
+SPDXID: SPDXRef-item1044256
+FileChecksum: SHA1: 22cd5b61572b19aa1468d4af13401801bdaf421c
+FileChecksum: MD5: 493d0acea74ef8bbddc7783ad30d8ef7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/INSTALL
+SPDXID: SPDXRef-item1044257
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/dri2proto.h
+SPDXID: SPDXRef-item1044258
+FileChecksum: SHA1: c9e54dd7603699d2f31a3abeeadb43281858e351
+FileChecksum: MD5: 805180c1fa60517ad5b87ad6052173b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/config.guess
+SPDXID: SPDXRef-item1044259
+FileChecksum: SHA1: ef8055d5bdc820832b7183f90b27f97d7e82b498
+FileChecksum: MD5: d837ac1634b8e127e61c99f938ab7b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dri2proto-2.8/ChangeLog
+SPDXID: SPDXRef-item1044260
+FileChecksum: SHA1: df7aa85d37781cd17e6fe8f3390b7fe35580dbcd
+FileChecksum: MD5: 7a1d2e354e89daf0042a64aed47b5f1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL-3.0--with-autoconf-exception
+LicenseName: GPL-3.0+-with-autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-MIT-style
+LicenseName: MIT-style
+ExtractedText: <text> According to MIT license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

@@ -1,0 +1,778 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_kernel-module-vspm-1.0-r0-patched.tar.gz_1571457501.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:58:21Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: kernel-module-vspm
+PackageVersion: 1.0
+PackageFileName: kernel-module-vspm-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload307
+PackageDownloadLocation: git://github.com/renesas-rcar/vspm_drv.git;branch=rcar_gen3
+PackageHomePage: 
+PackageSummary: <text>kernel-module-vspm version 1.0-r0</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>kernel-module-vspm version 1.0</text>
+PackageChecksum: SHA1: 6e492010bd9f0e851b7191dab613381e814db5f5
+PackageChecksum: MD5: 1f2c312e0ddaba0c6c638529807aeef6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload307
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/git/.git/config
+SPDXID: SPDXRef-item836724
+FileChecksum: SHA1: 92b2d0dea09d8ed2fc24f00c9aee0ef500ca9036
+FileChecksum: MD5: 9e569b7b3338dd6d5048d9fbbc57652e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/packed-refs
+SPDXID: SPDXRef-item836726
+FileChecksum: SHA1: 9c5811084f165371fb20e4cabacccde762f14cad
+FileChecksum: MD5: 0650fb716fafb4a00b3b6c3e24accbb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/rcar_gen3
+SPDXID: SPDXRef-item836729
+FileChecksum: SHA1: f88b63ec37883bb7a53216017d10ad12d38c103f
+FileChecksum: MD5: 92f832b819b1ca8ca97505fbfdc34faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item836733
+FileChecksum: SHA1: 2effec17243b7913d1ca534b2767e3b6853a5457
+FileChecksum: MD5: 5d354362dcff5ce6380cbedd361eb7ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/index
+SPDXID: SPDXRef-item836734
+FileChecksum: SHA1: 78b6f9a38ba28c11968ec32a78b7ec9b4f28ef45
+FileChecksum: MD5: 60d390af50a60d2c0e50b1efcbee7b86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/rcar_gen3
+SPDXID: SPDXRef-item836738
+FileChecksum: SHA1: a11b895acf3e6c0d958ec98eba3eb177f10dabdf
+FileChecksum: MD5: b8cc950c3985ebd66989f309ffc80429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item836741
+FileChecksum: SHA1: a11b895acf3e6c0d958ec98eba3eb177f10dabdf
+FileChecksum: MD5: b8cc950c3985ebd66989f309ffc80429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/HEAD
+SPDXID: SPDXRef-item836742
+FileChecksum: SHA1: f317272d3cc0363975eb9e2c31c99aa44ac759d2
+FileChecksum: MD5: 80ad17b89bc55eb25f477361ee77d469
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/description
+SPDXID: SPDXRef-item836743
+FileChecksum: SHA1: 9635f1b7e12c045212819dd934d809ef07efa2f4
+FileChecksum: MD5: a0a7c3fff21f2aea3cfa1d0316dd816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/objects/info/alternates
+SPDXID: SPDXRef-item836747
+FileChecksum: SHA1: f987fd547909b1c5020002c456855c4e02aa2cad
+FileChecksum: MD5: dd2b396f05e3bcf6e2a2de4e9cf0f5c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/info/exclude
+SPDXID: SPDXRef-item836749
+FileChecksum: SHA1: c879df015d97615050afa7b9641e3352a1e701ac
+FileChecksum: MD5: 036208b4a1ab4a235d75c181e685e5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/commit-msg.sample
+SPDXID: SPDXRef-item836751
+FileChecksum: SHA1: ee1ed5aad98a435f2020b6de35c173b75d9affac
+FileChecksum: MD5: 579a3c1e12a1e74a98169175fb913012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/post-update.sample
+SPDXID: SPDXRef-item836752
+FileChecksum: SHA1: b614c2f63da7dca9f1db2e7ade61ef30448fc96c
+FileChecksum: MD5: 2b7ea5cee3c49ff53d41e00785eb974c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/update.sample
+SPDXID: SPDXRef-item836753
+FileChecksum: SHA1: e729cd61b27c128951d139de8e7c63d1a3758dde
+FileChecksum: MD5: 517f14b9239689dff8bda3022ebd9004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-commit.sample
+SPDXID: SPDXRef-item836754
+FileChecksum: SHA1: 36aed8976dcc08b5076844f0ec645b18bc37758f
+FileChecksum: MD5: 01b1688f97f94776baae85d77b06048b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/prepare-commit-msg.sample
+SPDXID: SPDXRef-item836755
+FileChecksum: SHA1: 2b6275eda365cad50d167fe3a387c9bc9fedd54f
+FileChecksum: MD5: 7dfe15854212a30f346da5255c1d794b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/applypatch-msg.sample
+SPDXID: SPDXRef-item836756
+FileChecksum: SHA1: 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
+FileChecksum: MD5: ce562e08d8098926a3862fc6e7905199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-push.sample
+SPDXID: SPDXRef-item836757
+FileChecksum: SHA1: 5c8518bfd1d1d3d2c1a7194994c0a16d8a313a41
+FileChecksum: MD5: 3c5989301dd4b949dfa1f43738a22819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-applypatch.sample
+SPDXID: SPDXRef-item836758
+FileChecksum: SHA1: f208287c1a92525de9f5462e905a9d31de1e2d75
+FileChecksum: MD5: 054f9ffb8bfe04a599751cc757226dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-rebase.sample
+SPDXID: SPDXRef-item836759
+FileChecksum: SHA1: 18be3eb275c1decd3614e139f5a311b75f1b0ab8
+FileChecksum: MD5: 3ff6ba9cf6d8e5332978e057559b5562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/HEAD
+SPDXID: SPDXRef-item836760
+FileChecksum: SHA1: 621e0f2c1f11f0d3b935ef10a1fd2eb1194e14e0
+FileChecksum: MD5: 6641fdc32960da78375b6bd335867f67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/Makefile
+SPDXID: SPDXRef-item836765
+FileChecksum: SHA1: 7911f1aa8617b352691bdf44ea8c784477166207
+FileChecksum: MD5: 9d42a3ad35132f9cebbce185ea3e0ad8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/fdp/fdp_drv_l.c
+SPDXID: SPDXRef-item836767
+FileChecksum: SHA1: 07ad449eaba33df1cc4f90e9ab91d12fa86d6722
+FileChecksum: MD5: 585170fce94f079ba711a1d5fcf11979
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/fdp/fdp_drv_hw.h
+SPDXID: SPDXRef-item836768
+FileChecksum: SHA1: 78bb86e5f1d5a02b44e7271facebc363a307cc74
+FileChecksum: MD5: aa57d8109300e4a2872b7af2af06894e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/fdp/fdp_drv_tbl.h
+SPDXID: SPDXRef-item836769
+FileChecksum: SHA1: ed7735023ba3c85cfb2039bd4b37a6d12aca6c92
+FileChecksum: MD5: b628d005fd0caf95702d7361a5b89509
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/fdp/fdp_drv.c
+SPDXID: SPDXRef-item836770
+FileChecksum: SHA1: d0b3e261525ece3b651a8c0afaa8e1fb3a5ea8fe
+FileChecksum: MD5: 8220864ccda7604e8a22fa6a4a296dbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/fdp/fdp_drv_local.h
+SPDXID: SPDXRef-item836771
+FileChecksum: SHA1: 699eb071d192f98ce1d8af6c93d7ebd292ce4122
+FileChecksum: MD5: 591f25483e0e146c0c7144d61558a304
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vspm_lib_public.h
+SPDXID: SPDXRef-item836772
+FileChecksum: SHA1: 1a24834efa6da46288800491549f5c2de4a307a7
+FileChecksum: MD5: c2b0d5f0885b069613701fe5492e9a17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vspm_ip_ctrl.h
+SPDXID: SPDXRef-item836773
+FileChecksum: SHA1: 6d4293eab8e372d5c605a4f970dee0b3f340e355
+FileChecksum: MD5: 342658d76d7b9167de39546d478f5b6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vspm_sub.c
+SPDXID: SPDXRef-item836774
+FileChecksum: SHA1: 6134610ca814b5158bcdde5055a70a400c94971d
+FileChecksum: MD5: 8841a144de8237aa9759ddfedcea889e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vspm_main.c
+SPDXID: SPDXRef-item836775
+FileChecksum: SHA1: 6e5673e926fbab6f48b256f3ab3a6f6378bd53b1
+FileChecksum: MD5: 4abb37562159bf3679c6bb8f98d1f907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/frame.c
+SPDXID: SPDXRef-item836776
+FileChecksum: SHA1: 080074a99db5059db469733351554fb81bdaff3e
+FileChecksum: MD5: 092ecd5bb4d13ca4d394e34ab1bfc1c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_common.h
+SPDXID: SPDXRef-item836778
+FileChecksum: SHA1: dcb4ad68a7d131dfa7035fa8b1ce896d70a96fa0
+FileChecksum: MD5: 3541d682814438351599aa8d74538b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_exec_manager.c
+SPDXID: SPDXRef-item836779
+FileChecksum: SHA1: b4810c9e8769f9b2c6691b3ca2af9288c2e2f641
+FileChecksum: MD5: 3352482902816b1d38ba8ea27df22896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_job_manager.c
+SPDXID: SPDXRef-item836780
+FileChecksum: SHA1: d08b7f2fb4bdf00a9af3353851b8c100bfb7cad9
+FileChecksum: MD5: fcfb210861fab1880ad1ee5aaf63dee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_task.c
+SPDXID: SPDXRef-item836781
+FileChecksum: SHA1: a49277de34cb31837ae98a466213f6574a7592ea
+FileChecksum: MD5: b05e38878c2a9c91acc65c29b9f188a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_lib.c
+SPDXID: SPDXRef-item836782
+FileChecksum: SHA1: 0551e821ae869ba6e3cfa9fa6ec5cd03dc39d864
+FileChecksum: MD5: 167241b99bce735ebd00e9fbf1560c6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_task_private.h
+SPDXID: SPDXRef-item836783
+FileChecksum: SHA1: 87bf798ebe7a08fcde63475c361ce2598af97af3
+FileChecksum: MD5: ae8bfaa0020c7b7472b5a84d961fddc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_drv_fdp.c
+SPDXID: SPDXRef-item836784
+FileChecksum: SHA1: d0084cdda91b77e704056e9c1130336c03efeaf2
+FileChecksum: MD5: 482089615b09655caec2e9a19caddd66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_sort_queue.c
+SPDXID: SPDXRef-item836785
+FileChecksum: SHA1: 43fe018c47aa65260df69e9430e2409ca25aeb09
+FileChecksum: MD5: 731314c97299929a8bc02b614cbd776e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_control.c
+SPDXID: SPDXRef-item836786
+FileChecksum: SHA1: 7db67c5a968545caec394918edc3fa22b9a255e5
+FileChecksum: MD5: 3cca318387f78a8ed5d75e93b004a27b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/manager/vspm_drv_vsp.c
+SPDXID: SPDXRef-item836787
+FileChecksum: SHA1: 493a8cd51e58701aba02306e3b7c49c54618f39f
+FileChecksum: MD5: e73072a7973a3d7a4837aff984ddfca4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/frame.h
+SPDXID: SPDXRef-item836788
+FileChecksum: SHA1: 18abfa0e95a3853ee9ccca51026509f1366f09e1
+FileChecksum: MD5: 09778c808eff555fb9d38f54632356ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vspm_log.h
+SPDXID: SPDXRef-item836789
+FileChecksum: SHA1: ef61422927538a2f30c7a1cee9dbf008b345b3eb
+FileChecksum: MD5: 356094897c44d4f9f1a2ff59c98fa590
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vsp_drv_public.h
+SPDXID: SPDXRef-item836790
+FileChecksum: SHA1: 671d1b3b75d72fc5a8458634ceb75d5f50e2cf97
+FileChecksum: MD5: 361125bd82ba3f203f440815b367a06d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/fdp_drv_public.h
+SPDXID: SPDXRef-item836791
+FileChecksum: SHA1: bfc6c167fab825a7e4a683544004e9d769a04f41
+FileChecksum: MD5: 41eda7716599b351aba8fc1e107a2b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vsp/vsp_drv_phy.c
+SPDXID: SPDXRef-item836793
+FileChecksum: SHA1: 3f73ce89cff2447fd7c8101516b26d66914b4609
+FileChecksum: MD5: db75dd4c249a01ad1915b64c64bc8282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vsp/vsp_drv_par.c
+SPDXID: SPDXRef-item836794
+FileChecksum: SHA1: 3128942c77c4add9fb7ab170c5f45fe6e91e6035
+FileChecksum: MD5: c175196da87e93a844840587bde61180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vsp/vsp_drv_local.h
+SPDXID: SPDXRef-item836795
+FileChecksum: SHA1: 642f7f4e33d28f5d78dfe90c6bf1a8d66b1ae5c5
+FileChecksum: MD5: 534bd9caafa4e2c47824ab23c6a02e91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vsp/vsp_drv.c
+SPDXID: SPDXRef-item836796
+FileChecksum: SHA1: a19307c0d922eb33c9fd7b01c98f059164facf4c
+FileChecksum: MD5: ea23c33d41321c292d884d44e6988a68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/drv/vspm_main.h
+SPDXID: SPDXRef-item836797
+FileChecksum: SHA1: 4486dbc0c5a94d6346cd679ed9e593c59c75a7fd
+FileChecksum: MD5: be853f91307143ea7e14b48fac8e6611
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/include/vspm_public.h
+SPDXID: SPDXRef-item836799
+FileChecksum: SHA1: 3c207b17ac5d79fa9d3a96d1d536e124e9bd1aad
+FileChecksum: MD5: a0adba47b75d20ddf0e36724759ca16a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/include/vsp_drv.h
+SPDXID: SPDXRef-item836800
+FileChecksum: SHA1: de656c3c3d803506f4340f7cd26c23285d92c08f
+FileChecksum: MD5: 8be41474a1ea9b92da8975d8f5c08365
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/include/fdp_drv.h
+SPDXID: SPDXRef-item836801
+FileChecksum: SHA1: db22ce0105c0387ea879bd260dabaa66db757cfd
+FileChecksum: MD5: b0f3fbee91b7d37a8186da28afa78827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/vspm-module/files/vspm/include/vspm_cmn.h
+SPDXID: SPDXRef-item836802
+FileChecksum: SHA1: 5503ed095be2c7efb9a8f9d540494c494701771f
+FileChecksum: MD5: ca18a2ea597b26f199c851b74fa81ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/README
+SPDXID: SPDXRef-item836803
+FileChecksum: SHA1: 5af0ee5da81faf371ccdec36a4b958bef8b958e0
+FileChecksum: MD5: f92c703ab954a179c879b493dd6138f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/GPL-COPYING
+SPDXID: SPDXRef-item836804
+FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
+FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/MIT-COPYING
+SPDXID: SPDXRef-item836805
+FileChecksum: SHA1: bfbe1e990435b67865a7d646e88529a08db2af47
+FileChecksum: MD5: 0ebf15a927e436cec699371cd890775c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+

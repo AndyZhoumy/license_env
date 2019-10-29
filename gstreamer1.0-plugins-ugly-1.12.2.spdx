@@ -1,0 +1,5339 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_gstreamer1.0-plugins-ugly-1.12.2-r0-patched.tar.gz_1571457445.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:57:25Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: gstreamer1.0-plugins-ugly
+PackageVersion: 1.12.2
+PackageFileName: gstreamer1.0-plugins-ugly-1.12.2-r0-patched.tar.gz
+SPDXID: SPDXRef-upload301
+PackageDownloadLocation: http://gstreamer.freedesktop.org/src/gst-plugins-ugly/gst-plugins-ugly-1.12.2.tar.xz
+PackageHomePage: http://gstreamer.freedesktop.org/
+PackageSummary: <text>Plugins for the GStreamer multimedia framework 1.x</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>gstreamer1.0-plugins-ugly version 1.12.2</text>
+PackageChecksum: SHA1: 0f4213f122ffea28ae2d5870011170db801aa8e3
+PackageChecksum: MD5: 71e8a5881eac5cdb1d61b446c797b3ae
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload301
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-introspection.m4-prefix-pkgconfig-paths-with-PKG_CON.patch
+SPDXID: SPDXRef-item835363
+FileChecksum: SHA1: e581145497e1e148ceafb3ed2b355df251766616
+FileChecksum: MD5: ebc4340ac44f7bfc6f16d94d58e0d76c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/REQUIREMENTS
+SPDXID: SPDXRef-item835365
+FileChecksum: SHA1: cd3c1b72f77e861999dd25593c0088f4af51fc64
+FileChecksum: MD5: 8716c5281cf64ad24f055d96c4e945d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/NEWS
+SPDXID: SPDXRef-item835366
+FileChecksum: SHA1: 7255a1269cabde75bb0a02747f3c05a7f4afe4fc
+FileChecksum: MD5: 325f2a4feb0b85849133cb0f7610c9cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: CC-BY-SA-4.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ABOUT-NLS
+SPDXID: SPDXRef-item835367
+FileChecksum: SHA1: b50287b75a3b098301455e34c8d8e52a09fa8938
+FileChecksum: MD5: b5a080b27b5b4c1a160d2bed1fcfaf9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/compile
+SPDXID: SPDXRef-item835368
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/config.h.meson
+SPDXID: SPDXRef-item835369
+FileChecksum: SHA1: 6d468c5bb0fe4f2f77a998f4ee5a672782cb4b03
+FileChecksum: MD5: 0a7c5f9e9eba338494386bedb2822e84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/install-sh
+SPDXID: SPDXRef-item835370
+FileChecksum: SHA1: 2e3051b2027eaf42b949f495503e7c9090f4113d
+FileChecksum: MD5: b965f98f97ba53fa9e2ed5528caa4efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/aclocal.m4
+SPDXID: SPDXRef-item835371
+FileChecksum: SHA1: a81df5c69c01d89356f155de82ac8f8643ffbb5c
+FileChecksum: MD5: 0ed4a64d0195b20b248fed3d1745f707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/Makefile.in
+SPDXID: SPDXRef-item835372
+FileChecksum: SHA1: 9ed2c4253a4e8e707eb39cbdeb46e68ac76d2fba
+FileChecksum: MD5: f4f85882f59e70d810c4b5c52fa4ae48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/COPYING
+SPDXID: SPDXRef-item835373
+FileChecksum: SHA1: 545f380fb332eb41236596500913ff8d582e3ead
+FileChecksum: MD5: a6f89e2100d9b6cdffcea4f398e37343
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/configure
+SPDXID: SPDXRef-item835374
+FileChecksum: SHA1: 0a1eabe66441cd5f01bf7fec556be6d49ed3c563
+FileChecksum: MD5: 0df067bddd867307c18f5e41279bfd1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-LGPL
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ltmain.sh
+SPDXID: SPDXRef-item835375
+FileChecksum: SHA1: a1f1c2ad29368c6f3b3a1803f4b48edac5b6277b
+FileChecksum: MD5: edbcaf917b678b3f00e4fff2608f71c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/pkgconfig/gstreamer-plugins-ugly-uninstalled.pc.in
+SPDXID: SPDXRef-item835377
+FileChecksum: SHA1: 7b1c7b3155a663053649defc4ea0424862578586
+FileChecksum: MD5: ade6e32a181bbca380dbddaef0ea9f35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/pkgconfig/Makefile.in
+SPDXID: SPDXRef-item835378
+FileChecksum: SHA1: b667cb082839a861900ca5df1ee00be03959c893
+FileChecksum: MD5: f93f84ffe0d15d1996be1c525c74eda7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/pkgconfig/Makefile.am
+SPDXID: SPDXRef-item835379
+FileChecksum: SHA1: c8e3ed4313958eb1b9976da3668ff49a86d445af
+FileChecksum: MD5: 989380f5d688f588bf3985e7318c0763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/freetype2.m4
+SPDXID: SPDXRef-item835381
+FileChecksum: SHA1: 2a3770fa6a7e2cbd6ffb0826dfff7effa5ba490c
+FileChecksum: MD5: 3e9cebdbafad526974a4f01da75cd32b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/aalib.m4
+SPDXID: SPDXRef-item835382
+FileChecksum: SHA1: c16c7478a2ad06fad39890cb221a07eed8c6a5c4
+FileChecksum: MD5: 553119f1c6b8446b381863caae828b03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/ltversion.m4
+SPDXID: SPDXRef-item835383
+FileChecksum: SHA1: 3aae847c163fa6cc7c8241a3a49f98705538d55f
+FileChecksum: MD5: d936fd6b2025c9b5322f826117d7f30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/lib-ld.m4
+SPDXID: SPDXRef-item835384
+FileChecksum: SHA1: 8b72b8f5f76e41e4ca0f2521c06c568490894a84
+FileChecksum: MD5: 4a695a584ba1673823d08f782214ec0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/gst-sid.m4
+SPDXID: SPDXRef-item835385
+FileChecksum: SHA1: 581e2927dfc83ae4fb8c5506c31e826e5871872a
+FileChecksum: MD5: b55e692573a7bdc8fd78a0be92f31e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/libtool.m4
+SPDXID: SPDXRef-item835386
+FileChecksum: SHA1: 9b3f425d17beb3342dd9df8ee9d8fe7c090a1ce4
+FileChecksum: MD5: 2cc70ef55adb11e355f6e8c30dcab090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/ltoptions.m4
+SPDXID: SPDXRef-item835387
+FileChecksum: SHA1: 9cd35d79da7776af14f21b259c64f130fa1a3536
+FileChecksum: MD5: 064af1799febaa676203302bbf359180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/as-slurp-ffmpeg.m4
+SPDXID: SPDXRef-item835388
+FileChecksum: SHA1: c83589db9512bf0e194d3106a27ea4a46894f96e
+FileChecksum: MD5: 7b24186ae88fca0279abb9670055633f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/Makefile.in
+SPDXID: SPDXRef-item835389
+FileChecksum: SHA1: 1c4061aef03a786159dfea7a87ff53f3157e44da
+FileChecksum: MD5: 79dde753261245f0194fcb1d6b2e1600
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/gtk.m4
+SPDXID: SPDXRef-item835390
+FileChecksum: SHA1: 0248c9a4479822bf4c45b72c92f0f017c662bbf9
+FileChecksum: MD5: fbd857a9517019bb12da356b529e1e7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/progtest.m4
+SPDXID: SPDXRef-item835391
+FileChecksum: SHA1: 33afa7777184315ffceecb7f8d15423639b6b9e4
+FileChecksum: MD5: 4fe3f809b636d924d9d3377197179d10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/as-liblame.m4
+SPDXID: SPDXRef-item835392
+FileChecksum: SHA1: 1081a235ac54f71fb6cce3c806bda9c2e1205813
+FileChecksum: MD5: da5750be94c854a476a84cb425643b8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/gst-sdl.m4
+SPDXID: SPDXRef-item835393
+FileChecksum: SHA1: 2f17e47cd7b91e27ed9a966d4237e669263b251e
+FileChecksum: MD5: 31076baa183791e76ef17952d9cd6510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/libfame.m4
+SPDXID: SPDXRef-item835394
+FileChecksum: SHA1: 6735755edb13cd18f04d5f0a7d6e8626f6cf2bb6
+FileChecksum: MD5: 882e52f81984c5320785f5d57faf3ed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/glib.m4
+SPDXID: SPDXRef-item835395
+FileChecksum: SHA1: 201eb58c2b3f3c5395dacd3913a4fb9d950d3276
+FileChecksum: MD5: d458c7593ac13a0bf8b3198f1c5a5c63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/lib-link.m4
+SPDXID: SPDXRef-item835396
+FileChecksum: SHA1: 393030ac10902d389e2ea993490cc4c36491f9ea
+FileChecksum: MD5: d8679cf4a25e4cf870c5cf6629a242d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/iconv.m4
+SPDXID: SPDXRef-item835397
+FileChecksum: SHA1: 9fbec988b8b273fdaccf403cebaf345aad020bdb
+FileChecksum: MD5: 54b7ef5e957ea5331a19790363d38f01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/Makefile.am
+SPDXID: SPDXRef-item835398
+FileChecksum: SHA1: 991a31631446c7a98902c7409c8fd4f9d09342e7
+FileChecksum: MD5: dd2180fc6cf1b7c2a448bac606c91f54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/ltsugar.m4
+SPDXID: SPDXRef-item835399
+FileChecksum: SHA1: 2028bffadfd9b989bcc63da90596101fe4ec20b9
+FileChecksum: MD5: fa2891f9060865871cbbaa1c6e2d96f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/README
+SPDXID: SPDXRef-item835400
+FileChecksum: SHA1: a8c68e296e1671567afd5cd238a9992b81c7d7fe
+FileChecksum: MD5: a5be91e17f2c5f1a6062011ee79732cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/check-libheader.m4
+SPDXID: SPDXRef-item835401
+FileChecksum: SHA1: 05cbee5b7c42d1ca19644a4da42e294c19d245d8
+FileChecksum: MD5: 24e6f0854c02ef8b4481aab607da8d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/po.m4
+SPDXID: SPDXRef-item835402
+FileChecksum: SHA1: d324d2883cc1e7679455b54c0a0531670eda1a6f
+FileChecksum: MD5: 4eafab509f1cc0c70f3281bec07fd77f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/gst-fionread.m4
+SPDXID: SPDXRef-item835403
+FileChecksum: SHA1: 945959ace98e79a3e85586cf61448b019f15c35d
+FileChecksum: MD5: 3539e4aea149ccdce929ac344779438b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/libmikmod.m4
+SPDXID: SPDXRef-item835404
+FileChecksum: SHA1: 09b1f0083d3d98b9b41849386dfb16bc595b7748
+FileChecksum: MD5: 9b258da50c6878d52d85bed0355d49b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/nls.m4
+SPDXID: SPDXRef-item835405
+FileChecksum: SHA1: f3cda49613ef0c9261efc246221ee3b1be2ac421
+FileChecksum: MD5: 819c8e2ebb3b017d16dad3563cba360a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/lib-prefix.m4
+SPDXID: SPDXRef-item835406
+FileChecksum: SHA1: 249554965989045ce952e9a7fc6ad68d7ccc281f
+FileChecksum: MD5: 9c7b56be0858201c47702461a439f9bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/gettext.m4
+SPDXID: SPDXRef-item835407
+FileChecksum: SHA1: 62607ed98426f5dad7f97677228862928919f460
+FileChecksum: MD5: dab0e2ad4943514530c50faef831db6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item835408
+FileChecksum: SHA1: e21f085615f98d3751690c1615923e89160d5783
+FileChecksum: MD5: 22aa295bf5320aec7fba6756ff11058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/a52.m4
+SPDXID: SPDXRef-item835409
+FileChecksum: SHA1: 149e79f3fa006dd49524fe7f21de074785959b27
+FileChecksum: MD5: 5c777f9d94729dc8143cef99210fc7ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/gst-shout2.m4
+SPDXID: SPDXRef-item835410
+FileChecksum: SHA1: 0ba197512975fcebaa79022bd904b672ce207a3c
+FileChecksum: MD5: 07f41cb1825a4ccedee2f69b9861fc90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/m4/intlmacosx.m4
+SPDXID: SPDXRef-item835411
+FileChecksum: SHA1: 2c28ab42454fab0d0d4b56204c0732ca5b176f11
+FileChecksum: MD5: 3fa9f7ef2f1e212999c2f12b5b8fa630
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/meson.build
+SPDXID: SPDXRef-item835412
+FileChecksum: SHA1: edcaa42f65e339c19ae96488f11c3944b917a0d3
+FileChecksum: MD5: 662ca577e16701e1030dfe5cf4c738ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/meson_options.txt
+SPDXID: SPDXRef-item835413
+FileChecksum: SHA1: 8c99476479575a4895aa96d7f980a51e93c8e675
+FileChecksum: MD5: bd066db09bdf9a345c2d5aff6b6498d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/config.h.in
+SPDXID: SPDXRef-item835414
+FileChecksum: SHA1: 7ce603414d002be5973f1b0cc594f2aa87b9f519
+FileChecksum: MD5: 0a01d873e76eb4411670fd2b4bb46510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/es.po
+SPDXID: SPDXRef-item835416
+FileChecksum: SHA1: 7a40ffdd815f636d869b6cc1464db143afcb94a4
+FileChecksum: MD5: de98630fba15a3eee5269030f712b083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/gst-plugins-ugly-1.0.pot
+SPDXID: SPDXRef-item835417
+FileChecksum: SHA1: e348b4042fdcc228c358d5418fc068af706f3b86
+FileChecksum: MD5: 5c9da434077a60e8d2dc8e59d78ef478
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/es.gmo
+SPDXID: SPDXRef-item835418
+FileChecksum: SHA1: 5877662364b573c66f9f103bf14766ba43e45e2a
+FileChecksum: MD5: f0082e8009f91d030f53775df4ed62c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/id.po
+SPDXID: SPDXRef-item835419
+FileChecksum: SHA1: 609485360f19e6b2588222ae56516bc4d460d1b6
+FileChecksum: MD5: f9866bb24f4f0397a45b401853e7a5ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sv.gmo
+SPDXID: SPDXRef-item835420
+FileChecksum: SHA1: 99119ab34241c6cee5935984fa2f7989bb8c4bd9
+FileChecksum: MD5: 125ffbad7d8c6afd4d008b433c7e43d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/lt.po
+SPDXID: SPDXRef-item835421
+FileChecksum: SHA1: 07a08475e2acc5df15144d4f200579a926401efd
+FileChecksum: MD5: da9552af3f5283c200da35db9ea50b91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sv.po
+SPDXID: SPDXRef-item835422
+FileChecksum: SHA1: c473cb4e96ce466561a795f69ed9879e02167a4f
+FileChecksum: MD5: 5a9b6b702c494d02fd2bb85343bc0cb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/stamp-po
+SPDXID: SPDXRef-item835423
+FileChecksum: SHA1: 8e5113f6f47ce34e0437c2105441dbb70f01491a
+FileChecksum: MD5: 1ded054093de910d9786c62bc4fe8cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/or.po
+SPDXID: SPDXRef-item835424
+FileChecksum: SHA1: b11ddb29ebf2affa99e7b479dd8125e41e073414
+FileChecksum: MD5: 9aee4d891192da910e1d80b19c1c1d0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/bg.po
+SPDXID: SPDXRef-item835425
+FileChecksum: SHA1: e395bca8d24325e02c8fb144e36f080d64133e4e
+FileChecksum: MD5: e7c66679c9eac1966626c446a3331905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/tr.gmo
+SPDXID: SPDXRef-item835426
+FileChecksum: SHA1: 51001b1911f1b0371abd0ecdbff31a7d65593d03
+FileChecksum: MD5: ca444fdfc79c5578228da04a1498e6d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/gl.gmo
+SPDXID: SPDXRef-item835427
+FileChecksum: SHA1: 552b5de145d24bf4152dc06daa7fb77a4fa054e3
+FileChecksum: MD5: eff51557a7514923c57b3b61539e3ea7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/remove-potcdate.sin
+SPDXID: SPDXRef-item835428
+FileChecksum: SHA1: ef998ba108174635906a01ba30fe1ba105728bb8
+FileChecksum: MD5: ae2ad0156895c4461ca32fe0524ef902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/el.gmo
+SPDXID: SPDXRef-item835429
+FileChecksum: SHA1: bb44278fe57002f1aa68f4983270d6f255f5c3e7
+FileChecksum: MD5: 156fdb891c328b89e9b5ab73fc979b61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sr.po
+SPDXID: SPDXRef-item835430
+FileChecksum: SHA1: 0a2eba3df075019bc9ccd60fcedd07bcb4f7a850
+FileChecksum: MD5: 2044635c6742bc82e24e442d2e731e5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/mt.gmo
+SPDXID: SPDXRef-item835431
+FileChecksum: SHA1: 1620c4ec2a4a364de070d5a9dbcff29206ff386e
+FileChecksum: MD5: dcc462be737e86092a681d7eee862893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/Makefile.in.in
+SPDXID: SPDXRef-item835432
+FileChecksum: SHA1: 0ac88364e93f581fba26a7fc6b370f5e07c6b081
+FileChecksum: MD5: fb5188af94385b6525e302a7a5f8315d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sl.gmo
+SPDXID: SPDXRef-item835433
+FileChecksum: SHA1: 593fb98f26df64feccbd01e2f9f0ea4d726fc117
+FileChecksum: MD5: 97b552497dd105b14a1a9ebaa7e8b0d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/fur.gmo
+SPDXID: SPDXRef-item835434
+FileChecksum: SHA1: 7516bbd65ee69da5e6f055f87542b0c393b90a68
+FileChecksum: MD5: a135c6cb59f467be5dce935d7875bda5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/hu.gmo
+SPDXID: SPDXRef-item835435
+FileChecksum: SHA1: e9a5ffc3b76bf0610cd73c4906b4f334fee21d49
+FileChecksum: MD5: 541922acb4900511a8818d62c8c22182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ca.po
+SPDXID: SPDXRef-item835436
+FileChecksum: SHA1: 35eca37e8b6a0a428037f3cc1bc432190ead4204
+FileChecksum: MD5: 8b16a5eb98a43123b81108e024510621
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/cs.gmo
+SPDXID: SPDXRef-item835437
+FileChecksum: SHA1: 5f4a002c53fba5943f34b429740a5f1bdb456c5d
+FileChecksum: MD5: 3d61f00e80608e4359c7bd987f4f628b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/da.gmo
+SPDXID: SPDXRef-item835438
+FileChecksum: SHA1: 0d5f87fd92c3bcd24621dd7305fb22521dc5e120
+FileChecksum: MD5: 7f85d85e7f91642e83d6de030e4a7ca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ro.gmo
+SPDXID: SPDXRef-item835439
+FileChecksum: SHA1: 6fdfcb47c53b4ca51ae84fcde08a19fc584493e6
+FileChecksum: MD5: 6965a78a5247baaec36b93151d85c88b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/id.gmo
+SPDXID: SPDXRef-item835440
+FileChecksum: SHA1: ed039e4fcf3806a3c1df21cd2e9993c19dd43ef7
+FileChecksum: MD5: 5c780e5738b7074938291a4f8a16bc76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/pt_BR.po
+SPDXID: SPDXRef-item835441
+FileChecksum: SHA1: 9397b532bddc1aab3368cd3893c023ab622c9445
+FileChecksum: MD5: 8b1bfd0d7f11b8224fdafd2fbf428100
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/gl.po
+SPDXID: SPDXRef-item835442
+FileChecksum: SHA1: 26d1290096db8166188fe6760a0d89c473a786ea
+FileChecksum: MD5: d6aed451f53e6b95406cfe74b6a0dab2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ms.gmo
+SPDXID: SPDXRef-item835443
+FileChecksum: SHA1: 549adaea4c14001c322cdde959537fbe129027d4
+FileChecksum: MD5: 40ae81a1d826b36ce62f9f9636d4376a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/cs.po
+SPDXID: SPDXRef-item835444
+FileChecksum: SHA1: 72d1bb66524b30037a389ce03ca5bbf298040769
+FileChecksum: MD5: 171f708d6b95e9d1733acefe33502bf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/fi.gmo
+SPDXID: SPDXRef-item835445
+FileChecksum: SHA1: 18d00f654a1028ac4c03faa42fe9b9841a5ac10e
+FileChecksum: MD5: 33980f9dd5ec6edd99c8a09846da50ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/eu.gmo
+SPDXID: SPDXRef-item835446
+FileChecksum: SHA1: eb59b52e14ed292b38e2fead5935f3879f430efc
+FileChecksum: MD5: fd7c9e9a56c6f9b5de7e15b5e18753ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ru.gmo
+SPDXID: SPDXRef-item835447
+FileChecksum: SHA1: cacd2728318ff082c83afda5362e889cbeb48321
+FileChecksum: MD5: 4317a59a4dbd971ee0e7ecdff8fee1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/de.po
+SPDXID: SPDXRef-item835448
+FileChecksum: SHA1: ef72d6953106387343f1b5c9e6299a74add7bf59
+FileChecksum: MD5: dfd41869e53225685490ad44a0fe13d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/vi.gmo
+SPDXID: SPDXRef-item835449
+FileChecksum: SHA1: 75fdeb4cd56564af2a4e8161b2684a7f485d74e7
+FileChecksum: MD5: 4fb2d9f7f96ab56841382127a2938c84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/mt.po
+SPDXID: SPDXRef-item835450
+FileChecksum: SHA1: 4726c484ad3832cc2f6b4561050dcaef3aec36b4
+FileChecksum: MD5: e8e71750a7002beaa1c2afaa83cec777
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/boldquot.sed
+SPDXID: SPDXRef-item835451
+FileChecksum: SHA1: 062e8aaba51d25b7fd72c99a9a40e57a64133696
+FileChecksum: MD5: 9f72ef7fe3e7c7330c158be85dc1bd4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ms.po
+SPDXID: SPDXRef-item835452
+FileChecksum: SHA1: cd3b485ec48dd1feaa8c89168964163768c1732b
+FileChecksum: MD5: 545c7e4cea4b58b886658ab742b80c04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/eo.gmo
+SPDXID: SPDXRef-item835453
+FileChecksum: SHA1: 6021300813c444a8e480af1706dd4315f72ee6b8
+FileChecksum: MD5: baf859137748b824a55fadf6230f5c98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/az.po
+SPDXID: SPDXRef-item835454
+FileChecksum: SHA1: 360c1bfdb91afdb42bcff94f40554e5ff91f17aa
+FileChecksum: MD5: 53c878488d07971c1431d93acf214a09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/fr.po
+SPDXID: SPDXRef-item835455
+FileChecksum: SHA1: 6d8b00ab5662464034471b397bb65dd19246734b
+FileChecksum: MD5: c71950af25fbed03d0dfe67bc666419d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/nb.po
+SPDXID: SPDXRef-item835456
+FileChecksum: SHA1: 5f59e184c93398cc0b20f66d610d2db1e37e9307
+FileChecksum: MD5: f3d9bc044b3de2de351c9cc74282c166
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/fr.gmo
+SPDXID: SPDXRef-item835457
+FileChecksum: SHA1: 235041f76e66de5fe925e5009f90e33be8bb7d30
+FileChecksum: MD5: ba60683fcd22546e2af6bf4b3aa0e793
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/meson.build
+SPDXID: SPDXRef-item835458
+FileChecksum: SHA1: a64d55aef83ba8b3869038a070bd338c431df84c
+FileChecksum: MD5: e6f457bba373ac345eabac03332795d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ru.po
+SPDXID: SPDXRef-item835459
+FileChecksum: SHA1: a9e2ba507339ef535c5678c590c9c23ab506fbe1
+FileChecksum: MD5: 5cce8f02f4ef48598c16f4f6f12f8f61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/lv.po
+SPDXID: SPDXRef-item835460
+FileChecksum: SHA1: 6d3b7da9f6bcf614a96005df650d09fd6e6096bd
+FileChecksum: MD5: cb110f13347085272b264e7875a5ecfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/insert-header.sin
+SPDXID: SPDXRef-item835461
+FileChecksum: SHA1: b056528528249afdf45cc1cec4245578840724ab
+FileChecksum: MD5: b8d349a13678a4e0e18c8ee06c1bebea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/or.gmo
+SPDXID: SPDXRef-item835462
+FileChecksum: SHA1: 999826fccb0016465924a615770711fe8801ea60
+FileChecksum: MD5: 0913ee3364ee1510569663a246d91918
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ro.po
+SPDXID: SPDXRef-item835463
+FileChecksum: SHA1: 1e5f8d6c50fc0a2b92080acb2f6aab51c75a6cea
+FileChecksum: MD5: 8aedbbcb550d307f74f9c251cdb77ff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sk.po
+SPDXID: SPDXRef-item835464
+FileChecksum: SHA1: 441c21b79daeb88509e13e756d990df95df6bbb6
+FileChecksum: MD5: 1246f9f35f0cb7e657c82f2dfb347ce7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/da.po
+SPDXID: SPDXRef-item835465
+FileChecksum: SHA1: 682d1ccd3bf63836efd66e6ce820a80f2eac98f1
+FileChecksum: MD5: 346f15f0d248dbeb570c92fa8fc73475
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/en@boldquot.header
+SPDXID: SPDXRef-item835466
+FileChecksum: SHA1: a3bdad8e8a70840710219749a9bd0786f5de5487
+FileChecksum: MD5: 140858226cbabd8977f21e2f29168bb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/quot.sed
+SPDXID: SPDXRef-item835467
+FileChecksum: SHA1: 7ec5417fc239ef3a2aad760c755d5c84b0d1e333
+FileChecksum: MD5: f652c7cf9496049a47b091513f120a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/hu.po
+SPDXID: SPDXRef-item835468
+FileChecksum: SHA1: 997c5585f92450ac9cf6a90c87b950d6d6354ec9
+FileChecksum: MD5: f2d705b78c569cfe4d342226d6be0001
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ja.po
+SPDXID: SPDXRef-item835469
+FileChecksum: SHA1: eba29d960fb6b2dba1636184160adeea7f47dd32
+FileChecksum: MD5: 9bb6bd360b39f19e192be4b49699c0ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/uk.gmo
+SPDXID: SPDXRef-item835470
+FileChecksum: SHA1: f2431e09308849eb117013d0337271b80efaf814
+FileChecksum: MD5: f34310d69c5559a6272cd2a033e48bc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/az.gmo
+SPDXID: SPDXRef-item835471
+FileChecksum: SHA1: 9f5701a5754d0377cf519cd2e9da7241326bae79
+FileChecksum: MD5: 66cc8f75369d771835baffc307835733
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/bg.gmo
+SPDXID: SPDXRef-item835472
+FileChecksum: SHA1: 6e8276b8f2ec131e10dbfa0b1b0a26cdd5e93c36
+FileChecksum: MD5: edfeac81cc7d74ddaaa414020cf719d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/lt.gmo
+SPDXID: SPDXRef-item835473
+FileChecksum: SHA1: 3d4770ba8bc20be6ae55bdca9702522463adbe90
+FileChecksum: MD5: 675433ca8d75307301d644b1df967981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/lv.gmo
+SPDXID: SPDXRef-item835474
+FileChecksum: SHA1: a0e779fb638bb4d24e44ab6ed775abbcfde303be
+FileChecksum: MD5: 3ca6fca76c2a4eb914d4cf9d185c647b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/pl.gmo
+SPDXID: SPDXRef-item835475
+FileChecksum: SHA1: 99dae67e91584956ebd1718ccb3a50c0a8f48e7b
+FileChecksum: MD5: 6f02f0661a73d0f25408e2e5aec3f8cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/af.gmo
+SPDXID: SPDXRef-item835476
+FileChecksum: SHA1: 7c87bb998ccdfe013d96444bef123e5f540bd214
+FileChecksum: MD5: fb21cb81ac65601a085b2fa4b6dc678a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/pl.po
+SPDXID: SPDXRef-item835477
+FileChecksum: SHA1: 24b9d4e68b6ea82bc0e32aa729f5feca501912c4
+FileChecksum: MD5: caf9b90fa65cff29adf77d97d66effc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/Makevars
+SPDXID: SPDXRef-item835478
+FileChecksum: SHA1: e4d760c2f95bec7d01444009c06f8412b6e00c62
+FileChecksum: MD5: 8149a31feefffa4ca618efd881928bcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/nl.gmo
+SPDXID: SPDXRef-item835479
+FileChecksum: SHA1: ca70d6e407f5114fad5441afe4eb500e7072e447
+FileChecksum: MD5: d55db21d389fca69cb596ace10cc76bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/fi.po
+SPDXID: SPDXRef-item835480
+FileChecksum: SHA1: b4310ac237b97c42b401fe5fb1f481727a95431e
+FileChecksum: MD5: 63941677829f9915b0ac47442cecf466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/en_GB.po
+SPDXID: SPDXRef-item835481
+FileChecksum: SHA1: e7c3bbdfcd52845dafac239d09108af764cbfa7d
+FileChecksum: MD5: 28dccc0fabdd6a20d72ba5f4c4fe1381
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/nb.gmo
+SPDXID: SPDXRef-item835482
+FileChecksum: SHA1: 7060cdb2bf42a8efcc430a22af7389d4d09cd461
+FileChecksum: MD5: d2d207eda2ba9244be883867be77538b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ja.gmo
+SPDXID: SPDXRef-item835483
+FileChecksum: SHA1: a090fa600f47c56b0ceeb9f19005bd42d8ba9533
+FileChecksum: MD5: 01f39e2be5e66a5b1ca20815037f958d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/hr.gmo
+SPDXID: SPDXRef-item835484
+FileChecksum: SHA1: d12a9a4b5baa81a891295c55d18c44ab826e6912
+FileChecksum: MD5: 0e617787d57a1b0e07aacadd48cf4805
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sr.gmo
+SPDXID: SPDXRef-item835485
+FileChecksum: SHA1: 866d81e436488462cee2feecca2098bdc3687eda
+FileChecksum: MD5: 8da9d56edc6fbea3b8c24609e3be2546
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/it.po
+SPDXID: SPDXRef-item835486
+FileChecksum: SHA1: feb98fe23701f597a2fdc17b488345463911d0be
+FileChecksum: MD5: 626eb91013b8fd559bcbadf3f4788e9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/eu.po
+SPDXID: SPDXRef-item835487
+FileChecksum: SHA1: 8eba577316d6e9de9f17a8ab078507817752dfa7
+FileChecksum: MD5: b24d46cca16402a45b4e00473c3a1efb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/uk.po
+SPDXID: SPDXRef-item835488
+FileChecksum: SHA1: a3c2c78addea29c6d6b769e017d90d9d03b5985a
+FileChecksum: MD5: 26a75f7d2dfc34eb81cc4c96faafb41b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sk.gmo
+SPDXID: SPDXRef-item835489
+FileChecksum: SHA1: 3329d6a86822fa0d317aa77faf9213361a2456b8
+FileChecksum: MD5: 85ae27977e0fea54e7ac9153072a2800
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/fur.po
+SPDXID: SPDXRef-item835490
+FileChecksum: SHA1: 5c9a124b2bc64a18d4e5f06421277068dcbac76d
+FileChecksum: MD5: 79e421d46700a8080abc6ca34f9f6935
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/nl.po
+SPDXID: SPDXRef-item835491
+FileChecksum: SHA1: f4dd2a5aa6f64fecf67a90a7459674e0b7981202
+FileChecksum: MD5: 742ad23f8c9cf1ffe04eab23b86db378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/zh_CN.gmo
+SPDXID: SPDXRef-item835492
+FileChecksum: SHA1: 8d8160364edce86c3b806660b238e91b01fa4746
+FileChecksum: MD5: a885543b201e9fb9a7ddc66a9eb7d8ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/zh_CN.po
+SPDXID: SPDXRef-item835493
+FileChecksum: SHA1: 22aa81105076f41ea3792558d0c85c3fb3a76f47
+FileChecksum: MD5: 38be7df1482e13734fd2102475ad65ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/en@quot.header
+SPDXID: SPDXRef-item835494
+FileChecksum: SHA1: d863e8547486ef608b6ee9277ba02c48b72c7a5b
+FileChecksum: MD5: 4fab037eca87181f2066bda633c7aca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/Rules-quot
+SPDXID: SPDXRef-item835495
+FileChecksum: SHA1: 6d1f6a58ea4636cecbdbadab4bbdc6a731871103
+FileChecksum: MD5: 6bd69c891f952c0bdc2ac549a06349b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/tr.po
+SPDXID: SPDXRef-item835496
+FileChecksum: SHA1: 9118a8c8568f64809f1e4ebd5c97cff5b0a786a3
+FileChecksum: MD5: db228984fec483d300f21ddbecfeafd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/ca.gmo
+SPDXID: SPDXRef-item835497
+FileChecksum: SHA1: 617a491f875df4d629a0a79c570cc788227a8b19
+FileChecksum: MD5: db0b2e2d86384249938f150ac14cf977
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/de.gmo
+SPDXID: SPDXRef-item835498
+FileChecksum: SHA1: 32645af480e56cd593255775faf556f3b207ca96
+FileChecksum: MD5: b05f6a0b9d25e95566a5fba8539daacd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/vi.po
+SPDXID: SPDXRef-item835499
+FileChecksum: SHA1: 2054ca9adb0e54587f1fecadf51e7d359aee71dc
+FileChecksum: MD5: 0f1bf129fd311314dd1f940faf567d6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/hr.po
+SPDXID: SPDXRef-item835500
+FileChecksum: SHA1: 371dbbe0fc1fd210b4f0035588557a95452cceb0
+FileChecksum: MD5: 4bb39ae93591355405f2acf39de2eedd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/it.gmo
+SPDXID: SPDXRef-item835501
+FileChecksum: SHA1: 499cc65a9fbb1ceaee0851a4eaae0d83e7e3df81
+FileChecksum: MD5: 06e5f0251109b2c027180c0d56417e9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/POTFILES.in
+SPDXID: SPDXRef-item835502
+FileChecksum: SHA1: 07740c2af3b63c561a7b114c7fc7d87bf87e32e0
+FileChecksum: MD5: 67d6360c51eca61b0af817d9a2dd96e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/pt_BR.gmo
+SPDXID: SPDXRef-item835503
+FileChecksum: SHA1: a026f1da65ed01f7fcb5b52ea6a2bc70fee4ab25
+FileChecksum: MD5: a0f18da97f47f4c86317f5fa22f6c042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/el.po
+SPDXID: SPDXRef-item835504
+FileChecksum: SHA1: c8a15274a65d0eff33cefea948bbf71ec6fff963
+FileChecksum: MD5: 4c2432f231a3deb5fb656245dad66e88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sq.po
+SPDXID: SPDXRef-item835505
+FileChecksum: SHA1: 7bebdceecc5dd5fce1b7ff37862a6ecce482b76a
+FileChecksum: MD5: 92951450e53895ec3fcf6f18200c97b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sl.po
+SPDXID: SPDXRef-item835506
+FileChecksum: SHA1: 7547ee4ea79bd80e626b832adad284b0a6228188
+FileChecksum: MD5: 5b72597d60719fe570126b6af3e19148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/sq.gmo
+SPDXID: SPDXRef-item835507
+FileChecksum: SHA1: 469c2fd50668af08e99bfa83ddd25df60647c1c9
+FileChecksum: MD5: 618e8e2406a155a23565f42426a2ebcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/en_GB.gmo
+SPDXID: SPDXRef-item835508
+FileChecksum: SHA1: d272a6061c1a16182d067ee981cd721229c84131
+FileChecksum: MD5: ef853e8b4a915830bfbb6c9da81f1cde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/af.po
+SPDXID: SPDXRef-item835509
+FileChecksum: SHA1: d2d390b1cba09e3cd4fbcf78a6bf25a6f09abf62
+FileChecksum: MD5: 477db12dec8d85a17b48e0ff7fc25777
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/LINGUAS
+SPDXID: SPDXRef-item835510
+FileChecksum: SHA1: 4c5e1d93e1a46f436bc98d95141ad274040fbc41
+FileChecksum: MD5: 1b2d79753172e23626fa89ca89aa6494
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/po/eo.po
+SPDXID: SPDXRef-item835511
+FileChecksum: SHA1: 772f64194b5a94dffd3d1c8be724ffb85f012733
+FileChecksum: MD5: 00edb33ddb9f0e78ddf3448208e1dd1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/Makefile.am
+SPDXID: SPDXRef-item835512
+FileChecksum: SHA1: a03d8adea563d977bcc02b4a0f7356cfc8d28ef0
+FileChecksum: MD5: 792586188f19474264d25f5b8450c614
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/AUTHORS
+SPDXID: SPDXRef-item835513
+FileChecksum: SHA1: 1039690ed2504e7d6ce6d594ae7fac4157482100
+FileChecksum: MD5: 522445a5bc87310646c5e95de9a8ad45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/config.sub
+SPDXID: SPDXRef-item835514
+FileChecksum: SHA1: d13a06e9f75d695d03bbc3973f732b47a635c075
+FileChecksum: MD5: f32edfea91a86edcbb7da9fb63e9149b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst-libs/Makefile.in
+SPDXID: SPDXRef-item835516
+FileChecksum: SHA1: 2dd5f87123266675963db7e08568a6c97d3ba32c
+FileChecksum: MD5: acdabe84a17c6d6a489b298b1460308d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst-libs/Makefile.am
+SPDXID: SPDXRef-item835517
+FileChecksum: SHA1: 47a8205637964b3514fd4b6402625b898b4fe234
+FileChecksum: MD5: 3e2ad73927f01eaba94e736b3d35a3a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst-libs/gst/gst-i18n-plugin.h
+SPDXID: SPDXRef-item835519
+FileChecksum: SHA1: 4e0348b1d348b021912b9be0656c4c66d121064c
+FileChecksum: MD5: 099bc18707315bc293079429f3db4166
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst-libs/gst/Makefile.in
+SPDXID: SPDXRef-item835520
+FileChecksum: SHA1: a07496a41cf164d2113e7b4e6d61c3c82ee87cf4
+FileChecksum: MD5: bd671d5dd093b411f09212468021ff58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst-libs/gst/gettext.h
+SPDXID: SPDXRef-item835521
+FileChecksum: SHA1: e864ee6647f3572b144403d799f68152e9900da1
+FileChecksum: MD5: aff98dfb365850bec71e10a7e6a880cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst-libs/gst/Makefile.am
+SPDXID: SPDXRef-item835522
+FileChecksum: SHA1: a7a26b7d0db17ecbde2fb4f67e56573923fc4012
+FileChecksum: MD5: a8e7c1554f01f89ba5d35cafa16d7b20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst-libs/gst/glib-compat-private.h
+SPDXID: SPDXRef-item835523
+FileChecksum: SHA1: 499a9feb17ceabf1f1443923dffa1e0180bf5972
+FileChecksum: MD5: 7a05479854631f97e0a3b6ab8183fc7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/RELEASE
+SPDXID: SPDXRef-item835524
+FileChecksum: SHA1: db0bee94136a6a400c927d1b3beac3a8d28e2a50
+FileChecksum: MD5: 8945a7c510cce2af6b4feb90d6aafc7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/files/Makefile.in
+SPDXID: SPDXRef-item835527
+FileChecksum: SHA1: 6868fea1fe8f676a6eb3f23a5f532eb743a55de1
+FileChecksum: MD5: 2014b0835a7ec5fa38e9f249da79ea6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/files/stream.mp2
+SPDXID: SPDXRef-item835528
+FileChecksum: SHA1: 85867e7b92a58caa6e7bbd1b4b38f478a73ff3e6
+FileChecksum: MD5: 7b8b6c4a5191a42ce492f76e3297d545
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/files/cbr_stream.mp3
+SPDXID: SPDXRef-item835529
+FileChecksum: SHA1: 7f003cd6409155f072ef7304dec5b2ce13675d17
+FileChecksum: MD5: c700e73135c44658d318ebdfeb1f218d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/files/Makefile.am
+SPDXID: SPDXRef-item835530
+FileChecksum: SHA1: 9ae54318afe3c40bfb2d7e678c76356e0100d96a
+FileChecksum: MD5: ef1d2e80a1e5fb545e63aec63ad820bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/files/vbr_stream.mp3
+SPDXID: SPDXRef-item835531
+FileChecksum: SHA1: e21d60b1667eb90531b80b640719ee92339207b0
+FileChecksum: MD5: 0e28062d612e4883c5b10a03eca2c5f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/Makefile.in
+SPDXID: SPDXRef-item835532
+FileChecksum: SHA1: 4c855f0b19cb8d3ed39954ae5ae51163dcb80dbd
+FileChecksum: MD5: f3cb2f2e8fad8c8ba6b75e1070dc944c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/meson.build
+SPDXID: SPDXRef-item835533
+FileChecksum: SHA1: 0aeacdeca7287cea32a0cfe29175dc7e500651de
+FileChecksum: MD5: 97639f8d9967048bf3db80c568225475
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/Makefile.am
+SPDXID: SPDXRef-item835534
+FileChecksum: SHA1: 63f2e235a75a6fe13eb5983dbf4fed966bfe5702
+FileChecksum: MD5: 8fcd29f99f542cb1b83ebb9d5efb1da9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/generic/states.c
+SPDXID: SPDXRef-item835537
+FileChecksum: SHA1: d2010ab44b79e5ed7598a0cf5a5e42aeee8e0efe
+FileChecksum: MD5: b25a840246d154be4efe121485386ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/pipelines/lame.c
+SPDXID: SPDXRef-item835539
+FileChecksum: SHA1: 759fe915fbda218b1b5bfa2815f89c1a01809156
+FileChecksum: MD5: 3eaeed4c5d3f6663e8a92ca1ad34f6dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/Makefile.in
+SPDXID: SPDXRef-item835540
+FileChecksum: SHA1: f19d43296d806fe01c189bd5c1d0913f2180e908
+FileChecksum: MD5: 3edb3210e7eed96238c73db68f8e200b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/meson.build
+SPDXID: SPDXRef-item835541
+FileChecksum: SHA1: 15f64b1f959c3c913b02b9fb598eef56e992a103
+FileChecksum: MD5: 5c4878ef665cd526829ecacc444aec59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/Makefile.am
+SPDXID: SPDXRef-item835542
+FileChecksum: SHA1: 343f775bdaf2d3286d676a89b4285e09c3f40bd3
+FileChecksum: MD5: a2c4f5a063eae906e023e874408171b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/gst-plugins-ugly.supp
+SPDXID: SPDXRef-item835543
+FileChecksum: SHA1: 50c0e5a69b780b1350695a59515dcb946a458026
+FileChecksum: MD5: e71cd8f0375256f514c90307acccf4b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/elements/xingmux_testdata.h
+SPDXID: SPDXRef-item835545
+FileChecksum: SHA1: e3edd70f83c5fafb8f02070d75a6abdf1445f210
+FileChecksum: MD5: e65ff878e82f4f36878317b1809dc685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/elements/x264enc.c
+SPDXID: SPDXRef-item835546
+FileChecksum: SHA1: 6bc6e9b70635e92a145b1beed664d25c5dbfa70f
+FileChecksum: MD5: 2c89169bf994bc41c4d33439cc436fbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/elements/xingmux.c
+SPDXID: SPDXRef-item835547
+FileChecksum: SHA1: b3a6166b19bab631c409e46a60434401cbc66ef7
+FileChecksum: MD5: b397f5cfad442899da054ad62d60806c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/elements/mpg123audiodec.c
+SPDXID: SPDXRef-item835548
+FileChecksum: SHA1: bcb71a3dd907ce109785c726b45b5380cf7b75b6
+FileChecksum: MD5: d03a46885850863f6723d6d062a6c4d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/elements/mpeg2dec.c
+SPDXID: SPDXRef-item835549
+FileChecksum: SHA1: 8ae637332928eadd720303c6fdcfa4853e72c748
+FileChecksum: MD5: a584817692f72ba38df16014b2c307a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/tests/check/elements/amrnbenc.c
+SPDXID: SPDXRef-item835550
+FileChecksum: SHA1: 29bac8437372197ee0c2b09b1fce567017a9034c
+FileChecksum: MD5: 0573185690ece3cead881aaa70cb38cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/missing
+SPDXID: SPDXRef-item835551
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/Makefile.in
+SPDXID: SPDXRef-item835553
+FileChecksum: SHA1: b068cb230f94168e10652521077577e4c5524cc3
+FileChecksum: MD5: cb1f22fe407bd048b699f82c5505f2a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdsub/gstdvdsubdec.h
+SPDXID: SPDXRef-item835555
+FileChecksum: SHA1: 054a6733d8725cc4913142cc84d335cd2e68d77f
+FileChecksum: MD5: f5ac47292dd15ba29e9ad4d701b6d578
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdsub/Makefile.in
+SPDXID: SPDXRef-item835556
+FileChecksum: SHA1: 71a062e859b6f4c63398e18b0620d58c6adcd118
+FileChecksum: MD5: f77f5241ed1e3c8c8b8e5d64ff0c09a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdsub/meson.build
+SPDXID: SPDXRef-item835557
+FileChecksum: SHA1: b47c1922d19f80d36a1c546a134edd32f753d104
+FileChecksum: MD5: 1a610c3107f6e0d45a6db74c480f8701
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdsub/Makefile.am
+SPDXID: SPDXRef-item835558
+FileChecksum: SHA1: 5e1564869c438df05892a353dd88c719eaa30c0d
+FileChecksum: MD5: 1ef2ed8e4f116be5b53f5e7c7f046738
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdsub/gstdvdsubdec.c
+SPDXID: SPDXRef-item835559
+FileChecksum: SHA1: 39172c5565efa966f012741be60281e341e3a8ca
+FileChecksum: MD5: 1956381e3dd666db5c24f8a3ab73bb56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdsub/gstdvdsubparse.c
+SPDXID: SPDXRef-item835560
+FileChecksum: SHA1: 79debdad694a8af49b538ef0d78bb15a8bf84b28
+FileChecksum: MD5: cf4b96a735cb0505e5ca6d21cc78a476
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdsub/gstdvdsubparse.h
+SPDXID: SPDXRef-item835561
+FileChecksum: SHA1: 43b8985c65e7b7308ccfbb67daae57ea6fd6a265
+FileChecksum: MD5: d4b1a35ac9c9020f351e3eb8078209a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/xingmux/plugin.c
+SPDXID: SPDXRef-item835563
+FileChecksum: SHA1: 780297575719d43105e5e603eeb14fe38d83a088
+FileChecksum: MD5: 0c30e4864fe9c9aff34edbcdcaf4089f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/xingmux/Makefile.in
+SPDXID: SPDXRef-item835564
+FileChecksum: SHA1: dba41c133bb4054ddbe97b1dc5e5ebcac32b44ed
+FileChecksum: MD5: 748af9ca9bfdcaf8f845c94298fbe102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/xingmux/meson.build
+SPDXID: SPDXRef-item835565
+FileChecksum: SHA1: c25957054aa13102e1879b3ebc1b0fd6c5a71315
+FileChecksum: MD5: 1fbb3c292772bb491d64b6c94865e274
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/xingmux/gstxingmux.c
+SPDXID: SPDXRef-item835566
+FileChecksum: SHA1: 79b17f442be571e1955b432c92046daf92955b98
+FileChecksum: MD5: 235a9dafb5d14fa412a5ec04db6a7ca2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/xingmux/Makefile.am
+SPDXID: SPDXRef-item835567
+FileChecksum: SHA1: 4eae70d7a1bc914d9ad0ff7eb36811f0ee63cd4b
+FileChecksum: MD5: d20478a80fadeadc8ab176dffde3629f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/xingmux/gstxingmux.h
+SPDXID: SPDXRef-item835568
+FileChecksum: SHA1: 1c64bfe285a4aee0d6f080bfd2384b1c7dda2d0f
+FileChecksum: MD5: defdfdfd6a50faa37ee8b3ac2c5c0dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/meson.build
+SPDXID: SPDXRef-item835569
+FileChecksum: SHA1: 3dd95a8db9c162ca31a60ca99687c3cb34331b80
+FileChecksum: MD5: 4aca6131e08facb6f5785ebe2366c5f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/Makefile.am
+SPDXID: SPDXRef-item835570
+FileChecksum: SHA1: 957025240c5a89ac37164cb7d809d1abb7db47cd
+FileChecksum: MD5: 5855a53973eaf58a1582fc44b6599417
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/gstrtpasfdepay.h
+SPDXID: SPDXRef-item835572
+FileChecksum: SHA1: cb2355bf64c05f823c3d7add3242d94dcc052e15
+FileChecksum: MD5: f80cab13461d7286599819e7f5ed2b17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/gstrtspwms.h
+SPDXID: SPDXRef-item835573
+FileChecksum: SHA1: b668f2af2222f5ae92d02ff81354c2fa34b5afa7
+FileChecksum: MD5: c2fd0fb35b711d57ba6483917311e99d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/gstasf.c
+SPDXID: SPDXRef-item835574
+FileChecksum: SHA1: e8112547b07d2ab5b67ea3cb92aa0b64aac1aa73
+FileChecksum: MD5: 7d93c786f28130e5d43c9875fef071b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/Makefile.in
+SPDXID: SPDXRef-item835575
+FileChecksum: SHA1: ed4f8adf4d6e905c45d4b44f67fd0527acd0a75b
+FileChecksum: MD5: d5703f7be6b595bcef3ebf73b3958991
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/gstasfdemux.h
+SPDXID: SPDXRef-item835576
+FileChecksum: SHA1: f5410084c1528e32c308c401a52e1ae113917b8a
+FileChecksum: MD5: 7c53fb25b7263cf9188f4bd218ee5daa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/gstrtpasfdepay.c
+SPDXID: SPDXRef-item835577
+FileChecksum: SHA1: 6f7826075177c10fa184d1c1d479494742e0a417
+FileChecksum: MD5: 9cd5e942956efab3ea7fe1f5f8024df9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/meson.build
+SPDXID: SPDXRef-item835578
+FileChecksum: SHA1: 404e4d862ff03baa0e6878cefb6c75e0e714c85d
+FileChecksum: MD5: 7447d8b82afd270e80b1daf43a5c3e80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/Makefile.am
+SPDXID: SPDXRef-item835579
+FileChecksum: SHA1: 47d22e229986db7d7ab70efd5066fbc7a454a449
+FileChecksum: MD5: 1e8848fdf8fcd27c3695c49e7bc992d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/asfheaders.c
+SPDXID: SPDXRef-item835580
+FileChecksum: SHA1: 36cdc18d5ee03297cb67b8c6add179e767b76200
+FileChecksum: MD5: 3ef489b40a1a18577961411d4375b655
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/README
+SPDXID: SPDXRef-item835581
+FileChecksum: SHA1: c33dde6a7beccae4a751936f0bf2597df5671eaf
+FileChecksum: MD5: ad2069be567bbdb97f97a81ddf518447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/asfheaders.h
+SPDXID: SPDXRef-item835582
+FileChecksum: SHA1: 581344e64c730b4a2805d84b702097ed66fbce96
+FileChecksum: MD5: e937efb86aabf1bb5e8ee023d309dfbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/gstasfdemux.c
+SPDXID: SPDXRef-item835583
+FileChecksum: SHA1: 1516a9c76289129f941d25129db059df56aa3307
+FileChecksum: MD5: a633707c37d25e704f343c9ceb4aa58a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/gstrtspwms.c
+SPDXID: SPDXRef-item835584
+FileChecksum: SHA1: 82a4193cee4884d5efc9dc8be2e3637db8cf3c94
+FileChecksum: MD5: b7c9707690569e9c0fdbdee2b4bd8acf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/asfpacket.c
+SPDXID: SPDXRef-item835585
+FileChecksum: SHA1: c36ac4baa0f9c39bcd2f615e4e6a221ff9904ebf
+FileChecksum: MD5: c14c3bf405662f9e9b1190ed7607392d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/asfdemux/asfpacket.h
+SPDXID: SPDXRef-item835586
+FileChecksum: SHA1: edc4ae80d041c7ee8a8d90e332d64d1bd2ccfa5a
+FileChecksum: MD5: 29904ed79b65795f5cc475570f98f80a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rademux.c
+SPDXID: SPDXRef-item835588
+FileChecksum: SHA1: 3663f9f6c52844040a356059cd6d23a0272bd1e8
+FileChecksum: MD5: 7739dc456da848ac0bedb34b65d7b82f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/gstrdtbuffer.c
+SPDXID: SPDXRef-item835589
+FileChecksum: SHA1: 17dd479b9dcb4860c6d8d86854cf2a459c60984b
+FileChecksum: MD5: cfe1bc4fd7dce503e5e95fa458bb1450
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rmdemux.h
+SPDXID: SPDXRef-item835590
+FileChecksum: SHA1: 06bfc9d5af6f36ea66fd92a1ea77562917c9aada
+FileChecksum: MD5: 2f4a749d2fe52c333d46d60867d52a63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/Makefile.in
+SPDXID: SPDXRef-item835591
+FileChecksum: SHA1: 856b065ed9c2fe8199615619c43185f6ee0aff4a
+FileChecksum: MD5: 1176f8afea9cb9117466056f7cd34514
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rdtmanager.c
+SPDXID: SPDXRef-item835592
+FileChecksum: SHA1: f035ca524d65247a9f8acd9e1597e7342526a0a0
+FileChecksum: MD5: e9764e53eb4cfe0d5eaf479ae4ba991b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rtspreal.h
+SPDXID: SPDXRef-item835593
+FileChecksum: SHA1: 9c60110d8eaca111fc3ae50a88ae3a0a27774ff2
+FileChecksum: MD5: fe5e29ad39aa773c0e1a012bb957e248
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rdtdepay.h
+SPDXID: SPDXRef-item835594
+FileChecksum: SHA1: 5c47030097f717e12e1a6004290d53639bbed6d3
+FileChecksum: MD5: c9fbb294730520c78e4408eb25d1fae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/pnmsrc.c
+SPDXID: SPDXRef-item835595
+FileChecksum: SHA1: 45dfe1c115cd9e6d676cff84d00b96c6a77cdc46
+FileChecksum: MD5: 34b19a599a67583372a205e25db1ba2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/pnmsrc.h
+SPDXID: SPDXRef-item835596
+FileChecksum: SHA1: f9e004731bb7b269250204072ebaf0d9c4119ecc
+FileChecksum: MD5: 77e2c099ad610c9cb48cc0ad60cfec00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/gstrdtbuffer.h
+SPDXID: SPDXRef-item835597
+FileChecksum: SHA1: 0de761684cb1af6ea987ce28a08e3acc02f083bf
+FileChecksum: MD5: 26e40838d80b436ccb76561e78d6e345
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/meson.build
+SPDXID: SPDXRef-item835598
+FileChecksum: SHA1: c1227b525aebfdc8edb136dd2f41280bfa97545a
+FileChecksum: MD5: c18e1f4509c2b6eaf6131b504734ef62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/asmrules.c
+SPDXID: SPDXRef-item835599
+FileChecksum: SHA1: b3b9571ae5facea04ef024878bddbe1b64efaeb1
+FileChecksum: MD5: beb7de8f2216f451cd5a98f0b5b96a32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rademux.h
+SPDXID: SPDXRef-item835600
+FileChecksum: SHA1: a75887775f770df7ad1e6cd46936b16a295a0527
+FileChecksum: MD5: 13c87d3d4755a18edc40489327c43538
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rmutils.c
+SPDXID: SPDXRef-item835601
+FileChecksum: SHA1: 3fb78983c5ce9de9925c90bef604df25b05ddfef
+FileChecksum: MD5: 4e8e598a2be9380e7cd5c153fe49fc12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/Makefile.am
+SPDXID: SPDXRef-item835602
+FileChecksum: SHA1: c36f587e3e4cc1064cbc37ba1235fb8d0f4e46d2
+FileChecksum: MD5: 0c187add2bcc658d6a78220ae991ccf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rdtmanager.h
+SPDXID: SPDXRef-item835603
+FileChecksum: SHA1: 11635d16fd726e03e91c0a63b7026198cc7d2122
+FileChecksum: MD5: cedb94d09dbba048325510c78b8d99bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rtspreal.c
+SPDXID: SPDXRef-item835604
+FileChecksum: SHA1: 89491718726f4a8d6a4ce9dec4259451fe084c5e
+FileChecksum: MD5: 43e1e2a224322ec7751e3db0bf44b461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rdtdepay.c
+SPDXID: SPDXRef-item835605
+FileChecksum: SHA1: 5b7b6fd2a85c9aa43700afbcfe2518323df85b5e
+FileChecksum: MD5: 62f7941ea0caef7f52f1960059c4be57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/realmedia.c
+SPDXID: SPDXRef-item835606
+FileChecksum: SHA1: e35afeb7977bb17aa0dc9cff53950a56f3f50d9d
+FileChecksum: MD5: e5fe6888986b6e36da6fd145a403c45a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rmutils.h
+SPDXID: SPDXRef-item835607
+FileChecksum: SHA1: 4b17ea4552984cfbfd714d6e188c67dbdb88cadb
+FileChecksum: MD5: 410c391f82c9e5f4d264ec1edada470f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rdtjitterbuffer.c
+SPDXID: SPDXRef-item835608
+FileChecksum: SHA1: 62f38c66834c507919b227d3b67d716f2ff0416b
+FileChecksum: MD5: 7eaf5bc87b0ebe2c0f28e15591e7e03f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/realhash.h
+SPDXID: SPDXRef-item835609
+FileChecksum: SHA1: 6ed5620544b8773d804cfc6ed1f793a122474b9a
+FileChecksum: MD5: 1d1317e2dcc1f7203b2117716fdf222e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/realhash.c
+SPDXID: SPDXRef-item835610
+FileChecksum: SHA1: 5ee2200f05462d3840a42cfaf5dcc0df319c7360
+FileChecksum: MD5: 7d8b8bf587d8f7bfc7f9b97afd0a9351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rdtjitterbuffer.h
+SPDXID: SPDXRef-item835611
+FileChecksum: SHA1: b9c87d32a6d706ff0793f2652d008976ef02bd65
+FileChecksum: MD5: d3378b9b083c5fa960f3b07003c4e9a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/asmrules.h
+SPDXID: SPDXRef-item835612
+FileChecksum: SHA1: a64205113ca0bebe84c43c500377974eb384030c
+FileChecksum: MD5: 522a33e105a98e58be851b97bb1d3bb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/realmedia/rmdemux.c
+SPDXID: SPDXRef-item835613
+FileChecksum: SHA1: 9a047d640775e2d75764446950582d6c0966fb7d
+FileChecksum: MD5: 182c18e8b7fa3560f42a42642ad74c1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdlpcmdec/Makefile.in
+SPDXID: SPDXRef-item835615
+FileChecksum: SHA1: cc47477e94dc4a7445bfee76feeb2cd1ba031127
+FileChecksum: MD5: 3db6b143e49cc8f7533e75038dc4e408
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdlpcmdec/meson.build
+SPDXID: SPDXRef-item835616
+FileChecksum: SHA1: eface859417ab68130d47d3580f16e5599bc2409
+FileChecksum: MD5: bcd23d001b9c4e429f13644b5b94ffc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdlpcmdec/Makefile.am
+SPDXID: SPDXRef-item835617
+FileChecksum: SHA1: 2177ada7d7a44264faf50ba7e37ad93f2bd63ca7
+FileChecksum: MD5: 0e8dca416558e49864a756a836a08cad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdlpcmdec/gstdvdlpcmdec.c
+SPDXID: SPDXRef-item835618
+FileChecksum: SHA1: a733cb7c7577aaf7742804aac343dfdf5216f542
+FileChecksum: MD5: 4417483becdd4eee539f39b572575a6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst/dvdlpcmdec/gstdvdlpcmdec.h
+SPDXID: SPDXRef-item835619
+FileChecksum: SHA1: 5217e82c2b090a9f92e0e20203324600d9136ce5
+FileChecksum: MD5: 240ecb5752e68143e2d3c96804105170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/README
+SPDXID: SPDXRef-item835620
+FileChecksum: SHA1: 80d2a7f15a50069d65c391e6dc3b7252214e385b
+FileChecksum: MD5: 387cbe4631f731f118b695a48c8075be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/config.rpath
+SPDXID: SPDXRef-item835621
+FileChecksum: SHA1: 0ec08c5146b1d31c728c3ceb7ba90ac45a9f3972
+FileChecksum: MD5: 997e6d6329fdd69c134439110922c96b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/.pc/applied-patches
+SPDXID: SPDXRef-item835623
+FileChecksum: SHA1: 367a004fa212b3ef021707ad6a2117826dc90b23
+FileChecksum: MD5: cc87fd4e0f282e17152d359eebe29590
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/.pc/.quilt_series
+SPDXID: SPDXRef-item835624
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/.pc/.version
+SPDXID: SPDXRef-item835625
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/.pc/0001-introspection.m4-prefix-pkgconfig-paths-with-PKG_CON.patch/.timestamp
+SPDXID: SPDXRef-item835627
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/.pc/0001-introspection.m4-prefix-pkgconfig-paths-with-PKG_CON.patch/common/m4/introspection.m4
+SPDXID: SPDXRef-item835630
+FileChecksum: SHA1: 7e3bc00f25167e48dfe5437a6366e0b3fdde4cc4
+FileChecksum: MD5: 47631fddf862f4cbdcf267d7e6d90527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/.pc/.quilt_patches
+SPDXID: SPDXRef-item835631
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/configure.ac
+SPDXID: SPDXRef-item835632
+FileChecksum: SHA1: cbd128fda815ceec2d71e19ae09e267c47478e7f
+FileChecksum: MD5: d36dfbff95cacb4bb9476b2d0eab143c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/upload-doc.mak
+SPDXID: SPDXRef-item835634
+FileChecksum: SHA1: 3410954e26e4c6ce8a486469ffcf3e3ffb7d9c70
+FileChecksum: MD5: c9bce51af6727b82b788e966cdd82d32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/release.mak
+SPDXID: SPDXRef-item835635
+FileChecksum: SHA1: 61fa3c3fa01f3be0f2f17bf587eefab23d261cf7
+FileChecksum: MD5: f5a4380c4a755191e4a5e89ff3854b3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/gtk-doc-plugins.mak
+SPDXID: SPDXRef-item835636
+FileChecksum: SHA1: 641bcdbd91ba5b84b5a858ffbdde4a72b61f9512
+FileChecksum: MD5: 145c803b82e22a45b61616446a8261c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/glib-gen.mak
+SPDXID: SPDXRef-item835637
+FileChecksum: SHA1: ca9ec76873d7e5efcf0d8368b7266b51e1b8ca6d
+FileChecksum: MD5: 0084469955b2a715aa26907cf6a6f03d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/win32.mak
+SPDXID: SPDXRef-item835638
+FileChecksum: SHA1: b0587afad372e8a14f07875b2b824004e9f05045
+FileChecksum: MD5: 3daf4af620faa048d783a58e06b7eef6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/check.mak
+SPDXID: SPDXRef-item835639
+FileChecksum: SHA1: f9006d7438fcec886bad7ac78c5f0d0eb1551915
+FileChecksum: MD5: 35f000ca2ee5e365a275cf35f2d3724c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/Makefile.in
+SPDXID: SPDXRef-item835640
+FileChecksum: SHA1: 12bd64ee09129728eb58355ad21ddd8a6cd58915
+FileChecksum: MD5: febf4b9c0213cc563d339f1d312f8d89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/cruft.mak
+SPDXID: SPDXRef-item835641
+FileChecksum: SHA1: 075de51935a7bf1467e25385fbba357d1909c0e2
+FileChecksum: MD5: be2185fccb9c99eb874244b5e18c2797
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/scangobj-merge.py
+SPDXID: SPDXRef-item835642
+FileChecksum: SHA1: d6fa577463a467466211e6b4bfe8646399fe2c3e
+FileChecksum: MD5: 0d5f7cb0c0755e39fd4da65080a24f4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Python
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/orc.mak
+SPDXID: SPDXRef-item835643
+FileChecksum: SHA1: 8793fae1e41f0e817ba9d0b16bf6b22e535cd257
+FileChecksum: MD5: 73496ddd3a7df32676b95bb1c8e7ef19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/gst-indent
+SPDXID: SPDXRef-item835644
+FileChecksum: SHA1: ffa13ce545e452225723603ab1678dc282d471dd
+FileChecksum: MD5: 2e22e07f2282142b83aef5d78fc16b59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-plugindir.m4
+SPDXID: SPDXRef-item835646
+FileChecksum: SHA1: 812653280cbe49e322c92bb87055a9c3dcee585f
+FileChecksum: MD5: a68a4f997d2a5f433d96e959436d9b24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-auto-alt.m4
+SPDXID: SPDXRef-item835647
+FileChecksum: SHA1: d091605bd13b043b261fe35b694bcc0018a40296
+FileChecksum: MD5: 6e173d34d0c33fba8934b77b3744c104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-feature.m4
+SPDXID: SPDXRef-item835648
+FileChecksum: SHA1: 2210f6d7378bc47b569204766b144979e2a56743
+FileChecksum: MD5: 83f0d7a4ae67c06cedf57ed163e40099
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/orc.m4
+SPDXID: SPDXRef-item835649
+FileChecksum: SHA1: 23c4427e98431a619577c709271869fc8eabdb2a
+FileChecksum: MD5: f33b1b8f0967b7ab7e8150ba80670962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-python.m4
+SPDXID: SPDXRef-item835650
+FileChecksum: SHA1: 851b18a4046c0ff5274138913bcee5f994ac6025
+FileChecksum: MD5: 54223e758d71d9abb87fe4be44958644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-libtool.m4
+SPDXID: SPDXRef-item835651
+FileChecksum: SHA1: ae8e72d314b4d0f45ae63d394a47ff6d8eeb8a90
+FileChecksum: MD5: 243cf97e73527035c362ddcc9a3618fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/Makefile.in
+SPDXID: SPDXRef-item835652
+FileChecksum: SHA1: ed44200726e533f8ca5df7a6a2f758a8be417488
+FileChecksum: MD5: 3b88d45bd57794f46cb0eeeb0af2bb65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-ac-expand.m4
+SPDXID: SPDXRef-item835653
+FileChecksum: SHA1: d9e18190b9400343c7b5648ba6098a35695786c4
+FileChecksum: MD5: 06b8870c6d4e93116b439eaf75be9329
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-valgrind.m4
+SPDXID: SPDXRef-item835654
+FileChecksum: SHA1: cc5c2f9b4182b33aed4c2c95119c505426568e17
+FileChecksum: MD5: 1654f5cec01bfb2f80404c1ba1d856be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/introspection.m4
+SPDXID: SPDXRef-item835655
+FileChecksum: SHA1: 8a3c407bcf56ccabfdb07f80a64635da5630558a
+FileChecksum: MD5: 485095ea723b331efceda123117255be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-glib2.m4
+SPDXID: SPDXRef-item835656
+FileChecksum: SHA1: 5116347e9df8fd82e457e708481215d8f824d5ff
+FileChecksum: MD5: 4958f8697cf814bef450c5b2d667a795
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/Makefile.am
+SPDXID: SPDXRef-item835657
+FileChecksum: SHA1: 4d8fc9b2ff9c43ca1dabe40a7f7ea868bf0f7816
+FileChecksum: MD5: 1e3d44c3bfe24cf4eedc62e1af985da3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/ax_create_stdint_h.m4
+SPDXID: SPDXRef-item835658
+FileChecksum: SHA1: 35b2cdff58f172361c07759fe1c5c7e4a2ca53f7
+FileChecksum: MD5: 4f5824b8a90179246ba49b0d36cfdf4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-gcc-inline-assembly.m4
+SPDXID: SPDXRef-item835659
+FileChecksum: SHA1: a99e3594884d3ded4272d47a57f3cb1454cfa0e4
+FileChecksum: MD5: 7dfe41ac9c4e9a6a15139cdc9feb3ced
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gtk-doc.m4
+SPDXID: SPDXRef-item835660
+FileChecksum: SHA1: 6f1b3fc7b9e4e780a85c8eb6daf55ab8479443ba
+FileChecksum: MD5: b5ae6202b43779223c60980328eb7eba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-check.m4
+SPDXID: SPDXRef-item835661
+FileChecksum: SHA1: 934b87475134e79cb57f715e66eefc6b15707eb4
+FileChecksum: MD5: 6a759019c978e62ee349c45146ea0a18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-function.m4
+SPDXID: SPDXRef-item835662
+FileChecksum: SHA1: 4f5bb978b35d3f979180cc1f0cb245047763f183
+FileChecksum: MD5: f17e574340f07b358fdc2861a3085d0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-compiler.m4
+SPDXID: SPDXRef-item835663
+FileChecksum: SHA1: 72f9aba8227597bbeae7b34e71485cc9436ef7b3
+FileChecksum: MD5: 77b91eda02efebc82306f951b022924b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-gettext.m4
+SPDXID: SPDXRef-item835664
+FileChecksum: SHA1: 75dcd6d511618f12cef9aaf3253d44b73e532b74
+FileChecksum: MD5: f5b5795087e73745d0036f531b83a2d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-dowhile.m4
+SPDXID: SPDXRef-item835665
+FileChecksum: SHA1: ec04a8826224476f2ea3566c397ba26ce4066d13
+FileChecksum: MD5: b0fa7dc5ab42ae3fd703405b49070168
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-libxml2.m4
+SPDXID: SPDXRef-item835666
+FileChecksum: SHA1: 7ca73f4afd8a18d79ec24f1ff66f5c5a2a55cd80
+FileChecksum: MD5: 7c0bfcdd194d8d3fe1155beb6811e452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/README
+SPDXID: SPDXRef-item835667
+FileChecksum: SHA1: 357537cdacedff967d5a458626ecc857c00594f6
+FileChecksum: MD5: 3a36f9a5f5a7d1fa28aff9e8affe4f20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-compiler-flag.m4
+SPDXID: SPDXRef-item835668
+FileChecksum: SHA1: a885b85918475992b96804347da9d2fdd584eea0
+FileChecksum: MD5: 429aae5b03d8645ec1bcf6b1e26b58c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-platform.m4
+SPDXID: SPDXRef-item835669
+FileChecksum: SHA1: e8ca19f83745223d9c08240868ffcb0f1ed0974c
+FileChecksum: MD5: b491dcd09280f97cd099aa9bc9868cb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-args.m4
+SPDXID: SPDXRef-item835670
+FileChecksum: SHA1: 53fe3cf72040b2baecbf3036fa0fb3d403cc2888
+FileChecksum: MD5: b71c97497e95b2a69c6171c170b11b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-plugin-docs.m4
+SPDXID: SPDXRef-item835671
+FileChecksum: SHA1: 63d4cba7e78f2d963a331b42a9479ea3eb6419f9
+FileChecksum: MD5: 93d4b240af2a4626f50cd212a956c466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/glib-gettext.m4
+SPDXID: SPDXRef-item835672
+FileChecksum: SHA1: bff661fe0b2cad854a10975b9dc901c78a36b2dd
+FileChecksum: MD5: 8ee68e8df2eac519a60319a10eeb729b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-version.m4
+SPDXID: SPDXRef-item835673
+FileChecksum: SHA1: 3185909cef1f8278f84d7015eca6a987e9221a71
+FileChecksum: MD5: ce107e55a8285f10c28eee346edb169c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-libtool-tags.m4
+SPDXID: SPDXRef-item835674
+FileChecksum: SHA1: 0e3e9f3254b1594258e870527099eac9dc23d2a9
+FileChecksum: MD5: 13f9d2aecec3214f6c7f329b50765b1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst.m4
+SPDXID: SPDXRef-item835675
+FileChecksum: SHA1: fe032bdd61e17c15d32b4b55bec0a05a6715b6cc
+FileChecksum: MD5: f28a5809efa3dcbc09ba86977c9ddf22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-arch.m4
+SPDXID: SPDXRef-item835676
+FileChecksum: SHA1: 7d7d9cdc45ae69409b36fbd5681f69dd4ba7279c
+FileChecksum: MD5: d7395a513f4b5c742eadb47ded59eac2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-doc.m4
+SPDXID: SPDXRef-item835677
+FileChecksum: SHA1: 5599ba5c7936730b1eba8d15db41864a7b54aa29
+FileChecksum: MD5: fadff57e5b3a958a79d5069a81a97d0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-x11.m4
+SPDXID: SPDXRef-item835678
+FileChecksum: SHA1: 52516ecdc3c67373400acbeb0ba0064e3e389af6
+FileChecksum: MD5: d90dc324b64715447341190ad3445c6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/pkg.m4
+SPDXID: SPDXRef-item835679
+FileChecksum: SHA1: 36ceb1b5014b55df700b79442c04db6755f3c365
+FileChecksum: MD5: 84f4c817d89ea6239ba46654334db49a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-error.m4
+SPDXID: SPDXRef-item835680
+FileChecksum: SHA1: d5924d6a545003528f2b8b6ec51d2a0278d26b1e
+FileChecksum: MD5: 8efb38323c1ab5714664bf5dea64e470
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/ax_pthread.m4
+SPDXID: SPDXRef-item835681
+FileChecksum: SHA1: a3aad82f3a8ba3b2d77ea5b7aadfa78c30d2091f
+FileChecksum: MD5: 601c22784e19af676833e642b0659b73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-3.0--with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/check.m4
+SPDXID: SPDXRef-item835682
+FileChecksum: SHA1: 04c9953a59beb0849e4b5201abce3976c853158d
+FileChecksum: MD5: 49586b3168824edd4b918eebe414b32c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/as-docbook.m4
+SPDXID: SPDXRef-item835683
+FileChecksum: SHA1: c3a624a9ef403e35de8cbb90fcc8d39a37aa84db
+FileChecksum: MD5: 41594f24a85d160636457727fc844b7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-package-release-datetime.m4
+SPDXID: SPDXRef-item835684
+FileChecksum: SHA1: b2a5a846d9d0958a59fdf7e878a410f53986f44f
+FileChecksum: MD5: 2191626d0cefa1c5b4592a39b27af0b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-debuginfo.m4
+SPDXID: SPDXRef-item835685
+FileChecksum: SHA1: f44576689b80d449820786fbd44d59c20a7de148
+FileChecksum: MD5: 06a47f77d545f7e083e6eb556aaebd52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-parser.m4
+SPDXID: SPDXRef-item835686
+FileChecksum: SHA1: 27396e0d0aa1e953a4ec3a62f6d1b292ad399e6f
+FileChecksum: MD5: c5ce7075b5b950051dcfee0a82f83801
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/m4/gst-default.m4
+SPDXID: SPDXRef-item835687
+FileChecksum: SHA1: 9e0e0bfdb0c150d6a42bcbce4e5f990275f3e2c4
+FileChecksum: MD5: 1f10a05221a31f5b06fe6a5bbc61ede0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/c-to-xml.py
+SPDXID: SPDXRef-item835688
+FileChecksum: SHA1: a73cfcb8cb5dedc37cbe2bf101f60963428e10d0
+FileChecksum: MD5: 37a76bcac58fb8e8fa9cc4b909c94350
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/po.mak
+SPDXID: SPDXRef-item835689
+FileChecksum: SHA1: 94054ed6d3d1a3be80637f8104b0b7bb11fcc3e8
+FileChecksum: MD5: f611cf1eeb93e5a1d76f3705c2cdd8e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/Makefile.am
+SPDXID: SPDXRef-item835690
+FileChecksum: SHA1: 3787a6b8abf058e77f3dcd6b5d883ad3f4426ba4
+FileChecksum: MD5: 559e8cd1671fc42ac0be97494e03cde2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/parallel-subdirs.mak
+SPDXID: SPDXRef-item835691
+FileChecksum: SHA1: 1578c0786417b5842499d845b61807b10f725cfe
+FileChecksum: MD5: 0e19b65ed6d38c13c552fd8e9c30dc85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/mangle-db.py
+SPDXID: SPDXRef-item835692
+FileChecksum: SHA1: 9b00c3ddc73e9037c2053b14a95acf55bdc5753c
+FileChecksum: MD5: e846d33c601b52896d25c88857836086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/gst-autogen.sh
+SPDXID: SPDXRef-item835693
+FileChecksum: SHA1: 0646e8eabf9cee9f312c4595123ceba5bfc5f95e
+FileChecksum: MD5: 44dbd9960a32c0cd4835cfdc2283948e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/README
+SPDXID: SPDXRef-item835694
+FileChecksum: SHA1: 197095691158025a9e9cadaeb840f9563d5ff867
+FileChecksum: MD5: 2c8d68ce14938bd2e0cd3827b8113f2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/gettext.patch
+SPDXID: SPDXRef-item835695
+FileChecksum: SHA1: abd136152f2237ca77c4b7250ab25a891e37980e
+FileChecksum: MD5: ccebda3128835569e35aaf04f59ed765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/plugins.xsl
+SPDXID: SPDXRef-item835696
+FileChecksum: SHA1: 4b16dd6416ddf1f69c77e5103703299d382dcb28
+FileChecksum: MD5: 1d836613c18d16389ebe54f49d73227b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/download-translations
+SPDXID: SPDXRef-item835697
+FileChecksum: SHA1: d49953ec7550b7756512c7fdc479a1bfa80494af
+FileChecksum: MD5: 8b29885fa983b815398cc352bbd66657
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/check-exports
+SPDXID: SPDXRef-item835698
+FileChecksum: SHA1: b13b1a9986fea7dbd8c0ac4e12b67bcc901cfc2d
+FileChecksum: MD5: 80adb8dcb220df5cdde2b862722005a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/coverage/coverage-report.pl
+SPDXID: SPDXRef-item835700
+FileChecksum: SHA1: b2ce9d717992c7ee590ef18515bf77c873d06b7c
+FileChecksum: MD5: d7bce9264c50c3db21f59f1a131b3685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/coverage/lcov.mak
+SPDXID: SPDXRef-item835701
+FileChecksum: SHA1: 24b553f6168fba90313f2a48a8db7d033729f6ab
+FileChecksum: MD5: c3c0f0d350352fdf743e086caf44ef35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/coverage/coverage-report-entry.pl
+SPDXID: SPDXRef-item835702
+FileChecksum: SHA1: a1f778c2542a12364580737e6896b2c7d4fb3785
+FileChecksum: MD5: 3a3cea4b5d8bb1e5b64c25c8311874bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/coverage/coverage-report.xsl
+SPDXID: SPDXRef-item835703
+FileChecksum: SHA1: 3eb1de3555c0b8db592c6688a2906050695bc79c
+FileChecksum: MD5: fa257ee198cc2f47ccac7e146c018b2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/gstdoc-scangobj
+SPDXID: SPDXRef-item835704
+FileChecksum: SHA1: 9fbdc533a2538263a4640d8515fbbfa2795c6917
+FileChecksum: MD5: 5cfc670b1bc0315aae61c48e6821a592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/extract-release-date-from-doap-file
+SPDXID: SPDXRef-item835705
+FileChecksum: SHA1: 6e7de85a067e4226c9e514d9f3632313b7da8cfb
+FileChecksum: MD5: b0be635a714ec6e0ae931978b16ae205
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/gst.supp
+SPDXID: SPDXRef-item835706
+FileChecksum: SHA1: 90be35b7b841ccf42d56cfc2774db587b55580a6
+FileChecksum: MD5: 37ed71eb1db006a5e340b1747cda022f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/gtk-doc.mak
+SPDXID: SPDXRef-item835707
+FileChecksum: SHA1: ca229faeaaf09854f29ca779dc018c7eeb49cf93
+FileChecksum: MD5: 1d3a12dfed3b906012258da9c18a0ac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/common/ChangeLog
+SPDXID: SPDXRef-item835708
+FileChecksum: SHA1: 18682468d79c49bead6766e9c5862e4df74c01bf
+FileChecksum: MD5: 43d6cfc171e3b7c623c0685e16039979
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/a52dec/gsta52dec.h
+SPDXID: SPDXRef-item835711
+FileChecksum: SHA1: 7d96f2e96f7b772253eb20dc24bb2786d888ff78
+FileChecksum: MD5: 52cebd3e8d6c6fbf19857663e497ef05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/a52dec/gsta52dec.c
+SPDXID: SPDXRef-item835712
+FileChecksum: SHA1: 7139dfe38ce434d6bd52d79ee69fbeaa487813ed
+FileChecksum: MD5: d39fd729566ce3fb06f2ff0ad6f5a823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/a52dec/Makefile.in
+SPDXID: SPDXRef-item835713
+FileChecksum: SHA1: 3eea4fecf37b2134c857c348821786b0449fdf33
+FileChecksum: MD5: c64edf881e72be9e0bd2aad8b224f5ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/a52dec/meson.build
+SPDXID: SPDXRef-item835714
+FileChecksum: SHA1: 04631d0b21fdade50ba7c95a4193c039a37f2d7a
+FileChecksum: MD5: 70228d4d816e66fccaee5f24722ea2a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/a52dec/Makefile.am
+SPDXID: SPDXRef-item835715
+FileChecksum: SHA1: f681f0b78ea31878d6767827848dc422fc2212e7
+FileChecksum: MD5: e296256bbcd8ae44f6dba9666f30bbcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/twolame/Makefile.in
+SPDXID: SPDXRef-item835717
+FileChecksum: SHA1: d3ccb9cd36abae1390bde19c5a45c0c328964f33
+FileChecksum: MD5: 36eb8cf29d77a093bceb49d9181ab3c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/twolame/meson.build
+SPDXID: SPDXRef-item835718
+FileChecksum: SHA1: 3748e0ec6edb041f481e8a5f8316a6bf6baa1573
+FileChecksum: MD5: 5af53ffee0dff551072870fa598b2a87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/twolame/Makefile.am
+SPDXID: SPDXRef-item835719
+FileChecksum: SHA1: 65692a69e8d71e8df42aef63168d2b7f0905888e
+FileChecksum: MD5: 5b5d7729f31c6ac0396234248e20bab3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/twolame/gsttwolamemp2enc.h
+SPDXID: SPDXRef-item835720
+FileChecksum: SHA1: 339b0da070c97926786295edad62e4752dfb20eb
+FileChecksum: MD5: b5c9d90235182df27db7d42b80cba9d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/twolame/gsttwolamemp2enc.c
+SPDXID: SPDXRef-item835721
+FileChecksum: SHA1: 52370a121423c48bba2dea4f5dd1094b3395b100
+FileChecksum: MD5: c7d8b1a1de2c52f3a9fab572314667d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/sidplay/Makefile.in
+SPDXID: SPDXRef-item835723
+FileChecksum: SHA1: bafd08fc76558bdf5106d4a5b8bb8c96bc09f08d
+FileChecksum: MD5: e0af267223cba6a7f842a96f45aae26b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/sidplay/gstsiddec.cc
+SPDXID: SPDXRef-item835724
+FileChecksum: SHA1: 77575de1448adad59e6febb1a86f258069222d45
+FileChecksum: MD5: 68ce4471bb2e22f16be7010829c8e766
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/sidplay/gstsiddec.h
+SPDXID: SPDXRef-item835725
+FileChecksum: SHA1: 36cbdd647811a5ee5c9efd89654c52dfab4fa0fe
+FileChecksum: MD5: 102b2aa663ad34e2a39269e5d25d6913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/sidplay/Makefile.am
+SPDXID: SPDXRef-item835726
+FileChecksum: SHA1: e3b0acfaec8aa360de2cafbffa2b32e8b934f4d2
+FileChecksum: MD5: 9bd9f48fdbe009107117cab90fdb96df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/Makefile.in
+SPDXID: SPDXRef-item835727
+FileChecksum: SHA1: 429b08369738458c3dbe8fc0c627d2125cfe423d
+FileChecksum: MD5: c434f6e6064dcba80a2b30799e9117b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/meson.build
+SPDXID: SPDXRef-item835728
+FileChecksum: SHA1: b2cbdecff7fd575a4f1d6138bb9a6eb9a8f0a62c
+FileChecksum: MD5: b16491175b8a6c491bd455b46e848fca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpeg2dec/gstmpeg2dec.c
+SPDXID: SPDXRef-item835730
+FileChecksum: SHA1: 45c45513e621487d23a7311e4761a960db56c173
+FileChecksum: MD5: a61b948ee9ba9511a9d1be4fd760510d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpeg2dec/Makefile.in
+SPDXID: SPDXRef-item835731
+FileChecksum: SHA1: 09df4f147d5db4fd38ef47de1b32f02bc32427b6
+FileChecksum: MD5: 033a34775b80acd46d91a0cfa78e2544
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpeg2dec/meson.build
+SPDXID: SPDXRef-item835732
+FileChecksum: SHA1: 21d867c740b0bfbf4f781c528a5e6ef363952538
+FileChecksum: MD5: 53f8428fbe4f1f8fb7410ea99206ecd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpeg2dec/Makefile.am
+SPDXID: SPDXRef-item835733
+FileChecksum: SHA1: 45c23a4bb6df780ed0996507ae33acbee86f118e
+FileChecksum: MD5: 4eedc53eff3b1292f9e4ee4426905c3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpeg2dec/gstmpeg2dec.h
+SPDXID: SPDXRef-item835734
+FileChecksum: SHA1: abd657aa7a6b6e4ec04d2b2e368cdbd47ed4a470
+FileChecksum: MD5: 44d627c608314a88c12d2bb21c192dc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/cdio/gstcdio.c
+SPDXID: SPDXRef-item835736
+FileChecksum: SHA1: 833f35ab97f74186468cdfb2dcc6f882e8c749c1
+FileChecksum: MD5: 4806c4537313424c71aae727b8121bed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/cdio/Makefile.in
+SPDXID: SPDXRef-item835737
+FileChecksum: SHA1: d971eba6b3925aa89e352131ba0153646f318246
+FileChecksum: MD5: 964ceae32fc3cb0de3bf87373b6e649c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/cdio/meson.build
+SPDXID: SPDXRef-item835738
+FileChecksum: SHA1: 27afc320837ae763c71af72f52c1b2b09e32bf06
+FileChecksum: MD5: 0fc97a637b0d3ff6b9f4189d87904258
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/cdio/gstcdiocddasrc.h
+SPDXID: SPDXRef-item835739
+FileChecksum: SHA1: 4dbfd0a6449d94da8f262f61550330ad73a17ff5
+FileChecksum: MD5: 1cd392a2a6df7e75a5d83f87fbf87494
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/cdio/Makefile.am
+SPDXID: SPDXRef-item835740
+FileChecksum: SHA1: 2860f6a7bc05864803616011dee0be3402a716d4
+FileChecksum: MD5: 3abdedacf949425d4a4f6674c66e1745
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/cdio/gstcdiocddasrc.c
+SPDXID: SPDXRef-item835741
+FileChecksum: SHA1: 052306056875144b09f27f937ec48997ac07f578
+FileChecksum: MD5: 9e5d8782ecf51d3a1d58c6a7e569bd7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/cdio/gstcdio.h
+SPDXID: SPDXRef-item835742
+FileChecksum: SHA1: 47747b27122b1a60cfa37ed69ca7416b2fedd7a4
+FileChecksum: MD5: 13963cd0d9e0eaeb48d51138a3d866f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/x264/Makefile.in
+SPDXID: SPDXRef-item835744
+FileChecksum: SHA1: eac5dd7a296e6fc1e6b6c0bec55c11f9a555e001
+FileChecksum: MD5: fb46837daab3e8971098f2a5dfa170ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/x264/meson.build
+SPDXID: SPDXRef-item835745
+FileChecksum: SHA1: e59d72f951c5137fbe5b19fbe5571eabf842748d
+FileChecksum: MD5: 48a0b5a7592238288998e8d984adc1a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/x264/gstx264enc.h
+SPDXID: SPDXRef-item835746
+FileChecksum: SHA1: 53e4b92ef0f9f2a4f5f1280c0a6922148bf5e5aa
+FileChecksum: MD5: b46b3dd2b36a6a2eab75fe05d4032b19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/x264/Makefile.am
+SPDXID: SPDXRef-item835747
+FileChecksum: SHA1: d0e233a3437665c743c5ff89429a27ecfbbc09b9
+FileChecksum: MD5: b184cf062df411732744978d2a58832c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/x264/GstX264Enc.prs
+SPDXID: SPDXRef-item835748
+FileChecksum: SHA1: 957f87f2bc15a5c142f2e212fffbc5d3f241cf61
+FileChecksum: MD5: 307443b76673b42aa059888febc53b8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/x264/gstx264enc.c
+SPDXID: SPDXRef-item835749
+FileChecksum: SHA1: 0f706a285e37020ded7eefc0798700997acd80e5
+FileChecksum: MD5: 0ec2564d248014b4032dce4a8e62a98c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrwbdec/Makefile.in
+SPDXID: SPDXRef-item835751
+FileChecksum: SHA1: 313a6092f5e19aeb25f1a93a918cbbdd02e29b20
+FileChecksum: MD5: 23fa5681683b04f4758079ca71cdf3dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrwbdec/amrwbdec.c
+SPDXID: SPDXRef-item835752
+FileChecksum: SHA1: dcb30f7fa026812b26f89e8485f0e292b79055c0
+FileChecksum: MD5: 7029d1a1ad161b16ffafdea86915369b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrwbdec/meson.build
+SPDXID: SPDXRef-item835753
+FileChecksum: SHA1: 23a7d742a17b1227873489fb22e65eced1286f5c
+FileChecksum: MD5: d1086e9717741e28bae596c1b82f4cad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrwbdec/Makefile.am
+SPDXID: SPDXRef-item835754
+FileChecksum: SHA1: 9cf70e0224d7f23f911b1822f1819877bf78a776
+FileChecksum: MD5: eb5bd3900bbc382070eadbc220aa3593
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrwbdec/amrwbdec.h
+SPDXID: SPDXRef-item835755
+FileChecksum: SHA1: 0de1ee7e99d8000e3130c8070e231f54934db2cb
+FileChecksum: MD5: 188d1491ac93d839f03850a3513aae19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrwbdec/README
+SPDXID: SPDXRef-item835756
+FileChecksum: SHA1: 0ef00515d3cc9753f6e92c5c526e06c19e79d8fb
+FileChecksum: MD5: dcaa6724fa61087183ac3033f5fa4ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrwbdec/amrwb.c
+SPDXID: SPDXRef-item835757
+FileChecksum: SHA1: cc4542dce84b4838d3f32f0ae209a1678c2791e7
+FileChecksum: MD5: 2b99979d06cff2385ec32f22dfb9b21a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/Makefile.am
+SPDXID: SPDXRef-item835758
+FileChecksum: SHA1: 62bc1fa8e56c25d483efe5fd3112c4df62ed7398
+FileChecksum: MD5: 700e752bf4837a7cac4c1b0b0add7f95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/lame/plugin.c
+SPDXID: SPDXRef-item835760
+FileChecksum: SHA1: 62b6b5a0c4220e7a60bb4ddba9455602c0993938
+FileChecksum: MD5: 090ee33fb6572ae0564bb288904c2763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/lame/gstlamemp3enc.c
+SPDXID: SPDXRef-item835761
+FileChecksum: SHA1: 82663dc4b4e8724868b31b50de555910e1ab69d0
+FileChecksum: MD5: 7f4ea466d49da0cd83df174cd5b63d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/lame/Makefile.in
+SPDXID: SPDXRef-item835762
+FileChecksum: SHA1: 93a6210a768634d7b6494d10e2568599addf3129
+FileChecksum: MD5: fc219819130e8de982463bbd19d304d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/lame/gstlamemp3enc.h
+SPDXID: SPDXRef-item835763
+FileChecksum: SHA1: 57beda5a3523ec4f5919f8a3b56cd6daee912f7d
+FileChecksum: MD5: 7db6972cfe39c3cd39c9ad21791fa12b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/lame/meson.build
+SPDXID: SPDXRef-item835764
+FileChecksum: SHA1: 6cfc833bc57ce49fe6860452b354cb70c74ddc4a
+FileChecksum: MD5: 3467932e28e16efe373bca3dc08acad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/lame/Makefile.am
+SPDXID: SPDXRef-item835765
+FileChecksum: SHA1: 78121517f2477a2c516930d6e0ba7b4f50b4d529
+FileChecksum: MD5: 51e34c1119305a953aac44656eb288cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/dvdread/Makefile.in
+SPDXID: SPDXRef-item835767
+FileChecksum: SHA1: ffe69ba97bc158c9c308de07d5ba1a3c6976fd2d
+FileChecksum: MD5: eef20618db5cbcfe8dffed3bd925a1e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/dvdread/demo-play
+SPDXID: SPDXRef-item835768
+FileChecksum: SHA1: 595528f21cd41da86b041006fe13ea29a7d8e5b5
+FileChecksum: MD5: 25acd2fdc86f5622ce2e0b56a8862b46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/dvdread/dvdreadsrc.h
+SPDXID: SPDXRef-item835769
+FileChecksum: SHA1: 30e92d848025fef345fea55cdc6e722b991d18f2
+FileChecksum: MD5: 5231bce4194ae070eaf6254f257cb10f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/dvdread/meson.build
+SPDXID: SPDXRef-item835770
+FileChecksum: SHA1: e894dad8b47676adec6b64d6fe018e7db590ade4
+FileChecksum: MD5: ca04597c5439b3b4e48c9fe79e57438e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/dvdread/Makefile.am
+SPDXID: SPDXRef-item835771
+FileChecksum: SHA1: 2bb2bb47a6e9482b8b8ed547c49c7b010e083fdb
+FileChecksum: MD5: 739b9bca892544b2d83d10b706157d20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/dvdread/dvdreadsrc.c
+SPDXID: SPDXRef-item835772
+FileChecksum: SHA1: 8ae3207eaeb679cc711444939b1659d06cfbe094
+FileChecksum: MD5: 7f49cdf43e7b878b409b3e1a4f29c780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/dvdread/README
+SPDXID: SPDXRef-item835773
+FileChecksum: SHA1: 24d04c471c0ee02664ab40871333fbbfcdd04b6d
+FileChecksum: MD5: be881c6d59d904d5aa50cc1a18f04c18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/amrnbdec.h
+SPDXID: SPDXRef-item835775
+FileChecksum: SHA1: 75e7446d5282530d3cb51c25473625bc693d97f2
+FileChecksum: MD5: d9abd38b439d034199d6dbd6779b4e36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/Makefile.in
+SPDXID: SPDXRef-item835776
+FileChecksum: SHA1: f91e6744f80b2d3c83a5927af040c8653d0d3a15
+FileChecksum: MD5: a8485fb7f2b857d7bf03eca14ef66efb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/meson.build
+SPDXID: SPDXRef-item835777
+FileChecksum: SHA1: 7b8e8b42173c5f36f03ef670754a0f548a86ae37
+FileChecksum: MD5: 0eb9c89399e8b13251bd0d9a335cbbcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/Makefile.am
+SPDXID: SPDXRef-item835778
+FileChecksum: SHA1: cfe9f32ec2dcac023ca06fa9cf06f31dc3e9b83b
+FileChecksum: MD5: 410c86a6cde0464723311d2b69155dc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/amrnbenc.c
+SPDXID: SPDXRef-item835779
+FileChecksum: SHA1: dfced793eaea28f9ebf433fb9a62f94b71eae805
+FileChecksum: MD5: af1ec8737b5c784f42e42f138130a393
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/README
+SPDXID: SPDXRef-item835780
+FileChecksum: SHA1: e685ffff54335d8ab39b1ac1d8c672c05cfd599b
+FileChecksum: MD5: 2c9ff532fb2fc8ae8e20acb11c039432
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/amrnbenc.h
+SPDXID: SPDXRef-item835781
+FileChecksum: SHA1: 09bb1bc19aad6557fb01b7879418ee50cc2e2296
+FileChecksum: MD5: 12768eade0234a11cf4cc09d722dc18e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/amrnb.c
+SPDXID: SPDXRef-item835782
+FileChecksum: SHA1: 724919967af6a19eb9d202ce9a19cf8f710f71f2
+FileChecksum: MD5: 3fb77ed13bda9c0d3dfd6f2f0a6557cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/GstAmrnbEnc.prs
+SPDXID: SPDXRef-item835783
+FileChecksum: SHA1: 1fcf1f8b045552c9ae956057270d400ab29b54e7
+FileChecksum: MD5: dfc4c511c8b1d90bce41e1b9595c429b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/amrnb/amrnbdec.c
+SPDXID: SPDXRef-item835784
+FileChecksum: SHA1: c5747912bc105354541ae9cdca0251638ca26d77
+FileChecksum: MD5: 82b4017545a7bfddcebb73f46f2c012f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpg123/Makefile.in
+SPDXID: SPDXRef-item835786
+FileChecksum: SHA1: 0f9ad1b8e98d3bebf6f1b2adb5fb652b444bc77d
+FileChecksum: MD5: f1d34efaadd466c947a6d6831459d6c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpg123/gstmpg123audiodec.h
+SPDXID: SPDXRef-item835787
+FileChecksum: SHA1: b7397642aac660573914a743a5e6cb6c1c79daea
+FileChecksum: MD5: 973921c3b5d86a1a9c5a06a7ec013b42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpg123/meson.build
+SPDXID: SPDXRef-item835788
+FileChecksum: SHA1: 73d4acac16df0e96b0294017c813e74562689178
+FileChecksum: MD5: 4c3fc75842adb08b19ddc6caebdda915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpg123/Makefile.am
+SPDXID: SPDXRef-item835789
+FileChecksum: SHA1: e954d2b8a478393e8084541960f5ffea80b59a76
+FileChecksum: MD5: a4dcde67781486536423eb4e9f64a2c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ext/mpg123/gstmpg123audiodec.c
+SPDXID: SPDXRef-item835790
+FileChecksum: SHA1: f77d5163de4987ee006fa42015da21abb7ead0da
+FileChecksum: MD5: ddabb0f55c6b90ec2577dd7baa6424ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/random/ChangeLog-0.8
+SPDXID: SPDXRef-item835793
+FileChecksum: SHA1: 24158542a0c455de4b6fbeee198c176f2752d4ef
+FileChecksum: MD5: 61fab79b81a8c70fcb07a66fc41c52c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/Makefile.in
+SPDXID: SPDXRef-item835794
+FileChecksum: SHA1: 7b3c218c3640fc296f4f26f57febc83d0125d0ca
+FileChecksum: MD5: 48c1bd1f625aaeaeee5c7af3fedea935
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/version.entities.in
+SPDXID: SPDXRef-item835795
+FileChecksum: SHA1: cca670dc82dfcbca76f097fa3b2631d8e8881823
+FileChecksum: MD5: a9b9dc0579f9ff0b834b1ea603613341
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/gst-plugins-ugly-plugins.prerequisites
+SPDXID: SPDXRef-item835797
+FileChecksum: SHA1: e43100402cd51035a413f221ba8d2c490509a9e7
+FileChecksum: MD5: a27899347e9c8ec08765a9467f37c176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/gst-plugins-ugly-plugins.args
+SPDXID: SPDXRef-item835798
+FileChecksum: SHA1: dc4c835db0155a06d80387d6c581b3e1b16cd247
+FileChecksum: MD5: c615c78a6674fd083f6e13386aefdbd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/gst-plugins-ugly-plugins-docs.sgml
+SPDXID: SPDXRef-item835799
+FileChecksum: SHA1: 592596f435f5262c7f5d44bcd1416c490d05aca7
+FileChecksum: MD5: dc0d6bcdb7733f1d3f4f43b4a7320812
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/Makefile.in
+SPDXID: SPDXRef-item835800
+FileChecksum: SHA1: 463bc56cf810efd7cf6abfd2d8b0246ca88e242a
+FileChecksum: MD5: e8e2cdf554ef58c833605d3036d3f21e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/gst-plugins-ugly-plugins.types
+SPDXID: SPDXRef-item835801
+FileChecksum: SHA1: 583c3ca4d33191024a8e59fba53366955601ccf2
+FileChecksum: MD5: 9527a3b5fab3dfa7ef6ee0a2a4bc7274
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/Makefile.am
+SPDXID: SPDXRef-item835802
+FileChecksum: SHA1: 71cc90c778c8856df2cf9ced1548c17a989de434
+FileChecksum: MD5: 78f7ef3fa09c5c47d493d69611c4f697
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/gst-plugins-ugly-plugins.signals
+SPDXID: SPDXRef-item835803
+FileChecksum: SHA1: 5013489e68fed644abf89b3f001565e22f896e41
+FileChecksum: MD5: 91b7779611ce5b46d7b2bbde819ac734
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/scanobj-build.stamp
+SPDXID: SPDXRef-item835804
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/gst-plugins-ugly-plugins.interfaces
+SPDXID: SPDXRef-item835805
+FileChecksum: SHA1: de3f24eb7535de82686dcc8cbc6ab631e2aa2416
+FileChecksum: MD5: d55fd1f3fec6bcb64ce6010023663cca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-lame.xml
+SPDXID: SPDXRef-item835807
+FileChecksum: SHA1: 1dbe1e55684b083f50c4f17cdc568ca37ad1ab78
+FileChecksum: MD5: c90faf672153b2eea4fdf1a590e41173
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-mpeg2dec.xml
+SPDXID: SPDXRef-item835808
+FileChecksum: SHA1: 4b200e636de8c19e98de2df53c0cc7d3bb0e6fba
+FileChecksum: MD5: f9ab1486e3e44657722300fd676cd321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-realmedia.xml
+SPDXID: SPDXRef-item835809
+FileChecksum: SHA1: 81b2bfb9d51135a125b8d07fdd105609bc936e60
+FileChecksum: MD5: dbb2d6525a1be4d537749302eb978ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-a52dec.xml
+SPDXID: SPDXRef-item835810
+FileChecksum: SHA1: 9038248ee726462a6be9cdfdf1cf69b30b37612e
+FileChecksum: MD5: b92448ffa7d77e02d7d5ecb3421479ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-dvdread.xml
+SPDXID: SPDXRef-item835811
+FileChecksum: SHA1: 60b0e3920092f86ef24d69d9f17b766de70e3c95
+FileChecksum: MD5: 283ccd9c164d4fe35712fb918866fbd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-cdio.xml
+SPDXID: SPDXRef-item835812
+FileChecksum: SHA1: 3a7e6d52777d3a5b44610df4405ae43f10c8e494
+FileChecksum: MD5: b0738f0e7d74641f00d3acc495da06fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-mpg123.xml
+SPDXID: SPDXRef-item835813
+FileChecksum: SHA1: 4bd9dcb68c5f38b73e775b5e23ef28396746d579
+FileChecksum: MD5: 3d16b4a0d22ffb49214b3fac63dfa789
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-asf.xml
+SPDXID: SPDXRef-item835814
+FileChecksum: SHA1: eb463585a7d80d63ed8e78265cb8385a9efe98cc
+FileChecksum: MD5: 3ff34a6c11f320c90b601226beda0f60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-amrwbdec.xml
+SPDXID: SPDXRef-item835815
+FileChecksum: SHA1: c6f12a29d58dffa97094a812804c4bf1316cb451
+FileChecksum: MD5: 654f2738b02e5c50f252dd3a4d24762a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-xingmux.xml
+SPDXID: SPDXRef-item835816
+FileChecksum: SHA1: 3c2ef786fb2d9ca98d3dfebc2d2230618f9beca2
+FileChecksum: MD5: 126ba2e9ad918a8a8ec7dd6e80786f34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-x264.xml
+SPDXID: SPDXRef-item835817
+FileChecksum: SHA1: 579ce118b78348108f6666db8ccdd459067b649d
+FileChecksum: MD5: a543d274fe9dff624690735a91d4e91f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-dvdsub.xml
+SPDXID: SPDXRef-item835818
+FileChecksum: SHA1: bd09cbc0d2f36080d7a63823cfcbf5d0e27bd7a9
+FileChecksum: MD5: 56bb6deeceda8c320371af4a3623689a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-dvdlpcmdec.xml
+SPDXID: SPDXRef-item835819
+FileChecksum: SHA1: ceec7c3bd750cf7ab5f6b366c01b5217f8798297
+FileChecksum: MD5: 18e7774069b0146fc20a9662cce384f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-amrnb.xml
+SPDXID: SPDXRef-item835820
+FileChecksum: SHA1: 2e2eaf398fcd87254930fcba93555743e7e19f6e
+FileChecksum: MD5: 00883dff7e05c3571af4521b32d2c1df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-twolame.xml
+SPDXID: SPDXRef-item835821
+FileChecksum: SHA1: 0f69df3df3a623921f44a842241cdfed8cce6bd0
+FileChecksum: MD5: 1d9e33ef01a306158ab9ea319d84d576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/inspect/plugin-siddec.xml
+SPDXID: SPDXRef-item835822
+FileChecksum: SHA1: dcae53f1e5138f0fd34e623a79a1b2c654c60072
+FileChecksum: MD5: 856275e323af337110a0de3c7583f682
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/gst-plugins-ugly-plugins.hierarchy
+SPDXID: SPDXRef-item835823
+FileChecksum: SHA1: d70a23fe6503706e6018b559e4568c207c2ccedd
+FileChecksum: MD5: 86ff9b1618bbd6563280d128b03b92a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/ch01.html
+SPDXID: SPDXRef-item835825
+FileChecksum: SHA1: bb5ab42fa82d9eae99a3a23f10e63e8a0dceaa5a
+FileChecksum: MD5: ca0723c9af55aed3b3a57ed58911a091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/left-insensitive.png
+SPDXID: SPDXRef-item835826
+FileChecksum: SHA1: 5e1a1f300632f4517baee873b33a032be9951a1d
+FileChecksum: MD5: 6e82ca3fa42b7fa594993cd431b79a48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-mpeg2dec.html
+SPDXID: SPDXRef-item835827
+FileChecksum: SHA1: f2722bae415dc0925c8ecd83621fbb84c085efd1
+FileChecksum: MD5: 8382ff5f2ac5b15743af8ffd829ff3df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/up-insensitive.png
+SPDXID: SPDXRef-item835828
+FileChecksum: SHA1: f6484ee95b12376f589dfdaece6e3a1b815311cb
+FileChecksum: MD5: b08bcfdf902952a699092ce67df50e92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-cdio.html
+SPDXID: SPDXRef-item835829
+FileChecksum: SHA1: a53393401bb7504be1f0a312d08e6764cbe54efa
+FileChecksum: MD5: 5ad839d078cd0fd7df75baebd2141de0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-a52dec.html
+SPDXID: SPDXRef-item835830
+FileChecksum: SHA1: b25d8196a99984255f405236353f1c2ea9728881
+FileChecksum: MD5: d29bef64d8cde81bc14b173416f08b29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/ch02.html
+SPDXID: SPDXRef-item835831
+FileChecksum: SHA1: 28af6c96a0c9bc5c4be3e1f9974f9cb12ce03955
+FileChecksum: MD5: 0b267acffea81730b04f62aeb2783b03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-siddec.html
+SPDXID: SPDXRef-item835832
+FileChecksum: SHA1: eb4f7ffbbb3f56b73780821891df2be10308de02
+FileChecksum: MD5: dec7ce872778d639b16bf49fed334037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-mpg123.html
+SPDXID: SPDXRef-item835833
+FileChecksum: SHA1: 62061b7bf1ad20bfe9b74de5195634e5160fed5c
+FileChecksum: MD5: 2beb953e77c66d5e4c004ce21a2ec254
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-rtspwms.html
+SPDXID: SPDXRef-item835834
+FileChecksum: SHA1: 878592d3abc4a6b019dcb4927b24d12fb1bd21c2
+FileChecksum: MD5: fbf7afb564af481ea807f75220b57d38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-dvdread.html
+SPDXID: SPDXRef-item835835
+FileChecksum: SHA1: d8c07c0b6da829512b7e526e88b25a4e8be3234f
+FileChecksum: MD5: e43a613c50b67167266525991b08f7ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-siddec.html
+SPDXID: SPDXRef-item835836
+FileChecksum: SHA1: 54f4f9bfdf7327a6998bae36f2d42bbef8a66c9e
+FileChecksum: MD5: 012e3f04b156e3d431e0f049b5a7b192
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-rdtmanager.html
+SPDXID: SPDXRef-item835837
+FileChecksum: SHA1: cbc66e5a750698f43ddd3f35b5a22cfe9cad7db1
+FileChecksum: MD5: 1787c31e472d4b6279fad30398960b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-cdiocddasrc.html
+SPDXID: SPDXRef-item835838
+FileChecksum: SHA1: b77c4aa79e3894ce5923a0b763d86aca0c17f943
+FileChecksum: MD5: 64904092ae054d736ef1024c3977873e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-rademux.html
+SPDXID: SPDXRef-item835839
+FileChecksum: SHA1: a73e068d63708e48617adacedecb5dcd6de141ea
+FileChecksum: MD5: da31446cf975c45395f6ef6f46ae446b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-amrnbdec.html
+SPDXID: SPDXRef-item835840
+FileChecksum: SHA1: f332f2369fde8b3a8827b628c575a0231384d800
+FileChecksum: MD5: 0dedc419fd907b4802ba3cd3a85592ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/index.html
+SPDXID: SPDXRef-item835841
+FileChecksum: SHA1: c6a71e39a3ebb044b259d806bae05c3bad61d839
+FileChecksum: MD5: 57af681552d8c5c379d0b21871d7ed21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-xingmux.html
+SPDXID: SPDXRef-item835842
+FileChecksum: SHA1: d9db8932eb1d39faaeca8f2cb36049e613ab86e7
+FileChecksum: MD5: c35831dbf9e890fc91845714610ea9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-amrwbdec.html
+SPDXID: SPDXRef-item835843
+FileChecksum: SHA1: 94a3d6e9491da0626e79211070f3a509d8b5871d
+FileChecksum: MD5: 0d76d9fdaa335fc075f34afe15e95aa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-dvdsub.html
+SPDXID: SPDXRef-item835844
+FileChecksum: SHA1: 4d670ed20411693886367ddfc4842a4575b02fbd
+FileChecksum: MD5: fb6599ded3b6bbe7481868035faf0356
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-dvdlpcmdec.html
+SPDXID: SPDXRef-item835845
+FileChecksum: SHA1: 3b2e7d39475b0eab7cd857ffa984bd87dd3fb0de
+FileChecksum: MD5: ffb7124311a0074a8e3697ab7c3f5d5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-rtspreal.html
+SPDXID: SPDXRef-item835846
+FileChecksum: SHA1: df5acbe5bed99b965ea46b526ed3c4d6e909dacf
+FileChecksum: MD5: 1f9a8d124602265518f4593c860330cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-lamemp3enc.html
+SPDXID: SPDXRef-item835847
+FileChecksum: SHA1: 9b156563a9a1184468c7a8b3dfd372f42447f6a6
+FileChecksum: MD5: 3cd69db91bcefb25dd6032a03444532a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/style.css
+SPDXID: SPDXRef-item835848
+FileChecksum: SHA1: b4068fc936d1e384da62f3addc8d6a13360db867
+FileChecksum: MD5: 7ecec4d4ad66d1ea924c1a17b492117e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-a52dec.html
+SPDXID: SPDXRef-item835849
+FileChecksum: SHA1: 0ca1d83c60ceebe5a55f941b57ad0d7080907bde
+FileChecksum: MD5: 62a60067329844151144ef6020368247
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/right-insensitive.png
+SPDXID: SPDXRef-item835850
+FileChecksum: SHA1: 7e284b42966e969ae477e03523f6cca556f48cb8
+FileChecksum: MD5: 04b99338354aa12993e03f1fbad41d72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/home.png
+SPDXID: SPDXRef-item835851
+FileChecksum: SHA1: d4793b6e21e79e4fc5dd3081b694f99a85ec8b24
+FileChecksum: MD5: 02ec7cd5cde590eb07ca43b87674ca0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-x264enc.html
+SPDXID: SPDXRef-item835852
+FileChecksum: SHA1: 8d30620484ffccf9a225dec75863c42728898c74
+FileChecksum: MD5: f27d958a63e2be9d566f43852fd3303e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-amrwbdec.html
+SPDXID: SPDXRef-item835853
+FileChecksum: SHA1: 936604932b36a0af9a52cc48326e46fc89f1cce8
+FileChecksum: MD5: e22b2e1dd49c0c94ec5ec13566793bc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-twolame.html
+SPDXID: SPDXRef-item835854
+FileChecksum: SHA1: 102a7323116ae05d6f7edceee3c3ba6986a20b43
+FileChecksum: MD5: 5b00ceeccf788310b684dcc99d2ba399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-twolame.html
+SPDXID: SPDXRef-item835855
+FileChecksum: SHA1: b176d82c4fc0ed2f8b09802f1150ac8f6c5d818b
+FileChecksum: MD5: e5b53ebb93fa9b73666f791a507ef603
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-x264.html
+SPDXID: SPDXRef-item835856
+FileChecksum: SHA1: c9361ae6b87055755866e3b2e6a7cf1f83d49110
+FileChecksum: MD5: d250965b56e8163267e3e5a3d32cbdc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-realmedia.html
+SPDXID: SPDXRef-item835857
+FileChecksum: SHA1: 1bb0755ebdc3415436b52a83b9145df032e3f3c1
+FileChecksum: MD5: 13f2cbc5874c4e67d3671a0b2a87af15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/up.png
+SPDXID: SPDXRef-item835858
+FileChecksum: SHA1: 4a8927a7166d422dc728191c33445643e8ee3e89
+FileChecksum: MD5: 93ec432b45970347133504f4dc82fe8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-rmdemux.html
+SPDXID: SPDXRef-item835859
+FileChecksum: SHA1: dcc2e4cffe0a3aba783e1ddc9124400e592993fe
+FileChecksum: MD5: 74c07a80229cbeca3a7c2d0a698514d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/left.png
+SPDXID: SPDXRef-item835860
+FileChecksum: SHA1: 07f6ab942ead607571538a37410a246bdfdc3ee6
+FileChecksum: MD5: 7d5aebed7c2f7bda13b5cf6773bd260b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-lame.html
+SPDXID: SPDXRef-item835861
+FileChecksum: SHA1: d61f1d1f3e0b0cf40a2700acddda67468aa5ce83
+FileChecksum: MD5: 3c9a5c8d47d721c02cb6531fc356d8c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/right.png
+SPDXID: SPDXRef-item835862
+FileChecksum: SHA1: 1e1b010690536803c0c3e3faa9c29f602d4b96da
+FileChecksum: MD5: edeff323ae7dfac796b2c5cd332500e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-mpg123audiodec.html
+SPDXID: SPDXRef-item835863
+FileChecksum: SHA1: 1932a5fbbfef4d87d52c37f26fbed2eee0725d64
+FileChecksum: MD5: bfa1bc6a91e748b6c8f114564b22c878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-asf.html
+SPDXID: SPDXRef-item835864
+FileChecksum: SHA1: 8c78f39448644da5391e54b80fbe1b0a89f858d5
+FileChecksum: MD5: 126bc47ba2c8420c6815ca85ba632416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-plugin-amrnb.html
+SPDXID: SPDXRef-item835865
+FileChecksum: SHA1: 52dac63f305e7639f1e86928497c20a2389cc074
+FileChecksum: MD5: 5301fbe9c5442ac38dc18e21dcb5cc17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-1.0.devhelp2
+SPDXID: SPDXRef-item835866
+FileChecksum: SHA1: 0eab03dc8938a14c2103f876ba86b1762aae12a8
+FileChecksum: MD5: 3134a48073667f4e9d7efdc98f44ff66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/html/gst-plugins-ugly-plugins-amrnbenc.html
+SPDXID: SPDXRef-item835867
+FileChecksum: SHA1: 27043674d4637955b8cbcfe330ea322e08882385
+FileChecksum: MD5: 3b4b301ced51cbfedf112587161624b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/plugins/gst-plugins-ugly-plugins-sections.txt
+SPDXID: SPDXRef-item835868
+FileChecksum: SHA1: 3334a25d14e02f9dc3659578c5fd3440d0747adb
+FileChecksum: MD5: 87d76a670097f24280bd68901ac6c330
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/docs/Makefile.am
+SPDXID: SPDXRef-item835869
+FileChecksum: SHA1: 50a4ce9a6c5fd8fdd1b519c71bb837957d4156b7
+FileChecksum: MD5: 11bebf0e8f43aa9d3ff9974196c94537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/test-driver
+SPDXID: SPDXRef-item835870
+FileChecksum: SHA1: ebabeb373c5af3b8606b510a2494955e34325d8a
+FileChecksum: MD5: 7ce923f582b49637d13847c49fff9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/gst-plugins-ugly.doap
+SPDXID: SPDXRef-item835871
+FileChecksum: SHA1: 3f9c84bcdc94565b0208a8b7a4317aa217076d1c
+FileChecksum: MD5: 6b38f8a705b59e767ca0972dce31eaa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/INSTALL
+SPDXID: SPDXRef-item835872
+FileChecksum: SHA1: ed90eb318bd3ebb4ae1a2bd352f106786a2923f4
+FileChecksum: MD5: f2766448e74c24bd1c1c5d12466093ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/patches/series
+SPDXID: SPDXRef-item835875
+FileChecksum: SHA1: f4a69dfde229094a752654335dc3d118a8888934
+FileChecksum: MD5: 53c20ced8f68503bfb042904258c06fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/config.guess
+SPDXID: SPDXRef-item835876
+FileChecksum: SHA1: c6204f8ddf6852969b956c464199b71d7dfe4b7e
+FileChecksum: MD5: e6658e52c79b2c368296c883d90979b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/autogen.sh
+SPDXID: SPDXRef-item835877
+FileChecksum: SHA1: e492ebf66f056c37349a8cfa85a86cd5fe45d66e
+FileChecksum: MD5: 0ac34746385be1585278a832db6f9f0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/depcomp
+SPDXID: SPDXRef-item835878
+FileChecksum: SHA1: 217e04a768f3c9407fcc1cca1838651e6aa02326
+FileChecksum: MD5: 636e2d2075c5ec88671ae84f3e69d6dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gst-plugins-ugly-1.12.2/ChangeLog
+SPDXID: SPDXRef-item835879
+FileChecksum: SHA1: 347fba2ee7fb387604a2d88e9a16baefe9b1da99
+FileChecksum: MD5: d2a4194e77cca724d1595abd6bdc9a77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-NOT-public-domain
+LicenseName: NOT-public-domain
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-GPL-with-autoconf-exception
+LicenseName: GPL-with-autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain-C-
+LicenseName: Public-domain(C)
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Same-license-as
+LicenseName: Same-license-as
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL-3.0--with-autoconf-exception
+LicenseName: GPL-3.0+-with-autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Python
+LicenseName: Python
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

@@ -1,0 +1,1081 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_less-487-r0-patched.tar.gz_1571458058.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:07:38Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: less
+PackageVersion: 487
+PackageFileName: less-487-r0-patched.tar.gz
+SPDXID: SPDXRef-upload343
+PackageDownloadLocation: http://www.greenwoodsoftware.com/less/less-487.tar.gz
+PackageHomePage: http://www.greenwoodsoftware.com/
+PackageSummary: <text>Text file viewer similar to more</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>less version 487</text>
+PackageChecksum: SHA1: 86d82b62f751d4f9a0f71081fa60904a130747a3
+PackageChecksum: MD5: 2f407508848effc2312a91d59ed62b27
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload343
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/less-487/lglob.h
+SPDXID: SPDXRef-item853249
+FileChecksum: SHA1: 0b4200040c42af94a793aaf5d6b8d86fbcc48de8
+FileChecksum: MD5: c207b93975f287fabc17f8c7f5c90ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/lesskey.h
+SPDXID: SPDXRef-item853250
+FileChecksum: SHA1: d8693fdb9641c982ff9cacb58a3bb2ceb6c6e076
+FileChecksum: MD5: f61915e188d587f8bd1c3a450bd50a92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/pattern.h
+SPDXID: SPDXRef-item853251
+FileChecksum: SHA1: bfe0796e252c98394677350e3f22cdaafe8020fe
+FileChecksum: MD5: 775c4f5e51defb76b36dac2e1c828ce0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/NEWS
+SPDXID: SPDXRef-item853252
+FileChecksum: SHA1: 48d7e80bb01b58a447541f4c0ecd8259b9fdd9ba
+FileChecksum: MD5: 128db510220d3437dd6605b2fca3f126
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/lesskey.c
+SPDXID: SPDXRef-item853253
+FileChecksum: SHA1: 9ac3d00a3c5181b9c2b8cbfd7d835ffe0b001185
+FileChecksum: MD5: d81f91f0155858e34e4f381cfbfe1706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/brac.c
+SPDXID: SPDXRef-item853254
+FileChecksum: SHA1: c064a04b02a7c7ea990fc1d49df624bf801bac1d
+FileChecksum: MD5: 23f77cf502a675afa513ad601d5945a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/command.c
+SPDXID: SPDXRef-item853255
+FileChecksum: SHA1: 5927ad552f0e7a306c9fa6c005785ede03d313c7
+FileChecksum: MD5: 4b97e4aa0bffb8c6669587d4b3dcabc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/mkhelp.c
+SPDXID: SPDXRef-item853256
+FileChecksum: SHA1: 7696c86851e80183786efeb8d73fdee78adaab60
+FileChecksum: MD5: ba1b3072134e479c529c7e054ac6d34d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/regexp.h
+SPDXID: SPDXRef-item853257
+FileChecksum: SHA1: c9473d25cf226f281a12b2271be001909679c0d1
+FileChecksum: MD5: 63a5fc02d8ef66522aa8ec666121a619
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/cmdbuf.c
+SPDXID: SPDXRef-item853258
+FileChecksum: SHA1: 7623ed51c2dff9ab1cd0623b8f07ffb71d8eef5b
+FileChecksum: MD5: cd8372ac839b5160db41439479994ecd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/mkinstalldirs
+SPDXID: SPDXRef-item853259
+FileChecksum: SHA1: e68b1568981a0cf96f37f8af0169f0242c6ddfeb
+FileChecksum: MD5: 1096ba3f40374e6fa41804babc1ce4d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-ref
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/output.c
+SPDXID: SPDXRef-item853260
+FileChecksum: SHA1: 93ace8b2cefe15f45364eb25c7ce58caf793cd4f
+FileChecksum: MD5: e44f804ed71e33034c4ccf6ea9475ca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.o9c
+SPDXID: SPDXRef-item853261
+FileChecksum: SHA1: 73d5d8840763ff8734855f28107cd3fe93be2836
+FileChecksum: MD5: 4fb639fa47995578c36f2c6dd6297ea7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/position.h
+SPDXID: SPDXRef-item853262
+FileChecksum: SHA1: 94c9aacd222c971ba2a189e84cb89974bf0ac746
+FileChecksum: MD5: 38cb1b5be83efabfa1aa104f57cc0397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/mkutable
+SPDXID: SPDXRef-item853263
+FileChecksum: SHA1: 5b013c87ee6668ccab848fd6471830ed3e740ce8
+FileChecksum: MD5: 2b5680e876cdd5c6a91f3c25837be08d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/lessecho.c
+SPDXID: SPDXRef-item853264
+FileChecksum: SHA1: 3fd3362982717b323ae30eac8b817f0344732fa4
+FileChecksum: MD5: 06c265c902505d629750f4c0856a5e0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/lesskey.man
+SPDXID: SPDXRef-item853265
+FileChecksum: SHA1: 38f6b205c7feb4b33bd7607b2210f4665da2152d
+FileChecksum: MD5: 45890482b988d0a3fb90a68d0c639e00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/version.c
+SPDXID: SPDXRef-item853266
+FileChecksum: SHA1: fca714f13d283d382070414615d934d3370f912e
+FileChecksum: MD5: 73570401da146b8dca473e305523a362
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/mkfuncs.awk
+SPDXID: SPDXRef-item853267
+FileChecksum: SHA1: 89a4007f7c54788adbece620f607e0e3b352c375
+FileChecksum: MD5: 8c317d18d374a22e59aaa66240ce3f01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.in
+SPDXID: SPDXRef-item853268
+FileChecksum: SHA1: 8d194529bd9b44b2c9251ed53ec68626c52eeff8
+FileChecksum: MD5: 56e40ed0cd879609cc0a5a49bc093001
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/cmd.h
+SPDXID: SPDXRef-item853269
+FileChecksum: SHA1: a355a6a6c611efb9740c28da18adbf324e422cd4
+FileChecksum: MD5: c4d2b4d139b719000ee3e0ef1da13ebf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/COPYING
+SPDXID: SPDXRef-item853270
+FileChecksum: SHA1: 8624bcdae55baeef00cd11d5dfcfa60f68710a02
+FileChecksum: MD5: d32239bcb673463ab874e80d47fae504
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/ch.c
+SPDXID: SPDXRef-item853271
+FileChecksum: SHA1: be330b29887c7f89ff57d5a6d8b648d8e52dace8
+FileChecksum: MD5: 2c8b00ef63e7538883db9d960c93e12b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/defines.h.in
+SPDXID: SPDXRef-item853272
+FileChecksum: SHA1: a41b931b239e84b982ea145bfbaf405d1a8cd402
+FileChecksum: MD5: cb3b094d5d995f310ebbb0c4a933ea38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/configure
+SPDXID: SPDXRef-item853273
+FileChecksum: SHA1: ced604ef111f28c046dce19d5291a2ce5e60276c
+FileChecksum: MD5: cf13af5c96e8807733faf3894fe96af6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/regexp.c
+SPDXID: SPDXRef-item853274
+FileChecksum: SHA1: a265bdcd68f2933cb7d01362069ad54242a79a47
+FileChecksum: MD5: 52a71d4d5be3f40def3b02d4317f9331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Artistic-1.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/ttyin.c
+SPDXID: SPDXRef-item853275
+FileChecksum: SHA1: fa8cc2b72d60f2c83294fadb3a83c55d9b5173e5
+FileChecksum: MD5: 1aa95da6b603a9b611c38e8dd2e72f4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/search.c
+SPDXID: SPDXRef-item853276
+FileChecksum: SHA1: 496833e8b2a9c4394585dea63355099bf7e696ae
+FileChecksum: MD5: 58bc789246f2e8202cfc2fde8b2abc1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/defines.o9
+SPDXID: SPDXRef-item853277
+FileChecksum: SHA1: 94bada6f36eea59e7dfb6ff8a6e0e5a226e6334d
+FileChecksum: MD5: 494418d0a38b3d4a5a4c60a9faea79eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.dsu
+SPDXID: SPDXRef-item853278
+FileChecksum: SHA1: 2a8ace8f3a671aee568aadafa9535d7ba2238a39
+FileChecksum: MD5: 46f9d55bcbae1033acdb55877073e561
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/defines.wn
+SPDXID: SPDXRef-item853279
+FileChecksum: SHA1: 8f8f39d0f940265964a92fa165e1b82f2ca6ff92
+FileChecksum: MD5: 62e2d8e0ea6a7ea1b0432b83ee7cb25c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/ifile.c
+SPDXID: SPDXRef-item853280
+FileChecksum: SHA1: b8bb9418288119beabcea9bb67a23c97df7d4dbe
+FileChecksum: MD5: 5f55e500ed969c98a5f299695b43f89f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/lessecho.man
+SPDXID: SPDXRef-item853281
+FileChecksum: SHA1: 9b61ba5c0e96ad21a939198a92a534855a61ed7a
+FileChecksum: MD5: 16e1fd8f52d0e04a9f666d1469490176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/jump.c
+SPDXID: SPDXRef-item853282
+FileChecksum: SHA1: f6b386523162590727ca142f526686b5dacc3565
+FileChecksum: MD5: 9c58b0eb557926a20e42b48a4e384eed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/option.h
+SPDXID: SPDXRef-item853283
+FileChecksum: SHA1: e3f5126b9910cadcec99756333834f7d4af2291f
+FileChecksum: MD5: 9da8c3e51d5865239d869ce07c4e8a4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/input.c
+SPDXID: SPDXRef-item853284
+FileChecksum: SHA1: 229de3e2e62ee97b03c9c9dcedc25a961ba6840d
+FileChecksum: MD5: 9d653748c13d4c4c833de8e08385d207
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/edit.c
+SPDXID: SPDXRef-item853285
+FileChecksum: SHA1: cdda53a03e83a96dd3f3f5a3c480754a9bf05cf1
+FileChecksum: MD5: 1e584cbb60617176581d8d251e9a6315
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/lesskey.nro
+SPDXID: SPDXRef-item853286
+FileChecksum: SHA1: 9331ac839206e94a25912d5f276d8566434816b3
+FileChecksum: MD5: 04b8d9881de0cd3bff70a8ae0d5be163
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/scrsize.c
+SPDXID: SPDXRef-item853287
+FileChecksum: SHA1: a6a1bfbcd3261a3f7c256a42025ed1a5aee20a38
+FileChecksum: MD5: 3967c2010650cc8977301e20427f7432
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.aut
+SPDXID: SPDXRef-item853288
+FileChecksum: SHA1: 7c565b6c79c960eb1c19f2acce8907df28876937
+FileChecksum: MD5: b8fdf6c6bdf1fc2d0aca3d50f6e13b54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/filename.c
+SPDXID: SPDXRef-item853289
+FileChecksum: SHA1: d005a0a027846ed18c0e0c4f58e14a400aba7751
+FileChecksum: MD5: f269c69ddc6b51b442ee2b95b6c31200
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/defines.ds
+SPDXID: SPDXRef-item853290
+FileChecksum: SHA1: 1239917f5176e74f2f1c4314a99501a33ff12f90
+FileChecksum: MD5: 077ccb0f3f02930f98a74f46f0a90ed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/ubin.uni
+SPDXID: SPDXRef-item853291
+FileChecksum: SHA1: 37a4520c8c1b77efe041736f30368e19f7463285
+FileChecksum: MD5: edbf2074ee76bec4d55721f26a5aab19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/tags.c
+SPDXID: SPDXRef-item853292
+FileChecksum: SHA1: 9647da18a744ef34b0a904ee9c37134d89dcfe56
+FileChecksum: MD5: 07d66acf9613833498ee4a272aa1a8c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/help.c
+SPDXID: SPDXRef-item853293
+FileChecksum: SHA1: b311aec6ca6fc263e3c26c05ba7f44939efa9ce8
+FileChecksum: MD5: 9ca0e901236f43c6d5c2b0e0b5973155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/optfunc.c
+SPDXID: SPDXRef-item853294
+FileChecksum: SHA1: dc68d3b1366cbe854dc3adbd152e81016dff2c27
+FileChecksum: MD5: 2e37bc9b94b3045e816734fcb0f53c90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/funcs.h
+SPDXID: SPDXRef-item853295
+FileChecksum: SHA1: 91cfeba8e52dc3b448ea2376411373e15f1ae39a
+FileChecksum: MD5: 2c99232ae56b6a1f8563f67cd8360e15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/defines.o2
+SPDXID: SPDXRef-item853296
+FileChecksum: SHA1: be756c3ff983a7d1245232d2d8c4b20d64adaece
+FileChecksum: MD5: a436e13b0fd227b2c417d105f224de60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.dsg
+SPDXID: SPDXRef-item853297
+FileChecksum: SHA1: a3bf6231a27dc67430af9aa9c769b88c5c4db6cc
+FileChecksum: MD5: b15b5fecb07e330fd2dc880636a8da0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/less.man
+SPDXID: SPDXRef-item853298
+FileChecksum: SHA1: 36cc454557b8f8f6642b8670fabea3dd2ca374b8
+FileChecksum: MD5: 46939b9a2628770b3898f8dd25136b97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/main.c
+SPDXID: SPDXRef-item853299
+FileChecksum: SHA1: 39c024450f947ee17d74bb3f5aedbc2d22f5d41a
+FileChecksum: MD5: a3b585d631e11b18e5a5ac027bd15d35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.o2e
+SPDXID: SPDXRef-item853300
+FileChecksum: SHA1: 32f7418f97e0ad78f275210ef11996a0a9a14451
+FileChecksum: MD5: 07eb9efdec2e2cc1433065aeee69aa85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/line.c
+SPDXID: SPDXRef-item853301
+FileChecksum: SHA1: b164f8aa735d0c49825b83580eee89ac08f05a91
+FileChecksum: MD5: 2e951115244d3168808b08b601a1b1f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/charset.h
+SPDXID: SPDXRef-item853302
+FileChecksum: SHA1: 223fbc362cac2e8f30f16d574592da5262a6e774
+FileChecksum: MD5: fa59b3fca0107df508e451900e09a881
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/position.c
+SPDXID: SPDXRef-item853303
+FileChecksum: SHA1: bd49789900417896013b8ca92038045b3e7d6835
+FileChecksum: MD5: 067dac9c0b04269e3fd20fbe403aa6da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/compose.uni
+SPDXID: SPDXRef-item853304
+FileChecksum: SHA1: 2bab60a187c3cd18f3c1c573814d287fd3931df8
+FileChecksum: MD5: 1661d296d43f9f04d1085f116622ab28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.dsb
+SPDXID: SPDXRef-item853305
+FileChecksum: SHA1: feda074901ebd9a0822672f4a7c03c897d3d77b6
+FileChecksum: MD5: 5a1cfb6bee1c6ca73b86d7329331ff5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/forwback.c
+SPDXID: SPDXRef-item853306
+FileChecksum: SHA1: a0e6ae5433ee15cc1a1c07e889a1834f46a99716
+FileChecksum: MD5: 47c55fb0d9e0ed2382fd591d768f007c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/README
+SPDXID: SPDXRef-item853307
+FileChecksum: SHA1: fcb58577510a726bbc6dcb199088eb4505eb256e
+FileChecksum: MD5: f28998e9c9e145a053130d9663dff495
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/pckeys.h
+SPDXID: SPDXRef-item853308
+FileChecksum: SHA1: 7bb35ce2d3b587ba241fc4ddab61ca2d35de0c52
+FileChecksum: MD5: f5945e5b08e9a7750e9f79671400a8aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/pattern.c
+SPDXID: SPDXRef-item853309
+FileChecksum: SHA1: ef994028afcdcb6d91fa6b8e804d0e5859515991
+FileChecksum: MD5: 227c5d8810411678d7c059a96c8f47dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/lessecho.nro
+SPDXID: SPDXRef-item853310
+FileChecksum: SHA1: d97461da25b5f8d4cc225c0abe7c4acf2618b97f
+FileChecksum: MD5: 09b0fb1c293b515bad5c15f965b8fd2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/install.sh
+SPDXID: SPDXRef-item853311
+FileChecksum: SHA1: e0364a2e708ddad75cf35b5ee2c74380e4cb5bbf
+FileChecksum: MD5: 69626e9d4c01b2e7d483169ad7e68470
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.wnb
+SPDXID: SPDXRef-item853312
+FileChecksum: SHA1: fc2d0f12ea49e328298f05e48fba6f580634e3c9
+FileChecksum: MD5: 489a898a5d6415a469b8dee78f5b9486
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/less.hlp
+SPDXID: SPDXRef-item853313
+FileChecksum: SHA1: a0c78404b9df22923147c863ec8e478b4534dd81
+FileChecksum: MD5: f95d41fff28d2f39930405a8c027cce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/configure.ac
+SPDXID: SPDXRef-item853314
+FileChecksum: SHA1: 3011b5d7635a86910fa57aa4ccb6004c6c7548b3
+FileChecksum: MD5: c841839b4397c55ef65842dbbc92f888
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/prompt.c
+SPDXID: SPDXRef-item853315
+FileChecksum: SHA1: da04d65a22356f81bc8d6745407d7338044f39b8
+FileChecksum: MD5: 459a06c71f74d5ceb371b979d5d19c5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/less.nro
+SPDXID: SPDXRef-item853316
+FileChecksum: SHA1: 9059d8fd93177360d17b6fd6d5cbcb7c2af517c7
+FileChecksum: MD5: 6cabe138a234d32dbb73feca2a0998e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/charset.c
+SPDXID: SPDXRef-item853317
+FileChecksum: SHA1: a68ff3d06b76296295807ecf1c0a89bea26b8b3b
+FileChecksum: MD5: c935a10bd3a4bbf282b2540963ae38e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/wide.uni
+SPDXID: SPDXRef-item853318
+FileChecksum: SHA1: 69519ca63a87c59ecabdce9e047f14a2c526878c
+FileChecksum: MD5: 2b7cbaa4cfff52bce5371ff459040b47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/LICENSE
+SPDXID: SPDXRef-item853319
+FileChecksum: SHA1: 12642a18803740a950577a24f09db4df9341a9f4
+FileChecksum: MD5: 2ef3e4b8dafc85612bc5254b8081e234
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/signal.c
+SPDXID: SPDXRef-item853320
+FileChecksum: SHA1: 147a14da899be8b23bc97ff56e9d6ee30a4acb0d
+FileChecksum: MD5: 34d848b3ad703bd93e66b6a43dad9940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.o9u
+SPDXID: SPDXRef-item853321
+FileChecksum: SHA1: afd992588fb0da8830adf1ad4fe2f0fb06cee479
+FileChecksum: MD5: 2e7f921a6ff30134237f098261cbfe8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/option.c
+SPDXID: SPDXRef-item853322
+FileChecksum: SHA1: a4fb04f3c2535fa76bb819670c5a6172bed7bbb9
+FileChecksum: MD5: 627d45039e01a2fb797d3f50f001a7ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/INSTALL
+SPDXID: SPDXRef-item853323
+FileChecksum: SHA1: 79b768f3855c4546d999e4c082562d94cd32359c
+FileChecksum: MD5: c8c241d80fe030e46eb11faa59037d84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/os.c
+SPDXID: SPDXRef-item853324
+FileChecksum: SHA1: 2117ab01d869195977f130a2cf254c832a8bf6c1
+FileChecksum: MD5: b5fe368fd65ded7d805c8587c6768b12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/lsystem.c
+SPDXID: SPDXRef-item853325
+FileChecksum: SHA1: 280f5a9517deb15982b51d8e283d8fb861fd7b70
+FileChecksum: MD5: f075659c330cc0004090cf9ee0042a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/decode.c
+SPDXID: SPDXRef-item853326
+FileChecksum: SHA1: e0733d411ba96a039e0e17bcec29dd64937bfc33
+FileChecksum: MD5: dc1b4d9d886847c6db900baf805acae4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/opttbl.c
+SPDXID: SPDXRef-item853327
+FileChecksum: SHA1: 9c289862e1d8c7bf19353bb7f96e98549ec038bf
+FileChecksum: MD5: fef1cae01ca0d806a3e1e7be49e0ba09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/linenum.c
+SPDXID: SPDXRef-item853328
+FileChecksum: SHA1: 9358e2fb035d24036641c228c3d86de0dcaba2e1
+FileChecksum: MD5: 1f65bf6a029d4a8b001d3ee0efa5d70a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/Makefile.wnm
+SPDXID: SPDXRef-item853329
+FileChecksum: SHA1: 813776a4b17401ed3a5867ce815f1f3c14adbf4f
+FileChecksum: MD5: 3a1c57e86de5eeee1c4da6b4b7547a4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/mark.c
+SPDXID: SPDXRef-item853330
+FileChecksum: SHA1: 273862ab8e8664b15c2eabc4871395ebb147b3cd
+FileChecksum: MD5: b005f372b6163977799f6e441c7b4eeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/cvt.c
+SPDXID: SPDXRef-item853331
+FileChecksum: SHA1: 5c793f9d580722281625dd6302f763dc55ac79cf
+FileChecksum: MD5: 012f57f8b22e06166d265a18f7a05240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/screen.c
+SPDXID: SPDXRef-item853332
+FileChecksum: SHA1: 40f8ca0cadf79a5c3da944ed95e4bbb1122aa30e
+FileChecksum: MD5: 7b8f4f00d8c2222ff549132a54d730e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/less-487/less.h
+SPDXID: SPDXRef-item853333
+FileChecksum: SHA1: 01a36172071e9ffd67c5812365c610889a4ed54b
+FileChecksum: MD5: 30ed7573c6c3415a4efd82cc9da1136a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

@@ -1,0 +1,74 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_shadow-sysroot-4.2.1-r3-patched.tar.gz_1571458825.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:20:25Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: shadow-sysroot
+PackageVersion: 4.2.1
+PackageFileName: shadow-sysroot-4.2.1-r3-patched.tar.gz
+SPDXID: SPDXRef-upload386
+PackageDownloadLocation: file://login.defs_shadow-sysroot
+PackageHomePage: http://pkg-shadow.alioth.debian.org
+PackageSummary: <text>Shadow utils requirements for useradd.bbclass</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>shadow-sysroot version 4.2.1</text>
+PackageChecksum: SHA1: f99d55aa82745d292c5667db9664052392ea028e
+PackageChecksum: MD5: eaebe51130a7efb9880b12a4f8908db3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload386
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/login.defs_shadow-sysroot
+SPDXID: SPDXRef-item895794
+FileChecksum: SHA1: 98306cdfe667f72514dfb9e5ab030e42f1734b81
+FileChecksum: MD5: 25e2f2de4dfc8f966ac5cdfce45cd7d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

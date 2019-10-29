@@ -1,0 +1,2410 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_homescreen-1.0+gitAUTOINC+f4bcc88579-r0-patched.tar.gz_1571457504.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:58:24Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: homescreen
+PackageVersion: 1.0+gitAUTOINC+f4bcc88579
+PackageFileName: homescreen-1.0+gitAUTOINC+f4bcc88579-r0-patched.tar.gz
+SPDXID: SPDXRef-upload306
+PackageDownloadLocation: gitsm://gerrit.automotivelinux.org/gerrit/apps/homescreen;protocol=https;branch=guppy
+PackageHomePage: http://docs.automotivelinux.org
+PackageSummary: <text>AGL Home Screen Application</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>homescreen version 1.0+gitAUTOINC+f4bcc88579</text>
+PackageChecksum: SHA1: eedde11437acdee910b189c4c42f49aa71b61b30
+PackageChecksum: MD5: a85c479e520c67b52771c303aaa37d17
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload306
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/git/.mailmap
+SPDXID: SPDXRef-item836454
+FileChecksum: SHA1: f021f7637074011d59d5cd7fdf917abc8cdf1c4c
+FileChecksum: MD5: ce3cf72e35b7edbcb0a251c6dbf352e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.gitreview
+SPDXID: SPDXRef-item836455
+FileChecksum: SHA1: 0d27218ec48e2d17c9b9e3c7ceb9b27fdfec86c2
+FileChecksum: MD5: ad72e0f9de40c55e83cfcb99f8d8a49a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/config
+SPDXID: SPDXRef-item836457
+FileChecksum: SHA1: 221a84555d6cb557f175d35f258016abec68887c
+FileChecksum: MD5: 47908d8060a5b4d0764555168d5410e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/packed-refs
+SPDXID: SPDXRef-item836459
+FileChecksum: SHA1: 2faa0a5532256b46dd5c866e4890dd48b7986cbe
+FileChecksum: MD5: 0aa20a1f33888ca13422f3a937a205f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/guppy
+SPDXID: SPDXRef-item836462
+FileChecksum: SHA1: 9442893e7cf7648deddd07adb3ec99e9800c1c76
+FileChecksum: MD5: 69107e2e4e89e49e8268c489e7bebc2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/index
+SPDXID: SPDXRef-item836464
+FileChecksum: SHA1: edbdcde816b23c7d2b9f0fe4b1fd1d18e16564ac
+FileChecksum: MD5: 612bb50fad7df3cafeb444e48e6ca5f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/guppy
+SPDXID: SPDXRef-item836468
+FileChecksum: SHA1: ade9e1174b37443455a8ebf22382fb14138e1000
+FileChecksum: MD5: 458d04040402861d08152944e16f95af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/HEAD
+SPDXID: SPDXRef-item836469
+FileChecksum: SHA1: 6999b63c74354b9d449c132a7e57bdee77c6f341
+FileChecksum: MD5: 77adbd8414e9e3f8577d206ecb8bc8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/description
+SPDXID: SPDXRef-item836470
+FileChecksum: SHA1: 9635f1b7e12c045212819dd934d809ef07efa2f4
+FileChecksum: MD5: a0a7c3fff21f2aea3cfa1d0316dd816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/objects/info/alternates
+SPDXID: SPDXRef-item836474
+FileChecksum: SHA1: 936e606b254cb8399aef123c0fb15a25b019db5b
+FileChecksum: MD5: 63ec384b93fa2aed30d64c47e92e3c5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/info/exclude
+SPDXID: SPDXRef-item836476
+FileChecksum: SHA1: c879df015d97615050afa7b9641e3352a1e701ac
+FileChecksum: MD5: 036208b4a1ab4a235d75c181e685e5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/commit-msg.sample
+SPDXID: SPDXRef-item836478
+FileChecksum: SHA1: ee1ed5aad98a435f2020b6de35c173b75d9affac
+FileChecksum: MD5: 579a3c1e12a1e74a98169175fb913012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/post-update.sample
+SPDXID: SPDXRef-item836479
+FileChecksum: SHA1: b614c2f63da7dca9f1db2e7ade61ef30448fc96c
+FileChecksum: MD5: 2b7ea5cee3c49ff53d41e00785eb974c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/update.sample
+SPDXID: SPDXRef-item836480
+FileChecksum: SHA1: e729cd61b27c128951d139de8e7c63d1a3758dde
+FileChecksum: MD5: 517f14b9239689dff8bda3022ebd9004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-commit.sample
+SPDXID: SPDXRef-item836481
+FileChecksum: SHA1: 36aed8976dcc08b5076844f0ec645b18bc37758f
+FileChecksum: MD5: 01b1688f97f94776baae85d77b06048b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/prepare-commit-msg.sample
+SPDXID: SPDXRef-item836482
+FileChecksum: SHA1: 2b6275eda365cad50d167fe3a387c9bc9fedd54f
+FileChecksum: MD5: 7dfe15854212a30f346da5255c1d794b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/applypatch-msg.sample
+SPDXID: SPDXRef-item836483
+FileChecksum: SHA1: 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
+FileChecksum: MD5: ce562e08d8098926a3862fc6e7905199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-push.sample
+SPDXID: SPDXRef-item836484
+FileChecksum: SHA1: 5c8518bfd1d1d3d2c1a7194994c0a16d8a313a41
+FileChecksum: MD5: 3c5989301dd4b949dfa1f43738a22819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-applypatch.sample
+SPDXID: SPDXRef-item836485
+FileChecksum: SHA1: f208287c1a92525de9f5462e905a9d31de1e2d75
+FileChecksum: MD5: 054f9ffb8bfe04a599751cc757226dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-rebase.sample
+SPDXID: SPDXRef-item836486
+FileChecksum: SHA1: 18be3eb275c1decd3614e139f5a311b75f1b0ab8
+FileChecksum: MD5: 3ff6ba9cf6d8e5332978e057559b5562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/HEAD
+SPDXID: SPDXRef-item836487
+FileChecksum: SHA1: 9442893e7cf7648deddd07adb3ec99e9800c1c76
+FileChecksum: MD5: 69107e2e4e89e49e8268c489e7bebc2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/config
+SPDXID: SPDXRef-item836491
+FileChecksum: SHA1: 43ccb48be09d47e184e6ce8e388339e588060bda
+FileChecksum: MD5: a6b1c9176a954b64e19133703fc923a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/packed-refs
+SPDXID: SPDXRef-item836493
+FileChecksum: SHA1: 03d381b29d841e7a408cb3cf2926cbbc772d2e49
+FileChecksum: MD5: 6531d9021505b42cd38cb31822f33998
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/refs/heads/master
+SPDXID: SPDXRef-item836496
+FileChecksum: SHA1: 4aaf2df164c7cbe4704011aa0abc92c8aaa777bd
+FileChecksum: MD5: 01f08f4224af54aaa3fd85621ecd6b75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item836500
+FileChecksum: SHA1: d9427cda09aba1cdde5c69c2b13c905bddb0bc51
+FileChecksum: MD5: 73a00957034783b7b5c8294c54cd3e12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/index
+SPDXID: SPDXRef-item836501
+FileChecksum: SHA1: 4047be84a4a84c07e616e6df7f9526d826ad95d7
+FileChecksum: MD5: 16ea36f9e7492c87f3717f1dcb37fe7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/logs/refs/heads/master
+SPDXID: SPDXRef-item836505
+FileChecksum: SHA1: d1a69e450f481760c16686f5e4025abed80800ba
+FileChecksum: MD5: 2fb63e6e730c45b183e4688ff9eebb7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/logs/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item836508
+FileChecksum: SHA1: d1a69e450f481760c16686f5e4025abed80800ba
+FileChecksum: MD5: 2fb63e6e730c45b183e4688ff9eebb7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/logs/HEAD
+SPDXID: SPDXRef-item836509
+FileChecksum: SHA1: babcef7d29f38a07b39475bace896a7645f65d5e
+FileChecksum: MD5: ae981c287c6f3256a69c4d7ef0a90864
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/description
+SPDXID: SPDXRef-item836510
+FileChecksum: SHA1: 9635f1b7e12c045212819dd934d809ef07efa2f4
+FileChecksum: MD5: a0a7c3fff21f2aea3cfa1d0316dd816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/objects/pack/pack-ed06d56a21a83f6fc435afd3b6ec95655aa26db3.idx
+SPDXID: SPDXRef-item836513
+FileChecksum: SHA1: d4b238207960fa9ef2f375420298656d040b9756
+FileChecksum: MD5: 2ac826ca756edef0933c36074c6b1111
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/objects/pack/pack-ed06d56a21a83f6fc435afd3b6ec95655aa26db3.pack
+SPDXID: SPDXRef-item836514
+FileChecksum: SHA1: 832e99c1469d56ca4795b6b8c01d0316a74dc718
+FileChecksum: MD5: 6a58abee3769fc0aa3e3fc1c0ff01101
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/info/exclude
+SPDXID: SPDXRef-item836517
+FileChecksum: SHA1: c879df015d97615050afa7b9641e3352a1e701ac
+FileChecksum: MD5: 036208b4a1ab4a235d75c181e685e5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/commit-msg.sample
+SPDXID: SPDXRef-item836519
+FileChecksum: SHA1: ee1ed5aad98a435f2020b6de35c173b75d9affac
+FileChecksum: MD5: 579a3c1e12a1e74a98169175fb913012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/post-update.sample
+SPDXID: SPDXRef-item836520
+FileChecksum: SHA1: b614c2f63da7dca9f1db2e7ade61ef30448fc96c
+FileChecksum: MD5: 2b7ea5cee3c49ff53d41e00785eb974c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/update.sample
+SPDXID: SPDXRef-item836521
+FileChecksum: SHA1: e729cd61b27c128951d139de8e7c63d1a3758dde
+FileChecksum: MD5: 517f14b9239689dff8bda3022ebd9004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/pre-commit.sample
+SPDXID: SPDXRef-item836522
+FileChecksum: SHA1: 36aed8976dcc08b5076844f0ec645b18bc37758f
+FileChecksum: MD5: 01b1688f97f94776baae85d77b06048b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/prepare-commit-msg.sample
+SPDXID: SPDXRef-item836523
+FileChecksum: SHA1: 2b6275eda365cad50d167fe3a387c9bc9fedd54f
+FileChecksum: MD5: 7dfe15854212a30f346da5255c1d794b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/applypatch-msg.sample
+SPDXID: SPDXRef-item836524
+FileChecksum: SHA1: 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
+FileChecksum: MD5: ce562e08d8098926a3862fc6e7905199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/pre-push.sample
+SPDXID: SPDXRef-item836525
+FileChecksum: SHA1: 5c8518bfd1d1d3d2c1a7194994c0a16d8a313a41
+FileChecksum: MD5: 3c5989301dd4b949dfa1f43738a22819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/pre-applypatch.sample
+SPDXID: SPDXRef-item836526
+FileChecksum: SHA1: f208287c1a92525de9f5462e905a9d31de1e2d75
+FileChecksum: MD5: 054f9ffb8bfe04a599751cc757226dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/hooks/pre-rebase.sample
+SPDXID: SPDXRef-item836527
+FileChecksum: SHA1: 18be3eb275c1decd3614e139f5a311b75f1b0ab8
+FileChecksum: MD5: 3ff6ba9cf6d8e5332978e057559b5562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/modules/homescreen/helpers/HEAD
+SPDXID: SPDXRef-item836528
+FileChecksum: SHA1: 3aac6ed2cd9e396d2835d97b70188c0d79098184
+FileChecksum: MD5: c45e93cd43532702a4addf68c1733ae2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.gitmodules
+SPDXID: SPDXRef-item836529
+FileChecksum: SHA1: 20e330648204d872d0f7d7f631c6c74d46eeb856
+FileChecksum: MD5: c22e6040f909473fc5a9ebab6b6f322e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.gitignore
+SPDXID: SPDXRef-item836530
+FileChecksum: SHA1: 55e9bb2ef81d611aed03eae338d8c97dda586423
+FileChecksum: MD5: 1fa36d028c0dc8ce0d82cfbac9dae6dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen.pro
+SPDXID: SPDXRef-item836531
+FileChecksum: SHA1: 26bfa8ba4670053b88bb6ab83332ccdda93261b0
+FileChecksum: MD5: 92cbff9c6de3c13e09db58d706bb4cbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/statusbarserver.cpp
+SPDXID: SPDXRef-item836534
+FileChecksum: SHA1: d38d95e86303f7ea89dcd6029ac639249c8e4e9f
+FileChecksum: MD5: b3a7a27f063060034750f7b5ed9dabc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/statusbarserver.h
+SPDXID: SPDXRef-item836535
+FileChecksum: SHA1: 1f3678a00cfd0974a2f1816e67c8127507a70d33
+FileChecksum: MD5: 0f201acebbbc669cc60d6af3be48211d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/applicationlauncher.cpp
+SPDXID: SPDXRef-item836536
+FileChecksum: SHA1: 2941cb536275611e35cbdbf08221301ed616ae64
+FileChecksum: MD5: 8233a802ea19a5bd109cc9599a1a6e2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/mastervolume.h
+SPDXID: SPDXRef-item836537
+FileChecksum: SHA1: c0740e99e680dddd281e3ab4f50b27b028f71b4b
+FileChecksum: MD5: 38ec63c15173c0bf4f5aa4202f57a3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/homescreenhandler.h
+SPDXID: SPDXRef-item836538
+FileChecksum: SHA1: 9e4941d95ddca509bcfcbdf287ffed2a9aeb7023
+FileChecksum: MD5: 72ed5cf05654ee7aeb3c6faa601a1d5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/statusbarmodel.h
+SPDXID: SPDXRef-item836539
+FileChecksum: SHA1: 1a8f76ac1c0f7961124bd43f0fd5fa5b93719f52
+FileChecksum: MD5: bfe3b584957b1c312a14711d90e17148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/applicationlauncher.h
+SPDXID: SPDXRef-item836540
+FileChecksum: SHA1: 5840189b4a0be580acb247e51a958c5a61b1b2a8
+FileChecksum: MD5: 815debfed54d1820dbbea9a0d61e3b0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/hmi-debug.h
+SPDXID: SPDXRef-item836541
+FileChecksum: SHA1: 27abb60aabc18d5f4ff90251c2135f0dfb782fe9
+FileChecksum: MD5: 34a8d0bd1e4cfcc4a3108170117199b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/mastervolume.cpp
+SPDXID: SPDXRef-item836542
+FileChecksum: SHA1: 0768f4e39da336d7e9ed596b28e4ca73b67f909a
+FileChecksum: MD5: c7e93d2377196e744f6df4a0d35cdc8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/main.cpp
+SPDXID: SPDXRef-item836543
+FileChecksum: SHA1: 7ca9e1e17aba744a90cb3c982b315c3450f178db
+FileChecksum: MD5: b5cd97925aa142a5d416cfc936c65fb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/statusbarmodel.cpp
+SPDXID: SPDXRef-item836544
+FileChecksum: SHA1: 2b34f95cbd53a8a9cffdf926b9e467aae3fe1256
+FileChecksum: MD5: ab6c28d8cbae615e987d50c8f7bda394
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/src/homescreenhandler.cpp
+SPDXID: SPDXRef-item836545
+FileChecksum: SHA1: 6040930b429304b793d9fa75bbe4318059ad22b4
+FileChecksum: MD5: 9ac8abbcab23b8d8dd42f47dbc79eefd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/wrap-json.md
+SPDXID: SPDXRef-item836547
+FileChecksum: SHA1: 41dee4ff0a56eaf8f5a7b91416f928b56301af58
+FileChecksum: MD5: 8a3cc00926fb94c887ad181dd7597c86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/afb-helpers-utils.h
+SPDXID: SPDXRef-item836548
+FileChecksum: SHA1: 32a38ed6603cf969bbca63392403214bc0da201f
+FileChecksum: MD5: 8a0e4b94cbde555475b25ee0d9e3fc54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/.gitreview
+SPDXID: SPDXRef-item836549
+FileChecksum: SHA1: 2ec87e62c4cd5396670b7748618f6376e7003cd1
+FileChecksum: MD5: 59c0a67981c9ec32a960157b81372063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/.git
+SPDXID: SPDXRef-item836550
+FileChecksum: SHA1: 80ae079a513f222c4ca6774d05016b4b8aa07086
+FileChecksum: MD5: 88135ffb9c5772339af9b0fd80a8694a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/escape.h
+SPDXID: SPDXRef-item836551
+FileChecksum: SHA1: 27e1338d0d1e63c97cdd00ea805748662924e316
+FileChecksum: MD5: 344326058f6f957762e73ab8d25792de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/CMakeLists.txt
+SPDXID: SPDXRef-item836552
+FileChecksum: SHA1: b676c12c64a81ae6499356c595f4953a39f24ed4
+FileChecksum: MD5: 95e063d929a141932d291b245aa3636a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/curl-wrap.c
+SPDXID: SPDXRef-item836553
+FileChecksum: SHA1: 985e6972844b8d0db38ccf2896d3ba8a3c757e2c
+FileChecksum: MD5: 9a6104b1d7f84896e62db0f3a8a8e958
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/json.md
+SPDXID: SPDXRef-item836554
+FileChecksum: SHA1: 25fb452fc9fa92aa35fba590271e41354420d0d5
+FileChecksum: MD5: 63aa9baa5dc1936cf3b3ac866d53ad89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/filescan-utils.c
+SPDXID: SPDXRef-item836555
+FileChecksum: SHA1: 2fba6420e71465f1ec8dd9b4e3bb516cec86fb21
+FileChecksum: MD5: 0fb11c3d5a97cd95c9416b310860a3d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/.gitignore
+SPDXID: SPDXRef-item836556
+FileChecksum: SHA1: c072a5025f7e884f54e76bf95c9ebbb303e17ee7
+FileChecksum: MD5: fd03b85ba66918e360eecd3776caf187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/wrap-json.c
+SPDXID: SPDXRef-item836557
+FileChecksum: SHA1: 925b82e7284ce8fc03bd91450007096097e430e4
+FileChecksum: MD5: 770054374a3713da3f1336d049436960
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/qafbwebsocketclient.md
+SPDXID: SPDXRef-item836558
+FileChecksum: SHA1: 829691a6596ca163fbcc09d140e56af84cc17503
+FileChecksum: MD5: 04b16d5448aaf83f876ab194c32dd7fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/escape.c
+SPDXID: SPDXRef-item836559
+FileChecksum: SHA1: f0d967316933f768c40020d7ccbac51a969aa41f
+FileChecksum: MD5: d85f5e9bf1c1b07f513421ff0e7c1127
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/wrap-json.test.result
+SPDXID: SPDXRef-item836560
+FileChecksum: SHA1: b0ddb17267ce39a50444c20c8a816863f20d0e46
+FileChecksum: MD5: b29cc09d214696e66a4f08eb46940cbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/qafbwebsocketclient.cpp
+SPDXID: SPDXRef-item836561
+FileChecksum: SHA1: 2378ec79f4595f2b9bb4afdd40a67d652a2f41c7
+FileChecksum: MD5: fc1164de25d5412273c22f7ffc920194
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/curl-wrap.h
+SPDXID: SPDXRef-item836562
+FileChecksum: SHA1: 138edcc5d07f4c9cc5af62565bc5e8343aa850fc
+FileChecksum: MD5: 406767a22eabbdf94ee7ac6dc7d4c3b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/qafbwebsocketclient.h
+SPDXID: SPDXRef-item836563
+FileChecksum: SHA1: 6f31eaa645824535d28bda0b71e506b9927cbc97
+FileChecksum: MD5: e6d79ef4893a03e6dd97154945840c55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/json.hpp
+SPDXID: SPDXRef-item836564
+FileChecksum: SHA1: aabeafd8e58e9a510e674b8ab415a1727af8a42f
+FileChecksum: MD5: efe75a568a843e3ef97abba60f945d6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/LICENSE
+SPDXID: SPDXRef-item836565
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+FileChecksum: MD5: e3fc50a88d0a364313df4b21ef20c29e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/wrap-json.h
+SPDXID: SPDXRef-item836566
+FileChecksum: SHA1: 72f463a04c7aff90bd7477ac7efa451a520ea9bc
+FileChecksum: MD5: f2eed82a4bb720d4a0f8d678c9a22f1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/README.md
+SPDXID: SPDXRef-item836567
+FileChecksum: SHA1: 32f7953346015113e119c51e0ab44b834cdbcb66
+FileChecksum: MD5: ae407f4c9b00b6b99351bb4a0e3bae97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/helpers/filescan-utils.h
+SPDXID: SPDXRef-item836568
+FileChecksum: SHA1: f0a4d615a57f96bcf6eddb169876c86edf4f05f2
+FileChecksum: MD5: 440f74ee06df6e3d857b756a63940a99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/homescreen.pro
+SPDXID: SPDXRef-item836569
+FileChecksum: SHA1: b08f48315fbe9bc84df691e90fe6f49c5b227520
+FileChecksum: MD5: 00b6f63d4ec62d5ff14366006d68d880
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/main.qml
+SPDXID: SPDXRef-item836571
+FileChecksum: SHA1: 487d2c685fa0d890261c1f6f20509b738638aea4
+FileChecksum: MD5: c36735fba2a0a53850184fc213cff715
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/IconItem.qml
+SPDXID: SPDXRef-item836572
+FileChecksum: SHA1: 7c97a195c5b7f7e180e68f9f7434523ba8fe729d
+FileChecksum: MD5: bb6b20c4f18bacfb566cb4fa0aa82215
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/MediaAreaMusic.qml
+SPDXID: SPDXRef-item836573
+FileChecksum: SHA1: f24981ea2b5de5aa509d7cd42f804b9060b05711
+FileChecksum: MD5: f996496d7f9586f562463074bb6f25e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/ShortcutIcon.qml
+SPDXID: SPDXRef-item836574
+FileChecksum: SHA1: ad1af86b775d108b80e582b32bc1308d11f64bb0
+FileChecksum: MD5: cffffe98ba66e0fb92272f398920d297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/MediaArea.qml
+SPDXID: SPDXRef-item836575
+FileChecksum: SHA1: ac0e832d50a0b445e2d984cb5e6af5e181b5cb5e
+FileChecksum: MD5: aab47dfe9ca45963aa5192b62a1ea76c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/qml.qrc
+SPDXID: SPDXRef-item836576
+FileChecksum: SHA1: 054f15d04e6c1fdabe21e8913412187c2d265067
+FileChecksum: MD5: 9446521167c3236d777a92ab010fe300
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaMusic/BackArrow.png
+SPDXID: SPDXRef-item836579
+FileChecksum: SHA1: 197f08468acab2d07b53f3704a55811cc0b507a9
+FileChecksum: MD5: a7917cb894a56535d769950f51308014
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaMusic/Volume_Loud.png
+SPDXID: SPDXRef-item836580
+FileChecksum: SHA1: 6635f10fc1cf5d1bce910567f0f874356c63fd13
+FileChecksum: MD5: a811d6f6f64eb690c85411dd6b8e2afb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaMusic/Volume_Medium.png
+SPDXID: SPDXRef-item836581
+FileChecksum: SHA1: 713414db4dedb28a321bb419f776e1e48fa06b16
+FileChecksum: MD5: 7aa6d823f32399874e32e509fde07e2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaMusic/Volume_Off.png
+SPDXID: SPDXRef-item836582
+FileChecksum: SHA1: d4ee8473ea485d39c2db65daac6d8bc022903e41
+FileChecksum: MD5: 6898b4ecae1b26abcdfe020b2ba89629
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaMusic/ForwardArrow.png
+SPDXID: SPDXRef-item836583
+FileChecksum: SHA1: 808f9502afe4d723645d881502ff99252261cc23
+FileChecksum: MD5: a44581bad61b64f3984908265f5a3f0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaMusic/ShuffleIcon.png
+SPDXID: SPDXRef-item836584
+FileChecksum: SHA1: 10fb9bc382691367f92751f2a200d2dd63df82eb
+FileChecksum: MD5: 113cd134111f431f9216aba3724ac5f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaMusic/mediamusic.qrc
+SPDXID: SPDXRef-item836585
+FileChecksum: SHA1: 37162e8db4b518ef5e7e64920a26a89da654d597
+FileChecksum: MD5: 032c997946cb887b6274e704338ead02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaMusic/AlbumArtwork.png
+SPDXID: SPDXRef-item836586
+FileChecksum: SHA1: 6956449657a3d8fd1959caa23b8c644de96c9b2d
+FileChecksum: MD5: 92b71eecadc6fcc794db3d8c17c68906
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Utility_Logo_Grey-01.svg
+SPDXID: SPDXRef-item836587
+FileChecksum: SHA1: 9e7ecced16e54359ba10c014428742a68de46447
+FileChecksum: MD5: 57443ca8a1a0daf43397f0b629272f20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_ForwardArrow.png
+SPDXID: SPDXRef-item836589
+FileChecksum: SHA1: e86a9854119d6f83a82368d8fa999af548a8a196
+FileChecksum: MD5: 7e25ab0c2e04200a895a55611675d57c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Radio_Active.png
+SPDXID: SPDXRef-item836590
+FileChecksum: SHA1: 86f5a96dd8a015140d00e1ae15def05c396c6ef9
+FileChecksum: MD5: c8f51b2202062d6258b354388fc54229
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Albums_Active.png
+SPDXID: SPDXRef-item836591
+FileChecksum: SHA1: 32274cd24d630222c80c76c5bb046cbdb69176ee
+FileChecksum: MD5: 5965482d861c48d26e8da94e90a886d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Popup_PauseIcon.png
+SPDXID: SPDXRef-item836592
+FileChecksum: SHA1: 1f94abfec1a16c49a937414c94119a8d15d9fea2
+FileChecksum: MD5: 41260b83cc9fc4a10f536a7b4da18f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Podcasts_Active.png
+SPDXID: SPDXRef-item836593
+FileChecksum: SHA1: 1bd83a6a71c4ca09a3e79602ebf575789457e6eb
+FileChecksum: MD5: 6e810d7a219d3e565173a98808a8f18a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Albums_Inactive.png
+SPDXID: SPDXRef-item836594
+FileChecksum: SHA1: 059f3f7f059abe1ebd7b7806700c15e5c0e8b163
+FileChecksum: MD5: 4055e3592adb34bebf4dddecea59a6db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_AlbumArtwork.png
+SPDXID: SPDXRef-item836595
+FileChecksum: SHA1: f342ae90315e9919025af9d7889f2c31b9fdf906
+FileChecksum: MD5: c1d8429945c015a9eaa35fe12f1c604b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Player_Play.png
+SPDXID: SPDXRef-item836596
+FileChecksum: SHA1: 119e8e828567c8dfdc362bc664a575ec0bc5ab26
+FileChecksum: MD5: 41b6d6ff077676d5f6cb0075cbafe9e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Playlist_Active.png
+SPDXID: SPDXRef-item836597
+FileChecksum: SHA1: bd00e7bd016a2d103dd15686a80b706c49d730b4
+FileChecksum: MD5: f84ca736668bac7c025ecb7f0b891084
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Bluetooth_Active.png
+SPDXID: SPDXRef-item836598
+FileChecksum: SHA1: c2805d7d08aef7ad6fb848fdc5ee8836b0deba6a
+FileChecksum: MD5: d6166a186dd3505805096f2358fc00f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_PlaylistToggle_Active.png
+SPDXID: SPDXRef-item836599
+FileChecksum: SHA1: 1bec619a40ecee55bfaf599c812d87d31c356950
+FileChecksum: MD5: 9b3aeb06032cf2f594313b3f1384e2c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Popup_VerticalLine.png
+SPDXID: SPDXRef-item836600
+FileChecksum: SHA1: 5ba4d10aeca364429b57ffa20893c3df44f0427c
+FileChecksum: MD5: 4e1e5e44172b6d47848d62ba244fda7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Popup_PlayIcon.png
+SPDXID: SPDXRef-item836601
+FileChecksum: SHA1: ca469484cf7cbeae5227391ea1a6e7d74876c10d
+FileChecksum: MD5: e31d573b220a191ebdda5ca57f38d531
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/DividingLine.png
+SPDXID: SPDXRef-item836602
+FileChecksum: SHA1: 39a5834c97f1cd57c73bda941431b599e6601323
+FileChecksum: MD5: b378fade029e970fc8d82f1b931f84e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Player_Pause.png
+SPDXID: SPDXRef-item836603
+FileChecksum: SHA1: d36b2dd68cbbcba8e0a5dff246fb209109e6a268
+FileChecksum: MD5: 072280f0a4046b43ed6152ffbe133151
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Bluetooth_Inactive.png
+SPDXID: SPDXRef-item836604
+FileChecksum: SHA1: 85664187e466023aff09d10e1d3fa832a9922a5b
+FileChecksum: MD5: 6bd0ffdea87336a3fcca8117ebffc31e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Shuffle_Inactive.png
+SPDXID: SPDXRef-item836605
+FileChecksum: SHA1: e69d3bfe59de58d74dbd529116853a2f09672507
+FileChecksum: MD5: becfb338092ed3a2c67928d89547880d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_DividingLine.png
+SPDXID: SPDXRef-item836606
+FileChecksum: SHA1: 82515d984ac4d0703b8d0711432f7a901c954f05
+FileChecksum: MD5: fd9ca235dccdeedd0469018d857f3209
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Music_Active.png
+SPDXID: SPDXRef-item836607
+FileChecksum: SHA1: f4147c674ce6b0602557c1d80484be7614404738
+FileChecksum: MD5: d79bc6960a05c57cce0fdc09bacef4f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Music_Inactive.png
+SPDXID: SPDXRef-item836608
+FileChecksum: SHA1: 07b742e331e7176bc4526bdadd40bedd1032f6f8
+FileChecksum: MD5: ba8cf8d064cf9bc07b39a8cee40746ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_BackArrow.png
+SPDXID: SPDXRef-item836609
+FileChecksum: SHA1: 03ac89e39b448d4d2217038478b5715565694e8f
+FileChecksum: MD5: 781574cf090c9e117e7e1a796a1601fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Podcasts_Inactive.png
+SPDXID: SPDXRef-item836610
+FileChecksum: SHA1: 32708a886993ea24dca77431159bfb529ac7e21d
+FileChecksum: MD5: 057e846c7cc0e498ba0d4f415ab43e54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/Popup_Highlight.png
+SPDXID: SPDXRef-item836611
+FileChecksum: SHA1: 19837f4213021e49e025569d2179420673641d70
+FileChecksum: MD5: 03ac0931e06bda3198ab48b0f8586b96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Loop_Inactive.png
+SPDXID: SPDXRef-item836612
+FileChecksum: SHA1: 9c81623893623cc7b2329006ad35944128578012
+FileChecksum: MD5: 6d1e5a40323f13b1186a7bcfab4d22c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Shuffle_Active.png
+SPDXID: SPDXRef-item836613
+FileChecksum: SHA1: 07123eea60ac7d0314862a851269691eccb91630
+FileChecksum: MD5: 3f05b8741c84252373ba1a9dba637927
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_CD_Active.png
+SPDXID: SPDXRef-item836614
+FileChecksum: SHA1: c4687b6c6dcc410423b693b03930d66a5c9ecd84
+FileChecksum: MD5: 1988cd2452f90484163f14d0c6ca843d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/mediaplayer.qrc
+SPDXID: SPDXRef-item836615
+FileChecksum: SHA1: 6f5b1465175c4143c0bb4bdf62dbfe71e810408b
+FileChecksum: MD5: da90f56b7ca590f92c43c7d5063e50f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Playlist_Inactive.png
+SPDXID: SPDXRef-item836616
+FileChecksum: SHA1: d767b587d155c89f9e85b0480de7a433d95834c5
+FileChecksum: MD5: 98160bbaeee1915627731ae519ba63eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_PlaylistToggle_Inactive.png
+SPDXID: SPDXRef-item836617
+FileChecksum: SHA1: ceb84f39111567443def68d9e874713cc11e591f
+FileChecksum: MD5: aaa480be01ddd68527d50c3ae443a829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_CD_Inactive.png
+SPDXID: SPDXRef-item836618
+FileChecksum: SHA1: 4a74784be14fd71b9d44ae61e7e696db48ab3fb0
+FileChecksum: MD5: 6e43a62af5c39da3af22adc9b729e0db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/X.png
+SPDXID: SPDXRef-item836619
+FileChecksum: SHA1: 599bc90288b09a49c30e43a8a052826f8140312b
+FileChecksum: MD5: dd275b812ecc35e858a9cdd3152eee39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/GreenLine.png
+SPDXID: SPDXRef-item836620
+FileChecksum: SHA1: f15724231af66b6cde7cc474cccef83591894bd6
+FileChecksum: MD5: 658c2ac50f63e9e9c42e8c499e1cfaa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Loop_Active.png
+SPDXID: SPDXRef-item836621
+FileChecksum: SHA1: 22289d3ac88fd569f1a943a05ea48581779ca619
+FileChecksum: MD5: f5a8fe3cedf2d9d096853e4c87a26764
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/MediaPlayer/AGL_MediaPlayer_Radio_Inactive.png
+SPDXID: SPDXRef-item836622
+FileChecksum: SHA1: 898f5ffbaa3dcdf045d8233bde6cfaf6a588edee
+FileChecksum: MD5: ed58bb33b312272b9ecb6f1a98f0f4d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Utility_Radio_Background-01.png
+SPDXID: SPDXRef-item836623
+FileChecksum: SHA1: d2f0edd780a9d696b965b5ecdf0b59a672221e61
+FileChecksum: MD5: c647e1522d11b62ffc356c10e451ad48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Signal_3Bars-01.png
+SPDXID: SPDXRef-item836625
+FileChecksum: SHA1: 9722ceed3cbee8dcd42fccb16fa6c80e9b323776
+FileChecksum: MD5: afdc86e331dc740339b8c84b5fec18a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Wifi_1Bar-01.png
+SPDXID: SPDXRef-item836626
+FileChecksum: SHA1: 9de84967652158c8f79346aef9052170f2a489a3
+FileChecksum: MD5: 4bb627fb7d9a3670dcc94f835410ea6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Signal_1Bars-01.png
+SPDXID: SPDXRef-item836627
+FileChecksum: SHA1: 7ea7b57fe4e0f46dfc901972ec5cda0523e12986
+FileChecksum: MD5: 1fac32e65316ba91720189090821c731
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Signal_2Bars-01.png
+SPDXID: SPDXRef-item836628
+FileChecksum: SHA1: ccb2b1c1d167cd3bbf5f55d0efc0f9f970f12381
+FileChecksum: MD5: ea940d197c21d386e447b6b5baa01f70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Signal_NoBars-01.png
+SPDXID: SPDXRef-item836629
+FileChecksum: SHA1: 543914610536f064f2f48813de3bf482106bc3a0
+FileChecksum: MD5: 80a1204bf8dcf9a4dce454de029fc4f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Signal_Full-01.png
+SPDXID: SPDXRef-item836630
+FileChecksum: SHA1: 7763e244a82add292a59bd46946a7d996d0d1fb1
+FileChecksum: MD5: 9dfec20e3fafffa930f6364612244331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Wifi_2Bars-01.png
+SPDXID: SPDXRef-item836631
+FileChecksum: SHA1: b7336c7f9f046d844c7c440e44bc5e8bfea07a73
+FileChecksum: MD5: 9f62c289258891e7c2e403e8ec92abac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Bluetooth_On-01.png
+SPDXID: SPDXRef-item836632
+FileChecksum: SHA1: 60ea2ed2b56b653d57fa3787ca5b1d48915cb882
+FileChecksum: MD5: fe47e482e41bca62debf4e859e2c517e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Wifi_3Bars-01.png
+SPDXID: SPDXRef-item836633
+FileChecksum: SHA1: 5b31b4e26d7a7850d6143b54c04ef48ae22c1751
+FileChecksum: MD5: 8efd7e6f24306abd6af79081d41c9cf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Wifi_Full-01.png
+SPDXID: SPDXRef-item836634
+FileChecksum: SHA1: 44d70128115f62ef1fddf98608a2db9cb2def4cf
+FileChecksum: MD5: 8afb98b8fa0af7e75fb46464de9804e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Signal_4Bars-01.png
+SPDXID: SPDXRef-item836635
+FileChecksum: SHA1: 96e5f3257a3297886bbd06ef26cde7c1ea6b2406
+FileChecksum: MD5: 32ee01cda0e2df033b8d8646422d2938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Wifi_NoBars-01.png
+SPDXID: SPDXRef-item836636
+FileChecksum: SHA1: 4274ec6d08f3d625c853dd9822fc2d60e26910f0
+FileChecksum: MD5: 631e3271482cbbb3f0e356421780b756
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/status.qrc
+SPDXID: SPDXRef-item836637
+FileChecksum: SHA1: 2c2cb2c8e9d4d5990b4ea180ef21c9e984fa28b1
+FileChecksum: MD5: 685b35c549e3b5dbe2c42e248fdd69e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Status/HMI_Status_Bluetooth_Inactive-01.png
+SPDXID: SPDXRef-item836638
+FileChecksum: SHA1: a955dbb9c7b11c3f1c1c5cfbfeee1071e730af33
+FileChecksum: MD5: 6779b22b6bf315984989dd8d42b7fed0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Utility_Music_Background-01.png
+SPDXID: SPDXRef-item836639
+FileChecksum: SHA1: 1ef893347c614a9c1785b47cead56970b1779f19
+FileChecksum: MD5: af63f936f0fd37ad6fa951e15d88d34c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/weather.qrc
+SPDXID: SPDXRef-item836641
+FileChecksum: SHA1: 0739d00e7ea2f4949945f40db55f107a27ecadd3
+FileChecksum: MD5: 70abe0ed940f10bbe157ffea0c273181
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/WeatherIcons_PartiallyCloudy-01.png
+SPDXID: SPDXRef-item836642
+FileChecksum: SHA1: 4453d6b27679af434af8a20d1f37e5d0aff61c04
+FileChecksum: MD5: 286d82a72eb5b26fd0fb00fde08648bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/WeatherIcons_Rain-01.png
+SPDXID: SPDXRef-item836643
+FileChecksum: SHA1: 25833289ac2f77f6149a8cb9dfb3a56bfaffc9c9
+FileChecksum: MD5: 7d635f25bfc951a341897d7c1532519f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/WeatherIcons_Cloudy-01.png
+SPDXID: SPDXRef-item836644
+FileChecksum: SHA1: 549405f4707ae57aa089f3d75b45f6298a174edb
+FileChecksum: MD5: 48164bc3a5e78bb6a75de74d5558f573
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/WeatherIcons_Sun-01.png
+SPDXID: SPDXRef-item836645
+FileChecksum: SHA1: 3adb55983feaa5317db44a741ddcb2ac5c9ee026
+FileChecksum: MD5: 34f45982ffd310f922cc39b24e83e334
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/WeatherIcons_Moon-01.png
+SPDXID: SPDXRef-item836646
+FileChecksum: SHA1: 53acc171fe95aa1d6b0a21b3a0b82e03736188c2
+FileChecksum: MD5: 690ef05147d7cf922e4587d289dedf96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/WeatherIcons_Thunderstorm-01.png
+SPDXID: SPDXRef-item836647
+FileChecksum: SHA1: 5a2d69521bdfc80afbe02d2212a4865fd06313c0
+FileChecksum: MD5: 3509b7335a3acc63d0e08c7f6775f822
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/WeatherIcons_ALL-01.png
+SPDXID: SPDXRef-item836648
+FileChecksum: SHA1: e26a290733c53d05d65be7c3d163072902138cf5
+FileChecksum: MD5: 25772b0acc0bd113797b7faa041fd10b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Weather/WeatherIcons_Snow-01.png
+SPDXID: SPDXRef-item836649
+FileChecksum: SHA1: 58879e5d315da18a49f8a63097df7bb7ea219711
+FileChecksum: MD5: a9df213cb69e489fc2db47ac4de2ba00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/TopSection_NoText_NoIcons-01.svg
+SPDXID: SPDXRef-item836650
+FileChecksum: SHA1: ace787561cb185b85f6766e1efd74a0813752c2c
+FileChecksum: MD5: 67b738eedafb98aa8a7678e17f400fa4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/AGL_HMI_Blue_Background_NoCar-01.png
+SPDXID: SPDXRef-item836651
+FileChecksum: SHA1: 2721814b438f4fb7943e3c33655554922c1d0f53
+FileChecksum: MD5: 5ba6b32e1d713bc1170f1abe81610531
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/images.qrc
+SPDXID: SPDXRef-item836652
+FileChecksum: SHA1: a2d7b86bf1e8ee2b15ff06e9afd1b391e441cc58
+FileChecksum: MD5: d106a00876086e6476535b8736f1f5ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/mediaplayer.svg
+SPDXID: SPDXRef-item836654
+FileChecksum: SHA1: 3cdab902e748e90cf8c2dc5007f06294ad222be3
+FileChecksum: MD5: 69cdd40ae34f43de967e09b0b4c993e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/mediaplayer_active.svg
+SPDXID: SPDXRef-item836655
+FileChecksum: SHA1: 1fd8bc60505df77ad679ff9f7f6ba443e0d78e09
+FileChecksum: MD5: 0dbe42ad343697a6003e2174f6084f28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/navigation_active.svg
+SPDXID: SPDXRef-item836656
+FileChecksum: SHA1: c23e13caa9784c70b3f40332f1bac0be34f8cd78
+FileChecksum: MD5: 66b401628a9a58bb7acfaebdabd1bd06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/navigation.svg
+SPDXID: SPDXRef-item836657
+FileChecksum: SHA1: a7a56d4c2e961ce87f3c572830e4c76b8e134dff
+FileChecksum: MD5: 433d75896ac4f80dec298708caaaa4bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/hvac.svg
+SPDXID: SPDXRef-item836658
+FileChecksum: SHA1: fd8818eca2db51c384cd3cb80fce43a937f939c1
+FileChecksum: MD5: 90867bb10aa22899bf698f41c5cb3934
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/launcher.svg
+SPDXID: SPDXRef-item836659
+FileChecksum: SHA1: a9799a67ad6e09daa1efc085c8df77a2fa87aac2
+FileChecksum: MD5: 89a641ec356672827990ede00d6e87bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/hvac_active.svg
+SPDXID: SPDXRef-item836660
+FileChecksum: SHA1: 0080835e51a5fcea9ea92f42992ea294a45f4572
+FileChecksum: MD5: 3f2727c5405802918377c5127b75a5e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/launcher_active.svg
+SPDXID: SPDXRef-item836661
+FileChecksum: SHA1: 577b06e437928d118181dedbfc9a4c69b70a3cee
+FileChecksum: MD5: f32c8807354331fc67bc36cb8c459c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Shortcut/shortcut.qrc
+SPDXID: SPDXRef-item836662
+FileChecksum: SHA1: 86dbac9f94e03f8cd3daee9599632122cce892f4
+FileChecksum: MD5: efccbad2f62890f543d6f6dda458d885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/images/Utility_Logo_Background-01.svg
+SPDXID: SPDXRef-item836663
+FileChecksum: SHA1: bd867eaec4309f1afbc371e480399f806b3da3a1
+FileChecksum: MD5: 44e0370c9ed1d9f7078cd6bd829d8e0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/TopArea.qml
+SPDXID: SPDXRef-item836664
+FileChecksum: SHA1: 67053459cc3adbc6bf30fa6b01bd951d1753e01c
+FileChecksum: MD5: f82b6c31a20f7456b60b5eb29dbe634b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/MediaAreaBlank.qml
+SPDXID: SPDXRef-item836665
+FileChecksum: SHA1: 12f2a7970f2f90c2191b4e4a9951095c8c86c78c
+FileChecksum: MD5: ca926db63f22158d18594589f5b400c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/StatusArea.qml
+SPDXID: SPDXRef-item836666
+FileChecksum: SHA1: 08338debca462761418a64fde7002272b2171407
+FileChecksum: MD5: 4139ec71557a55b1c32bd14156117551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/ShortcutArea.qml
+SPDXID: SPDXRef-item836667
+FileChecksum: SHA1: 5831d6511f5c98401426dbe79da773e9e1af9689
+FileChecksum: MD5: 2cbe15ca0ed9e41ade22669ead261860
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/qml/MediaAreaRadio.qml
+SPDXID: SPDXRef-item836668
+FileChecksum: SHA1: 4128ac2c278072c49ed8f6bc67a9953982c54cac
+FileChecksum: MD5: 6aa91097a441d5ee470535b43c94b0b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/LICENSE
+SPDXID: SPDXRef-item836669
+FileChecksum: SHA1: 0e6a6d22000e917d62d1f3d05478965773edc190
+FileChecksum: MD5: ae6497158920d9524cf208c09cc4c984
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/api-services-book.yml
+SPDXID: SPDXRef-item836671
+FileChecksum: SHA1: 6419479185bf87f5eb6fa38d8dbea9d1a66a1500
+FileChecksum: MD5: 1401d2e0d78f1aea7a3db32bf62f6949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/homescreen_api.md
+SPDXID: SPDXRef-item836672
+FileChecksum: SHA1: 769d4db09e9f42da9070eab383db2254acf451b7
+FileChecksum: MD5: 9a85d02f01900d330514b81cab9529c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_getAllSurfacesOfProcess.png
+SPDXID: SPDXRef-item836674
+FileChecksum: SHA1: ed3656baf75fb5b499014c882457bd857b159cd7
+FileChecksum: MD5: ea7308e09f354eae10ee53e50eddaa9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/settings.png
+SPDXID: SPDXRef-item836675
+FileChecksum: SHA1: ce1c7599b5a8bd5c72857a61323928068d1d9420
+FileChecksum: MD5: 9c81e8d90d7c11a5adad96ef7fbdf86c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_surfaceVisibilityChanged.png
+SPDXID: SPDXRef-item836676
+FileChecksum: SHA1: eb649fe98961b763c93bc7d306bba33f39d73027
+FileChecksum: MD5: 0ff1444a529eb411fec2e2103201e8f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_getSurfaceStatus_1.png
+SPDXID: SPDXRef-item836677
+FileChecksum: SHA1: 27f9e4a74907bb90b15e72480282b3989bb0ccb8
+FileChecksum: MD5: eba03c43667eb2cc68aa7bfde5a4c506
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_hardKeyPressed.png
+SPDXID: SPDXRef-item836678
+FileChecksum: SHA1: 660693398b3bbb257874fa37cdf9c88c60e48080
+FileChecksum: MD5: 2181ea454288e49a8dc7115292560203
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_getSurfaceStatus_2.png
+SPDXID: SPDXRef-item836679
+FileChecksum: SHA1: 9e0c7994f102326a39039aba6bd05eed40646da2
+FileChecksum: MD5: 88e68b86fa879411a93cecbc64f30519
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/full/settings.png
+SPDXID: SPDXRef-item836681
+FileChecksum: SHA1: d4ab8a2c12b43852be709cc9caa1b88842950482
+FileChecksum: MD5: f3506fe8f35f6ebead1004a17cfd3ad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/full/dashboard.png
+SPDXID: SPDXRef-item836682
+FileChecksum: SHA1: afb149e72bcb7b71474a9fa6d3e8e340dbfbc8bf
+FileChecksum: MD5: 5420b938c6032ef76c3455b7010197a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/full/phone.png
+SPDXID: SPDXRef-item836683
+FileChecksum: SHA1: 5a7b328476910a3b3f0d8611ad0872d1fb03c541
+FileChecksum: MD5: 817e4e4d8940658d7de9f0f1f3f33c84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/full/hvac.png
+SPDXID: SPDXRef-item836684
+FileChecksum: SHA1: f31dfedc96418f6f908a908a944cef07e68e962e
+FileChecksum: MD5: 0b30e31e0fb4f36e22a6d262ab4cdaa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/full/homescreen_applauncher.png
+SPDXID: SPDXRef-item836685
+FileChecksum: SHA1: 3cbf9e305078a939604f22be5da0043bac00f75f
+FileChecksum: MD5: 012cf5a26245e9a527b61a4a6dac036f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/dashboard.png
+SPDXID: SPDXRef-item836686
+FileChecksum: SHA1: c259f77f761b8738a31c9e252ff763196bfbfaaa
+FileChecksum: MD5: 950b5a5ead73f8c691e8d25e615c5e44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_renderSurfaceToAreaAllowed.png
+SPDXID: SPDXRef-item836687
+FileChecksum: SHA1: 451bf1081704c31cb0a281f7a58a0224597284fd
+FileChecksum: MD5: 7d66773c2463f14aa4e2a902ad8e2ae6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_getSurfaceStatus_3.png
+SPDXID: SPDXRef-item836688
+FileChecksum: SHA1: 0fa4a869796488d76814d345a15ab3c47721c925
+FileChecksum: MD5: a187e00191b372d2457b113d1350df3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/phone.png
+SPDXID: SPDXRef-item836689
+FileChecksum: SHA1: 56cf320941492a7da7d71773cf2c4c79a4cb2e8b
+FileChecksum: MD5: e668d03393c2e176b7d3cc436ffbb94b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_renderSurfaceToArea.png
+SPDXID: SPDXRef-item836690
+FileChecksum: SHA1: 2d5152d1c60eda52ac940f567482f78b4eeb0b06
+FileChecksum: MD5: cac3466d4a14134def4dd580aa97b5a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/hvac.png
+SPDXID: SPDXRef-item836691
+FileChecksum: SHA1: a0c310da234411a56cbbdb178f44c0a87797d3c2
+FileChecksum: MD5: 09c82ebe824622ca994b205f530d7e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/api_requestSurfaceIdToFullScreen.png
+SPDXID: SPDXRef-item836692
+FileChecksum: SHA1: 2fbd3d0c61de4223b8c77c4310d8a8e58d457c08
+FileChecksum: MD5: 24ed5b1efc369acabff051321cc14c65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/pictures/homescreen_applauncher.png
+SPDXID: SPDXRef-item836693
+FileChecksum: SHA1: 2b1b3057fd4e4e519609451cfe631f312e35717c
+FileChecksum: MD5: 4603f9dbd1670b7f04201def80ca9246
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/index.md
+SPDXID: SPDXRef-item836694
+FileChecksum: SHA1: 6a31b9a427ac2d4b93962e5ac3ac610612f82059
+FileChecksum: MD5: c8324b8d3dcd64b65dbc5d68dc8d328e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/docs/homescreen-book.yml
+SPDXID: SPDXRef-item836695
+FileChecksum: SHA1: 297229d4de3323207e3ede2a6867eaebb6c1ad65
+FileChecksum: MD5: c5bc7ce737f1eaa413cdef5729e33456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/homescreen/README.md
+SPDXID: SPDXRef-item836696
+FileChecksum: SHA1: 51f3e4a3894d27afecfdf267c4eb89fe495432d4
+FileChecksum: MD5: 225b1793db8bb0e12066ee6748f47bf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/afm_user_daemon.xml
+SPDXID: SPDXRef-item836698
+FileChecksum: SHA1: b5810aa6161a6608fd1563503b343a9964a89400
+FileChecksum: MD5: 8a76a6d63de8e0fab0283a77146cad09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/src/appframework.cpp
+SPDXID: SPDXRef-item836700
+FileChecksum: SHA1: 698046efe9e9f08dde3148849ad86abde5473218
+FileChecksum: MD5: ed0ca04a424a16d83baedb6ee0c883b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/appframework.xml
+SPDXID: SPDXRef-item836701
+FileChecksum: SHA1: 827e39329faa8531b3b2618bceec11f87c88117a
+FileChecksum: MD5: a021347968e44a7239b3a3b0fbdc6fc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/interfaces.pri
+SPDXID: SPDXRef-item836702
+FileChecksum: SHA1: 8dac3158b7a5f47c891496767087e1df1abd7dc7
+FileChecksum: MD5: e8979961f637bc7542582251c9fd5779
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/interfaces.pro
+SPDXID: SPDXRef-item836703
+FileChecksum: SHA1: 9210939b0e6893da4002b954198b9c0fbda3a4cf
+FileChecksum: MD5: 72de4eea71f54851ba8ef64bf46e10de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/statusbar.xml
+SPDXID: SPDXRef-item836704
+FileChecksum: SHA1: c37d719713c31ea39ded91a2de3fd2bec56c5c92
+FileChecksum: MD5: 91d9e72a8a2985bdcbc29ab0485014bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/LICENSE
+SPDXID: SPDXRef-item836705
+FileChecksum: SHA1: 0e6a6d22000e917d62d1f3d05478965773edc190
+FileChecksum: MD5: ae6497158920d9524cf208c09cc4c984
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/include/afm_user_daemon.hpp
+SPDXID: SPDXRef-item836707
+FileChecksum: SHA1: 35461e94b3f468132aa1e3312dee8a65df1efb00
+FileChecksum: MD5: 0632563bc57ec37c3dc703bb62e344c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/include/statusbar.hpp
+SPDXID: SPDXRef-item836708
+FileChecksum: SHA1: 238fe61379169e66e9d8b88d301eeafd7b720beb
+FileChecksum: MD5: b5663aba2a7985a9c70dddbb235e8685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/include/appframework.hpp
+SPDXID: SPDXRef-item836709
+FileChecksum: SHA1: aa8bb3dc32a49b29a5ef443cc42b303ef829934e
+FileChecksum: MD5: 65aa66002ccbf8245a2acfd3ca1bd7d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/interfaces/README.md
+SPDXID: SPDXRef-item836710
+FileChecksum: SHA1: 71b393acb6be7e8beafbb17be907c360d4cb78af
+FileChecksum: MD5: 315e52b834cffbddf37585e18c70e19e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/package/config.xml
+SPDXID: SPDXRef-item836712
+FileChecksum: SHA1: 4df4606391bf471fd4bea689ce581ae11a725889
+FileChecksum: MD5: 5884a3fd6228d19313fd8b385dff701e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/package/package.pro
+SPDXID: SPDXRef-item836713
+FileChecksum: SHA1: 0f54b1c83345d9c464038315e159cce0a734431b
+FileChecksum: MD5: 21d9d5bf24226487d046d6682a5399b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/package/icon.svg
+SPDXID: SPDXRef-item836714
+FileChecksum: SHA1: 23be7e477f574c78cf2acd5e82133bde10e8c9ac
+FileChecksum: MD5: e8c72b2ddff12643e6eb21671d38394b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/README.md
+SPDXID: SPDXRef-item836715
+FileChecksum: SHA1: 1c764af718a323eea5b58e4a232cb25a16beff0a
+FileChecksum: MD5: 7f323407cd7e10799f8b153278c6c3d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

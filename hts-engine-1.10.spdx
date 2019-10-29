@@ -1,0 +1,608 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_hts-engine-1.10-r0-patched.tar.gz_1571457688.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:01:29Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: hts-engine
+PackageVersion: 1.10
+PackageFileName: hts-engine-1.10-r0-patched.tar.gz
+SPDXID: SPDXRef-upload322
+PackageDownloadLocation: http://downloads.sourceforge.net/hts-engine/hts_engine_API-1.10.tar.gz
+PackageHomePage: http://hts-engine.sourceforge.net/
+PackageSummary: <text>hts_engine is software to synthesize speech waveform from HMMs trained by the HMM-based speech synthesis system (HTS).</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>hts-engine version 1.10</text>
+PackageChecksum: SHA1: 728ff54615148a29922e02b0cd05d4e8c2c37ac6
+PackageChecksum: MD5: cca93c0cc80fe4b9e75eb7d2186420e9
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload322
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/nomalize.patch
+SPDXID: SPDXRef-item843345
+FileChecksum: SHA1: 7228da38b4ee2ec7298288f4336fc8cece4c15ca
+FileChecksum: MD5: 63fbb0dbadc89ce021f58eed05824e64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/config/compile
+SPDXID: SPDXRef-item843349
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/config/install-sh
+SPDXID: SPDXRef-item843350
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/config/config.sub
+SPDXID: SPDXRef-item843351
+FileChecksum: SHA1: a0870c772b786520326abce13b33db131bfb87da
+FileChecksum: MD5: 9e38dc3cc2b4e471ea192c8984fb0cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/config/missing
+SPDXID: SPDXRef-item843352
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/config/config.guess
+SPDXID: SPDXRef-item843353
+FileChecksum: SHA1: d764d09fee2e6470de16d1fb7a91ea72eec2f364
+FileChecksum: MD5: fa1ff35df7f13f513bfa5e2c05783a10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/config/depcomp
+SPDXID: SPDXRef-item843354
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/NEWS
+SPDXID: SPDXRef-item843355
+FileChecksum: SHA1: 2e816f14e2d58ae25f9b318813b48e74432b14ef
+FileChecksum: MD5: 2d4b29c5157334e2e4bdb53bb23dca25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/aclocal.m4
+SPDXID: SPDXRef-item843356
+FileChecksum: SHA1: a0ab5539c82dc3768e79f356ed669520188a4b19
+FileChecksum: MD5: 2513b148a753e91c709867ed24eb1dff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/Makefile.in
+SPDXID: SPDXRef-item843357
+FileChecksum: SHA1: 7e025cd0a8d164ac6f4359aac1613bc5a04060fa
+FileChecksum: MD5: 60ddebb101cf733467b03af40eacddc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/COPYING
+SPDXID: SPDXRef-item843358
+FileChecksum: SHA1: 77b1d929ac97875b6e05d59caf08938c3ae056a4
+FileChecksum: MD5: b3be85b37c90bfd4d34d79a0e3f28700
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/configure
+SPDXID: SPDXRef-item843359
+FileChecksum: SHA1: d041eed53568d95ed33ee7ed36470bc939d29b63
+FileChecksum: MD5: 58a425d46134964f3581d430763e68cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/Makefile.mak
+SPDXID: SPDXRef-item843360
+FileChecksum: SHA1: 5d7aa4756b95565f80921a2752e70c4df159902d
+FileChecksum: MD5: 0638dc569ef63aab08b3227ab52d133b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_hidden.h
+SPDXID: SPDXRef-item843362
+FileChecksum: SHA1: 9c3d014ba9afa504e38cb17c3367ed5a8256b031
+FileChecksum: MD5: 9de74ce3f56d9174796191ef467c1c13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_model.c
+SPDXID: SPDXRef-item843363
+FileChecksum: SHA1: 42430dcd77d9316b474729ec352a1b7962c826dd
+FileChecksum: MD5: 4f7ef939570753fe5898af5c0ca6eb8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/Makefile.in
+SPDXID: SPDXRef-item843364
+FileChecksum: SHA1: ba7ec3742fdeb9eabf6a52551acd380b8d3dbfa4
+FileChecksum: MD5: 20bce534a908e52b6ef908d2df40028b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_gstream.c
+SPDXID: SPDXRef-item843365
+FileChecksum: SHA1: 8d9e7b63bb2b1da90591adcb543638d36988f0ae
+FileChecksum: MD5: a50bd9c3fc6e142301bbad71b26d9489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/Makefile.mak
+SPDXID: SPDXRef-item843366
+FileChecksum: SHA1: fe8c739aff40505844fb7a12af1e25888598e5b0
+FileChecksum: MD5: 074d66fa5ac12bbf0903087b9d85fcfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_audio.c
+SPDXID: SPDXRef-item843367
+FileChecksum: SHA1: 70919cfd9b94f005e56c2ca1a29d06d6067493d1
+FileChecksum: MD5: 68ad20f99a9e557c28aba03bafa758da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/Makefile.am
+SPDXID: SPDXRef-item843368
+FileChecksum: SHA1: 63d30fcf8a198ea25178442bcdde1b2ff9227c9d
+FileChecksum: MD5: 674b6a0c21a258a94c3e1b254d6205b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_engine.c
+SPDXID: SPDXRef-item843369
+FileChecksum: SHA1: 66faa17004f80854c140faae31abb8835735d92c
+FileChecksum: MD5: 0147594d0d9466de0e135b428f02988b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_misc.c
+SPDXID: SPDXRef-item843370
+FileChecksum: SHA1: 183d70b73e681bc1ea41ab11cdb5cddcbd389a34
+FileChecksum: MD5: 56481cc759398ead008c92a2ae950dbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_label.c
+SPDXID: SPDXRef-item843371
+FileChecksum: SHA1: 5f5e42599f9e4fd37b1cd3e5ece9036dd06a1ace
+FileChecksum: MD5: a9d5fea4e3296368043a3c5f9f07b0c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_sstream.c
+SPDXID: SPDXRef-item843372
+FileChecksum: SHA1: 1e29261255fa05c01667d3d2e24d45c99f58bb74
+FileChecksum: MD5: daf2c248d8980a636936502fc38edde2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_vocoder.c
+SPDXID: SPDXRef-item843373
+FileChecksum: SHA1: 3453a42e2935f8b3db742d8a3ddeaf23dc2e1caa
+FileChecksum: MD5: 3af3aab00b9a23511ba8a23410a8d46e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/lib/HTS_pstream.c
+SPDXID: SPDXRef-item843374
+FileChecksum: SHA1: 839ffe96723c9372741102ef77cb91020fc17454
+FileChecksum: MD5: 56e515bf2f841ef5ae9c15018eb52f54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/Makefile.am
+SPDXID: SPDXRef-item843375
+FileChecksum: SHA1: 0836d24574de1054e23e09e018d7b19946a0590b
+FileChecksum: MD5: 3818d50e0f1fe009300d0252953a6f62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/AUTHORS
+SPDXID: SPDXRef-item843376
+FileChecksum: SHA1: 8c6bcee981d09ae71b692e5fe4f99ec5fe1b1567
+FileChecksum: MD5: 77fb54913929ab2464cae8c2cea2a7e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/bin/Makefile.in
+SPDXID: SPDXRef-item843378
+FileChecksum: SHA1: 65f96831a582d62f9df3419c7b4901f55459aad6
+FileChecksum: MD5: 6c467843f136def56457f990871388c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/bin/Makefile.mak
+SPDXID: SPDXRef-item843379
+FileChecksum: SHA1: 20c3422ad17de6927e942356e9c4102712e751f0
+FileChecksum: MD5: 03104a899338d03ca8218c0baad738bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/bin/Makefile.am
+SPDXID: SPDXRef-item843380
+FileChecksum: SHA1: 01f6610aa75028bd2f69473c0ff5043773ca9e97
+FileChecksum: MD5: c0eb7537c481dc26a8fa7ca0e739d396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/bin/hts_engine.c
+SPDXID: SPDXRef-item843381
+FileChecksum: SHA1: 80e3c0d9eb4bba47f1f13b97a8fd1e285db11242
+FileChecksum: MD5: af0916e4da59c49f5c878824e43f74ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/README
+SPDXID: SPDXRef-item843382
+FileChecksum: SHA1: 643a5c4f4fe12770185d01ea9279e8c90f877fa9
+FileChecksum: MD5: ef40535665b0ec7c28a449ef08964d56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/.pc/applied-patches
+SPDXID: SPDXRef-item843384
+FileChecksum: SHA1: 9958988b0455bd7229dce0411907394dfa00802a
+FileChecksum: MD5: f458b8ad4429c9c9baa0c6dfd7c384aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/.pc/.quilt_series
+SPDXID: SPDXRef-item843385
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/.pc/.version
+SPDXID: SPDXRef-item843386
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/.pc/nomalize.patch/lib/HTS_engine.c
+SPDXID: SPDXRef-item843389
+FileChecksum: SHA1: f968397dd7669f9011057465a9325ab70dd1ff9b
+FileChecksum: MD5: bd82ffc237fdebb5afa5b803012b36bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/.pc/nomalize.patch/.timestamp
+SPDXID: SPDXRef-item843390
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/.pc/.quilt_patches
+SPDXID: SPDXRef-item843391
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/configure.ac
+SPDXID: SPDXRef-item843392
+FileChecksum: SHA1: 347e53019f95979ccf833447dc77d1fb2db4374e
+FileChecksum: MD5: 79ba8ec95a8188e6e1b798df6f1921c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/INSTALL
+SPDXID: SPDXRef-item843393
+FileChecksum: SHA1: dc03e92d8f4b29f57197e24af3c303fabd359fcc
+FileChecksum: MD5: 434af71835d2737552de3123d63a5966
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/patches/series
+SPDXID: SPDXRef-item843396
+FileChecksum: SHA1: 32529f312f9f13dd0dc65311d67ba54a676b0114
+FileChecksum: MD5: 03e0a8ca6e713d63c047ad2c76b5ff26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/include/HTS_engine.h
+SPDXID: SPDXRef-item843398
+FileChecksum: SHA1: 02689ac5d39321957e4a5353d53cb7aaf9fb2ff0
+FileChecksum: MD5: f7a8bbc735876b9b23ec4905ba93be97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hts_engine_API-1.10/ChangeLog
+SPDXID: SPDXRef-item843399
+FileChecksum: SHA1: ee3b3cb57820e64c01d223f1273b131e5f361a74
+FileChecksum: MD5: a6d1b84a76ff879e116011aa41b44dfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD-possibility
+LicenseName: BSD-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

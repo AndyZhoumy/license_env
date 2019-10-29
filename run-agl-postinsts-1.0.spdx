@@ -1,0 +1,85 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_run-agl-postinsts-1.0-r0-patched.tar.gz_1571457910.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:05:10Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: run-agl-postinsts
+PackageVersion: 1.0
+PackageFileName: run-agl-postinsts-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload334
+PackageDownloadLocation: file://run-agl-postinsts
+PackageHomePage: 
+PackageSummary: <text>Runs AGL postinstall scripts on first boot of the target device</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>run-agl-postinsts version 1.0</text>
+PackageChecksum: SHA1: 46a5c8e5afc603edca914edb7bbd6f24eb286b88
+PackageChecksum: MD5: a58766f85d10d3e194291523c07734a9
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload334
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/run-agl-postinsts
+SPDXID: SPDXRef-item851840
+FileChecksum: SHA1: f0cc6d8986a944e5b5c34c0c8fa5e6b54902184e
+FileChecksum: MD5: c728da6cd5cb682c05d06e4dfe9d81bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/run-agl-postinsts.service
+SPDXID: SPDXRef-item851841
+FileChecksum: SHA1: fb8033a1885478b3d8c919824e5a928f80eb8bae
+FileChecksum: MD5: 5d9c8cce086b76379d31d8760f294e30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

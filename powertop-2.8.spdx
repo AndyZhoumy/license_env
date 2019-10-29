@@ -1,0 +1,2454 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_powertop-2.8-r0-patched.tar.gz_1571459793.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:36:34Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: powertop
+PackageVersion: 2.8
+PackageFileName: powertop-2.8-r0-patched.tar.gz
+SPDXID: SPDXRef-upload415
+PackageDownloadLocation: http://01.org/sites/default/files/downloads/powertop/powertop-2.8.tar.gz
+PackageHomePage: http://01.org/powertop/
+PackageSummary: <text>Power usage tool</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>powertop version 2.8</text>
+PackageChecksum: SHA1: cf31e774282a1620622ead9c07d1ac8f204e2c07
+PackageChecksum: MD5: 12f90aec39eb355465c23097e1dd8837
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload415
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-include-rquired-headers-for-typedefs.patch
+SPDXID: SPDXRef-item1044000
+FileChecksum: SHA1: f4f9db7f5c13409b9fc72ce4e5fc208d89468731
+FileChecksum: MD5: 0a5c29e0416a26e24448bb99e5ced180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/ar-lib
+SPDXID: SPDXRef-item1044003
+FileChecksum: SHA1: 97820fbbfe9e0175a575766253c326e5a1a7a9e1
+FileChecksum: MD5: 9274c17761d598304d1068c4c15fb107
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/ABOUT-NLS
+SPDXID: SPDXRef-item1044004
+FileChecksum: SHA1: 4e94882183613a9cc5e83fc01da263e8a172ba2a
+FileChecksum: MD5: d561c9ffb3ce93725294a346140a5309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/compile
+SPDXID: SPDXRef-item1044005
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/install-sh
+SPDXID: SPDXRef-item1044006
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/aclocal.m4
+SPDXID: SPDXRef-item1044007
+FileChecksum: SHA1: abbdacd0264032a12bd2653483b72535c8def898
+FileChecksum: MD5: 70879689b02a43f0622210a30a0a4507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/Makefile.in
+SPDXID: SPDXRef-item1044008
+FileChecksum: SHA1: 71b65f6f1478a189ba15e9e0a2fb37098aaaa3b8
+FileChecksum: MD5: 02c5a28b05f13079f91ffae0a7121a05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/COPYING
+SPDXID: SPDXRef-item1044009
+FileChecksum: SHA1: a7a897a4bde987e597c04f16a9c28f6d3f57916d
+FileChecksum: MD5: 12f884d2ae1ff87c09e5b7ccc2c4ca7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/configure
+SPDXID: SPDXRef-item1044010
+FileChecksum: SHA1: c4a147a7316d091d985dac9407b15e3949330f5f
+FileChecksum: MD5: e3c9e398225a731b72d6c8bdbce871df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/ltmain.sh
+SPDXID: SPDXRef-item1044011
+FileChecksum: SHA1: 0d6d5f492aad83f47fc575e9d26f2e4d0f5f93fa
+FileChecksum: MD5: c95ea69f1e4f13b7ccf3768e28a4bcb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devlist.cpp
+SPDXID: SPDXRef-item1044013
+FileChecksum: SHA1: 0820be2a2193320388143e83362ed8753ba2344d
+FileChecksum: MD5: a2391a2349c39650e0a623d505a5658e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/measurement/sysfs.h
+SPDXID: SPDXRef-item1044015
+FileChecksum: SHA1: a0934c05d88b3f2a383528182de3fb5efd700a6e
+FileChecksum: MD5: 9c35682085f860eb53f1ce77e53a6b92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/measurement/extech.cpp
+SPDXID: SPDXRef-item1044016
+FileChecksum: SHA1: 0af05f27d279a81ac240025a7ac6dea2b1e72e20
+FileChecksum: MD5: 96f523629f51ea78d123137a9c80f08d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/measurement/measurement.h
+SPDXID: SPDXRef-item1044017
+FileChecksum: SHA1: b7fa9c3a5eb1886d2131fdcf62d27e0b73205e0c
+FileChecksum: MD5: 0c8d3a51cda5626e140f5ed2b2fd730a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/measurement/acpi.h
+SPDXID: SPDXRef-item1044018
+FileChecksum: SHA1: 9aea4f921ac5b273992a06aead59092371e90257
+FileChecksum: MD5: 5c0f1e66124ea4e763a125fd4a03e45d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/measurement/acpi.cpp
+SPDXID: SPDXRef-item1044019
+FileChecksum: SHA1: 493b692f5a3dd39279317f86d6cd60faee929519
+FileChecksum: MD5: 6f794df6356d480c988c2ce300783c72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/measurement/extech.h
+SPDXID: SPDXRef-item1044020
+FileChecksum: SHA1: f1a591665675df97df15d334b9db50a46442ba1b
+FileChecksum: MD5: 8e8d2dae70f46c3c177168fc7b918773
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/measurement/sysfs.cpp
+SPDXID: SPDXRef-item1044021
+FileChecksum: SHA1: 69f5947e28e8646cfcbcdcb1530ad3337e0e6779
+FileChecksum: MD5: 52b013cd97884398f501917b36a3bbcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/measurement/measurement.cpp
+SPDXID: SPDXRef-item1044022
+FileChecksum: SHA1: 67a1769a1294d7145609586744fdf16f78413cbb
+FileChecksum: MD5: 1024a2ca7f864c98f66c7e572fd3c0ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/lib.cpp
+SPDXID: SPDXRef-item1044023
+FileChecksum: SHA1: 0ff4e380eae2891c4ae6ad2c7651547933b6f72c
+FileChecksum: MD5: 94b0d86d915eaca0971f2ba4c0169e64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/lib.h
+SPDXID: SPDXRef-item1044024
+FileChecksum: SHA1: d5a42436d28a810d96886c27df6955fcef4a6791
+FileChecksum: MD5: 2a48c2ea442c543ce63afb8242ab6fe1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-formatter.h
+SPDXID: SPDXRef-item1044026
+FileChecksum: SHA1: 4aa4ac7ab667f0b5b7d73de382e56387f312b4bb
+FileChecksum: MD5: 273bc1aa1c353eb30da8c6d5f9c4c899
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report.h
+SPDXID: SPDXRef-item1044027
+FileChecksum: SHA1: 488c3bc03106674e32f2161ca7573953e2b23ff5
+FileChecksum: MD5: 1ea3e39b1831fd47bd5c4e9a1935e2bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-maker.cpp
+SPDXID: SPDXRef-item1044028
+FileChecksum: SHA1: c6345d0c72ae7e95d5935a314ac2a0a5253e7d1e
+FileChecksum: MD5: e9529b876513873eee0b6b9928b74df5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-formatter-csv.h
+SPDXID: SPDXRef-item1044029
+FileChecksum: SHA1: 9b653d63e408a1f6866a91b5c890540320db936f
+FileChecksum: MD5: df1cee366955af5d6da422a0a9f7a5ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-formatter-csv.cpp
+SPDXID: SPDXRef-item1044030
+FileChecksum: SHA1: 5e0cd34cf97ed9fefe7100be7cea9da68e8107bd
+FileChecksum: MD5: f2974a01be0e55a3f595052a5d27b3f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-maker.h
+SPDXID: SPDXRef-item1044031
+FileChecksum: SHA1: f0e1cd4f086e896f4b6246223ae0509b047af032
+FileChecksum: MD5: fcb44634e899272c7c88c77ef773a0b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-formatter-base.cpp
+SPDXID: SPDXRef-item1044032
+FileChecksum: SHA1: 425526c5e75a9aa086f68402c795580d72c792f8
+FileChecksum: MD5: 87e6714e6340f90ef6fca9b7b91a7418
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-formatter-html.h
+SPDXID: SPDXRef-item1044033
+FileChecksum: SHA1: 5b38f936d1e20a6090d41a8cc237002ec07c42cb
+FileChecksum: MD5: b8fddc64e9afc18b5fe4fc0422993083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report.cpp
+SPDXID: SPDXRef-item1044034
+FileChecksum: SHA1: da819b3ad535f5769ddfe7357d4d592972b9eb67
+FileChecksum: MD5: 5bafb061260db69c8080d88a8905cc63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-data-html.cpp
+SPDXID: SPDXRef-item1044035
+FileChecksum: SHA1: ed38d3b567115f4f1a1619ac419e524ab3e01d93
+FileChecksum: MD5: 7f302bb251b2d8aa4e4b7277faeed723
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-data-html.h
+SPDXID: SPDXRef-item1044036
+FileChecksum: SHA1: 7080756096cacfa0828235be103531bc12bd4f0a
+FileChecksum: MD5: 229b4aa15a43dfadb977768f5ef37bc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-formatter-base.h
+SPDXID: SPDXRef-item1044037
+FileChecksum: SHA1: 98463a502a262b9e1a6394f737c97f69887ac31f
+FileChecksum: MD5: ee392096d52195aa6d10687f0ae1d5ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/report/report-formatter-html.cpp
+SPDXID: SPDXRef-item1044038
+FileChecksum: SHA1: 7e52b67bc8270da85f8ecf47f55f16bdb97e8a29
+FileChecksum: MD5: 71381cbf5b3b035f03a787aee2a0c91b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/display.cpp
+SPDXID: SPDXRef-item1044039
+FileChecksum: SHA1: 64a1dc362ab48c114d1cfc67e8d78ced3275c582
+FileChecksum: MD5: ba622eca1f5b63b962af370c2a9343ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpu_rapl_device.h
+SPDXID: SPDXRef-item1044041
+FileChecksum: SHA1: 874eedfedb515bb624df3b7a1369de3fabf28aa4
+FileChecksum: MD5: 8f4798b345f44f012e189399b39041fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpudevice.cpp
+SPDXID: SPDXRef-item1044042
+FileChecksum: SHA1: 9c04409db45ca5b0c26de5b6d4726ff636ae419b
+FileChecksum: MD5: 25ca272f072535dea1782e262e1210b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/intel_cpus.h
+SPDXID: SPDXRef-item1044043
+FileChecksum: SHA1: 15a18b73dd2a3c3a0a86401f6113229144536d95
+FileChecksum: MD5: 02054ce8f8ec0ef2b0bcff3c5dc63983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/intel_gpu.cpp
+SPDXID: SPDXRef-item1044044
+FileChecksum: SHA1: df15f9e22d6176085b52af4571ffdf853d4c1c19
+FileChecksum: MD5: 584a0be49c2fd0041b7fa40ef9ff1c66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpu_package.cpp
+SPDXID: SPDXRef-item1044045
+FileChecksum: SHA1: 3ad776fc9ad63a8751d8e17340f7463266406a80
+FileChecksum: MD5: f9afb1854f06f5b8a2e378ec860ba5d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpu.cpp
+SPDXID: SPDXRef-item1044046
+FileChecksum: SHA1: 88dca930c43cb4822e25061885bb4f2f7249c510
+FileChecksum: MD5: 75c5333005a3360845a83fc667023569
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpu_core.cpp
+SPDXID: SPDXRef-item1044047
+FileChecksum: SHA1: 9d40b3821af0b82f7c13d12ca85824e91a8b05b5
+FileChecksum: MD5: d625b35574d67c070976790ec73b067b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpu_rapl_device.cpp
+SPDXID: SPDXRef-item1044048
+FileChecksum: SHA1: 57315d04d9d433f90a9a60e91a665f05b9eb2340
+FileChecksum: MD5: 864c715ad050f10c32ab450cf6ee1be7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpu_linux.cpp
+SPDXID: SPDXRef-item1044049
+FileChecksum: SHA1: 72117cacc611ad1be31a07bd132bda0d3cd1aec8
+FileChecksum: MD5: 3b3d41e572a91255b6fffa181dea41ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpu.h
+SPDXID: SPDXRef-item1044050
+FileChecksum: SHA1: 044f71eed26dc3f26e4b55ce06122655a58aa3c7
+FileChecksum: MD5: 25db1c1f60fb6f73e34bc2b9a20efc58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/abstract_cpu.cpp
+SPDXID: SPDXRef-item1044051
+FileChecksum: SHA1: 6ef390674df8c23e0f3759f87ccda64a2abcc7ac
+FileChecksum: MD5: 2cdc0afc414f80c5d0f401757f804c73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/intel_cpus.cpp
+SPDXID: SPDXRef-item1044052
+FileChecksum: SHA1: f084ab4031d9bc7c0dcaf4ba917f09c757e1a0e4
+FileChecksum: MD5: b6cf75d3c379c66b1df95ff201772fd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/dram_rapl_device.cpp
+SPDXID: SPDXRef-item1044053
+FileChecksum: SHA1: e9cd80a8561e4ccb15281a72074f35ab4c445330
+FileChecksum: MD5: b5e555f487619a4409e492ea01fa9247
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/rapl/rapl_interface.cpp
+SPDXID: SPDXRef-item1044055
+FileChecksum: SHA1: 6ef9207726430444b5951cffe6cf8e28d67e04ed
+FileChecksum: MD5: e7c74acb2e9d1cc8e021572f97140a59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/rapl/rapl_interface.h
+SPDXID: SPDXRef-item1044056
+FileChecksum: SHA1: 48719fa96e7124ca374c0bba0a960d953b44940c
+FileChecksum: MD5: f932ef90e587d504f204d7b445ff4279
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/dram_rapl_device.h
+SPDXID: SPDXRef-item1044057
+FileChecksum: SHA1: ed2395f1c863e93079b8120644cf8bfc39880d60
+FileChecksum: MD5: f50fbc775c2ea9f86647f4511a8ea744
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/cpu/cpudevice.h
+SPDXID: SPDXRef-item1044058
+FileChecksum: SHA1: b3c6eeb1cc183b8ed13b4a1199c661b149b93e17
+FileChecksum: MD5: c23ddb6b7d64bafb6aeb4f21f8f5b795
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/Makefile.in
+SPDXID: SPDXRef-item1044059
+FileChecksum: SHA1: fdf92953cdb698e8b2799a139848ca85376d159e
+FileChecksum: MD5: fc2bbc6b7459e49f3182f74c32a4f57a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/calibrate/calibrate.h
+SPDXID: SPDXRef-item1044061
+FileChecksum: SHA1: 5ed5cb97ea7d77012f5be2b766bb920cbbfecb64
+FileChecksum: MD5: e94325917acf5a1fe082b1747713e6ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/calibrate/calibrate.cpp
+SPDXID: SPDXRef-item1044062
+FileChecksum: SHA1: dffa815fee3014f8346f0697b467e62a92906240
+FileChecksum: MD5: d8b156ac174228361e992fbeb4c62640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/css.h
+SPDXID: SPDXRef-item1044063
+FileChecksum: SHA1: 97e12440f825d2f53a315ff3530a819a6b2555af
+FileChecksum: MD5: 537971fd8ba1296769c0a48e3f200e1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tuningi2c.cpp
+SPDXID: SPDXRef-item1044065
+FileChecksum: SHA1: a7a0e1d4d7ebdc6da05c211f68b762bb72413093
+FileChecksum: MD5: f1b979e39e57e4b5d84338eb0dedc1b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tuningsysfs.cpp
+SPDXID: SPDXRef-item1044066
+FileChecksum: SHA1: 288413385b132080e94132e49aeb6f2ab70028f6
+FileChecksum: MD5: 9e7dd6265d11f02be9e1ca20175f8553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tuningsysfs.h
+SPDXID: SPDXRef-item1044067
+FileChecksum: SHA1: f4a314a5cce18032bd91bcb3d70017ccec1f7b8e
+FileChecksum: MD5: 73b48206d8aa905d98baf83d90fc5dbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/ethernet.h
+SPDXID: SPDXRef-item1044068
+FileChecksum: SHA1: aac59ba68b2b5a04af7348cb3df4fbec49a0f7e8
+FileChecksum: MD5: 18a804ab8a16e407d4b73afe2fdac9e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/bluetooth.h
+SPDXID: SPDXRef-item1044069
+FileChecksum: SHA1: 699e29159b5353332f1b0849df2dc98a8d16a15b
+FileChecksum: MD5: 818771a15dd0607df3d51834c9a438dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/wifi.h
+SPDXID: SPDXRef-item1044070
+FileChecksum: SHA1: 0cc4e416b54a395c89a32f07e3c9468dcc866150
+FileChecksum: MD5: 26574658052a0a4ff5fd491381ee6355
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/iw.h
+SPDXID: SPDXRef-item1044071
+FileChecksum: SHA1: b95e70dd069bb385c7f721538abbba45a44cfaae
+FileChecksum: MD5: 5003c65a7d61f628b79952359f4f63a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tuning.h
+SPDXID: SPDXRef-item1044072
+FileChecksum: SHA1: 4092486febdc88bc8736dd9650408f295ac32cba
+FileChecksum: MD5: 6ca2323b55c65015c754b7055bc145e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/bluetooth.cpp
+SPDXID: SPDXRef-item1044073
+FileChecksum: SHA1: 988983d1abb45bd2cb2fb5b54f08e68617b0dec0
+FileChecksum: MD5: 66559308c0f9f97adbf39fa3aef37d21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/ethernet.cpp
+SPDXID: SPDXRef-item1044074
+FileChecksum: SHA1: aa0b0828d878764e56bdb8c1e26fcf6b10ee8113
+FileChecksum: MD5: df54c667abd2bd7fc875bbf14097416d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/nl80211.h
+SPDXID: SPDXRef-item1044075
+FileChecksum: SHA1: e4ffba18714a4b403f112454dd7dac7062c9c031
+FileChecksum: MD5: 83eb5c6ed6bc9470e35e579c997acfaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tunable.cpp
+SPDXID: SPDXRef-item1044076
+FileChecksum: SHA1: 1b3762bab1f3a92f0859931d2cdb03ac9eaeb3b6
+FileChecksum: MD5: 0361034b36dd1962cb776fe3c574e613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tuningi2c.h
+SPDXID: SPDXRef-item1044077
+FileChecksum: SHA1: 1a10eb43689b81452f2554fc7de14fa59092dac4
+FileChecksum: MD5: 6a85c6d7ca2a274a60ff35068c41a168
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/wifi.cpp
+SPDXID: SPDXRef-item1044078
+FileChecksum: SHA1: 47263464d381aaf2b67166682adbf3b7069326eb
+FileChecksum: MD5: a4542843f3a3a3022a1984f0352fde11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tuningusb.h
+SPDXID: SPDXRef-item1044079
+FileChecksum: SHA1: 0e5420d72bce53e0d9f9e97351620281e1f4de26
+FileChecksum: MD5: 82ca7ec10d037c7a449c8630cb25a2a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/iw.c
+SPDXID: SPDXRef-item1044080
+FileChecksum: SHA1: 5ebbb32a7d13ba86ecdf36a6bcb22329610c5d23
+FileChecksum: MD5: 4628a87b4accffe83e7f76bf2e4093b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tunable.h
+SPDXID: SPDXRef-item1044081
+FileChecksum: SHA1: 4c01693a00b6f85a8a1245ab2597659025510fd1
+FileChecksum: MD5: 7f0b6887c9b97265c7e2c8fc1111ae01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tuning.cpp
+SPDXID: SPDXRef-item1044082
+FileChecksum: SHA1: e8c6c1260f3a2ad9142da2d82988c42c644e7176
+FileChecksum: MD5: 8697a2d58d0508a3c29e80b45f4a04eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/runtime.h
+SPDXID: SPDXRef-item1044083
+FileChecksum: SHA1: d06c53a1016c5fead2dd4f30849e3d51530a32eb
+FileChecksum: MD5: b35c5083a3ae22c32fbb2365e856586e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/tuningusb.cpp
+SPDXID: SPDXRef-item1044084
+FileChecksum: SHA1: d03a221fd7cbcf8a502657f046f60058f15e0094
+FileChecksum: MD5: 5590decdaf43579c31d5fbb5fc2f8449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/tuning/runtime.cpp
+SPDXID: SPDXRef-item1044085
+FileChecksum: SHA1: 98bce5610e93539f06bbf8e1f445ff9a1e095d53
+FileChecksum: MD5: 583fa4e494fe45f8653d7608f1f16112
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/display.h
+SPDXID: SPDXRef-item1044086
+FileChecksum: SHA1: 6ebc37a471f55054d78fb945751b1f82e6e25c9b
+FileChecksum: MD5: f7f39656c4b2d41504227d7795459cfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/ahci.h
+SPDXID: SPDXRef-item1044088
+FileChecksum: SHA1: f9ffd1f634e3623dbee8cff707436a0ae5319ca4
+FileChecksum: MD5: d541a06fa6cf7b916eaa51d3a797b3ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/network.h
+SPDXID: SPDXRef-item1044089
+FileChecksum: SHA1: 40052e8ec0e434f63539120f8938f10836fbaa50
+FileChecksum: MD5: 09c168e6a85fd99120273978bc739f82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/i915-gpu.h
+SPDXID: SPDXRef-item1044090
+FileChecksum: SHA1: a1c6ad009ec81ef4d3b98b29957f0eb3d7d0c8c4
+FileChecksum: MD5: 8e0a42e32ab2085ef51d7704e5d177d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/gpu_rapl_device.h
+SPDXID: SPDXRef-item1044091
+FileChecksum: SHA1: a7c10ecbcc3c10c95d8015abfb08ffea1a5aa14c
+FileChecksum: MD5: 6ac976529d09ffc21ba755148dd65643
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/usb.cpp
+SPDXID: SPDXRef-item1044092
+FileChecksum: SHA1: ec3fc058af04bea2b73d478b9026a7b7975646ec
+FileChecksum: MD5: 8e4a28bdc86ba6f5571878a6db9dda8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/device.cpp
+SPDXID: SPDXRef-item1044093
+FileChecksum: SHA1: 2d321acafa723a25d3113625a9f59f0da7a0ef47
+FileChecksum: MD5: f668a9b357f08a02dfb1d70226e617d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/i915-gpu.cpp
+SPDXID: SPDXRef-item1044094
+FileChecksum: SHA1: 61e908d3318c062e509e5c8a3d4ebb4bf6fa9c30
+FileChecksum: MD5: e9132eca658bd7f2e7ce1f1643a93fce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/usb.h
+SPDXID: SPDXRef-item1044095
+FileChecksum: SHA1: 89cfcbae756675846c32684930eeb30c201bf647
+FileChecksum: MD5: 717c647a5bb669539ef91a42b8295912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/backlight.h
+SPDXID: SPDXRef-item1044096
+FileChecksum: SHA1: bd8c4890b11405c063d9ed646d598e69b933fd44
+FileChecksum: MD5: ef3fbfc8af3bdcdf1c18a6910ee225b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/alsa.cpp
+SPDXID: SPDXRef-item1044097
+FileChecksum: SHA1: 1d69a428f01c34ffc5b4695ff9eedf2b553a9442
+FileChecksum: MD5: 3eefddd3ef074c13b1a2dfef37474750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/thinkpad-fan.h
+SPDXID: SPDXRef-item1044098
+FileChecksum: SHA1: 28782d54a6a70ab02b388d7adc7db60976fe3e84
+FileChecksum: MD5: 82de55edbe4a5c8212c9f3a6a8dfacbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/devfreq.cpp
+SPDXID: SPDXRef-item1044099
+FileChecksum: SHA1: 1fc0625df7adb436d12535ac48e547ea066ce7f1
+FileChecksum: MD5: 2d22e362f4be9cb370be899ce88c3a28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/thinkpad-light.cpp
+SPDXID: SPDXRef-item1044100
+FileChecksum: SHA1: f130a189ef6e9c993c615295c33a14c9d5d09bac
+FileChecksum: MD5: ff8dbc09c79e6095cec36fb797057ddc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/alsa.h
+SPDXID: SPDXRef-item1044101
+FileChecksum: SHA1: aa4da91cec17b796471a79680b7cb25ad45a8bae
+FileChecksum: MD5: a0d0355a4b310922654c780da4af8d98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/rfkill.cpp
+SPDXID: SPDXRef-item1044102
+FileChecksum: SHA1: 625b02e6e38c945e55a17bc1acd106ecbb0439c7
+FileChecksum: MD5: 9556c29b93944957343e7bb307bc6358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/device.h
+SPDXID: SPDXRef-item1044103
+FileChecksum: SHA1: 80bafe4bf92fd80f613113171bef9f0b4574535e
+FileChecksum: MD5: becb933a74c602695aa863eb55d405f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/thinkpad-fan.cpp
+SPDXID: SPDXRef-item1044104
+FileChecksum: SHA1: 43a0f36498f8e90093048c74008fc8279e1d490c
+FileChecksum: MD5: 8414278445b3d0bdc3351b520a4bf96f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/runtime_pm.h
+SPDXID: SPDXRef-item1044105
+FileChecksum: SHA1: 8cce90497d2734fe11cec15ffb8209e323446ba4
+FileChecksum: MD5: 698187c7c683b36762e385b549d5c331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/backlight.cpp
+SPDXID: SPDXRef-item1044106
+FileChecksum: SHA1: 18cd841d8160ab1f48ac93c9a897439e15fc516b
+FileChecksum: MD5: 4201ac8d3e5c73902297f16a52fc9c1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/rfkill.h
+SPDXID: SPDXRef-item1044107
+FileChecksum: SHA1: 2eaa38a218817ddef98e56d28e0231f28d8542b2
+FileChecksum: MD5: 04bbc924dd5e7cf830305282ca16d834
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/thinkpad-light.h
+SPDXID: SPDXRef-item1044108
+FileChecksum: SHA1: 3dfc9a2dcf9c4db35de13451bffdd9cf2c5ccfa6
+FileChecksum: MD5: ecdc30186f7f3c2b2a1a325def20041f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/ahci.cpp
+SPDXID: SPDXRef-item1044109
+FileChecksum: SHA1: 919b7b5f10535582983c483f21372c3252659ae1
+FileChecksum: MD5: 1a65c51b109798a9adad180b7e11cb3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/devfreq.h
+SPDXID: SPDXRef-item1044110
+FileChecksum: SHA1: a4e5f18824bc3c6dd125edb01d817bb78d799b6d
+FileChecksum: MD5: 207fe55fb002543cebaedca35f255b63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/network.cpp
+SPDXID: SPDXRef-item1044111
+FileChecksum: SHA1: 2bd0acb9aac0dad91842e535a33c6d7587fc1f41
+FileChecksum: MD5: c3956da1430e9d58bddf151214e1e648
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/gpu_rapl_device.cpp
+SPDXID: SPDXRef-item1044112
+FileChecksum: SHA1: 9f0bf1f4c7134efa12067c96f52acbde2e6092df
+FileChecksum: MD5: c70e8c60da27fe05f4406cc796d5668c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devices/runtime_pm.cpp
+SPDXID: SPDXRef-item1044113
+FileChecksum: SHA1: afae31434eadfb95bcd4159158c75fad75f8521e
+FileChecksum: MD5: e5ed1716bb37e78706315efffb42b13f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/Makefile.am
+SPDXID: SPDXRef-item1044114
+FileChecksum: SHA1: 01b47272f36669aba9b1fcae55a4083d7a7a0660
+FileChecksum: MD5: 0064af6daffcf3718afdf86008fc230d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/main.cpp
+SPDXID: SPDXRef-item1044115
+FileChecksum: SHA1: 759dfe22761fdca5b1f2c200030972108a8dea34
+FileChecksum: MD5: 1165f37740dea98094fd1fb51d85a491
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/devlist.h
+SPDXID: SPDXRef-item1044116
+FileChecksum: SHA1: f0ec1e940b64236db493e3c70c4b65002e1597b5
+FileChecksum: MD5: 0d58acd78e4d7c58955e64f5d290c051
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/csstoh.sh
+SPDXID: SPDXRef-item1044117
+FileChecksum: SHA1: 734473911b15c5e05d3205719c65d7386b151e45
+FileChecksum: MD5: 64320dd987adf4a4d533cc017a15e944
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/perf/perf_event.h
+SPDXID: SPDXRef-item1044119
+FileChecksum: SHA1: 5ae983500098fbd68ec093d310846f1e9c21cc64
+FileChecksum: MD5: 16061f42d7ecef34efdd072f0c21a826
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/perf/perf.h
+SPDXID: SPDXRef-item1044120
+FileChecksum: SHA1: 14eaf79ce24e2abd14362f7fe5616d6871cd79fb
+FileChecksum: MD5: 1339b686d80b4727953a657a9bfcce2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/perf/perf.cpp
+SPDXID: SPDXRef-item1044121
+FileChecksum: SHA1: f4ee815cfaf062cfa7a7ead029d9299b2c4d3033
+FileChecksum: MD5: 6f88f915f26912c91dbe99d6264210eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/perf/perf_bundle.cpp
+SPDXID: SPDXRef-item1044122
+FileChecksum: SHA1: c3b5fc51ad2be85e64b2bf4a681ba64d4f564ad7
+FileChecksum: MD5: d2b4618af29fc446c2784a03e83b89b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/perf/perf_bundle.h
+SPDXID: SPDXRef-item1044123
+FileChecksum: SHA1: 0c3445eaeb017d77c0f1e0b87a95f4d180245702
+FileChecksum: MD5: fbfc72addd073e01c5938c4809cc6681
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/processdevice.h
+SPDXID: SPDXRef-item1044125
+FileChecksum: SHA1: 26adad9b8305768da10a031e2e7dd03d9e83d54e
+FileChecksum: MD5: d86fe1a7dea9f130cf7eec8727a86b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/processdevice.cpp
+SPDXID: SPDXRef-item1044126
+FileChecksum: SHA1: 2545dcddfd3d758637ea37a9b0f23b349628724d
+FileChecksum: MD5: 8a5a57c8f5fd32ac1fb199a8bfc609b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/interrupt.cpp
+SPDXID: SPDXRef-item1044127
+FileChecksum: SHA1: af7357c89999a7a1089c6a8fbd43d538db2db209
+FileChecksum: MD5: d09e2b3a420fa4f44e1c7f832e74f0fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/process.h
+SPDXID: SPDXRef-item1044128
+FileChecksum: SHA1: d3dfa0683eaaa6e1d0c0ca5fd306152987ec3e3a
+FileChecksum: MD5: ff77eba8c4a4406ac74115dd611db766
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/process.cpp
+SPDXID: SPDXRef-item1044129
+FileChecksum: SHA1: 5d92cbb168b4b1bbfee2fd027d3ef23ae2d46bdb
+FileChecksum: MD5: 6a0df820062526de5235cfe617d441f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/interrupt.h
+SPDXID: SPDXRef-item1044130
+FileChecksum: SHA1: b82232399f36c6182f787af18dd454d96fe8c3c5
+FileChecksum: MD5: 4741f52ffd32e2671d9c57c2135946de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/work.h
+SPDXID: SPDXRef-item1044131
+FileChecksum: SHA1: f0e979d4fac1385f3c4a13404f1850c7ade292ce
+FileChecksum: MD5: 842ed249b15bd407a197e330e8cc3c40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/powerconsumer.h
+SPDXID: SPDXRef-item1044132
+FileChecksum: SHA1: 2edfdb40dc6ba16d56fd564168a362f70f4d872b
+FileChecksum: MD5: e406438193907ba77ef2185697f8f56f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/timer.h
+SPDXID: SPDXRef-item1044133
+FileChecksum: SHA1: 1c427f7428f9bfcc7c705fee5b5e1522b9d6a579
+FileChecksum: MD5: 7483d6f0f76af5d47cfbd7fba198d83a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/do_process.cpp
+SPDXID: SPDXRef-item1044134
+FileChecksum: SHA1: cbbb268f4cb08b2333eff6d2040334e310a993a4
+FileChecksum: MD5: b1cae9b8d3ae653a3fce00200f2851e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/timer.cpp
+SPDXID: SPDXRef-item1044135
+FileChecksum: SHA1: fbe052e7f4d505598ad02e306f3e9180e6fbabe9
+FileChecksum: MD5: 0bf8c0ed42cae8a12a547ea7cce8079f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/powerconsumer.cpp
+SPDXID: SPDXRef-item1044136
+FileChecksum: SHA1: 77e90b55bf9d669c2063cfc8a5a97a4f3a7783e5
+FileChecksum: MD5: 2f3d8a44339f42f49b52ce7c5c1a0a47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/process/work.cpp
+SPDXID: SPDXRef-item1044137
+FileChecksum: SHA1: 6892c8ecc0e7737cbe5a6dbd29456bc98ec46867
+FileChecksum: MD5: 3f2d7ccdbe1f11af3f35320ee61bfe20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/powertop.css
+SPDXID: SPDXRef-item1044138
+FileChecksum: SHA1: f8b18dcbc1755b765685e16a6be9e14b82fa5b0a
+FileChecksum: MD5: f20493b05fa09515593528e58e989a50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/parameters/persistent.cpp
+SPDXID: SPDXRef-item1044140
+FileChecksum: SHA1: c229a057656720a9764e7c6c71875b1fd9c8dd19
+FileChecksum: MD5: 0a1b1eb3dddf6138bb3e93e5b54ed510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/parameters/parameters.h
+SPDXID: SPDXRef-item1044141
+FileChecksum: SHA1: c6a3404484c642c646b0d8da9da95903b5e85fa9
+FileChecksum: MD5: a30ff22307596fad47a759b8f0abd22b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/parameters/parameters.cpp
+SPDXID: SPDXRef-item1044142
+FileChecksum: SHA1: 86fc31f0d9e2123e617adf7d575501b5cbc5b198
+FileChecksum: MD5: 490f871aaf21e8a5c198594cfb16a617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/src/parameters/learn.cpp
+SPDXID: SPDXRef-item1044143
+FileChecksum: SHA1: 5c37cbe611e3e13bf0fad14344c9000a9b43b124
+FileChecksum: MD5: 42a26df2c77568d6c0c1dbb72aa5a073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/ltversion.m4
+SPDXID: SPDXRef-item1044145
+FileChecksum: SHA1: 25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68
+FileChecksum: MD5: 91dd5e1355d100dbdab7d71244ed2625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/lib-ld.m4
+SPDXID: SPDXRef-item1044146
+FileChecksum: SHA1: e8be22bffc4de28e46bbbdc76d2ae9290128cc6b
+FileChecksum: MD5: ccb88af68838277a679d9d358f18c86d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/libtool.m4
+SPDXID: SPDXRef-item1044147
+FileChecksum: SHA1: df1b378e235c9f5df79c68c8fbae6e47a1d219c9
+FileChecksum: MD5: 42a15e936131c8cbcc3c88b839022f8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/ltoptions.m4
+SPDXID: SPDXRef-item1044148
+FileChecksum: SHA1: 05ec66892c8b30f20aa5278e1671ae4925a9c063
+FileChecksum: MD5: 67d5ebceaac562ddf0dde4e5cdffbe09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/progtest.m4
+SPDXID: SPDXRef-item1044149
+FileChecksum: SHA1: 130cfddb4a75887f630dbadf68288b1be0d9dca1
+FileChecksum: MD5: d6d251049bec31eb5b7d0a2c7e81599a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/lib-link.m4
+SPDXID: SPDXRef-item1044150
+FileChecksum: SHA1: d9e7ccaed27931b1e9454e85f37a71c53d312f5a
+FileChecksum: MD5: ae7b83f9e10586d558f81855a211b5b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/iconv.m4
+SPDXID: SPDXRef-item1044151
+FileChecksum: SHA1: cd81d2cca5b58f92ecb2af39d6bdd55de1440e5b
+FileChecksum: MD5: aadbb986767badeafd3f5110eb8f7a70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/gcc_fortify_source_cc.m4
+SPDXID: SPDXRef-item1044152
+FileChecksum: SHA1: 4b958d60102ea8939a9b9b34cf9838bb2a950dd8
+FileChecksum: MD5: a834da2f45c2ad710baea2c232464155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/ltsugar.m4
+SPDXID: SPDXRef-item1044153
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/po.m4
+SPDXID: SPDXRef-item1044154
+FileChecksum: SHA1: e2368a7eb5fad597523935caf70cd7ddd1ca6eb4
+FileChecksum: MD5: 7799327f0a516d6f7a62d69d902ec8fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/ax_cxx_compile_stdcxx_11.m4
+SPDXID: SPDXRef-item1044155
+FileChecksum: SHA1: 22fdd88f3b71cdab54c8a058823c4513bf2f56af
+FileChecksum: MD5: febd1c376fe204a374f337c608d4697d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/nls.m4
+SPDXID: SPDXRef-item1044156
+FileChecksum: SHA1: 1a70b22e1c29649b57ce968b32e5ffa3dfe7519b
+FileChecksum: MD5: d0e1d2def079958d312c9a6843364c95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/lib-prefix.m4
+SPDXID: SPDXRef-item1044157
+FileChecksum: SHA1: ded0605587bd04d9be70fd29be2c7842498bd4af
+FileChecksum: MD5: d305e70dd3440147ae6beb0ced42636d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/gettext.m4
+SPDXID: SPDXRef-item1044158
+FileChecksum: SHA1: a62e9aa4abb5838cf2b73478655485fdad7461e1
+FileChecksum: MD5: 39a07a87982bd635431ea8e0af8273e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item1044159
+FileChecksum: SHA1: c0c6afe569131b4015d221bc853053cf884b2699
+FileChecksum: MD5: 47d420a13f9ba4e171772c3e3eee3e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/ax_pthread.m4
+SPDXID: SPDXRef-item1044160
+FileChecksum: SHA1: dc9c6f8722f1e230281f5bd0ff7a2dbbe7b1dc73
+FileChecksum: MD5: 5535e823ec44002b522873b9c0e2e0bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-3.0--with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/m4/intlmacosx.m4
+SPDXID: SPDXRef-item1044161
+FileChecksum: SHA1: 83b958b013bdd3691d26ba4854655af6b4abd9d6
+FileChecksum: MD5: 0c975c99d2ec007b59adbe369635a393
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/TODO
+SPDXID: SPDXRef-item1044162
+FileChecksum: SHA1: 4ad00ec802071b67a96e0bd7e2f812ca3e444f9e
+FileChecksum: MD5: 44beb0f1a0cf51d709909bc3ef77a5fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/config.h.in
+SPDXID: SPDXRef-item1044163
+FileChecksum: SHA1: 917f77f810ac1567a22e97f485868fa34d22fdf6
+FileChecksum: MD5: 13872a33088f3370407c57d932172722
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/traceevent/event-parse.h
+SPDXID: SPDXRef-item1044165
+FileChecksum: SHA1: 788b8a0d6e2f49c95eff6aecb0b69d666bb079c2
+FileChecksum: MD5: c20aba0fdf7bf1a5963d3e88fda0519b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/traceevent/Makefile.in
+SPDXID: SPDXRef-item1044166
+FileChecksum: SHA1: 62cfe1e2c741848ce620d6c76ed2aee3c6a64e84
+FileChecksum: MD5: 23e224e533a8bf93fa73d366acad6a42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/traceevent/event-utils.h
+SPDXID: SPDXRef-item1044167
+FileChecksum: SHA1: 9a3badc8d0cceeabbe880948ef5b8ec845f3e684
+FileChecksum: MD5: 5751fd82480eddf413b24122b04d5a15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/traceevent/Makefile.am
+SPDXID: SPDXRef-item1044168
+FileChecksum: SHA1: 343d46dc69a9ffd17a20aa03815e8824c767ca31
+FileChecksum: MD5: c9b90f46784c79a30ea46ff23c58630d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/traceevent/event-parse.c
+SPDXID: SPDXRef-item1044169
+FileChecksum: SHA1: fe02eee6d2ffa44f43913a3e01b11349744a171f
+FileChecksum: MD5: 94e9057fc8eeb8307d9cf0b0b5bfd308
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/traceevent/parse-utils.c
+SPDXID: SPDXRef-item1044170
+FileChecksum: SHA1: 678be8259a6d4d188182437956ac0487070b1de0
+FileChecksum: MD5: f0521ef3676b8736a6cf95d2a30b937f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/traceevent/parse-filter.c
+SPDXID: SPDXRef-item1044171
+FileChecksum: SHA1: d5ac0935f93166838e0cf56a1d3d3dc14bc6dde9
+FileChecksum: MD5: 9372b739268fa41dd400e1b9a155ffb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/traceevent/trace-seq.c
+SPDXID: SPDXRef-item1044172
+FileChecksum: SHA1: 31dc072d71763bb2ea9a657212bbad8f2f24ce75
+FileChecksum: MD5: 2224642b28a8842a85f3c3b830c311fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/hu_HU.po
+SPDXID: SPDXRef-item1044174
+FileChecksum: SHA1: fd2b630dd2a30837a7ea0ec3a308d537759d3c25
+FileChecksum: MD5: 09fe15f5cb8a5f30a6f77f3050d6d060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/stamp-po
+SPDXID: SPDXRef-item1044175
+FileChecksum: SHA1: 8e5113f6f47ce34e0437c2105441dbb70f01491a
+FileChecksum: MD5: 1ded054093de910d9786c62bc4fe8cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/remove-potcdate.sin
+SPDXID: SPDXRef-item1044176
+FileChecksum: SHA1: ef998ba108174635906a01ba30fe1ba105728bb8
+FileChecksum: MD5: ae2ad0156895c4461ca32fe0524ef902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/Makefile.in.in
+SPDXID: SPDXRef-item1044177
+FileChecksum: SHA1: 5d523938da42ca0e2e0d3c2ba7e7eaf104b9d0e5
+FileChecksum: MD5: 433b964638aef52c74d6f26164bfcbf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/nl_NL.po
+SPDXID: SPDXRef-item1044178
+FileChecksum: SHA1: ef91cb9d1c0cb2d3eb5d3f41683852d91cf50246
+FileChecksum: MD5: 37503fbb8b4d4a727b7c8af177638477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/es_ES.gmo
+SPDXID: SPDXRef-item1044179
+FileChecksum: SHA1: 0dc9227c5681a4880ef8691bf69226af4101544c
+FileChecksum: MD5: 5bc4a58e7f221cbf99a0cb935a25712c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/id_ID.gmo
+SPDXID: SPDXRef-item1044180
+FileChecksum: SHA1: a137163517882349fdc4f84a5c5699424a64f923
+FileChecksum: MD5: f827405b29d620792b1a39bcf8233916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/hu_HU.gmo
+SPDXID: SPDXRef-item1044181
+FileChecksum: SHA1: 1b9a6c3ac212f1ec279c57488150be5da4f177a2
+FileChecksum: MD5: afee9e8c755232b4fbe0257c2ef63481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/ca.po
+SPDXID: SPDXRef-item1044182
+FileChecksum: SHA1: aac6887482e6289ce0eefaf5d8064e08a8765bdc
+FileChecksum: MD5: 755a5ea421da6e8f321e51be8fd2957f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/id_ID.po
+SPDXID: SPDXRef-item1044183
+FileChecksum: SHA1: 3df403e23503d0311034268c51a1c4e7af7559e7
+FileChecksum: MD5: fb11cce32ca78491bbdee343d611e5ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/es_ES.po
+SPDXID: SPDXRef-item1044184
+FileChecksum: SHA1: fb11f2a5b566bef3c7be005e8d6b9d5e073a9a73
+FileChecksum: MD5: 212d30c5a6039b587ec7a628a61c5b65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/powertop.pot
+SPDXID: SPDXRef-item1044185
+FileChecksum: SHA1: 3ec17c9b38c484c6edfc77b3dafe50b4f9d9fe5a
+FileChecksum: MD5: e268c3f84026c6875da09bfce35737ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/en_US.po
+SPDXID: SPDXRef-item1044186
+FileChecksum: SHA1: 21134bf017ca874d91948f4385618d3948a5267d
+FileChecksum: MD5: 311ba3e05940049cda9af9959bb7f15d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/boldquot.sed
+SPDXID: SPDXRef-item1044187
+FileChecksum: SHA1: 062e8aaba51d25b7fd72c99a9a40e57a64133696
+FileChecksum: MD5: 9f72ef7fe3e7c7330c158be85dc1bd4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/de_DE.po
+SPDXID: SPDXRef-item1044188
+FileChecksum: SHA1: a0d8b018230276596a62153f0121ed964b702d29
+FileChecksum: MD5: 867dc9f60c4f44906565efa459d14cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/insert-header.sin
+SPDXID: SPDXRef-item1044189
+FileChecksum: SHA1: b056528528249afdf45cc1cec4245578840724ab
+FileChecksum: MD5: b8d349a13678a4e0e18c8ee06c1bebea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/en@boldquot.header
+SPDXID: SPDXRef-item1044190
+FileChecksum: SHA1: a3bdad8e8a70840710219749a9bd0786f5de5487
+FileChecksum: MD5: 140858226cbabd8977f21e2f29168bb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/quot.sed
+SPDXID: SPDXRef-item1044191
+FileChecksum: SHA1: 7ec5417fc239ef3a2aad760c755d5c84b0d1e333
+FileChecksum: MD5: f652c7cf9496049a47b091513f120a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/cs_CZ.gmo
+SPDXID: SPDXRef-item1044192
+FileChecksum: SHA1: e69de621a4b177a4aeaac4e2fb6ff980d21c582c
+FileChecksum: MD5: b9f15a52ce68ab25918ec7108485f925
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/cs_CZ.po
+SPDXID: SPDXRef-item1044193
+FileChecksum: SHA1: 2be93751facb977ebf54225f8b92ceadfabbf227
+FileChecksum: MD5: 6a7598e2940abde6f073fd0e1e6f384f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/Makevars
+SPDXID: SPDXRef-item1044194
+FileChecksum: SHA1: a3812132f2d883497e04f75ceffb117db65a12cd
+FileChecksum: MD5: 1e94f20cc892cb7893bc58e6ec1fb10a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/de_DE.gmo
+SPDXID: SPDXRef-item1044195
+FileChecksum: SHA1: 9409fdad9ef0b9fa1d9f3111485387fdc25be856
+FileChecksum: MD5: a281540ada7c5f489a3224302161bd6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/en_GB.po
+SPDXID: SPDXRef-item1044196
+FileChecksum: SHA1: 983163c878db7994e4262d71850c1e72b894a465
+FileChecksum: MD5: e3084a3e8cab1ca76b6aa5b3dafc26e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/zh_TW.po
+SPDXID: SPDXRef-item1044197
+FileChecksum: SHA1: 1abb8a3eb6765ede9c621b37f0b9d6a2b28b161c
+FileChecksum: MD5: f057063dc780330952bc3c1985492392
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/zh_TW.gmo
+SPDXID: SPDXRef-item1044198
+FileChecksum: SHA1: d6e7b031dcebae091c8257c7a93e3b4a6616359f
+FileChecksum: MD5: 4c9caf0410cc77b33993a9d88dd4d458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/nl_NL.gmo
+SPDXID: SPDXRef-item1044199
+FileChecksum: SHA1: c5622a87f08806472fcfc6b57540714ccf17953c
+FileChecksum: MD5: e46d8a4f5d21faceb09e958cc5435dd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/en_US.gmo
+SPDXID: SPDXRef-item1044200
+FileChecksum: SHA1: e1fe2d100ce9ca0ce675fc75cad93eb27d11d3e5
+FileChecksum: MD5: 2b9c4ff4b8197791d3a04fc63cea2480
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/en@quot.header
+SPDXID: SPDXRef-item1044201
+FileChecksum: SHA1: d863e8547486ef608b6ee9277ba02c48b72c7a5b
+FileChecksum: MD5: 4fab037eca87181f2066bda633c7aca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/Rules-quot
+SPDXID: SPDXRef-item1044202
+FileChecksum: SHA1: 3927970f4533d88e6b39a4620c16f310ee4cbf3c
+FileChecksum: MD5: 46e5111977e2f66de2357c4292ce336f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/ca.gmo
+SPDXID: SPDXRef-item1044203
+FileChecksum: SHA1: 7841ad14a74ce41cfefa16c3c0d7ff4a328dac11
+FileChecksum: MD5: bef5791cc18a28149c9a6fed59e69133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/POTFILES.in
+SPDXID: SPDXRef-item1044204
+FileChecksum: SHA1: 1a68fb661f519b98aee1264a03e93520ebd43d3b
+FileChecksum: MD5: 9e5ff37cb7e10a43afa6155e66685a8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/en_GB.gmo
+SPDXID: SPDXRef-item1044205
+FileChecksum: SHA1: b2c0f628d90cdb91e6b169c44b404bbf15d72ca1
+FileChecksum: MD5: d99865ac02b470684365409441cf0291
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/po/LINGUAS
+SPDXID: SPDXRef-item1044206
+FileChecksum: SHA1: ab7435fb26abdea967b281855ec378765e251777
+FileChecksum: MD5: c2bf981314066fa0d7680a4db3d38a52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/Makefile.am
+SPDXID: SPDXRef-item1044207
+FileChecksum: SHA1: 73fc912e606335c27afdd87cdc81d35c30085d24
+FileChecksum: MD5: d8dc53728c24ae1ae74bcd38c10757a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/config.sub
+SPDXID: SPDXRef-item1044208
+FileChecksum: SHA1: 1b3b27c94812820968ac46dbffbdcca3a5f46e62
+FileChecksum: MD5: 8a6c9da335b8fdce655cc2f944ff224b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/doc/Makefile.in
+SPDXID: SPDXRef-item1044210
+FileChecksum: SHA1: 5c75a20756d06954dbee1ec1aaf373e7f0d9f1a7
+FileChecksum: MD5: d3e4f739a51ff24e2e96f46ffb5f2340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/doc/Makefile.am
+SPDXID: SPDXRef-item1044211
+FileChecksum: SHA1: 86e800c2a817adcd144434c74a4a519d862ae03b
+FileChecksum: MD5: 7c14b1c558e88d40f2ab35246763741c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/doc/powertop.8
+SPDXID: SPDXRef-item1044212
+FileChecksum: SHA1: ce9f865ea0b5a579e4a2db90e36216171db156ec
+FileChecksum: MD5: 03074cc20a270f7113c725157100a7cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/missing
+SPDXID: SPDXRef-item1044213
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/README
+SPDXID: SPDXRef-item1044214
+FileChecksum: SHA1: 2163fd5872b593e251d46afbdc999144b1a893b0
+FileChecksum: MD5: 42cabe27e4e439da490752811acdcca8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/config.rpath
+SPDXID: SPDXRef-item1044215
+FileChecksum: SHA1: 159afc4166df694acd1c4d77395ff484ffd1421f
+FileChecksum: MD5: 60170db35bfab5387e2309d5e78f1132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/.pc/applied-patches
+SPDXID: SPDXRef-item1044217
+FileChecksum: SHA1: ddbb1d0e84966df206a2dba02efc3bdbb2daa032
+FileChecksum: MD5: f8134d52b2ab886c7f064248e6c840d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/.pc/.quilt_series
+SPDXID: SPDXRef-item1044218
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/.pc/.version
+SPDXID: SPDXRef-item1044219
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/.pc/0001-include-rquired-headers-for-typedefs.patch/src/devices/devfreq.h
+SPDXID: SPDXRef-item1044223
+FileChecksum: SHA1: 5b20e6b8c43b63b57d65ca6173ecc95639ac9a16
+FileChecksum: MD5: 0cc37e32b3f929e3281e9fd37bc694ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/.pc/0001-include-rquired-headers-for-typedefs.patch/src/perf/perf_bundle.cpp
+SPDXID: SPDXRef-item1044225
+FileChecksum: SHA1: 2b719b706cc7b93d4db249cf66f654c799b7e11d
+FileChecksum: MD5: 207bc6d77d0f5441379c4b402a1f09a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/.pc/0001-include-rquired-headers-for-typedefs.patch/.timestamp
+SPDXID: SPDXRef-item1044226
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/.pc/.quilt_patches
+SPDXID: SPDXRef-item1044227
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/configure.ac
+SPDXID: SPDXRef-item1044228
+FileChecksum: SHA1: 8be09ffb73fb943429fcc4bb666b6b8cd378feae
+FileChecksum: MD5: 5bcec79d8b3fe728875692d67de45ab1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/Android.mk
+SPDXID: SPDXRef-item1044229
+FileChecksum: SHA1: d804e506868a93e48858784862189225b41b4694
+FileChecksum: MD5: 103fd90f0d75229ba587a6f4c372f63e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/INSTALL
+SPDXID: SPDXRef-item1044230
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/patches/series
+SPDXID: SPDXRef-item1044233
+FileChecksum: SHA1: c40992232cbc022a49a1c765b8918c3ea982377f
+FileChecksum: MD5: 6f20048bfbff9bc951e43493f018d967
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/config.guess
+SPDXID: SPDXRef-item1044234
+FileChecksum: SHA1: b35a5c3fd2b1a5a55a3320c7cd12f17c2c8224b7
+FileChecksum: MD5: eea34cf893bb060ee20189e256a8065a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/autogen.sh
+SPDXID: SPDXRef-item1044235
+FileChecksum: SHA1: e3d76a319b1109f646a31fef066ece9c7c043cc9
+FileChecksum: MD5: 60ab043615e261c2151ca2599fb152bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/powertop-2.8/depcomp
+SPDXID: SPDXRef-item1044236
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-NOT-public-domain
+LicenseName: NOT-public-domain
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Same-license-as
+LicenseName: Same-license-as
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL-3.0--with-autoconf-exception
+LicenseName: GPL-3.0+-with-autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

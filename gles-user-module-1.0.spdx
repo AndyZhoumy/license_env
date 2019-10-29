@@ -1,0 +1,562 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_gles-user-module-1.0-r0-patched.tar.gz_1571457475.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:57:56Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: gles-user-module
+PackageVersion: 1.0
+PackageFileName: gles-user-module-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload304
+PackageDownloadLocation: file://r8a77960_linux_gsx_binaries_gles.tar.bz2
+PackageHomePage: 
+PackageSummary: <text>gles-user-module version 1.0-r0</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>gles-user-module version 1.0</text>
+PackageChecksum: SHA1: 84d808203c2b482edfa39b1ce0c6c622e2db981f
+PackageChecksum: MD5: 7831ebfe42b88f9097a303140e3d6e4e
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload304
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/change-shell.patch
+SPDXID: SPDXRef-item836256
+FileChecksum: SHA1: 88f909d3e020ef48f5df055c8ae4f2f0e112cb52
+FileChecksum: MD5: 56b23d3a1689a1a4fc110e7c1279ecbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/etc/udev/rules.d/72-pvr-seat.rules
+SPDXID: SPDXRef-item836261
+FileChecksum: SHA1: 830e4d88495220603c6e8dc19224b27768998704
+FileChecksum: MD5: b15771c6f54a5436eb20487b6e4bc51b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/etc/init.d/rc.pvr
+SPDXID: SPDXRef-item836263
+FileChecksum: SHA1: e912a06dad2fd0b6ff694226f7a59102ff08e29b
+FileChecksum: MD5: f018111a23e1f881d373a871f9d668f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/etc/powervr.ini
+SPDXID: SPDXRef-item836264
+FileChecksum: SHA1: c83837b9a727089e83105aa4b3d02aec9e00c705
+FileChecksum: MD5: a18e24d082ea8c04e347b6134ea16895
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/local/bin/dlcsrv_REL
+SPDXID: SPDXRef-item836268
+FileChecksum: SHA1: 2750b60435fb7c84eddb1770ea6f7ac3aaedffc3
+FileChecksum: MD5: 38e3fcfe11cdfce9e5ccdaf7facd658b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libpvrWAYLAND_WSEGL.so
+SPDXID: SPDXRef-item836270
+FileChecksum: SHA1: b569348adfb869cfb502b7524aa3625f00bd2c4f
+FileChecksum: MD5: 5bb3b318420d568186d82ff48edf7224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libpvrDRM_WSEGL.so
+SPDXID: SPDXRef-item836271
+FileChecksum: SHA1: 87f47be95320e7ab013eb5a9b184ce241ef418ed
+FileChecksum: MD5: b7e49a5c0495a27687112c5acc9fe169
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libIMGegl.so
+SPDXID: SPDXRef-item836272
+FileChecksum: SHA1: 70ef91fc3b372595d4700669c55e951a8a17c803
+FileChecksum: MD5: a047be7593637b592b7b0438d6dcc0bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/pkgconfig/glesv2.pc
+SPDXID: SPDXRef-item836274
+FileChecksum: SHA1: bd50b64a507aeee397950d7c30078939661bbce3
+FileChecksum: MD5: f1abe0039187ff3dddfdab30784b355d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/pkgconfig/egl.pc
+SPDXID: SPDXRef-item836275
+FileChecksum: SHA1: 6a021e26c61fd5e71c1e1fde4aea3cf27be644a3
+FileChecksum: MD5: cce607fc2179983b94742d1901481864
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libusc.so
+SPDXID: SPDXRef-item836276
+FileChecksum: SHA1: ec4095c7fbb3d3a04166b4dc2492db0cb04efe24
+FileChecksum: MD5: 8e6abbb9e9928ec29355765f6255d1f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libPVRScopeServices.so
+SPDXID: SPDXRef-item836277
+FileChecksum: SHA1: 954bed65978b36808ba32607513d02fac9012074
+FileChecksum: MD5: 1e46252f986a02745cafe2bedcddbbe6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libtqvalidate.so
+SPDXID: SPDXRef-item836278
+FileChecksum: SHA1: 81c9e6f2501b1bf1c52d52534622d646ed1cc617
+FileChecksum: MD5: f5592def94f8bc935e0d0d35edecea1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libglslcompiler.so
+SPDXID: SPDXRef-item836279
+FileChecksum: SHA1: 6a784692b708933e741b503ded595cbe099af7c7
+FileChecksum: MD5: 6d8b6ce972c9eb4aa48696ed9621653b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libdlc_REL.so
+SPDXID: SPDXRef-item836280
+FileChecksum: SHA1: 06787c1495f5e057b0bb2301c49102fbbfbf7653
+FileChecksum: MD5: e8e229eb01822625ce5c506faeef36e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libEGL.so
+SPDXID: SPDXRef-item836281
+FileChecksum: SHA1: 0cb6c202a816e0a065714564b3a838125b652f96
+FileChecksum: MD5: 7a356c6e214611328fed2b90d2395e0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libsrv_um.so
+SPDXID: SPDXRef-item836282
+FileChecksum: SHA1: e5ebebd0e21da8e8a20d41dd974b206b10f2509d
+FileChecksum: MD5: da330a02f76a6d242df1c7692f2b6b87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libsutu_display.so
+SPDXID: SPDXRef-item836283
+FileChecksum: SHA1: 3076ab9bb3ec86ee59a2a74fc3547f7b1c5d4d2a
+FileChecksum: MD5: b49156f598ef412ffbb710669d8c228e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/lib/libGLESv2.so
+SPDXID: SPDXRef-item836284
+FileChecksum: SHA1: aeaeb099401a61f256677000140526d36727bfc0
+FileChecksum: MD5: 38787dba29411ba40512ae8040e5c7e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES3/gl2ext_REL.h
+SPDXID: SPDXRef-item836287
+FileChecksum: SHA1: 7ad9efe70aae027e0d6114ba54461a58ca55ec07
+FileChecksum: MD5: 7719dca3b540e42d1f1ac0953c0441c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-COMMERCIAL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES3/gl2ext.h
+SPDXID: SPDXRef-item836288
+FileChecksum: SHA1: a22e043fedf93cb47099275898093576c51b85c8
+FileChecksum: MD5: 43bc597e01f8aba9f0307809c3a17f89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES3/gl3platform.h
+SPDXID: SPDXRef-item836289
+FileChecksum: SHA1: fd5c9365b1b453d999a52ef71812879cab4f0cb5
+FileChecksum: MD5: f53724a25b0412392a60a4b9ce13f82a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: SGI-B-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES3/gl31.h
+SPDXID: SPDXRef-item836290
+FileChecksum: SHA1: 5a1ffcdfde4cd90daf812a4676df679e473b58a9
+FileChecksum: MD5: 529268d0b1e4a92a5c3f98c579d18a7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES3/gl3.h
+SPDXID: SPDXRef-item836291
+FileChecksum: SHA1: feb3521929896744f605cacbcd74a8e01b3a0ed0
+FileChecksum: MD5: 7244ea507df4be7c15d04e6f5ba56183
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES3/gl32.h
+SPDXID: SPDXRef-item836292
+FileChecksum: SHA1: c8dbf41c73da0f8bb20deec4c683ad111cad11c5
+FileChecksum: MD5: 9f04952ff1a31ed893f18e7d402f1087
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES2/gl2ext_REL.h
+SPDXID: SPDXRef-item836294
+FileChecksum: SHA1: 7ad9efe70aae027e0d6114ba54461a58ca55ec07
+FileChecksum: MD5: 7719dca3b540e42d1f1ac0953c0441c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-COMMERCIAL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES2/gl2ext.h
+SPDXID: SPDXRef-item836295
+FileChecksum: SHA1: a22e043fedf93cb47099275898093576c51b85c8
+FileChecksum: MD5: 43bc597e01f8aba9f0307809c3a17f89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES2/gl2platform.h
+SPDXID: SPDXRef-item836296
+FileChecksum: SHA1: 90c096f6e5b064e4379548d2509dbce6b891e019
+FileChecksum: MD5: 631bb590e2631c2647782abe95aeb789
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: SGI-B-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/GLES2/gl2.h
+SPDXID: SPDXRef-item836297
+FileChecksum: SHA1: 38a4a52d7e24bf41c678f44daf9284491eb0703c
+FileChecksum: MD5: cd0c7e16c2751c00721af5586da7ded3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/KHR/khrplatform.h
+SPDXID: SPDXRef-item836299
+FileChecksum: SHA1: acd29589bfe2e146e958f31c3c5abc13a663c584
+FileChecksum: MD5: 1ee6a4392c00e9058584c7462e1a759b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/EGL/eglwaylandext.h
+SPDXID: SPDXRef-item836301
+FileChecksum: SHA1: 1fe564e2654e08484e33f23e8ff1d47a4f4b7d81
+FileChecksum: MD5: 95b6108ee0522523c3e68bb2bb2987ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/EGL/eglext_REL.h
+SPDXID: SPDXRef-item836302
+FileChecksum: SHA1: 6eab5d5453301775e36d9cd5cdf24408bfefa4c1
+FileChecksum: MD5: e58c3a8e550501f2c4bae2aa62e9a020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-COMMERCIAL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/EGL/eglplatform.h
+SPDXID: SPDXRef-item836303
+FileChecksum: SHA1: b72770bceaf0350ea77bbbdd047ec29b8a65dac3
+FileChecksum: MD5: 99ec3afaa5ca7e548b9c81dd62f00911
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/EGL/eglext.h
+SPDXID: SPDXRef-item836304
+FileChecksum: SHA1: de51a4df01585c9434fa28732d589efc3161a6b0
+FileChecksum: MD5: a05fd147d61a2422987df3beec1995c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/usr/include/EGL/egl.h
+SPDXID: SPDXRef-item836305
+FileChecksum: SHA1: e270dd1b78d8057d66c4526ab429266b02767641
+FileChecksum: MD5: 01d1be2c3b4afa9eed3826cd5ca6240b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/lib/firmware/rgx.fw.4.45.2.58.vz
+SPDXID: SPDXRef-item836308
+FileChecksum: SHA1: dbfeccb206e4a6588dab618cb9995a2a2853dd27
+FileChecksum: MD5: a726d40bc2398cbe6d8ab7645e5c7708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/lib/firmware/rgx.fw.4.45.2.58
+SPDXID: SPDXRef-item836309
+FileChecksum: SHA1: 1509f0c96aa8b589e1926650ee33fe7a23197b43
+FileChecksum: MD5: 585185f25c153aec5a53b99cfcef181d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/.pc/applied-patches
+SPDXID: SPDXRef-item836311
+FileChecksum: SHA1: fb66f784ed93dfabcab1e4111501bec54d78269f
+FileChecksum: MD5: cb4573b2178774542595251dcdd6afbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/.pc/.quilt_series
+SPDXID: SPDXRef-item836312
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/.pc/.version
+SPDXID: SPDXRef-item836313
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/.pc/change-shell.patch/etc/init.d/rc.pvr
+SPDXID: SPDXRef-item836317
+FileChecksum: SHA1: 396a67ed4304ecb07f332f9cd470a68e35d71486
+FileChecksum: MD5: fe95f0cf90e3e3980107a7916561f769
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/.pc/change-shell.patch/.timestamp
+SPDXID: SPDXRef-item836318
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/.pc/.quilt_patches
+SPDXID: SPDXRef-item836319
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rogue/patches/series
+SPDXID: SPDXRef-item836322
+FileChecksum: SHA1: adc8ff0bb18fd774dfa6ee6339260862ff5f6bc1
+FileChecksum: MD5: fa9ebf759434c81cda3db211be2b0bf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/rc.pvr.service
+SPDXID: SPDXRef-item836323
+FileChecksum: SHA1: ed1673e20450e5ac8cdef3d297ab6e200cdbfa34
+FileChecksum: MD5: fb087698fc7e4ad09652a6c74cce857d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-COMMERCIAL
+LicenseName: COMMERCIAL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

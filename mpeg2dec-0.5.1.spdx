@@ -1,0 +1,1547 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_mpeg2dec-0.5.1-r0-patched.tar.gz_1571460481.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:48:01Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: mpeg2dec
+PackageVersion: 0.5.1
+PackageFileName: mpeg2dec-0.5.1-r0-patched.tar.gz
+SPDXID: SPDXRef-upload432
+PackageDownloadLocation: http://libmpeg2.sourceforge.net/files/libmpeg2-0.5.1.tar.gz
+PackageHomePage: http://libmpeg2.sourceforge.net/
+PackageSummary: <text>Library and test program for decoding MPEG-2 and MPEG-1 video streams</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>mpeg2dec version 0.5.1</text>
+PackageChecksum: SHA1: 85fba4af4d83a216221476d464348dc8e4f452b5
+PackageChecksum: MD5: 47375b8ec09780389f9364247f52b809
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload432
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-check-for-available-arm-optimizations.patch
+SPDXID: SPDXRef-item1104727
+FileChecksum: SHA1: 75f9ceb825bd3c1b6b9fc4368a459ff4d9724394
+FileChecksum: MD5: dd5bea91e41cbf2256779856e9904c24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0002-Set-visibility-of-global-symbols-used-in-ARM-specifi.patch
+SPDXID: SPDXRef-item1104729
+FileChecksum: SHA1: 2fc1617b6305fbb9e357ff94be2dd5a33dd80fd0
+FileChecksum: MD5: 9ee34e578958888b1b198ea859378b9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/motion_comp_arm_s.S
+SPDXID: SPDXRef-item1104732
+FileChecksum: SHA1: e914a36b14fa0546d3c7bb281c1e85553e84e49b
+FileChecksum: MD5: b1530f521651518f5a4b32bc1a96471f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/cpu_accel.c
+SPDXID: SPDXRef-item1104733
+FileChecksum: SHA1: 11d6471591435f17a6643b4382ecac15c0d79480
+FileChecksum: MD5: 8231d58c41a8314d89d455d25f0e330e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/mpeg2_internal.h
+SPDXID: SPDXRef-item1104734
+FileChecksum: SHA1: 9adbb1e76d3286e5e26f400038ef85ae439e7ccb
+FileChecksum: MD5: c9344b9f48dc46c6002a06556f1575c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/slice.c
+SPDXID: SPDXRef-item1104735
+FileChecksum: SHA1: a4c44622a99ecbc37dcc039cf95d295f0259808b
+FileChecksum: MD5: 489ac7bd597df25c8cad1dc0ab623da7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/Makefile.in
+SPDXID: SPDXRef-item1104736
+FileChecksum: SHA1: 72d125de4ef5c63d6f9397ac63fe7ef671ad537c
+FileChecksum: MD5: 39b78294a5bc564ec07f1d00829f70c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/motion_comp_mmx.c
+SPDXID: SPDXRef-item1104737
+FileChecksum: SHA1: 85cf9f3eb36d705b13ab974179554419e78d61b2
+FileChecksum: MD5: a52581270bc8420f6d24ee2ab45dbb15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/motion_comp_alpha.c
+SPDXID: SPDXRef-item1104738
+FileChecksum: SHA1: 3660b75078abc4d6141edf757d5c4f2e84b24fdc
+FileChecksum: MD5: 2eb019ee97d74d9ae659e11b89d942e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/motion_comp_arm.c
+SPDXID: SPDXRef-item1104739
+FileChecksum: SHA1: 8b49c00e77acf3cd17dd09713dc7993cc7554a8e
+FileChecksum: MD5: f09c99f6fb7612c76421a954ccb97607
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/motion_comp_altivec.c
+SPDXID: SPDXRef-item1104740
+FileChecksum: SHA1: 3ad3d8fc53ba7cf9e395b849b39bc35cfcb40261
+FileChecksum: MD5: fa1c8409f8c517945bd2560383b7c0cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/idct_alpha.c
+SPDXID: SPDXRef-item1104741
+FileChecksum: SHA1: 75bfc376cc9c767aaf6e53027a73778b2ce563f1
+FileChecksum: MD5: 8978cd459452b9e725c2cdd1d2b4a34e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/idct_mmx.c
+SPDXID: SPDXRef-item1104742
+FileChecksum: SHA1: 05f042bfcb8cf398403e01c0614e04339f641dfd
+FileChecksum: MD5: 85f7874fe01b99fb698bf56e6fd677ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/Makefile.am
+SPDXID: SPDXRef-item1104743
+FileChecksum: SHA1: d6b323147724975ba3e1e0bce3984430ca27965b
+FileChecksum: MD5: 68349aa6eceefd4a492d92725c49e8d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/cpu_state.c
+SPDXID: SPDXRef-item1104744
+FileChecksum: SHA1: 0a097623f4bb68d80ceb244a87c91fe41fabe39e
+FileChecksum: MD5: c2294e8445911979062dfc57a70c654c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/libmpeg2.pc.in
+SPDXID: SPDXRef-item1104745
+FileChecksum: SHA1: 40700a109145e31d5407fe9e412c871432e935da
+FileChecksum: MD5: ca570102b628efb022ac5dedf3af610a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/vlc.h
+SPDXID: SPDXRef-item1104746
+FileChecksum: SHA1: ea50b805232ae77e2f6b575f63836c67cdeb3b9a
+FileChecksum: MD5: ccb7646a0310d24cd1e1cc8ec669ef9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/idct_altivec.c
+SPDXID: SPDXRef-item1104747
+FileChecksum: SHA1: 197033c9edc5bbf55e43176898b972ec3a5ae6c6
+FileChecksum: MD5: c1fd6462424aee5e46c9173856f7e7cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/alloc.c
+SPDXID: SPDXRef-item1104748
+FileChecksum: SHA1: b6a138c68af8a171147d36f3864d494d2978c8f0
+FileChecksum: MD5: 763d59f2fca8466805254ab90853a027
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/motion_comp.c
+SPDXID: SPDXRef-item1104749
+FileChecksum: SHA1: 259716b5e49bd21931814b9484c6abe6b349d504
+FileChecksum: MD5: 2a3e1360e39901f9dc62d1b90e64af58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/idct.c
+SPDXID: SPDXRef-item1104750
+FileChecksum: SHA1: eb0e0e5b2746ac93203fc9e230ebd66950ff68c9
+FileChecksum: MD5: dcf1a53841450043cc5ed80611b9a6db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/decode.c
+SPDXID: SPDXRef-item1104751
+FileChecksum: SHA1: e9ae6d2c719df71bd481c567a3e3f6cb92114442
+FileChecksum: MD5: 352af6dd1623b112fd1a86b64a54152d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/header.c
+SPDXID: SPDXRef-item1104752
+FileChecksum: SHA1: bc5bc34e34bce307ca9420bd700db2bf5e3d1f82
+FileChecksum: MD5: 5f32f146ff6fdcc7471278dbca3546af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/convert/Makefile.in
+SPDXID: SPDXRef-item1104754
+FileChecksum: SHA1: 38fea67916721246114805f733d12bb6bd0a83d6
+FileChecksum: MD5: 3635500a3ebd2172bca6204e59576b54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/convert/uyvy.c
+SPDXID: SPDXRef-item1104755
+FileChecksum: SHA1: 148a466f0f80cb0adc5c8580167e95811ee65546
+FileChecksum: MD5: 0ad148af35bdc8ed1555053deff0788d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/convert/libmpeg2convert.pc.in
+SPDXID: SPDXRef-item1104756
+FileChecksum: SHA1: 3ee5c43a6bf29a4434f6c7c6092710b2be93aa17
+FileChecksum: MD5: 8a5ed6b08d30c17e51ea0fa0b62acac5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/convert/rgb.c
+SPDXID: SPDXRef-item1104757
+FileChecksum: SHA1: 1e1c42e2c6bf880e81b765602ecc4ca5ee106908
+FileChecksum: MD5: 83899bf4b70ff659e2c07bee0c144a34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/convert/Makefile.am
+SPDXID: SPDXRef-item1104758
+FileChecksum: SHA1: 72d2641f92fd9ad374bad5fd4c28b19ac9aaa12d
+FileChecksum: MD5: 2918965d9bcb2112d75b21d1cc78b87c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/convert/convert_internal.h
+SPDXID: SPDXRef-item1104759
+FileChecksum: SHA1: 27bf7a9ad31ee5d21a0bff7aab97bb3f1d07a26d
+FileChecksum: MD5: 8bf1829d25a7379fc85abb012dcf62c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/convert/rgb_mmx.c
+SPDXID: SPDXRef-item1104760
+FileChecksum: SHA1: 18289a602e929ba716f62a5f9cc5f169912c2807
+FileChecksum: MD5: d58f7c1b62ef70c3beef6b04799d8aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/convert/rgb_vis.c
+SPDXID: SPDXRef-item1104761
+FileChecksum: SHA1: 2a3088003ea38ad7144e7d1168ae228323c54384
+FileChecksum: MD5: 422a4b50784c7583d983ab29cd5e1f8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libmpeg2/motion_comp_vis.c
+SPDXID: SPDXRef-item1104762
+FileChecksum: SHA1: 3ab9fa52145bb8aa8d287ae2f43bb1a6181104ec
+FileChecksum: MD5: 0183fb26d5422d00d1c6b7b14471308e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/NEWS
+SPDXID: SPDXRef-item1104763
+FileChecksum: SHA1: 01830c912791cd6ef44bbb5b9a7afea1cfc17bbd
+FileChecksum: MD5: 398683428b7453e128ffd388014a8113
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/aclocal.m4
+SPDXID: SPDXRef-item1104764
+FileChecksum: SHA1: 0db46a395b622e82abb14f6e4b0577a045d2efe5
+FileChecksum: MD5: 2f35e7410b0db56091b36964133d95a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/Makefile.in
+SPDXID: SPDXRef-item1104765
+FileChecksum: SHA1: a3b1076016a79224ef4da866a82006c157d9eab9
+FileChecksum: MD5: 081750570ec2aad8c831492e2c6c372e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/COPYING
+SPDXID: SPDXRef-item1104766
+FileChecksum: SHA1: dfac199a7539a404407098a2541b9482279f690d
+FileChecksum: MD5: 94d55d512a9ba36caa9b7df079bae19f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/configure
+SPDXID: SPDXRef-item1104767
+FileChecksum: SHA1: b478466381ea8ad472f58d9e7b21b2543225c734
+FileChecksum: MD5: 20583c37693bfec40f6b26caf2db0443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/extract_mpeg2.c
+SPDXID: SPDXRef-item1104769
+FileChecksum: SHA1: 997ff7f39dc95e1a1e263f7d8fc54d5e14841e6f
+FileChecksum: MD5: 79bbf0df97fc2100b0e6d4d0ed7fc072
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/gettimeofday.h
+SPDXID: SPDXRef-item1104770
+FileChecksum: SHA1: fb487c63c0eaa292d7eb89e4d597f938dbd2afd6
+FileChecksum: MD5: 6c342cbb31f65ac8073d4dd50afd5bcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/Makefile.in
+SPDXID: SPDXRef-item1104771
+FileChecksum: SHA1: 72bc03b270bc594b9bb7f72a9dcbfaa267789e99
+FileChecksum: MD5: 4e106e08e4b04e71b02b4f28f27a110b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/extract_mpeg2.1
+SPDXID: SPDXRef-item1104772
+FileChecksum: SHA1: 08529ef1d4432083bd135b86dce576df8932bff7
+FileChecksum: MD5: 3530e8bd71e53c461c91660d8365cb0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/corrupt_mpeg2.c
+SPDXID: SPDXRef-item1104773
+FileChecksum: SHA1: 5b53821b0c15cded99e374b99c3b1e908b8cddcd
+FileChecksum: MD5: 626077a40555393c24a9f7404ea36b88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/Makefile.am
+SPDXID: SPDXRef-item1104774
+FileChecksum: SHA1: b24d3917c4a325001d3143de63ebcf72f97466e6
+FileChecksum: MD5: f5cad19c582067e17d523cf9237980b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/mpeg2dec.c
+SPDXID: SPDXRef-item1104775
+FileChecksum: SHA1: b16d4612928c5cc236e30a568bd4acd9acf974c1
+FileChecksum: MD5: df3a73a8ea8cc06b19647e6c1546ba9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/getopt.h
+SPDXID: SPDXRef-item1104776
+FileChecksum: SHA1: e45a594b0352e9c1eb835238c12e2680b71e4379
+FileChecksum: MD5: f2808bcbaa3cba567accc39972127242
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/gettimeofday.c
+SPDXID: SPDXRef-item1104777
+FileChecksum: SHA1: e58863d161aac667da5de2a0f42e553a1a0b7381
+FileChecksum: MD5: 7476624492517a668f94b796e066a90b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/mpeg2dec.1
+SPDXID: SPDXRef-item1104778
+FileChecksum: SHA1: 811770ef0e396f078aed9c5439cc64f269969aaf
+FileChecksum: MD5: 8a9cea5986ab9cdfcfa6d2de4541f219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/getopt.c
+SPDXID: SPDXRef-item1104779
+FileChecksum: SHA1: 141862fab7a4002aa88bf350cda422be583cded9
+FileChecksum: MD5: 1f944f0520e4f36116fef5b7a1a23013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/src/dump_state.c
+SPDXID: SPDXRef-item1104780
+FileChecksum: SHA1: 061b1b07fe15d5ad2b24865ea68db327980e4648
+FileChecksum: MD5: 56eaa87ebce815a72d4499cb949f4b3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/m4/nonpic.m4
+SPDXID: SPDXRef-item1104782
+FileChecksum: SHA1: 9d71c1dafefc82c4a93a0da45a4ff21f7b5358d9
+FileChecksum: MD5: 6f4d31ef2669256f70484b9d5ae5ce77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/m4/inttypes.m4
+SPDXID: SPDXRef-item1104783
+FileChecksum: SHA1: 8b237ea3737ca20c0936436144db0e3aaa6bac60
+FileChecksum: MD5: d57bb2ee4277cb96824c34c9852328c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/m4/cflags.m4
+SPDXID: SPDXRef-item1104784
+FileChecksum: SHA1: 7ca0e2e1bc355e46fb32528f98d4f89777c9d378
+FileChecksum: MD5: 09083c4bbdabca9cc089fa8e20e953a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/m4/keywords.m4
+SPDXID: SPDXRef-item1104785
+FileChecksum: SHA1: f90b5e2dec1d38cf73c36ac72bf9bfd24bbb7dff
+FileChecksum: MD5: 4ce9c21b0814ae7c4bf6caba8d2da739
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/TODO
+SPDXID: SPDXRef-item1104786
+FileChecksum: SHA1: 7787d0c2eacf67ab7247e65c3026555bf21a15af
+FileChecksum: MD5: fbdb40efbad7f70c6158f5de2909135d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/Makefile.am
+SPDXID: SPDXRef-item1104787
+FileChecksum: SHA1: ec3d6f226803815a5de16a9570bd403449a18dfb
+FileChecksum: MD5: 2d145bb6a3362698153fcac190759156
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/video_out_x11.c
+SPDXID: SPDXRef-item1104789
+FileChecksum: SHA1: 83248eea2b09fb2d8901ef08dfb168aaf2f037ce
+FileChecksum: MD5: f666b1fb33670e158a9355b2f6671d31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/Makefile.in
+SPDXID: SPDXRef-item1104790
+FileChecksum: SHA1: 1ea27ef153155f6e40a23d542413d746d75c4a98
+FileChecksum: MD5: 20677a883217018ad11161cd6fdb60e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/video_out_pgm.c
+SPDXID: SPDXRef-item1104791
+FileChecksum: SHA1: b42b3718cef69c8a0b4770dc76e48df7c51da7cf
+FileChecksum: MD5: aacdb1c21628912e85141ffa2f523224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/video_out_sdl.c
+SPDXID: SPDXRef-item1104792
+FileChecksum: SHA1: d44ef2bb3787f59b91cfa55dae41480d9d4736fd
+FileChecksum: MD5: d40bf39bfed3519666de116f8b7109dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/Makefile.am
+SPDXID: SPDXRef-item1104793
+FileChecksum: SHA1: 5b7fbfa01733193d07a4a72f062c49a5df45e889
+FileChecksum: MD5: 36b56909851689ad7f851c151db530b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/video_out_null.c
+SPDXID: SPDXRef-item1104794
+FileChecksum: SHA1: 870ddca3a1447b2dba85950448d1fab30642d48a
+FileChecksum: MD5: 881ba742748ce249b03259210e9b259b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/video_out_dx.c
+SPDXID: SPDXRef-item1104795
+FileChecksum: SHA1: 41b8787899e4ef6e428bffc2b5af01cb104d94a9
+FileChecksum: MD5: 90bbe8ed6cd4509e195c7498ce3e6bbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/video_out.c
+SPDXID: SPDXRef-item1104796
+FileChecksum: SHA1: 5b1c2bbba4aa433c902db4b91b0e8549a8ded812
+FileChecksum: MD5: 01594711c47f33ade6902bf3f806ac2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/libvo/vo_internal.h
+SPDXID: SPDXRef-item1104797
+FileChecksum: SHA1: 31c9b60cc8c29162c3391584b896723cc8419255
+FileChecksum: MD5: be16e33f67da2cba9e95ed30bf3c5c62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/AUTHORS
+SPDXID: SPDXRef-item1104798
+FileChecksum: SHA1: 973041d023b468b8fd67e68cad5dce4bd43569ff
+FileChecksum: MD5: fd79b85ec3987fbc1678993b9aae03c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/sample4.c
+SPDXID: SPDXRef-item1104800
+FileChecksum: SHA1: 3a7ef32d3adcbf19cdc9fd32202f9413722150f7
+FileChecksum: MD5: 7ed414194c4aa121a89f6c03f8f92b40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/Makefile.in
+SPDXID: SPDXRef-item1104801
+FileChecksum: SHA1: d98c5990a0f27521c67665028d334eb5a1666f80
+FileChecksum: MD5: 4516fbcd89e58eb2bf4f88eb5dde3527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/sample1.c
+SPDXID: SPDXRef-item1104802
+FileChecksum: SHA1: f5b226a614ce87e5f264586afb0a8fee4098dbba
+FileChecksum: MD5: a71db924e6265258317be291befa897f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/libmpeg2.txt
+SPDXID: SPDXRef-item1104803
+FileChecksum: SHA1: 007a6e97fb41265b0cbb54bb1241dec0310b920f
+FileChecksum: MD5: 163cbbcc45ddcf680fd0288a2a9f7962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/Makefile.am
+SPDXID: SPDXRef-item1104804
+FileChecksum: SHA1: 85682f6237bb3dcf4f367fb590f3a3ed28851c9a
+FileChecksum: MD5: 65434fa32691869d36b23ce31743a2dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/sample2.c
+SPDXID: SPDXRef-item1104805
+FileChecksum: SHA1: df76c06c240fdaf5ef2d4bbb721d6a09693489ce
+FileChecksum: MD5: debddf5617e1138d0479bbadedd6283f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/sample6.c
+SPDXID: SPDXRef-item1104806
+FileChecksum: SHA1: 0dff4064db8dc9e0e33b1b4b855a8ac1c79926f2
+FileChecksum: MD5: 951d98b9da7263b869f21cb905a983b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/sample3.c
+SPDXID: SPDXRef-item1104807
+FileChecksum: SHA1: 1684cc33b53306d0963261e732bc930b4aeecb6c
+FileChecksum: MD5: f1a2f2646c2e21b21c59d83ac1c0d462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/doc/sample5.c
+SPDXID: SPDXRef-item1104808
+FileChecksum: SHA1: b1bdb096fd773c39fbc2a9990dbf88b36729b026
+FileChecksum: MD5: d0e02cfb6a1c102f74109dd296e74f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.auto/install-sh
+SPDXID: SPDXRef-item1104810
+FileChecksum: SHA1: f39bd207ff3c20fffe91951d0e296f4832874c50
+FileChecksum: MD5: 5cc51dc6eb45a90231a4e31efbc3f220
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.auto/ltmain.sh
+SPDXID: SPDXRef-item1104811
+FileChecksum: SHA1: 3a312c39b525d20af3c8473eca5af60c5c23f1f9
+FileChecksum: MD5: 8f4ab0b8a6964ff77f6911b03c0bf969
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.auto/config.sub
+SPDXID: SPDXRef-item1104812
+FileChecksum: SHA1: e9e62a451b5c1d642432a4f1b5abf8c25458f508
+FileChecksum: MD5: badd56af78d80c8a8492b391f6eba3b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.auto/missing
+SPDXID: SPDXRef-item1104813
+FileChecksum: SHA1: 478b552613de560fd6d8f16a4819c83da2e9decf
+FileChecksum: MD5: c7645c248f924f07869059b76300fea9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.auto/config.guess
+SPDXID: SPDXRef-item1104814
+FileChecksum: SHA1: 3f4819090147c48e94650a7cde3a5e130834f0f3
+FileChecksum: MD5: 19636c52c484cd2a755b9f2ac658257d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.auto/depcomp
+SPDXID: SPDXRef-item1104815
+FileChecksum: SHA1: d81aaa0ede38f69e9d0ade1d2ae9126af672b460
+FileChecksum: MD5: 534084afb552747d884a45353769fa29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/compile
+SPDXID: SPDXRef-item1104817
+FileChecksum: SHA1: b944e054a5efd57693462cf94df3b332aacf3767
+FileChecksum: MD5: 9bebe1663de468d8daf5b134d6e9fa40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/regression
+SPDXID: SPDXRef-item1104818
+FileChecksum: SHA1: 1932e06bbc8eff79e5f2bf22c02727e605ce542d
+FileChecksum: MD5: 05cf4b6144c14b5bd0c8921c286ef42b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/Makefile.in
+SPDXID: SPDXRef-item1104819
+FileChecksum: SHA1: 4e952d0e558831f1656edbdddadc3fa82bc1f84d
+FileChecksum: MD5: a03804cc1b3120564308c551a99262f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/Makefile.am
+SPDXID: SPDXRef-item1104820
+FileChecksum: SHA1: d4fa96e007c75fade24c4cb2478d5601a33007b8
+FileChecksum: MD5: bef9df6ab12d25ed5bef0b3817dd4cfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/tek-625
+SPDXID: SPDXRef-item1104821
+FileChecksum: SHA1: e40f9c99b003ca2f04a8812814a1e39b8ab73df5
+FileChecksum: MD5: 0a179c096abb7039908142d2ea4b82f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/tests
+SPDXID: SPDXRef-item1104822
+FileChecksum: SHA1: 1febd08d0359babe50702f3dc69eda38751b6f87
+FileChecksum: MD5: 94272f9954c00b9b929d2d97112ca85f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/README
+SPDXID: SPDXRef-item1104823
+FileChecksum: SHA1: 70b06050480a95f516ee579c609e49c8d4552951
+FileChecksum: MD5: 6a0028e0abf6362296850c1bf78391c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/globals
+SPDXID: SPDXRef-item1104824
+FileChecksum: SHA1: dbae46fac2f6af758acc045fc1ace86443c6d41b
+FileChecksum: MD5: 49fb95bd7071174b674cb034ae7a3b51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/test/tek-525
+SPDXID: SPDXRef-item1104825
+FileChecksum: SHA1: 1b88a1df6997e0f95d0a6e4a1701ac0b11dea5a8
+FileChecksum: MD5: b77d1ebcc6fdd70a93e7afa0d22db2d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/bootstrap
+SPDXID: SPDXRef-item1104826
+FileChecksum: SHA1: cbf3efb5193a90ad83bc410a25a75cc20ff91f10
+FileChecksum: MD5: 6e05109eda543d2afffbc90c38137740
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: WTFPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/README
+SPDXID: SPDXRef-item1104827
+FileChecksum: SHA1: 77226bf9b15c6359461ecdc936d3103e06ede0b5
+FileChecksum: MD5: 369c3271e5c4e4c077a0d567ae9e274b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/applied-patches
+SPDXID: SPDXRef-item1104829
+FileChecksum: SHA1: 2357acc1fc6fd67d52bea617215fcb056e710a20
+FileChecksum: MD5: cf1dea2e3850ef49c1b6cab3fd16a11a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/.quilt_series
+SPDXID: SPDXRef-item1104830
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/.version
+SPDXID: SPDXRef-item1104831
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/0001-check-for-available-arm-optimizations.patch/.timestamp
+SPDXID: SPDXRef-item1104833
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/0001-check-for-available-arm-optimizations.patch/configure.ac
+SPDXID: SPDXRef-item1104834
+FileChecksum: SHA1: 3669644e664624d14e9074d0c393a5006199b87a
+FileChecksum: MD5: c95434ef3660ef6bf95b83283be0cd7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/.quilt_patches
+SPDXID: SPDXRef-item1104835
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/0002-Set-visibility-of-global-symbols-used-in-ARM-specifi.patch/libmpeg2/motion_comp_arm_s.S
+SPDXID: SPDXRef-item1104838
+FileChecksum: SHA1: db3d0c54afbc4cff8a91261fe5607f10478f62f2
+FileChecksum: MD5: 002e07f781bccb4c600879576898609c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/0002-Set-visibility-of-global-symbols-used-in-ARM-specifi.patch/.timestamp
+SPDXID: SPDXRef-item1104839
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/altivec_h_needed.patch/.timestamp
+SPDXID: SPDXRef-item1104841
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/.pc/altivec_h_needed.patch/configure.ac
+SPDXID: SPDXRef-item1104842
+FileChecksum: SHA1: 14b81d09cc052ef9f4029a4107d261683765788a
+FileChecksum: MD5: 62e527a3060b1c8798c172e6458180b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/configure.ac
+SPDXID: SPDXRef-item1104843
+FileChecksum: SHA1: cae8241f4a9e45d51f19492adc646b2c6d929201
+FileChecksum: MD5: e17981567f5e05d8ab2c57c37078d5e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/CodingStyle
+SPDXID: SPDXRef-item1104844
+FileChecksum: SHA1: ecb89447fdd8406bfe7020c86f33c014be3ecd35
+FileChecksum: MD5: 2dd23ab032460fd2fbd852e7c00b1ae2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/INSTALL
+SPDXID: SPDXRef-item1104845
+FileChecksum: SHA1: 5eaa7f9eb7faf517b5a12d03d972a6ae994d1127
+FileChecksum: MD5: 4111a0c95e8a38c46284467a024b9e8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/patches/series
+SPDXID: SPDXRef-item1104849
+FileChecksum: SHA1: 673dbedac31b548200c07706f24cbb417071a4f9
+FileChecksum: MD5: a02a57fc2eb0fa982966d2d190b101c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/config.h
+SPDXID: SPDXRef-item1104852
+FileChecksum: SHA1: 42ffa0929020b89262a32ad5b0cc4f5b2fb23418
+FileChecksum: MD5: bb563fee741b6f36a282ebc29174e285
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/cpu_state.obj
+SPDXID: SPDXRef-item1104853
+FileChecksum: SHA1: 5416fc7efcc47e296576d7072ce9d6ab259dacf2
+FileChecksum: MD5: f55cdca7dc70d8367d3ae1c1ef481036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/motion_comp_mmx.obj
+SPDXID: SPDXRef-item1104854
+FileChecksum: SHA1: 84c18945188d10afcef2896a2e37133056635964
+FileChecksum: MD5: 70d27f030b27a1370d0107602cac9034
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/rgb_mmx.obj
+SPDXID: SPDXRef-item1104855
+FileChecksum: SHA1: 07202cc5536ae3c8fad1ddfbdbfb1fc1ba57036d
+FileChecksum: MD5: ac6563c3e8aee8cbb4d2da631fb2c36e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/mpeg2dec.dsp
+SPDXID: SPDXRef-item1104856
+FileChecksum: SHA1: 02005410c40e32f6d2e860a55731b291a751a988
+FileChecksum: MD5: 7dadea01e7a509d3e66a3b1b072ce014
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/Makefile.in
+SPDXID: SPDXRef-item1104857
+FileChecksum: SHA1: c8413019090a512773d712245588344ba87c0329
+FileChecksum: MD5: 3686ee9fce98f24c600bf77e81497e8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/inttypes.h
+SPDXID: SPDXRef-item1104858
+FileChecksum: SHA1: d0927a0820de54ab7de97a0989184ed5d66dc0ad
+FileChecksum: MD5: 2e864ccacb4bba9aab3abaf4331981dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/Makefile.am
+SPDXID: SPDXRef-item1104859
+FileChecksum: SHA1: 35124778ab3ca1874cbeb74e08ade8cab7be1c3a
+FileChecksum: MD5: ce1a7fab7241e6b8b4aec66d6b9f5bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/libmpeg2convert.dsp
+SPDXID: SPDXRef-item1104860
+FileChecksum: SHA1: 0ac33cccb3a789cfe40676e21b46321e0275f180
+FileChecksum: MD5: 05b41cee2b42f2b344b21d8f542ac186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/idct_mmx.obj
+SPDXID: SPDXRef-item1104861
+FileChecksum: SHA1: 3dfa0018f4c017dd34c21c0a1468d7793ba7911c
+FileChecksum: MD5: c0f5bb5cd4762a2ed18ef4077a358f9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/cpu_accel.obj
+SPDXID: SPDXRef-item1104862
+FileChecksum: SHA1: 02a53e736abc06467f698623414e6fbc3d774241
+FileChecksum: MD5: cbc955bd3e2a75e710f2afb336618169
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/libvo.dsp
+SPDXID: SPDXRef-item1104863
+FileChecksum: SHA1: e65c5123af24373ed6f85cff5d914e70a2feade3
+FileChecksum: MD5: e810724a94cebb25d72d9d3c920563e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/libmpeg2.dsp
+SPDXID: SPDXRef-item1104864
+FileChecksum: SHA1: b2a807d91ef8005aa4084114ee9f4f1c6942a242
+FileChecksum: MD5: eb9fd4cf13d40d0c11008f17424e0d09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/vc++/mpeg2dec.dsw
+SPDXID: SPDXRef-item1104865
+FileChecksum: SHA1: d223b10a96fed959553a394980b6020993e29f29
+FileChecksum: MD5: c4624c5f587e08dd19bd194b3861253f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/tendra.h
+SPDXID: SPDXRef-item1104867
+FileChecksum: SHA1: a1b6978317c77cafd8430e37c06aaba48033ce5b
+FileChecksum: MD5: 08178bebde14b37ef2677a1d6a953266
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/mpeg2convert.h
+SPDXID: SPDXRef-item1104868
+FileChecksum: SHA1: 318e4bc349e5d3e7ad3cae7ea0292903bf30c89d
+FileChecksum: MD5: c780b1c94061357b1cf02e6326f0b351
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/attributes.h
+SPDXID: SPDXRef-item1104869
+FileChecksum: SHA1: 0a731a62fdab1cd31cb2a6fee92deb8af7c9751f
+FileChecksum: MD5: 7bbddc61080bbcaeeed34cfd1643153e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/Makefile.in
+SPDXID: SPDXRef-item1104870
+FileChecksum: SHA1: 615d37472ba281f08e5f7ef8fd1bf403e690cb62
+FileChecksum: MD5: 5a6ba5fc6116761016bdc4282cc69550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/vis.h
+SPDXID: SPDXRef-item1104871
+FileChecksum: SHA1: d8fa95aa7fba827d3c97d062fb03c30ecf77a3bd
+FileChecksum: MD5: cd0d8d0ab4426aa76fff353fb0ecc563
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/mmx.h
+SPDXID: SPDXRef-item1104872
+FileChecksum: SHA1: 974a1ce9b1c671050853e69e52ea2d10853a553f
+FileChecksum: MD5: 7aee000b917f67a69bb1417606c72f87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/alpha_asm.h
+SPDXID: SPDXRef-item1104873
+FileChecksum: SHA1: fd311b70eba0105a81b9d36de0c1c4325022442f
+FileChecksum: MD5: fece8215579826db16be6db177ae6dd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/mpeg2.h
+SPDXID: SPDXRef-item1104874
+FileChecksum: SHA1: 14ce82f54cd75bb5086bc828ece167d0e6bf83e1
+FileChecksum: MD5: ff42186b8b72ecfd370827bb707ae8f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/config.h.in
+SPDXID: SPDXRef-item1104875
+FileChecksum: SHA1: cf6000d1cf77e32d90d76dda03bf6edbf6c34000
+FileChecksum: MD5: 6e144ad1ae229612c2d0114cd22d1cf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/Makefile.am
+SPDXID: SPDXRef-item1104876
+FileChecksum: SHA1: 25817bce38862728cadb74a691b00181e3521a6e
+FileChecksum: MD5: 79593a3894238fd00b4f56dae803e090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/include/video_out.h
+SPDXID: SPDXRef-item1104877
+FileChecksum: SHA1: e76105dea9ed3e16d79d6593763d2d073e1f055d
+FileChecksum: MD5: b40e82238cc7a5dcc9237481241cae7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libmpeg2-0.5.1/ChangeLog
+SPDXID: SPDXRef-item1104878
+FileChecksum: SHA1: d7f4d2f25ce62a82221c4465a845624eefade0e9
+FileChecksum: MD5: 1629d3079bfeac8b3f69bd920fb95b64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/altivec_h_needed.patch
+SPDXID: SPDXRef-item1104879
+FileChecksum: SHA1: 8ca9a806f110434bef437982e3cd467c544e252f
+FileChecksum: MD5: 7da9a5aa6338b20074119acb821de58b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

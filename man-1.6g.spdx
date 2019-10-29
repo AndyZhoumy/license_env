@@ -1,0 +1,3728 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_man-1.6g-r1-patched.tar.gz_1571459141.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:25:41Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: man
+PackageVersion: 1.6g
+PackageFileName: man-1.6g-r1-patched.tar.gz
+SPDXID: SPDXRef-upload398
+PackageDownloadLocation: http://pkgs.fedoraproject.org/lookaside/pkgs/man2html/man-1.6g.tar.gz/ba154d5796928b841c9c69f0ae376660/man-1.6g.tar.gz
+PackageHomePage: http://primates.ximian.com/~flucifredi/man
+PackageSummary: <text>Online documentation tools</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>man version 1.6g</text>
+PackageChecksum: SHA1: 541fcbfeae147359b9b889e442bae295ef8709f5
+PackageChecksum: MD5: fc85951cd06846155bc0f0056976861b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload398
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/man-1.6e-new_sections.patch
+SPDXID: SPDXRef-item938388
+FileChecksum: SHA1: d2850c3d2d10afd61ca627f284fc2b5f61d14911
+FileChecksum: MD5: 99d1bbf6eb46e91c96ea3ac90266bef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6e-ro_usr.patch
+SPDXID: SPDXRef-item938389
+FileChecksum: SHA1: 762e0597bd1b5aea16cf3377b50ab4f0f1daa0b7
+FileChecksum: MD5: ee033e2af419682671d8ed575eca43fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g-compile-warnings.patch
+SPDXID: SPDXRef-item938390
+FileChecksum: SHA1: 0b7eeb4e52cd039b5de62c00d3fcee8190f2e726
+FileChecksum: MD5: 3a2d739fd8d4a79d5cc4230b994a4d97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6e-security.patch
+SPDXID: SPDXRef-item938391
+FileChecksum: SHA1: e744ef8325cd4c49f2158b9f8284c9210b6972fb
+FileChecksum: MD5: 62b38ea319d0c3474ea5c441d86d6a29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5g-nonrootbuild.patch
+SPDXID: SPDXRef-item938392
+FileChecksum: SHA1: db25609f8b798495e822eeb048b1c332c3b9a15a
+FileChecksum: MD5: 2d0144f2e5462ce46ddc1571821637e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/configure_sed.patch
+SPDXID: SPDXRef-item938393
+FileChecksum: SHA1: b13ac5f62f58c46587ac1bdd24b8238d5c155bfd
+FileChecksum: MD5: 23493e4ad5c91490dbe096eba4851f06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6e-mandirs.patch
+SPDXID: SPDXRef-item938394
+FileChecksum: SHA1: c0429d681a9d75fa163a0898442422c468bc34e5
+FileChecksum: MD5: 836cff74e403a4ebac50b28f9955e3e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5i2-newline.patch
+SPDXID: SPDXRef-item938395
+FileChecksum: SHA1: 9c418181a1644ddb5031b0e268d0ade6359c5da2
+FileChecksum: MD5: 895e454e06168ad5571cfb6b2673f4f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5m2-buildroot.patch
+SPDXID: SPDXRef-item938396
+FileChecksum: SHA1: 1f7f1716e22b1fec70a67d293db83e2c0076b6ac
+FileChecksum: MD5: 8ae1e73d9299960a5cd97f3f7918ebf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man.7.gz/man.7
+SPDXID: SPDXRef-item938399
+FileChecksum: SHA1: 4c5f2aba879c9850666d1ee7cc3c91933f72baf4
+FileChecksum: MD5: d5aab05062df8494510d8f989ac82e90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GNU-Manpages
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5m2-bug11621.patch
+SPDXID: SPDXRef-item938400
+FileChecksum: SHA1: ad0867d3fa0adc5296e390a4e0ac81892b554e1c
+FileChecksum: MD5: 44e982f27196fb0327e106880521c556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5k-confpath.patch
+SPDXID: SPDXRef-item938401
+FileChecksum: SHA1: d7bc37ee8c81fe544f47f54465329d5d0372337c
+FileChecksum: MD5: 8513b3b7826ab754357cdb89666f4a51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g-parallel.patch
+SPDXID: SPDXRef-item938402
+FileChecksum: SHA1: a1b9e4912fa593522c103e556b391eadd7b20e0a
+FileChecksum: MD5: 1b1da210d33c76d6178b10d4286ac521
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g-whatis3.patch
+SPDXID: SPDXRef-item938403
+FileChecksum: SHA1: 24942a921187074be76557a0f3d56f9e215a5fbe
+FileChecksum: MD5: c90c048e271e84f38fbbd33a7c11a5fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5j-i18n.patch
+SPDXID: SPDXRef-item938404
+FileChecksum: SHA1: ca92285062797d53362ef0eaa9679fabaf06c34e
+FileChecksum: MD5: a65bfc0b8d7b41fc68296e3dbf55ced1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5i2-initial.patch
+SPDXID: SPDXRef-item938405
+FileChecksum: SHA1: e2ebaf980dcc1c1e5d99dc99d6c151a00331e95b
+FileChecksum: MD5: d136908bedc126f9e0dd14172ab0564e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5h1-make.patch
+SPDXID: SPDXRef-item938406
+FileChecksum: SHA1: b08236fb266ee2880975b52c1890a700c6986663
+FileChecksum: MD5: 9e9c32e5290351e6f73c4032b4e71efe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/manpath.5.gz/manpath.5
+SPDXID: SPDXRef-item938409
+FileChecksum: SHA1: 454fc0e059ed83a809f70f12988640a3633700ce
+FileChecksum: MD5: b560d8286574148e9b26b846e450230a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5j-utf8.patch
+SPDXID: SPDXRef-item938410
+FileChecksum: SHA1: 620e2243f0e76b9340eb830f3c0a5fd4660eace7
+FileChecksum: MD5: d2a8ca3136989437d4e73d8c2f8f7ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5m2-no-color-for-printing.patch
+SPDXID: SPDXRef-item938411
+FileChecksum: SHA1: f0bf9e48e6b21ba1b09353c55194b6d27221e455
+FileChecksum: MD5: eeb38e1c832031a77a1efef4fd801d2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man.1.gz/man.1
+SPDXID: SPDXRef-item938414
+FileChecksum: SHA1: 88f1f76d8bac10727689f1d4ac4437eeb381bcc8
+FileChecksum: MD5: 6ddd03234cc52afb880e76738a5aea98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man.conf
+SPDXID: SPDXRef-item938415
+FileChecksum: SHA1: 74b1b15bc124b126058cb9f9db2fb699cf731b14
+FileChecksum: MD5: a5db9a03c381f5f13237f4b9bcfc33b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/README.GNU-WIN32
+SPDXID: SPDXRef-item938417
+FileChecksum: SHA1: 5a9c80fd3a92bee62d779821c352800e88e2ab52
+FileChecksum: MD5: f6020a95db74ab2fb50b63889d4f24b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/catopen/README
+SPDXID: SPDXRef-item938419
+FileChecksum: SHA1: 78da24a4266f1f2581e75c9fc08fd2e205cb70d4
+FileChecksum: MD5: dfb3223f115f0554b2d85922c884f710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/catopen/catopen.c
+SPDXID: SPDXRef-item938420
+FileChecksum: SHA1: 6e7f359d823f3246fe7ee94f2f79ed07ab4bbcb8
+FileChecksum: MD5: 8412536ca385ddae7efca6e9ec3da07b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/abbrev.c
+SPDXID: SPDXRef-item938422
+FileChecksum: SHA1: 2c5c9ccab0f8813c3597be6d49cb791b7ea15030
+FileChecksum: MD5: 4ba15f11afd3071f1f0834acf88ce25d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/locales/en/hman.1
+SPDXID: SPDXRef-item938425
+FileChecksum: SHA1: 857bae67b9c4c91dc4defd5cd35a2ae846e0db97
+FileChecksum: MD5: 59cf76d56d98dd1e1adcaea0c98ebc54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/locales/en/man2html.1
+SPDXID: SPDXRef-item938426
+FileChecksum: SHA1: 753a670d4f00d158ea2e95afe92ab7a34dedd039
+FileChecksum: MD5: 4abf665b6936f5cefd7c685bb69b650d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/locales/it/hman.1
+SPDXID: SPDXRef-item938428
+FileChecksum: SHA1: 7b8988584a9604e06720a1b581697e898a477bf8
+FileChecksum: MD5: e2c506aeddd92c4d2b56ec37056fd871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/locales/it/man2html.1
+SPDXID: SPDXRef-item938429
+FileChecksum: SHA1: e667403c17481691db717cb649cbc1b81bc4a7d9
+FileChecksum: MD5: d963b84a9abd2c17deef01da6e2c759a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/locales/fr/man2html.1
+SPDXID: SPDXRef-item938431
+FileChecksum: SHA1: a9bb011d180520af6b735c5df22c543c9f5e04c3
+FileChecksum: MD5: 43d9238e983db55eda208f3a55c8b9d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/Makefile.in
+SPDXID: SPDXRef-item938432
+FileChecksum: SHA1: 875ed16686ff49b8647003758cba19ef66d2da93
+FileChecksum: MD5: 173a9bfb51936b07f2ceae3adee5a98b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/strdefs.c
+SPDXID: SPDXRef-item938433
+FileChecksum: SHA1: 9215dd8485cab8443a85565112d05a60cb4d39a0
+FileChecksum: MD5: 6a75f70cf3e8ae52f47a8619b69627b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/man2html.c
+SPDXID: SPDXRef-item938434
+FileChecksum: SHA1: df695a324b1d2d0ed75e405943b52cffc2511bf4
+FileChecksum: MD5: 76f45b253eecb458c0a7758cac36c8bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/hman.1
+SPDXID: SPDXRef-item938435
+FileChecksum: SHA1: 857bae67b9c4c91dc4defd5cd35a2ae846e0db97
+FileChecksum: MD5: 59cf76d56d98dd1e1adcaea0c98ebc54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/scripts/cgi-aux/man/mansearchhelp.aux
+SPDXID: SPDXRef-item938439
+FileChecksum: SHA1: ec825d5293307562521ffe9c197d90e32149f228
+FileChecksum: MD5: 1d8928eb430b03b2f1409ae510b18a9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/scripts/cgi-aux/man/mansearch.aux
+SPDXID: SPDXRef-item938440
+FileChecksum: SHA1: 92433b896c7609aa5cdebb76e0a5de9fb9e1ce1a
+FileChecksum: MD5: c6d05f242ee0528fd672b7647bf2a342
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/scripts/cgi-aux/man/man.aux
+SPDXID: SPDXRef-item938441
+FileChecksum: SHA1: e0f8687579e26663d854088d2509d4cd7934dd81
+FileChecksum: MD5: 9034b29dbefb661511d913766a5d01fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/scripts/cgi-bin/man/man2html
+SPDXID: SPDXRef-item938444
+FileChecksum: SHA1: c8518addd6288ac1bbe8ce768b48500ad46a249a
+FileChecksum: MD5: a263a91a50c71f70ffaba8b3773c44a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/scripts/cgi-bin/man/mansec
+SPDXID: SPDXRef-item938445
+FileChecksum: SHA1: c5d288e454cac94fa51ed0b2e4df5b0b2203f580
+FileChecksum: MD5: 6f3e89b6deb75126215099b9ecfaef71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/scripts/cgi-bin/man/mansearchhelp
+SPDXID: SPDXRef-item938446
+FileChecksum: SHA1: a99c92549df443f03e70143a073fe1d2c7b5bfb4
+FileChecksum: MD5: f85a5bdca8c317b7b56eb706d670a6f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/scripts/cgi-bin/man/mansearch
+SPDXID: SPDXRef-item938447
+FileChecksum: SHA1: c25fe99450e414f84a6fc9e28b6f8f54f33a83d2
+FileChecksum: MD5: 0f08894948e2cc562d2d782842797e26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/scripts/cgi-bin/man/manwhatis
+SPDXID: SPDXRef-item938448
+FileChecksum: SHA1: c6e3346750fd1f29b39fbd51a48db565016c0e28
+FileChecksum: MD5: 5536627900550b974b0896ea4e6bcec8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/TODO
+SPDXID: SPDXRef-item938449
+FileChecksum: SHA1: ddf00557a85e0666b9fc7d642ed5f5965b2241b2
+FileChecksum: MD5: 952b332a2cc38bd672a0dd2e9666fc9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/man2html.1
+SPDXID: SPDXRef-item938450
+FileChecksum: SHA1: 753a670d4f00d158ea2e95afe92ab7a34dedd039
+FileChecksum: MD5: 4abf665b6936f5cefd7c685bb69b650d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/README
+SPDXID: SPDXRef-item938451
+FileChecksum: SHA1: fc89d8adba35e6b693dce78c2d81846218537944
+FileChecksum: MD5: 0201f7bd99b182185743116183bfe565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Non-commercial
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/defs.h
+SPDXID: SPDXRef-item938452
+FileChecksum: SHA1: 39b64d81a3550d9dd624625f3198edcf89419596
+FileChecksum: MD5: 78c381d94cdd023f898b9e585f4ae603
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/glimpse_filters
+SPDXID: SPDXRef-item938453
+FileChecksum: SHA1: 33c486c901f50e2cab43f8b066f9d3c2ef50a7dd
+FileChecksum: MD5: 55f928bfbf56c9a05ece857485dc93d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/hman.sh
+SPDXID: SPDXRef-item938454
+FileChecksum: SHA1: 581c5c9c14bc8996b1d0b6f3afbb7be420d62cf0
+FileChecksum: MD5: a3df5fcd20393af52da10e78f45e7616
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man2html/cgibase.c
+SPDXID: SPDXRef-item938455
+FileChecksum: SHA1: da5339b90de8c9a3780f48b53c3aad55e2d68bb8
+FileChecksum: MD5: 04a3e4aa18bc251feec2d3200b1e2268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/HISTORY
+SPDXID: SPDXRef-item938456
+FileChecksum: SHA1: 5c6ee085d280c41076bf53e1a59f44ac158219b1
+FileChecksum: MD5: 683216df3e6289ec5cda67ea8cd7cec7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.cs.codeset
+SPDXID: SPDXRef-item938458
+FileChecksum: SHA1: bd73e99f4ce13f5a6448c6c8187747af9be5d7a2
+FileChecksum: MD5: 7d90720c5b7302e051d9d45ed69bd310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/inst.sh
+SPDXID: SPDXRef-item938459
+FileChecksum: SHA1: 620b79c03448443bea60f669c95ab127ec693a40
+FileChecksum: MD5: 3e95254c7a65b146c17d0d76f7b51a24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.hr.codeset
+SPDXID: SPDXRef-item938460
+FileChecksum: SHA1: bd73e99f4ce13f5a6448c6c8187747af9be5d7a2
+FileChecksum: MD5: 7d90720c5b7302e051d9d45ed69bd310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.fr
+SPDXID: SPDXRef-item938461
+FileChecksum: SHA1: 223495204909683a5cd300e0b58b910fe2ef2356
+FileChecksum: MD5: 43ea079864430f35559c1f6672256ed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.ja.codeset
+SPDXID: SPDXRef-item938462
+FileChecksum: SHA1: 44d2073c09c22064b03713bef4979123dbc8d65b
+FileChecksum: MD5: 184d37b467be7c27d0b90906548aac67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.da
+SPDXID: SPDXRef-item938463
+FileChecksum: SHA1: 1a7f60e37ff93df918d8aef12b2d69b141b6dd25
+FileChecksum: MD5: 666731a1e344b856c74d08960829737e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.de.codeset
+SPDXID: SPDXRef-item938464
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.en
+SPDXID: SPDXRef-item938465
+FileChecksum: SHA1: f1a73be2008d52099641578d28e3546eb90f9d77
+FileChecksum: MD5: b0fa429e106598348d8dd2bf4c2f9332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/gencat207fix.sh
+SPDXID: SPDXRef-item938466
+FileChecksum: SHA1: 442ffa86bc70ca96e388907fccd7ae26d2a85ec3
+FileChecksum: MD5: 0c555a236011cef3bbb2fc43406b9602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.ja
+SPDXID: SPDXRef-item938467
+FileChecksum: SHA1: 402f791a49dc1dcce4d8c0262acc94c63416d5af
+FileChecksum: MD5: 669c378ce9b848d7d355d8a559ebf71e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.ko
+SPDXID: SPDXRef-item938468
+FileChecksum: SHA1: 82f5b73ebedb131fa08cd635bd4bc6709fca79b0
+FileChecksum: MD5: 835b9e2189682285c56cf446c84abcf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.it
+SPDXID: SPDXRef-item938469
+FileChecksum: SHA1: b48c6fff6dd618315dd8d8d433726e6bf0a1d155
+FileChecksum: MD5: 55434eca20833b85ed7ad5802caab1b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.ru
+SPDXID: SPDXRef-item938470
+FileChecksum: SHA1: 2fa024b75caaf785dbc5b30e1830eb972ca67eb2
+FileChecksum: MD5: c25630aca93f6e49984040a7d4d22439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.en.codeset
+SPDXID: SPDXRef-item938471
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/Makefile.in
+SPDXID: SPDXRef-item938472
+FileChecksum: SHA1: a54ab463dabc90c4b807fd519a9c72913a863309
+FileChecksum: MD5: 8f8e330f66ee9ff349d7083bf17cf6bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.pl
+SPDXID: SPDXRef-item938473
+FileChecksum: SHA1: f331850c99a6a96ee1b1c1dcd8c08079e485bfca
+FileChecksum: MD5: 3aa974985ebb2449746a6b14dfd23de5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.pt
+SPDXID: SPDXRef-item938474
+FileChecksum: SHA1: 75b0ac895e8460a0d5815ba0107232f0d6cf7733
+FileChecksum: MD5: 3f1d4afc4ce5a4a3c1d9604c44bd92a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.pl.codeset
+SPDXID: SPDXRef-item938475
+FileChecksum: SHA1: bd73e99f4ce13f5a6448c6c8187747af9be5d7a2
+FileChecksum: MD5: 7d90720c5b7302e051d9d45ed69bd310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.bg.codeset
+SPDXID: SPDXRef-item938476
+FileChecksum: SHA1: 23731eff610739e48a981e93347b5610dc675b81
+FileChecksum: MD5: 310f1082209fca95b3ba9965a89cbcc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.nl
+SPDXID: SPDXRef-item938477
+FileChecksum: SHA1: 748212df19d063e4e84bd68ca01ab1dfe15ed91b
+FileChecksum: MD5: dd3c4c9da57bbb7e1be3a03d51f25da8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.zh_TW.UTF-8
+SPDXID: SPDXRef-item938478
+FileChecksum: SHA1: bdf11da04825741c16eebc422ce69067be36d584
+FileChecksum: MD5: c31d854dd82855c278c13c556a637fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.fr.codeset
+SPDXID: SPDXRef-item938479
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.cs
+SPDXID: SPDXRef-item938480
+FileChecksum: SHA1: 70bf2d66a20bcce1d58bbbd40c4b07d91ddcb5c5
+FileChecksum: MD5: 570ac2f6284edd634325b8e10ea5934e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.fi
+SPDXID: SPDXRef-item938481
+FileChecksum: SHA1: 751e04dba61d5fc095e57be115e2067c051a4847
+FileChecksum: MD5: a51633def58bb2ee9df949b63b74fce9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.it.codeset
+SPDXID: SPDXRef-item938482
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.hr
+SPDXID: SPDXRef-item938483
+FileChecksum: SHA1: 3a57bf298046b32a07b7a8c90e6874675e5e4c45
+FileChecksum: MD5: 6a74aa6302926bb890737269952e7aae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.ro.codeset
+SPDXID: SPDXRef-item938484
+FileChecksum: SHA1: bd73e99f4ce13f5a6448c6c8187747af9be5d7a2
+FileChecksum: MD5: 7d90720c5b7302e051d9d45ed69bd310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.sl
+SPDXID: SPDXRef-item938485
+FileChecksum: SHA1: 79bcfecb4cbc70c1d0434e143fdd2e31eddf6b64
+FileChecksum: MD5: 73964253a2096807f87730f25ff910b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.fi.codeset
+SPDXID: SPDXRef-item938486
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.ro
+SPDXID: SPDXRef-item938487
+FileChecksum: SHA1: 8ade2e155eb950f923794496da733164aab35737
+FileChecksum: MD5: c609e8be797c4236cfe6f9da6cfd9e89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/README
+SPDXID: SPDXRef-item938488
+FileChecksum: SHA1: cbca72d6d08a8ef9b91a08d66703b98ff6a267d9
+FileChecksum: MD5: f489d52ffd1ffff5c22423b47953d9a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/gencat.in
+SPDXID: SPDXRef-item938489
+FileChecksum: SHA1: 6b886f99be431fab084a33f2fd619ea8426ef796
+FileChecksum: MD5: 1fa7099ead59b89dbe0e6ccdbf70b553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.el.codeset
+SPDXID: SPDXRef-item938490
+FileChecksum: SHA1: 5125b1beaf51872b437170909c4eb4bb647283b3
+FileChecksum: MD5: 303e94a2e674fb6326e997f9adc92843
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.nl.codeset
+SPDXID: SPDXRef-item938491
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.sl.codeset
+SPDXID: SPDXRef-item938492
+FileChecksum: SHA1: bd73e99f4ce13f5a6448c6c8187747af9be5d7a2
+FileChecksum: MD5: 7d90720c5b7302e051d9d45ed69bd310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.bg
+SPDXID: SPDXRef-item938493
+FileChecksum: SHA1: 4498abeee9abd66e08c2ffe819de63e419ffb44a
+FileChecksum: MD5: 2b441ce99b5969d4ea13b353825e9f9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.de
+SPDXID: SPDXRef-item938494
+FileChecksum: SHA1: 722ec71a8727159c548e55758a9c661ed81f7b46
+FileChecksum: MD5: 6dd9e7f3d7d0e6bec7bcb9bbdb826e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.da.codeset
+SPDXID: SPDXRef-item938495
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.ru.codeset
+SPDXID: SPDXRef-item938496
+FileChecksum: SHA1: 241f6f0f8906e9e94ed4372807dacc63c3a814b0
+FileChecksum: MD5: 6634f2c4adcd996abb0cdc54aca65a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.es
+SPDXID: SPDXRef-item938497
+FileChecksum: SHA1: 4c0f7fd943b93344ee964f5042fafe915610312b
+FileChecksum: MD5: 25aaa62bc2dc6f0b3efcfea3f8673b6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.es.codeset
+SPDXID: SPDXRef-item938498
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.el
+SPDXID: SPDXRef-item938499
+FileChecksum: SHA1: 9e9cd29ac28782c184a889cbbd6a0953b8dbf848
+FileChecksum: MD5: 102c162029aac786aeef32c0f0189d71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.ko.codeset
+SPDXID: SPDXRef-item938500
+FileChecksum: SHA1: d6f6d76109dd882ce901703ce807c596c8675be3
+FileChecksum: MD5: 46edcd43cdc94c50276ef04d70ff5c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/msgs/mess.pt.codeset
+SPDXID: SPDXRef-item938501
+FileChecksum: SHA1: a891f78007ed04e3e70de7969b88d6a926c84219
+FileChecksum: MD5: 4623dd6c7b95a45e52750de94208ed5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/version
+SPDXID: SPDXRef-item938502
+FileChecksum: SHA1: 195b532c9f4843af21dd4255abe03ed2f310714d
+FileChecksum: MD5: c8aa9d982e90939af4eaaf2f1b77a14c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/Makefile.in
+SPDXID: SPDXRef-item938503
+FileChecksum: SHA1: bf6c95c4b2e90b27e58dc6ae710169c2462df1e4
+FileChecksum: MD5: 513c3b66896631f0fe39f53ebfd55f37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/COPYING
+SPDXID: SPDXRef-item938504
+FileChecksum: SHA1: 075d599585584bb0e4b526f5c40cb6b17e0da35a
+FileChecksum: MD5: 8ca43cbc842c2336e835926c2166c28b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/configure
+SPDXID: SPDXRef-item938505
+FileChecksum: SHA1: 65aacdc2be6d8f279d270f09a32f3b36619f477a
+FileChecksum: MD5: b61c45017b6ea2fe1ef516ecea5b2e54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/el/makewhatis.man
+SPDXID: SPDXRef-item938508
+FileChecksum: SHA1: 2f0a97d648ccbba1607226772e070fcfa7f6ef88
+FileChecksum: MD5: a76fad0187da75660a6bbe11c4dd091f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/el/man2html.man
+SPDXID: SPDXRef-item938509
+FileChecksum: SHA1: 550fb4514d415e261d07dc894bfee8b54e137d55
+FileChecksum: MD5: 312f76ba3857e9def88c28fc00d46880
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/el/whatis.man
+SPDXID: SPDXRef-item938510
+FileChecksum: SHA1: 96db14167ef2b558f003acf7c6bc1b7d8b8ddba8
+FileChecksum: MD5: bca7d37e7922c01d8cd649f1d89ce3db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/el/hman.man
+SPDXID: SPDXRef-item938511
+FileChecksum: SHA1: 93ac1a5662b7b8f2801e9f1940a99a54e6df8067
+FileChecksum: MD5: 7bfef476676c431c837a58814a928f5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/el/apropos.man
+SPDXID: SPDXRef-item938512
+FileChecksum: SHA1: a234aa84bf3999dfaf423c782932c4fe8a860b30
+FileChecksum: MD5: f6c9536eb51b33a9a35fd4f1be0f2c0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/el/man.conf.man
+SPDXID: SPDXRef-item938513
+FileChecksum: SHA1: df199cf59881aaa91858c990f23076ecd45b487e
+FileChecksum: MD5: 31817289beaf41bc91b5b75364ca3c75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/el/man.man
+SPDXID: SPDXRef-item938514
+FileChecksum: SHA1: 765cf4987f630b19df5f1f67d0463bdd13b94378
+FileChecksum: MD5: 7649e4a8f3ae7d964be50c1a758bd1db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ko/whatis.man
+SPDXID: SPDXRef-item938516
+FileChecksum: SHA1: 7667d942ee3c3f5c88db54e98676a50e97045d4d
+FileChecksum: MD5: d436b2eed111f57ab606d6bc6104966d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ko/apropos.man
+SPDXID: SPDXRef-item938517
+FileChecksum: SHA1: 54a412bd7dba591fdf70a2f86bff969ebc1f2196
+FileChecksum: MD5: b39790efbb5014efd1230bd5418d3fb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ko/man.conf.man
+SPDXID: SPDXRef-item938518
+FileChecksum: SHA1: 891670032c8163fc69b9a31221f8da3328d36dd7
+FileChecksum: MD5: 03b148ec72d10d1507dc717e2c4a6288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ko/man.man
+SPDXID: SPDXRef-item938519
+FileChecksum: SHA1: 6291c7830c9db4dc46cb450e31129f53e7385ad9
+FileChecksum: MD5: 65493babe05aad0cd9ed17eb16541e3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ko.txt
+SPDXID: SPDXRef-item938520
+FileChecksum: SHA1: e4380aa7aaebdba2409bae1ee3617a23a2d70861
+FileChecksum: MD5: e474b0dfd6345f0586fbe89e10d2e503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/nl/whatis.man
+SPDXID: SPDXRef-item938522
+FileChecksum: SHA1: c7bc2511055fc8829ab58821d59cc096e27c6256
+FileChecksum: MD5: 022b4ac2920ebc02d0aeeccb78ab74c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/nl/apropos.man
+SPDXID: SPDXRef-item938523
+FileChecksum: SHA1: ee8c7ecb3a2491724059ac2339f91312cf37a607
+FileChecksum: MD5: 6bf2ede48b8c2d3dafe0580243c6b90e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/nl/man.conf.man
+SPDXID: SPDXRef-item938524
+FileChecksum: SHA1: 3f1e04beee879f068f3a23212ff240bcdc367f4c
+FileChecksum: MD5: 69741ec660f233f2cb00e9885c57e1e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/nl/man.man
+SPDXID: SPDXRef-item938525
+FileChecksum: SHA1: 19f9286191a3cdae05c6bed60aa0481897c55fc2
+FileChecksum: MD5: 4f3d0c6c1d4131d1fb1d5ded16ee8557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/bg.txt
+SPDXID: SPDXRef-item938526
+FileChecksum: SHA1: 9bd45951fe0fd4885cbdbb0ad2af5aa848f3460d
+FileChecksum: MD5: 9b9b156ce8271987e0ad9f45b9858c5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pl.txt
+SPDXID: SPDXRef-item938527
+FileChecksum: SHA1: bf7b1f6d2d62c5cdda882c6708adb709a1f67f2d
+FileChecksum: MD5: 90a6b68034aa3da5ae41b98d7514f5fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/en/makewhatis.man
+SPDXID: SPDXRef-item938529
+FileChecksum: SHA1: ac4261a83b50590ebb2a56da861a93ac32995162
+FileChecksum: MD5: 6d03ef888866700f144be702da109e77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/en/whatis.man
+SPDXID: SPDXRef-item938530
+FileChecksum: SHA1: 6579c2a8b3f84af7b28055063a2f9f1948bd63c0
+FileChecksum: MD5: 3e9a6e7f995702178d3f11c1c7ca18a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/en/apropos.man
+SPDXID: SPDXRef-item938531
+FileChecksum: SHA1: 41ba55cef3bb623cf1c06beddb19b532fc91ab63
+FileChecksum: MD5: 3518622027af4b8c6b0404481134b228
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/en/man.conf.man
+SPDXID: SPDXRef-item938532
+FileChecksum: SHA1: de5a72653a54ce4dad5777ff5f437cbac7c8f641
+FileChecksum: MD5: 7bfadb19a65b1c9ea4cef0d04419955c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/en/man.man
+SPDXID: SPDXRef-item938533
+FileChecksum: SHA1: d730497ae346e61bb27bd62e91721fe3c376b17a
+FileChecksum: MD5: 912a51023810e18a486a0d105eb71f05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/it/makewhatis.man
+SPDXID: SPDXRef-item938535
+FileChecksum: SHA1: 8c5ad08c3dede09c3d2ee1749ffc39a44d46cf7d
+FileChecksum: MD5: 34e6f901c0c1061f0d916a3cc7946ae4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/it/whatis.man
+SPDXID: SPDXRef-item938536
+FileChecksum: SHA1: 357a9a5649cbf9aa107b06d66d36903834462804
+FileChecksum: MD5: bb6dab5e39161512d0b5dcd3c969531b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/it/apropos.man
+SPDXID: SPDXRef-item938537
+FileChecksum: SHA1: b36d94e1496e0be8624ac863197a2d77a48b8a9c
+FileChecksum: MD5: b667d353a196089934075459948144fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/it/man.conf.man
+SPDXID: SPDXRef-item938538
+FileChecksum: SHA1: 3b8b689baf688c26e75ff0f2d459bf82261c7a4f
+FileChecksum: MD5: ccbee1b9ee77e07dccee18077392ca6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/it/man.man
+SPDXID: SPDXRef-item938539
+FileChecksum: SHA1: ad3fc2a6ee496e1a3fd7bc52dcc32e27031871f9
+FileChecksum: MD5: 696350a85d79afcb8109496d1c641fbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ja.txt
+SPDXID: SPDXRef-item938540
+FileChecksum: SHA1: a801b193812a07889d10f774edd006134eb573c1
+FileChecksum: MD5: b8917f3439b13ea8389ed554d6b5de5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/Makefile.in
+SPDXID: SPDXRef-item938541
+FileChecksum: SHA1: e346483ee285e806e6a6bb368276a44bd1b482e8
+FileChecksum: MD5: 918a0f8efa21d0b345b7b4cbac2f740a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/de.txt
+SPDXID: SPDXRef-item938542
+FileChecksum: SHA1: 8939395dd8c5cfc60ea2c5773d81dc4458b28cee
+FileChecksum: MD5: 09b46bdc2006556dff58c53716c6c0b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ja/whatis.man
+SPDXID: SPDXRef-item938544
+FileChecksum: SHA1: 808b02e286eaf8bfd24906027558dcddc2cdf1ba
+FileChecksum: MD5: bc383efb2803e6dd947e9979a8140558
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ja/apropos.man
+SPDXID: SPDXRef-item938545
+FileChecksum: SHA1: d9b5084d54301943611e78cb5cbe00e3594eefbf
+FileChecksum: MD5: 6311c5f685c59f42daeb354f4a6de01f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ja/man.conf.man
+SPDXID: SPDXRef-item938546
+FileChecksum: SHA1: 4013baff7cdcfc95f7006a2c50ab2f2b8f59744d
+FileChecksum: MD5: ffca44a4bc4450cea30025d85c5bd1f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ja/man.man
+SPDXID: SPDXRef-item938547
+FileChecksum: SHA1: fcbfb8a20eb712e9e33aa19e19e8bfd8b05dd4fd
+FileChecksum: MD5: b759e0ed5cd01fbc5329f4421de34f3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/da.txt
+SPDXID: SPDXRef-item938548
+FileChecksum: SHA1: 269a0dd6f25a1006355d357df4c3f75649f8b1f3
+FileChecksum: MD5: 7d7f207577cbc9a8ffdfc74d729d390b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/da/whatis.man
+SPDXID: SPDXRef-item938550
+FileChecksum: SHA1: fad53148e49eed767ee559641c51da566deb5439
+FileChecksum: MD5: 77dd3fcb01cba25e634bac2dde234d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/da/apropos.man
+SPDXID: SPDXRef-item938551
+FileChecksum: SHA1: 20ffe1272ffa617f5161e873699b88b328865a23
+FileChecksum: MD5: 478ebd8ec04cefe440ec132f19e453c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/da/man.conf.man
+SPDXID: SPDXRef-item938552
+FileChecksum: SHA1: 2660303125f8f38194177a7c2a967484b05e59eb
+FileChecksum: MD5: 528012d7a452f1c5fc7b97b4367b2901
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/da/man.man
+SPDXID: SPDXRef-item938553
+FileChecksum: SHA1: bb158f143f8f6d8725fb039b18151e5fe02b1c5e
+FileChecksum: MD5: 1fee136dc6a24a678b724b8dd38ebcbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/cs/whatis.man
+SPDXID: SPDXRef-item938555
+FileChecksum: SHA1: dd97bd4e452202bdc03585af41d985f33ba7d0f6
+FileChecksum: MD5: e8269426e22a8654903b51a80c7e99ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/cs/apropos.man
+SPDXID: SPDXRef-item938556
+FileChecksum: SHA1: 33a6b7d78977c58f9b2596f5eef1eb393cb4f1e0
+FileChecksum: MD5: 413980c6b508b8904c684615e756d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/cs/man.conf.man
+SPDXID: SPDXRef-item938557
+FileChecksum: SHA1: 0e1665c915dc53fdead43c1aea14644a3ceb3021
+FileChecksum: MD5: fee33a4c260c6b3038970bf00d527bba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/cs/man.man
+SPDXID: SPDXRef-item938558
+FileChecksum: SHA1: 4258f7b22bebd7f2ee0a1fec59049f0ba84620e9
+FileChecksum: MD5: d3441b36655bf92ac6d7fe733cb44ad6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/sl/whatis.man
+SPDXID: SPDXRef-item938560
+FileChecksum: SHA1: b96417d1ab77fadb18f5374389ead3f12d3e0ada
+FileChecksum: MD5: e466f450025af8df86e08cf1079ea1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/sl/apropos.man
+SPDXID: SPDXRef-item938561
+FileChecksum: SHA1: 423b80a980a9e7623e5d650597a26c9987131538
+FileChecksum: MD5: bb1eaca39dda6fa4317cf596a38c6ef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/sl/man.conf.man
+SPDXID: SPDXRef-item938562
+FileChecksum: SHA1: 3f8d340c80db79678344d20ce97b2357ab6de20f
+FileChecksum: MD5: b0aa58235e1899cf66e3f25d6517d7c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/sl/man.man
+SPDXID: SPDXRef-item938563
+FileChecksum: SHA1: f8d76909045b19aa00e1207d7aca0ef8fe4a08ec
+FileChecksum: MD5: a311233b4bdc2729bcdad1953c615c80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pt/whatis.man
+SPDXID: SPDXRef-item938565
+FileChecksum: SHA1: 23e7f2c4bb14807e862be0deac6227df3baf42d2
+FileChecksum: MD5: 24f9e35567731f7629e504ac4547eb76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pt/apropos.man
+SPDXID: SPDXRef-item938566
+FileChecksum: SHA1: a6c65c9441859a8ad20c35e6bd45907b4570543a
+FileChecksum: MD5: f05465fec8a2907391b777b045c8fc32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pt/man.conf.man
+SPDXID: SPDXRef-item938567
+FileChecksum: SHA1: aed31573cb65199293b014700faf5a06358759fc
+FileChecksum: MD5: 1fb02b88645e8c5e80d3da6110d101e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pt/man.man
+SPDXID: SPDXRef-item938568
+FileChecksum: SHA1: 24835c32ff2f687a4876b7bbe5633831429d189e
+FileChecksum: MD5: e65bc8ba7bf9eb132fe2a201c3c744e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pt/README
+SPDXID: SPDXRef-item938569
+FileChecksum: SHA1: 1cf182179c41ea84be28599e6400fa85671ec387
+FileChecksum: MD5: c543d48de495a294cbead3df6690d436
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/hr/whatis.man
+SPDXID: SPDXRef-item938571
+FileChecksum: SHA1: f46a659941d4a4039a9e55e87498853fd9bf425a
+FileChecksum: MD5: 4995a98d2e3fae7d95cfdc8a47944624
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/hr/apropos.man
+SPDXID: SPDXRef-item938572
+FileChecksum: SHA1: f6b31692aef1d3284945828d38223a488d23673f
+FileChecksum: MD5: 11f93e3c7453ebb53a67da6173f3a59a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/hr/man.conf.man
+SPDXID: SPDXRef-item938573
+FileChecksum: SHA1: a1845482d77812fe25abb87646fd59827ad59b84
+FileChecksum: MD5: 0fe02714cc89d934a8a4c35e80579bd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/hr/man.man
+SPDXID: SPDXRef-item938574
+FileChecksum: SHA1: 7304c3edf114c8f1513dedbd07e3383a2ce1538a
+FileChecksum: MD5: cb092046df3ae4e0e059aeca068f6ce7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/es.txt
+SPDXID: SPDXRef-item938575
+FileChecksum: SHA1: fe718ba06bfac32437d1c8c51464acbfcfdf21a4
+FileChecksum: MD5: 6986aacf2482e79e0d7028842e9df85d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/es/makewhatis.man
+SPDXID: SPDXRef-item938577
+FileChecksum: SHA1: baf36750550b9220f773734083e389c575447a1f
+FileChecksum: MD5: e29ebd6e5fcf1e774ae15bd4a5ed11b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/es/whatis.man
+SPDXID: SPDXRef-item938578
+FileChecksum: SHA1: 216145ac6ebf6b1688ab4eae4f522e22398ec22d
+FileChecksum: MD5: ff49f4ac40ed646c89d5deeb954657f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/es/apropos.man
+SPDXID: SPDXRef-item938579
+FileChecksum: SHA1: 863b2442a41e9712c26d3b0b7540a4e4da087255
+FileChecksum: MD5: 5a0494a81120a00e615e43f1e5297772
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/es/man.conf.man
+SPDXID: SPDXRef-item938580
+FileChecksum: SHA1: 02be71481e544569a476c9b50c3b38c63d897b6b
+FileChecksum: MD5: 543d50e49663c6d84095b3d6b323b870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/es/man.man
+SPDXID: SPDXRef-item938581
+FileChecksum: SHA1: ca11a0f789a999e6a1b37af7c91a4cc51557db62
+FileChecksum: MD5: 6efd79af4d99f0d9ca48f14a45b59bab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/es/README
+SPDXID: SPDXRef-item938582
+FileChecksum: SHA1: 9c2d52e75c4a7eef0e414fe541767a5b5ded8e08
+FileChecksum: MD5: 6672036043647193b96afa43dff32215
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fi.txt
+SPDXID: SPDXRef-item938583
+FileChecksum: SHA1: f5a6e085c2e287e893d9dc1d8d5a6d90fa26083a
+FileChecksum: MD5: 72b27409f9e2cdbccde226b2f928b6df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pl/whatis.man
+SPDXID: SPDXRef-item938585
+FileChecksum: SHA1: 6a3e8262123e17587706f6be4ef58dc4d95d1981
+FileChecksum: MD5: 49a5659196d08ca387b43ff318fb6e6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pl/apropos.man
+SPDXID: SPDXRef-item938586
+FileChecksum: SHA1: 7baac0b63afa1c8f1beb633f9fae081a33c3b123
+FileChecksum: MD5: eeb6770a361e6935801e0d39e6cf064f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pl/man.conf.man
+SPDXID: SPDXRef-item938587
+FileChecksum: SHA1: 0425b442c61662a9a5152eacc58753fddf30a3d9
+FileChecksum: MD5: bab25ae8e9cdae325c960190abc815f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pl/man.man
+SPDXID: SPDXRef-item938588
+FileChecksum: SHA1: fc6012e5dc58d6c62cec524fdd0e22b6afd07856
+FileChecksum: MD5: bf48ee6f86304ad53eb60da6835eed38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/sl.txt
+SPDXID: SPDXRef-item938589
+FileChecksum: SHA1: 38c1480fca5da923bf53b1ae41615aff7597d06b
+FileChecksum: MD5: 67576c46b808c7f02c8332e782bdf132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/el.txt
+SPDXID: SPDXRef-item938590
+FileChecksum: SHA1: 09fd32661044c8018da84e77544359919c96da84
+FileChecksum: MD5: 29a062ba642253ffc7263a430c9b237c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/en.txt
+SPDXID: SPDXRef-item938591
+FileChecksum: SHA1: d7308657535ce4dd53910d649ecec6ce5ec0a2a9
+FileChecksum: MD5: 51a0b1ae9fb1e0ca813a91eb89e3462a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fi/whatis.man
+SPDXID: SPDXRef-item938593
+FileChecksum: SHA1: a76c730907e37bc493a5c718c926e899fba78ee9
+FileChecksum: MD5: 4b2dd8def342f6f0f0ed5ae42835dffa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fi/apropos.man
+SPDXID: SPDXRef-item938594
+FileChecksum: SHA1: 9f5aeaf2fdc59d71ad284121a4050d66219f6f2c
+FileChecksum: MD5: cfb9580822a985aec19c987396571872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fi/man.conf.man
+SPDXID: SPDXRef-item938595
+FileChecksum: SHA1: 4b1bfb3ed3f8370a072deb65dd176a572d4ddb0f
+FileChecksum: MD5: cc585e99eeddf2d8845d70868cc96be8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fi/man.man
+SPDXID: SPDXRef-item938596
+FileChecksum: SHA1: 7adaf7f6806f676bdba8ab3f27ef5823900d136b
+FileChecksum: MD5: 55064e7fb75d0a292cd8d195ba2c0275
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/it.txt
+SPDXID: SPDXRef-item938597
+FileChecksum: SHA1: cfa94cce0e58fa83f628e24048c70728f3e86ebb
+FileChecksum: MD5: 57de895115fe87f04f1a2dc9c197681e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/pt.txt
+SPDXID: SPDXRef-item938598
+FileChecksum: SHA1: 2b6650a06faee4b67162fc1abd19e10ea4095563
+FileChecksum: MD5: 1f6cde4550cb239e9a3b9435d25a29e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/cs.txt
+SPDXID: SPDXRef-item938599
+FileChecksum: SHA1: 7197fa6775914deea0960cb69d7456445cbb52b1
+FileChecksum: MD5: 56fc6a8be4558fe3c89d7a0572ea5a94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ro.txt
+SPDXID: SPDXRef-item938600
+FileChecksum: SHA1: c4c41b02a97808ee9cd267c367498eef6c03dcad
+FileChecksum: MD5: bd2078c07bc16d96a4189d45aaa822df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ro/makewhatis.man
+SPDXID: SPDXRef-item938602
+FileChecksum: SHA1: f4d56ea5e785c959e332f7f73ec643386c8abb9d
+FileChecksum: MD5: 9ea5329d456cd6148ca530a339498396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ro/man2html.man
+SPDXID: SPDXRef-item938603
+FileChecksum: SHA1: 9c21b3676c9d6794c5da9d4735c8e3fc5a71aee9
+FileChecksum: MD5: 338de2187ade2f3bbe610defc664433b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ro/whatis.man
+SPDXID: SPDXRef-item938604
+FileChecksum: SHA1: 59ff6c20f94c35edcbd3e68ab98fa58247e0686f
+FileChecksum: MD5: 63c811d81f05009db3d2bc27aae773f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ro/apropos.man
+SPDXID: SPDXRef-item938605
+FileChecksum: SHA1: 56f5f07e081e9bf5b65fd6c232c9a7fe26bd2459
+FileChecksum: MD5: 671a45c15d1d8da4395edf714ffbba2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ro/man.conf.man
+SPDXID: SPDXRef-item938606
+FileChecksum: SHA1: dddc75dc86db812e0a509d9d1b7eb1348ecc6192
+FileChecksum: MD5: 4cc162c336ab3ca7cda746d215d8f56a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/ro/man.man
+SPDXID: SPDXRef-item938607
+FileChecksum: SHA1: c269b1d117055cad98b0e71a6b82f2916393fb62
+FileChecksum: MD5: 89b9216eae822433fc7fc3e6c9c0e3da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fr.txt
+SPDXID: SPDXRef-item938608
+FileChecksum: SHA1: fc2379778488790eab85ba338031c24f863b887f
+FileChecksum: MD5: b61b168fc5cfafe707434f0aa44defee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/nl.txt
+SPDXID: SPDXRef-item938609
+FileChecksum: SHA1: 53ceb7ef5d65e785d8519ad4ebb600cd29876758
+FileChecksum: MD5: 922f5ed83fb2f684d5284bee89162ea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fr/makewhatis.man
+SPDXID: SPDXRef-item938611
+FileChecksum: SHA1: c3eeb694faa94a64e232a13b6a68110336473259
+FileChecksum: MD5: e52ec6f496c5548ea1d1cb3283a11b3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fr/whatis.man
+SPDXID: SPDXRef-item938612
+FileChecksum: SHA1: 284387050c394bcdf7e452eb2c56253a45b9c86d
+FileChecksum: MD5: 6ab76950859a3221e19ac03fc4d859b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fr/apropos.man
+SPDXID: SPDXRef-item938613
+FileChecksum: SHA1: 85d4ff192a16ecf4314396c09b863b14451c7517
+FileChecksum: MD5: 0f41332c0afdf95ee0b61bbe8f020eb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fr/man.conf.man
+SPDXID: SPDXRef-item938614
+FileChecksum: SHA1: 2494d794ac40711666026049689964a400fea7fa
+FileChecksum: MD5: 501b0d98afb4681245a17c2c3af841d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/fr/man.man
+SPDXID: SPDXRef-item938615
+FileChecksum: SHA1: a880e27c6e298c20ee071b4e3a158dd542cf41aa
+FileChecksum: MD5: f4266c66ae512eea9fae094e410cafa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/de/whatis.man
+SPDXID: SPDXRef-item938617
+FileChecksum: SHA1: 2ce350a945edbe92872fe3b9c8bc629c928de594
+FileChecksum: MD5: a872fbee309ee95cba346c399b9e9a04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/de/apropos.man
+SPDXID: SPDXRef-item938618
+FileChecksum: SHA1: 5fcb845a374e62f892df1cd5277be9ecab0507f2
+FileChecksum: MD5: 9429e1d69cece83f911c08696991dd36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/de/man.conf.man
+SPDXID: SPDXRef-item938619
+FileChecksum: SHA1: 8ff3106e520755d92a3ba8f0177e233625dd6a5f
+FileChecksum: MD5: ee7b972f7f5bfbca369b0a8b6c6aa063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/de/man.man
+SPDXID: SPDXRef-item938620
+FileChecksum: SHA1: 33cb0f801f56e97f5cf4795bdbd7a6b62ac7d7e8
+FileChecksum: MD5: e8a1fbedd112043f82dfb921ed8d94eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/de/README
+SPDXID: SPDXRef-item938621
+FileChecksum: SHA1: 334a8f6428df11b14c38c4504faa230a3534ef3b
+FileChecksum: MD5: bfa6f75969577555e9630feb40f9ef8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/bg/makewhatis.man
+SPDXID: SPDXRef-item938623
+FileChecksum: SHA1: 300f3b138d91d1cbbfb4a4a4e803f87b003de145
+FileChecksum: MD5: 9fbe20aa9a6a19a45fd36622c4e08208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/bg/whatis.man
+SPDXID: SPDXRef-item938624
+FileChecksum: SHA1: 21ba0921ab62a4e74bdedf53a51c7f1affe715ea
+FileChecksum: MD5: 47a892e45f104fab9a6e6a7a1f0b535b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/bg/apropos.man
+SPDXID: SPDXRef-item938625
+FileChecksum: SHA1: 43e10a17b09041d807d74a3b12b1d23baf0fec34
+FileChecksum: MD5: cc97e193dbeed764a54c69a538855186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/bg/man.conf.man
+SPDXID: SPDXRef-item938626
+FileChecksum: SHA1: 723d61022a583a70ea4a3980123ae8f717f252af
+FileChecksum: MD5: e8416f80101e408838cbe80d0cc04733
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/bg/man.man
+SPDXID: SPDXRef-item938627
+FileChecksum: SHA1: daecaf779c7763c34f33d1b3463942c6aa7fc141
+FileChecksum: MD5: 1694b6139d358feba8e22651b8c38b19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/bg/README
+SPDXID: SPDXRef-item938628
+FileChecksum: SHA1: 1580ed0e42399307f4cfc869598311e0bf8c2941
+FileChecksum: MD5: bfb08381295b338aac0e4dc10e2f9fb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/man/hr.txt
+SPDXID: SPDXRef-item938629
+FileChecksum: SHA1: fd9775eb467e2e3498a9d364285f2e34941dc08f
+FileChecksum: MD5: 9c2778ba7e744ae8aae35e98c1144bfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/README.HP
+SPDXID: SPDXRef-item938630
+FileChecksum: SHA1: 60366e71b860bfd2a95802647dcbd6a47977361e
+FileChecksum: MD5: 92334d217d97a59e9c0df778f1c00e07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/makemsg.c
+SPDXID: SPDXRef-item938632
+FileChecksum: SHA1: 53ea880b70b0d1c370d30af3b3852dcb62d8f5da
+FileChecksum: MD5: 9b76fe335852d1839519cf459fc17efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man-getopt.h
+SPDXID: SPDXRef-item938633
+FileChecksum: SHA1: 379d1c99a4c8265db39618019f0a19cf38857682
+FileChecksum: MD5: 5c259de3dfdc4e457e56465ebe24b519
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/manpath.h
+SPDXID: SPDXRef-item938634
+FileChecksum: SHA1: 727e4598ba12afd2232d325a72bfe1dd2fd7507d
+FileChecksum: MD5: 2f0644918e05906de8ffa4031b79de33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man-getopt.c
+SPDXID: SPDXRef-item938635
+FileChecksum: SHA1: 2dd56d6b634ec9972560d7b547d2fb1be08b86da
+FileChecksum: MD5: 9cf93753d2285f9a07c603b3a1b4db5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man.conf.in
+SPDXID: SPDXRef-item938636
+FileChecksum: SHA1: 9407632e1fd65a93444d376c2729ffdd1e4985fb
+FileChecksum: MD5: cebe3a517e56b76dfab738e5f650d9fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/glob.c
+SPDXID: SPDXRef-item938637
+FileChecksum: SHA1: f65d82f01ef486c414b7dafa8a0654aac220c908
+FileChecksum: MD5: 2a82af4ebcf153d09e5f10648e587e49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-1.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man-config.h
+SPDXID: SPDXRef-item938638
+FileChecksum: SHA1: db332fc49392390f01747c234e2ff392e6923ca4
+FileChecksum: MD5: 5cf589461d0893b011a74ffcfa5ce597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/manfile.h
+SPDXID: SPDXRef-item938639
+FileChecksum: SHA1: 145f6ef852c247216bdea8b19f85113fe67f64e3
+FileChecksum: MD5: 50124d4fa46b1766e2e994e3beefcc23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/manpath.c
+SPDXID: SPDXRef-item938640
+FileChecksum: SHA1: 0853fe720495659c47633f2d0abd0e9aa58d5c5f
+FileChecksum: MD5: cdd4205673479a81e33713d9c0d06f84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/Makefile.in
+SPDXID: SPDXRef-item938641
+FileChecksum: SHA1: cefe736098487c6ae59a56b33480b341281e10c0
+FileChecksum: MD5: 3cfc71b89ab9b76bf887f938d4a39148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/glob.h
+SPDXID: SPDXRef-item938642
+FileChecksum: SHA1: e6514cc8a3f81416c708e57be1b192471c43797c
+FileChecksum: MD5: 6123976c0c310986f83e72b4986dda34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man2dvi
+SPDXID: SPDXRef-item938643
+FileChecksum: SHA1: b63785a7c6a31624ba2d869e3587c9fd7b8f5e50
+FileChecksum: MD5: d7ca2f37c4a50e6075d35d4c922ec7d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/to_cat.c
+SPDXID: SPDXRef-item938644
+FileChecksum: SHA1: 71be3bfb8dca7462ef7196dd4a32827b4d64d132
+FileChecksum: MD5: f12a3c0f45d0ea70c3ddefb3b13aaf08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/paths.h.in
+SPDXID: SPDXRef-item938645
+FileChecksum: SHA1: 251009b0c0df4c895573eba49eb8b845e9c971e1
+FileChecksum: MD5: 89f7f98a9b8ef7682950d883296dc87a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/mwi
+SPDXID: SPDXRef-item938646
+FileChecksum: SHA1: 9c68e7ff2498ddec64dcce0e6bb171d76c0ea7b7
+FileChecksum: MD5: f3b74fdb41aa59b48dee1f580f264b6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/to_cat.h
+SPDXID: SPDXRef-item938647
+FileChecksum: SHA1: 1a2e40e0f8756a1d5c6409df47dfe30e8dc0043e
+FileChecksum: MD5: c2006e2e4375e493d4ca5a20b90a0322
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/apropos.sh
+SPDXID: SPDXRef-item938648
+FileChecksum: SHA1: 8e67e970a95a05592ccb987cecb811d8df2da80a
+FileChecksum: MD5: d586641862e6dece335bbdc345116a23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man-config.c
+SPDXID: SPDXRef-item938649
+FileChecksum: SHA1: 60b5a5bb9d3fa707cdace780dcfc36cf5ba8f5ba
+FileChecksum: MD5: f41d03d0a79168c2580e489320619c6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/makewhatis.sh
+SPDXID: SPDXRef-item938650
+FileChecksum: SHA1: 313ef92a7acf1c5729caad702a153260961bbb52
+FileChecksum: MD5: 30f465850d328da1ea8ae62f7850d3ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/gripes.c
+SPDXID: SPDXRef-item938651
+FileChecksum: SHA1: 38330722bc58a97f41867cd04381851b310a1f3a
+FileChecksum: MD5: 4899a6175f0072fbc838f0a166571bb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man.c
+SPDXID: SPDXRef-item938652
+FileChecksum: SHA1: bfe41cd3a6f2df10814dc4ebd6d05dd62252d65b
+FileChecksum: MD5: 25bf6721021892035d15d5129dca786d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man.h
+SPDXID: SPDXRef-item938653
+FileChecksum: SHA1: 2d0c6699f116ff3703a9cde778872ef6a593be41
+FileChecksum: MD5: 985c10f602120dc2310baf5edbd645cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man-iconv.c
+SPDXID: SPDXRef-item938654
+FileChecksum: SHA1: 3380b065421ef56425873953efef6d7293a9145e
+FileChecksum: MD5: e8571e85b626460de0bcdfa00a9824b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/gripes.h
+SPDXID: SPDXRef-item938655
+FileChecksum: SHA1: b7a81e4395ec325232eb720d64798352979c7b65
+FileChecksum: MD5: c2c0bbce07e210cf74ea1ba76afbbef9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/util.c
+SPDXID: SPDXRef-item938656
+FileChecksum: SHA1: c3334c440ae3b56e39c6961e9659a233c47babfc
+FileChecksum: MD5: 668d90ccd5cf69463593d6c87a87fdce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/manfile.c
+SPDXID: SPDXRef-item938657
+FileChecksum: SHA1: 2fa2de2550e070c12bf0ed064bf1ca28449f5c78
+FileChecksum: MD5: ec12b8439815e063f9d4bc1769204235
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/util.h
+SPDXID: SPDXRef-item938658
+FileChecksum: SHA1: 80b57ff00db727a13399ac08cee2395eaf8f37ad
+FileChecksum: MD5: a3c40d6a7eff42a60deca7fa73cfae50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/man-iconv.h
+SPDXID: SPDXRef-item938659
+FileChecksum: SHA1: d6ccb46a4ea313a9c48049fcef6b295d4c8bfaf6
+FileChecksum: MD5: 9372aebdae09c0d25e7a0ef8afaa8fe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/defs.h
+SPDXID: SPDXRef-item938660
+FileChecksum: SHA1: 41ad12b5e8bfb9a0009a36ba02b3715ad36b689c
+FileChecksum: MD5: ac9ac1cf865297f5af3f283d4f6028c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/different.h
+SPDXID: SPDXRef-item938661
+FileChecksum: SHA1: 95ae5086f8818c9f77fd29df8b1cfa0a6e55b145
+FileChecksum: MD5: 0687e3c8a863b52c0f45bebdbc53c1c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/different.c
+SPDXID: SPDXRef-item938662
+FileChecksum: SHA1: 045150fffef390fbff493d409f034a14c312c9a4
+FileChecksum: MD5: f86b6fca42cd633b6fc17df1471cbf65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/ndir.h
+SPDXID: SPDXRef-item938663
+FileChecksum: SHA1: fc0a7440ad81a510d17ad94ea95ebe5090292aa9
+FileChecksum: MD5: e1a92f47ba436d2b88d46a967c1d19dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/src/join.c
+SPDXID: SPDXRef-item938664
+FileChecksum: SHA1: 80173f2afed65722abf1512ff5658a8dd95ab1bc
+FileChecksum: MD5: d720fb134f5ca9d65d4afe191ee81487
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/TODO
+SPDXID: SPDXRef-item938665
+FileChecksum: SHA1: ad9e0a246f4bff906556010c162b7e03526cf40b
+FileChecksum: MD5: c46ba47d585091f807ca11646beced90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/README.IRIX
+SPDXID: SPDXRef-item938666
+FileChecksum: SHA1: e4bfec9434531a67d08e36745dfb2a4df6e81e2f
+FileChecksum: MD5: ebc47044f02958afa2161fc9d9f4cc60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/DOAP.rdf.xml
+SPDXID: SPDXRef-item938667
+FileChecksum: SHA1: 6f38a684885a88c74c8e814f8f2c2b56c277a517
+FileChecksum: MD5: 8a542b84409e6487f2be87ee55015401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/gencat/Makefile
+SPDXID: SPDXRef-item938669
+FileChecksum: SHA1: 9ea72c5c1030065ca4458803758c40bf4de0fc7b
+FileChecksum: MD5: dc90ad84e4d0ebf1fea3d0edcb6a7257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/gencat/msgcat.h
+SPDXID: SPDXRef-item938670
+FileChecksum: SHA1: 3502a4f24dfaae219ed31845c358c0e1ebd5c5a0
+FileChecksum: MD5: 97774949828d91e7529ff735a71624f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/gencat/genlib.c
+SPDXID: SPDXRef-item938671
+FileChecksum: SHA1: 322ce98704125a93c597f928ce91727df4b2e1e5
+FileChecksum: MD5: f0cf616450c7e0f3e0654edabf210330
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/gencat/gencat.c
+SPDXID: SPDXRef-item938672
+FileChecksum: SHA1: 260601ef1747da349c08589450811e257e779ea1
+FileChecksum: MD5: 1abd794fd9027c6c0dfc6ff3ecd3b5f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/gencat/gencat.h
+SPDXID: SPDXRef-item938673
+FileChecksum: SHA1: ece7aae6f5673abb5b3ed4b78f4e61bfc31c8d11
+FileChecksum: MD5: 3bb7ffcc4c585af173d5c1df02763baa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/SPDX.rdf.xml
+SPDXID: SPDXRef-item938674
+FileChecksum: SHA1: 51b18d8d39943979092b8843e42db65c9fbcc52b
+FileChecksum: MD5: 6a1f99b1df34674be9681f8c7d4e0750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/README
+SPDXID: SPDXRef-item938675
+FileChecksum: SHA1: 8d3a4357ec808b7025c5a3ba82035e399cfc7b10
+FileChecksum: MD5: 57aefb19ad2469ba5e6450e98844b255
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/applied-patches
+SPDXID: SPDXRef-item938677
+FileChecksum: SHA1: b941e61ec5695438ed111739b1b2a621aa1cdb4d
+FileChecksum: MD5: 0209481219fdc749afc782fb8738cea6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/.quilt_series
+SPDXID: SPDXRef-item938678
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/.version
+SPDXID: SPDXRef-item938679
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-new_sections.patch/configure
+SPDXID: SPDXRef-item938681
+FileChecksum: SHA1: c93a4a4adc4de17f95879a1d18c4bddaf0491017
+FileChecksum: MD5: d788f82fdc9abce262ed2e43a9c41eba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-new_sections.patch/.timestamp
+SPDXID: SPDXRef-item938682
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-ro_usr.patch/src/makewhatis.sh
+SPDXID: SPDXRef-item938685
+FileChecksum: SHA1: 742cb363aa68aaa12ba600eab0a10f109d2decd3
+FileChecksum: MD5: 3d1b067c9446fa1e1936a2421aa8199b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-ro_usr.patch/.timestamp
+SPDXID: SPDXRef-item938686
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-compile-warnings.patch/man/Makefile.in
+SPDXID: SPDXRef-item938689
+FileChecksum: SHA1: f7b6ce9c97ec7fca7e449bfaef5cb469772ba5f3
+FileChecksum: MD5: 9a397e8b7e89e78e7e75673a6564e36b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-compile-warnings.patch/src/gripes.c
+SPDXID: SPDXRef-item938691
+FileChecksum: SHA1: 02ff39acb926d3f9a6e16021957f2913e55da542
+FileChecksum: MD5: 5f39592dd984bc58d5aab87b8aa1a6dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-compile-warnings.patch/src/manfile.c
+SPDXID: SPDXRef-item938692
+FileChecksum: SHA1: d8ed01c73da696d8761665627e234f45ff2d5f42
+FileChecksum: MD5: ff332403d72ade86c37824c968bceabf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-compile-warnings.patch/.timestamp
+SPDXID: SPDXRef-item938693
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-security.patch/src/makewhatis.sh
+SPDXID: SPDXRef-item938696
+FileChecksum: SHA1: f2b8894c5f456b21f455fd9f0c83d8fd9a783da8
+FileChecksum: MD5: c2d62344e800f4b174ae6b5887fe0944
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-security.patch/src/man.c
+SPDXID: SPDXRef-item938697
+FileChecksum: SHA1: 1c566406b8c7adfb810f82a9d187725ef59f0f24
+FileChecksum: MD5: 3329cdb48312834dc150cc9266730fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-security.patch/.timestamp
+SPDXID: SPDXRef-item938698
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5g-nonrootbuild.patch/configure
+SPDXID: SPDXRef-item938700
+FileChecksum: SHA1: 6d5e880246f1ee30c4ad5b3843578881e6fd72e1
+FileChecksum: MD5: 520adc2d77df890b595115d69ba1fb34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5g-nonrootbuild.patch/.timestamp
+SPDXID: SPDXRef-item938701
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/configure_sed.patch/configure
+SPDXID: SPDXRef-item938703
+FileChecksum: SHA1: 8f220715693d58f50a310d108cde19b79f1d83b0
+FileChecksum: MD5: a93fd8a3cdf7b5e8bd10eff91a28c699
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/configure_sed.patch/.timestamp
+SPDXID: SPDXRef-item938704
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-mandirs.patch/src/man.conf.in
+SPDXID: SPDXRef-item938707
+FileChecksum: SHA1: 7872272512e7819e32b6aed8f0d6f9ce4e6138d5
+FileChecksum: MD5: 6eb87d9200303239848f0a9826b91b2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-mandirs.patch/.timestamp
+SPDXID: SPDXRef-item938708
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5i2-newline.patch/src/man.c
+SPDXID: SPDXRef-item938711
+FileChecksum: SHA1: 7a76437fdc0ae2aea8763a8d2b4bee6b05e56126
+FileChecksum: MD5: d9d84fcfb1aa8b31a4a7d507e555b4e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5i2-newline.patch/.timestamp
+SPDXID: SPDXRef-item938712
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5m2-buildroot.patch/configure
+SPDXID: SPDXRef-item938714
+FileChecksum: SHA1: 49e0623b432f71f3368c95329b8508703a74b27b
+FileChecksum: MD5: 82329a0ea18d364f6eb4d28e9d68969b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5m2-buildroot.patch/.timestamp
+SPDXID: SPDXRef-item938715
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5m2-bug11621.patch/configure
+SPDXID: SPDXRef-item938717
+FileChecksum: SHA1: 3654336ba063f5f52bbca98a00244cb430c976cc
+FileChecksum: MD5: 3417955ef1026baa78b946c6006f0912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5m2-bug11621.patch/.timestamp
+SPDXID: SPDXRef-item938718
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5k-confpath.patch/configure
+SPDXID: SPDXRef-item938720
+FileChecksum: SHA1: 9dbc11b3c8e6a077d0a6d3accdefda2450658d74
+FileChecksum: MD5: 1de04f766d761e92ccbb88ff5aed23e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5k-confpath.patch/.timestamp
+SPDXID: SPDXRef-item938721
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-parallel.patch/src/Makefile.in
+SPDXID: SPDXRef-item938724
+FileChecksum: SHA1: cb1da264d870a98157ba846fcf497ea74306aec8
+FileChecksum: MD5: c5ae1707f987d165885992c7aa1eba46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-parallel.patch/.timestamp
+SPDXID: SPDXRef-item938725
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/.quilt_patches
+SPDXID: SPDXRef-item938726
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-whatis3.patch/src/makewhatis.sh
+SPDXID: SPDXRef-item938729
+FileChecksum: SHA1: 11652683980eaac57640cf5d125ba19efd2a842f
+FileChecksum: MD5: a29c1b73264a2ab0a13b93125de36394
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-whatis3.patch/.timestamp
+SPDXID: SPDXRef-item938730
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5j-i18n.patch/msgs/inst.sh
+SPDXID: SPDXRef-item938733
+FileChecksum: SHA1: 57483ec65493318aef4f653529d721d7fc7b5a7e
+FileChecksum: MD5: 3a0f5468d38edaa72faf0b49bcd9a33e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5j-i18n.patch/.timestamp
+SPDXID: SPDXRef-item938734
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5i2-initial.patch/src/makewhatis.sh
+SPDXID: SPDXRef-item938737
+FileChecksum: SHA1: 9a43d9de2867b7883b3cc1365595c960de8ff6cc
+FileChecksum: MD5: 3e9cbdab8e00c01449434b4d61ef2a10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5i2-initial.patch/.timestamp
+SPDXID: SPDXRef-item938738
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5h1-make.patch/man/Makefile.in
+SPDXID: SPDXRef-item938741
+FileChecksum: SHA1: 0a59b4ba860043fe816fde5732c872a979f698fd
+FileChecksum: MD5: 2c12b5c4b7adae4af8e5424216611aeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5h1-make.patch/.timestamp
+SPDXID: SPDXRef-item938742
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5j-utf8.patch/configure
+SPDXID: SPDXRef-item938744
+FileChecksum: SHA1: d0435c04bcc9432e7f8c3a73512548767b10aedb
+FileChecksum: MD5: bf89b74b0afe841fe7ef60c5225942c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5j-utf8.patch/.timestamp
+SPDXID: SPDXRef-item938745
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5m2-no-color-for-printing.patch/configure
+SPDXID: SPDXRef-item938747
+FileChecksum: SHA1: da1ba5c054d25312bc61c7c7ffbb4ea1089a3b32
+FileChecksum: MD5: 22cdaa00b282c9d20905aa89d04725a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5m2-no-color-for-printing.patch/.timestamp
+SPDXID: SPDXRef-item938748
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5k-nonascii.patch/src/apropos.sh
+SPDXID: SPDXRef-item938751
+FileChecksum: SHA1: 4297ad129096c857406231d0d8ebc6e85f57c7bf
+FileChecksum: MD5: 226cff9c11da1a2f57c34fce3e1ef924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5k-nonascii.patch/.timestamp
+SPDXID: SPDXRef-item938752
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5i2-overflow.patch/src/man.c
+SPDXID: SPDXRef-item938755
+FileChecksum: SHA1: 4ac5adbd5b3ec2a96133c59d1406c2a5b693caed
+FileChecksum: MD5: 397ba21472fa1ef6fc43a399f1964473
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5i2-overflow.patch/.timestamp
+SPDXID: SPDXRef-item938756
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5h1-gencat.patch/gencat/genlib.c
+SPDXID: SPDXRef-item938759
+FileChecksum: SHA1: e107984a393e84f8090d64188f0b577fbd8f4aaa
+FileChecksum: MD5: cdd13cd77add0512dad6cb82c719283f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5h1-gencat.patch/.timestamp
+SPDXID: SPDXRef-item938760
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5k-sofix.patch/src/man.c
+SPDXID: SPDXRef-item938763
+FileChecksum: SHA1: 1fdf2bdd92dd1d65a356a2960bcff3e5e8e08ece
+FileChecksum: MD5: ef2b914461bdc45628b923d171e3f588
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5k-sofix.patch/.timestamp
+SPDXID: SPDXRef-item938764
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-i18n_whatis.patch/src/apropos.sh
+SPDXID: SPDXRef-item938767
+FileChecksum: SHA1: 5a2b729452e5e1f21e5becde3d99545365a00ff8
+FileChecksum: MD5: b3d3c98c0c654e4944571bc5d3edb040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-i18n_whatis.patch/src/makewhatis.sh
+SPDXID: SPDXRef-item938768
+FileChecksum: SHA1: 1a8b7c63b0738d26a1b69079ef2ea6c4903d3ee9
+FileChecksum: MD5: 6c48ca713057c0229c7555ae86a4b567
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-i18n_whatis.patch/.timestamp
+SPDXID: SPDXRef-item938769
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5m2-sigpipe.patch/src/util.c
+SPDXID: SPDXRef-item938772
+FileChecksum: SHA1: 53a910f84b4b18df1eae7d8872eaffed438eacb9
+FileChecksum: MD5: 2c747426d3e77b5f0d142802dc4a059c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5m2-sigpipe.patch/.timestamp
+SPDXID: SPDXRef-item938773
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-configure.patch/configure
+SPDXID: SPDXRef-item938775
+FileChecksum: SHA1: 0b9a3cbbbd8ddbb84e79385b09158727f3725eca
+FileChecksum: MD5: bf65002f3ba0bb0682287e88f33bb9aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6g-configure.patch/.timestamp
+SPDXID: SPDXRef-item938776
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-whatis2.patch/src/makewhatis.sh
+SPDXID: SPDXRef-item938779
+FileChecksum: SHA1: 6249dd6b6f35691d0c4f7f2d45f599cd4dd0a493
+FileChecksum: MD5: 4755b4bc784fdd417d39de43570e5223
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-whatis2.patch/.timestamp
+SPDXID: SPDXRef-item938780
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-use_i18n_vars_in_a_std_way.patch/catopen/catopen.c
+SPDXID: SPDXRef-item938783
+FileChecksum: SHA1: 7babc618453a67fa37e16323249cff27c15b4585
+FileChecksum: MD5: 47f6dd6d17ae179fa3deb0768c7507fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-use_i18n_vars_in_a_std_way.patch/src/manpath.c
+SPDXID: SPDXRef-item938785
+FileChecksum: SHA1: aaa61b19639ad5ab6274712cebedad8825d2984b
+FileChecksum: MD5: 4de1f3e50aa3ae2af76f114ef558842d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.6e-use_i18n_vars_in_a_std_way.patch/.timestamp
+SPDXID: SPDXRef-item938786
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5j-nocache.patch/src/man.conf.in
+SPDXID: SPDXRef-item938789
+FileChecksum: SHA1: 5fa3bd64815f81134629b760c2af601adb53620e
+FileChecksum: MD5: 88881947b22217a90a50fe55a8956d3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/.pc/man-1.5j-nocache.patch/.timestamp
+SPDXID: SPDXRef-item938790
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/LSM
+SPDXID: SPDXRef-item938791
+FileChecksum: SHA1: 7529efc05bde479faadef36cde9583875c2c16fd
+FileChecksum: MD5: b9a7386ddec2cf97ff648a7bfdbfff5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/misc/locales/it/manlint.1
+SPDXID: SPDXRef-item938795
+FileChecksum: SHA1: d235560022e26311d57da52f4ce153e20443f77a
+FileChecksum: MD5: e99745d26c44086a22674963be1693c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GNU-Manpages
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/misc/README
+SPDXID: SPDXRef-item938796
+FileChecksum: SHA1: 97dd0616e175c56c95ca48f5e6a71d8b992ec999
+FileChecksum: MD5: 589650d81e06e92d18bb2237db1a5ad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/misc/manlint
+SPDXID: SPDXRef-item938797
+FileChecksum: SHA1: 1d52de9856f11ace90430f9a5ff1af813e976ae4
+FileChecksum: MD5: fb66a3bfac1796c827448ca21a8c8b45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/misc/man-preformat.c
+SPDXID: SPDXRef-item938798
+FileChecksum: SHA1: d33bbe9c649832219762fa3d739b556237d03916
+FileChecksum: MD5: 3d09434d5a817025de028cd1e5ebb38c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/misc/manlint.1
+SPDXID: SPDXRef-item938799
+FileChecksum: SHA1: 66d38b2169e1656c4aab322bd7dc34d74eef9aee
+FileChecksum: MD5: aeb75a378517dd3c6d1663710e9a9cca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GNU-Manpages
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/INSTALL
+SPDXID: SPDXRef-item938800
+FileChecksum: SHA1: 475b1421b6824b0b5e651159e08494034f6597fd
+FileChecksum: MD5: a593383db5d1e7ff277ed6d4aa20d86c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g/patches/series
+SPDXID: SPDXRef-item938818
+FileChecksum: SHA1: 33f5ea488eb1fbeb38ccf036e0b1a89cf1c57fcd
+FileChecksum: MD5: 7515d6a76e1220cfc0e72cf4a96e5d49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5k-nonascii.patch
+SPDXID: SPDXRef-item938831
+FileChecksum: SHA1: 603bb9666f9f5aedce64c551747b36c0318cb796
+FileChecksum: MD5: c720a1b28c9475a2d82f9b9c1fc61c93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5i2-overflow.patch
+SPDXID: SPDXRef-item938832
+FileChecksum: SHA1: 09f66eb0df785868c1c586c28b63cf2416beb877
+FileChecksum: MD5: 569fa8fcaea601c2dedd2b3a8de425ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5h1-gencat.patch
+SPDXID: SPDXRef-item938833
+FileChecksum: SHA1: 918b1a9a333ba591287f608b6472cc8fb14c6ac2
+FileChecksum: MD5: 736545366070cc9d0a966dc9de31b504
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5k-sofix.patch
+SPDXID: SPDXRef-item938834
+FileChecksum: SHA1: 04ada40598ef267af77f7c67972e6d76a5f44007
+FileChecksum: MD5: 57f4622792b520f98dd21f12f2b7f8cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6e-i18n_whatis.patch
+SPDXID: SPDXRef-item938835
+FileChecksum: SHA1: a7b35c4797a0c0744e1463cffa31253ed54f719a
+FileChecksum: MD5: a80e518cb844242db961e70cc5475c74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5m2-sigpipe.patch
+SPDXID: SPDXRef-item938836
+FileChecksum: SHA1: 1d11707cf61923dea1ead0c8fe67952d093a6b13
+FileChecksum: MD5: 09968ed6dd3aa00239d93785a39bd577
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6g-configure.patch
+SPDXID: SPDXRef-item938837
+FileChecksum: SHA1: 56e57f1aad1bfb59b938343a5fd4af28427a983f
+FileChecksum: MD5: 8a91cdc15aa626702f0498b835d7c778
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6e-whatis2.patch
+SPDXID: SPDXRef-item938838
+FileChecksum: SHA1: 3aedd9d5ba795436dc1b19efa9c160f9eabda36c
+FileChecksum: MD5: 5e8f3f70d36fbf8815ce5eb9a086d133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.6e-use_i18n_vars_in_a_std_way.patch
+SPDXID: SPDXRef-item938839
+FileChecksum: SHA1: 15e09565050479dbb2ed2b1b91e0f9c2cf360826
+FileChecksum: MD5: 22599022ff378e8566e3a6907fd99807
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/man-1.5j-nocache.patch
+SPDXID: SPDXRef-item938840
+FileChecksum: SHA1: 4c47762c516d04692ec53fe228bddfb49f562851
+FileChecksum: MD5: 2d271f3ec023bca497c85a3d73f7eef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Non-commercial
+LicenseName: Non-commercial
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-MIT-CMU-style
+LicenseName: MIT-CMU-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GNU-Manpages
+LicenseName: GNU-Manpages
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+

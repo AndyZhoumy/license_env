@@ -1,0 +1,637 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_wayland-protocols-1.10-r0-patched.tar.gz_1571460592.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:49:52Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: wayland-protocols
+PackageVersion: 1.10
+PackageFileName: wayland-protocols-1.10-r0-patched.tar.gz
+SPDXID: SPDXRef-upload440
+PackageDownloadLocation: https://wayland.freedesktop.org/releases/wayland-protocols-1.10.tar.xz
+PackageHomePage: http://wayland.freedesktop.org
+PackageSummary: <text>Collection of additional Wayland protocols</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>wayland-protocols version 1.10</text>
+PackageChecksum: SHA1: 7a6193f5d22269d29669ce4cd4baa688c67170ef
+PackageChecksum: MD5: 00bc6b5bde237c74f1c8fbf7b5f75d3b
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload440
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/compile
+SPDXID: SPDXRef-item1107893
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/install-sh
+SPDXID: SPDXRef-item1107894
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/aclocal.m4
+SPDXID: SPDXRef-item1107895
+FileChecksum: SHA1: dfe62ec4c2324d42437fb407999a71ed398f41f5
+FileChecksum: MD5: bc2e56ade3f89828a835e944a4738d3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/wayland-protocols-uninstalled.pc.in
+SPDXID: SPDXRef-item1107896
+FileChecksum: SHA1: 4142160399fafdb8a2eb74cd146d37d460f905a3
+FileChecksum: MD5: a3bea291df6ef871b9ffdcb52f7dc042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/Makefile.in
+SPDXID: SPDXRef-item1107897
+FileChecksum: SHA1: e8420afdc3993f70e203983a68c678fcecfbdd69
+FileChecksum: MD5: e6f88d4c7552563ff58ed0c460e0a674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/COPYING
+SPDXID: SPDXRef-item1107898
+FileChecksum: SHA1: 9d823228bce4c6977989fdd7b58026cd62fc55e0
+FileChecksum: MD5: c7b12b6702da38ca028ace54aae3d484
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/configure
+SPDXID: SPDXRef-item1107899
+FileChecksum: SHA1: 71000d41040a34110bc382413152b2bc8d78e2b1
+FileChecksum: MD5: 8fb0f13ffc76e7133a4980c20bc9dd3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/Makefile.am
+SPDXID: SPDXRef-item1107900
+FileChecksum: SHA1: 48f8bce56778d071080b4e97500bcbeb91b429bf
+FileChecksum: MD5: 9ec0ecbe643b5f1223f33fd663f3592e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/config.sub
+SPDXID: SPDXRef-item1107901
+FileChecksum: SHA1: c15705cb56948877efbe9558541fbb4940e62155
+FileChecksum: MD5: 8c238eb18a69e902d34b48a1a3702c02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/pointer-gestures/README
+SPDXID: SPDXRef-item1107904
+FileChecksum: SHA1: d14e9a55cbf14c1502f81051ddd084babe09ac8a
+FileChecksum: MD5: e23385d64bdb6de38682b05f1860d69c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/pointer-gestures/pointer-gestures-unstable-v1.xml
+SPDXID: SPDXRef-item1107905
+FileChecksum: SHA1: 43fdc98cd4230fc0e3e52d4acbf71e2f1683ef6a
+FileChecksum: MD5: 3bce6842b22e6b8c5611e190542cefec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/input-method/input-method-unstable-v1.xml
+SPDXID: SPDXRef-item1107907
+FileChecksum: SHA1: bb8dab3e9925e3b64da096666b3a0b6960b65686
+FileChecksum: MD5: 798520691eee06da8858d2781750c218
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/input-method/README
+SPDXID: SPDXRef-item1107908
+FileChecksum: SHA1: 8c1620d60afd6e0b12f207f1bf419b1755f803d3
+FileChecksum: MD5: ef938cbb7c77ae5f32cf88016afba2ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/pointer-constraints/pointer-constraints-unstable-v1.xml
+SPDXID: SPDXRef-item1107910
+FileChecksum: SHA1: 68075bfd77d3e40e341449d6db5feb9cb92edb24
+FileChecksum: MD5: e032e0804fd062c4097f8648ab6a6fb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/pointer-constraints/README
+SPDXID: SPDXRef-item1107911
+FileChecksum: SHA1: 453c3935a3ba0888761b34e0d1c76c7360a10d23
+FileChecksum: MD5: eadd54afff533037563b43f59e288e25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xdg-foreign/xdg-foreign-unstable-v1.xml
+SPDXID: SPDXRef-item1107913
+FileChecksum: SHA1: f338b37f14574a5ba83482e80e1ad16510f18cda
+FileChecksum: MD5: 8be45ed8c95fc4ff13227c125a33b962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xdg-foreign/README
+SPDXID: SPDXRef-item1107914
+FileChecksum: SHA1: c43a8a14361ca8ce8cab7af31d20b21688e0c6c6
+FileChecksum: MD5: 53b71558047b13509a9eb12fd127cf5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/text-input/text-input-unstable-v1.xml
+SPDXID: SPDXRef-item1107916
+FileChecksum: SHA1: df2515320c9ee8bfc1f6777b669ee6fa0eb90842
+FileChecksum: MD5: 816cadb0038487027b27b6d98e291cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/text-input/README
+SPDXID: SPDXRef-item1107917
+FileChecksum: SHA1: 190683c6715f026c5ed94b9e22882c51d3f336a5
+FileChecksum: MD5: 04963e4c70d993bd9c3ab05b57c4c7f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xdg-shell/xdg-shell-unstable-v5.xml
+SPDXID: SPDXRef-item1107919
+FileChecksum: SHA1: 46ffbb21e4dc4d5da7a99bd86441e30b7533f5c5
+FileChecksum: MD5: 4d7965ed53d04552b83f6ccfa85bf58e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xdg-shell/xdg-shell-unstable-v6.xml
+SPDXID: SPDXRef-item1107920
+FileChecksum: SHA1: f082f918ac81663aaed9df7464a06a0605737154
+FileChecksum: MD5: 7e6954a42cc5195c65229c0ce7e82b57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xdg-shell/README
+SPDXID: SPDXRef-item1107921
+FileChecksum: SHA1: 0bc9bef9ac37ce021b238d545f0dcda96c124255
+FileChecksum: MD5: df71735d93fd69b2f9c31bdda11bd94e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xwayland-keyboard-grab/xwayland-keyboard-grab-unstable-v1.xml
+SPDXID: SPDXRef-item1107923
+FileChecksum: SHA1: 916bf80c89fefc8e73c999fea966ee6ca85aa601
+FileChecksum: MD5: 365b0112de41f3d0f74801f2c63e02af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xwayland-keyboard-grab/README
+SPDXID: SPDXRef-item1107924
+FileChecksum: SHA1: 9b15138fef678d5ea381e2e8117591c2597d9f6c
+FileChecksum: MD5: ab34f08e4bf5cfbd8bd18ef6cc5ec7bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/relative-pointer/README
+SPDXID: SPDXRef-item1107926
+FileChecksum: SHA1: b3e1425ecf4346ea0b4dad4fe779ecc2dee713da
+FileChecksum: MD5: aad5f6337b2a5d7ca6e355e14b902aa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/relative-pointer/relative-pointer-unstable-v1.xml
+SPDXID: SPDXRef-item1107927
+FileChecksum: SHA1: b7198a53812be99c2d74049b28a0e8537f9be8fa
+FileChecksum: MD5: 80f9f22fec8c17ab5b6b31cb93737407
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/idle-inhibit/idle-inhibit-unstable-v1.xml
+SPDXID: SPDXRef-item1107929
+FileChecksum: SHA1: 723f08793a6cbcfff1ba87276e802019f77fd2fe
+FileChecksum: MD5: d060e6d8de8dd34a0de1b2f3ec77393e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/idle-inhibit/README
+SPDXID: SPDXRef-item1107930
+FileChecksum: SHA1: 4cf48d83500f3de05e12019d9eece2e2cb2387a7
+FileChecksum: MD5: 4f7adfc28cfe1633b48a5f5581b2b003
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/keyboard-shortcuts-inhibit/README
+SPDXID: SPDXRef-item1107932
+FileChecksum: SHA1: 4d398f8fa9f9f1961f6b743e21e19b518417eca4
+FileChecksum: MD5: 42a9b3d99cf8d1444ed30fc011931e26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/keyboard-shortcuts-inhibit/keyboard-shortcuts-inhibit-unstable-v1.xml
+SPDXID: SPDXRef-item1107933
+FileChecksum: SHA1: 15b741d695a8528b25df59bceddba458b257b7f5
+FileChecksum: MD5: 8581caaf5f73f20b582577761eba395a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/linux-dmabuf/linux-dmabuf-unstable-v1.xml
+SPDXID: SPDXRef-item1107935
+FileChecksum: SHA1: f8f997c8ff80ceeb505183928b4c27d51ba257c6
+FileChecksum: MD5: 8ad9297190078c54aa515b6dfbbc280f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/linux-dmabuf/README
+SPDXID: SPDXRef-item1107936
+FileChecksum: SHA1: ca201244e72472dac80c55322a95e26d2f5869d4
+FileChecksum: MD5: 5b717922d5a45f7fd8b662e15a23cdbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/tablet/tablet-unstable-v2.xml
+SPDXID: SPDXRef-item1107938
+FileChecksum: SHA1: afd5f61f84972589de6ac0a1af9140902120bceb
+FileChecksum: MD5: 8197ee04c576b4751fdcd2194ead3164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/tablet/README
+SPDXID: SPDXRef-item1107939
+FileChecksum: SHA1: b9a8f438f56b0d6e9a280916c4b7cc57647f7185
+FileChecksum: MD5: 2a3b4b2c548e79c7fdfd0ba99d1d3db4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/tablet/tablet-unstable-v1.xml
+SPDXID: SPDXRef-item1107940
+FileChecksum: SHA1: 97088d4999024b535c5e8ccaf685a9ec536659c3
+FileChecksum: MD5: 610452c74fdd65740f58460a9374f013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/fullscreen-shell/fullscreen-shell-unstable-v1.xml
+SPDXID: SPDXRef-item1107942
+FileChecksum: SHA1: 9f4d22212d5be2eaac8bb197ac704b5f68960d72
+FileChecksum: MD5: 8c410d29b0b9c195179597349b64a809
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/fullscreen-shell/README
+SPDXID: SPDXRef-item1107943
+FileChecksum: SHA1: b35b86cf01f65502f6e1ba1e4d1fe12cfa0e830b
+FileChecksum: MD5: fbe82ac51dd085b9021c15edba5877c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xdg-output/xdg-output-unstable-v1.xml
+SPDXID: SPDXRef-item1107945
+FileChecksum: SHA1: 81d3ebaedce94f55398570a226c4868b61d784b4
+FileChecksum: MD5: 692293c674cbea6277a76af4115fe943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/unstable/xdg-output/README
+SPDXID: SPDXRef-item1107946
+FileChecksum: SHA1: d09862d9c3dbafaeb609c7b292263f380eb4065b
+FileChecksum: MD5: a8ac412fd33ad17c4f0a99c0caae7ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/tests/scan.sh
+SPDXID: SPDXRef-item1107948
+FileChecksum: SHA1: cebd923d1d0ae0997b5367caa6bdc65eaa423719
+FileChecksum: MD5: b038465a9594f4630b310341ecacdc04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/missing
+SPDXID: SPDXRef-item1107949
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/README
+SPDXID: SPDXRef-item1107950
+FileChecksum: SHA1: b72105f783a107effd75eff128b82034f2e195c4
+FileChecksum: MD5: 77855f168324ad1478f7bb7688c5cdc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/stable/viewporter/viewporter.xml
+SPDXID: SPDXRef-item1107953
+FileChecksum: SHA1: eeba6f95c692bcfa0c45abbdfecba2870d2a2b83
+FileChecksum: MD5: 1d5f412f3354cc6f069fa8ad84eaff60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/stable/viewporter/README
+SPDXID: SPDXRef-item1107954
+FileChecksum: SHA1: 7ee7001260b01d570a36e8b99a8472f635cb57f8
+FileChecksum: MD5: 53247edb05cce8c1a1228ec10317b068
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/stable/presentation-time/presentation-time.xml
+SPDXID: SPDXRef-item1107956
+FileChecksum: SHA1: bf1bcc1458740c6f72e6b39bc74400f0b4a6bedf
+FileChecksum: MD5: dfd685d144d42d2bcb34ca57d80224e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/stable/presentation-time/README
+SPDXID: SPDXRef-item1107957
+FileChecksum: SHA1: 3a0f1610e0f02e7f0edc2b21bd7637a466d59798
+FileChecksum: MD5: 58006a7371382dc77ded68defa129178
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/configure.ac
+SPDXID: SPDXRef-item1107958
+FileChecksum: SHA1: 54e0869d2227f5d9ee0c37ffe3e5f5d16229ec08
+FileChecksum: MD5: 041d8fa77ab2609a91c723d86b5c7a95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/wayland-protocols.pc.in
+SPDXID: SPDXRef-item1107959
+FileChecksum: SHA1: 48256804390fb242e4ed5c2a80f90eff48fda329
+FileChecksum: MD5: c1c9e5a18bb74a2ee81c34192e327c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/test-driver
+SPDXID: SPDXRef-item1107960
+FileChecksum: SHA1: ebabeb373c5af3b8606b510a2494955e34325d8a
+FileChecksum: MD5: 7ce923f582b49637d13847c49fff9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/wayland-protocols-1.10/config.guess
+SPDXID: SPDXRef-item1107961
+FileChecksum: SHA1: c6204f8ddf6852969b956c464199b71d7dfe4b7e
+FileChecksum: MD5: e6658e52c79b2c368296c883d90979b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

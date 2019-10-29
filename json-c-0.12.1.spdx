@@ -1,0 +1,2507 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_json-c-0.12.1-r0-patched.tar.gz_1571460539.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:49:00Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: json-c
+PackageVersion: 0.12.1
+PackageFileName: json-c-0.12.1-r0-patched.tar.gz
+SPDXID: SPDXRef-upload435
+PackageDownloadLocation: https://s3.amazonaws.com/json-c_releases/releases/json-c-0.12.1.tar.gz
+PackageHomePage: https://github.com/json-c/json-c/wiki
+PackageSummary: <text>C bindings for apps which will manipulate JSON data</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>json-c version 0.12.1</text>
+PackageChecksum: SHA1: 552d85f1386be6fe96fbbd9f5478dfd75b881c77
+PackageChecksum: MD5: 6edd4b5812ff2c11f4a1924782634e11
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload435
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-Add-FALLTHRU-comment-to-handle-GCC7-warnings.patch
+SPDXID: SPDXRef-item1105176
+FileChecksum: SHA1: 749e74ded1076b580c5a064bf454b5454aa6c572
+FileChecksum: MD5: f9ec131f103dbc1a7021f91b3ae90fc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_object_private.h
+SPDXID: SPDXRef-item1105178
+FileChecksum: SHA1: ccf50d0a8e30755e366c55b534afa119b5e9d00f
+FileChecksum: MD5: cb1fe721570aeb3a2a2972af91c02833
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/NEWS
+SPDXID: SPDXRef-item1105179
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/linkhash.c
+SPDXID: SPDXRef-item1105180
+FileChecksum: SHA1: 6cc271780e93643cfdc84b6039bc6069249cfd81
+FileChecksum: MD5: 6b35d54ff550590f3584116f73049ec3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/compile
+SPDXID: SPDXRef-item1105181
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/install-sh
+SPDXID: SPDXRef-item1105182
+FileChecksum: SHA1: 0c2b7145fde960a8f3b8e988a7489f61a1766703
+FileChecksum: MD5: 5240c7debae5773b21788bad8c044ae6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: NTP
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/RELEASE_CHECKLIST.txt
+SPDXID: SPDXRef-item1105183
+FileChecksum: SHA1: 6d7bcb7d6dc7d0ca1fffa6b41a0c9570c7f2b223
+FileChecksum: MD5: dde338fe6584ea1d9f4f5e43cdd4fecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_config.h.in
+SPDXID: SPDXRef-item1105184
+FileChecksum: SHA1: e61d781811fe7017e17a44fa05ec653fca9c8d98
+FileChecksum: MD5: a7c04f073e8713cab6a2a206e6e74fae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_util.c
+SPDXID: SPDXRef-item1105185
+FileChecksum: SHA1: 4164cd8403adb1b146229b330ae6a9d80ed198dc
+FileChecksum: MD5: aa3f5703ce73a295d03cc652e2edf91c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/aclocal.m4
+SPDXID: SPDXRef-item1105186
+FileChecksum: SHA1: 17c4f4782fb05553a191c7834f243d9ea0a31692
+FileChecksum: MD5: 25acc81781b69d51cd6817896f526458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_c_version.c
+SPDXID: SPDXRef-item1105187
+FileChecksum: SHA1: 0975039e0afce3fbef1eeca64ac425a7be77e2a7
+FileChecksum: MD5: ceccce64b1f5ef0b89f1227ca5856a56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/README-WIN32.html
+SPDXID: SPDXRef-item1105188
+FileChecksum: SHA1: ff0d7199e28bfa62438b153d9adea579bd14e305
+FileChecksum: MD5: 384eb4d3b9ae8a40720187c9b920ae8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/Makefile.in
+SPDXID: SPDXRef-item1105189
+FileChecksum: SHA1: 7051125e9fe6871a37518c615668a79b79ca41fe
+FileChecksum: MD5: 751ad32c1b55569d254d75b4f6d4ccb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/COPYING
+SPDXID: SPDXRef-item1105190
+FileChecksum: SHA1: 0cd23537e3c32497c7b87157b36f9d2eb5fca64b
+FileChecksum: MD5: de54b60fbbc35123ba193fea8ee216f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/configure
+SPDXID: SPDXRef-item1105191
+FileChecksum: SHA1: f47c9038679617fb0e8416e21acf21df7f0f91af
+FileChecksum: MD5: 0a06e1b0d519ae8d3e2fca26c34b4d21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/config.h.win32
+SPDXID: SPDXRef-item1105192
+FileChecksum: SHA1: 698650bcc500400e8719dbd5282523b5bbb17060
+FileChecksum: MD5: eca16a6b2d3faddd8a48d304d26aa4aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/ltmain.sh
+SPDXID: SPDXRef-item1105193
+FileChecksum: SHA1: 13fbaee18d168df4399d7cc0a0b321cb6b864c9c
+FileChecksum: MD5: cc98f58a89800a26ee3e1ff7def6dec5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.gitignore
+SPDXID: SPDXRef-item1105194
+FileChecksum: SHA1: 4bef765dc0effdaa02e9c8be4b10177dcdeb5da1
+FileChecksum: MD5: d2245821b7854c00933b542624d7eef9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/arraylist.c
+SPDXID: SPDXRef-item1105195
+FileChecksum: SHA1: ed29aa70baad2c9547b92a577ebe4c32ece805e7
+FileChecksum: MD5: b2ae6559c090d5f60cfbee3fd33c0e03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/Doxyfile
+SPDXID: SPDXRef-item1105196
+FileChecksum: SHA1: 9ba4b8ed6d63eb5a8e30e81a9f0fcce706d118f4
+FileChecksum: MD5: 387137ac5f21200b5521a3c75d23965b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/debug.h
+SPDXID: SPDXRef-item1105197
+FileChecksum: SHA1: 891b41dd02f85e339cc07a3b4be1474ff0ebebab
+FileChecksum: MD5: 550dd5c6349d4f95f96d69ea59f3232e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/printbuf.h
+SPDXID: SPDXRef-item1105198
+FileChecksum: SHA1: 5c4ffaacc177922da1252fb76cfb7020162e6fcb
+FileChecksum: MD5: 7fe32738ba2f6ce017eb322102f34497
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_tokener.c
+SPDXID: SPDXRef-item1105199
+FileChecksum: SHA1: 5907b0f12dc003993e429d0f3fe6310fe0c81145
+FileChecksum: MD5: 5580af8d97cb271b944a81588bbe901e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json-c-uninstalled.pc.in
+SPDXID: SPDXRef-item1105200
+FileChecksum: SHA1: 82c56f1205b42320e0ce7abe8083012fca373fc8
+FileChecksum: MD5: a993f101b51bcc3749e0ae34fae61b02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_object_iterator.h
+SPDXID: SPDXRef-item1105201
+FileChecksum: SHA1: 077d5d9eef655bebbaee8dd9342855169a8144a9
+FileChecksum: MD5: e7a81e31fad31eb3fcbbeff9df33d2b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/config.h.in
+SPDXID: SPDXRef-item1105202
+FileChecksum: SHA1: c79abbc26999ecd585c53d6817d85604bc792916
+FileChecksum: MD5: 9ade3d90123d7ac5360e9f48b34cc5c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/Makefile.am
+SPDXID: SPDXRef-item1105203
+FileChecksum: SHA1: a63b6a9777ad255a4777dd415f6a177cac3db9eb
+FileChecksum: MD5: d8aede47eb975809f7fb4824f8869774
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/printbuf.c
+SPDXID: SPDXRef-item1105204
+FileChecksum: SHA1: 22c0c9249598b85b64eec52ae9647d2559231220
+FileChecksum: MD5: ffc41b79fd64bb2d7efa7ba1e7e041fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/AUTHORS
+SPDXID: SPDXRef-item1105205
+FileChecksum: SHA1: 25bb718832ff689be4a8f8d2ca194013afa19289
+FileChecksum: MD5: 243073e518be3ce60f23059f62e6c359
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/random_seed.c
+SPDXID: SPDXRef-item1105206
+FileChecksum: SHA1: e65575562c9b4168be7a95ec017696ae78be8f98
+FileChecksum: MD5: ec5765f012e2ae0ef3693b1d969534b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/config.sub
+SPDXID: SPDXRef-item1105207
+FileChecksum: SHA1: 8fedd9524fd468ea7a00b3eb7d4e7bf4b3551eb2
+FileChecksum: MD5: b65469e74491b977b8babd8f98f3c1e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_cast.expected
+SPDXID: SPDXRef-item1105209
+FileChecksum: SHA1: 4450c2a43a04b858c0271049ca3357af6dc70e91
+FileChecksum: MD5: 3eea5a6c859f41e10d808330314f8a53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test1Formatted_pretty.expected
+SPDXID: SPDXRef-item1105210
+FileChecksum: SHA1: 63e1574d1142072faeb017559efa08f17231e412
+FileChecksum: MD5: 4866d0b4139454cfe9b98c559df3734e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_set_serializer.test
+SPDXID: SPDXRef-item1105211
+FileChecksum: SHA1: 264c18caa504bed0a53d20988695c03f236991d8
+FileChecksum: MD5: a6ad5c23c80cc48f0059fcc76636e356
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test4.expected
+SPDXID: SPDXRef-item1105212
+FileChecksum: SHA1: b447ff014275ce31c06a38f834b655b1fb260a79
+FileChecksum: MD5: 8759adeca67066c58e1c55c6109c55ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_cast.test
+SPDXID: SPDXRef-item1105213
+FileChecksum: SHA1: cfc97962575e2449f54521e141ce04a8ee112b6a
+FileChecksum: MD5: 8df7b59d6ebd1809d7128fbf2f608cd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_null.test
+SPDXID: SPDXRef-item1105214
+FileChecksum: SHA1: b12518f37daed113ddc5c94a6c3a2c8c530c29eb
+FileChecksum: MD5: ff53a82dd08236202c1fc6651cfa769f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/testReplaceExisting.test
+SPDXID: SPDXRef-item1105215
+FileChecksum: SHA1: dbe548b6c3f534e760f387ec0c52165014de6a50
+FileChecksum: MD5: 9fba8d2bca362f9bc0d81ebbf02d6d01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_locale.expected
+SPDXID: SPDXRef-item1105216
+FileChecksum: SHA1: b1b60e058a01e4cb0dc7b7e1435a444a2af2603c
+FileChecksum: MD5: 965d386faead70cfea4ad66a1572d283
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_set_serializer.c
+SPDXID: SPDXRef-item1105217
+FileChecksum: SHA1: 9a39aaf78a3131a97c7688bb74956772c1c9bc93
+FileChecksum: MD5: 758e5da5fae10ef40ecbd1f27b180cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/testReplaceExisting.expected
+SPDXID: SPDXRef-item1105218
+FileChecksum: SHA1: 01805fc49a7ef7de672a632ca2522a451c2bc141
+FileChecksum: MD5: c4b5623fdb37f2f21e50e3ffb1b7d92c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/testReplaceExisting.c
+SPDXID: SPDXRef-item1105219
+FileChecksum: SHA1: a87d24b0338eacf8377d863a4625768daccabe5b
+FileChecksum: MD5: f817d4adf94e215092a95456059fd6e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_parse_int64.expected
+SPDXID: SPDXRef-item1105220
+FileChecksum: SHA1: 98b62f1be3211e618c31df931f576f212210c6ba
+FileChecksum: MD5: e256281c3d41935bfe70ad9acf01886b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/parse_flags.c
+SPDXID: SPDXRef-item1105221
+FileChecksum: SHA1: 5c2935f7dd4c9e5ba3bc1b561a0cd29ec35ab55f
+FileChecksum: MD5: 8ae0e64f02e1cafc85df9e7c429f85f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_parse.c
+SPDXID: SPDXRef-item1105222
+FileChecksum: SHA1: e4e7a0016a3047e535085a6ce6b8bae9d14a2db9
+FileChecksum: MD5: 343875a5059997edf40fc5b15cd36c65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/Makefile.in
+SPDXID: SPDXRef-item1105223
+FileChecksum: SHA1: 34da6bfafafdb41958d561af3a2091886834c3a4
+FileChecksum: MD5: 0448ed65e1f58ea76a8e09911f55ce04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_null.expected
+SPDXID: SPDXRef-item1105224
+FileChecksum: SHA1: 9d27bf000c5827ba6604d5caeb133583efbcab76
+FileChecksum: MD5: e3275c8abace066d62904c7c88ba02c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_parse.test
+SPDXID: SPDXRef-item1105225
+FileChecksum: SHA1: e66620b7da48b2aff611e5340184f67c5dcfc6ce
+FileChecksum: MD5: 11bb3c3c767a3ae499934a339a4d4f58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test2.test
+SPDXID: SPDXRef-item1105226
+FileChecksum: SHA1: 2e5d9b69b257c1d837a0bb7105eaac23ca03ca04
+FileChecksum: MD5: 937ee105560284328a84dd7da0cbc411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_charcase.c
+SPDXID: SPDXRef-item1105227
+FileChecksum: SHA1: e98a43cd7799bf5ee8195055b1d5ddf1fd9faf2c
+FileChecksum: MD5: d33ff8c145893c0b5e5f12b70dbf4855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_charcase.test
+SPDXID: SPDXRef-item1105228
+FileChecksum: SHA1: 0ef1cfe828e993b2c89463c9754b60be263f82f0
+FileChecksum: MD5: 1c65298a06881c41bdb91b1a8047ceb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_parse_int64.c
+SPDXID: SPDXRef-item1105229
+FileChecksum: SHA1: ec41531770fc8b6502693dff0256b9c7657c17aa
+FileChecksum: MD5: cfbfca5d71e5e4fb856575b945684470
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_set_serializer.expected
+SPDXID: SPDXRef-item1105230
+FileChecksum: SHA1: af3a4c51508480ceba355a19fd472e6509f94a9b
+FileChecksum: MD5: f96a95788970f84b80a55a952c5f5b66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test4.test
+SPDXID: SPDXRef-item1105231
+FileChecksum: SHA1: f7eea5bff300d580d47641ef54f9d391ac522030
+FileChecksum: MD5: 2e0ef3651438c8f89c18f8badcf0b934
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test1Formatted_plain.expected
+SPDXID: SPDXRef-item1105232
+FileChecksum: SHA1: f446fcc4ffd88474c43b8cebddd21993a76d5ea7
+FileChecksum: MD5: 02aeff1904a1538535aa31abdd0a649e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test2.expected
+SPDXID: SPDXRef-item1105233
+FileChecksum: SHA1: f43707aba0b98f54ef721cbd8999dbbcf5a95271
+FileChecksum: MD5: 064aa31a5c6958c2212586d3ef6ef0f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test2Formatted_plain.expected
+SPDXID: SPDXRef-item1105234
+FileChecksum: SHA1: c141eb5a7869c67cbd859e804730b612214ce565
+FileChecksum: MD5: d42ec465d3433d02eb89626e36d41c86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_printbuf.expected
+SPDXID: SPDXRef-item1105235
+FileChecksum: SHA1: 9ee6e8f554aa900cb022df3d9a74efb9a3cccad6
+FileChecksum: MD5: 4c2d9fdc6a97042a2969d64bdbcd25c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_printbuf.test
+SPDXID: SPDXRef-item1105236
+FileChecksum: SHA1: f103eb8ba59e4d779427a59a00c4029d0164f04d
+FileChecksum: MD5: 0d93566730905fd2147990580dc23542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test-defs.sh
+SPDXID: SPDXRef-item1105237
+FileChecksum: SHA1: c7cb0592dbe122d732ccdfeacf4f120e360c2a88
+FileChecksum: MD5: b8fa84026bac95b8755ea52e57781568
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/Makefile.am
+SPDXID: SPDXRef-item1105238
+FileChecksum: SHA1: aca092d63e5e2438bf0bdf1530134ba79c6826e6
+FileChecksum: MD5: ebff9ad38372ac6f164aa6eb76596c5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test1.test
+SPDXID: SPDXRef-item1105239
+FileChecksum: SHA1: 8b4f1bdcb22f84df1e77a2a3f52b5cc0578542be
+FileChecksum: MD5: 310f7a1b3aa33c5e512a10e91c97c693
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test4.c
+SPDXID: SPDXRef-item1105240
+FileChecksum: SHA1: 197cabdd8fb187c65b53cbd369f38f8d96daeb22
+FileChecksum: MD5: bcd170eacd13657cc9093fc13d5accb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test1Formatted_spaced.expected
+SPDXID: SPDXRef-item1105241
+FileChecksum: SHA1: ab5b211e729aab7d62323a3aeaa60e149c251806
+FileChecksum: MD5: d7206255d7b772ec63f8df86a39e541f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_cast.c
+SPDXID: SPDXRef-item1105242
+FileChecksum: SHA1: a2720f324b389b856f9eb95a63bc4832a2ff19ab
+FileChecksum: MD5: 06c49039bc92eb851282380d9f6cbb68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_locale.c
+SPDXID: SPDXRef-item1105243
+FileChecksum: SHA1: fc0f2df595aae5d18c7e0012c086b3d08cca14c9
+FileChecksum: MD5: 349b5d1839262a8678577a0decad6222
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test1.c
+SPDXID: SPDXRef-item1105244
+FileChecksum: SHA1: ff8fa6cdc10593c8749efa92a32a36d56a0b3c11
+FileChecksum: MD5: c417fa11d88cd76d14cbe2a9d912e38b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_printbuf.c
+SPDXID: SPDXRef-item1105245
+FileChecksum: SHA1: 6bf5ae1c1145151b15d120f13e0a482afb46353c
+FileChecksum: MD5: 00b497926da32294429c3721ac43df5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test1.expected
+SPDXID: SPDXRef-item1105246
+FileChecksum: SHA1: ab5b211e729aab7d62323a3aeaa60e149c251806
+FileChecksum: MD5: d7206255d7b772ec63f8df86a39e541f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/parse_flags.h
+SPDXID: SPDXRef-item1105247
+FileChecksum: SHA1: b581f8a39c9ee1b667273f16b387fafaecd5808f
+FileChecksum: MD5: a37469b28f39060562154f44bcbcf5c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_locale.test
+SPDXID: SPDXRef-item1105248
+FileChecksum: SHA1: e8d374d8d9258284d62b1bb81d3820aef245d290
+FileChecksum: MD5: a0aba1a26ef58a8d1245ad0ff7a04d9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_charcase.expected
+SPDXID: SPDXRef-item1105249
+FileChecksum: SHA1: 09fb654c17cc05b11ef53bd35aa701f6d550e8e1
+FileChecksum: MD5: d36f8f9425c4a8000ad9c4a97185aca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test2Formatted_pretty.expected
+SPDXID: SPDXRef-item1105250
+FileChecksum: SHA1: 29448dff1e73cc6f75629f6e18a279db322e1830
+FileChecksum: MD5: 2e2a82469c22dac6d5e08972ece84372
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test2.c
+SPDXID: SPDXRef-item1105251
+FileChecksum: SHA1: 48300c5b62be9b8963a696952ff31e73e3a97ba9
+FileChecksum: MD5: b388f8955fed0d60734cc6f759ba869c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test2Formatted_spaced.expected
+SPDXID: SPDXRef-item1105252
+FileChecksum: SHA1: f43707aba0b98f54ef721cbd8999dbbcf5a95271
+FileChecksum: MD5: 064aa31a5c6958c2212586d3ef6ef0f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_parse_int64.test
+SPDXID: SPDXRef-item1105253
+FileChecksum: SHA1: d8a607ff31455317abf6d541fe6987aa654e1885
+FileChecksum: MD5: 7eeb2d3b4b036159c1eef25b0c060bb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_parse.expected
+SPDXID: SPDXRef-item1105254
+FileChecksum: SHA1: 475a058d4415bbc3615169c6cb5477bbd8f6d60e
+FileChecksum: MD5: dd5dd2d95e29e996e82f86caf46a8c19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/tests/test_null.c
+SPDXID: SPDXRef-item1105255
+FileChecksum: SHA1: beef897cbfa3247f30b1c4c127e1bd6f948e5ba3
+FileChecksum: MD5: 4663f26a6afcdc01701699876474feed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_tokener.h
+SPDXID: SPDXRef-item1105256
+FileChecksum: SHA1: 40a515c73f980bb8bb66f5372319d273dab3d33e
+FileChecksum: MD5: dbcf3b5b08a7b80e971b9b74dff8443b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json-c.vcproj
+SPDXID: SPDXRef-item1105257
+FileChecksum: SHA1: 7bbd37936e64354a132e77a4034fea450c24762d
+FileChecksum: MD5: 520496dd3f5ef6666d66fb3ad1af7661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_object.c
+SPDXID: SPDXRef-item1105258
+FileChecksum: SHA1: b8b237dcc614ac36837ecf0a2456a1a2f8d751f3
+FileChecksum: MD5: 7c9ca654f84c4e25454119cfe03754e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x61.html
+SPDXID: SPDXRef-item1105261
+FileChecksum: SHA1: 7feae2e77d532e68abfef2233f0be85ffd9136dc
+FileChecksum: MD5: 0260efa9b881635e42a02848ab008994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_defs.html
+SPDXID: SPDXRef-item1105262
+FileChecksum: SHA1: b71659324002f7327bd13ed4381170ec68138197
+FileChecksum: MD5: e68f60c47814c5d45d7317f462ce4dcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structarray__list.html
+SPDXID: SPDXRef-item1105263
+FileChecksum: SHA1: 35351c8197c0b4eeee15b2458700a766338edac6
+FileChecksum: MD5: 8af28adeef225a30d5fcd56256d2d36c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/debug_8h.html
+SPDXID: SPDXRef-item1105264
+FileChecksum: SHA1: aacfec4dae9b193d694b1a5b04b8599b6a38c46d
+FileChecksum: MD5: d7b6a70facc88a53044b71dc5f761642
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/doxygen.png
+SPDXID: SPDXRef-item1105265
+FileChecksum: SHA1: 3f9f7099f963a889bd8bd72237dac63467f3dc43
+FileChecksum: MD5: 4d8b8c8f1a68a4f320da8294a085f251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2node.png
+SPDXID: SPDXRef-item1105266
+FileChecksum: SHA1: 9949ffa6377aeab4b0e511e164989f14c8322617
+FileChecksum: MD5: 6667367ad364539fae2efeef993b51ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/json__inttypes_8h.html
+SPDXID: SPDXRef-item1105267
+FileChecksum: SHA1: b94aa4eaa387b8c5175112b7a17c395a3b3de0c8
+FileChecksum: MD5: 458f08cc766ba3853bb44f26081f87cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/json__util_8h.html
+SPDXID: SPDXRef-item1105268
+FileChecksum: SHA1: d3d2a774c4ddca512ca5498b0d3459be2e4c4ea9
+FileChecksum: MD5: ee8c89699a5d30f0e07cdedc10dc9e16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/printbuf_8h.html
+SPDXID: SPDXRef-item1105269
+FileChecksum: SHA1: fba48ec1c684fc01d80b0ee715d2b9e4b57bb53f
+FileChecksum: MD5: d47341345b8cc080a047a1be56094e52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structjson__tokener.html
+SPDXID: SPDXRef-item1105270
+FileChecksum: SHA1: ebf8632af2b1bf4754cad1cb186d4edb15bf92f3
+FileChecksum: MD5: efd2d2df6f50a1714c525ce022832493
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2doc.png
+SPDXID: SPDXRef-item1105271
+FileChecksum: SHA1: cd2dc0bb62795177d580d87c3ea3515af286b185
+FileChecksum: MD5: 31ed05886f30a2be256e9df86a25586f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2folderopen.png
+SPDXID: SPDXRef-item1105272
+FileChecksum: SHA1: a6bc8844f706ea5b9b5cd5a0acc704e4572530c6
+FileChecksum: MD5: 9ff4412a8e93e25320b9e260951c6a04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x6d.html
+SPDXID: SPDXRef-item1105273
+FileChecksum: SHA1: a9940181c353a44528d5432a1885c76ec6e1f7d3
+FileChecksum: MD5: caa6b904e4a2dbc08684694d8c9c7874
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_h.html
+SPDXID: SPDXRef-item1105274
+FileChecksum: SHA1: 80506bcec6d876969eefaedd9f0caa69e5d74e78
+FileChecksum: MD5: 205f819f6fec078be70230c836488bf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_j.html
+SPDXID: SPDXRef-item1105275
+FileChecksum: SHA1: 0fad0c46c5b2098efeb7427e77519695f29ffb24
+FileChecksum: MD5: a0de9ffd7bae66e97cb6ee14775eda81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/arraylist_8h.html
+SPDXID: SPDXRef-item1105276
+FileChecksum: SHA1: 92a154dce03de4bb8b8c1139961ee0d9ea26c5d5
+FileChecksum: MD5: c4fda1e44f37987eed32d1883a4ec275
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_vars.html
+SPDXID: SPDXRef-item1105277
+FileChecksum: SHA1: 28b16ce7029901e523ef7b62b7c5c04c1635256e
+FileChecksum: MD5: 831a88b3a5fe427c55a156bb603cecd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/tab_b.png
+SPDXID: SPDXRef-item1105278
+FileChecksum: SHA1: 0e38f362aa804ce5e92add89f05b17fbc5f15d97
+FileChecksum: MD5: c7cd16cfabe8a14b9848f813df53fc2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/folderclosed.png
+SPDXID: SPDXRef-item1105279
+FileChecksum: SHA1: 2fde5f1451009b435637b6851167bcad33bd4e05
+FileChecksum: MD5: 0b7046d86103299b2a0306ddf33ec004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/folderopen.png
+SPDXID: SPDXRef-item1105280
+FileChecksum: SHA1: a6bc8844f706ea5b9b5cd5a0acc704e4572530c6
+FileChecksum: MD5: 9ff4412a8e93e25320b9e260951c6a04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_e.html
+SPDXID: SPDXRef-item1105281
+FileChecksum: SHA1: 4165dbecd05a427e135bcaac460e663845670705
+FileChecksum: MD5: c992deedbc8001d289398025b1b6c0c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/annotated.html
+SPDXID: SPDXRef-item1105282
+FileChecksum: SHA1: 82a1f4aba298637d8582e8f4ba5a3dcfcc627571
+FileChecksum: MD5: 5008ebad30aa177cbf62b25dfaca4ab4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/nav_h.png
+SPDXID: SPDXRef-item1105283
+FileChecksum: SHA1: dff8e73424c9ea2e502cd3b92f25c397384abc95
+FileChecksum: MD5: 935f050f10b7fe425509491f207f574f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structjson__object.html
+SPDXID: SPDXRef-item1105284
+FileChecksum: SHA1: 6b07c7159d5f738019d21c7f63b63a3ccd7b9b09
+FileChecksum: MD5: f7486b8c38cc9513d50f801d12b9f7ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/unionjson__object_1_1data.html
+SPDXID: SPDXRef-item1105285
+FileChecksum: SHA1: 818fc44fc319854689114322d0ed9ec6b44a147f
+FileChecksum: MD5: df802f656375b31b45d6c8288f5d6c71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x65.html
+SPDXID: SPDXRef-item1105286
+FileChecksum: SHA1: 3b3eced884f8f51b6ae96ad6e5296aa926d81cd1
+FileChecksum: MD5: aa0318f1c2c42daec99214bc5f7c2604
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/splitbar.png
+SPDXID: SPDXRef-item1105287
+FileChecksum: SHA1: 8e89a71c77d43155f59f74897c370c2dfc409f6c
+FileChecksum: MD5: 8d590f70c25a81e71b99f6c8246b067e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2link.png
+SPDXID: SPDXRef-item1105288
+FileChecksum: SHA1: cd2dc0bb62795177d580d87c3ea3515af286b185
+FileChecksum: MD5: 31ed05886f30a2be256e9df86a25586f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x68.html
+SPDXID: SPDXRef-item1105289
+FileChecksum: SHA1: 6a88727df58a8cb4deeda4c45d558fa966549a5c
+FileChecksum: MD5: 2b514fba820e88ade8f8b37f9040eb8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/functions_vars.html
+SPDXID: SPDXRef-item1105290
+FileChecksum: SHA1: f243489b139283ed7f7a56dda73799522ee7b2ab
+FileChecksum: MD5: eede62bd746a7e22e90c9104a1e93c74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2mnode.png
+SPDXID: SPDXRef-item1105291
+FileChecksum: SHA1: 4088e810372ebad46e9a264c72793c79cebe6bec
+FileChecksum: MD5: b337efbec07a710611184b65c6610a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/json__object_8h.html
+SPDXID: SPDXRef-item1105292
+FileChecksum: SHA1: b151ce33151b5454db63bb38663b9bc63cbe183a
+FileChecksum: MD5: 7ee67eec8188e0bdf6db9c9194b353fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/json__tokener_8h.html
+SPDXID: SPDXRef-item1105293
+FileChecksum: SHA1: 0c3614666f63cf758c624429fb94089ebc120241
+FileChecksum: MD5: 7819d72cc7783ddfaf9fcae7b552fd51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/bits_8h.html
+SPDXID: SPDXRef-item1105294
+FileChecksum: SHA1: 25f63bb02008c0eaf4b186dcc65c6ef869a6af31
+FileChecksum: MD5: aae7fbd3291130031b1f3cd82929fcbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/index.html
+SPDXID: SPDXRef-item1105295
+FileChecksum: SHA1: c5446ead9670f5e328a59ab77b1ddc7c0e861a55
+FileChecksum: MD5: feafa054528dd106534c8657e0e7f756
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/tabs.css
+SPDXID: SPDXRef-item1105296
+FileChecksum: SHA1: 7eff4b7ece04a0b8a4ad9be6dfe9f9dd3292f457
+FileChecksum: MD5: cf9a4ad5a8b52323af8cc15e96fb2e93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x6a.html
+SPDXID: SPDXRef-item1105297
+FileChecksum: SHA1: 2eac435f6926d0baafd5d204d645fbc32750f3c5
+FileChecksum: MD5: 4801ff313432cb47dc9dba0f24682011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structlh__entry.html
+SPDXID: SPDXRef-item1105298
+FileChecksum: SHA1: 82388e7bba9c8d57089d17961efca26766320d60
+FileChecksum: MD5: 965913c07effc80a5606029de06f8c27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/doc.png
+SPDXID: SPDXRef-item1105299
+FileChecksum: SHA1: cd2dc0bb62795177d580d87c3ea3515af286b185
+FileChecksum: MD5: 31ed05886f30a2be256e9df86a25586f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structjson__object__iter.html
+SPDXID: SPDXRef-item1105300
+FileChecksum: SHA1: 5405e7ff612ad22f9cedbcb11f04d2d6984f59f3
+FileChecksum: MD5: e9472b92e3bda8167e4e376b171cfd30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/closed.png
+SPDXID: SPDXRef-item1105301
+FileChecksum: SHA1: c6607712f771f03c6d9e440137dbcfd8a373572b
+FileChecksum: MD5: 3fa180a1c853204ee64235708fb8e162
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/arrowright.png
+SPDXID: SPDXRef-item1105302
+FileChecksum: SHA1: fe1e1abef0962bf778bbace8a38b9db3e816159b
+FileChecksum: MD5: 7fcdd7b57b3825e8fbf2cd5fbb81ce70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/random__seed_8h.html
+SPDXID: SPDXRef-item1105303
+FileChecksum: SHA1: ea4ecba6658f534a91bd31bd0f1e06b91d940865
+FileChecksum: MD5: 3c7bce6f934cff15a72dd7e190bb88df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2mlastnode.png
+SPDXID: SPDXRef-item1105304
+FileChecksum: SHA1: 4088e810372ebad46e9a264c72793c79cebe6bec
+FileChecksum: MD5: b337efbec07a710611184b65c6610a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_func.html
+SPDXID: SPDXRef-item1105305
+FileChecksum: SHA1: 749b77ad311872184a8101fd57625d2ea61815b5
+FileChecksum: MD5: d296f501548d59d5958d1aabe39358fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x73.html
+SPDXID: SPDXRef-item1105306
+FileChecksum: SHA1: 8338f0b404df0dcb932eb980c3a708ae07d7d4f9
+FileChecksum: MD5: b4903a092996d306504f61198cd55f7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x70.html
+SPDXID: SPDXRef-item1105307
+FileChecksum: SHA1: 4dac5ab6bd24f3b349cc481b1cd074409313b21c
+FileChecksum: MD5: eb89b9ab4608c4f093c1136d0f48021c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/math__compat_8h.html
+SPDXID: SPDXRef-item1105308
+FileChecksum: SHA1: 2055b67e81799bb185ba91a52b9aae8275f754a5
+FileChecksum: MD5: 2cecd746b18edaa49c09abc753880594
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x6c.html
+SPDXID: SPDXRef-item1105309
+FileChecksum: SHA1: 95d26e1c932806e1efca42bef5cee95c7fe01d69
+FileChecksum: MD5: 0d7cb1f3b64289939e952242d83b2d94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/doxygen.css
+SPDXID: SPDXRef-item1105310
+FileChecksum: SHA1: e9aaacfd731b9976872fcbb42e68c89580208c64
+FileChecksum: MD5: f61e4d635f040fac651171e3f7e37355
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals.html
+SPDXID: SPDXRef-item1105311
+FileChecksum: SHA1: 02e4d802b096c6709f60b86fe43a920e26bef3d7
+FileChecksum: MD5: 21a52dfb2b77e7fd20e64a53a90da1b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/functions.html
+SPDXID: SPDXRef-item1105312
+FileChecksum: SHA1: 31000699c80f7baefa094abec3fcb21db59d2134
+FileChecksum: MD5: 2f8e057eb31dd63878400ddb116e89e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/dynsections.js
+SPDXID: SPDXRef-item1105313
+FileChecksum: SHA1: 141a6eab1ecb43a0e9f6620b32831199b4fdc027
+FileChecksum: MD5: fbc22f07caf51cf90cbae1412067567c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_p.html
+SPDXID: SPDXRef-item1105314
+FileChecksum: SHA1: f55ae652b54a3369cda466d117967e05ba34bfd9
+FileChecksum: MD5: c4663af686695abb3d51cdc40a95a651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/classes.html
+SPDXID: SPDXRef-item1105315
+FileChecksum: SHA1: 5c9e7f167c362b4b1178332b53946e1007c9918d
+FileChecksum: MD5: c656f8de36b4e40b39fe7b09ce9d1035
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_eval.html
+SPDXID: SPDXRef-item1105316
+FileChecksum: SHA1: cb392cfa5f9a5aca2d5dcdff7c4ac580b879c1fc
+FileChecksum: MD5: 6b21c8ab20affc96ff646cd6ca86e74e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2lastnode.png
+SPDXID: SPDXRef-item1105317
+FileChecksum: SHA1: 9949ffa6377aeab4b0e511e164989f14c8322617
+FileChecksum: MD5: 6667367ad364539fae2efeef993b51ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_t.html
+SPDXID: SPDXRef-item1105318
+FileChecksum: SHA1: c082db1928e4671b5778dfe8d704872a9af469dc
+FileChecksum: MD5: beab7ce97130b7948aa14b89170a8fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/open.png
+SPDXID: SPDXRef-item1105319
+FileChecksum: SHA1: 613c816a65952b73a2a697d33a3f5be1b45433e0
+FileChecksum: MD5: 468c228548b4a85dd54d544810bd0edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/nav_f.png
+SPDXID: SPDXRef-item1105320
+FileChecksum: SHA1: 09487f92d803cec5e616466c974f4cb9babd3819
+FileChecksum: MD5: 4e4d8be23c6d6bbe0184fd891ff59e00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2blank.png
+SPDXID: SPDXRef-item1105321
+FileChecksum: SHA1: 9949ffa6377aeab4b0e511e164989f14c8322617
+FileChecksum: MD5: 6667367ad364539fae2efeef993b51ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/bc_s.png
+SPDXID: SPDXRef-item1105322
+FileChecksum: SHA1: ace7ca1070475ae99c9ae7647a9640af2ccffce5
+FileChecksum: MD5: ceaaae73746596a7519cfe782d8aa065
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/json__c__version_8h.html
+SPDXID: SPDXRef-item1105323
+FileChecksum: SHA1: cebed573ef272ded06dfeefaa56420bd36ea010d
+FileChecksum: MD5: 0f4fc7047237b17192ae13cc95883542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x69.html
+SPDXID: SPDXRef-item1105324
+FileChecksum: SHA1: 7fa7e8a1ab241b0fd96400335f26e706231c60b0
+FileChecksum: MD5: 8397283fb3fb8065c87292ee11036ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2vertline.png
+SPDXID: SPDXRef-item1105325
+FileChecksum: SHA1: 9949ffa6377aeab4b0e511e164989f14c8322617
+FileChecksum: MD5: 6667367ad364539fae2efeef993b51ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2pnode.png
+SPDXID: SPDXRef-item1105326
+FileChecksum: SHA1: fe1e1abef0962bf778bbace8a38b9db3e816159b
+FileChecksum: MD5: 7fcdd7b57b3825e8fbf2cd5fbb81ce70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/sync_on.png
+SPDXID: SPDXRef-item1105327
+FileChecksum: SHA1: c31bec6b7ad1dfe600edfe2fefdc965da46569d0
+FileChecksum: MD5: b1cc394ed471b4ab97be14f1e1a7cefa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2mo.png
+SPDXID: SPDXRef-item1105328
+FileChecksum: SHA1: 78c8334ba84ee876fdfb33af38441250169320e1
+FileChecksum: MD5: 1e6d77517832787506a5a120711dcd3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_type.html
+SPDXID: SPDXRef-item1105329
+FileChecksum: SHA1: 64a32769a45bddb02ab09759e580cc92451a07af
+FileChecksum: MD5: a0c7db19c47e4a3c2e2aed1c3d78a288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2folderclosed.png
+SPDXID: SPDXRef-item1105330
+FileChecksum: SHA1: 2fde5f1451009b435637b6851167bcad33bd4e05
+FileChecksum: MD5: 0b7046d86103299b2a0306ddf33ec004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/tab_a.png
+SPDXID: SPDXRef-item1105331
+FileChecksum: SHA1: f91f9b6053909cfde7e952ac86b837241d89c23d
+FileChecksum: MD5: 2a5327b5dfc494fd8688fd887991cdab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/bdwn.png
+SPDXID: SPDXRef-item1105332
+FileChecksum: SHA1: 266ec69871aa74ed46448d3688332277114576c2
+FileChecksum: MD5: 6249334b2e7fc28090f26abeb328eb78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2splitbar.png
+SPDXID: SPDXRef-item1105333
+FileChecksum: SHA1: 8e89a71c77d43155f59f74897c370c2dfc409f6c
+FileChecksum: MD5: 8d590f70c25a81e71b99f6c8246b067e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structjson__tokener__srec.html
+SPDXID: SPDXRef-item1105334
+FileChecksum: SHA1: 6cdf7a07cf2db573e304868194daaf5942a55062
+FileChecksum: MD5: cb78f5eeebbb04c7fc96d2dc3da7b6a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/sync_off.png
+SPDXID: SPDXRef-item1105335
+FileChecksum: SHA1: f9cdbf5d96a602001c676226b113b43b9b4de559
+FileChecksum: MD5: 12a5e283812e092b5a74b0d47e95e9a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/json_8h.html
+SPDXID: SPDXRef-item1105336
+FileChecksum: SHA1: 9e0d2746628d097f3ad5f35d1e5ee88dcd27635b
+FileChecksum: MD5: 172ecea665a1cd184c6d54f8e46d3a6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2cl.png
+SPDXID: SPDXRef-item1105337
+FileChecksum: SHA1: 0138f9ffba5051c1391d617086336e5fa80d4599
+FileChecksum: MD5: cdf8b0d9118c4cb6d33b4c534140ade9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_i.html
+SPDXID: SPDXRef-item1105338
+FileChecksum: SHA1: 1d078cc9e119a9563e0fbca3e40f3302951643d3
+FileChecksum: MD5: ba2f44bcdc17a08d904dbac80ddf3e38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/nav_g.png
+SPDXID: SPDXRef-item1105339
+FileChecksum: SHA1: c6c62128f251c972249ae89836fd39d4fbc0dd7b
+FileChecksum: MD5: 6cf157aabeb91ae637a6d770b07c1011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/jquery.js
+SPDXID: SPDXRef-item1105340
+FileChecksum: SHA1: 179b5da3ecea399d3bc339924a8e23b51bde7706
+FileChecksum: MD5: 348c67be8f444dc6fe00d9a2f12ec2b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_l.html
+SPDXID: SPDXRef-item1105341
+FileChecksum: SHA1: 5b0bf5676132432e2e1260de63d56e3fb7c21ecd
+FileChecksum: MD5: a0397c4ab6d012ae82dd71d861ee8631
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_s.html
+SPDXID: SPDXRef-item1105342
+FileChecksum: SHA1: 8802ca628e12ea18d170ca5805f169d549119683
+FileChecksum: MD5: 008c386818e2b2ebf8917e948896a494
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/json__object__private_8h.html
+SPDXID: SPDXRef-item1105343
+FileChecksum: SHA1: 0495733bf9f2a913205fb91fb9f57922eb57526f
+FileChecksum: MD5: 353e9a1e8e08d931964002cd0ded2651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/arrowdown.png
+SPDXID: SPDXRef-item1105344
+FileChecksum: SHA1: 4088e810372ebad46e9a264c72793c79cebe6bec
+FileChecksum: MD5: b337efbec07a710611184b65c6610a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/deprecated.html
+SPDXID: SPDXRef-item1105345
+FileChecksum: SHA1: 3419cc2ce927584a501638625e0b3835b5f93e6c
+FileChecksum: MD5: b1bb61c872fe550c0dd4fbaecadb8a08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structjson__object__iterator.html
+SPDXID: SPDXRef-item1105346
+FileChecksum: SHA1: 22760c03cd15d14bd5aebb05837f6487acd3bfd4
+FileChecksum: MD5: 3e670851339caa1f37b6c405d942e2ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/tab_s.png
+SPDXID: SPDXRef-item1105347
+FileChecksum: SHA1: 324f6b03a43af75a7e1a732e7f3df52ccfdd8972
+FileChecksum: MD5: d5a3e094c590d5113232b74cd902f58f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/files.html
+SPDXID: SPDXRef-item1105348
+FileChecksum: SHA1: e53a77fe4345042a21aacb9fe7f425569a267eaa
+FileChecksum: MD5: 0a4eeec98e030dfc716b03cf732d3057
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_enum.html
+SPDXID: SPDXRef-item1105349
+FileChecksum: SHA1: 04997e3684a748671eeacc8bb1310312ccd31c7a
+FileChecksum: MD5: bb79b532c40b37b72ab0ad1c8fb6c6b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_a.html
+SPDXID: SPDXRef-item1105350
+FileChecksum: SHA1: 2341af0e9d54c489f4b9426a07bd1c15cdfb821d
+FileChecksum: MD5: 59ba0d731f1e916f782d10e3b18bf029
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/tab_h.png
+SPDXID: SPDXRef-item1105351
+FileChecksum: SHA1: be353a1ff77f646ee0f22c3cc6e2d8bf6824d877
+FileChecksum: MD5: 38c6c507f0ab91770a0ed9a668a03551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/linkhash_8h.html
+SPDXID: SPDXRef-item1105352
+FileChecksum: SHA1: 2de8eb05c84752d39ba72e2d0a497dfae0e80a85
+FileChecksum: MD5: 5a413a99dfc08f381105c6a466a042d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structlh__table.html
+SPDXID: SPDXRef-item1105353
+FileChecksum: SHA1: 60ecebdaff6cbbe314eb1d5fa387f62281505c85
+FileChecksum: MD5: c43b7b47db4b22b622f2a0536c038e48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_f.html
+SPDXID: SPDXRef-item1105354
+FileChecksum: SHA1: e1ee5d33534ad63a4d8f5462bc2492fa212da06e
+FileChecksum: MD5: d4f6fdc3338e6e2b5b9c6813da431ee2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_m.html
+SPDXID: SPDXRef-item1105355
+FileChecksum: SHA1: 9621ff5185e93da276aa19c08f6d75cd2bbe88a6
+FileChecksum: MD5: 7f266da976330a23b25ffae5890251a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/json__object__iterator_8h.html
+SPDXID: SPDXRef-item1105356
+FileChecksum: SHA1: 59bc52748ad68671b33381e02b46d627691dfdf2
+FileChecksum: MD5: 209111ad77f3ef15af3e1ce9a4e78f0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/structprintbuf.html
+SPDXID: SPDXRef-item1105357
+FileChecksum: SHA1: 820ae5a502ddac874ca22f203db5f9be472dad95
+FileChecksum: MD5: 327d12d493baf94eb3b980c91cda2183
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2ns.png
+SPDXID: SPDXRef-item1105358
+FileChecksum: SHA1: 4a496bc429180debadd71416c6a5ce41a04a051f
+FileChecksum: MD5: bbb13821edfc22a87e3e6dbaa1cadce3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x74.html
+SPDXID: SPDXRef-item1105359
+FileChecksum: SHA1: 0af31a100921039a280a36d013f08c7505a0d796
+FileChecksum: MD5: 15b534862a21f66f3370188f23c82a3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/ftv2plastnode.png
+SPDXID: SPDXRef-item1105360
+FileChecksum: SHA1: fe1e1abef0962bf778bbace8a38b9db3e816159b
+FileChecksum: MD5: 7fcdd7b57b3825e8fbf2cd5fbb81ce70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/pages.html
+SPDXID: SPDXRef-item1105361
+FileChecksum: SHA1: 0e363803510d5c0cc483179a47678883895f754c
+FileChecksum: MD5: 43231c9157c1ac84d7b916b73c178b36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/doc/html/globals_0x66.html
+SPDXID: SPDXRef-item1105362
+FileChecksum: SHA1: 845a4f97da81785a0036e973dccdca06a7769344
+FileChecksum: MD5: 818bab96e578ee5582efaa1fc97fe85f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_util.h
+SPDXID: SPDXRef-item1105363
+FileChecksum: SHA1: 4088d1e25e9bbf8571541b7d553e5528f16f7dd3
+FileChecksum: MD5: 5a2987f6fa2df0940369da566876cd51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/missing
+SPDXID: SPDXRef-item1105364
+FileChecksum: SHA1: 14c13c2106a25f52b9220288add50989f483f79e
+FileChecksum: MD5: ba67d589a17b479cb3f568cd7b52b0c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_c_version.h
+SPDXID: SPDXRef-item1105365
+FileChecksum: SHA1: 2f27a1d51dc21939dd478a66b33fdbe0d8c1e268
+FileChecksum: MD5: d4aeeb07f5c25f4010c2813126e62e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_object_iterator.c
+SPDXID: SPDXRef-item1105366
+FileChecksum: SHA1: 74740bae062160d9286856fcbed7da5770352a93
+FileChecksum: MD5: ac5dc6404fa43d3b4b3bdfe131c64667
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/Makefile.am.inc
+SPDXID: SPDXRef-item1105367
+FileChecksum: SHA1: f63369335f1666bc6b708dc3bf7b2c7432c91670
+FileChecksum: MD5: a3c5ce6cc099e892ad4b8a7d6348be85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/README
+SPDXID: SPDXRef-item1105368
+FileChecksum: SHA1: c6f8c7d1b8762ed241b3b4400be7f4cf26fa823d
+FileChecksum: MD5: e03b5881cdab9ea7fcd43e30fa710245
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/libjson.c
+SPDXID: SPDXRef-item1105369
+FileChecksum: SHA1: 6672fd09294bb584a8ba8a9a557bb1b0b90825e9
+FileChecksum: MD5: 03ad4acfeeebbb72ce20fcf4a46dbe86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json-c.pc.in
+SPDXID: SPDXRef-item1105370
+FileChecksum: SHA1: aae1b7569b540c2b16a55ab2bf2142b9e00edd14
+FileChecksum: MD5: 9b67c20154d84d6d1bb2e4c396c96140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.pc/applied-patches
+SPDXID: SPDXRef-item1105372
+FileChecksum: SHA1: 4a0b67a8955f5950a242679ec466f6d3dc6411da
+FileChecksum: MD5: bba5ba4e827a7dbd7bc162db4d657fac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.pc/.quilt_series
+SPDXID: SPDXRef-item1105373
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.pc/.version
+SPDXID: SPDXRef-item1105374
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.pc/.quilt_patches
+SPDXID: SPDXRef-item1105375
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.pc/0001-Add-FALLTHRU-comment-to-handle-GCC7-warnings.patch/linkhash.c
+SPDXID: SPDXRef-item1105377
+FileChecksum: SHA1: f721f1dd864c5331e1eaa625e25cfd15e7e07e64
+FileChecksum: MD5: af319d9ad0ede392adc6e310b05c2c9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.pc/0001-Add-FALLTHRU-comment-to-handle-GCC7-warnings.patch/json_tokener.c
+SPDXID: SPDXRef-item1105378
+FileChecksum: SHA1: 06576fc187ea63d963780fe77add6d9c2f716ac6
+FileChecksum: MD5: ceedbc728d9b1c83bdc481777d61d175
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.pc/0001-Add-FALLTHRU-comment-to-handle-GCC7-warnings.patch/json_object.c
+SPDXID: SPDXRef-item1105379
+FileChecksum: SHA1: f73edabd4bcaf87cd865049ea6a2a489c6442719
+FileChecksum: MD5: 16d8b440dc20792b052c139f4af1d5a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/.pc/0001-Add-FALLTHRU-comment-to-handle-GCC7-warnings.patch/.timestamp
+SPDXID: SPDXRef-item1105380
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/bits.h
+SPDXID: SPDXRef-item1105381
+FileChecksum: SHA1: 483a664c6c8d17ed749f41d5f1fc430592f3a15e
+FileChecksum: MD5: 263627940e87c73e80c7742286172dbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_object.h
+SPDXID: SPDXRef-item1105382
+FileChecksum: SHA1: b14a116fd10e7301a73a4b9d791856428bd3910c
+FileChecksum: MD5: 4ba7a710a008278fc6be33d389d48a09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/configure.ac
+SPDXID: SPDXRef-item1105383
+FileChecksum: SHA1: 8cca8956484937236663eaf7f29233e7723644eb
+FileChecksum: MD5: 5ea4e7fddd0bf6821af90c1dbaedad13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/test-driver
+SPDXID: SPDXRef-item1105384
+FileChecksum: SHA1: abe4c4205ad738bbfb5cbcd5a3191416ac5e4b58
+FileChecksum: MD5: 0ba88052a1dc5202649375d827e9f1f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/random_seed.h
+SPDXID: SPDXRef-item1105385
+FileChecksum: SHA1: 406b5c911040d16295b816442bbcbbb3d8f9826e
+FileChecksum: MD5: 31f2883e091577910d2a6e42f16435f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/INSTALL
+SPDXID: SPDXRef-item1105386
+FileChecksum: SHA1: 0d3ac5a8ec1e3fcf96e18a44c95139f218b9d3f3
+FileChecksum: MD5: 0278479fa183a2ff8ab216669424b764
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/patches/series
+SPDXID: SPDXRef-item1105389
+FileChecksum: SHA1: 0b3d0a2b0f6f7928cd9a47579ef24bc527373673
+FileChecksum: MD5: 0e7b597ca957bacf7d84cb4d247df1d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/debug.c
+SPDXID: SPDXRef-item1105390
+FileChecksum: SHA1: 7bfb51b3a63db85ba2ba3b11efed357718c43b32
+FileChecksum: MD5: 5014d24a20f09b51840323d8d40eebdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/config.guess
+SPDXID: SPDXRef-item1105391
+FileChecksum: SHA1: 94cc57e2a3fdb9c235b362ace86d77e89d188cad
+FileChecksum: MD5: 559bc9e2fca45761389ce2f3140cec0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/README.html
+SPDXID: SPDXRef-item1105392
+FileChecksum: SHA1: db8998c2acc7151135b93225b42dba696742bc08
+FileChecksum: MD5: c2cd2445b7d70640fb856de7f15f0787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/autogen.sh
+SPDXID: SPDXRef-item1105393
+FileChecksum: SHA1: 783bdbd978fd6ee343d55eb8945290497670f70a
+FileChecksum: MD5: 20481b0c7a2dd7e9bc94ae276c452ce1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json_inttypes.h
+SPDXID: SPDXRef-item1105394
+FileChecksum: SHA1: 3f78278c34c7f1a1cb7990c4844e9b271af7c078
+FileChecksum: MD5: 42e36194ca58262f47d8b18cca01f972
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/math_compat.h
+SPDXID: SPDXRef-item1105395
+FileChecksum: SHA1: e581391dd64d44ed3e8f1f1bb5a9cac933ca75e4
+FileChecksum: MD5: dbdee220b65aeb3fc34be778dcb8de55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/json.h
+SPDXID: SPDXRef-item1105396
+FileChecksum: SHA1: 5f1e0f4f66bd8a6db3dcb1e3d9506c8157f5d53c
+FileChecksum: MD5: 437685ad5ad287135d39b00a8100a363
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/Android.configure.mk
+SPDXID: SPDXRef-item1105397
+FileChecksum: SHA1: ddd97604f564b6f7a3f86be66d873925b696610d
+FileChecksum: MD5: 07c8d0535eadd47dbf402ef4190e0829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/depcomp
+SPDXID: SPDXRef-item1105398
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/arraylist.h
+SPDXID: SPDXRef-item1105399
+FileChecksum: SHA1: 93c31a59c9d17a18acf2d5e1f2740bc0b0f30d5a
+FileChecksum: MD5: 1d673b92e797df5ed47431cac5cf3985
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/ChangeLog
+SPDXID: SPDXRef-item1105400
+FileChecksum: SHA1: 8aa4cf7ef01b8853616540843d47c644eaeefde4
+FileChecksum: MD5: 379ac0c284f7df5a20d1c9a24df3fbeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/json-c-0.12.1/linkhash.h
+SPDXID: SPDXRef-item1105401
+FileChecksum: SHA1: dd496c1261c91933d7b5afa6b4dc19d907d03415
+FileChecksum: MD5: 139a8f457a1f73ebc12bf7708a9eef63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

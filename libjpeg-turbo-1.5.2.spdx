@@ -1,0 +1,5106 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libjpeg-turbo-1_1.5.2-r0-patched.tar.gz_1571458793.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:19:53Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libjpeg-turbo
+PackageVersion: 1.5.2
+PackageFileName: libjpeg-turbo-1_1.5.2-r0-patched.tar.gz
+SPDXID: SPDXRef-upload382
+PackageDownloadLocation: http://downloads.sourceforge.net/libjpeg-turbo/libjpeg-turbo-1.5.2.tar.gz
+PackageHomePage: http://libjpeg-turbo.org/
+PackageSummary: <text>Hardware accelerated JPEG compression/decompression library</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libjpeg-turbo version 1.5.2</text>
+PackageChecksum: SHA1: 9bab28c344e3811a0562ba04aace2b88cd7c15b3
+PackageChecksum: MD5: d15c6876d81b6306dd042842e41fa1ba
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload382
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wrppm.c
+SPDXID: SPDXRef-item883314
+FileChecksum: SHA1: 107aaf1190a2ba1b7d415e2629cec09318fd697f
+FileChecksum: MD5: 99a56d936f7330c12bd1eb4bfcd7b1bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/libjpeg.map.in
+SPDXID: SPDXRef-item883315
+FileChecksum: SHA1: 0e19cf35f690e1ecaa166889210f95ce72fb8f6f
+FileChecksum: MD5: 8f35d12dae553f2feb86e186a56bd27f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdmarker.c
+SPDXID: SPDXRef-item883316
+FileChecksum: SHA1: c30c3b92f79ede61c6c5dd10f326b06a37b3e2d4
+FileChecksum: MD5: 69f81a55700822cfd1cb3c38e001a4ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdsample.h
+SPDXID: SPDXRef-item883317
+FileChecksum: SHA1: ae572d1216808e0a1d9e36c5a0dcf416cc26ac50
+FileChecksum: MD5: 20c43388c4c148160a84ba7092cfe6dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jfdctflt.c
+SPDXID: SPDXRef-item883318
+FileChecksum: SHA1: f4c6e7ff06cb6db90156dd38fa0164c26e482d12
+FileChecksum: MD5: fc2c088d11f01af0d55cf25e3b870d04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/ar-lib
+SPDXID: SPDXRef-item883319
+FileChecksum: SHA1: bd59743e475ef3fa5ac10601b3477ee74cd5e794
+FileChecksum: MD5: 1f44d8791219b3da98e50128bb6b0938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jddctmgr.c
+SPDXID: SPDXRef-item883320
+FileChecksum: SHA1: 9ef975d678a398139905eadefea5dd3885286088
+FileChecksum: MD5: 25953ff9932a7cfa7aacf47d006cf1dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdbmp.c
+SPDXID: SPDXRef-item883321
+FileChecksum: SHA1: 660a45728bbbb5c1bc5a9f209760d6161b9c7c95
+FileChecksum: MD5: 5b4ce43f5dbe27c1aa0d5f7c10da0404
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wrtarga.c
+SPDXID: SPDXRef-item883322
+FileChecksum: SHA1: 7015e41fd7ec4e3b8f596979acf0121a0f343b9f
+FileChecksum: MD5: 4ba71d9fbdb92b0b74f4b2e9fecce975
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jidctflt.c
+SPDXID: SPDXRef-item883323
+FileChecksum: SHA1: db2065f8a628df23ebc01df47daa545ae69ab132
+FileChecksum: MD5: ccf33d286ece5f5e7a23319c142b51f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/example.c
+SPDXID: SPDXRef-item883324
+FileChecksum: SHA1: 54555eb7aa0b1bfe94e0e44bb07487a3b96c920a
+FileChecksum: MD5: 1a34e87f81c3f8278805e284f521879d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdcoefct.h
+SPDXID: SPDXRef-item883325
+FileChecksum: SHA1: a9e0fda8dd72217d7dcfe17b06c383c728fbe57d
+FileChecksum: MD5: def105e42dcdf735aa13754673c84641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/transupp.c
+SPDXID: SPDXRef-item883326
+FileChecksum: SHA1: a85d69da9193a0c41982348c6f5dec82afbb0888
+FileChecksum: MD5: 7e78cb1f3752d3c260620a34885affad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdmrg565.c
+SPDXID: SPDXRef-item883327
+FileChecksum: SHA1: 2a63fa82a2b08862fb1683c44159ae26daa77e82
+FileChecksum: MD5: 94634b631fbc5bcff56ce22ef2eb9bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jpegint.h
+SPDXID: SPDXRef-item883328
+FileChecksum: SHA1: 749c16d34ca0377bb25b623c6bf6ebbff3fe31c6
+FileChecksum: MD5: b65b7756742dfe3d9e009b2eaecc85ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wizard.txt
+SPDXID: SPDXRef-item883329
+FileChecksum: SHA1: 0c9fe232887950f6be6200943e07e92038c0e089
+FileChecksum: MD5: 1773431527ec987b5d153939c3df0dbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/compile
+SPDXID: SPDXRef-item883330
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jquant1.c
+SPDXID: SPDXRef-item883331
+FileChecksum: SHA1: 17e7b354b1b29b2b6848165f762abe1469f1a791
+FileChecksum: MD5: da690b965b0b0586ae34d7ffd10a6ecd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jmemmgr.c
+SPDXID: SPDXRef-item883332
+FileChecksum: SHA1: df6c0f044c3fb56c9c7f000ffecf0fa986bf99b6
+FileChecksum: MD5: 702b58539738ecfb8f8f8763f0380a6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/acinclude.m4
+SPDXID: SPDXRef-item883333
+FileChecksum: SHA1: 1c595d2cd1af900d0b6eb9a1024f7a1980f643b0
+FileChecksum: MD5: 17851c13f30c5ba30d5721db216d828c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/tjbench.c
+SPDXID: SPDXRef-item883334
+FileChecksum: SHA1: 1f1c8a105300d3d5fc61db79271adc1b59624940
+FileChecksum: MD5: 7ba3bd4dbeddd8f5bb41d0e89a1d31ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/CMakeLists.txt
+SPDXID: SPDXRef-item883335
+FileChecksum: SHA1: eec2da3c827c9b834cd1a44ac74dd3a70a47cb0e
+FileChecksum: MD5: c9f646cd56b4e53372abedc1bb66a8a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wrjpgcom.1
+SPDXID: SPDXRef-item883336
+FileChecksum: SHA1: 230efe9f04d9f082eb5cffe302f58047399c835e
+FileChecksum: MD5: 8ef6ec3d5c84fd25fd4a34ca8eff233d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/install-sh
+SPDXID: SPDXRef-item883337
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcprepct.c
+SPDXID: SPDXRef-item883338
+FileChecksum: SHA1: 282866672fd779c03960e448ee5d68bf946e35a3
+FileChecksum: MD5: 7fb01bc1f7849b3e6ef9e3c0349610f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jconfig.h.in
+SPDXID: SPDXRef-item883339
+FileChecksum: SHA1: e52b370c22c6c542f8a187cf845477cfb79da912
+FileChecksum: MD5: 1ecbfa450d5a1cda667c46f8e0ec1978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jstdhuff.c
+SPDXID: SPDXRef-item883340
+FileChecksum: SHA1: d75d823ddd42ad6760397638798b335e8023467b
+FileChecksum: MD5: 41ff7a7d3d580de6c11026431076f36a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jutils.c
+SPDXID: SPDXRef-item883341
+FileChecksum: SHA1: 32cdac28d0c1b1b4cec2bdbaa793a490f242e09c
+FileChecksum: MD5: 98420f00f16ce0bc1c568b4f2b088d30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcmarker.c
+SPDXID: SPDXRef-item883342
+FileChecksum: SHA1: 49c4235e79ece1d8746536ba85c8e844efd95862
+FileChecksum: MD5: aa2634e2881bdabc9b45e0a115fbd6a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/turbojpeg.c
+SPDXID: SPDXRef-item883343
+FileChecksum: SHA1: 63721b087d193700f7f09e4d3a3f2f6b58c337db
+FileChecksum: MD5: 4552bb9c2a09a73a20124aaf65a95c89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcparam.c
+SPDXID: SPDXRef-item883344
+FileChecksum: SHA1: ed2956aaeb47c97e35c7dfafbdc090f71f962294
+FileChecksum: MD5: b2c99e9d612c5b2bee64a137ee2232ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcdctmgr.c
+SPDXID: SPDXRef-item883345
+FileChecksum: SHA1: 053ab9ba30497a8ae8250400c4e46b8b1857d75c
+FileChecksum: MD5: beb27d7129a36d0622d2ca0878a8a5d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/djpeg.1
+SPDXID: SPDXRef-item883346
+FileChecksum: SHA1: 8afea2f2d0f64ad3b5c391d2960e78c119b03266
+FileChecksum: MD5: 294e2329f1e14dcff90df1bbf9921a91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jfdctfst.c
+SPDXID: SPDXRef-item883347
+FileChecksum: SHA1: 5b7a3a14f3dc0be8d671fd145b62b161367ef2ad
+FileChecksum: MD5: 6259978373970fe61f39035c1212c679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jpeglib.h
+SPDXID: SPDXRef-item883348
+FileChecksum: SHA1: a0aa01fb935012e4fa69708b3058405a33cd3c11
+FileChecksum: MD5: a051dac46de5c89ffaa42bc0b0c143ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/aclocal.m4
+SPDXID: SPDXRef-item883349
+FileChecksum: SHA1: 42b67838ba2e1a55cbfe51045091a12b8e1f7851
+FileChecksum: MD5: a75978f784b947a4391d4c637580b9c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/tjunittest.c
+SPDXID: SPDXRef-item883350
+FileChecksum: SHA1: 72e9d38d6b573c92b793ce6e759df5042cb36618
+FileChecksum: MD5: dcd0425b69984198cf89a82b6aee69ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jsimddct.h
+SPDXID: SPDXRef-item883351
+FileChecksum: SHA1: cc714cd556628033315edf9a1f2eb7d7ef745045
+FileChecksum: MD5: c01637ceec4c5d08d8b5bce06cf0a2e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdcol565.c
+SPDXID: SPDXRef-item883352
+FileChecksum: SHA1: 5c50de90ea889c65722e196ca4d20b3c50cb5b2b
+FileChecksum: MD5: 09c6186e25695723600dafc59f3433b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/LICENSE.md
+SPDXID: SPDXRef-item883353
+FileChecksum: SHA1: 7b111516fb0f6aa2063908e9098aa5727200abf3
+FileChecksum: MD5: f5bae2e0391ad876f09ae61ee2bcce69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: IJG
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jsimd.h
+SPDXID: SPDXRef-item883354
+FileChecksum: SHA1: d98fecf4f1a94a83571efe74b926ec6a6876e925
+FileChecksum: MD5: ee56ef16b5a916454cecba43f161c1d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcmainct.c
+SPDXID: SPDXRef-item883355
+FileChecksum: SHA1: 69c418e31096c43ba91c98b0a2ca547d15314f2f
+FileChecksum: MD5: b3020423a322499dc3e8b9e83e99d1b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/change.log
+SPDXID: SPDXRef-item883356
+FileChecksum: SHA1: 12d5c96334a3d45945f0273731fd6d1c24d14b80
+FileChecksum: MD5: b312549c612661c773f3dcb1126e0f71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdcolor.c
+SPDXID: SPDXRef-item883357
+FileChecksum: SHA1: 16bc5a7542ee6cb1b92eb86e86e96782f0e974a0
+FileChecksum: MD5: 5a391aa1d7ce0e4d68e6639435091fde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jerror.h
+SPDXID: SPDXRef-item883358
+FileChecksum: SHA1: a221a94419e0cfa143208ae780635b1ae59b1c5c
+FileChecksum: MD5: 2a6ef4964b52a4dee3953859aa0160ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/djpeg.c
+SPDXID: SPDXRef-item883359
+FileChecksum: SHA1: 7ea8afc5e018c5f5378d2c104425332238622915
+FileChecksum: MD5: 8349f644cbb26f32df255ee4972256d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jidctint.c
+SPDXID: SPDXRef-item883360
+FileChecksum: SHA1: b4264be61bc2b672b96e18fda94adea2818056d6
+FileChecksum: MD5: cdf20ad095bb871290e91f9eafdb8321
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/cdjpeg.h
+SPDXID: SPDXRef-item883361
+FileChecksum: SHA1: fb74fa59c6c5c3e22f03a6bdd49c0cc53421038b
+FileChecksum: MD5: f26eee525079c2a08b71c05734dc1b06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/Makefile.in
+SPDXID: SPDXRef-item883362
+FileChecksum: SHA1: 41e68fcc062ef40ba569db1fbfe4e137fffb96c5
+FileChecksum: MD5: bf9994f728bad2684c2e8b1275ebaa27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdhuff.c
+SPDXID: SPDXRef-item883363
+FileChecksum: SHA1: 06dfa634df2b65f6e894719ecaf1c51780e11576
+FileChecksum: MD5: 59fc45a0cd86a3bb28884951d1c4ac3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcsample.c
+SPDXID: SPDXRef-item883364
+FileChecksum: SHA1: c6175eb36350edecae20fe8a7e8d20fe148607e5
+FileChecksum: MD5: faf35f8e1fb93a079b1d3234cc49df52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/Distribution.xml
+SPDXID: SPDXRef-item883366
+FileChecksum: SHA1: e2ecbd5b02ce3d6e8e12a6f2f50dd0f42b8eb2e3
+FileChecksum: MD5: ec53bc823a8a12a14b8c6171b1523dee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/Welcome.rtf
+SPDXID: SPDXRef-item883367
+FileChecksum: SHA1: d61c6d5f2c177c1e40bb2aa29280ce32a6fed7e2
+FileChecksum: MD5: 00dce69747a34f78d9dfd18c2abb0c00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/uninstall.in
+SPDXID: SPDXRef-item883368
+FileChecksum: SHA1: e256e2f751bc54ab89835f45428b4d2aea6c69bd
+FileChecksum: MD5: 2bf7c43d8d6bb707954b3eff11f571ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/makemacpkg.in
+SPDXID: SPDXRef-item883369
+FileChecksum: SHA1: 246e1a1cb15ecdc4a575f37d558167d7996eb179
+FileChecksum: MD5: 874122bb7fdbe214472d9c91e0b721c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/License.rtf
+SPDXID: SPDXRef-item883370
+FileChecksum: SHA1: f0b17b88210d4efef996d99421683315b8ded689
+FileChecksum: MD5: ee099ee7ddabeaddd30f6d901fe299de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/makedpkg.in
+SPDXID: SPDXRef-item883371
+FileChecksum: SHA1: d3df812c254e06a1b0be780fdd8da352a180ed7d
+FileChecksum: MD5: 900b09ba8bfaf1105882a4ab07db70e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/deb-control.tmpl
+SPDXID: SPDXRef-item883372
+FileChecksum: SHA1: 8780adbe99cef120594444fbeddf9a2c667c39c3
+FileChecksum: MD5: ae273d8100e66390e01717445eeb3f0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/libjpeg-turbo.spec.in
+SPDXID: SPDXRef-item883373
+FileChecksum: SHA1: 8daf812ed3a913a790de7fc9f8942dd840f93525
+FileChecksum: MD5: 75c48d3e8d3870e1ad754e19073f29d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/makecygwinpkg.in
+SPDXID: SPDXRef-item883374
+FileChecksum: SHA1: 82b468cdf78d74ec5df5c8ce9f3540a8cf38c1b1
+FileChecksum: MD5: a715c6a5f87414d793331ec9e444a9f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/ReadMe.txt
+SPDXID: SPDXRef-item883375
+FileChecksum: SHA1: 1537cf0a0d4c41145778874b75a64050dcf1daee
+FileChecksum: MD5: c521ff3d64fc1da0c5b94c1672501e29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/libjpeg-turbo.nsi.in
+SPDXID: SPDXRef-item883376
+FileChecksum: SHA1: 261a1840b3b81fbff5efcbdcc04c86e3dbfe73f4
+FileChecksum: MD5: 6d9f55160502c58e53dce5269ba290a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/libjpeg.pc.in
+SPDXID: SPDXRef-item883377
+FileChecksum: SHA1: 9b754f1e8b162e37f26d8aafc27b23be5b15ab0c
+FileChecksum: MD5: 39807667ca114ebbcfff75ce79b494bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/release/libturbojpeg.pc.in
+SPDXID: SPDXRef-item883378
+FileChecksum: SHA1: 2d6f9c7bc9c9ec7c2214b93517f73e588d407546
+FileChecksum: MD5: aceb070674afcdda64a0519b05a4f5d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jchuff.h
+SPDXID: SPDXRef-item883379
+FileChecksum: SHA1: 448aedb4bab1f972d1708051ffcb4fef1485b4be
+FileChecksum: MD5: ef960714a4ddd1f4d905992fd61c097a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/configure
+SPDXID: SPDXRef-item883380
+FileChecksum: SHA1: 2e543ced2b52f5c4e633e54a700cf250002dba9f
+FileChecksum: MD5: 2f6637071fc382282db3ff65821403a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jconfig.txt
+SPDXID: SPDXRef-item883381
+FileChecksum: SHA1: ce7f0a5baef1e4755f6af6c269049c12fa4ce7c4
+FileChecksum: MD5: f70e10679118b26ba59038630d8da89a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdtarga.c
+SPDXID: SPDXRef-item883382
+FileChecksum: SHA1: 0799ec4e3190cd87073f075b70b65d5c2ff19b7b
+FileChecksum: MD5: db0ecdf1bda958ce25c09c9d1270c368
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/BUILDING.md
+SPDXID: SPDXRef-item883383
+FileChecksum: SHA1: f6716891e9e0677e3910b58928ae7fe50d775939
+FileChecksum: MD5: 68bcf8197e8a423cc77d95760c04e6a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/win/jpeg7-memsrcdst.def
+SPDXID: SPDXRef-item883385
+FileChecksum: SHA1: f3a7273e58ca3688b52a428f9130dcae6dcccd3e
+FileChecksum: MD5: 92d00f48f701ea952a35b3f4c5819da1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/win/jconfig.h.in
+SPDXID: SPDXRef-item883386
+FileChecksum: SHA1: 710fd2e8101cf6a7bfc32a9f30ba33e45d201b63
+FileChecksum: MD5: 088413af5623afb0f3bbe4821ecec9a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/win/jpeg62.def
+SPDXID: SPDXRef-item883387
+FileChecksum: SHA1: a9fbc51845efa715910d36f2db6eca7905bb7c82
+FileChecksum: MD5: f5664e82ab30dfdda1ed16c777957781
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/win/jsimdcfg.inc
+SPDXID: SPDXRef-item883388
+FileChecksum: SHA1: 7486e7b6d27f2c063d4a82e06ab2653abd812ab1
+FileChecksum: MD5: b6a1c7239b2d3ba81024bf551bf7d4ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/win/jpeg8.def
+SPDXID: SPDXRef-item883389
+FileChecksum: SHA1: 409de009102fbb5495637b33ce39c8a796b52502
+FileChecksum: MD5: 5c55ef8eec935744ac630e6bb481d618
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/win/jconfigint.h.in
+SPDXID: SPDXRef-item883390
+FileChecksum: SHA1: 571caa065548492c04b2bbc47522eacccc7cd56d
+FileChecksum: MD5: 7a6d1705bfd255e0beb685726bf2f8b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/win/jpeg62-memsrcdst.def
+SPDXID: SPDXRef-item883391
+FileChecksum: SHA1: 112ab4b3e39578058972b88a86237adb6acca2c6
+FileChecksum: MD5: 6f7cacf9029f3d01a73fbc373ae63795
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/win/jpeg7.def
+SPDXID: SPDXRef-item883392
+FileChecksum: SHA1: e75eadf3eb70241b36b49d26aaeb1e52ab5c29fd
+FileChecksum: MD5: b0fbb1a0de9093e5a90934c9964f2ecd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jinclude.h
+SPDXID: SPDXRef-item883393
+FileChecksum: SHA1: f7ae7a24c0acdc01821096e1c1626f194b3a84c7
+FileChecksum: MD5: 726ee655b879ac8aee8bd114446d3706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/ltmain.sh
+SPDXID: SPDXRef-item883394
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jversion.h
+SPDXID: SPDXRef-item883395
+FileChecksum: SHA1: 9f3a618543eca3acbb0d9184af7f79e8d3345353
+FileChecksum: MD5: fcc9a9bec3a4bdec3a79382037c55d27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doxygen-extra.css
+SPDXID: SPDXRef-item883396
+FileChecksum: SHA1: 88be3c9942c7a83f557c28af3373b6b868ab9245
+FileChecksum: MD5: 0422fc9d206c16b08dc8e9fd524be3e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdmainct.c
+SPDXID: SPDXRef-item883397
+FileChecksum: SHA1: 5085315393eb53dce67cc61ea8d467a88b9d9ebf
+FileChecksum: MD5: 5153d40462a50a9f7176c9a4ffa48541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdmainct.h
+SPDXID: SPDXRef-item883398
+FileChecksum: SHA1: 390ea91bb9908f255d8d3114f6aee639809c1ed5
+FileChecksum: MD5: 0c1420928a3392e9c7913238628250ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/turbojpeg-mapfile
+SPDXID: SPDXRef-item883399
+FileChecksum: SHA1: 906d2ebc2ed6addbdd5cf33a11149636d0ea15a1
+FileChecksum: MD5: 1788911beecf9035cd66b0c3bdd88371
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdtrans.c
+SPDXID: SPDXRef-item883400
+FileChecksum: SHA1: 9ad6fd4eb44f4188df7b146e07bdf23c04b53948
+FileChecksum: MD5: 1987e6ed5c4830195e47bb3b1ab33ef6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jccolor-sse2.asm
+SPDXID: SPDXRef-item883402
+FileChecksum: SHA1: 192ac6f91e3f67307bf67049c9aa2fe5e86a91b7
+FileChecksum: MD5: 1c5bc3107b5de1b2f9808c5f09ae633a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctfst-altivec.c
+SPDXID: SPDXRef-item883403
+FileChecksum: SHA1: b274d3ba6cc93a863fd52a5a23af29c62da88160
+FileChecksum: MD5: 7ea05c1ca929cb64ba69afe3920c4a79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcsample-altivec.c
+SPDXID: SPDXRef-item883404
+FileChecksum: SHA1: ba816d3a3db65d7cc2797e3b1a182a62d6a34126
+FileChecksum: MD5: 1212ea65d3253d3587b2ce76ac78cff6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcsample-sse2-64.asm
+SPDXID: SPDXRef-item883405
+FileChecksum: SHA1: 9bac2df1b2c7a0fe58ea4191b6899175b2ee7e13
+FileChecksum: MD5: 06067b3b651fd28781e2a82b2711d80a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jccolext-sse2-64.asm
+SPDXID: SPDXRef-item883406
+FileChecksum: SHA1: 711abb21cad78ebf1fb88219c17029619e1ede5d
+FileChecksum: MD5: aede2fd08f344a290544c965415f671f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcgray-mmx.asm
+SPDXID: SPDXRef-item883407
+FileChecksum: SHA1: 3816aeecb73ff50347b5cc054de03fad86b4cb98
+FileChecksum: MD5: c742bd39b1b73bc5242d7dc5324a5759
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctint-sse2.asm
+SPDXID: SPDXRef-item883408
+FileChecksum: SHA1: b1d135493c6467da61d13453de0e15403b5ced96
+FileChecksum: MD5: e24569a3e14393dc8063b453b83e9b91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdmerge-altivec.c
+SPDXID: SPDXRef-item883409
+FileChecksum: SHA1: 3d851e47d4801afbb72ff5361b7108d335d71a2d
+FileChecksum: MD5: d5dfd9d937c104999036cf630cf98aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctflt-sse.asm
+SPDXID: SPDXRef-item883410
+FileChecksum: SHA1: d76dac46d6b4a3585ea21f6e7770452eaed8f907
+FileChecksum: MD5: 9df6a9589fea72747a3a3b14d7b7767d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdcolor-sse2-64.asm
+SPDXID: SPDXRef-item883411
+FileChecksum: SHA1: e0401c2d1f81c9d9d1c40961896b6691d7c010b2
+FileChecksum: MD5: 81b63b3573fe169ce70216b9133bb5f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jccolext-altivec.c
+SPDXID: SPDXRef-item883412
+FileChecksum: SHA1: 34effcb9182068bf2022693848f9d6607445cc0b
+FileChecksum: MD5: ac4e051ca9b2846b9ce64881501254c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_altivec.h
+SPDXID: SPDXRef-item883413
+FileChecksum: SHA1: 4eb64e4c361d091af3cb7b3a597913280c2fd67b
+FileChecksum: MD5: 9f69e1bcdc7c4a127d601294fef520c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/CMakeLists.txt
+SPDXID: SPDXRef-item883414
+FileChecksum: SHA1: 38806aeaa257a640425751038604dce551f13f8b
+FileChecksum: MD5: e780233aee4f118fb87dc5f1e65fe324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctfst-altivec.c
+SPDXID: SPDXRef-item883415
+FileChecksum: SHA1: 573ae2733857efb6ca0386587b05070105e759d8
+FileChecksum: MD5: 11190bf428de24fd93dc742a14a7cc7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdmrgext-sse2.asm
+SPDXID: SPDXRef-item883416
+FileChecksum: SHA1: f31ee7d93b7797588e3d83ccadd8c624868856e6
+FileChecksum: MD5: 6638d7a8de32fbeb38e589a82ebad44e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jquant-3dn.asm
+SPDXID: SPDXRef-item883417
+FileChecksum: SHA1: c71ba83d5d8ba1d74622ac944566d549196e95d0
+FileChecksum: MD5: f6b481158e742275bcb701331b8dd8eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcgray-sse2-64.asm
+SPDXID: SPDXRef-item883418
+FileChecksum: SHA1: 452357df85b2e99a5218b169c23726ef645414ea
+FileChecksum: MD5: 9664b2d53f6e750240d381ee6a898fa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdcolext-sse2-64.asm
+SPDXID: SPDXRef-item883419
+FileChecksum: SHA1: 2c2cf0f7ec4c2463096bd6a33fafd3100cd36172
+FileChecksum: MD5: ac9d3742ae9f786f3706d47ddf3207fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimdext.inc
+SPDXID: SPDXRef-item883420
+FileChecksum: SHA1: a08c8592919f1d5b3a963e2e37ba0c639d04a338
+FileChecksum: MD5: 9b09be7d494c2a0dc9beb04b031ce000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdsample-sse2-64.asm
+SPDXID: SPDXRef-item883421
+FileChecksum: SHA1: 9bb423b05ea455e519965e0b622b2c7fb06a6981
+FileChecksum: MD5: faed3bb7857ab308b18526fd132a75ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctfst-sse2.asm
+SPDXID: SPDXRef-item883422
+FileChecksum: SHA1: 62d02b25f8ff22fa38cb6731a7d68ea9a4d136f4
+FileChecksum: MD5: d304417825e508f10f3c55c7ce28009b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jquant-sse.asm
+SPDXID: SPDXRef-item883423
+FileChecksum: SHA1: da4a44c1f7e6286da3d5eb22532078b3883cb22c
+FileChecksum: MD5: e28c68373b5970ea5b0fedffae582082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcsample-sse2.asm
+SPDXID: SPDXRef-item883424
+FileChecksum: SHA1: fcf179c2558e33d7648d6d79f6809f0de49ffdcf
+FileChecksum: MD5: 702edfa100242a22e4ee8268704e5948
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctfst-sse2.asm
+SPDXID: SPDXRef-item883425
+FileChecksum: SHA1: af7c332fdea7de40b5b8bf5d6911a4801a8b192d
+FileChecksum: MD5: 6ed10acb03da58898108f720030e163e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jquantf-sse2.asm
+SPDXID: SPDXRef-item883426
+FileChecksum: SHA1: 29bd5f0446daefb26cc85c8140e791e95defc6a8
+FileChecksum: MD5: 41b1c0550e95ab23f640b5ffab91315e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctred-mmx.asm
+SPDXID: SPDXRef-item883427
+FileChecksum: SHA1: 4eb74625f7e2a7619db3f3d133d3ba19c3cf4266
+FileChecksum: MD5: d44273cb6cfbf238a33678f519d1a6ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_arm64_neon.S
+SPDXID: SPDXRef-item883428
+FileChecksum: SHA1: a88abf9f2f9a276e728c9cb8457720323d1c9316
+FileChecksum: MD5: 38e582ef2374047064a1cd833faa6658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_mips_dspr2.S
+SPDXID: SPDXRef-item883429
+FileChecksum: SHA1: 930ade1ab2ad10c3d94e8edc0dd3c0229c711c7c
+FileChecksum: MD5: eacc012d5d8702f5c847c7d996602f40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd.h
+SPDXID: SPDXRef-item883430
+FileChecksum: SHA1: 1b2fc2f4b49edb398e6ceee082a853e9c4ce2729
+FileChecksum: MD5: 0003b63de94fd5b4f846bf39522377a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_powerpc.c
+SPDXID: SPDXRef-item883431
+FileChecksum: SHA1: 34bcd5a052aac08d026d268648d07354f8f80e15
+FileChecksum: MD5: f7923c6dfd84723e1b0414a795640ddd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_mips_dspr2_asm.h
+SPDXID: SPDXRef-item883432
+FileChecksum: SHA1: ef9880069e065d6d685c50f7f9b71788e0334c89
+FileChecksum: MD5: 17f301be0a3c7f4e175d6da03fd66c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/Makefile.in
+SPDXID: SPDXRef-item883433
+FileChecksum: SHA1: 58c7ed175482147382eb2fef4e8d532cfb32c5ff
+FileChecksum: MD5: 5928ed4353f29e5bcbb8e11b39ac3964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdsample-mmx.asm
+SPDXID: SPDXRef-item883434
+FileChecksum: SHA1: 71772fc35b63811e6b437e190223277c56b3ddb2
+FileChecksum: MD5: 436119d1a81910957eb433fea81e0371
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctflt-3dn.asm
+SPDXID: SPDXRef-item883435
+FileChecksum: SHA1: 00e9c73f3576e95dc044fa003d1fb753a8cc4d6b
+FileChecksum: MD5: 662be920dda49beb18cfc1f5aa609b82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_arm64.c
+SPDXID: SPDXRef-item883436
+FileChecksum: SHA1: df48abd9849324bcfd52920fffb685903e42e465
+FileChecksum: MD5: 6507b3f186ad65a2bc44106ff54ea8a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctred-sse2.asm
+SPDXID: SPDXRef-item883437
+FileChecksum: SHA1: 9a75620595dee6cfd3fdc8fe968700dd9c9dc7a9
+FileChecksum: MD5: ff1c081402aceda541440bb8244fbc8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctflt-3dn.asm
+SPDXID: SPDXRef-item883438
+FileChecksum: SHA1: 17cad38a3f16b4f58d18fab782b50dd22c799ed8
+FileChecksum: MD5: 9532e1a2ffa95a2634d6fc3c9b7d0f81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcgryext-sse2.asm
+SPDXID: SPDXRef-item883439
+FileChecksum: SHA1: d820aaa3f4c52dd8466f3907c3302091e252b849
+FileChecksum: MD5: 88566e5e1afb19895ca12b8a03702259
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcsample.h
+SPDXID: SPDXRef-item883440
+FileChecksum: SHA1: 0adf2fdfc211d7cca32c05c5d7370b1b8404163f
+FileChecksum: MD5: 126cc6ade26da0aa1ad90c7b1a4d1b3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jchuff-sse2.asm
+SPDXID: SPDXRef-item883441
+FileChecksum: SHA1: 318d38f6a4776e09c39dd4403946327acadbe8e7
+FileChecksum: MD5: cc70a129f4eccc641a56f61c80569910
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdcolor-mmx.asm
+SPDXID: SPDXRef-item883442
+FileChecksum: SHA1: ac5a9fb5030f5b1529351d976e1b8ad63bfff67c
+FileChecksum: MD5: 58a77e734a9981c5d7fce03595019a50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jquanti-sse2-64.asm
+SPDXID: SPDXRef-item883443
+FileChecksum: SHA1: 90eecada6f388c3f9d22eb461c57bbaa68fc4162
+FileChecksum: MD5: 86f164adac9b2f38961137b8cf6c3700
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctfst-sse2-64.asm
+SPDXID: SPDXRef-item883444
+FileChecksum: SHA1: c485ce29682180496b8c2b5cdab9094502dbcbd4
+FileChecksum: MD5: 833e521fe3717724a87dc957d6830c3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctflt-sse2-64.asm
+SPDXID: SPDXRef-item883445
+FileChecksum: SHA1: ac6028bd348573cc31bd099c60c92dd870329f10
+FileChecksum: MD5: c4e4cba95fdbf9aa0a8e8f059e6b7e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_i386.c
+SPDXID: SPDXRef-item883446
+FileChecksum: SHA1: 23a5b1d616592436d7611d9cb4436145ee3ba497
+FileChecksum: MD5: 155d2e8bfe44414ff0bb3efeb7b1e182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctflt-sse2.asm
+SPDXID: SPDXRef-item883447
+FileChecksum: SHA1: 61cff43bba76a9ac1c7a1976aed6c691f9c551fb
+FileChecksum: MD5: 31e54455e50438d544820d3a4d220c51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdmerge-mmx.asm
+SPDXID: SPDXRef-item883448
+FileChecksum: SHA1: 7b531b3a5a798fbc775dbe249628c760806a49cd
+FileChecksum: MD5: b74beabe496e4276c7d44514048f6294
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jccolor-mmx.asm
+SPDXID: SPDXRef-item883449
+FileChecksum: SHA1: a14241bcb7306db5c2726a82e5874607750a0628
+FileChecksum: MD5: b5f0a789c5e5e2ffc170f8b76805683d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctint-mmx.asm
+SPDXID: SPDXRef-item883450
+FileChecksum: SHA1: 941597014a2f3a28dac8abfbd5b9b249d7c9d7b7
+FileChecksum: MD5: 1ae2cadea4ded1c216a13a2aedffdaf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdmerge-sse2.asm
+SPDXID: SPDXRef-item883451
+FileChecksum: SHA1: 25539072d81a0e1e2b03df7b28bbbe2a2ac0419a
+FileChecksum: MD5: c1ee90a01d7ff696dd943156111017c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctflt-sse.asm
+SPDXID: SPDXRef-item883452
+FileChecksum: SHA1: f5556a74521760c5f511dbb0eebfa9445a72055d
+FileChecksum: MD5: eb4964a81bfe800b355bd93f45a1d192
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcgryext-mmx.asm
+SPDXID: SPDXRef-item883453
+FileChecksum: SHA1: 84fd9da148a219be1c6bfb248ca882ef4a9748fd
+FileChecksum: MD5: 92620f514b8014b84a7277855da60d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jccolext-mmx.asm
+SPDXID: SPDXRef-item883454
+FileChecksum: SHA1: 49559d91bc878ebfe7b269f48dbf91ecc2139304
+FileChecksum: MD5: 939db2ff540d5d8ffe633b2043be2ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_mips.c
+SPDXID: SPDXRef-item883455
+FileChecksum: SHA1: 94393407ce676f54efdfece6ba01a5afc326ecb5
+FileChecksum: MD5: ee9a1902dcf695a34e8f79b4eda961cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jccolor-sse2-64.asm
+SPDXID: SPDXRef-item883456
+FileChecksum: SHA1: e1bec769621a89ba7de435145cb87304840b7cb2
+FileChecksum: MD5: 7092627e05230cd7a7a5e716e3f76c67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdcolor-sse2.asm
+SPDXID: SPDXRef-item883457
+FileChecksum: SHA1: fd594b54f92d8cd80df01256701ec1b172b7fe16
+FileChecksum: MD5: e2dd782ccc2e55f8c02f6f1650343707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/Makefile.am
+SPDXID: SPDXRef-item883458
+FileChecksum: SHA1: 03fc47c9f276986f6df8f052d5055d10e5d9a20a
+FileChecksum: MD5: 3bdf4cc7a00ee5eadb42ba2ccdbaac1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jquanti-sse2.asm
+SPDXID: SPDXRef-item883459
+FileChecksum: SHA1: 258ae696b93bbe7e6705a5360baf3caf24903a4a
+FileChecksum: MD5: 54eefbf0cf8f11757a9f3a05090b99d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimdcfg.inc.h
+SPDXID: SPDXRef-item883460
+FileChecksum: SHA1: b29e48cf5f253ce1f47f972e10b3c548a8ae2a23
+FileChecksum: MD5: a2f45a220360f63368b0639a1bf942ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdcolext-sse2.asm
+SPDXID: SPDXRef-item883461
+FileChecksum: SHA1: 2fce06103d93c190300583f5c3f877237134d803
+FileChecksum: MD5: c3c02b3e03f353dd7278500f195b864e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jpeg_nbits_table.inc
+SPDXID: SPDXRef-item883462
+FileChecksum: SHA1: 64bfceb8919f41d75476ceaf56e6089eee4431d9
+FileChecksum: MD5: a2f91053cee71bce6cd374965ec479b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jccolor-altivec.c
+SPDXID: SPDXRef-item883463
+FileChecksum: SHA1: f3574581198d03e1fe180e52fcb335f3ea3a69ec
+FileChecksum: MD5: 33811a40360228e3e170646cec462ec8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/nasm_lt.sh
+SPDXID: SPDXRef-item883464
+FileChecksum: SHA1: 12da5f3eb34891dbbedeaa98eba0eba274290f91
+FileChecksum: MD5: 801e3df755d422cf0af78247c6e11f15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdmrgext-mmx.asm
+SPDXID: SPDXRef-item883465
+FileChecksum: SHA1: da2f42b4df5c1de9c946055b3d14bfb7affbdc4a
+FileChecksum: MD5: f551c91b28cb90cfef7571fa690d80f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctfst-mmx.asm
+SPDXID: SPDXRef-item883466
+FileChecksum: SHA1: 7753fe868d4baf82dff4cdee4d7deb74815e1359
+FileChecksum: MD5: c10bd45027556d51014e5abe211f4672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctint-sse2-64.asm
+SPDXID: SPDXRef-item883467
+FileChecksum: SHA1: cdf1b0e0e4294940adef5730f073d4da8dbf1efc
+FileChecksum: MD5: 5ad8d2d15cb298aee7b8e648f46e9493
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jccolext-sse2.asm
+SPDXID: SPDXRef-item883468
+FileChecksum: SHA1: 209984ee41cb978cfa4c3ae92260a7962b208063
+FileChecksum: MD5: 1affc4b515116443b1fa45f027dc0770
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdct.inc
+SPDXID: SPDXRef-item883469
+FileChecksum: SHA1: 009367b2092ba2dab82a214504fa509db32dc371
+FileChecksum: MD5: 01b638a6394ac4c43415ff54f12ca459
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctint-altivec.c
+SPDXID: SPDXRef-item883470
+FileChecksum: SHA1: c8a33e0e92050504eb7f22334ec5e3ecdfe48203
+FileChecksum: MD5: 2221ec8d95b399d6a53af88b30a0818f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctint-sse2.asm
+SPDXID: SPDXRef-item883471
+FileChecksum: SHA1: 2386ceb6cb8cd6877ae1262c2c2017d3e0ff395d
+FileChecksum: MD5: f3c53b54c6b5ab0de4ec07fbc0c1682d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jquantf-sse2-64.asm
+SPDXID: SPDXRef-item883472
+FileChecksum: SHA1: 410fc8b4812fdd25908fcffa2438f4c3e3294696
+FileChecksum: MD5: ac170ec49180cde7538e08500aad1318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcgryext-sse2-64.asm
+SPDXID: SPDXRef-item883473
+FileChecksum: SHA1: 5f1dd515673ebf4ecb3640eae3c72e2c4f779d52
+FileChecksum: MD5: e875cfc9c9f14c6813a7dee654f1be6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdcolext-altivec.c
+SPDXID: SPDXRef-item883474
+FileChecksum: SHA1: a8fedd82bcebb4dd1281bf62ffb06c9c51a14d9c
+FileChecksum: MD5: 6bab9cb35c4607ee6268d2c572edeab3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_arm_neon.S
+SPDXID: SPDXRef-item883475
+FileChecksum: SHA1: 0d5018da3c40f79574eb8eb5d6c33e9bc3f2452f
+FileChecksum: MD5: bfeb05be9bea7cb9e0640b4616d3ecb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_arm.c
+SPDXID: SPDXRef-item883476
+FileChecksum: SHA1: 598401fd7db6cd339028cd78673ae53196808d5e
+FileChecksum: MD5: 059bb1e6c7da742455c225f06c7fd131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdmrgext-altivec.c
+SPDXID: SPDXRef-item883477
+FileChecksum: SHA1: 989472ff26cc6cc52097ce00ed7d33ff2789b461
+FileChecksum: MD5: 9ecc9d57eaca159a78ae6964a6a4a2ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctint-mmx.asm
+SPDXID: SPDXRef-item883478
+FileChecksum: SHA1: c9dccc20a91cac5fb8406aa053350417512914d0
+FileChecksum: MD5: dcf7fce99cb181baa91b0b1e8efd3521
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdsample-altivec.c
+SPDXID: SPDXRef-item883479
+FileChecksum: SHA1: 94f5826f0a4dd3c10d56210a4d140e3a028988ac
+FileChecksum: MD5: efa7578957c5b158ea72022b7bbdfd7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctfst-mmx.asm
+SPDXID: SPDXRef-item883480
+FileChecksum: SHA1: 4352d8c535707c643ec43b361d596152cf0ae226
+FileChecksum: MD5: 537dd6f878ee99cec97d517ff66c3e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdcolext-mmx.asm
+SPDXID: SPDXRef-item883481
+FileChecksum: SHA1: 858a42ab3912cd9b1599b2ab189bc690da5fb0fc
+FileChecksum: MD5: b457bcfbf9bca0478c460ec707c49c68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcgryext-altivec.c
+SPDXID: SPDXRef-item883482
+FileChecksum: SHA1: 4e08ad2cb21f19d19ed5a5a5ea47976ac7f344dd
+FileChecksum: MD5: 578d16b59fada1d952683f10f1c627ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdmrgext-sse2-64.asm
+SPDXID: SPDXRef-item883483
+FileChecksum: SHA1: 45013b71321d65b26765b7dfdd62b5dcbd151fa5
+FileChecksum: MD5: 27448370e42010518268b35a6da731ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcgray-altivec.c
+SPDXID: SPDXRef-item883484
+FileChecksum: SHA1: e550e6f7103e7cf42ce245b2e411cc490b8f756e
+FileChecksum: MD5: f6998e1a37423c8430fb97de773a003b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdsample-sse2.asm
+SPDXID: SPDXRef-item883485
+FileChecksum: SHA1: 3f32115743ed77744cc0c3131ed79f9f017bc7f6
+FileChecksum: MD5: 87bd6deabcf81e306348895a2c16014f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimdcpu.asm
+SPDXID: SPDXRef-item883486
+FileChecksum: SHA1: 68dd203fd39985e6208b8a2008e40e0af975d7f7
+FileChecksum: MD5: e2893652eb45d5cd5efd6c0138df7e29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctfst-sse2-64.asm
+SPDXID: SPDXRef-item883487
+FileChecksum: SHA1: 2a36820972f8b0a2745aff6a656ad11c67655c33
+FileChecksum: MD5: 569bc7ae002b13f9cd490618609adb94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctflt-sse-64.asm
+SPDXID: SPDXRef-item883488
+FileChecksum: SHA1: 022c92cfdfff07f411dfead4cc8dd1d9f0a96f02
+FileChecksum: MD5: afb205ed729f6c70d8b7ca970d9e4d40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdcolor-altivec.c
+SPDXID: SPDXRef-item883489
+FileChecksum: SHA1: b57f9ad76c51baa3a1104ad8db79dc73f398391b
+FileChecksum: MD5: 16c940c87ce284b7144d66d9c27adc35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jdmerge-sse2-64.asm
+SPDXID: SPDXRef-item883490
+FileChecksum: SHA1: 898d318902736dd4814c53c8478584f75ce5bb49
+FileChecksum: MD5: 385c8f5b4ff7c4b9aef3a5ec90349793
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jquant-mmx.asm
+SPDXID: SPDXRef-item883491
+FileChecksum: SHA1: 68f4e5334428269d5bed00aa499cf9f9d1e18cae
+FileChecksum: MD5: 581c6321667b02728cbdbd72ee6fdc44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jidctred-sse2-64.asm
+SPDXID: SPDXRef-item883492
+FileChecksum: SHA1: 944fbdb2a9165ce5b5c38ed80791640ed9dec273
+FileChecksum: MD5: 95a6af9439283b2ba0bba63f6f1e5806
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jchuff-sse2-64.asm
+SPDXID: SPDXRef-item883493
+FileChecksum: SHA1: 7538fe37920c14e3c3644f886ff552c8c7f3697a
+FileChecksum: MD5: e1dd8e8405b542fde97bcdb4e14e1b61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcsample-mmx.asm
+SPDXID: SPDXRef-item883494
+FileChecksum: SHA1: 6350b44d1101bacd7fc4bd8dc13cb4dd6fd34b06
+FileChecksum: MD5: 01ef480c1244f80dcb5667fd2869fca3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctint-altivec.c
+SPDXID: SPDXRef-item883495
+FileChecksum: SHA1: 3fc77828c16f2ee01d92bf8a7337782f59f1b696
+FileChecksum: MD5: e400dc86d1cfd63ccc187b48dbf4faed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jfdctint-sse2-64.asm
+SPDXID: SPDXRef-item883496
+FileChecksum: SHA1: 61ce7fec19aec6fa5801a279f5e38399d6bf9031
+FileChecksum: MD5: eb953049913856cafd1b4e626d51720f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcgray-sse2.asm
+SPDXID: SPDXRef-item883497
+FileChecksum: SHA1: 8ca6263746b85af91c0541a24f19f50c9cc68ac4
+FileChecksum: MD5: 0830ebdbe7d43dad8171442c4a82db6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jsimd_x86_64.c
+SPDXID: SPDXRef-item883498
+FileChecksum: SHA1: db7331952649dec2af057dcde9e03e81e7373f3a
+FileChecksum: MD5: f5f362646433e8e358196af20b94fa59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jquanti-altivec.c
+SPDXID: SPDXRef-item883499
+FileChecksum: SHA1: 5606a49f54cfa91fbe99bdc4c4cf72a8dae7a465
+FileChecksum: MD5: 0d4e034c27b21211f68281b3634cd0ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/simd/jcolsamp.inc
+SPDXID: SPDXRef-item883500
+FileChecksum: SHA1: 4379e267c1b40e2a180f0a7e38538b76e1072473
+FileChecksum: MD5: baeb084599e1e4bc6755b27d3fd48d52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcmaster.c
+SPDXID: SPDXRef-item883501
+FileChecksum: SHA1: 92f89715af162ed6576d203708ffab70ca92b76a
+FileChecksum: MD5: 8a7fec77c61f1adb08e021897b59a98f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/tjutil.h
+SPDXID: SPDXRef-item883502
+FileChecksum: SHA1: 846287c911323edf8538c26b093827469cbd4a53
+FileChecksum: MD5: 7546c611e7ad16a0f012ff70486cb26c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jidctfst.c
+SPDXID: SPDXRef-item883503
+FileChecksum: SHA1: 484e68945321018517f96048817080357c5d74fc
+FileChecksum: MD5: 308d140aa7b23edec22039915279a7ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/cmakescripts/cmake_uninstall.cmake.in
+SPDXID: SPDXRef-item883505
+FileChecksum: SHA1: 882a72ccddcb8a520a5c52be12bffee21adb0e6e
+FileChecksum: MD5: f14487b4ed47fa57a138709ae34f0dc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/cmakescripts/testclean.cmake
+SPDXID: SPDXRef-item883506
+FileChecksum: SHA1: d6f8bbbf2cd495ae4e9121956249e5370e699e3f
+FileChecksum: MD5: 2c43de72a6c9b727a1a67fd4cc706d5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/CMakeLists.txt
+SPDXID: SPDXRef-item883508
+FileChecksum: SHA1: 63aa12b0fc8ac75208f7315f8380219a298c332b
+FileChecksum: MD5: 1cfbadf7bc58090abdaef538bb2c8d58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/Makefile.in
+SPDXID: SPDXRef-item883509
+FileChecksum: SHA1: c90a8290f660e02ffbd82b1eaf30dca497c29975
+FileChecksum: MD5: a6e1e55ce32c76e6e34abec4063cba97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/TJUnitTest.java
+SPDXID: SPDXRef-item883510
+FileChecksum: SHA1: fd1ce2ded0b909396b8dd319330aa7e7a14f0ee5
+FileChecksum: MD5: 0fc17a01976a533edf0e8ebc269df55f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org_libjpegturbo_turbojpeg_TJ.h
+SPDXID: SPDXRef-item883511
+FileChecksum: SHA1: 2b94fc08b060c84804fbd3765a4f84ae4b6f55e8
+FileChecksum: MD5: 9d95704168cdff179b00216c0db07bf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org_libjpegturbo_turbojpeg_TJCompressor.h
+SPDXID: SPDXRef-item883512
+FileChecksum: SHA1: e2f3e7f699e990cf4d8f8af2974303376e879c6d
+FileChecksum: MD5: ed38d433f8098762bef2eec8825577b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org_libjpegturbo_turbojpeg_TJTransformer.h
+SPDXID: SPDXRef-item883513
+FileChecksum: SHA1: fabccf1c443fd5288dd3f13c0a465b3f3dd66612
+FileChecksum: MD5: d93e7e7ebe92b4047a2b488221c876d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/MANIFEST.MF
+SPDXID: SPDXRef-item883514
+FileChecksum: SHA1: 51001549d33f07a76f73d80499df37dd3b578e73
+FileChecksum: MD5: 15157de75d3ba9d546e7247813845a2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/Makefile.am
+SPDXID: SPDXRef-item883515
+FileChecksum: SHA1: f3697e68b78a8dc80935a9b2183d27936548ae58
+FileChecksum: MD5: d07a1b965c6f9ace0026548de39ccfb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/TJExample.java
+SPDXID: SPDXRef-item883516
+FileChecksum: SHA1: 3d17e04d41b1d9404ce2dc81fc8dede8dc49a3f2
+FileChecksum: MD5: 6e8f7698614b2dba83560fafb5365c13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/constant-values.html
+SPDXID: SPDXRef-item883518
+FileChecksum: SHA1: 5dcb54360a685b2fe9674f7e4e8974c3d07b0f69
+FileChecksum: MD5: 796b2fe2db404e177cc0ce1cdab471d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/index-all.html
+SPDXID: SPDXRef-item883519
+FileChecksum: SHA1: 2960d1a27f7295311c1aa87c972d61eaf7d685db
+FileChecksum: MD5: 55dd9283da77c9fc2c65c65777a83cb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/deprecated-list.html
+SPDXID: SPDXRef-item883520
+FileChecksum: SHA1: 31814df8ead89881cb4cdb1beac9c0933b8c16aa
+FileChecksum: MD5: 1d254e1da29ac677e807fb7210dc22b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/help-doc.html
+SPDXID: SPDXRef-item883521
+FileChecksum: SHA1: 59c1047c40f74227f41204ac5b687a70b7b6fa15
+FileChecksum: MD5: 7fcdf26f3bd5c4bab0c78a4324300f4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/index.html
+SPDXID: SPDXRef-item883522
+FileChecksum: SHA1: 8c3987d785ecbf665df5233ea26f320f6b60f0fd
+FileChecksum: MD5: 9b0031af4bfa52560174f3071bce7cd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/stylesheet.css
+SPDXID: SPDXRef-item883523
+FileChecksum: SHA1: 96448ec0785d3e0eb34ded6e049571bb63f4f79f
+FileChecksum: MD5: a724e5f04f149d2e888b5b287d1c725f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/allclasses-noframe.html
+SPDXID: SPDXRef-item883524
+FileChecksum: SHA1: 327c9c79854889350566225c243cb4dd9937446d
+FileChecksum: MD5: cf39e58b56349246d4ad57d443910ff8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/overview-tree.html
+SPDXID: SPDXRef-item883525
+FileChecksum: SHA1: ec1b01eacc46d7a4e33d4e6733b7f24f7bc0edc6
+FileChecksum: MD5: 0aeb425b02ab37a3017a75603ae977fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/allclasses-frame.html
+SPDXID: SPDXRef-item883526
+FileChecksum: SHA1: 5ed21a28be10e6e5de7f4d9814e22b7a9e8a6254
+FileChecksum: MD5: 1ccb234770c5ea45f11f1502bda53018
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/serialized-form.html
+SPDXID: SPDXRef-item883527
+FileChecksum: SHA1: bfff3d6f7d3154c5c1329d880b60e35970b93bba
+FileChecksum: MD5: f02c845ea2cc0bece64a289f8379ce25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/resources/background.gif
+SPDXID: SPDXRef-item883529
+FileChecksum: SHA1: 19ab0c0d7b0d3ce0b293453388a5faf8109da297
+FileChecksum: MD5: 1585f724123802e311ffda9fe3daec1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/resources/titlebar.gif
+SPDXID: SPDXRef-item883530
+FileChecksum: SHA1: e04ec1e668a82eb1b6bfcfc13bef0e7e53811a84
+FileChecksum: MD5: ffafa018717176c6a8dcc231cfb737e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/resources/tab.gif
+SPDXID: SPDXRef-item883531
+FileChecksum: SHA1: 4344e3d18f768008c32614683fab589b3f4c6f50
+FileChecksum: MD5: 104b9cce4c6e7939d704a3622f3af134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/resources/titlebar_end.gif
+SPDXID: SPDXRef-item883532
+FileChecksum: SHA1: 7d4db9c8511d81bda08ee1209a0105fdd81cad20
+FileChecksum: MD5: afc6e5230ea7870c515dddb0bc48486d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/YUVImage.html
+SPDXID: SPDXRef-item883536
+FileChecksum: SHA1: 274be72fb8cf001bfcc7d0404f5ea531f73577c9
+FileChecksum: MD5: 757bc6a5073c1fc545bf1040786ea719
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/TJTransform.html
+SPDXID: SPDXRef-item883537
+FileChecksum: SHA1: 8ea2ac5dabe35689f5cc251d8b8b67176daee1e2
+FileChecksum: MD5: eda3c7ae88601eb1fdedb9585aece550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/TJScalingFactor.html
+SPDXID: SPDXRef-item883538
+FileChecksum: SHA1: 3d83b04996b80f945c985a54cc321976b1674222
+FileChecksum: MD5: dc0d1173db570037a0a1013f5e1eec55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/package-tree.html
+SPDXID: SPDXRef-item883539
+FileChecksum: SHA1: b46e2f47e537859283dae395c451c878bbda2dad
+FileChecksum: MD5: b3e3c8698d7e206eed1da6b0ea3b419d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/TJCompressor.html
+SPDXID: SPDXRef-item883540
+FileChecksum: SHA1: 5dc115cb38c7dad0605343e0988ebdf79ac1c45b
+FileChecksum: MD5: 086ad81c73237440b1be23678c1cf2e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/TJDecompressor.html
+SPDXID: SPDXRef-item883541
+FileChecksum: SHA1: dcbc5027f3c7f1837dcca6f37bbc9b6182780c68
+FileChecksum: MD5: be3844517b53d6e9debaa3fef30f8f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/TJException.html
+SPDXID: SPDXRef-item883542
+FileChecksum: SHA1: 11cd872883f583e4c913568582b06e0d6f7dd642
+FileChecksum: MD5: 1520e51edb878aa693c6a9651e56ca1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/TJTransformer.html
+SPDXID: SPDXRef-item883543
+FileChecksum: SHA1: fb05f5db4bd85e8edc8ae65c6922508b87f4100b
+FileChecksum: MD5: 70dc720a8e5f715753a536fbef7f9d61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/TJ.html
+SPDXID: SPDXRef-item883544
+FileChecksum: SHA1: 6c39141385c0b0546fb8b72ae3a9ecf47fab3713
+FileChecksum: MD5: d42b6a82848b7363f53351955304487d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/package-summary.html
+SPDXID: SPDXRef-item883545
+FileChecksum: SHA1: 5c471ea00682cf1a42b2646db46535d24985648d
+FileChecksum: MD5: 0b81b4a3ab79de7c2b8db915ff93b179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/TJCustomFilter.html
+SPDXID: SPDXRef-item883546
+FileChecksum: SHA1: 4fb28d28051577e5c3c5e5a992af6f2a28f70479
+FileChecksum: MD5: 7f236eee067ab79ca1ffb10dbc09bfec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/org/libjpegturbo/turbojpeg/package-frame.html
+SPDXID: SPDXRef-item883547
+FileChecksum: SHA1: 39d29c47e9ff4e3f5e9a69911737ca16a4424d9f
+FileChecksum: MD5: c4087d33722dbda5234b3d9b429e888f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/doc/package-list
+SPDXID: SPDXRef-item883548
+FileChecksum: SHA1: 68dcb95cfbd5748332db8117808e5b3d4bb5c8db
+FileChecksum: MD5: b2c78f39c3034e4d8af9031b0d834399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/README
+SPDXID: SPDXRef-item883549
+FileChecksum: SHA1: 7f0d4e4743634b8d40535d19cf08713e2182b5c4
+FileChecksum: MD5: 3484788f7de562fe64fda615953f0c29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org_libjpegturbo_turbojpeg_TJDecompressor.h
+SPDXID: SPDXRef-item883550
+FileChecksum: SHA1: 24dfa5810704c9fd6592e51d9a1b6584a9463c99
+FileChecksum: MD5: 835aef89034c39a53f5192c676e446ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/TJBench.java
+SPDXID: SPDXRef-item883551
+FileChecksum: SHA1: 6f0d823ba44688342f3ddf36a8a949ad1522ec96
+FileChecksum: MD5: a3e25cb47b85ebc51bbf45ae6943e624
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJScalingFactor.java
+SPDXID: SPDXRef-item883555
+FileChecksum: SHA1: 86eb332168e112b07fd7cc078ed609be1970813b
+FileChecksum: MD5: 00aad535a64c842d1c791eb0f8db2aa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJTransform.java
+SPDXID: SPDXRef-item883556
+FileChecksum: SHA1: 4f29f0bf08b2ea3ec31a47fe45f0420b9d974fcf
+FileChecksum: MD5: 8d7d8ba5460bc16ed8e6af9b9aa69686
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJCompressor.java
+SPDXID: SPDXRef-item883557
+FileChecksum: SHA1: 8986e807aeef816c121e463c42b41bdf47d9d80c
+FileChecksum: MD5: 72c0237e8c330e44f75c94b44a2cee47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/YUVImage.java
+SPDXID: SPDXRef-item883558
+FileChecksum: SHA1: 1c0c65948e92c98c1087c193f39ca2f1e25c1b97
+FileChecksum: MD5: a8617b1da85591a924e2152387bee5bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJLoader.java.tmpl
+SPDXID: SPDXRef-item883559
+FileChecksum: SHA1: 9c4138df99c9e693d4a81b787f721014b529591b
+FileChecksum: MD5: 434ef77cf243a992faa56ef2ed349196
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJDecompressor.java
+SPDXID: SPDXRef-item883560
+FileChecksum: SHA1: 39590fc4401eec3b281e979ff01ce988cd986cc7
+FileChecksum: MD5: 466cd97f39d19602bf833b32095d9705
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJException.java
+SPDXID: SPDXRef-item883561
+FileChecksum: SHA1: a0d6ad2d37dd54b045824671bf995d1b07a0a560
+FileChecksum: MD5: 9170547f8bab48a347d0913bf44b2e5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJLoader.java.in
+SPDXID: SPDXRef-item883562
+FileChecksum: SHA1: a015f6a66c1244f4b2e80041ee92f526788069d1
+FileChecksum: MD5: c5416be4f17fbe4989c2ea44b68a0637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJ.java
+SPDXID: SPDXRef-item883563
+FileChecksum: SHA1: 327c69d5aae269865da4b14b37fd73ba16dac497
+FileChecksum: MD5: ff928b17de62d86f466f9a3f918f68de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJCustomFilter.java
+SPDXID: SPDXRef-item883564
+FileChecksum: SHA1: 1fcb6fbce88f8d983baca8a191a3fdffd4db8d8e
+FileChecksum: MD5: cd6a9cfed78b7d8ab44e051ca66a57a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/java/org/libjpegturbo/turbojpeg/TJTransformer.java
+SPDXID: SPDXRef-item883565
+FileChecksum: SHA1: 1842eb335c50d81cb0b5992e07605da93da92e1d
+FileChecksum: MD5: 7301c23d0f0c4d75713e33aaf2257331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doxygen.config
+SPDXID: SPDXRef-item883566
+FileChecksum: SHA1: 330bdcee515d17397cbb9dea6bd6ffdc77c770d5
+FileChecksum: MD5: d27e58834b89c1b069fe451f5c332f01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jquant2.c
+SPDXID: SPDXRef-item883567
+FileChecksum: SHA1: 7cae4145edcbe976c49475dc204ea975c46d426b
+FileChecksum: MD5: 7cbf31932edfccc5b0f5158e7950210c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdrle.c
+SPDXID: SPDXRef-item883568
+FileChecksum: SHA1: 294f7da6c598ac2f3b7837005694e5858f8e563b
+FileChecksum: MD5: 51740fbabc33cef0bf952e3ac7610680
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdgif.c
+SPDXID: SPDXRef-item883569
+FileChecksum: SHA1: d92691b35eb657dba55ef9bba1f322df9bbe14ed
+FileChecksum: MD5: 5284cf9c7ed3a781cd203e0bdf47a168
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/coderules.txt
+SPDXID: SPDXRef-item883570
+FileChecksum: SHA1: beec8db30ab94dc8017fbb4b70ecaa7f9bb3f697
+FileChecksum: MD5: d65baaf0b8ad8fbfcbdc2874fb1288e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/testimgint.jpg
+SPDXID: SPDXRef-item883572
+FileChecksum: SHA1: 0ac4a8c3a64cbfd873d8648c6e63eb03423b342b
+FileChecksum: MD5: 9a68f56bc76e466aa7e52f415d0f4a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/testimgari.jpg
+SPDXID: SPDXRef-item883573
+FileChecksum: SHA1: 5064784b50f643305d9ba7db24105336975c00f8
+FileChecksum: MD5: e986fb0a637a8d833d96e8a6d6d84ea1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/vgl_5674_0098.bmp
+SPDXID: SPDXRef-item883574
+FileChecksum: SHA1: 6396d418b83bd9fea566d63b83425fab2beb793e
+FileChecksum: MD5: 6660e6b910c585f06cd914ad0256d519
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/nightshot_iso_100.bmp
+SPDXID: SPDXRef-item883575
+FileChecksum: SHA1: d0abf2ce7ca0377f98b18cc851e1abab7ae3c9bf
+FileChecksum: MD5: 39be936422469ae8ed7087b14844a648
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/testorig.jpg
+SPDXID: SPDXRef-item883576
+FileChecksum: SHA1: 2b332480db99f5977aeb6565bdc51e8a66a9aef7
+FileChecksum: MD5: 3016112edb6ff1a7af3c2c0093df75a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/vgl_6434_0018a.bmp
+SPDXID: SPDXRef-item883577
+FileChecksum: SHA1: 795eb8644d0d0ca8e437815c08d2389ad08e68a3
+FileChecksum: MD5: 8add8f3a5f6f8748a02046b2907e3e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/nightshot_iso_100.txt
+SPDXID: SPDXRef-item883578
+FileChecksum: SHA1: ad2b69a9b0e2db09af8ec232fd9b55755b1f80fb
+FileChecksum: MD5: c35fded201f2d107316cf8b1c301e0f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/testorig.ppm
+SPDXID: SPDXRef-item883579
+FileChecksum: SHA1: b8d8b9b4501bf26d1f22117012ce624a12717464
+FileChecksum: MD5: 64072f1dbdc5b3a187777788604971a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/vgl_6548_0026a.bmp
+SPDXID: SPDXRef-item883580
+FileChecksum: SHA1: 273d968482d843c6ab883a993f7d1cd8800e0074
+FileChecksum: MD5: ff8eac381279e8378f7df8de3c0f2614
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/testimages/testorig12.jpg
+SPDXID: SPDXRef-item883581
+FileChecksum: SHA1: e90cb1fea5700c2d30fabd971244e7e9a37e7326
+FileChecksum: MD5: ebd82e9195ce35abe47fc6125d4c4076
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/bmp.c
+SPDXID: SPDXRef-item883582
+FileChecksum: SHA1: ccb44a64740ff54a5a5b9daedee656c9094a6258
+FileChecksum: MD5: 638be881cf599ff407b4c3236d13e1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdmrgext.c
+SPDXID: SPDXRef-item883583
+FileChecksum: SHA1: ed4fc1ddaf0243067d3d9c0548beeb2053129617
+FileChecksum: MD5: 28f7026b1f6783e884869e92d8bb70a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jfdctint.c
+SPDXID: SPDXRef-item883584
+FileChecksum: SHA1: ebb1437a7f0ecc00bf525a346e888d73622257b3
+FileChecksum: MD5: 664c73890fd5e69cd9308705f848b1c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jidctred.c
+SPDXID: SPDXRef-item883585
+FileChecksum: SHA1: 6f7ad5a3a9684c96d295c5e93d1b1bee1164d714
+FileChecksum: MD5: 29ab0b3705eef480e5917406b56f39ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jaricom.c
+SPDXID: SPDXRef-item883586
+FileChecksum: SHA1: bff6bfa83c57d1e6d313e2873eca8cc1b69527b8
+FileChecksum: MD5: 206308f3b38b4b07bbd9631ff58746da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/config.h.in
+SPDXID: SPDXRef-item883587
+FileChecksum: SHA1: 989a770fc9543f157930720f9ee6754523453964
+FileChecksum: MD5: 03d57b863bd8a494a70f1e6612649fe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/Makefile.am
+SPDXID: SPDXRef-item883588
+FileChecksum: SHA1: e8d399f595ae746eb599960edb8d402a5f2a1fb6
+FileChecksum: MD5: ff6491046267ddbf53d9a4dd55ddf0ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wrrle.c
+SPDXID: SPDXRef-item883589
+FileChecksum: SHA1: 6c5756951294d9d1f31c81d58056da27290f4430
+FileChecksum: MD5: 63630eec2bc5823cfcaa7a539540a02b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdinput.c
+SPDXID: SPDXRef-item883590
+FileChecksum: SHA1: facc94be4f2b60b39bf47adbba1d5b65021c6153
+FileChecksum: MD5: e0a80e98b126c6f0fa4423f22d8edbfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/bmp.h
+SPDXID: SPDXRef-item883591
+FileChecksum: SHA1: f396ec73d793e86f8e26093ab37cdf3936ecdc5b
+FileChecksum: MD5: 065742691bd46ada677c08e807e4893e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcphuff.c
+SPDXID: SPDXRef-item883592
+FileChecksum: SHA1: 5efd8c14033c144ab641154d337c457eeb338642
+FileChecksum: MD5: af99a82356d706ca4af606c2d2261152
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/transupp.h
+SPDXID: SPDXRef-item883593
+FileChecksum: SHA1: 19877a8c6dd0fe3c07e10028efd5956248bc9d56
+FileChecksum: MD5: 72c011775c2f3898aa94a48e115d7f20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdcolmap.c
+SPDXID: SPDXRef-item883594
+FileChecksum: SHA1: 9f23a8ebb8297580b4dd20b774390c1cc0580081
+FileChecksum: MD5: 9227b6682b941657601c49f9b654d7a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcarith.c
+SPDXID: SPDXRef-item883595
+FileChecksum: SHA1: 8d7e30ad49db568f26b65313def8f10ad5b5c2d9
+FileChecksum: MD5: 6e23bcaf2a16d75f7955b216694a996f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/config.sub
+SPDXID: SPDXRef-item883596
+FileChecksum: SHA1: 1ed99f2fce4975f55e82b3833baf74fbcd8bdda0
+FileChecksum: MD5: 9f3562619f0564ef89b6852b2d3f140d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/cjpeg.1
+SPDXID: SPDXRef-item883597
+FileChecksum: SHA1: e3eb6f27959f9d5e868ebef3cbf9e56c96659164
+FileChecksum: MD5: d6bff8eacc855f1fa141e1c8b03ab5c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jccolext.c
+SPDXID: SPDXRef-item883598
+FileChecksum: SHA1: 1e7256859edde700b8244115292f6d825d388de0
+FileChecksum: MD5: fc2608a2e266a8d2fee6af20a94efabf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdppm.c
+SPDXID: SPDXRef-item883599
+FileChecksum: SHA1: 4066d7513d81b0b9757a54ff66ddc7ddc3ea0859
+FileChecksum: MD5: f9e212249382fe853420ee029bf5704f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jmemnobs.c
+SPDXID: SPDXRef-item883600
+FileChecksum: SHA1: 73e366a4947dca031bc528b267d25f23c8f5689b
+FileChecksum: MD5: ca726a1226f7c324515dc2b7e2815c64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdcolext.c
+SPDXID: SPDXRef-item883601
+FileChecksum: SHA1: 02ca726bc9931de00e2df14651e01147ac019297
+FileChecksum: MD5: 545f30ea6087348f12e595e0ee64bb48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/turbojpeg-jni.c
+SPDXID: SPDXRef-item883602
+FileChecksum: SHA1: 6e438214b6d7670decc328714dea6dee2451a59e
+FileChecksum: MD5: 0b2f898494ded0a4530f64e09ce811d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdatadst-tj.c
+SPDXID: SPDXRef-item883603
+FileChecksum: SHA1: 0db2b774fabaeb865920c1f470c3fbef2e86505e
+FileChecksum: MD5: 94889cfef79fc6ea70fba6a80a851d77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/tjbenchtest.in
+SPDXID: SPDXRef-item883604
+FileChecksum: SHA1: 50940ad79b9aa22924861ce7536261c276e1daa5
+FileChecksum: MD5: 9199edbdc3d24a9aa2aabce7db591c73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/tjexampletest.in
+SPDXID: SPDXRef-item883605
+FileChecksum: SHA1: 7c126a01f25b65b5a764efe7de0ad5363633123a
+FileChecksum: MD5: 07c4019631feb450a0bebf58cb3101e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/doxygen.png
+SPDXID: SPDXRef-item883608
+FileChecksum: SHA1: 3f9f7099f963a889bd8bd72237dac63467f3dc43
+FileChecksum: MD5: 4d8b8c8f1a68a4f320da8294a085f251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2node.png
+SPDXID: SPDXRef-item883609
+FileChecksum: SHA1: 9949ffa6377aeab4b0e511e164989f14c8322617
+FileChecksum: MD5: 6667367ad364539fae2efeef993b51ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/modules.html
+SPDXID: SPDXRef-item883610
+FileChecksum: SHA1: 6333aceaa98dbf326ef6f445f009e64f85a19bab
+FileChecksum: MD5: 39f3f1059c73e082aca2d221ea2866d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2doc.png
+SPDXID: SPDXRef-item883611
+FileChecksum: SHA1: cd2dc0bb62795177d580d87c3ea3515af286b185
+FileChecksum: MD5: 31ed05886f30a2be256e9df86a25586f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2folderopen.png
+SPDXID: SPDXRef-item883612
+FileChecksum: SHA1: a6bc8844f706ea5b9b5cd5a0acc704e4572530c6
+FileChecksum: MD5: 9ff4412a8e93e25320b9e260951c6a04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/structtjregion.html
+SPDXID: SPDXRef-item883613
+FileChecksum: SHA1: 77525c62be719924de78afd4ebb9b09b05d40f07
+FileChecksum: MD5: 5bb0a6915e7ec6e2cc73447f5b865c6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/tab_b.png
+SPDXID: SPDXRef-item883614
+FileChecksum: SHA1: 0e38f362aa804ce5e92add89f05b17fbc5f15d97
+FileChecksum: MD5: c7cd16cfabe8a14b9848f813df53fc2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/annotated.html
+SPDXID: SPDXRef-item883615
+FileChecksum: SHA1: fc0dd0a4d926d2d8e8408fc613a9c639c4a56f83
+FileChecksum: MD5: c849801b7a6dd00fd612c285f8063b85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/nav_h.png
+SPDXID: SPDXRef-item883616
+FileChecksum: SHA1: dff8e73424c9ea2e502cd3b92f25c397384abc95
+FileChecksum: MD5: 935f050f10b7fe425509491f207f574f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2link.png
+SPDXID: SPDXRef-item883617
+FileChecksum: SHA1: cd2dc0bb62795177d580d87c3ea3515af286b185
+FileChecksum: MD5: 31ed05886f30a2be256e9df86a25586f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/group___turbo_j_p_e_g.html
+SPDXID: SPDXRef-item883618
+FileChecksum: SHA1: 027274a472d8953c912c9df33b1fced40c330390
+FileChecksum: MD5: cb05aae6ac5a707d7d45596b9cca5e6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/functions_vars.html
+SPDXID: SPDXRef-item883619
+FileChecksum: SHA1: 320024d25e943d8721ffcbe2fea84b4077f73cd8
+FileChecksum: MD5: b7edd9173c6bedb41a02e896efdb8ffc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2mnode.png
+SPDXID: SPDXRef-item883620
+FileChecksum: SHA1: 4088e810372ebad46e9a264c72793c79cebe6bec
+FileChecksum: MD5: b337efbec07a710611184b65c6610a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/doxygen-extra.css
+SPDXID: SPDXRef-item883621
+FileChecksum: SHA1: 88be3c9942c7a83f557c28af3373b6b868ab9245
+FileChecksum: MD5: 0422fc9d206c16b08dc8e9fd524be3e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/index.html
+SPDXID: SPDXRef-item883622
+FileChecksum: SHA1: e55342c5df5771b133761d8dfbd1bcfe37c29278
+FileChecksum: MD5: 437715ad28887dd84e7dca2426153f68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/tabs.css
+SPDXID: SPDXRef-item883623
+FileChecksum: SHA1: 7eff4b7ece04a0b8a4ad9be6dfe9f9dd3292f457
+FileChecksum: MD5: cf9a4ad5a8b52323af8cc15e96fb2e93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/closed.png
+SPDXID: SPDXRef-item883624
+FileChecksum: SHA1: c6607712f771f03c6d9e440137dbcfd8a373572b
+FileChecksum: MD5: 3fa180a1c853204ee64235708fb8e162
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2mlastnode.png
+SPDXID: SPDXRef-item883625
+FileChecksum: SHA1: 4088e810372ebad46e9a264c72793c79cebe6bec
+FileChecksum: MD5: b337efbec07a710611184b65c6610a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/structtjscalingfactor.html
+SPDXID: SPDXRef-item883626
+FileChecksum: SHA1: 700ae468c3b029b0812ce61f26dd5985ed4649a7
+FileChecksum: MD5: e10ebf8512a7f430e053047091059dd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/doxygen.css
+SPDXID: SPDXRef-item883627
+FileChecksum: SHA1: caed3eb15bc303d1d010745c763b5fac13a29c41
+FileChecksum: MD5: 62400e231bdb817ef9a0a9e7f29b5204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/functions.html
+SPDXID: SPDXRef-item883628
+FileChecksum: SHA1: 3b02beccc8afd07cee6fc4d0fb4660afce089aff
+FileChecksum: MD5: 4a61a6025cf6af9284e26bec28a54877
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/dynsections.js
+SPDXID: SPDXRef-item883629
+FileChecksum: SHA1: 91673d4bcafedf87d0a975a3ead901d693b0ada3
+FileChecksum: MD5: 3389652050eadf4ca787aa5f3a3b6201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/classes.html
+SPDXID: SPDXRef-item883630
+FileChecksum: SHA1: 53f60e821c26d164a1243c6851dfab7f40faad5a
+FileChecksum: MD5: 4f0ce65cffa420347ece9bbc738ac02c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2lastnode.png
+SPDXID: SPDXRef-item883631
+FileChecksum: SHA1: 9949ffa6377aeab4b0e511e164989f14c8322617
+FileChecksum: MD5: 6667367ad364539fae2efeef993b51ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/open.png
+SPDXID: SPDXRef-item883632
+FileChecksum: SHA1: 613c816a65952b73a2a697d33a3f5be1b45433e0
+FileChecksum: MD5: 468c228548b4a85dd54d544810bd0edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/nav_f.png
+SPDXID: SPDXRef-item883633
+FileChecksum: SHA1: 09487f92d803cec5e616466c974f4cb9babd3819
+FileChecksum: MD5: 4e4d8be23c6d6bbe0184fd891ff59e00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2blank.png
+SPDXID: SPDXRef-item883634
+FileChecksum: SHA1: 9949ffa6377aeab4b0e511e164989f14c8322617
+FileChecksum: MD5: 6667367ad364539fae2efeef993b51ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/bc_s.png
+SPDXID: SPDXRef-item883635
+FileChecksum: SHA1: ace7ca1070475ae99c9ae7647a9640af2ccffce5
+FileChecksum: MD5: ceaaae73746596a7519cfe782d8aa065
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/structtjtransform.html
+SPDXID: SPDXRef-item883636
+FileChecksum: SHA1: 30847aa4cbc13846cd3bdd9ce74b34b9413d37e0
+FileChecksum: MD5: 63cc7d91ddc3ebe5f4f5fa252dbd9481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2vertline.png
+SPDXID: SPDXRef-item883637
+FileChecksum: SHA1: 9949ffa6377aeab4b0e511e164989f14c8322617
+FileChecksum: MD5: 6667367ad364539fae2efeef993b51ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2pnode.png
+SPDXID: SPDXRef-item883638
+FileChecksum: SHA1: fe1e1abef0962bf778bbace8a38b9db3e816159b
+FileChecksum: MD5: 7fcdd7b57b3825e8fbf2cd5fbb81ce70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/sync_on.png
+SPDXID: SPDXRef-item883639
+FileChecksum: SHA1: c31bec6b7ad1dfe600edfe2fefdc965da46569d0
+FileChecksum: MD5: b1cc394ed471b4ab97be14f1e1a7cefa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2mo.png
+SPDXID: SPDXRef-item883640
+FileChecksum: SHA1: 78c8334ba84ee876fdfb33af38441250169320e1
+FileChecksum: MD5: 1e6d77517832787506a5a120711dcd3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2folderclosed.png
+SPDXID: SPDXRef-item883641
+FileChecksum: SHA1: 2fde5f1451009b435637b6851167bcad33bd4e05
+FileChecksum: MD5: 0b7046d86103299b2a0306ddf33ec004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/tab_a.png
+SPDXID: SPDXRef-item883642
+FileChecksum: SHA1: f91f9b6053909cfde7e952ac86b837241d89c23d
+FileChecksum: MD5: 2a5327b5dfc494fd8688fd887991cdab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/bdwn.png
+SPDXID: SPDXRef-item883643
+FileChecksum: SHA1: 266ec69871aa74ed46448d3688332277114576c2
+FileChecksum: MD5: 6249334b2e7fc28090f26abeb328eb78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2splitbar.png
+SPDXID: SPDXRef-item883644
+FileChecksum: SHA1: 8e89a71c77d43155f59f74897c370c2dfc409f6c
+FileChecksum: MD5: 8d590f70c25a81e71b99f6c8246b067e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/sync_off.png
+SPDXID: SPDXRef-item883645
+FileChecksum: SHA1: f9cdbf5d96a602001c676226b113b43b9b4de559
+FileChecksum: MD5: 12a5e283812e092b5a74b0d47e95e9a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2cl.png
+SPDXID: SPDXRef-item883646
+FileChecksum: SHA1: 0138f9ffba5051c1391d617086336e5fa80d4599
+FileChecksum: MD5: cdf8b0d9118c4cb6d33b4c534140ade9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/nav_g.png
+SPDXID: SPDXRef-item883647
+FileChecksum: SHA1: c6c62128f251c972249ae89836fd39d4fbc0dd7b
+FileChecksum: MD5: 6cf157aabeb91ae637a6d770b07c1011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/jquery.js
+SPDXID: SPDXRef-item883648
+FileChecksum: SHA1: 9231eda351c2186ac029762dac87c00f4133a54d
+FileChecksum: MD5: ffef8cd4c0c445b9fdde6e5a47cbbb9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/tab_s.png
+SPDXID: SPDXRef-item883649
+FileChecksum: SHA1: 324f6b03a43af75a7e1a732e7f3df52ccfdd8972
+FileChecksum: MD5: d5a3e094c590d5113232b74cd902f58f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/tab_h.png
+SPDXID: SPDXRef-item883650
+FileChecksum: SHA1: be353a1ff77f646ee0f22c3cc6e2d8bf6824d877
+FileChecksum: MD5: 38c6c507f0ab91770a0ed9a668a03551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2ns.png
+SPDXID: SPDXRef-item883651
+FileChecksum: SHA1: 4a496bc429180debadd71416c6a5ce41a04a051f
+FileChecksum: MD5: bbb13821edfc22a87e3e6dbaa1cadce3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/ftv2plastnode.png
+SPDXID: SPDXRef-item883652
+FileChecksum: SHA1: fe1e1abef0962bf778bbace8a38b9db3e816159b
+FileChecksum: MD5: 7fcdd7b57b3825e8fbf2cd5fbb81ce70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_6f.html
+SPDXID: SPDXRef-item883654
+FileChecksum: SHA1: 112eeeb7977a0ba904e816dd8290f6b9438ab173
+FileChecksum: MD5: 853edcc0ab9e332ce03ca6d3ddc1e1ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_79.html
+SPDXID: SPDXRef-item883655
+FileChecksum: SHA1: b1cf978e5182eb7e77b1029c3ff6fd8b45b7155d
+FileChecksum: MD5: 977ce55bae7517bd39a47ac7981ca6b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/nomatches.html
+SPDXID: SPDXRef-item883656
+FileChecksum: SHA1: 96f755817cfbdb8e0c2cba6a3c5d3e7445c36500
+FileChecksum: MD5: 2414ad3cc0ed34da17bdc0d12c6d8ed6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/search_r.png
+SPDXID: SPDXRef-item883657
+FileChecksum: SHA1: 105a21a982508d3734b30b34bc86b48f7d0cd448
+FileChecksum: MD5: 03ee24f1971c0e31ffb6246882e18edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_78.html
+SPDXID: SPDXRef-item883658
+FileChecksum: SHA1: 1ffc54e3b6a872096a59f6ba2f2c9421b683b64c
+FileChecksum: MD5: ad1831625165ec4fae68aca4e3161763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_74.js
+SPDXID: SPDXRef-item883659
+FileChecksum: SHA1: 0c39af4f019c626f23c91a894dd9b205104383e7
+FileChecksum: MD5: c7d869adac36cdd02c57c1482c768c2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/enums_74.js
+SPDXID: SPDXRef-item883660
+FileChecksum: SHA1: 9f788e14e04f77819edc2ab6d84cb98c01d60daf
+FileChecksum: MD5: e59e5882cdd77cadf3189ab0108cf5bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_63.js
+SPDXID: SPDXRef-item883661
+FileChecksum: SHA1: f6cdd714c3157fb03c2987017d411a78326ece8a
+FileChecksum: MD5: c5b26c5b28c57a871270eea920a0d8e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_6f.html
+SPDXID: SPDXRef-item883662
+FileChecksum: SHA1: 0b7faabcb121bc6c651191d6cec6989e118f4c50
+FileChecksum: MD5: f86eb59f057432ad8a48e34d4d258a17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_74.js
+SPDXID: SPDXRef-item883663
+FileChecksum: SHA1: e3ffdb471b2edfd55ba3e00ce5b11b40458d897e
+FileChecksum: MD5: 2bfb8c6601ffbd4df1cba2e73b7e2446
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/close.png
+SPDXID: SPDXRef-item883664
+FileChecksum: SHA1: bed2836e9499c0d5591dd248b466a9a4c9e8cc84
+FileChecksum: MD5: f466a7fdf1edfb1aa52ffab60f819119
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_68.js
+SPDXID: SPDXRef-item883665
+FileChecksum: SHA1: b2328a3761091322696074012434c9c5aec581d6
+FileChecksum: MD5: f9336e4358d0e45406f104232a123bf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_78.js
+SPDXID: SPDXRef-item883666
+FileChecksum: SHA1: ac6ddd4aafca2f8e1ae35e59a8b11334a814cb57
+FileChecksum: MD5: c89d4cb14a56ac27af005b50915f4c65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/search_m.png
+SPDXID: SPDXRef-item883667
+FileChecksum: SHA1: 62264bc14c2d9ea87005a4b5a90900975c165997
+FileChecksum: MD5: 20910c4cfe0e8efc8211bc9f7e58b7ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_6e.js
+SPDXID: SPDXRef-item883668
+FileChecksum: SHA1: 1685d096d14b4ba4ca9be65de535c45b463e02a5
+FileChecksum: MD5: ef3941907cdd4b958fa36126c58f0cf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_68.html
+SPDXID: SPDXRef-item883669
+FileChecksum: SHA1: 7f9e19db693a1e466c1c9621c74dd58179aba9e0
+FileChecksum: MD5: cb9563052402a17bef7cca1bbc21e3f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/groups_74.html
+SPDXID: SPDXRef-item883670
+FileChecksum: SHA1: 825db50426a35537f40676953b71b2e326c6d4d5
+FileChecksum: MD5: a1147076f9d1dc312b25b8b28631e2d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/search.css
+SPDXID: SPDXRef-item883671
+FileChecksum: SHA1: 9444dca21d1312667f1e695fe81e0b1859e74317
+FileChecksum: MD5: 616a7e939b1833e45aeb98e1cb1ae69b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_6f.js
+SPDXID: SPDXRef-item883672
+FileChecksum: SHA1: a4e17df3e1a9bb90a92ca52cb18820871c5090e1
+FileChecksum: MD5: e786a6ed78ec7467b36fd62426832ec4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/typedefs_74.html
+SPDXID: SPDXRef-item883673
+FileChecksum: SHA1: 2c875da32cbcba844cf0ce579a6d51b6a432ec9b
+FileChecksum: MD5: f6711766e2dd4402ac34ae621905b1a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_72.js
+SPDXID: SPDXRef-item883674
+FileChecksum: SHA1: cf242e58a40a51c28668cc2ecaa88a34d25d1bb9
+FileChecksum: MD5: 6cc9c00fca8559741935cb74c883c134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_68.js
+SPDXID: SPDXRef-item883675
+FileChecksum: SHA1: b2328a3761091322696074012434c9c5aec581d6
+FileChecksum: MD5: f9336e4358d0e45406f104232a123bf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_72.js
+SPDXID: SPDXRef-item883676
+FileChecksum: SHA1: cf242e58a40a51c28668cc2ecaa88a34d25d1bb9
+FileChecksum: MD5: 6cc9c00fca8559741935cb74c883c134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_77.html
+SPDXID: SPDXRef-item883677
+FileChecksum: SHA1: d73d681b2da20bd456f832c181ee76be14ec2531
+FileChecksum: MD5: 1fbd8eb8bf656fbd3a79cabf1c979fa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_63.html
+SPDXID: SPDXRef-item883678
+FileChecksum: SHA1: ea1efd79e34711c1a0bfc9be10a589b393076276
+FileChecksum: MD5: 373690870af34a2f6c4ca035f91c459b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/enums_74.html
+SPDXID: SPDXRef-item883679
+FileChecksum: SHA1: 2a5dda4063b84f1cdb3b69c19820206591bb5fab
+FileChecksum: MD5: 930fd9073aee0e49e54ee5c3e4aa856f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/enumvalues_74.js
+SPDXID: SPDXRef-item883680
+FileChecksum: SHA1: 1362188db213354626a03d0245a67871bef9b2a2
+FileChecksum: MD5: d6ad1cfe14bf34a872aacb4bacd9f8d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_78.html
+SPDXID: SPDXRef-item883681
+FileChecksum: SHA1: 756c8da2da9cde25cf28c06eab105d4d33673ecd
+FileChecksum: MD5: b88f1a6c39cbd4cb9d10eaef05eaf0cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_72.html
+SPDXID: SPDXRef-item883682
+FileChecksum: SHA1: 72219d36fcee77ba14226e05e7c6b91090235a7e
+FileChecksum: MD5: f203dc52afd97eb78fc6734a8d71e641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/typedefs_74.js
+SPDXID: SPDXRef-item883683
+FileChecksum: SHA1: 94ec8966dc73c5b5e6b2e9680a1e81abbc8b0c08
+FileChecksum: MD5: 856aa02f390e3be4c98895d9fd42c35e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_74.html
+SPDXID: SPDXRef-item883684
+FileChecksum: SHA1: db88255026263f75d796cd8596b82d77b2a4ae44
+FileChecksum: MD5: 4797d7a5689eb163f11d4a697ca40445
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/search_l.png
+SPDXID: SPDXRef-item883685
+FileChecksum: SHA1: 3c262e87dff212d44b7e02792b48bbc7256ab161
+FileChecksum: MD5: 496450f84d51c69db49f756b2d0acc20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_64.html
+SPDXID: SPDXRef-item883686
+FileChecksum: SHA1: 62129d103e39009e963a6230049900fbfb82cc82
+FileChecksum: MD5: 83866045a7f461ec0df93ead8a05cc63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_79.html
+SPDXID: SPDXRef-item883687
+FileChecksum: SHA1: f1222534619b59f3600286b425f6ece38f839ae5
+FileChecksum: MD5: 47ea1b358f5366be1389a98e3d004030
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_78.js
+SPDXID: SPDXRef-item883688
+FileChecksum: SHA1: ac6ddd4aafca2f8e1ae35e59a8b11334a814cb57
+FileChecksum: MD5: c89d4cb14a56ac27af005b50915f4c65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/functions_74.html
+SPDXID: SPDXRef-item883689
+FileChecksum: SHA1: 5a1b2ab1f8c7ac0f49ebe865cd0a3c1d867f9269
+FileChecksum: MD5: 91990f425ba59a3a407d5479aa910e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_63.js
+SPDXID: SPDXRef-item883690
+FileChecksum: SHA1: f6cdd714c3157fb03c2987017d411a78326ece8a
+FileChecksum: MD5: c5b26c5b28c57a871270eea920a0d8e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/search.js
+SPDXID: SPDXRef-item883691
+FileChecksum: SHA1: b99454c6ebb561ab7ba1593742ca3c825181da38
+FileChecksum: MD5: 06e8d8b83f99a8086e2ef6447b60b9c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_77.js
+SPDXID: SPDXRef-item883692
+FileChecksum: SHA1: 9423ec65625182b446ef6176ed7eb8228eed19b1
+FileChecksum: MD5: 66279f1a51eaec540367a67d0e7a8f1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_6f.js
+SPDXID: SPDXRef-item883693
+FileChecksum: SHA1: a4e17df3e1a9bb90a92ca52cb18820871c5090e1
+FileChecksum: MD5: e786a6ed78ec7467b36fd62426832ec4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_63.html
+SPDXID: SPDXRef-item883694
+FileChecksum: SHA1: 90f88fa73bdd52e568ff7c11c95a9ca05940bc4c
+FileChecksum: MD5: d5cff94b4c980a2d3607fd06f664d0bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/classes_74.html
+SPDXID: SPDXRef-item883695
+FileChecksum: SHA1: 750de0661c3ed0c3e7deb2dd77c80d4c33ad0411
+FileChecksum: MD5: c3585452353cb0cef1d659f0b837ace6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_79.js
+SPDXID: SPDXRef-item883696
+FileChecksum: SHA1: 9f709f358f580182c58d01704e6ad0876ee8c32e
+FileChecksum: MD5: ae94b659627889de255518c05f335134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_77.js
+SPDXID: SPDXRef-item883697
+FileChecksum: SHA1: 9423ec65625182b446ef6176ed7eb8228eed19b1
+FileChecksum: MD5: 66279f1a51eaec540367a67d0e7a8f1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/groups_74.js
+SPDXID: SPDXRef-item883698
+FileChecksum: SHA1: d242c98f1244d4d49ca9268e4c5289bfa0814fb5
+FileChecksum: MD5: 549e9491f2876dcdf142f65d64bd4d2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_6e.html
+SPDXID: SPDXRef-item883699
+FileChecksum: SHA1: 4b0978b76cff10251ab11060f7e54ca161f5cacd
+FileChecksum: MD5: ccefbdf6543a5584418c3e05572577ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_64.js
+SPDXID: SPDXRef-item883700
+FileChecksum: SHA1: 803760bd2c3fb59911c0cceffe0a86395bd3d0e6
+FileChecksum: MD5: f81b449b5e32bae2286979d5388641fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_64.js
+SPDXID: SPDXRef-item883701
+FileChecksum: SHA1: 803760bd2c3fb59911c0cceffe0a86395bd3d0e6
+FileChecksum: MD5: f81b449b5e32bae2286979d5388641fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/classes_74.js
+SPDXID: SPDXRef-item883702
+FileChecksum: SHA1: 62990d82763c406ce334aed89453cf02e17752cc
+FileChecksum: MD5: 9e75df185f8aee2aa774c41f38049934
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/mag_sel.png
+SPDXID: SPDXRef-item883703
+FileChecksum: SHA1: 2895cdf77fcdd60481a7a45150472b618d6c42bd
+FileChecksum: MD5: be03e63d7379983b28a2c092867a1d67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_6e.js
+SPDXID: SPDXRef-item883704
+FileChecksum: SHA1: 1685d096d14b4ba4ca9be65de535c45b463e02a5
+FileChecksum: MD5: ef3941907cdd4b958fa36126c58f0cf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_6e.html
+SPDXID: SPDXRef-item883705
+FileChecksum: SHA1: 0347214c8c078ae7b718caa668b8465973af69b2
+FileChecksum: MD5: 18eae8c95242f468fa7ebaa31dda9942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/functions_74.js
+SPDXID: SPDXRef-item883706
+FileChecksum: SHA1: 262c6d4a6a315d189bc77117cbc2dbac8522e220
+FileChecksum: MD5: 6781448474227245e9a1956fff9c2fea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_77.html
+SPDXID: SPDXRef-item883707
+FileChecksum: SHA1: 4450840dc7ffd35cea06f3cc3252dc25b354022a
+FileChecksum: MD5: f290095ff59220c31f6ff05720212e02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_72.html
+SPDXID: SPDXRef-item883708
+FileChecksum: SHA1: 28a9496fe114fe20da7b326b01dd67be34049130
+FileChecksum: MD5: a50236965ed8b8684b357cabb8a983e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/variables_64.html
+SPDXID: SPDXRef-item883709
+FileChecksum: SHA1: 5fc6d668e3881b608ebb1809024a735be87d821a
+FileChecksum: MD5: 575de43d57cb879dd7366117b1a531dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_79.js
+SPDXID: SPDXRef-item883710
+FileChecksum: SHA1: 9f709f358f580182c58d01704e6ad0876ee8c32e
+FileChecksum: MD5: ae94b659627889de255518c05f335134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_68.html
+SPDXID: SPDXRef-item883711
+FileChecksum: SHA1: 79e0f48f268a44c8d8a9458ab9696b6c70e19155
+FileChecksum: MD5: 367bcb0a9b4df3dd330f9fbd49813363
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/all_74.html
+SPDXID: SPDXRef-item883712
+FileChecksum: SHA1: 1936d8362ccf82005822ad63f2187e7ba8b59f96
+FileChecksum: MD5: edb605dd6d5b80e7a7bf8ca709b274fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/doc/html/search/enumvalues_74.html
+SPDXID: SPDXRef-item883713
+FileChecksum: SHA1: 2c3e0e2671b6300f3d7c939f89555c537975ca8e
+FileChecksum: MD5: 3a5a4efc59f6a1ab49b309845c0ed1b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcapistd.c
+SPDXID: SPDXRef-item883714
+FileChecksum: SHA1: 4a2be54d87b2cb5e267d46ebe86eccb8c137ada0
+FileChecksum: MD5: d502e235fba4a2fc64de420ddaa604c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/missing
+SPDXID: SPDXRef-item883715
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jpeg_nbits_table.h
+SPDXID: SPDXRef-item883716
+FileChecksum: SHA1: b64de794ede655c7edbcdc712188dc4a2d612f07
+FileChecksum: MD5: e938072995034578fd5af692590a81f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdapistd.c
+SPDXID: SPDXRef-item883717
+FileChecksum: SHA1: 452f01bf397c43272d9a9d7cc9d2b0af2fe71096
+FileChecksum: MD5: dbbad1abf39e08fce17403a8d4485633
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jpegcomp.h
+SPDXID: SPDXRef-item883718
+FileChecksum: SHA1: 486029a3bb27dfa9b87e1b4b451ae68695b3bc17
+FileChecksum: MD5: 93e6ddbea846e2b2b75c32f3aac4b996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jconfigint.h.in
+SPDXID: SPDXRef-item883719
+FileChecksum: SHA1: 2c623cd59396d9e749ca61d7d72a31f8bece7503
+FileChecksum: MD5: 03e4f8e8e2bdd960d11fa3756c81d477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/usage.txt
+SPDXID: SPDXRef-item883720
+FileChecksum: SHA1: 4810188742986314a94de61df205feb1c873809b
+FileChecksum: MD5: 15a9ae98c8435daa6c6c318b443d39c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/turbojpeg-mapfile.jni
+SPDXID: SPDXRef-item883721
+FileChecksum: SHA1: 9338f849aa9874c4679cc8773eace26a10ff5397
+FileChecksum: MD5: fc944dd7dd0523ff470b52597224b19f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/tjutil.c
+SPDXID: SPDXRef-item883722
+FileChecksum: SHA1: 0e0673ee28697337a52707fd55ec2b6b831b4031
+FileChecksum: MD5: da255c82d43037bd2e052f5653a2328d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/cjpeg.c
+SPDXID: SPDXRef-item883723
+FileChecksum: SHA1: d7be913b29821491ddceabd051ef1ae73221e262
+FileChecksum: MD5: 54d3a9bf07e8177cb1731ba34a14da3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wrgif.c
+SPDXID: SPDXRef-item883724
+FileChecksum: SHA1: 9ff63c2bfaaa534e779bb4f3e42221a4e7701e82
+FileChecksum: MD5: e37a6fb00e306a519968ca9c9359e1c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wrppm.h
+SPDXID: SPDXRef-item883725
+FileChecksum: SHA1: 0b8e737b8cbc290c0e18ae54dcdb5566b46629fe
+FileChecksum: MD5: 124b4f073bfb12bb80cc5fe1ff9a2266
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/ChangeLog.md
+SPDXID: SPDXRef-item883726
+FileChecksum: SHA1: ab62177361f56e3e1043950d28f540ffb226201d
+FileChecksum: MD5: 35086a55c4d08ed84549cd563ffa8ac6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jmorecfg.h
+SPDXID: SPDXRef-item883727
+FileChecksum: SHA1: c8a2ec055aee67e4a69dc6a1849f2d30e9893c18
+FileChecksum: MD5: 366bf0b5daa21c7bc6a511d4d78d8f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdphuff.c
+SPDXID: SPDXRef-item883728
+FileChecksum: SHA1: a892aa4183f84b93e240c8e7ad5c1b3afb0b62be
+FileChecksum: MD5: e6f3046cb7d1ce96d5915342732f2ef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdarith.c
+SPDXID: SPDXRef-item883729
+FileChecksum: SHA1: b4033c4067373e77aaef2a6201bb6ef10c493556
+FileChecksum: MD5: 314c5e6114d2847e0327c6f4dfe29832
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdcoefct.c
+SPDXID: SPDXRef-item883730
+FileChecksum: SHA1: 86841f487e17efc189d0a3f5082faf3c40f86c77
+FileChecksum: MD5: 6953a36b10cf2bf2e1f75b8aadc3bad8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jpegtran.1
+SPDXID: SPDXRef-item883731
+FileChecksum: SHA1: e8375ad2e7521d55cf208845cb7a3248a788b0e6
+FileChecksum: MD5: 9adea3f6935890140a61e2b8096c0f06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jerror.c
+SPDXID: SPDXRef-item883732
+FileChecksum: SHA1: bee9792b23a50eece7d77d574c9227aeeca36f63
+FileChecksum: MD5: 8cf512d54eff6be4a1dd2567daf2dcc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jpegtran.c
+SPDXID: SPDXRef-item883733
+FileChecksum: SHA1: 6641c0009f49edf8b971b9f8ac71e30e9e32ab6c
+FileChecksum: MD5: d5d0979f765c0f6126661eff6bd71dad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcapimin.c
+SPDXID: SPDXRef-item883734
+FileChecksum: SHA1: aa19f187363faef3a09abe230692f197dd761c30
+FileChecksum: MD5: 54f7f69bd5deee57ade1961e2cc8ccd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcomapi.c
+SPDXID: SPDXRef-item883735
+FileChecksum: SHA1: c7e7650b8809a58e017342cd8d559ccbd71df484
+FileChecksum: MD5: ae6bac5652f1f964ead23dfa46c82946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdapimin.c
+SPDXID: SPDXRef-item883736
+FileChecksum: SHA1: f12b31c9b7ff42f7f5a75b9a6a6c3a7d1cfead28
+FileChecksum: MD5: ce5b996d6a622219842efb10254cd2ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcinit.c
+SPDXID: SPDXRef-item883737
+FileChecksum: SHA1: 5e88c1fc7640ba470df68cfb83a865c58f909e33
+FileChecksum: MD5: c641394248a52f3381df787300d4d6cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wrbmp.c
+SPDXID: SPDXRef-item883738
+FileChecksum: SHA1: 265253c571a1c7bfa2711feec6dddd2090639d3b
+FileChecksum: MD5: 60c8120409d905ad2a241045e4f2cf2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jsimd_none.c
+SPDXID: SPDXRef-item883739
+FileChecksum: SHA1: 61ea0ad8626d5d14551c7378fabd195f9109b478
+FileChecksum: MD5: 5515c498c6506e66f3fa9f8afbf4bb2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/md5/md5.c
+SPDXID: SPDXRef-item883741
+FileChecksum: SHA1: 8a1a71f836932916806cb3d72bff1ac190eec8c3
+FileChecksum: MD5: c7c7a51d8b6da125c4fef57866b9261a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-RSA-Security
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/md5/CMakeLists.txt
+SPDXID: SPDXRef-item883742
+FileChecksum: SHA1: 69afc904eae1113298183fcd178edd1cb6e803ce
+FileChecksum: MD5: 9d56ca1cbeb92ee4792580fc08a36ee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/md5/md5cmp.c
+SPDXID: SPDXRef-item883743
+FileChecksum: SHA1: 72e2aecfa461cf98d867456e605ce6dd3c21432e
+FileChecksum: MD5: be29f6b8c2042626e1ec4daaab342a47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/md5/Makefile.in
+SPDXID: SPDXRef-item883744
+FileChecksum: SHA1: a33fc7ee0d4b0581b9421d87dfe26230d88f6695
+FileChecksum: MD5: 5aff4ab073435d2d6c61a891b568075a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/md5/Makefile.am
+SPDXID: SPDXRef-item883745
+FileChecksum: SHA1: a60a7dab239a57b42c9556a85d6f2094651d778a
+FileChecksum: MD5: 770749481b69b4ce9562a2a117afc031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/md5/md5.h
+SPDXID: SPDXRef-item883746
+FileChecksum: SHA1: 12fa9b218bce485623a1cb9322302e2d9df770fb
+FileChecksum: MD5: 7aea552ff440632d24eba39fadb53bf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-RSA-Security
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/md5/md5hl.c
+SPDXID: SPDXRef-item883747
+FileChecksum: SHA1: 8740e6ce70cfba707e53665d0a0847e1ec273916
+FileChecksum: MD5: 8a3bba68dc273371f56e50fb35b4889b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Beerware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdatasrc-tj.c
+SPDXID: SPDXRef-item883748
+FileChecksum: SHA1: 932562d2fa1b15dc8585d4cc4310fe503e251ce9
+FileChecksum: MD5: 1416ed696c7fdf34ebe7c47a193c1223
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdmaster.c
+SPDXID: SPDXRef-item883749
+FileChecksum: SHA1: f61550e4301aca784ac3094ce5f6c283b6d5c944
+FileChecksum: MD5: be1ae81ff7ab02af1b80a6e669215e08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdatasrc.c
+SPDXID: SPDXRef-item883750
+FileChecksum: SHA1: 1fdecba3b806445a87f253ed6395216d27fb2f73
+FileChecksum: MD5: 1aa76ab4734f286b872f89e3a8619f3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/configure.ac
+SPDXID: SPDXRef-item883751
+FileChecksum: SHA1: 86cb69700ea8aab756ed5617432b80b0e1bbbb07
+FileChecksum: MD5: a053beba69a4f38bfb04492effb1fb0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdjpgcom.1
+SPDXID: SPDXRef-item883752
+FileChecksum: SHA1: a854f9c590bbea8bd7ec494044165b1f7e08efb5
+FileChecksum: MD5: 144b0c0401dc9620a7bb9c8bd3169a44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/cderror.h
+SPDXID: SPDXRef-item883753
+FileChecksum: SHA1: a3c35a3f3490107d11c911618b99233261a749fa
+FileChecksum: MD5: f8ed4bb6fea19a2adc536bd823849cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/structure.txt
+SPDXID: SPDXRef-item883754
+FileChecksum: SHA1: 5bc5740ca8af42131249f5aa2bd9474327b8834e
+FileChecksum: MD5: b996a76eccdbb4c9aadcbbd3c5e06f35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/sharedlib/CMakeLists.txt
+SPDXID: SPDXRef-item883756
+FileChecksum: SHA1: 89871563428348377ff38a6b99fc4eaa562c2ea7
+FileChecksum: MD5: 1dedfd61372f5e6709400485f33271b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/libjpeg.txt
+SPDXID: SPDXRef-item883757
+FileChecksum: SHA1: b18a2190f594d085b2d731d5b46b9750ae99e332
+FileChecksum: MD5: 11a6b33e74abc52dcb67a3608e92ceab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jmemsys.h
+SPDXID: SPDXRef-item883758
+FileChecksum: SHA1: 8a07d7c6cc72d94303e9bef054bc4db1662e9226
+FileChecksum: MD5: f011942ee836a17cacf96e9c128f8802
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jccolor.c
+SPDXID: SPDXRef-item883759
+FileChecksum: SHA1: a2852231ef003790d57e078cdefa92da084cf78a
+FileChecksum: MD5: 0f5b03b908886d81c0ddc95096ebdf31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdpostct.c
+SPDXID: SPDXRef-item883760
+FileChecksum: SHA1: 33d20757c9bfd872fa89033d32a3fb3713a116b0
+FileChecksum: MD5: eecb73d274539944cd2fe3934fbff845
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdatadst.c
+SPDXID: SPDXRef-item883761
+FileChecksum: SHA1: 5f486c152fac01556e8602a20e33bee21d284ba9
+FileChecksum: MD5: 4dd199beb48e5046d5aab9fe038f4b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdjpgcom.c
+SPDXID: SPDXRef-item883762
+FileChecksum: SHA1: d88e0413bfca8766d07b13b0be4ea2b133673d64
+FileChecksum: MD5: 0ed9f9136ec9bff41e5f9390a0e11eab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdmaster.h
+SPDXID: SPDXRef-item883763
+FileChecksum: SHA1: bec2c4bdd555bdde7870a82e3eb661ed6b183dc0
+FileChecksum: MD5: 05bbd85db7a8395eb98e4618405206cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/README.ijg
+SPDXID: SPDXRef-item883764
+FileChecksum: SHA1: 154126165a50204aad894b65bd189ffd6b597493
+FileChecksum: MD5: 8088cb542754a2e0a7d302050c332f7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+LicenseInfoInFile: LicenseRef-JPEG.netpbm
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/config.guess
+SPDXID: SPDXRef-item883765
+FileChecksum: SHA1: 947c8873202b420cdd698aa562cd05ee128197f6
+FileChecksum: MD5: cb63eb753c1e306e3c593c4903d26c66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdct.h
+SPDXID: SPDXRef-item883766
+FileChecksum: SHA1: d0d9ef93833946d944acc12a39e1e67746008cb0
+FileChecksum: MD5: 1e702e6426e8872bf9aaf784540cf7b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdhuff.h
+SPDXID: SPDXRef-item883767
+FileChecksum: SHA1: 8de3588fc7c2e9a7e2e36da0dc85e05c91e54334
+FileChecksum: MD5: 705e2aed517ca632a9767296fd2e67f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jccoefct.c
+SPDXID: SPDXRef-item883768
+FileChecksum: SHA1: 08db9e9457ae92565ab7129d4ab03c352ffdf63c
+FileChecksum: MD5: 25d96036b50371db568b267b386287d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/rdswitch.c
+SPDXID: SPDXRef-item883769
+FileChecksum: SHA1: 671db18ff6f1c8c3d947e82adf96e18b62729bf1
+FileChecksum: MD5: 13a2f0c0087f3a19112b7035037abcfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdmerge.c
+SPDXID: SPDXRef-item883770
+FileChecksum: SHA1: 6e14e72c440e5dd4f0cdb8e43b6b6afed45e7e11
+FileChecksum: MD5: ee0d6ac8dbb89519703e9d020416c61c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/wrjpgcom.c
+SPDXID: SPDXRef-item883771
+FileChecksum: SHA1: 042888d48b12d65f05f6f331b5276121993383ee
+FileChecksum: MD5: b25f3ac72dea7b8774e83fa1b5e1460c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jdsample.c
+SPDXID: SPDXRef-item883772
+FileChecksum: SHA1: 8be9fc822dcd93d5e663b841e10d23cbff06b7d4
+FileChecksum: MD5: 5ea25c70f4c8077997ad34e3b17ccad6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/tjbenchtest.java.in
+SPDXID: SPDXRef-item883773
+FileChecksum: SHA1: 4501a042f84733c782f93c14bc365ba759ed7d8c
+FileChecksum: MD5: 727ccc4da3eb66bfa58fd265a22da42c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/turbojpeg.h
+SPDXID: SPDXRef-item883774
+FileChecksum: SHA1: f92d6ac8eda817b866c9a95bc6d46a413e0e9439
+FileChecksum: MD5: e2de09826a411d90704057b4c0cc03c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/cdjpeg.c
+SPDXID: SPDXRef-item883775
+FileChecksum: SHA1: 4711dd5f6b61deb0532a7f0ba8c45333b8532a0b
+FileChecksum: MD5: 156a7218f957f07e4dd464aff76a8ea7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/README.md
+SPDXID: SPDXRef-item883776
+FileChecksum: SHA1: 0e0a479b9a6c58954c0c1dc97b9df09a0defe9bd
+FileChecksum: MD5: c752d0080bf514d976b05a3c86df92be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jchuff.c
+SPDXID: SPDXRef-item883777
+FileChecksum: SHA1: 1d70ca18085cd87305dd79c2b499a44edd6a632b
+FileChecksum: MD5: 3b340e9157c7766beae75404c0bb4c44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/depcomp
+SPDXID: SPDXRef-item883778
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jcstest.c
+SPDXID: SPDXRef-item883779
+FileChecksum: SHA1: 7298737f41916c37e692069d97b7502adba8b9ab
+FileChecksum: MD5: 7c8f30c6a97f54d999f3ca5b23207913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libjpeg-turbo-1.5.2/jctrans.c
+SPDXID: SPDXRef-item883780
+FileChecksum: SHA1: 4fde83522825361613c63a57f77061cfc5979ea8
+FileChecksum: MD5: cbcd5ddcfbd8fef5662fb22f08a9cf9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: IJG
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-RSA-Security
+LicenseName: RSA-Security
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-Beerware
+LicenseName: Beerware
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD-possibility
+LicenseName: BSD-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-JPEG.netpbm
+LicenseName: JPEG.netpbm
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-MIT-CMU-style
+LicenseName: MIT-CMU-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

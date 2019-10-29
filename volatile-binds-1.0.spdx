@@ -1,0 +1,96 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_volatile-binds-1.0-r0-patched.tar.gz_1571458039.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:07:19Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: volatile-binds
+PackageVersion: 1.0
+PackageFileName: volatile-binds-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload342
+PackageDownloadLocation: file://mount-copybind
+PackageHomePage: 
+PackageSummary: <text>Volatile bind mount setup and configuration for read-only-rootfs</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>volatile-binds version 1.0</text>
+PackageChecksum: SHA1: aaff4c9e0c2c09d06014a56502ff2e1944e8390c
+PackageChecksum: MD5: b30209df8d50f18ac065411897e8165c
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload342
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/COPYING.MIT
+SPDXID: SPDXRef-item853238
+FileChecksum: SHA1: d9612033b2d1a6116e8da938ea9316637673cdb7
+FileChecksum: MD5: 5750f3aa4ea2b00c2bf21b2b2a7b714d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mount-copybind
+SPDXID: SPDXRef-item853239
+FileChecksum: SHA1: 1bdeaf7f223c73fe9f9616dd40170e5a4e419991
+FileChecksum: MD5: 0eda6109ba6d27aa59c9780599daf309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/volatile-binds.service.in
+SPDXID: SPDXRef-item853240
+FileChecksum: SHA1: 48a4a84a6d07d480ecbdb34fae4681315ee57eaf
+FileChecksum: MD5: 907b51c028093b4d9fa9014666324937
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

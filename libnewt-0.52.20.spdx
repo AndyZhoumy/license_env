@@ -1,0 +1,2482 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libnewt-0.52.20-r0-patched.tar.gz_1571460211.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:43:31Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libnewt
+PackageVersion: 0.52.20
+PackageFileName: libnewt-0.52.20-r0-patched.tar.gz
+SPDXID: SPDXRef-upload417
+PackageDownloadLocation: https://releases.pagure.org/newt/newt-0.52.20.tar.gz
+PackageHomePage: https://releases.pagure.org/newt/
+PackageSummary: <text>A library for text mode user interfaces</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libnewt version 0.52.20</text>
+PackageChecksum: SHA1: 3220209b9bc017e5517653b1106b9060815ccd94
+PackageChecksum: MD5: 7c20d5122ebf284f8a7eb8290d9d04c2
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload417
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/cross_ar.patch
+SPDXID: SPDXRef-item1092165
+FileChecksum: SHA1: 719d70a29af3c7f267cc01d0986e6fc8d3bed0eb
+FileChecksum: MD5: 0c50d1820d792e9f9c57a6bfe74bf9af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/Makefile.in-Add-tinfo-library-to-the-linking-librari.patch
+SPDXID: SPDXRef-item1092166
+FileChecksum: SHA1: 03972f1a1bebf01af054ff2b5739d372098e6ac0
+FileChecksum: MD5: 97ebc74c26c8922aba1fbf3194ef1d2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pie-flags.patch
+SPDXID: SPDXRef-item1092167
+FileChecksum: SHA1: c0d0bcc09c573f79b0dde99c7f01be1894e10cc1
+FileChecksum: MD5: 3e39d0435b8d97c69d8eb13baef00adc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-detect-gold-as-GNU-linker-too.patch
+SPDXID: SPDXRef-item1092168
+FileChecksum: SHA1: 2f7883c8971ec7f21e6a82cbe9ab4b65bd461142
+FileChecksum: MD5: cf199e1a9ed5f5b4a624e7969891b5ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/fix_SHAREDDIR.patch
+SPDXID: SPDXRef-item1092169
+FileChecksum: SHA1: cc1223a52442771de934e0655b439a719e689bc4
+FileChecksum: MD5: d3c2fe0d63cb37fe5b522d205a865ba4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/testgrid.c
+SPDXID: SPDXRef-item1092171
+FileChecksum: SHA1: a76530de74dae2ac47dbb8861818b9b2057d8419
+FileChecksum: MD5: 46ce20bf704c0e2926b77d5a09a3010b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/checkbox.c
+SPDXID: SPDXRef-item1092172
+FileChecksum: SHA1: 5b428638aec2c3916dafc546354eb40843e6d5a4
+FileChecksum: MD5: 2dc9dc4277d3e2bbab94cead59df3589
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/snack.c
+SPDXID: SPDXRef-item1092173
+FileChecksum: SHA1: 016c9819a660cc1c04e8fdde28668b244646f357
+FileChecksum: MD5: 09e9ea65fab2af181b62393cac8ef660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/textbox.c
+SPDXID: SPDXRef-item1092174
+FileChecksum: SHA1: cecbd76ea3312ef1449c25849442e2bc8bf33584
+FileChecksum: MD5: 3e81338ecfb0e22cbd55729a1540cc4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/eawidth.c
+SPDXID: SPDXRef-item1092175
+FileChecksum: SHA1: 0d54e393f6f091d9f4ccbc3eb0242ca98858e9cf
+FileChecksum: MD5: 1f87869bc2114660e6ed8c4e782bd469
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/label.c
+SPDXID: SPDXRef-item1092176
+FileChecksum: SHA1: 41a22fff96ab5d6e49899cb87352aaed14d77c37
+FileChecksum: MD5: 4fa9ad430b95009102697f6cf1074512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/whiptail.1
+SPDXID: SPDXRef-item1092177
+FileChecksum: SHA1: 78e27df1f8cf8aaa9523670a5c29b14b7ba4a60b
+FileChecksum: MD5: ffe7e93a70cc85db5a3268495ab58dfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/install-sh
+SPDXID: SPDXRef-item1092178
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/windows.c
+SPDXID: SPDXRef-item1092179
+FileChecksum: SHA1: 6b2bbaf381bea7795c107ca714e91cd3e11499a2
+FileChecksum: MD5: 67debeabb9a937ee859defe0fc994337
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/popcorn.py
+SPDXID: SPDXRef-item1092180
+FileChecksum: SHA1: a847c1c480e8c2d7140f13fd19a0a8e0dfcae7e2
+FileChecksum: MD5: 0f78a23f01e3c603d3fe410cd35ddfb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/dialogboxes.c
+SPDXID: SPDXRef-item1092181
+FileChecksum: SHA1: f0c2376a972b7d3ffa12dca37c6cef3756ff1e8c
+FileChecksum: MD5: e5178d0ad4e632e52d62032ab9983378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/newt.0.52.ver
+SPDXID: SPDXRef-item1092182
+FileChecksum: SHA1: 60e1a2d21849109051d8f3c05d05e57635435da3
+FileChecksum: MD5: 3eee557f2751b54d4eca92ea4a996e25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/form.c
+SPDXID: SPDXRef-item1092183
+FileChecksum: SHA1: 880bf49ce0c4d5274ec1d0ffc840b098333c5d62
+FileChecksum: MD5: 1ae93a2d44ccf2c37bed3ab99a641408
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/buttonbar.c
+SPDXID: SPDXRef-item1092184
+FileChecksum: SHA1: 808e0920ef77bb0e3a820399231d343f73d973fe
+FileChecksum: MD5: f0792d895c31ee2a047cc81c588fd2dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/Makefile.in
+SPDXID: SPDXRef-item1092185
+FileChecksum: SHA1: 96dfe1d66db55fc7dc721fbd43ef40ced3fd820f
+FileChecksum: MD5: 0b5ffd31806fdad483bb14caa1bc4f67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/COPYING
+SPDXID: SPDXRef-item1092186
+FileChecksum: SHA1: ba8966e2473a9969bdcab3dc82274c817cfd98a1
+FileChecksum: MD5: 5f30f0716dfdd0d91eb439ebec522ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/configure
+SPDXID: SPDXRef-item1092187
+FileChecksum: SHA1: 96e25c6d9f677be2d9901d8b714cc82d0d4082f5
+FileChecksum: MD5: f7b8cd7130c2fe6c87e9656a96fa0871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/whiptail.c
+SPDXID: SPDXRef-item1092188
+FileChecksum: SHA1: bc043341b7a1a9cd0dcd1376680e0c1eba061701
+FileChecksum: MD5: b10a6ce9753da9eeaaddbd3eac4a01ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/snack.py
+SPDXID: SPDXRef-item1092189
+FileChecksum: SHA1: 07ce32ed5a27b5c155fff392d2ccf713a3003842
+FileChecksum: MD5: 674ae80f6d880b715d2a0e1ba1afb292
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/dialogboxes.h
+SPDXID: SPDXRef-item1092190
+FileChecksum: SHA1: 1c18774665fe402b87187e50173a65d2583e55b3
+FileChecksum: MD5: 0818e71ff91b05427baadda8db1e669b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/tutorial.sgml
+SPDXID: SPDXRef-item1092191
+FileChecksum: SHA1: c432ffb55fa76b1b664c402a730919e471551723
+FileChecksum: MD5: eb9e475a399b4b93e60b8c71d27a7c83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/scale.c
+SPDXID: SPDXRef-item1092192
+FileChecksum: SHA1: 09bf776576f1c1176c340dcfa208ee359787b4c8
+FileChecksum: MD5: 34a1e8d078e9f0c3c14dc2aae615df25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/libnewt.pc.in
+SPDXID: SPDXRef-item1092193
+FileChecksum: SHA1: 8170e7e1ab7e67d70a516da248b95e655fddbb12
+FileChecksum: MD5: 98b4f8869e615fe4c9f82b006bae88da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/config.h.in
+SPDXID: SPDXRef-item1092194
+FileChecksum: SHA1: 605837c627a070fc26eb4e0c365324ec3484635d
+FileChecksum: MD5: d84078779eceb58dba98da4948dcae0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/gu.po
+SPDXID: SPDXRef-item1092196
+FileChecksum: SHA1: b7a126e97caf55a7d8c532b2fdaa92517c807d72
+FileChecksum: MD5: 255824a3686c5712c755fae30d0c5236
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/es.po
+SPDXID: SPDXRef-item1092197
+FileChecksum: SHA1: 6afd395cf0234f9a80f08c47acea75d37d5adabf
+FileChecksum: MD5: 8b1747b76b2efb265a220837dfa912b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/es.mo
+SPDXID: SPDXRef-item1092198
+FileChecksum: SHA1: 046be7674a7aec52085a5c666a2b4b922b6b2ef0
+FileChecksum: MD5: 566a8d32e47e4060c2b87679230657f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/id.po
+SPDXID: SPDXRef-item1092199
+FileChecksum: SHA1: c08e4dc74b35710230f303d6afd2fb793caa4b08
+FileChecksum: MD5: 932ae1c053255570623cff6d316028ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/Makefile
+SPDXID: SPDXRef-item1092200
+FileChecksum: SHA1: 26b2661dd21c5dd18f4a6e94e96be5555ab56ea6
+FileChecksum: MD5: 496acda5d4fd314f27cc863370930bb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/lt.po
+SPDXID: SPDXRef-item1092201
+FileChecksum: SHA1: 499346eb210a1b380e46f42a6c944178b7f3fdef
+FileChecksum: MD5: c19b381421270942a8919a7759227939
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/fa.mo
+SPDXID: SPDXRef-item1092202
+FileChecksum: SHA1: b67e1c645daacc5a2e8525bbe8fac86e7e33e8be
+FileChecksum: MD5: 294411b0ea396976725d161feb23bcc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sv.po
+SPDXID: SPDXRef-item1092203
+FileChecksum: SHA1: ae41198b389b783cdc0246dcc65453c8adf337c2
+FileChecksum: MD5: ec8dc35dc6ac694137da8d2b69fddcaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ru.mo
+SPDXID: SPDXRef-item1092204
+FileChecksum: SHA1: 8b8b8dc04b82c9f5401708d79559ca49ebf905a5
+FileChecksum: MD5: 2752ece820c80a4dfe834612383951d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ga.po
+SPDXID: SPDXRef-item1092205
+FileChecksum: SHA1: c54cc0dbae09b374c9bc15427f8237029cad1e38
+FileChecksum: MD5: 9132d4f54796712ffb85f61250070ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/pt.mo
+SPDXID: SPDXRef-item1092206
+FileChecksum: SHA1: 8add7d3e0d8690ba4870c44a8916add1fe885cac
+FileChecksum: MD5: f1308aca221ed6eaf90a6d3b2317f5a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ast.mo
+SPDXID: SPDXRef-item1092207
+FileChecksum: SHA1: 56b282bb2c837c04d652e28d3e9833a30646e360
+FileChecksum: MD5: f2346dd9e0460ca29cc6841807014d19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bg.po
+SPDXID: SPDXRef-item1092208
+FileChecksum: SHA1: c65a50d09e710456516f23f8616726d10b2b3464
+FileChecksum: MD5: 935d23f1daef18d80140432571396916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/lv.mo
+SPDXID: SPDXRef-item1092209
+FileChecksum: SHA1: 5567a7ff92a664f3bfbdb02f36dcd481372717af
+FileChecksum: MD5: 0d4a92af1a4d28e94b1b58074d59572c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/et.mo
+SPDXID: SPDXRef-item1092210
+FileChecksum: SHA1: 2424f3c88650535c403024f0b70367116bcb8794
+FileChecksum: MD5: 35425cb7f7a5eb5869da2daac4884bce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ar.po
+SPDXID: SPDXRef-item1092211
+FileChecksum: SHA1: 4aa9efd6824f8f9347916300613a1878daba6649
+FileChecksum: MD5: b69b89776781ca652479cd94e7bc5496
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sr@latin.po
+SPDXID: SPDXRef-item1092212
+FileChecksum: SHA1: d9017f2610cf4033d84e6850107e4d0328b5ad9b
+FileChecksum: MD5: 1315f86723247b6e48d552f0dc74ef6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/te.mo
+SPDXID: SPDXRef-item1092213
+FileChecksum: SHA1: fe4b671ecb96a86056d4b243a41c8f54898e137c
+FileChecksum: MD5: 2029c193ffb51745f557febfb4c252bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bal.po
+SPDXID: SPDXRef-item1092214
+FileChecksum: SHA1: 2f9a9ac9ff9a1f9fc6445f1ccff316355c5d6c79
+FileChecksum: MD5: 2a992a3466326b8a94d6b49f5d87972e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/pl.mo
+SPDXID: SPDXRef-item1092215
+FileChecksum: SHA1: c2e5ab0cc748f43e5c02fefbfc0e26b4e279ebd4
+FileChecksum: MD5: e37d099a7ee7ad6b09830cc98371bf06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sr.po
+SPDXID: SPDXRef-item1092216
+FileChecksum: SHA1: 1a3e441f5b22a150d76a80ab5ff34eee77d41899
+FileChecksum: MD5: 34bf41194f59ac878e045770eddbe944
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/km.mo
+SPDXID: SPDXRef-item1092217
+FileChecksum: SHA1: 0b073b8d12624d24cd3c69ea978e172ce143de36
+FileChecksum: MD5: d0fdbf1641cc5f1f2e529781f9d860fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sr.mo
+SPDXID: SPDXRef-item1092218
+FileChecksum: SHA1: 1714e795d98578f8cad630fcb21ce5d38cf2945c
+FileChecksum: MD5: f1c9465ffbf98ec16ea425702cf7f067
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/nds.mo
+SPDXID: SPDXRef-item1092219
+FileChecksum: SHA1: ef692429027153161b253b78228d5232297f26fc
+FileChecksum: MD5: 98c03a8b18e7f2097d4f9d3b7ffb924a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ca.mo
+SPDXID: SPDXRef-item1092220
+FileChecksum: SHA1: fbbd629896b8232c3cfb7a5296d70f91a2038efc
+FileChecksum: MD5: 344c11f8f1cf8015159de8af88061041
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/mk.mo
+SPDXID: SPDXRef-item1092221
+FileChecksum: SHA1: 140ab5b94fdb3511f19f5755147955abb36fcecf
+FileChecksum: MD5: ace0480078642fe3656338748cd3d27c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/eu.mo
+SPDXID: SPDXRef-item1092222
+FileChecksum: SHA1: 9e721a25875663d3e0d698af1c7cba7a5e00d616
+FileChecksum: MD5: 565fcdc3b8d17f2911451849236d1559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sq.mo
+SPDXID: SPDXRef-item1092223
+FileChecksum: SHA1: 60fb9ce03e3edc57a0e22336c43f7c5b8fc0edc5
+FileChecksum: MD5: 83cef1e5e09efdab406841e53bf9e2f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ca.po
+SPDXID: SPDXRef-item1092224
+FileChecksum: SHA1: 33f5de88f2a33399a3339dd16c7f74044f311812
+FileChecksum: MD5: f405c2098d90e090e8531668b1e30618
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sr@latin.mo
+SPDXID: SPDXRef-item1092225
+FileChecksum: SHA1: dc3b088cc0707496ce1a564c88a4faff362a0d13
+FileChecksum: MD5: 2d5f343092674a4498f269114b5290d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ml.mo
+SPDXID: SPDXRef-item1092226
+FileChecksum: SHA1: e33ee820f6198aac377a38553823cb230fe47211
+FileChecksum: MD5: 45c5b45bb0f6b412b9516526da74e092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ko.po
+SPDXID: SPDXRef-item1092227
+FileChecksum: SHA1: 82fdb18b62d1f050b2fcee1906879c66fa204f24
+FileChecksum: MD5: 687113103393eb4a739fc902a98673a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ko.mo
+SPDXID: SPDXRef-item1092228
+FileChecksum: SHA1: bb4c0644a5f28166972a98b4c379913cb88d0a16
+FileChecksum: MD5: 3195580c5b371eb840e8d147b15b7e3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bal.mo
+SPDXID: SPDXRef-item1092229
+FileChecksum: SHA1: 0b2072c5580d2824eabbaa16d3fff156972b289c
+FileChecksum: MD5: 5afd6ae85be7b81c7bfa80c55a2ea0af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/th.mo
+SPDXID: SPDXRef-item1092230
+FileChecksum: SHA1: 7abeeda1c21b90bfed3a1b6ef370c54b373182f8
+FileChecksum: MD5: 5bd069dcafa791cef1682fb9c4546b94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/el.mo
+SPDXID: SPDXRef-item1092231
+FileChecksum: SHA1: 55a1d18adf768d72f4ca014d122d2ab3ee51de58
+FileChecksum: MD5: 57218bd93bfe3e44eceec9c2c4af5191
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bg.mo
+SPDXID: SPDXRef-item1092232
+FileChecksum: SHA1: f5b85f647aa7956adfaa1c80f5e8292a749ad47c
+FileChecksum: MD5: d79de216b6cb7e88bdedee5071367fa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ro.mo
+SPDXID: SPDXRef-item1092233
+FileChecksum: SHA1: 988faeebaf2e6b4c302f31c48c7d0ef0e9f4d955
+FileChecksum: MD5: a916afa9426e3ba0957da795d21ee81e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/pt_BR.po
+SPDXID: SPDXRef-item1092234
+FileChecksum: SHA1: fa5bef9d87a04b0c04fc94dbe9c72ebb90a4c4b1
+FileChecksum: MD5: b4a1fa700f816770084a2352b561c1cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/mk.po
+SPDXID: SPDXRef-item1092235
+FileChecksum: SHA1: b68a08bfe1c921875c05adec1c22a05aa11b4b08
+FileChecksum: MD5: fd82717ef095668e3e8d9c6bca3e9c90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/fr.mo
+SPDXID: SPDXRef-item1092236
+FileChecksum: SHA1: e3a25b19ecf986dd82845d5d1cd3c3a31dad387b
+FileChecksum: MD5: 1d4324fb3ccfb30bfe18b32985fd4eb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/gl.po
+SPDXID: SPDXRef-item1092237
+FileChecksum: SHA1: 3a6321a2e25b1ac91fd446fa583ca08e34ba4ca0
+FileChecksum: MD5: 03d339ea6321bd15d9bc87149750854d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/nb.mo
+SPDXID: SPDXRef-item1092238
+FileChecksum: SHA1: ad1d3dd868bd0c50e504e64da9043aa7e4678ea0
+FileChecksum: MD5: d5dd128a097684aa6255d7ca4bd989b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sv.mo
+SPDXID: SPDXRef-item1092239
+FileChecksum: SHA1: 583e7c0891537ef84186d3794ba5e4922543bca0
+FileChecksum: MD5: 5888903eaee1c272079487888f3e187f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/xh.po
+SPDXID: SPDXRef-item1092240
+FileChecksum: SHA1: 94b2185d27208f8c1d7f165631a4528cdb643916
+FileChecksum: MD5: f46806b7b5a1c7090fb5b2c2d9eab88d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/cs.po
+SPDXID: SPDXRef-item1092241
+FileChecksum: SHA1: 4114b65068b24939e7bb79de13cb7e6b60b98bb3
+FileChecksum: MD5: 4acd53302287457a30ae06e0294ec9e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bn.mo
+SPDXID: SPDXRef-item1092242
+FileChecksum: SHA1: 947ab15f43a5a28ed00a53e46711027820dc4252
+FileChecksum: MD5: 349d4291b381c89bfe0f80094e9c81c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/cy.po
+SPDXID: SPDXRef-item1092243
+FileChecksum: SHA1: ca4583c70f5858d77a93a6542b5a15881777feac
+FileChecksum: MD5: c5a8a944d2185a441337241ce2bc1d0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ka.po
+SPDXID: SPDXRef-item1092244
+FileChecksum: SHA1: 35da8bc644304ef1603e0d6f26c422f5ca1eb7c1
+FileChecksum: MD5: 599a08bb5956713b6d6a8ae34293d862
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/tl.mo
+SPDXID: SPDXRef-item1092245
+FileChecksum: SHA1: acdd084ae3b108bb0bd3ccf977d6d283f057768a
+FileChecksum: MD5: bf3578a08769616df084bb47b7d20a34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ml.po
+SPDXID: SPDXRef-item1092246
+FileChecksum: SHA1: d5c5740c69c33c23525d52ac66ee6e29e8012647
+FileChecksum: MD5: 4248045630c7bbbac28563a5f6f46697
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/de.po
+SPDXID: SPDXRef-item1092247
+FileChecksum: SHA1: 697d0f77003bfacd57a298f06658f3de49ce32db
+FileChecksum: MD5: b64ecc284acccf8e47213d72f9702634
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/da.mo
+SPDXID: SPDXRef-item1092248
+FileChecksum: SHA1: 310564756aa8ee6a25b565437a93575594e6f50d
+FileChecksum: MD5: 31064579e8bde11497f75df25d0ea6d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/hi.mo
+SPDXID: SPDXRef-item1092249
+FileChecksum: SHA1: 53e0c9cd68b7b1b223b3183a438a287132ef3c59
+FileChecksum: MD5: 5a3aeb3978b395cede83a063a9b7e697
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ms.po
+SPDXID: SPDXRef-item1092250
+FileChecksum: SHA1: ff632562bcaf41583ee6fa24780629d967efa52c
+FileChecksum: MD5: 5bacf567041b78aa3d3568ac33a531f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/zh_CN.mo
+SPDXID: SPDXRef-item1092251
+FileChecksum: SHA1: 1486546d54a4532f54bed449f6184c91066b28d2
+FileChecksum: MD5: 38718b5f8da8022b550d70b21c631b44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ga.mo
+SPDXID: SPDXRef-item1092252
+FileChecksum: SHA1: b90f95d475c2d98d3b0529da4d638604141464ab
+FileChecksum: MD5: 712e7fb02f5808603e0505c4beecdca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ia.mo
+SPDXID: SPDXRef-item1092253
+FileChecksum: SHA1: 1f72ca40587541331e4bde71d6c214272ebdf8f3
+FileChecksum: MD5: 8039287d8ce8049f1bbb45cc07369625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/lt.mo
+SPDXID: SPDXRef-item1092254
+FileChecksum: SHA1: 6d149b355b9aa39497be8b9be4aae76b98a964e4
+FileChecksum: MD5: c6a0aa7dcbbc35877b04dc5848170f05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/gl.mo
+SPDXID: SPDXRef-item1092255
+FileChecksum: SHA1: 98fe15c9112928266be632febb598466b126efa1
+FileChecksum: MD5: cf56cecb4687767b7ab1a76713e3dcef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/tr.mo
+SPDXID: SPDXRef-item1092256
+FileChecksum: SHA1: 42a1e9e2592047185cdf8b91c88b4946e6f3f82f
+FileChecksum: MD5: dcfe20e7e2a8c720138a160fd91ac02b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/dz.po
+SPDXID: SPDXRef-item1092257
+FileChecksum: SHA1: ffc0b487d446b8ebd8c6eeb4773d7ba4aede62d1
+FileChecksum: MD5: c0102d1a77ada4cb89db5913d13f1e6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/eo.mo
+SPDXID: SPDXRef-item1092258
+FileChecksum: SHA1: 7bd3d375efaab78556e126c6b01a3de6c851a9ed
+FileChecksum: MD5: 9914f2673d4ff4ff8b4c68084207de4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/fr.po
+SPDXID: SPDXRef-item1092259
+FileChecksum: SHA1: d2d4aa2169ec7dfc87d0114923560207efb4f7db
+FileChecksum: MD5: 5e8e1f0b667657ea0ce55009af8692a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/nb.po
+SPDXID: SPDXRef-item1092260
+FileChecksum: SHA1: 433019327f1d6155f185160523d8a2cedc3be84b
+FileChecksum: MD5: e9efed4228e6bdbc52a8d1b0d2bab814
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ru.po
+SPDXID: SPDXRef-item1092261
+FileChecksum: SHA1: dc353fdd24e7af1e73587a662fd1dd9494820084
+FileChecksum: MD5: 0cb7d510fc8b5915a48ca2d650861042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/nn.po
+SPDXID: SPDXRef-item1092262
+FileChecksum: SHA1: eca33ff98d4f69254d1c5168a12424fb81a32d46
+FileChecksum: MD5: 2b4a4f61f59633350ab580ebbced7bd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/tg.po
+SPDXID: SPDXRef-item1092263
+FileChecksum: SHA1: 0517338717e300c1fb25b510c2e23fd704b46c21
+FileChecksum: MD5: 378032f50605ff780be25739563f40cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/lv.po
+SPDXID: SPDXRef-item1092264
+FileChecksum: SHA1: 5219698227a5de5e967711f9eb1026760aeecdf5
+FileChecksum: MD5: 62157d836b374bf4f393af3f4c127c1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/nn.mo
+SPDXID: SPDXRef-item1092265
+FileChecksum: SHA1: 10d9e830143b65499ceeac085592a4de72f5ccda
+FileChecksum: MD5: e2682e3f9bbeff2f653a2398ce92d140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/he.po
+SPDXID: SPDXRef-item1092266
+FileChecksum: SHA1: a1c9adba42224ad79d25e15dd3175938042ec71f
+FileChecksum: MD5: f95f74ee575ed95cdd9f99e947de3207
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/wo.po
+SPDXID: SPDXRef-item1092267
+FileChecksum: SHA1: b4486af66206390393bf5331ad7a5c7fabdf6a69
+FileChecksum: MD5: bab98888638f899e2657f75843aba182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ta.mo
+SPDXID: SPDXRef-item1092268
+FileChecksum: SHA1: c263ad1e573bf6b99670e27421a463a68c0d612c
+FileChecksum: MD5: c45501bf6e1c9c543d2f26b277359ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ast.po
+SPDXID: SPDXRef-item1092269
+FileChecksum: SHA1: 3d97f9fe9259276f25004525517b463f4b6ec374
+FileChecksum: MD5: 8d2a0da47c55ec5c74c004c1bb211791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ms.mo
+SPDXID: SPDXRef-item1092270
+FileChecksum: SHA1: 47ecbda8a76e0456165face97a2e2e24c5c129e6
+FileChecksum: MD5: 261645e79f5333ff9c5f29c2e65dfc03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bn.po
+SPDXID: SPDXRef-item1092271
+FileChecksum: SHA1: e3a24b9a2bbfe71b3db99dfbda95863d97578262
+FileChecksum: MD5: 6e37457ef7f6397a9c7d6e00029ba4ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/vi.mo
+SPDXID: SPDXRef-item1092272
+FileChecksum: SHA1: 10a20ba0e568fffdf8dbd7bd6778c5e60fc6b174
+FileChecksum: MD5: d54edf248efe9f3e0e84ecee99784696
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ro.po
+SPDXID: SPDXRef-item1092273
+FileChecksum: SHA1: 34d2c676e839ba73d3dc12caae2092a4204fa678
+FileChecksum: MD5: add6f588249a78c904dc0915a8e07ea7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sk.po
+SPDXID: SPDXRef-item1092274
+FileChecksum: SHA1: 2650d5c8f0238a18f3a39178a4a090f3a4dbe720
+FileChecksum: MD5: 8b36f199af21bf6eff58f107687a5cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/mr.mo
+SPDXID: SPDXRef-item1092275
+FileChecksum: SHA1: 3011e081032d6f353fa922ee9ac0cd2ff5d337f5
+FileChecksum: MD5: c283b52fb84b52e4e0617ae71faa79e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/da.po
+SPDXID: SPDXRef-item1092276
+FileChecksum: SHA1: df69d56123d994a9bb3354804bc30c4e0b9236da
+FileChecksum: MD5: e9535e47011b4c42b8ac607d870f183b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ne.mo
+SPDXID: SPDXRef-item1092277
+FileChecksum: SHA1: ff9609b215104b51adf019102f5201c0bdc733cb
+FileChecksum: MD5: 9de24e7ad4a25b090ad97236e6a45fcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/hi.po
+SPDXID: SPDXRef-item1092278
+FileChecksum: SHA1: ed30e135b75730f3aa96b3663b8ee5730c2d8bc5
+FileChecksum: MD5: 7a3edffbdabed7210f7e509bdbeae45c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/zh_TW.mo
+SPDXID: SPDXRef-item1092280
+FileChecksum: SHA1: f48fb0181aa606a26e45b9e7232ede17ef39df5a
+FileChecksum: MD5: 2d6d14e9e1834f2f53ebef9753f644a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bn_IN.mo
+SPDXID: SPDXRef-item1092281
+FileChecksum: SHA1: 87af0049c5f4867a2a09bcecf32d4b96770cbf5c
+FileChecksum: MD5: d6980ea2e43f928e4ae85f5df57aea89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/km.po
+SPDXID: SPDXRef-item1092282
+FileChecksum: SHA1: 3ef1558e33979b48ff611e24e1a45982490c115f
+FileChecksum: MD5: 0bca9dd783d976bcd5d4bb1360feabc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/hu.po
+SPDXID: SPDXRef-item1092283
+FileChecksum: SHA1: 732de76208458de14b33423d966c824de81eb66f
+FileChecksum: MD5: 1c5644795438ca9e293e79476eceae1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ja.po
+SPDXID: SPDXRef-item1092284
+FileChecksum: SHA1: 845b855bf9133e0fe583ab54909f4f241b0fff1a
+FileChecksum: MD5: 735de67044042b6b2ba89418086e3178
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ku.po
+SPDXID: SPDXRef-item1092285
+FileChecksum: SHA1: 69ff0b31f062dc10bcbda690bbff835fadc55c91
+FileChecksum: MD5: 77dd9fd370bbaec7d2c8de0c655d1bc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/cy.mo
+SPDXID: SPDXRef-item1092287
+FileChecksum: SHA1: 64d3f6fd712c78b20aaa159d14cbf8b66c70bbef
+FileChecksum: MD5: 731d41af08f6445cb8d15ba5358f5150
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ar.mo
+SPDXID: SPDXRef-item1092288
+FileChecksum: SHA1: c2afa7aa896560f1b4774269c2b3530cb7310dd4
+FileChecksum: MD5: e8a37aac67776057ec42bf08c3c40834
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/xh.mo
+SPDXID: SPDXRef-item1092289
+FileChecksum: SHA1: ceeebb36c708206c6ac680aa56d4d80a527aaeaf
+FileChecksum: MD5: c64bc51de4fca15472fb1c07b4e4e25f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/th.po
+SPDXID: SPDXRef-item1092290
+FileChecksum: SHA1: fa933a868de5585ea1c436629075f13ded277bd8
+FileChecksum: MD5: 27bd2ecc97fccc407b3ec398215ea1a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/kn.po
+SPDXID: SPDXRef-item1092291
+FileChecksum: SHA1: 3b214392ad91aa4daf5f2cc8f89c5e8942236510
+FileChecksum: MD5: 51fc274a200e10de8f17e866676096bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/newt.pot
+SPDXID: SPDXRef-item1092292
+FileChecksum: SHA1: 91ee96f3326bdd952f616b1f1344da5d3c8ce0b2
+FileChecksum: MD5: 7026754cdc88ec2906da6e2d1834de5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/as.mo
+SPDXID: SPDXRef-item1092293
+FileChecksum: SHA1: f3260b1da09dc89064937feb8150a7f208acc4b2
+FileChecksum: MD5: 989a9990bd466bea66270570e6f20b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/pl.po
+SPDXID: SPDXRef-item1092294
+FileChecksum: SHA1: dcffe2e16551d1bc8104304372c8f3f931572f48
+FileChecksum: MD5: 9aabc9b58228b9798017d86a2a4c66ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/mg.mo
+SPDXID: SPDXRef-item1092296
+FileChecksum: SHA1: 19c652d715a2c0d749bc27a94168cfef0cb57c3c
+FileChecksum: MD5: 58282d30c5bc7e4a66e72a66a125adc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/uk.mo
+SPDXID: SPDXRef-item1092297
+FileChecksum: SHA1: 9e18b6e56b7779e5e3074a4b9c6ff86cab06592d
+FileChecksum: MD5: 539512ef4b62ccdec9c247b1ec809e52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/fi.po
+SPDXID: SPDXRef-item1092298
+FileChecksum: SHA1: 22d7a34177c78ba3562cad562ec4d36078b2aedb
+FileChecksum: MD5: 0b83bc2226b6f8e140342339444c05e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/kn.mo
+SPDXID: SPDXRef-item1092302
+FileChecksum: SHA1: 406582d1f45901bdb82cf5deb9bd1e5765f6183d
+FileChecksum: MD5: 2464b23f2c8cecdd27a66e0cf5be5587
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bs.mo
+SPDXID: SPDXRef-item1092308
+FileChecksum: SHA1: 70e60b426639504f670f0517ce26f4a4f4132280
+FileChecksum: MD5: 6ded0162d15637268f17db18aabd090c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/pa.mo
+SPDXID: SPDXRef-item1092313
+FileChecksum: SHA1: 080813d97349afaee2e0125b46017925dd600342
+FileChecksum: MD5: d964a7b89cfd90105fdb562c14935cdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ja.mo
+SPDXID: SPDXRef-item1092319
+FileChecksum: SHA1: ccb1aeeaf5118a8c2e3f22845553c3b5784446f3
+FileChecksum: MD5: 9ba7528fcb25cd8133b66643db55f467
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/fa.po
+SPDXID: SPDXRef-item1092320
+FileChecksum: SHA1: 42dc7afe781c2438b05fe6b71ebe1b8aaa4c4003
+FileChecksum: MD5: 20a52d49eba33b43107f6928ba65dd9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/zh_TW.po
+SPDXID: SPDXRef-item1092321
+FileChecksum: SHA1: fdee6591013e67f29e5393eeacf7b22099ab5ff8
+FileChecksum: MD5: 8a7d1c05fd82ae03951c0e4a11a18253
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ne.po
+SPDXID: SPDXRef-item1092322
+FileChecksum: SHA1: b7397d33d871cd739975d62700a00e20cbd2d1bc
+FileChecksum: MD5: 90dfec2e9537b589a01a13820e9e4ec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/nds.po
+SPDXID: SPDXRef-item1092323
+FileChecksum: SHA1: 8c8e316a7559e7e123dd500cb59bdf5a3d42e473
+FileChecksum: MD5: 478f2643a117eb2e471b771fa605bdff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/id.mo
+SPDXID: SPDXRef-item1092328
+FileChecksum: SHA1: b24d3e27d72dbe6065db61c64d81b6b33d673b74
+FileChecksum: MD5: 41b68eacda1a6861d72971c54275100e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/it.po
+SPDXID: SPDXRef-item1092330
+FileChecksum: SHA1: bf4d142534b860e9538f44f3e78c21ff77c47291
+FileChecksum: MD5: 91187f743260911af739feb7dd9c82f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/eu.po
+SPDXID: SPDXRef-item1092332
+FileChecksum: SHA1: 372dd298e2a52a40b69ed5f2e7a963dbbaf51f15
+FileChecksum: MD5: 76047b126f542860d333b2bd43f9c796
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/uk.po
+SPDXID: SPDXRef-item1092336
+FileChecksum: SHA1: 147d7597bfe3e49110ec8a72cd7c838c1e836976
+FileChecksum: MD5: 5c62417c83612091c73db3ff8151c2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/mr.po
+SPDXID: SPDXRef-item1092337
+FileChecksum: SHA1: 60fc175c324be13c7cca9132fc8c4201c823c112
+FileChecksum: MD5: 2db649e2def6198287d739a705d90315
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bn_IN.po
+SPDXID: SPDXRef-item1092338
+FileChecksum: SHA1: 0f5c54ccefa882c24d20af3e47da4d2837d4c997
+FileChecksum: MD5: 5ee5cf1146b91e663fb6c33155e25396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/nl.po
+SPDXID: SPDXRef-item1092340
+FileChecksum: SHA1: 524cc8abe4980f651d79391fe19b28da941e7d39
+FileChecksum: MD5: 82df1fc1e9ed7dde3b2e5cfea8c3add7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/zh_CN.po
+SPDXID: SPDXRef-item1092344
+FileChecksum: SHA1: 25695d32e7605db225a3e658062dad5427a7913e
+FileChecksum: MD5: e9d5ee8422e06b16879d63986f033f90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/tl.po
+SPDXID: SPDXRef-item1092346
+FileChecksum: SHA1: a6346e92979e16b5cda32b1ca0e0780f5ba8d743
+FileChecksum: MD5: 6cfe422b47bfb0f7b9b1c16363b65533
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/te.po
+SPDXID: SPDXRef-item1092348
+FileChecksum: SHA1: 4e67402f43433d44d887f28f30410abb29a9ab1b
+FileChecksum: MD5: 50174e88c2f3224913c4d8667dc972ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/pt_BR.mo
+SPDXID: SPDXRef-item1092362
+FileChecksum: SHA1: c44e7266399d664250c33d97d5fb02ed38f4397a
+FileChecksum: MD5: bbeaedca5b1944fce8a3cdc7ba6f2f9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/tg.mo
+SPDXID: SPDXRef-item1092369
+FileChecksum: SHA1: 77a3c67f4cbb8a3b8cd8e37c3a841cbc388b1247
+FileChecksum: MD5: 78d00a7bc7b52a550ea3a90e52bc58ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ia.po
+SPDXID: SPDXRef-item1092372
+FileChecksum: SHA1: 558c4e0460aa43764c90ae69b6c07c413770ae6c
+FileChecksum: MD5: 1a4a2b4be8541052c66db53a2194c19b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/bs.po
+SPDXID: SPDXRef-item1092373
+FileChecksum: SHA1: 5742983bf5208a9bd7d7ffc85d35235cceb82bca
+FileChecksum: MD5: 73267f8181d355d293a65bc609bfee2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/as.po
+SPDXID: SPDXRef-item1092375
+FileChecksum: SHA1: 380af453de6c0409721cc07ad0ac0038e86fabce
+FileChecksum: MD5: 8499cdf570e5d6b35c3fd7d58e5bde47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/tr.po
+SPDXID: SPDXRef-item1092377
+FileChecksum: SHA1: 931ccac86abc4fb0dc4796d8baaae15c9d9e0d6a
+FileChecksum: MD5: c1cb5850ce886ccd84144bb4746d7411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ta.po
+SPDXID: SPDXRef-item1092380
+FileChecksum: SHA1: 62e7b214b7b70c51adee0c41df4b368a2c26d6fb
+FileChecksum: MD5: 9c9e5913cdf869a0a3ca8a858e869559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/de.mo
+SPDXID: SPDXRef-item1092385
+FileChecksum: SHA1: 70a222013a4af14556e3a8e4ddfb2871156c3591
+FileChecksum: MD5: e09b3d552445d0a861c5a1c729f8dc16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/nl.mo
+SPDXID: SPDXRef-item1092388
+FileChecksum: SHA1: b7c7b72e49f901f6af6b90275e83fc62344ab8f6
+FileChecksum: MD5: 32a355da79812cae3ac97c80d207b48b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/pt.po
+SPDXID: SPDXRef-item1092389
+FileChecksum: SHA1: 697d143e289f39e47969457714ea1e324f1d846d
+FileChecksum: MD5: 6ba41186f0e53fd698e606781bf467a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/wo.mo
+SPDXID: SPDXRef-item1092395
+FileChecksum: SHA1: 9912064169878d75aaf0414718b701ecced2f68e
+FileChecksum: MD5: 966675d7c03b4387d0753550709a9314
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/dz.mo
+SPDXID: SPDXRef-item1092398
+FileChecksum: SHA1: 1b6f7c164f022a9e04ea802a565b2c6b116d1fc1
+FileChecksum: MD5: b20ab3c0adfd352a1b4119f9292df98b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/fi.mo
+SPDXID: SPDXRef-item1092403
+FileChecksum: SHA1: fb3d6b621e763c2d054064fe0e27502f80f60330
+FileChecksum: MD5: cba5b63dce0cf3d8fd6283863e91eb84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/vi.po
+SPDXID: SPDXRef-item1092404
+FileChecksum: SHA1: 42ed65369d3b952cf4426d601319a9748c92485b
+FileChecksum: MD5: 4e6c61d8e2c7a10e2402fe3b3432a455
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/hr.mo
+SPDXID: SPDXRef-item1092409
+FileChecksum: SHA1: 17b18132b17825a9c2b15b941abf3deb291a9f63
+FileChecksum: MD5: 9a9d25eb7043fcfe9fba3dd9997fea3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sk.mo
+SPDXID: SPDXRef-item1092412
+FileChecksum: SHA1: b0bed119114baf91cf970044b029733b2a1a2a38
+FileChecksum: MD5: f9c46727355728dfcba9b2710fc2c7ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/hu.mo
+SPDXID: SPDXRef-item1092415
+FileChecksum: SHA1: 852eb5613dc5d8ac70130ab59ecb38cf281bd319
+FileChecksum: MD5: babe8e0783848ebc9245f4f55747adfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/hr.po
+SPDXID: SPDXRef-item1092416
+FileChecksum: SHA1: c1be1265baf7a5f668ad5978658be30e4bcb07e9
+FileChecksum: MD5: 78e3fda6f44fb101cd6f15ed975072f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ku.mo
+SPDXID: SPDXRef-item1092435
+FileChecksum: SHA1: 5eb15be179f46dbc1af7128f7ec3e96564c97d2f
+FileChecksum: MD5: 690587824232785909c7a91363653703
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/ka.mo
+SPDXID: SPDXRef-item1092453
+FileChecksum: SHA1: e100a3c3e217baa37fbe7ed664497f111c1b2a81
+FileChecksum: MD5: 6646d21f0ec2e96d96a94f9988e72bb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/et.po
+SPDXID: SPDXRef-item1092454
+FileChecksum: SHA1: 54a51c3b45020ad58879e92b218df287f5e20c0c
+FileChecksum: MD5: 1db5cfa9ca1bce104f58ddbdef462a83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/el.po
+SPDXID: SPDXRef-item1092455
+FileChecksum: SHA1: e2b6fd2fbc5e72b897f7bd6e1104272fe065f15c
+FileChecksum: MD5: b87c9718dc04242a2594290948fd9913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/it.mo
+SPDXID: SPDXRef-item1092458
+FileChecksum: SHA1: e77d88b4f5310ac308d75727e98bdb41501151b4
+FileChecksum: MD5: b5f6332343ea9880149a5a2cb487b03a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sq.po
+SPDXID: SPDXRef-item1092460
+FileChecksum: SHA1: 498f8ef57c865f8cff25323c2cab80d265bae415
+FileChecksum: MD5: 8358e0694b3e41d7f2276747447fe776
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sl.po
+SPDXID: SPDXRef-item1092462
+FileChecksum: SHA1: b7519dffe517b8d236c17b8727761d0947dd0257
+FileChecksum: MD5: cc455c926b78c4ed91c6f99e509067b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/zanata.xml
+SPDXID: SPDXRef-item1092463
+FileChecksum: SHA1: cf1466d278fec829e148e3c05107e597ca273f70
+FileChecksum: MD5: bd1cb4f09cd535bedffb15093f0ba428
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/pa.po
+SPDXID: SPDXRef-item1092466
+FileChecksum: SHA1: a911e0b89d9503e6c58fc043ab0ac680009f70a3
+FileChecksum: MD5: 3ee5e20fab1c8b7fe804a0a37f5a3cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/he.mo
+SPDXID: SPDXRef-item1092471
+FileChecksum: SHA1: bf697b5b88a29644f6186a626b2163729b8c296b
+FileChecksum: MD5: 4687cf708b5fc56ad7d7ca0317fd4b09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/sl.mo
+SPDXID: SPDXRef-item1092476
+FileChecksum: SHA1: 6fab62c60f58a9d241bd00f7ed5a1c5da5b52f39
+FileChecksum: MD5: 3675a7aa140dce4150cdcc72d9dcb133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/eo.po
+SPDXID: SPDXRef-item1092477
+FileChecksum: SHA1: 5ab47a00877a18213082f85f5d48bebd76fbf7b8
+FileChecksum: MD5: fb8eee2caea0be8c89704e1c24783f1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/cs.mo
+SPDXID: SPDXRef-item1092482
+FileChecksum: SHA1: 9884eefd5bd7fa2b275752555dc708894d48dc8c
+FileChecksum: MD5: 801d3799c357677fe890725d45578b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/gu.mo
+SPDXID: SPDXRef-item1092488
+FileChecksum: SHA1: 180d69326c5c3bb89c67b7363702d2a01a932a34
+FileChecksum: MD5: 9d22a324abaf45a88a0b26aa6d3e23f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/po/mg.po
+SPDXID: SPDXRef-item1092490
+FileChecksum: SHA1: 4b03f911f86a4eb4516cfb3100682dd7520445e5
+FileChecksum: MD5: b31eeb10f1c3992c1cfbf9c5e96a8380
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/newt.c
+SPDXID: SPDXRef-item1092493
+FileChecksum: SHA1: 8b3a426178c6189df8ebe25434cbb4513e59c6c8
+FileChecksum: MD5: fd7c6cd9fd47a0733de6460a1ef0eae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/checkboxtree.c
+SPDXID: SPDXRef-item1092496
+FileChecksum: SHA1: 039fbb2f15590eeee2cdffd9b730b86387d1b684
+FileChecksum: MD5: 456dbcf05ba8bc82f7a7952d222abc7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/whiptcl.c
+SPDXID: SPDXRef-item1092497
+FileChecksum: SHA1: 5151475512d169104aedcfa301a1ec5abd4d8558
+FileChecksum: MD5: cc49f9dda0158a6bc2fb81b17d4cef2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/AUTHORS
+SPDXID: SPDXRef-item1092499
+FileChecksum: SHA1: ea4d8dd847e8f516beae360c933cc31508ea8834
+FileChecksum: MD5: c966644b83d2c5086bab7d8da250b910
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/newt.h
+SPDXID: SPDXRef-item1092502
+FileChecksum: SHA1: 3f5cc3c03a17d691014c07e07911707a63b2edc7
+FileChecksum: MD5: 5c9bdb1f5ae53efa7b9af10e6e3b3f31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/peanuts.py
+SPDXID: SPDXRef-item1092504
+FileChecksum: SHA1: c1702d71c9247410c620f4397abffe9370d68935
+FileChecksum: MD5: 2fb7f9451e57d5d4923a7dbaeae6b5ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/test.c
+SPDXID: SPDXRef-item1092505
+FileChecksum: SHA1: e3aa99a03116fe8b648fc17dc5c9a197bae3d648
+FileChecksum: MD5: 88e06e2ebce9fb29c4181b74617c7b95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/scrollbar.c
+SPDXID: SPDXRef-item1092508
+FileChecksum: SHA1: 76a634a8fa61820533502d7371b24e8bdbe40eb2
+FileChecksum: MD5: 7d6b5a47092419457e5b1e5b49389b11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/listbox.c
+SPDXID: SPDXRef-item1092511
+FileChecksum: SHA1: bb5227bfee6f29f2da5d925e3260012b9b827907
+FileChecksum: MD5: 1868ef47f666e0bb6f3e6f87f1228709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/CHANGES
+SPDXID: SPDXRef-item1092513
+FileChecksum: SHA1: 1dd8e429c3118371ce8b93aa3b31ae0d5b1c58a2
+FileChecksum: MD5: b9cec84c04ad1bc92a5fbdc64aeefdda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/README
+SPDXID: SPDXRef-item1092514
+FileChecksum: SHA1: f60be3a41d0a7c30dec7c93cb3433bb67d726c4b
+FileChecksum: MD5: 24026e186f7c66622a7f84388c131071
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/showkey.c
+SPDXID: SPDXRef-item1092516
+FileChecksum: SHA1: cd9088cb44112aaa0c1dc52c73fcc40f774a759a
+FileChecksum: MD5: 927ce077831185b90ded7b17bb1f4743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/cross_ar.patch/Makefile.in
+SPDXID: SPDXRef-item1092519
+FileChecksum: SHA1: b889c0547af9d1637edee3095284be876cf9216c
+FileChecksum: MD5: d5ddd1d205d6a70251f43ba359b63970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/cross_ar.patch/.timestamp
+SPDXID: SPDXRef-item1092520
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/cross_ar.patch/configure.ac
+SPDXID: SPDXRef-item1092522
+FileChecksum: SHA1: fef835ecea89112db46f2ff02095412b3c05e7e5
+FileChecksum: MD5: 49556ad72cd0d4979cfa0445dfeae2e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/applied-patches
+SPDXID: SPDXRef-item1092525
+FileChecksum: SHA1: 78eed88a3a1194deacb47c6aaf2486cf508045ec
+FileChecksum: MD5: 6606a46582ba4324fcda7719a0cdf86a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/Makefile.in-Add-tinfo-library-to-the-linking-librari.patch/Makefile.in
+SPDXID: SPDXRef-item1092529
+FileChecksum: SHA1: b1a1129c9db966743f640ec242726beb368ab926
+FileChecksum: MD5: 60efc58340d1af51f91138d154051f6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/Makefile.in-Add-tinfo-library-to-the-linking-librari.patch/.timestamp
+SPDXID: SPDXRef-item1092530
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/.quilt_series
+SPDXID: SPDXRef-item1092532
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/.version
+SPDXID: SPDXRef-item1092534
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/pie-flags.patch/Makefile.in
+SPDXID: SPDXRef-item1092537
+FileChecksum: SHA1: b1d0c3c6a84ca430591382a0ba0f4f3e31f0a014
+FileChecksum: MD5: f968089ee36db5849cc8c6b78734bfff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/pie-flags.patch/.timestamp
+SPDXID: SPDXRef-item1092538
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/0001-detect-gold-as-GNU-linker-too.patch/.timestamp
+SPDXID: SPDXRef-item1092541
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/0001-detect-gold-as-GNU-linker-too.patch/configure.ac
+SPDXID: SPDXRef-item1092544
+FileChecksum: SHA1: 78b006e2d9a397b28e81871a3ce698e6ffbaa797
+FileChecksum: MD5: 90aebde678c72cdb024f623b1ae2f41a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/.quilt_patches
+SPDXID: SPDXRef-item1092546
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/fix_SHAREDDIR.patch/Makefile.in
+SPDXID: SPDXRef-item1092549
+FileChecksum: SHA1: 45035ec6894419aa517d2146939fdaee52654c68
+FileChecksum: MD5: df457662cac67317cda9b737a84ebeee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/.pc/fix_SHAREDDIR.patch/.timestamp
+SPDXID: SPDXRef-item1092550
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/newt_pr.h
+SPDXID: SPDXRef-item1092553
+FileChecksum: SHA1: 7349764a160e52fc947825843e704baf1df2515f
+FileChecksum: MD5: d25e59b40ffb09e99bb4379bc18cd141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/configure.ac
+SPDXID: SPDXRef-item1092555
+FileChecksum: SHA1: 473917db7b6393eed20b206a506bb34398a7aa3a
+FileChecksum: MD5: c4fc58858aed9684a7b07bc03ce9075d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/grid.c
+SPDXID: SPDXRef-item1092557
+FileChecksum: SHA1: ce8bce6f32bbf2301bfa3e0eb5e0f30c2a5c6414
+FileChecksum: MD5: 9824849a30524780e18621583b04d125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/showchars.c
+SPDXID: SPDXRef-item1092559
+FileChecksum: SHA1: 5dd199456fb2ef9ec57c2d61485b73093eb5997d
+FileChecksum: MD5: 0d5e0eb1878ed65f52f94b2c590d712d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/testtree.c
+SPDXID: SPDXRef-item1092561
+FileChecksum: SHA1: ab13355ce4903fb629463db9e704f744c5d9f01c
+FileChecksum: MD5: 8603d21e4508060d06435cb63229df29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/button.c
+SPDXID: SPDXRef-item1092563
+FileChecksum: SHA1: 1a0eab2ab1b5188a36e90858abab172bba455297
+FileChecksum: MD5: f7450165a66546ea652b2484fcba96fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/patches/series
+SPDXID: SPDXRef-item1092571
+FileChecksum: SHA1: 10b410cd6afbe88caf089e9d315459ed9798c3b1
+FileChecksum: MD5: c28aca54c51bfac650f55f50f8ea21c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/autogen.sh
+SPDXID: SPDXRef-item1092573
+FileChecksum: SHA1: efc60d3130144dfbef44e973d155da696aeabc17
+FileChecksum: MD5: c1f37fa91aabece3ac4fa54522a58aaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/entry.c
+SPDXID: SPDXRef-item1092575
+FileChecksum: SHA1: ed2592a80f9cd988b0d2cbacb958ed367013b566
+FileChecksum: MD5: d5c2e90e2d4091dc64426aed46ebdabd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/newt-0.52.20/nls.h
+SPDXID: SPDXRef-item1092577
+FileChecksum: SHA1: 794ed871ddadaa4b8fe27c618058f93d8bf2be6d
+FileChecksum: MD5: c18a307d879f6da12b3cfa5999393884
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Same-license-as
+LicenseName: Same-license-as
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

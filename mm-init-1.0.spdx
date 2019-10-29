@@ -1,0 +1,74 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_mm-init-1.0-r0-patched.tar.gz_1571458526.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:15:26Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: mm-init
+PackageVersion: 1.0
+PackageFileName: mm-init-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload365
+PackageDownloadLocation: file://init
+PackageHomePage: 
+PackageSummary: <text>Startup script for Renesas MM modules</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>mm-init version 1.0</text>
+PackageChecksum: SHA1: 7f8769012b3a0021ec1bfe0fe1b63bedaaa69d5e
+PackageChecksum: MD5: 72370f25d4486f54df95078f23a0a5b3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload365
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/init
+SPDXID: SPDXRef-item877092
+FileChecksum: SHA1: a38ab03b6f1153b4665e575fc6606f4c7d7c887c
+FileChecksum: MD5: ccfae04393fa53bd8e648b32c186dd3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

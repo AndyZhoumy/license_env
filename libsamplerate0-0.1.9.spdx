@@ -1,0 +1,1329 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libsamplerate0-0.1.9-r1-patched.tar.gz_1571459305.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:28:25Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libsamplerate0
+PackageVersion: 0.1.9
+PackageFileName: libsamplerate0-0.1.9-r1-patched.tar.gz
+SPDXID: SPDXRef-upload407
+PackageDownloadLocation: http://www.mega-nerd.com/SRC/libsamplerate-0.1.9.tar.gz
+PackageHomePage: http://www.mega-nerd.com/SRC/
+PackageSummary: <text>Audio Sample Rate Conversion library</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libsamplerate0 version 0.1.9</text>
+PackageChecksum: SHA1: 349dec1c6f18fa3bcf61eb3b270551963ed05eeb
+PackageChecksum: MD5: 5a3d7d1f374d21b70a9d53756c9ffc8f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload407
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/NEWS
+SPDXID: SPDXRef-item941062
+FileChecksum: SHA1: e2164cff5e79beeeae7a2934511ca7eb63a9cf12
+FileChecksum: MD5: a237af1537febb690c0385183cb854be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/aclocal.m4
+SPDXID: SPDXRef-item941063
+FileChecksum: SHA1: af73660114756d8ac81f2badb0ff50d14fb23372
+FileChecksum: MD5: 75ea614c85a9f21a50d483158e2d73fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Make.bat
+SPDXID: SPDXRef-item941064
+FileChecksum: SHA1: b0c0c19625581d6d69ff954c960a789887c277ea
+FileChecksum: MD5: 9c818b1f17ffc0b08f5c7153dd9e348a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Makefile.in
+SPDXID: SPDXRef-item941065
+FileChecksum: SHA1: eea209068c89ab40ba477e758e4ecf1602f2be17
+FileChecksum: MD5: 763bfcdc88dab2605673e5ff88ee984c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/COPYING
+SPDXID: SPDXRef-item941066
+FileChecksum: SHA1: b14ca785361a1ed431045adc8da1931eec2e3caf
+FileChecksum: MD5: 336d6faf40fb600bafb0061f4052f1f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/configure
+SPDXID: SPDXRef-item941067
+FileChecksum: SHA1: caa127fa1bf1f71811bbd8b76c05bf39e172a2c9
+FileChecksum: MD5: 3331e48f26f5c72b2d355888d4d6911c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/high_qual_coeffs.h
+SPDXID: SPDXRef-item941069
+FileChecksum: SHA1: afed85f89b85269dd04c46dd2d8c48b092c4db63
+FileChecksum: MD5: c727216e47c9aac68593a7a1bc9c1b74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/src_zoh.c
+SPDXID: SPDXRef-item941070
+FileChecksum: SHA1: 6fa7527f067c839e717b21914381453df9c9f55d
+FileChecksum: MD5: 68469f519658a714e61d1c8a37520ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/samplerate.h
+SPDXID: SPDXRef-item941071
+FileChecksum: SHA1: 4868b07ca937b0b4de3135101f94d54e50528e08
+FileChecksum: MD5: df663b9c0c4943a64ee8f8faf7c9eb40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/Version_script.in
+SPDXID: SPDXRef-item941072
+FileChecksum: SHA1: f369d0d7c61b0ab6b9c6db96532bcf31eb105fc5
+FileChecksum: MD5: 85c7762c262dd55a6e6105605a6b84a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/samplerate.c
+SPDXID: SPDXRef-item941073
+FileChecksum: SHA1: 7815d9a965c0d4cdcc7939036c4ba7ff861afde2
+FileChecksum: MD5: 3e2acb7fa18ac0f43c7d663dcd336dca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/src_linear.c
+SPDXID: SPDXRef-item941074
+FileChecksum: SHA1: 2dea2ffcb34d2aff3be6ef0bc975624107cc99e8
+FileChecksum: MD5: 29c94a1f95b74df923d0bca1ac6af4fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/Makefile.in
+SPDXID: SPDXRef-item941075
+FileChecksum: SHA1: 9f0853efd58ef149f62e0198b078c05f4e91581b
+FileChecksum: MD5: 16b4eba99c944358bfdf8fb4c9ab1512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/fastest_coeffs.h
+SPDXID: SPDXRef-item941076
+FileChecksum: SHA1: 8f0ed54540fd9f5dae9c19d3d6601eafd0764fdb
+FileChecksum: MD5: bb5ca29cb777b928e837e0a6419190ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/check_asm.sh
+SPDXID: SPDXRef-item941077
+FileChecksum: SHA1: de860d6e325a95995f780dfce026ab7ed54650d8
+FileChecksum: MD5: 470c3d7c6dc1d3e6f5f9e2b4efe7bcef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/src_sinc.c
+SPDXID: SPDXRef-item941078
+FileChecksum: SHA1: a08a774215d3a8b69c2bc467fafe80770e62014b
+FileChecksum: MD5: 1e036f22d4c0902ba52b77845a8649a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/config.h.in
+SPDXID: SPDXRef-item941079
+FileChecksum: SHA1: 561366233a94aba7ba9b9e50424eb4670eb58aa2
+FileChecksum: MD5: 60a7fd9cf924b16212fbaead09b4efd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/Makefile.am
+SPDXID: SPDXRef-item941080
+FileChecksum: SHA1: 77e5a326338402a6dc8d0e3eb48456ba0814d7d7
+FileChecksum: MD5: 23fde0cd9bc5ecf6c85a9bb7932476a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/common.h
+SPDXID: SPDXRef-item941081
+FileChecksum: SHA1: 62e83f86eadca7e769d6c4992cb0c39ab01af4dd
+FileChecksum: MD5: af94f54890c37cba0b080de67ba84329
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/mid_qual_coeffs.h
+SPDXID: SPDXRef-item941082
+FileChecksum: SHA1: b6dfade57d1b4a298a07f7b620bfd82ed7975675
+FileChecksum: MD5: b8904d2a4572aedc30121d957f484303
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/src/float_cast.h
+SPDXID: SPDXRef-item941083
+FileChecksum: SHA1: 6da50155bbadf4d6a1ed8f186b761b431fecad3a
+FileChecksum: MD5: 4ad47d99331e7296bdd9d337529d879f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/examples/varispeed-play.c
+SPDXID: SPDXRef-item941085
+FileChecksum: SHA1: a616c04df12847eacf1b427992e0af622f13d1b3
+FileChecksum: MD5: c805332752a07cd9dd131e2838ed5f38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/examples/timewarp-file.c
+SPDXID: SPDXRef-item941086
+FileChecksum: SHA1: cebe696ad77a2dbd2027a559f4684bf0e8bb12ac
+FileChecksum: MD5: daabf393ace0a358aa8d9594c9f8c2a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/examples/audio_out.c
+SPDXID: SPDXRef-item941087
+FileChecksum: SHA1: abdeb86292b157d9615d7e4acfc5a40c0c5bae16
+FileChecksum: MD5: c92606e6a38758024991e13cc88ed472
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/examples/Makefile.in
+SPDXID: SPDXRef-item941088
+FileChecksum: SHA1: bb66327514063212405d60a93d7bec8dc796e00c
+FileChecksum: MD5: d604cde577976890bdd76ebe17093d78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/examples/Makefile.am
+SPDXID: SPDXRef-item941089
+FileChecksum: SHA1: 9fb3205e4451e73a58b252aa6151b94857b96b7b
+FileChecksum: MD5: bd34e83e7cf33dd5339267e2acb3f3ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/examples/audio_out.h
+SPDXID: SPDXRef-item941090
+FileChecksum: SHA1: 337d7a9f34af6fe05283e20ce98679a731648f68
+FileChecksum: MD5: 2673ca3d284f765eca8ea505f23095eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/examples/sndfile-resample.c
+SPDXID: SPDXRef-item941091
+FileChecksum: SHA1: d9bc3e6e16ccdbcd19fe47568cfe762aec5b1c32
+FileChecksum: MD5: b7edc4b638dcf8caf8c59b684e1df2b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Makefile.am
+SPDXID: SPDXRef-item941092
+FileChecksum: SHA1: 7a7d90a65f5ab31694626b8a0119313c80f086d0
+FileChecksum: MD5: b5b601b042ee3fab0bb8b58352a8afa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/AUTHORS
+SPDXID: SPDXRef-item941093
+FileChecksum: SHA1: ada5b3965585d60ab0a3c9fa592803e278b4a01e
+FileChecksum: MD5: 7343f2a153f0e01408330b259bd42b11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/libsamplerate.spec.in
+SPDXID: SPDXRef-item941094
+FileChecksum: SHA1: fc91265b57237643e90e2b820fced1ea76ddd1f7
+FileChecksum: MD5: 832775fdd792c601ceed2bc10d463b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/multi_channel_test.c
+SPDXID: SPDXRef-item941096
+FileChecksum: SHA1: 55d25c85f681667040b50d09e5fd99a28342c080
+FileChecksum: MD5: 32ced69c01d568bb7f6af85ca56ec096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/src-evaluate.c
+SPDXID: SPDXRef-item941097
+FileChecksum: SHA1: a5a301f42419fddcad2c39546a542b9b53fcceaa
+FileChecksum: MD5: d4cfeb732d90b9c3685893e07572e68d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/calc_snr.c
+SPDXID: SPDXRef-item941098
+FileChecksum: SHA1: 8f58f455aedd55c6a4b71f277e2a8c5d9f794003
+FileChecksum: MD5: 403f1823579d53e16f59a4198d81b44c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/varispeed_test.c
+SPDXID: SPDXRef-item941099
+FileChecksum: SHA1: 0330d61ac7274025fef8b00b96a512a40e59b8ea
+FileChecksum: MD5: a55729da3c68bc5be7db6c650a295550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/callback_hang_test.c
+SPDXID: SPDXRef-item941100
+FileChecksum: SHA1: 4b4c42167993a8768e183fd4b218640929979b84
+FileChecksum: MD5: 86c72025379f7d5056767c60c02c9baf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/Makefile.in
+SPDXID: SPDXRef-item941101
+FileChecksum: SHA1: 0bf4bc3666a24542690cf3142c0c82c0ff4e1602
+FileChecksum: MD5: ac315150ab672778c11ab3f83a4ae9ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/downsample_test.c
+SPDXID: SPDXRef-item941102
+FileChecksum: SHA1: f60ecc534b62c8fc21173a31fa210f806624fa88
+FileChecksum: MD5: a1b291d3f3c0ef34be72f4286468c894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/multichan_throughput_test.c
+SPDXID: SPDXRef-item941103
+FileChecksum: SHA1: d9f576771cb0e117ce733a5ed1b1ad90e3069e0e
+FileChecksum: MD5: 90671187d53226f6e2fa9767617cddef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/float_short_test.c
+SPDXID: SPDXRef-item941104
+FileChecksum: SHA1: f1fdf1823ee75d228554a45c6d75b18db904075a
+FileChecksum: MD5: e19823423fbe70c1cc832d58e7e2f9a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/reset_test.c
+SPDXID: SPDXRef-item941105
+FileChecksum: SHA1: 3d3d6080fbdeab67c035676ce7444a88439e71d5
+FileChecksum: MD5: 320a0cb37c7f988c6274cf3a03c0fc71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/Makefile.am
+SPDXID: SPDXRef-item941106
+FileChecksum: SHA1: 434ac014d04d0e6bf649393be94f2a42715c6b3c
+FileChecksum: MD5: 8db80bf83818ceca3268aaa576f72722
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/callback_test.c
+SPDXID: SPDXRef-item941107
+FileChecksum: SHA1: 1d07c24937492584b7a5d53a7a74a7daa56a9d82
+FileChecksum: MD5: b2cae3099d80592290584264e465a729
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/misc_test.c
+SPDXID: SPDXRef-item941108
+FileChecksum: SHA1: d1b2148738629c94eca20ad4da2d6cd81218bf04
+FileChecksum: MD5: bb37da26d8bcf1b660c4f8dd620beccc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/simple_test.c
+SPDXID: SPDXRef-item941109
+FileChecksum: SHA1: 0e1ccde1b769333989c2dc31b59f3257cc3fb51d
+FileChecksum: MD5: 2a23fc2bea195a412bd52ce677265cc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/termination_test.c
+SPDXID: SPDXRef-item941110
+FileChecksum: SHA1: 60fa87220ac5d748df9219df25b3b0fef520f9af
+FileChecksum: MD5: 142053a8bad25f6d5adcc35ce6606973
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/util.c
+SPDXID: SPDXRef-item941111
+FileChecksum: SHA1: 34f879b1ca6edce219bb2e9e8deee3f1dfb11bec
+FileChecksum: MD5: 26f208d68dd562d30b40b4a7b39a0118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/util.h
+SPDXID: SPDXRef-item941112
+FileChecksum: SHA1: 068c4fcdc86096599c0c68c715e15b2069146538
+FileChecksum: MD5: d60f5e92463fffe345baf27ff618503d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/snr_bw_test.c
+SPDXID: SPDXRef-item941113
+FileChecksum: SHA1: 215035f33479559a52b3b48002916de5fafaadcd
+FileChecksum: MD5: 298fa508dc95bc175b1135c6db17cd20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/tests/throughput_test.c
+SPDXID: SPDXRef-item941114
+FileChecksum: SHA1: c5a032633e2cdad75b3524272525012a72663984
+FileChecksum: MD5: a4e733f033640737b22ffc6b6183d6dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/quality.html
+SPDXID: SPDXRef-item941116
+FileChecksum: SHA1: 13e38533c3005369acb517944692c8060db12a65
+FileChecksum: MD5: 4cf1d06c4bea824781d22fe76d28bd77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/NEWS
+SPDXID: SPDXRef-item941117
+FileChecksum: SHA1: 056de44924792788443a01d5679885db1a84f213
+FileChecksum: MD5: 124ca62ac87eecb47fb244ddd889d602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/api_simple.html
+SPDXID: SPDXRef-item941118
+FileChecksum: SHA1: facc97d3ff8db0ee05fcb5352b9a28f65a6b570b
+FileChecksum: MD5: 6c9921befc425a21209e57a4aba42c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/api_callback.html
+SPDXID: SPDXRef-item941119
+FileChecksum: SHA1: 8bb1ee873c92940aef7904a395f4bceada4580fe
+FileChecksum: MD5: da926825b842fc8ca1076dface620868
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/faq.html
+SPDXID: SPDXRef-item941120
+FileChecksum: SHA1: 82ba831ed820bde86bfec8f0cc4d622d2332b750
+FileChecksum: MD5: d4e5f9596d1fa496fc6e0ac0f73a1fa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/Makefile.in
+SPDXID: SPDXRef-item941121
+FileChecksum: SHA1: 85cb5d60060bd482a5a5ba80defb12dd7abf8456
+FileChecksum: MD5: 4a672632bbdc821bdbe369baea4f2b61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/history.html
+SPDXID: SPDXRef-item941122
+FileChecksum: SHA1: adcb1ed732c51a48ee2b717619d2e5a0bef292b0
+FileChecksum: MD5: 2c5bad497076d07e5941552a27514bb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/api_misc.html
+SPDXID: SPDXRef-item941123
+FileChecksum: SHA1: f72d8add279c56cc222562fe4428292215e50f78
+FileChecksum: MD5: 2264b0fbc167badefcd48bf64eec3d95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/index.html
+SPDXID: SPDXRef-item941124
+FileChecksum: SHA1: 246fb86ae896a20ea90be2a395a970b30f99fe6c
+FileChecksum: MD5: f0fb7201f1872624ad6f91606ed6802e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/SRC.css
+SPDXID: SPDXRef-item941125
+FileChecksum: SHA1: e2277b67ee5efc2527464fadee99bbcbb40ce013
+FileChecksum: MD5: 8d63e6d5a3288c1f22ab65a074153b50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/download.html
+SPDXID: SPDXRef-item941126
+FileChecksum: SHA1: c22e6389b3f01734915632373623e1f838756383
+FileChecksum: MD5: 795a56b9f0ffe934fa52a631c2b62b8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/win32.html
+SPDXID: SPDXRef-item941127
+FileChecksum: SHA1: a53a4a74ba49cabd4a2e754f65f344b2190cc7fd
+FileChecksum: MD5: 8dc460645f07476ff7ca4bd9e0bfcdd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/Makefile.am
+SPDXID: SPDXRef-item941128
+FileChecksum: SHA1: 3e26bbe6539659a2a6460ce086add7923cdd6362
+FileChecksum: MD5: 6f1943bc184e5fca1dab39329fe923d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/api_full.html
+SPDXID: SPDXRef-item941129
+FileChecksum: SHA1: 03a991200059d36c24a48c043b18db2a99026248
+FileChecksum: MD5: fe14d458c45686270d57b879d6d88d69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/license.html
+SPDXID: SPDXRef-item941130
+FileChecksum: SHA1: 1ccce15748bd754a5cc4ec21982ca6f35220e847
+FileChecksum: MD5: 3826bf8cf8e164efe2e9511b509cc62c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/SRC.png
+SPDXID: SPDXRef-item941131
+FileChecksum: SHA1: 90af78cb2339b99b92121a888fcc5993dedd0586
+FileChecksum: MD5: ca30269d754d8debdbdaf6103e06afbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/lists.html
+SPDXID: SPDXRef-item941132
+FileChecksum: SHA1: 8708d405f803465aa6bc766814ad69619a70757c
+FileChecksum: MD5: 9e4e8230b272c21a37a653d7d8e00aaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/ChangeLog
+SPDXID: SPDXRef-item941133
+FileChecksum: SHA1: b210b563b5441965e2678e9d3944259c343bc201
+FileChecksum: MD5: 70572e25d5fd6fd2b525f48c5e1f7182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/doc/api.html
+SPDXID: SPDXRef-item941134
+FileChecksum: SHA1: 3d1dfde0725a4a609a6698e736739ef0a387d199
+FileChecksum: MD5: 4dbbf0acbfe902540ce8228353894a29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/samplerate.pc.in
+SPDXID: SPDXRef-item941135
+FileChecksum: SHA1: 679b9b5c988c97131ff3c16a9247e523ec1d67ba
+FileChecksum: MD5: 032d5b7b886d365da8056862e29d815d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/README
+SPDXID: SPDXRef-item941136
+FileChecksum: SHA1: 5f27e76df7c535417a692de276df56042d0fb390
+FileChecksum: MD5: b384fb58b9fbb2e61f1bce31d491edeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/.pc/applied-patches
+SPDXID: SPDXRef-item941138
+FileChecksum: SHA1: bf20fafe7f8c5191a2c8a25809714ca510443db9
+FileChecksum: MD5: 69a1d08c425fb02decd06337a3184df1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/.pc/.quilt_series
+SPDXID: SPDXRef-item941139
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/.pc/.version
+SPDXID: SPDXRef-item941140
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/.pc/0001-configure.ac-improve-alsa-handling.patch/.timestamp
+SPDXID: SPDXRef-item941142
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/.pc/0001-configure.ac-improve-alsa-handling.patch/configure.ac
+SPDXID: SPDXRef-item941143
+FileChecksum: SHA1: ff1d7291fe4dfbac4b0a7713b3967fecc160df9b
+FileChecksum: MD5: 00f2ffb7d137b46af2df02e786e65bbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/.pc/.quilt_patches
+SPDXID: SPDXRef-item941144
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Cfg/compile
+SPDXID: SPDXRef-item941146
+FileChecksum: SHA1: aadb41026c353d18e748f4c40783c7b10a8ff471
+FileChecksum: MD5: 0d3c238b02b9d0c1c32347dea7fc490d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Cfg/install-sh
+SPDXID: SPDXRef-item941147
+FileChecksum: SHA1: d30e962a3de2da09ab0a9a7979bee787922464a1
+FileChecksum: MD5: 0afce91a3daa1fdc32ee36370c1129dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Cfg/ltmain.sh
+SPDXID: SPDXRef-item941148
+FileChecksum: SHA1: a1f1c2ad29368c6f3b3a1803f4b48edac5b6277b
+FileChecksum: MD5: edbcaf917b678b3f00e4fff2608f71c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Cfg/config.sub
+SPDXID: SPDXRef-item941149
+FileChecksum: SHA1: d04c80f23bcefabe17170fea5734306bef6379df
+FileChecksum: MD5: acb6cfae431c5ce7b2319cd668c86555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Cfg/missing
+SPDXID: SPDXRef-item941150
+FileChecksum: SHA1: aeef20c1028a7ac4b904dd51b4c40376eba21350
+FileChecksum: MD5: 9d9668fb32d0542b712be2c34ca79bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Cfg/config.guess
+SPDXID: SPDXRef-item941151
+FileChecksum: SHA1: 47d8447a2c0ab7e31aa83d9027ecc78ad09a368c
+FileChecksum: MD5: f9410e9a94fc672046d4997ecf1b69c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Cfg/depcomp
+SPDXID: SPDXRef-item941152
+FileChecksum: SHA1: 6749a6b5ab2b3edd45d38ac560759c641cd50200
+FileChecksum: MD5: 21504de31981a67b5b93b265029d1865
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/configure.ac
+SPDXID: SPDXRef-item941153
+FileChecksum: SHA1: b377277ceeabbd4eba9cb550cae70b1c1a26b581
+FileChecksum: MD5: dce3a5a4f8b30f86ca9b02c40ef17ecb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/INSTALL
+SPDXID: SPDXRef-item941154
+FileChecksum: SHA1: bd4e857707b1c7427897138d30bf7c62302b8537
+FileChecksum: MD5: 7df59bbb09b7eba5ee69d3830eb81dc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/patches/series
+SPDXID: SPDXRef-item941157
+FileChecksum: SHA1: c08f2e65a57ad042e989578d08eef55e5f76736f
+FileChecksum: MD5: ec873a10f594969bc706ee04e86c92f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/autogen.sh
+SPDXID: SPDXRef-item941158
+FileChecksum: SHA1: 3b4cf464e6e5378e30408fdbd1075f6ad6bb91fe
+FileChecksum: MD5: 8521ccc43040e10693c04aea9e6969ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Win32/config.h
+SPDXID: SPDXRef-item941160
+FileChecksum: SHA1: 2b82269a732590674f83dfdd50b99d696a9e088f
+FileChecksum: MD5: c0fb3259120830e274e53b5522d80d88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Win32/Makefile.in
+SPDXID: SPDXRef-item941161
+FileChecksum: SHA1: ac0e9ddc4f0774167254712fce0a2b3fda28af91
+FileChecksum: MD5: f0b235f90ff407cb24e0462adb7d95dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Win32/Makefile.am
+SPDXID: SPDXRef-item941162
+FileChecksum: SHA1: 766223468fbb51efb02da31eb8239969badfd9c0
+FileChecksum: MD5: f8f2d70251569cedf06a3a31725d531a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Win32/Makefile.msvc
+SPDXID: SPDXRef-item941163
+FileChecksum: SHA1: 4b719937c9b104ecf26eebe23c6ecc180622a836
+FileChecksum: MD5: d21ecac1b87c58ed6aef024557ab4451
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Win32/unistd.h
+SPDXID: SPDXRef-item941164
+FileChecksum: SHA1: 43b1cba871c24c284fb471f50ae1673a48ad977e
+FileChecksum: MD5: aae0a3b27f23d6ffc1acc47276ff7ae1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Win32/Makefile.mingw.in
+SPDXID: SPDXRef-item941165
+FileChecksum: SHA1: c57a99d6d20d5698e027365873b553c99a313d70
+FileChecksum: MD5: b0a4caa56408ae2bcbea5964b0f688a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/Win32/libsamplerate-0.def
+SPDXID: SPDXRef-item941166
+FileChecksum: SHA1: 181e40d17dfe550322c63870a0a97a717ea0e78c
+FileChecksum: MD5: 7533b4a23e573cfe261a0fc58470abeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/ChangeLog
+SPDXID: SPDXRef-item941167
+FileChecksum: SHA1: 3838fb05841229f39ca320de3546c72df0a05d71
+FileChecksum: MD5: ce11d05e2366d8aa95a902272f4331c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/ltversion.m4
+SPDXID: SPDXRef-item941169
+FileChecksum: SHA1: 3aae847c163fa6cc7c8241a3a49f98705538d55f
+FileChecksum: MD5: d936fd6b2025c9b5322f826117d7f30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/libtool.m4
+SPDXID: SPDXRef-item941170
+FileChecksum: SHA1: 9b3f425d17beb3342dd9df8ee9d8fe7c090a1ce4
+FileChecksum: MD5: 2cc70ef55adb11e355f6e8c30dcab090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/ltoptions.m4
+SPDXID: SPDXRef-item941171
+FileChecksum: SHA1: 9cd35d79da7776af14f21b259c64f130fa1a3536
+FileChecksum: MD5: 064af1799febaa676203302bbf359180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/clip_mode.m4
+SPDXID: SPDXRef-item941172
+FileChecksum: SHA1: 1aa0705b2ad863ce7f61783e207410d57bdc7878
+FileChecksum: MD5: 853dc5b843e18fb84fb2b04f61d37ac7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/check_signal.m4
+SPDXID: SPDXRef-item941173
+FileChecksum: SHA1: 143ea3377e43cb08988d5b75cc100ee2cb379e69
+FileChecksum: MD5: d51a950f971434d26e0a67894b3dfc9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/Makefile.in
+SPDXID: SPDXRef-item941174
+FileChecksum: SHA1: 650cd670aafeae5c3ecb27cd9c412f6f1c3dff21
+FileChecksum: MD5: 50f2dc21364487ee980e622829108ab1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/Makefile.am
+SPDXID: SPDXRef-item941175
+FileChecksum: SHA1: 81ccf39afa0498857f35ea4caaf157e0b34efbfe
+FileChecksum: MD5: 80320f4615e44172ea02d1c36732eb15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/endian.m4
+SPDXID: SPDXRef-item941176
+FileChecksum: SHA1: 8671161e1f548aae611327c8a9f38a3c2435db50
+FileChecksum: MD5: fa02edfe1e1c8124a213c95b3d2d89c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/ltsugar.m4
+SPDXID: SPDXRef-item941177
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/lrint.m4
+SPDXID: SPDXRef-item941178
+FileChecksum: SHA1: 440c0ca36fa7504d6140449e36a1f1eacade7bd8
+FileChecksum: MD5: 9aae341b1488be4b39333c1bf489e21a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/lrintf.m4
+SPDXID: SPDXRef-item941179
+FileChecksum: SHA1: 7169ad9d93f91ecfdd8e3f2ae39e757737195203
+FileChecksum: MD5: 4f6388b6969775366e92c2548ab70977
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/lt~obsolete.m4
+SPDXID: SPDXRef-item941180
+FileChecksum: SHA1: e21f085615f98d3751690c1615923e89160d5783
+FileChecksum: MD5: 22aa295bf5320aec7fba6756ff11058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libsamplerate-0.1.9/M4/add_cflags.m4
+SPDXID: SPDXRef-item941181
+FileChecksum: SHA1: 9284160a4d5743eff2e54d8cf9764bb69021f123
+FileChecksum: MD5: 68d5959f135caa0ba0d11e4937ed6996
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-configure.ac-improve-alsa-handling.patch
+SPDXID: SPDXRef-item941182
+FileChecksum: SHA1: 818da4f23d0532fdfbaed0380f7ae4ae1a4a1a33
+FileChecksum: MD5: a2037283c4422eb82ad691a45d9ef474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

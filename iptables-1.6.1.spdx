@@ -1,0 +1,5478 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_iptables-1.6.1-r0-patched.tar.gz_1571458850.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:20:51Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: iptables
+PackageVersion: 1.6.1
+PackageFileName: iptables-1.6.1-r0-patched.tar.gz
+SPDXID: SPDXRef-upload387
+PackageDownloadLocation: http://netfilter.org/projects/iptables/files/iptables-1.6.1.tar.bz2
+PackageHomePage: http://www.netfilter.org/
+PackageSummary: <text>Tools for managing kernel packet filtering capabilities</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>iptables version 1.6.1</text>
+PackageChecksum: SHA1: 4ac965ee1ca046729043fb2e9c4d9c8d6231cdfc
+PackageChecksum: MD5: f7878446943de27a3fc36179f95ad4e3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload387
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-configure-Add-option-to-enable-disable-libnfnetlink.patch
+SPDXID: SPDXRef-item909208
+FileChecksum: SHA1: 857406a1c204b4e5c9b4e95d839dd08717fd2ac7
+FileChecksum: MD5: ce8669cc1b3ab40ec910c0bcecbe2b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libxtables/xtables.c
+SPDXID: SPDXRef-item909222
+FileChecksum: SHA1: 02eaaa061bb5aa26f734fe925381f970f86b8759
+FileChecksum: MD5: f842b569541cda2b3f594b6726cfafd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libxtables/Makefile.in
+SPDXID: SPDXRef-item909235
+FileChecksum: SHA1: 1cbc7d185a3b46b33d28b1c83745a96223e7b45b
+FileChecksum: MD5: 4a3f6149a02b26e3f71888588e280b97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libxtables/Makefile.am
+SPDXID: SPDXRef-item909245
+FileChecksum: SHA1: 1590f722ddf1196b4ba0c7f4802c1c4d550ff1c9
+FileChecksum: MD5: 9d07b23af80d41e493d0f9ab38f286df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libxtables/xtoptions.c
+SPDXID: SPDXRef-item909252
+FileChecksum: SHA1: f1737f5536b32c2239938c91cc7c66dc608e89c3
+FileChecksum: MD5: ab93d3e33e71ffd2a1219491cf6ef184
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/COMMIT_NOTES
+SPDXID: SPDXRef-item909258
+FileChecksum: SHA1: 70ed2c7c7b2f55b332d86b629baa92964e8d0cc1
+FileChecksum: MD5: 7ab7356369ed5239abb1b125e312cdd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/ip6tables-multi.h
+SPDXID: SPDXRef-item909264
+FileChecksum: SHA1: ccbe918aeb2e8d548f29fb1c395054caf5b40804
+FileChecksum: MD5: 2ea2b4e9c9908079ac2af688f85aae14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft-ipv6.c
+SPDXID: SPDXRef-item909272
+FileChecksum: SHA1: a1b8f2c975f3df29cd0dfa708a2abdf4079f36a3
+FileChecksum: MD5: f04ab99fb6e2f03c842c29e96996a568
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-arp-standalone.c
+SPDXID: SPDXRef-item909279
+FileChecksum: SHA1: a97af66026e617c30a2e8c570461807a0b7e5aaf
+FileChecksum: MD5: f73be67263dcfe79c0312847bf0a6cbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables.c
+SPDXID: SPDXRef-item909288
+FileChecksum: SHA1: 2cd88a6a8913e696425e8d93a05d0e0b233ac27f
+FileChecksum: MD5: a6b769a50fc23db20c5f4f65dda69961
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft-shared.h
+SPDXID: SPDXRef-item909297
+FileChecksum: SHA1: 2ef975c5be68c2b413d35da8777d8cb31d162856
+FileChecksum: MD5: d38b0337fe6674309046d8b15a84f938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-translate.c
+SPDXID: SPDXRef-item909307
+FileChecksum: SHA1: a5d33168f8671554e455378d77e06f309b5e0896
+FileChecksum: MD5: d3c0d4dc0df961b26ae3a15d02423b59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft-ipv4.c
+SPDXID: SPDXRef-item909315
+FileChecksum: SHA1: a9f1a4020fe68dcc0a4da6ab76dfe9ce7c634525
+FileChecksum: MD5: 917895bdf652adc9f26f32324699d39c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables.8.in
+SPDXID: SPDXRef-item909327
+FileChecksum: SHA1: 2b1e902ad883a73cfd690a91c08f16c13e9f1b35
+FileChecksum: MD5: 5eab73dec2c3aefc1f89780e07f140c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-restore.c
+SPDXID: SPDXRef-item909334
+FileChecksum: SHA1: 605bc14e3eba1e18f4d3a6df05cb230ef802f8b6
+FileChecksum: MD5: 6e95840e2a8e644c34e85a0cac9ce208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-multi.h
+SPDXID: SPDXRef-item909344
+FileChecksum: SHA1: daba99281f0060dcdf9e01b66183c0d24300eeb1
+FileChecksum: MD5: 3943d3d43ccf55bc4d9a2335592c4aba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft.c
+SPDXID: SPDXRef-item909358
+FileChecksum: SHA1: df52d8ec221373c61dfe9d7cf69cb77e3691daea
+FileChecksum: MD5: 36b4ff3cd403fa47c0f5378ca449ba7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-multi.h
+SPDXID: SPDXRef-item909364
+FileChecksum: SHA1: 45fef323e2c1bf22131d9e0f839358e8f936c250
+FileChecksum: MD5: cc8a3179e7866b7390e09e70e246a95a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables.xslt
+SPDXID: SPDXRef-item909369
+FileChecksum: SHA1: 559e3356a558ba3c7d328031ed5fb260c935455e
+FileChecksum: MD5: 81dc10a90502605617bbfcb9243b298b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/Makefile.in
+SPDXID: SPDXRef-item909386
+FileChecksum: SHA1: fd7aba204f899df36694e49f3702033f8d36ec33
+FileChecksum: MD5: 81ffcf28d48aed618244ff739185c58d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/ip6tables-standalone.c
+SPDXID: SPDXRef-item909393
+FileChecksum: SHA1: 462cc5cc78897295fb319fa573f0c019c0379dde
+FileChecksum: MD5: a57ef308ace5c469b1d25b99dfcfe98b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft-arp.c
+SPDXID: SPDXRef-item909402
+FileChecksum: SHA1: 64484721e0313c8d6aeeaca65946f7bb5cb89257
+FileChecksum: MD5: 5a17f4742491ff7cbd74f051d97f5c90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/.gitignore
+SPDXID: SPDXRef-item909409
+FileChecksum: SHA1: e0e962f65d4821bec8819bf966db5e7aa500f888
+FileChecksum: MD5: a195706da547fecf671b38973dd7b19a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-eb.c
+SPDXID: SPDXRef-item909422
+FileChecksum: SHA1: b8449ac9b171ac71ba094ed79a1759c9dc8d4f44
+FileChecksum: MD5: 64045e0ac8a69e26e7099ed94d79b023
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/ip6tables.8
+SPDXID: SPDXRef-item909427
+FileChecksum: SHA1: 3b2e8de37d584f0b7133e20c3c62b7bbd1b6a3f7
+FileChecksum: MD5: 0cbbdd6600837ab78811e35eb8394942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-xml.c
+SPDXID: SPDXRef-item909437
+FileChecksum: SHA1: 3dad7f5ae643e08fbe6ab30f43fc5550c8713b15
+FileChecksum: MD5: 2e3a9220f241edfa486323da324d1489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft-arp.h
+SPDXID: SPDXRef-item909444
+FileChecksum: SHA1: 43f6f0562b39cb7c80a567cc3226e4a099d53321
+FileChecksum: MD5: fbab319c270b18382d3405909e4defd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/ip6tables-save.c
+SPDXID: SPDXRef-item909452
+FileChecksum: SHA1: 5ece458679d7cedf656d6bb351cb4b18c0d0843a
+FileChecksum: MD5: de28bff4b755c0212442c9e65a7c0a31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-restore.c
+SPDXID: SPDXRef-item909460
+FileChecksum: SHA1: 7f0089d29e566d3d169d253412cbbfd97d499842
+FileChecksum: MD5: 08fda26792b2894368ee658ebe54060c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables.c
+SPDXID: SPDXRef-item909471
+FileChecksum: SHA1: fe21d544b15e433f94418e75e5c5870b85fc2f29
+FileChecksum: MD5: e00c355b79401da2353c69d4fe75ca94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-extensions.8.tmpl.in
+SPDXID: SPDXRef-item909477
+FileChecksum: SHA1: 349cc604f12cd9158f25879f6e38a24ccc693ce1
+FileChecksum: MD5: d506afb14322c03585e4779d52881ae0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-config-syntax.l
+SPDXID: SPDXRef-item909483
+FileChecksum: SHA1: 2bc38be81b3972934670012aa99906de58b2b403
+FileChecksum: MD5: b58613cb6f1c9481dd924b1def791ce7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft-bridge.h
+SPDXID: SPDXRef-item909491
+FileChecksum: SHA1: 94c6530109d7bbcef09ed77e96783e41044ea4f1
+FileChecksum: MD5: bc4c670ab64028297132f940df370cb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/Makefile.am
+SPDXID: SPDXRef-item909505
+FileChecksum: SHA1: 961e6eb9feaaa85c7965cafe819e1577eedb3c35
+FileChecksum: MD5: 8481ffb04f0e4e3d722b9bb5f0d49564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/ip6tables-restore.8
+SPDXID: SPDXRef-item909510
+FileChecksum: SHA1: 349cfafc402a8cd66ebd48ec401a657a4b334ee0
+FileChecksum: MD5: 4d09cc330f8bd9a8e4ba87ae8abb0b92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft.h
+SPDXID: SPDXRef-item909519
+FileChecksum: SHA1: 480a3099e22f07d02b10cd33f3c4c96e72fa65e9
+FileChecksum: MD5: b50afc2ee760ec1c9ea1e0ac47b7dba4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft-shared.c
+SPDXID: SPDXRef-item909528
+FileChecksum: SHA1: 9cc16c6833be93930e65918a5c432deac0c3230f
+FileChecksum: MD5: 7b57fa368744794bdf8a34e902d08134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-save.8.in
+SPDXID: SPDXRef-item909536
+FileChecksum: SHA1: 260352f1ea8aa684abde4bcc2a2406d00c82d578
+FileChecksum: MD5: 0ad270f061c37a6b550cf72d9a41a672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-eb-standalone.c
+SPDXID: SPDXRef-item909544
+FileChecksum: SHA1: b06f47bc5e1dea0b5c224a50cc5a5a1623fddcd3
+FileChecksum: MD5: 75ce84e9892eaeb9ef9ddb2f748a8eac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xshared.h
+SPDXID: SPDXRef-item909551
+FileChecksum: SHA1: 071cc1f46440162a6361ab5d74d47cc15716ac47
+FileChecksum: MD5: de582ef3c7cd95659bd32e70cdd242ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-arp.c
+SPDXID: SPDXRef-item909562
+FileChecksum: SHA1: 5aad199c4bff3c9ee176091cd00f883c3c978aec
+FileChecksum: MD5: c81fdedeafcdda649acc66f1902e5b92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/ip6tables.c
+SPDXID: SPDXRef-item909574
+FileChecksum: SHA1: 9a9b82509800840e18112408a64767cc2bfc838f
+FileChecksum: MD5: 3472db8df73afb90f1daddb3d82ff77d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-apply.8.in
+SPDXID: SPDXRef-item909581
+FileChecksum: SHA1: 468386e7ac6b49074b8dd152edee6cba7df52be5
+FileChecksum: MD5: 24168d5e9b0658c51127262acd956392
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Artistic-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-restore.8.in
+SPDXID: SPDXRef-item909590
+FileChecksum: SHA1: 1920118ccbb729039cf57ebf720e1673e2388f52
+FileChecksum: MD5: 1a53f35b59653fcfedbf4408c689cfcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-standalone.c
+SPDXID: SPDXRef-item909600
+FileChecksum: SHA1: 1b15149977809a44e99f757b8dd25966472fe60d
+FileChecksum: MD5: 2bc7b5be0fd53c2dba6635094d123914
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-save.c
+SPDXID: SPDXRef-item909608
+FileChecksum: SHA1: 84b0845632ff6b6f80113984393e9a467e3b0160
+FileChecksum: MD5: ee29a953bd63035065f5b0126d6aae4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-config-parser.y
+SPDXID: SPDXRef-item909615
+FileChecksum: SHA1: 35d44f8b4ba636026ef666eb36bf23cf036f4c35
+FileChecksum: MD5: 90c6fd8c4e45b1f07ee4ddb5c50f8c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-standalone.c
+SPDXID: SPDXRef-item909622
+FileChecksum: SHA1: 041f14ddfcb712230d00f9a8e0d503930e164e5c
+FileChecksum: MD5: 95d51928334fb6571bf75e482a4632e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/nft-bridge.c
+SPDXID: SPDXRef-item909631
+FileChecksum: SHA1: cbc994aa3fb9e87795561c76dd3c86cd51658a8e
+FileChecksum: MD5: d8d0aa60dc9d15695eb6b6cdbbb5b825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/ip6tables-save.8
+SPDXID: SPDXRef-item909637
+FileChecksum: SHA1: 818e5f792abe6354bb8d68902ee442a3a1dcf082
+FileChecksum: MD5: 0233a19092e76693c10da8ac30ab658d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-multi.c
+SPDXID: SPDXRef-item909642
+FileChecksum: SHA1: 1ee5b88d0d0b43a7623272c1d5174c02cab1936a
+FileChecksum: MD5: e4c8e71b908b7f0aea6294a3b3fac522
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-compat-multi.c
+SPDXID: SPDXRef-item909648
+FileChecksum: SHA1: a11cc0cf191f1d74990e33b8380b47ecdee1b7f0
+FileChecksum: MD5: 429e541e032a1a8d4b149dbf30b2708c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables.pc.in
+SPDXID: SPDXRef-item909656
+FileChecksum: SHA1: 55918d5d441dd247e93500e68c785024a3d5af61
+FileChecksum: MD5: a8ab41e3d77c1e17b7fca8fef9729ac1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/getethertype.c
+SPDXID: SPDXRef-item909664
+FileChecksum: SHA1: 0169a34621c01ce24e5c224e588ba4f8a96dc194
+FileChecksum: MD5: 71420ffa2c68ec92036d95651c2c6f1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xtables-save.c
+SPDXID: SPDXRef-item909671
+FileChecksum: SHA1: 4efa333e806808a26507340b4c43951bba60c96e
+FileChecksum: MD5: fc322843fb929c4ef0c4ea105589e828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/xshared.c
+SPDXID: SPDXRef-item909680
+FileChecksum: SHA1: cf1ab0955433d3f8a7ae37e5ed768ecde348bbc4
+FileChecksum: MD5: 2643eb9fbdeda341a29aefc3e68d617b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-apply
+SPDXID: SPDXRef-item909687
+FileChecksum: SHA1: 81244b836e2c592e5e78d843598f8480eb553665
+FileChecksum: MD5: 8b7f7ff4a4c4590383c1a34d2148fc9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Artistic-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/iptables-xml.1.in
+SPDXID: SPDXRef-item909694
+FileChecksum: SHA1: 10ce076756c6bfc93274930c4edd453ac619246c
+FileChecksum: MD5: 1065ed1e43e3bef2a3fe09a6846d823d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/iptables/ip6tables-restore.c
+SPDXID: SPDXRef-item909701
+FileChecksum: SHA1: 1b71a07321adb043c4c0e2dd589631946df9001f
+FileChecksum: MD5: b5935a0112259a50773b659fd3b254db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/etc/ethertypes
+SPDXID: SPDXRef-item909714
+FileChecksum: SHA1: 07eb268f4ccd95249f0e5b62e73c546d2d213cba
+FileChecksum: MD5: ee5e7e011cc749f71939d5417fe17d9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/etc/xtables.conf
+SPDXID: SPDXRef-item909722
+FileChecksum: SHA1: f569ebff901d2628e2ee5ecf71c05be1957aff23
+FileChecksum: MD5: b94e12903da22da2595ec578f89e4811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/aclocal.m4
+SPDXID: SPDXRef-item909741
+FileChecksum: SHA1: a4f94c6b9d08b209814019ccc67a7c0b489f1022
+FileChecksum: MD5: d87d40521bfc4eadf6d8165dda7014d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/Makefile.in
+SPDXID: SPDXRef-item909756
+FileChecksum: SHA1: 9ec1217d4054c4fe82c030b459c726e68617a956
+FileChecksum: MD5: c46187632fabed72ab910edfe1420840
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/COPYING
+SPDXID: SPDXRef-item909770
+FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
+FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/configure
+SPDXID: SPDXRef-item909782
+FileChecksum: SHA1: 366ca884e7bb2b8a9b60b1d9b3ded4b3a4b199e6
+FileChecksum: MD5: 7f9383f68b689eb2ed78875c04604e5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.gitignore
+SPDXID: SPDXRef-item909790
+FileChecksum: SHA1: 5931dfb545ce687b113d818ed46b19999c0eaa31
+FileChecksum: MD5: db3d7b6d081aba870682540a2963642b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/m4/ltversion.m4
+SPDXID: SPDXRef-item909799
+FileChecksum: SHA1: 25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68
+FileChecksum: MD5: 91dd5e1355d100dbdab7d71244ed2625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/m4/libtool.m4
+SPDXID: SPDXRef-item909814
+FileChecksum: SHA1: df1b378e235c9f5df79c68c8fbae6e47a1d219c9
+FileChecksum: MD5: 42a15e936131c8cbcc3c88b839022f8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/m4/ltoptions.m4
+SPDXID: SPDXRef-item909823
+FileChecksum: SHA1: 05ec66892c8b30f20aa5278e1671ae4925a9c063
+FileChecksum: MD5: 67d5ebceaac562ddf0dde4e5cdffbe09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/m4/ax_check_linker_flags.m4
+SPDXID: SPDXRef-item909839
+FileChecksum: SHA1: 96f0649c70acc14250fff2a246e52887c304009e
+FileChecksum: MD5: 385b66f3a85a9822ef57c3af31706f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-3.0--with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/m4/.gitignore
+SPDXID: SPDXRef-item909845
+FileChecksum: SHA1: b9396212bb21ddde551395fbe83068c09eb10298
+FileChecksum: MD5: 109ae846b9c80685ecdb0622f54cf19b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/m4/ltsugar.m4
+SPDXID: SPDXRef-item909854
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item909863
+FileChecksum: SHA1: c0c6afe569131b4015d221bc853053cf884b2699
+FileChecksum: MD5: 47d420a13f9ba4e171772c3e3eee3e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/config.h.in
+SPDXID: SPDXRef-item909876
+FileChecksum: SHA1: 09180871fa12deb1fbe7eebc9b438e763cd74dd6
+FileChecksum: MD5: 4ea58052e51ffefb260a1d4abed3fcf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/Makefile.am
+SPDXID: SPDXRef-item909883
+FileChecksum: SHA1: b33fb3e95cb779214cd55457ff08755061e23651
+FileChecksum: MD5: 59e1d7e9e5e5fd8fadf6f4d383f5c020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/INCOMPATIBILITIES
+SPDXID: SPDXRef-item909891
+FileChecksum: SHA1: 6cc5edc6d3c03009ead017fb990b26160063986d
+FileChecksum: MD5: 8ed4902c7028ebc8f5aa0f7d04dd366a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/utils/Makefile.in
+SPDXID: SPDXRef-item909907
+FileChecksum: SHA1: 6a489f979a7d545ce14eae33bdd69f44a8062d0f
+FileChecksum: MD5: bf7962a1d5e71c52cf42523b6086bfc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/utils/.gitignore
+SPDXID: SPDXRef-item909915
+FileChecksum: SHA1: 9eaf6ba27d3fffdffcff50abcf28ebbaeee9912e
+FileChecksum: MD5: d41a6c169358d50aede3bc839b4eaeec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/utils/nfnl_osf.c
+SPDXID: SPDXRef-item909925
+FileChecksum: SHA1: 365b98585d9d0fd781b4bd5916bb84b651367747
+FileChecksum: MD5: e4590ed31ab67308b3d7a96d9acb412d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/utils/Makefile.am
+SPDXID: SPDXRef-item909933
+FileChecksum: SHA1: 004a3ceedd979e25cf3dfb16c5b81ae5fc9ecff6
+FileChecksum: MD5: 31333bd8287ddcd013769e0da05ef337
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/utils/nfsynproxy.c
+SPDXID: SPDXRef-item909942
+FileChecksum: SHA1: 0ba4c1227a2b4541051dd93b23e7ba5e5fd51223
+FileChecksum: MD5: 4c19600b9556dc0ecf96246fb5e283f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/utils/pf.os
+SPDXID: SPDXRef-item909956
+FileChecksum: SHA1: 836d9ce484d27909a4d4ac6d61bf4a9d3f37117e
+FileChecksum: MD5: c223c60e40bc2e69a2239f8ba2935db6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/utils/nfbpf_compile.c
+SPDXID: SPDXRef-item909963
+FileChecksum: SHA1: 312db03975cd1f9f81f3b1d019cd42a4b3f71bf3
+FileChecksum: MD5: 34e01c3b791e7ace33e58901abdf188b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_get_msgerr.3
+SPDXID: SPDXRef-item909977
+FileChecksum: SHA1: 5d7664835564ec4250424d1e4c34a28db00a42bb
+FileChecksum: MD5: 277973cf43e8f33155a9d39a321f5294
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_errstr.3
+SPDXID: SPDXRef-item909987
+FileChecksum: SHA1: f71e6941afaaf4bc4ddd52b2e1b60b26fd956991
+FileChecksum: MD5: 25b1f3063b586e5c84a38c357e538b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/libipq.3
+SPDXID: SPDXRef-item909995
+FileChecksum: SHA1: 6fb0843c2537bfcd0c667aeaa6b96b4985c0ed56
+FileChecksum: MD5: ab400f4e83181403219751249edff60c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/Makefile.in
+SPDXID: SPDXRef-item910008
+FileChecksum: SHA1: 467b8240185a7f7061c9f6d563a38784110458c0
+FileChecksum: MD5: d7214026632980d943c0982017e2adb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/.gitignore
+SPDXID: SPDXRef-item910015
+FileChecksum: SHA1: 7dfb6cb1e6ff4f6b1ec4f69463f93f0d768bdcc2
+FileChecksum: MD5: 741cb1746ac33b705204d63f385ffb7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_perror.3
+SPDXID: SPDXRef-item910021
+FileChecksum: SHA1: 43c4e75f75635fc35be8fec6411c4d180941cd8d
+FileChecksum: MD5: 3fd94f0cab729417360aaefc0e594f09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_destroy_handle.3
+SPDXID: SPDXRef-item910029
+FileChecksum: SHA1: 40f0666df4226b16b3ae01a3d2e91543eb7990b9
+FileChecksum: MD5: 0b0a01f19b5b5c476f5c5e79c1e289e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/Makefile.am
+SPDXID: SPDXRef-item910038
+FileChecksum: SHA1: 59575c9f12299c447b3798bfc742286a2199b2ec
+FileChecksum: MD5: bfd9e071e79e6499597bfc296ed48f6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/libipq.c
+SPDXID: SPDXRef-item910047
+FileChecksum: SHA1: ce9e55349b9d6106481572ce7edf49418b60d508
+FileChecksum: MD5: a8844987e1682d3d172334ec336a2dde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_message_type.3
+SPDXID: SPDXRef-item910057
+FileChecksum: SHA1: dbeedaacf1c8c6384b6d0b5884dcc2e71a2b732c
+FileChecksum: MD5: 3c263f08a3b52ba31a88b541c991ea68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_read.3
+SPDXID: SPDXRef-item910065
+FileChecksum: SHA1: 0b82757fd640c81165a807e892b35d36b7cec219
+FileChecksum: MD5: a3086d6ab4abf497bfe294a4dcec73c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_set_verdict.3
+SPDXID: SPDXRef-item910075
+FileChecksum: SHA1: 15918da537b3382472bf442b0d50ac992cd598dc
+FileChecksum: MD5: 23ae735699e6a6d081f2d33dbaad5f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_set_mode.3
+SPDXID: SPDXRef-item910083
+FileChecksum: SHA1: 931df2c34ed14d3d504a18ca36a2b8878dfb43af
+FileChecksum: MD5: 8ebef3ee8237650aa5cacc668b090a5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_get_packet.3
+SPDXID: SPDXRef-item910088
+FileChecksum: SHA1: 5d7664835564ec4250424d1e4c34a28db00a42bb
+FileChecksum: MD5: 277973cf43e8f33155a9d39a321f5294
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/libipq.pc.in
+SPDXID: SPDXRef-item910094
+FileChecksum: SHA1: 6d8ce48bfba86c71dd8b85fed811b88a365a2b6d
+FileChecksum: MD5: 9b9abe778c0fb5f8d9851fd2e91e11e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libipq/ipq_create_handle.3
+SPDXID: SPDXRef-item910101
+FileChecksum: SHA1: 63ac3463e8302544c3e84e4bbb09298995fc3908
+FileChecksum: MD5: 6947a77f9d213a9484c9d7fd45f28b4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/libip6tc.c
+SPDXID: SPDXRef-item910116
+FileChecksum: SHA1: 0aa77436052078eb6d3dfd6a067b39baccf6945f
+FileChecksum: MD5: 7168b801a9009bc1c514e2e9ca1dda51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/Makefile.in
+SPDXID: SPDXRef-item910130
+FileChecksum: SHA1: ec104dd211808e2499176bab38c34ee0f6b3b4d8
+FileChecksum: MD5: 09347594a78726d5de7fb10be8db750e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/libiptc.c
+SPDXID: SPDXRef-item910142
+FileChecksum: SHA1: 94226c47d1720c3e66f319f4bf600719fed5e239
+FileChecksum: MD5: a7f0403e1a94534f3915d2e6faa4742e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/.gitignore
+SPDXID: SPDXRef-item910150
+FileChecksum: SHA1: e94a7eb978f40d0c961cd730ba8166eac581bf77
+FileChecksum: MD5: a4e50565f01f2576621ca18c4b5bc1c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/libiptc.pc.in
+SPDXID: SPDXRef-item910158
+FileChecksum: SHA1: f70409198f96427b15b0927e2fe0e883bd3ce659
+FileChecksum: MD5: 52773a653ef623182bf25186a20456d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/Makefile.am
+SPDXID: SPDXRef-item910165
+FileChecksum: SHA1: ea566768bc7bd0403b5d175f374bfbb4292d76be
+FileChecksum: MD5: 424a2cca37608f3545fa761b2c0dcbf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/libip4tc.pc.in
+SPDXID: SPDXRef-item910171
+FileChecksum: SHA1: 10e8e82a61fa81e357ece0bfb24af987eb9a042f
+FileChecksum: MD5: 71af6e0a1f18dd663e039e97ad16b4eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/libip6tc.pc.in
+SPDXID: SPDXRef-item910179
+FileChecksum: SHA1: 838da3d8633a3d8667978943042a37316bc853d1
+FileChecksum: MD5: 5728ed2d049ceddf81aa3c2b53ed1961
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/linux_list.h
+SPDXID: SPDXRef-item910190
+FileChecksum: SHA1: 1b656d01b04f770b75a264f64a6022a5ab9fdb05
+FileChecksum: MD5: 7622b7aa404633ddb4f2113e22d016d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/linux_stddef.h
+SPDXID: SPDXRef-item910199
+FileChecksum: SHA1: 6620c0bb40aeb12dce289144c06e114aae6aa930
+FileChecksum: MD5: 62c4eb652d0ad1423867fa1a3c0e1dea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/libiptc/libip4tc.c
+SPDXID: SPDXRef-item910208
+FileChecksum: SHA1: 2413fc4cd5a5f3c63dfef852f7af759f256e1577
+FileChecksum: MD5: adc07975b05cbf5a169fe953ee6882c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/release.sh
+SPDXID: SPDXRef-item910215
+FileChecksum: SHA1: b893893fc9a8a6827f1a83d34df7dc0fe7101d78
+FileChecksum: MD5: dc7e4dcd0c56642a587cb97b6fbe2827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/applied-patches
+SPDXID: SPDXRef-item910225
+FileChecksum: SHA1: a72ec26dc8609e4a90db91139908c9aaa9fab7b5
+FileChecksum: MD5: c81a08982575f039ff31fe6e05af33ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/.quilt_series
+SPDXID: SPDXRef-item910231
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/.version
+SPDXID: SPDXRef-item910236
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/0001-configure-Add-option-to-enable-disable-libnfnetlink.patch/.timestamp
+SPDXID: SPDXRef-item910241
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/0001-configure-Add-option-to-enable-disable-libnfnetlink.patch/configure.ac
+SPDXID: SPDXRef-item910250
+FileChecksum: SHA1: 0c73f01b457ea361bc491cef658c0f3f6be82b3f
+FileChecksum: MD5: 9585530fe878c448e527ae2abe3a2ccc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/types.h-add-defines-that-are-required-for-if_packet.patch/.timestamp
+SPDXID: SPDXRef-item910257
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/types.h-add-defines-that-are-required-for-if_packet.patch/include/linux/types.h
+SPDXID: SPDXRef-item910268
+FileChecksum: SHA1: 083ba6d58012530730bf6e24d942d284c498ca5c
+FileChecksum: MD5: 72cbd61d3daa0d00277491c76844b00d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/0002-configure.ac-only-check-conntrack-when-libnfnetlink-enabled.patch/.timestamp
+SPDXID: SPDXRef-item910280
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/0002-configure.ac-only-check-conntrack-when-libnfnetlink-enabled.patch/configure.ac
+SPDXID: SPDXRef-item910289
+FileChecksum: SHA1: 32c418c9b225e214ba7aade4924c73eed9ceba42
+FileChecksum: MD5: 4d539c50f02f7e2dd18fbb6749e9dbb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/0001-fix-build-with-musl.patch/.timestamp
+SPDXID: SPDXRef-item910296
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/0001-fix-build-with-musl.patch/extensions/libxt_TCPOPTSTRIP.c
+SPDXID: SPDXRef-item910307
+FileChecksum: SHA1: 4a0cae7799ad03b10e148eae4e8e7c25011ac3cd
+FileChecksum: MD5: 087b93c4c303caff12f13f1d6ecdc56e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/0001-fix-build-with-musl.patch/include/linux/netfilter_ipv4/ip_tables.h
+SPDXID: SPDXRef-item910325
+FileChecksum: SHA1: 7c3027893d6c9ac56728696370f7e2790f89893b
+FileChecksum: MD5: e1c7c87ddfc18002765ec9e60ef81302
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/.pc/.quilt_patches
+SPDXID: SPDXRef-item910341
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/configure.ac
+SPDXID: SPDXRef-item910352
+FileChecksum: SHA1: 7e3729e4482f4fc363dd3187a63b36ba6bc4c07b
+FileChecksum: MD5: ee062be475387182ee2987509ea02cb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/ar-lib
+SPDXID: SPDXRef-item910357
+FileChecksum: SHA1: 97820fbbfe9e0175a575766253c326e5a1a7a9e1
+FileChecksum: MD5: 9274c17761d598304d1068c4c15fb107
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/compile
+SPDXID: SPDXRef-item910360
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/ylwrap
+SPDXID: SPDXRef-item910366
+FileChecksum: SHA1: a098c10874db5662fb82f57aa2bfc7fda41ed79b
+FileChecksum: MD5: 05080f524c2a181ed63efcc32b295983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/install-sh
+SPDXID: SPDXRef-item910369
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/ltmain.sh
+SPDXID: SPDXRef-item910386
+FileChecksum: SHA1: 620f6a05a1d39a036ba737baeb77d77de7d73aea
+FileChecksum: MD5: 832690b77a34eb54a35f3876d947796a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/config.sub
+SPDXID: SPDXRef-item910390
+FileChecksum: SHA1: b10de7366ff00474959a2c0ca5de18c5ce7ccc7d
+FileChecksum: MD5: 6277d71b2125f2bd6390226a906f0b0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/missing
+SPDXID: SPDXRef-item910394
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/config.guess
+SPDXID: SPDXRef-item910398
+FileChecksum: SHA1: 3646b015d9a91423feaf2bac86fd2df7ab3564f6
+FileChecksum: MD5: 0fb81517303511f05a01b14f41cec2cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/build-aux/depcomp
+SPDXID: SPDXRef-item910402
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/INSTALL
+SPDXID: SPDXRef-item910415
+FileChecksum: SHA1: 93c1b1195829d1f2c22037ba16524a8718e28d49
+FileChecksum: MD5: 09d6848a4932002b51e76c7507f2c7bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_NETMAP.c
+SPDXID: SPDXRef-item910427
+FileChecksum: SHA1: 6664212bd7226645d3da1431220856c3154d9892
+FileChecksum: MD5: 0d7bbe8480ae627e0cb18dc1995271cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_connbytes.c
+SPDXID: SPDXRef-item910435
+FileChecksum: SHA1: 0147fc5ec0cf0474924a817599af460c8ede25b0
+FileChecksum: MD5: 3976746bf524f4a2bc9ec9597e784687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TEE.man
+SPDXID: SPDXRef-item910440
+FileChecksum: SHA1: 759d366a05e1f19edd49ec1d69f81be13ce83557
+FileChecksum: MD5: 4d370ef3ae95e02b2125396b72a5c13b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_owner.man
+SPDXID: SPDXRef-item910446
+FileChecksum: SHA1: df0f00ed14cafa7ee9159d2aae0bd241dd8c00cf
+FileChecksum: MD5: 48f307241a91210cfd4ced3e39f9bcf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TPROXY.man
+SPDXID: SPDXRef-item910452
+FileChecksum: SHA1: 5c00fae67c8cdf0c852745e6c97a94400fc679a5
+FileChecksum: MD5: 8118bf1b1dcdd83bce836b81092e8155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_ah.c
+SPDXID: SPDXRef-item910461
+FileChecksum: SHA1: 46f304149b4a99a79de369478feb69e2d5b9e259
+FileChecksum: MD5: caf249aaa2b0c655ba91002c12d2a555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_SNAT.man
+SPDXID: SPDXRef-item910467
+FileChecksum: SHA1: 367b1fd426f7410c62e0143f4efe244a5922b74d
+FileChecksum: MD5: 667ec87fd9f4c6fdc94c37b90922f4a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_ipcomp.c.man
+SPDXID: SPDXRef-item910473
+FileChecksum: SHA1: f4c4a3ddd01fe63eb2cc32794f23c33d9c3be710
+FileChecksum: MD5: 5ed2c5c2d0a5a9a84fa672ccf66bd9cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_realm.man
+SPDXID: SPDXRef-item910479
+FileChecksum: SHA1: 86a8f0562df8a99b01b4ad29f037503ed0c8ee8d
+FileChecksum: MD5: 30181911356db606b9c301e07e1fc366
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_NFLOG.c
+SPDXID: SPDXRef-item910487
+FileChecksum: SHA1: 4ab7c62d1f4d2195d71f5154fe1642abb600a3a4
+FileChecksum: MD5: 35a3acb20388dd45d2e83b9bf821135c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_REJECT.c
+SPDXID: SPDXRef-item910496
+FileChecksum: SHA1: 5bfdabeab1a97de45fa8d02e9c679bd7407e30db
+FileChecksum: MD5: 7eda04ec0be863e9b798ca657f9f1a96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_dccp.man
+SPDXID: SPDXRef-item910502
+FileChecksum: SHA1: 69d4aca7b973f1f99bcf34775bf8e02e4a6769b8
+FileChecksum: MD5: 022e79dd21013280f00eef05339cd458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_NOTRACK.man
+SPDXID: SPDXRef-item910512
+FileChecksum: SHA1: 0ec5aa5691e07c386721482a7c70e1515386b9f4
+FileChecksum: MD5: 99b352ec98f1b197a1f525053c034227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TEE.c
+SPDXID: SPDXRef-item910520
+FileChecksum: SHA1: b960747960688d56718f5a0133e138287689177b
+FileChecksum: MD5: a4a0d61d90748d8c751bc5acaec52ca6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_rateest.c
+SPDXID: SPDXRef-item910529
+FileChecksum: SHA1: dbe9919d82d4dcc60455867e856fb3c1b5b95a96
+FileChecksum: MD5: eb1d656e7bc1b7793ef11cd0ef1b5adf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_REDIRECT.c
+SPDXID: SPDXRef-item910539
+FileChecksum: SHA1: 60c10c8e2bd9109aa813e679206cc638692910f5
+FileChecksum: MD5: 009fb8d47df959fbdbf6e0977c28526d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_SNAT.c
+SPDXID: SPDXRef-item910548
+FileChecksum: SHA1: 356a32d4069d23b6006b04ebd2345d64395d7999
+FileChecksum: MD5: d493454b789ae8fc6240e3334efa5cb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_udp.c
+SPDXID: SPDXRef-item910556
+FileChecksum: SHA1: 9456114a069439cf7b7fb665795ababe0a529150
+FileChecksum: MD5: a33b89ee9585c71e5e925d37137ebb2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_connlimit.man
+SPDXID: SPDXRef-item910564
+FileChecksum: SHA1: c2b80c86a92c2048b9996397b0037675ee5c9a1b
+FileChecksum: MD5: e731cdbf2629f68117a42b1cab71e7b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_SNAT.c
+SPDXID: SPDXRef-item910574
+FileChecksum: SHA1: f070f199c7b195dc22b62a36988d52fd283d0ac3
+FileChecksum: MD5: a8f5ffd316ea396d899f37b10e339434
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_u32.c
+SPDXID: SPDXRef-item910583
+FileChecksum: SHA1: 3aff9963fa4653866846a49cbebac6a0238b962e
+FileChecksum: MD5: 86b4a18c3616d58e5c327b5d1c65ba06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libebt_ip.c
+SPDXID: SPDXRef-item910593
+FileChecksum: SHA1: 596133e45ae49f609d143615e2674038ad1b44ec
+FileChecksum: MD5: ef865da9f471551fda57a8976c724e76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_physdev.c
+SPDXID: SPDXRef-item910601
+FileChecksum: SHA1: 093ed6ac4b5d9580de6d33c99f5b8583f317e07b
+FileChecksum: MD5: 9b0b131f6cfbcda549aabf8741a7ff35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_ipvs.man
+SPDXID: SPDXRef-item910607
+FileChecksum: SHA1: 0df5cb3d2db6ad6fed3778d6b638124f3ceb37aa
+FileChecksum: MD5: 8f580e20b2327af85604909726332995
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_SECMARK.c
+SPDXID: SPDXRef-item910614
+FileChecksum: SHA1: f2f6eb8f92b893f1e2c21a0f94ba6af5e9120190
+FileChecksum: MD5: 6029e5eb63110e62e8eab028ee1327c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_quota.man
+SPDXID: SPDXRef-item910620
+FileChecksum: SHA1: 1d926b13deaa7aa17ebf814dc086e0d5f01528e5
+FileChecksum: MD5: 5a2a569dfc63cc2b7b9691ee73fe9eca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_tos.man
+SPDXID: SPDXRef-item910626
+FileChecksum: SHA1: 2c96ec4c4181ed5de61c492a1087a250f0acb6fd
+FileChecksum: MD5: 06087a1838d77a330d26860cf3de7d94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_mangle.c
+SPDXID: SPDXRef-item910635
+FileChecksum: SHA1: a4d7009a130baca86b3fe6e698a91592fecd10e6
+FileChecksum: MD5: 701f1d8250d8666c6c261b3da3ce7e45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_DNAT.c
+SPDXID: SPDXRef-item910644
+FileChecksum: SHA1: 62a8a6af853cbf14a2cffb391e23724d6387dfa3
+FileChecksum: MD5: e1bd293108b4f6c255a70a3f45b5ab79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_recent.c
+SPDXID: SPDXRef-item910654
+FileChecksum: SHA1: ca796a5a1d7652eca1a1cf268d976d3bfe637896
+FileChecksum: MD5: 0885ad12f45f179bbf4e52bb77ad49b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_SECMARK.man
+SPDXID: SPDXRef-item910661
+FileChecksum: SHA1: b8f6f324369556206e037d537005626f94b5cc86
+FileChecksum: MD5: 9269df77146cce538f17caf52ec36e4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_REDIRECT.man
+SPDXID: SPDXRef-item910667
+FileChecksum: SHA1: e1feabea3e6b1a44334e71fda6819044382321c0
+FileChecksum: MD5: a5cd0dc5aeb10b062abe8048adeaafab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_statistic.c
+SPDXID: SPDXRef-item910677
+FileChecksum: SHA1: 7ff029e06a1e24209ef7a4648466349485b2eba4
+FileChecksum: MD5: f501c324133dfb6cde8a6c954dbc8c2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_REDIRECT.c
+SPDXID: SPDXRef-item910689
+FileChecksum: SHA1: 52fff03a3e00f3ed2f26d2238f3590aad8827806
+FileChecksum: MD5: e8961f366cea789af70fcb6c9845c9f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_MASQUERADE.c
+SPDXID: SPDXRef-item910699
+FileChecksum: SHA1: 0797c84f97bff682fb21984353e9d84db185c723
+FileChecksum: MD5: e3ae55e6a76ebbdb3bf7a2520d2ec863
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_ipvs.c
+SPDXID: SPDXRef-item910711
+FileChecksum: SHA1: 2fdba337a85a8866579b99f5176cf9844fcbf0a0
+FileChecksum: MD5: 1752383eccd1c0761c8337ce2a1e3b43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_ULOG.man
+SPDXID: SPDXRef-item910716
+FileChecksum: SHA1: 2514cb359248178f324ac15eb9fdadc4985e7964
+FileChecksum: MD5: 4db07e5bec6a76c624800d9c4bd69d68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_eui64.man
+SPDXID: SPDXRef-item910725
+FileChecksum: SHA1: e702957022d49049021e0de4dd7435e11c4ca030
+FileChecksum: MD5: b33994d2dda54b3dd8a72ce0cbf5824d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CONNMARK.man
+SPDXID: SPDXRef-item910732
+FileChecksum: SHA1: a4128fd33487216e93309ffc4f421bb5f284c057
+FileChecksum: MD5: 8d6d69bd69db1ea17198c93a0d9ed3a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TCPMSS.c
+SPDXID: SPDXRef-item910740
+FileChecksum: SHA1: b2bf7db7033a74636c61f8cd7ab05a2a0e9ba347
+FileChecksum: MD5: 628c524e614e0ee239a0572ef488c5b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TRACE.c
+SPDXID: SPDXRef-item910746
+FileChecksum: SHA1: b01b3060c53ad7b86f01031c18156e32d4110bd0
+FileChecksum: MD5: 7b8b3d48c56599e8bc250643cb426685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_cgroup.c
+SPDXID: SPDXRef-item910755
+FileChecksum: SHA1: f91dbe9724af35e439508a3b0c21755932bcbd9a
+FileChecksum: MD5: 1533ce76158b3ac94a502b1b51044720
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_rpfilter.c
+SPDXID: SPDXRef-item910762
+FileChecksum: SHA1: 85603a0cb679871e42a7b194547ad08838933e04
+FileChecksum: MD5: af95418418be8af64a9245452bd53a03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_mark.man
+SPDXID: SPDXRef-item910769
+FileChecksum: SHA1: 608141efc6c887fcfadf9a3d377a1c88df7736ac
+FileChecksum: MD5: 0a7ecc0b5b1c89be6e210dd28ddef679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_limit.man
+SPDXID: SPDXRef-item910775
+FileChecksum: SHA1: 47e4a2ad15453b8f1d3f2a0c4104552ddbb75182
+FileChecksum: MD5: b671f58e21b8d3f1153026d0054d0870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CLASSIFY.man
+SPDXID: SPDXRef-item910781
+FileChecksum: SHA1: a7b14fae1468e7579fd574c239f28def44826516
+FileChecksum: MD5: 906cb0adde766357eeb77a3af739d389
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_ipcomp.c
+SPDXID: SPDXRef-item910789
+FileChecksum: SHA1: 83994a2713ba9f4038cd71d7c77f9fa13b04e0c8
+FileChecksum: MD5: f52fe507388ac528c9b710bc2bab0483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_esp.c
+SPDXID: SPDXRef-item910796
+FileChecksum: SHA1: 897e4358fb1c2c86ff5dbb94ed8dac5959f04d12
+FileChecksum: MD5: 1f8071879d6fb624743cd926f9f58ac4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_TTL.man
+SPDXID: SPDXRef-item910802
+FileChecksum: SHA1: 2ee29e782c42db513522acf199734d5a0ba5c87e
+FileChecksum: MD5: 221977fba4dc213d103015347f7c271b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_HMARK.man
+SPDXID: SPDXRef-item910811
+FileChecksum: SHA1: 5c56838b5fdffe21b1084f11e606ab01dfc58550
+FileChecksum: MD5: 5f586287c2102c1d2b695fc8f4fe59a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_REJECT.man
+SPDXID: SPDXRef-item910816
+FileChecksum: SHA1: 5fafb680ead1ed42e66dd9390342f37138eb58dc
+FileChecksum: MD5: 0a20a836a7d1564c51e51d3b0c7332a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_bpf.man
+SPDXID: SPDXRef-item910823
+FileChecksum: SHA1: 4d28af3eb73e6e8635fd76a5e6d605936e118f25
+FileChecksum: MD5: 8e6532a414a6b2bf6977ff6898747ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_NFQUEUE.c
+SPDXID: SPDXRef-item910833
+FileChecksum: SHA1: 201992faab0c583fe0d1b32c568ab478ecdb3606
+FileChecksum: MD5: f87990cebfc885ed5dc46821e68f6931
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_NFLOG.man
+SPDXID: SPDXRef-item910842
+FileChecksum: SHA1: 0e9cda4cec907e2d67c50eba4bcf923a85b269c8
+FileChecksum: MD5: ff123e6b340e17f43189573efcd61e77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_tcpmss.c
+SPDXID: SPDXRef-item910850
+FileChecksum: SHA1: aab51c59d7da59c61d8b36699eee50f912c6df97
+FileChecksum: MD5: 08f9dfdb15ac92aa2c1aeaf59377bb68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_quota.c
+SPDXID: SPDXRef-item910857
+FileChecksum: SHA1: f79bf64f068378ad82e48fe32741edecb31d2c49
+FileChecksum: MD5: 55b544c6b2292b98596bfdf9e6eff7fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libebt_nflog.c
+SPDXID: SPDXRef-item910866
+FileChecksum: SHA1: 95d622022433349c50e43a344d24e1d4e42d5ee4
+FileChecksum: MD5: 450df4fea401892e378ed9a4ac7d1ddd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_pkttype.man
+SPDXID: SPDXRef-item910874
+FileChecksum: SHA1: f0cd6773df08ad21546e3efa00db8223eebafae6
+FileChecksum: MD5: 83d3a4ff35358fa2e2f357150b996d38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_tcp.man
+SPDXID: SPDXRef-item910880
+FileChecksum: SHA1: 2cafe019b165ed253b94d58b7762bc29a7e9d3c9
+FileChecksum: MD5: 9c8d709f5e19166c52114303458dcf11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_iprange.man
+SPDXID: SPDXRef-item910884
+FileChecksum: SHA1: 1fe205eb7d7a25e7882c743e32b9e5400567f455
+FileChecksum: MD5: abe4ba1adfa199fe0bc70d7d97ea737d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_icmp6.man
+SPDXID: SPDXRef-item910889
+FileChecksum: SHA1: 23cd031a552e9c7366aea0ca91f089352444e6db
+FileChecksum: MD5: 98264155bf01deaca726af4c68c9ca6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CT.c
+SPDXID: SPDXRef-item910898
+FileChecksum: SHA1: c6b2cabfcd84cc2be98b964d980ebfc992f39d12
+FileChecksum: MD5: 85473f4c4ae3ed246b63b38774d9dc91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_socket.man
+SPDXID: SPDXRef-item910906
+FileChecksum: SHA1: 309e0561d9c9901a4549bbf79c1c4cd0c9dbe3c6
+FileChecksum: MD5: c8615a776965ad660fea25ecce12ff70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_ah.c
+SPDXID: SPDXRef-item910914
+FileChecksum: SHA1: 94aed77604468f8d2a81544e871c3a9af8cc93e8
+FileChecksum: MD5: 264e8f301dd45601a41274925a42e9ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_SET.man
+SPDXID: SPDXRef-item910920
+FileChecksum: SHA1: bdbefee44ff3cb0c3ddcb3c9e5a92d99f5c66002
+FileChecksum: MD5: d15331d2a2dc107ef87c9c8b6570ee74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_limit.c
+SPDXID: SPDXRef-item910928
+FileChecksum: SHA1: aeece65476b24f39a37e0a552d5db7313df581ef
+FileChecksum: MD5: 19cbaf15d0c9b1c7f7f7019ceb57bd7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_osf.man
+SPDXID: SPDXRef-item910934
+FileChecksum: SHA1: f2dae7555922cd2346fa777dd571dd80ae110d2f
+FileChecksum: MD5: a9b457ea390241698cd22de129409efa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TOS.man
+SPDXID: SPDXRef-item910941
+FileChecksum: SHA1: def2db5a8a6fd0314ff0330c10bfb150316f48d0
+FileChecksum: MD5: e4e70e0956659a5e1d771c7300537146
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_cgroup.man
+SPDXID: SPDXRef-item910950
+FileChecksum: SHA1: e5912488353b456cce3196d3ea63cbf2d902da72
+FileChecksum: MD5: 1134575717a9bc9f799a69bf13fdf145
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_comment.c
+SPDXID: SPDXRef-item910962
+FileChecksum: SHA1: 0bbbbe320c786773e4417d7d52c794b40077aedb
+FileChecksum: MD5: c1ddc879391212fde561220da3cf5e58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_rateest.man
+SPDXID: SPDXRef-item910970
+FileChecksum: SHA1: c893fc7cceca87ff03a084f958e119c9a8f52c2e
+FileChecksum: MD5: 08bb6d43c2d7dc75e0258f306f752c7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_AUDIT.man
+SPDXID: SPDXRef-item910977
+FileChecksum: SHA1: 2adbeec319a703123abd4adfacd34d023c522606
+FileChecksum: MD5: d03ed3381817bc847a14c9cd72dfeb1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_LOG.c
+SPDXID: SPDXRef-item910987
+FileChecksum: SHA1: aa4d9477b01e8ae7e41a23575e1cd76853b3cb0d
+FileChecksum: MD5: db0ec2335dbce81b6719dfd2638bb590
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/tos_values.c
+SPDXID: SPDXRef-item910994
+FileChecksum: SHA1: 7d72a3efcf0cb231f61ae7e26a2387d59c3d5a5f
+FileChecksum: MD5: 309c56d64a8eed44b6d5272efd9e8770
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CLASSIFY.c
+SPDXID: SPDXRef-item911001
+FileChecksum: SHA1: 39c4364be49cd85bc95393318e4944f4c15318cf
+FileChecksum: MD5: e81d79768cc6648c04e965f467b54c81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_ecn.man
+SPDXID: SPDXRef-item911006
+FileChecksum: SHA1: c0c9498a6b4c6edc56bbc801b9e3bb4533ec56a9
+FileChecksum: MD5: dd6cc737266a60656d20d2f7bce61110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libarpt_mangle.c
+SPDXID: SPDXRef-item911015
+FileChecksum: SHA1: 0dc7c1bb45ab5c992a01e719b150be0025b201a1
+FileChecksum: MD5: b44e7c45896b89033dff3d921ccf440a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_u32.man
+SPDXID: SPDXRef-item911023
+FileChecksum: SHA1: 4a3668589ab176459bce96801ae723f64ce1746f
+FileChecksum: MD5: 84a345f1a4257f813327a492b78784cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/.gitignore
+SPDXID: SPDXRef-item911031
+FileChecksum: SHA1: f97c0776fe8b148e02a4d88afccc1f518b1c66b7
+FileChecksum: MD5: 4ffe58afea327526cc22d6d247fb6fab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_dst.man
+SPDXID: SPDXRef-item911037
+FileChecksum: SHA1: 440bee86aa0b02be9e49bd09890bcdf6ffd62fdf
+FileChecksum: MD5: d5865353267986adfea06ca26a16ba4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_mac.c
+SPDXID: SPDXRef-item911044
+FileChecksum: SHA1: fdfddd0e165aa21ce274e3786c34232485e7ea2a
+FileChecksum: MD5: 1838bf56dfa34cd026d18928cce6b637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/dscp_helper.c
+SPDXID: SPDXRef-item911051
+FileChecksum: SHA1: 30ad5266a3ae844faf92651fb82c053693645ce7
+FileChecksum: MD5: 5b4eedf5dff3b956c354942e9b67ecea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_hl.c
+SPDXID: SPDXRef-item911059
+FileChecksum: SHA1: b6f09451a3e069ac92ea76bd54d3a7492c4e9216
+FileChecksum: MD5: cf69020d6ee55f98c8b3901ddb0eb989
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_devgroup.man
+SPDXID: SPDXRef-item911064
+FileChecksum: SHA1: 1620edf7728eb60ccc02b8087debc14d25e1adc8
+FileChecksum: MD5: f794ad63b3c560821b87e936165a47d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_state.man
+SPDXID: SPDXRef-item911070
+FileChecksum: SHA1: f0595cbc9f841a501b393e5b3f8b44273d9c4add
+FileChecksum: MD5: 7b12f221a0272f69cd0d270bb703ba4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_osf.c
+SPDXID: SPDXRef-item911078
+FileChecksum: SHA1: 1b0b49e3863737a3b8815ccf802c771624d9754c
+FileChecksum: MD5: d028517de08c2fd4f84cd84ad543132b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TRACE.man
+SPDXID: SPDXRef-item911083
+FileChecksum: SHA1: 403efacfe9d8b017aef3313e64630d2b02dc2fdd
+FileChecksum: MD5: 4fccba7e21852683b648ac11ebc5ec8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_mh.c
+SPDXID: SPDXRef-item911091
+FileChecksum: SHA1: 2a364a3fb8682693f431e4fb5250930152f54424
+FileChecksum: MD5: 54536a242c121846084f81719dd60f8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_ULOG.c
+SPDXID: SPDXRef-item911099
+FileChecksum: SHA1: 54bc87f03e5d8beb5bcab8141a6e48379232c43c
+FileChecksum: MD5: f841d609271a86f66267e6863a1f1fff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_IDLETIMER.man
+SPDXID: SPDXRef-item911105
+FileChecksum: SHA1: fec8163bbf4aa4e31432a9354cd10189149c12f1
+FileChecksum: MD5: 30eedeec2000f41106674a3fa436af38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CHECKSUM.c
+SPDXID: SPDXRef-item911112
+FileChecksum: SHA1: ab921b2aa5926dfd78daf8b6b88213645cae5703
+FileChecksum: MD5: b29147ff2b3909698c967272c81e035c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TOS.c
+SPDXID: SPDXRef-item911122
+FileChecksum: SHA1: b2f4c342ebfc7122d60bcd239c5b21577dae3aad
+FileChecksum: MD5: 75879f6212c6cbe53556eb7aa4afe9d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_connlimit.c
+SPDXID: SPDXRef-item911132
+FileChecksum: SHA1: 6d685ce3725c9e4e3f95e4c562693a4ffadf1560
+FileChecksum: MD5: aa760cfb741b4388dc0e62bb959c1c6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_icmp6.c
+SPDXID: SPDXRef-item911141
+FileChecksum: SHA1: 20cec4c9ef1884d92ece4992c7cb8cc891ac9684
+FileChecksum: MD5: f3702ca2070e2cb8322802f4c35f2705
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_pkttype.c
+SPDXID: SPDXRef-item911150
+FileChecksum: SHA1: 07580adef2dc1beaf67ed8f576d1fd6c593beb34
+FileChecksum: MD5: a8a99b054aabff0613c671d1f50adc4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_connlabel.c
+SPDXID: SPDXRef-item911158
+FileChecksum: SHA1: fc74e1d2eb85ec7a31bdb8a7b8fa485e3023c6d7
+FileChecksum: MD5: 3d99c27473d7967132e811fcc9a25743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libebt_log.c
+SPDXID: SPDXRef-item911168
+FileChecksum: SHA1: 44d2a4ea4db7961aac66d1937c25afd227db6f15
+FileChecksum: MD5: 6f5b5730c6e9cb1be711fb25c06661be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_HMARK.c
+SPDXID: SPDXRef-item911176
+FileChecksum: SHA1: 1278d02f7898f61b7e7ef8e4c0d9413c1b77253c
+FileChecksum: MD5: 6492f48812e595f7dc0d15d093877240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_connmark.c
+SPDXID: SPDXRef-item911184
+FileChecksum: SHA1: 915578cb40a2c39288c47e7f02fb0b416b1670fd
+FileChecksum: MD5: 0e5cac6c82b1ca6222ec6c45a1fc0f61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_ECN.c
+SPDXID: SPDXRef-item911191
+FileChecksum: SHA1: a1e09f1d69e2daf42b02be95e2df82c8e6112109
+FileChecksum: MD5: 1191ad9b2b76e1186cb6ed19c0c5456a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_hbh.man
+SPDXID: SPDXRef-item911196
+FileChecksum: SHA1: 37b909ff35d9422084d4bae663a3fb2847a5690b
+FileChecksum: MD5: 37acf0c05d7af89c780ccf99fbf1794d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_SNPT.c
+SPDXID: SPDXRef-item911203
+FileChecksum: SHA1: 5fc6fba147465f323a8be58710f601508a792078
+FileChecksum: MD5: 0bae65435e7accdc001fecf340c22280
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CONNMARK.c
+SPDXID: SPDXRef-item911213
+FileChecksum: SHA1: 6c850c2d6b4f4c29af393dd35558f62e47eb6345
+FileChecksum: MD5: abbe260c9ce16867698344534a63b818
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_connmark.man
+SPDXID: SPDXRef-item911219
+FileChecksum: SHA1: b572268bda8c05e80475f5cd800a332a41f0d182
+FileChecksum: MD5: 9dd0a60ab199a0e55f7b352d058899fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_multiport.c
+SPDXID: SPDXRef-item911229
+FileChecksum: SHA1: 61e5e5fe2114ab0fbe17b45ac757ea98a9282237
+FileChecksum: MD5: 3eb1561aa453cfa64fd4b906e290f976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_devgroup.c
+SPDXID: SPDXRef-item911238
+FileChecksum: SHA1: aceb05bbfee4cfc5a9fc5462e6b0076cfab95456
+FileChecksum: MD5: a490feb940a5663d185bc15f5119300d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_ttl.c
+SPDXID: SPDXRef-item911249
+FileChecksum: SHA1: be67c9308d20a6513fc5f5184b18b1c943a5960c
+FileChecksum: MD5: c055ff67d0db15f575cc4d73ef2e26f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_physdev.man
+SPDXID: SPDXRef-item911255
+FileChecksum: SHA1: 6fb7ffe8208c22c8deab08ae2b15c58e22f8c7d9
+FileChecksum: MD5: 38ca017471dcde4f77c8506dd905e77b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TCPOPTSTRIP.man
+SPDXID: SPDXRef-item911260
+FileChecksum: SHA1: 3cea255c5f8f2511aecf2590da6379a00e23161e
+FileChecksum: MD5: 17fa9b5e31aeba7d72cecbeb6683533d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_eui64.c
+SPDXID: SPDXRef-item911265
+FileChecksum: SHA1: 761b854972906ffb774032c01b437bf907644c60
+FileChecksum: MD5: 5307110fdbb4a1a90e49f8ad68035dc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_bpf.c
+SPDXID: SPDXRef-item911275
+FileChecksum: SHA1: 280ae6507840185018479d98fc2ece47f0f41680
+FileChecksum: MD5: 6ad0cfd3d47ffa53630b2cf4881b75db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_mh.man
+SPDXID: SPDXRef-item911281
+FileChecksum: SHA1: 23b82d14a16ccea3e82b6e0a1474f3662b96de84
+FileChecksum: MD5: a8b44aff2f35509e6034152c7e989b4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_set.h
+SPDXID: SPDXRef-item911290
+FileChecksum: SHA1: 4292786501267f295062e95b227ef98a69cc3ca5
+FileChecksum: MD5: 4e9632dfd4fe935d179f2c6e1e168916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_MASQUERADE.c
+SPDXID: SPDXRef-item911299
+FileChecksum: SHA1: 6c9c951f2baf895754eb92fa8edc9163fd80fdc6
+FileChecksum: MD5: 61d55b33aea213d295c0e9848412db92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_nfacct.man
+SPDXID: SPDXRef-item911304
+FileChecksum: SHA1: 6129e8684225c3fb1a275fb462dff32ffa15c79c
+FileChecksum: MD5: 1ebb5ed24b91896d6a78daea19af13db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_LED.c
+SPDXID: SPDXRef-item911314
+FileChecksum: SHA1: 5109d11916a523943ce705eb558543ecae44f0b0
+FileChecksum: MD5: d57b0188e137634b2c5ff6ae652f7116
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_MARK.man
+SPDXID: SPDXRef-item911320
+FileChecksum: SHA1: 2064db51d3d9f11330d998313ae389b1d4e8c283
+FileChecksum: MD5: d188cdc8a399c34eebd43d9282fb44d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_DNAT.c
+SPDXID: SPDXRef-item911329
+FileChecksum: SHA1: c75773bec48723dad65e9478242d645d8a212c4e
+FileChecksum: MD5: 0677ee4c6eb9b2e60f936ad52b5d162c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libebt_limit.c
+SPDXID: SPDXRef-item911338
+FileChecksum: SHA1: e44d43ee508e5b7dfa2285c907dcb924fa455f38
+FileChecksum: MD5: 9d8841b880e9671049e1456d4f47fd9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_set.c
+SPDXID: SPDXRef-item911342
+FileChecksum: SHA1: 1c6e9efe88e82627440609351fd0f5dac75911c5
+FileChecksum: MD5: 399fda027929e51c50a6853a25938152
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_string.man
+SPDXID: SPDXRef-item911346
+FileChecksum: SHA1: 82ae03cb5863cf485127b02638eda24a24a20fca
+FileChecksum: MD5: b486bde8712e85a8a4e9ac34cf499488
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_REJECT.c
+SPDXID: SPDXRef-item911351
+FileChecksum: SHA1: 1d1027ca2289133a018fd1ce41d77663ed6965e0
+FileChecksum: MD5: 78fb15f6980e797aff8c9052042909c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_IDLETIMER.c
+SPDXID: SPDXRef-item911355
+FileChecksum: SHA1: dc3a49d9e17fa97d711f2c2490ca42400e35d801
+FileChecksum: MD5: a49e1e35b16b6fe0e9b58a5a848c9cbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_SET.c
+SPDXID: SPDXRef-item911360
+FileChecksum: SHA1: 12c24bb3b8aa1e7892ce99a9b94a1d02ae78e841
+FileChecksum: MD5: 1064c8bf0bc96cd70882affbeb945600
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_addrtype.man
+SPDXID: SPDXRef-item911364
+FileChecksum: SHA1: 02d429c2402c0e8b770571e3e5cbd490c82d780c
+FileChecksum: MD5: 19720c92ad9bc09aab429d0c57534e1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libebt_mark.c
+SPDXID: SPDXRef-item911369
+FileChecksum: SHA1: e17a4610c84d17db0427f0f7c7af98209cc64c9f
+FileChecksum: MD5: 1cd15eebed4d1d2c4246922db6901965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_time.c
+SPDXID: SPDXRef-item911375
+FileChecksum: SHA1: 664dbe0b81a0aba02daa84f535db33ffbd97472c
+FileChecksum: MD5: 246ba7e527952e81ac5cfa38150aa252
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_icmp.man
+SPDXID: SPDXRef-item911378
+FileChecksum: SHA1: 28a89860e29a241296721fd3b00b5922cfd364b4
+FileChecksum: MD5: 92aac49ff93e41c2809a130faf570e3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TPROXY.c
+SPDXID: SPDXRef-item911383
+FileChecksum: SHA1: aa40ba37d23b165b51fc45d1c56f2fcdadc613f9
+FileChecksum: MD5: 3edca1b42db8e906c7c44da0d96f1681
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_LOG.man
+SPDXID: SPDXRef-item911387
+FileChecksum: SHA1: 8ae767d67a36a16460b498893acdda8f16e5d540
+FileChecksum: MD5: 7b1e86f5d9cd10d3e7d35e514dc4726a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_SYNPROXY.c
+SPDXID: SPDXRef-item911392
+FileChecksum: SHA1: 4d610ff1461d1b196d457bf0f1dd04962127dd91
+FileChecksum: MD5: 8a2ed4b64397b3111a4ba8b1ed2ca1ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_helper.man
+SPDXID: SPDXRef-item911395
+FileChecksum: SHA1: 263356f9fb213296091787edb5116be195a490ca
+FileChecksum: MD5: ad5a5558de468e2f1efd12540efe3c39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_DSCP.c
+SPDXID: SPDXRef-item911400
+FileChecksum: SHA1: d34488b38c8d8e07423344602a96ce2f33054dd6
+FileChecksum: MD5: 3207243ae599bfbc2fae0bfa7a0254f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_MARK.c
+SPDXID: SPDXRef-item911408
+FileChecksum: SHA1: fed4ba7bc3eaa23af5c0dbb0f950139bc227c1e8
+FileChecksum: MD5: 6497da6b2045b1708316bf979f110a52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_DNPT.c
+SPDXID: SPDXRef-item911413
+FileChecksum: SHA1: 6e09a2ae97ca489c7469d8c1c4341733d5536fea
+FileChecksum: MD5: 803bb628bc9db5a6d43a925c014f0f7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_frag.man
+SPDXID: SPDXRef-item911416
+FileChecksum: SHA1: 089232a8cf782d0ec033a75e8fe77dd60979852d
+FileChecksum: MD5: bea766d32f54e59e64942e2c11b49a53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_statistic.man
+SPDXID: SPDXRef-item911420
+FileChecksum: SHA1: d0968f10b0fd03a498781ae3719ba37e259dc50d
+FileChecksum: MD5: 0606d2cba65b11dba9aff64a43ad882b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_CLUSTERIP.man
+SPDXID: SPDXRef-item911424
+FileChecksum: SHA1: b4155eaef7a7d492e8d5300db79f91ce492c048c
+FileChecksum: MD5: b771d632d2e6cc5c40e891f5a6fa56e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_policy.c
+SPDXID: SPDXRef-item911430
+FileChecksum: SHA1: 9106062def9f5543094eeebeaebcde1ef6080f36
+FileChecksum: MD5: 3faac405452b7f4232e318dd53f1bd5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_string.c
+SPDXID: SPDXRef-item911438
+FileChecksum: SHA1: fdecf89311798497580137c9578b5b68bda2907d
+FileChecksum: MD5: 14fd32c427c590a6a61f9b65a64e3498
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TCPOPTSTRIP.c
+SPDXID: SPDXRef-item911446
+FileChecksum: SHA1: bea23a7ffd89056306a7b63d38cd293d67ee3724
+FileChecksum: MD5: c9fbf8903565b79bd9b174eec81444a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_ah.man
+SPDXID: SPDXRef-item911449
+FileChecksum: SHA1: a2ab2a8d69d7f3cf64d2d6a40a48734c3a37f21d
+FileChecksum: MD5: 74de17e14393eaa8d1f9638cca4a567d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_rpfilter.man
+SPDXID: SPDXRef-item911454
+FileChecksum: SHA1: 448d8ee9df8711a15bd7a8ca37d051211f2937a4
+FileChecksum: MD5: c3b402b3608d5e5f319e50ecda403378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_hl.man
+SPDXID: SPDXRef-item911458
+FileChecksum: SHA1: f44cab258bdc21b80a564bb8f095fd0a204b9cdb
+FileChecksum: MD5: 6f7cf487c248138262b29488756f5711
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_LED.man
+SPDXID: SPDXRef-item911462
+FileChecksum: SHA1: af7562e25f44ea22420d04671fe41c02fc33bf76
+FileChecksum: MD5: f11a92528e50d432399675bad203d1d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_sctp.c
+SPDXID: SPDXRef-item911470
+FileChecksum: SHA1: b0dab67f31c26d286d8fd2c11ff1a53e350f3ea1
+FileChecksum: MD5: 3394036daa209368abf97fcf5cf2abae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CONNSECMARK.c
+SPDXID: SPDXRef-item911476
+FileChecksum: SHA1: b6ab3a108e96e334be85f62b4f7fa1b796ef16e5
+FileChecksum: MD5: 653dc443490cf873adc46d4a67efa946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_sctp.man
+SPDXID: SPDXRef-item911480
+FileChecksum: SHA1: ec0246a27f9fb8a60e4bb255e6726f373ef5a448
+FileChecksum: MD5: 2da44d60c9dbb5e2ed2cf9d5c18901b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_conntrack.man
+SPDXID: SPDXRef-item911485
+FileChecksum: SHA1: e381406659f08c3b3ec3433821f5c2baa619dd3e
+FileChecksum: MD5: 7aa417cdf266c391320d247a0fd24018
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_iprange.c
+SPDXID: SPDXRef-item911491
+FileChecksum: SHA1: 8b0003b6aeacdac8519d9e5af7c11162765091ac
+FileChecksum: MD5: 7c6a6283d38e1eddee1dc34f74fc421a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_policy.man
+SPDXID: SPDXRef-item911496
+FileChecksum: SHA1: 1423d6c3b96e57ab18917825a8262332cb27b4af
+FileChecksum: MD5: c993e91c05de2642af99397401c2ca97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_length.man
+SPDXID: SPDXRef-item911502
+FileChecksum: SHA1: f943bec18d9006b35d3ae79b6394b79af9586ad6
+FileChecksum: MD5: a17bf0d78ce93578379df15900b0e2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_realm.c
+SPDXID: SPDXRef-item911506
+FileChecksum: SHA1: 8508300debe6644cb1950d27342f0db4364f3e1c
+FileChecksum: MD5: a336f0d1ae614f485546479d17a75947
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_rt.man
+SPDXID: SPDXRef-item911509
+FileChecksum: SHA1: 929a4a6132b0924ac235bfd64b489d4dd6c4d8db
+FileChecksum: MD5: 06be0283e7673aae4364c4dba1400324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_ttl.man
+SPDXID: SPDXRef-item911513
+FileChecksum: SHA1: 126309205158e6e221447b89adc49dce2edcfadd
+FileChecksum: MD5: a0776419db511f3df8254da7d3e669ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_cpu.man
+SPDXID: SPDXRef-item911516
+FileChecksum: SHA1: 3fb1a6dd7c7d572f08a9ef617277a92d2365679c
+FileChecksum: MD5: dcb5ddce5a8fa5eaeea4f51b67c1b3fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_icmp.c
+SPDXID: SPDXRef-item911522
+FileChecksum: SHA1: 33d0a192e8d4373814610f5dfc79d0e0d864c78d
+FileChecksum: MD5: 491638f1236d4ad851052c03067c8f19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_SNPT.man
+SPDXID: SPDXRef-item911526
+FileChecksum: SHA1: 4a2fbefc159e0838848910ae7be4cc83cdc89e6d
+FileChecksum: MD5: 051f73c5f4e4e45915b5f2079fe9ad2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_REJECT.man
+SPDXID: SPDXRef-item911529
+FileChecksum: SHA1: 6353838ea677363013d546a55bd9b6d54d527e14
+FileChecksum: MD5: 1d41c979c7d9598cd68fa401fe353bda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/GNUmakefile.in
+SPDXID: SPDXRef-item911535
+FileChecksum: SHA1: 69bd0c31a97b3b4f672c13b6509ec5bf2e6be1fa
+FileChecksum: MD5: adeacaf839643eae891daafced9ade9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_esp.man
+SPDXID: SPDXRef-item911538
+FileChecksum: SHA1: 2fd2601e5403a942a3f0379d0fb028c68c56d1bb
+FileChecksum: MD5: c7f163a229ded2a9bed1cdb74812cda1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_DNAT.man
+SPDXID: SPDXRef-item911542
+FileChecksum: SHA1: 39ac57ab2d92790b6ec32dfed6b11df8473e03d8
+FileChecksum: MD5: dae35cb594949045d93c006e9f96a91b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_rt.c
+SPDXID: SPDXRef-item911548
+FileChecksum: SHA1: 9d703ea4efc075c4da25e1e821607aa6d8dc3854
+FileChecksum: MD5: f4a7c46fc358a0af3d183d09c2c8ec13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CONNSECMARK.man
+SPDXID: SPDXRef-item911551
+FileChecksum: SHA1: c2ec2120cd93b6827594b180cb22818c3d37a8dd
+FileChecksum: MD5: dca5638119f16cf954e9941560951b33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_time.man
+SPDXID: SPDXRef-item911557
+FileChecksum: SHA1: 6fd82dfe19c15c1b73cbc6f240738916b07bb42e
+FileChecksum: MD5: 7e029155c4aad3d3e2494f3a047067da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_tcp.c
+SPDXID: SPDXRef-item911564
+FileChecksum: SHA1: d57cb92b984e777c870b79d41ab95529e8dad7ef
+FileChecksum: MD5: 1e37f6dac4206cff5693f5514edc00dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_dscp.man
+SPDXID: SPDXRef-item911567
+FileChecksum: SHA1: ebabb2ef97b6c4bfa8e3ba669d665765ed7bd71c
+FileChecksum: MD5: b9edd147f455e57db08fda9b95379859
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_DNPT.man
+SPDXID: SPDXRef-item911571
+FileChecksum: SHA1: f08d4d2519479fa2905cb2cd3c13f828e4bb5d64
+FileChecksum: MD5: 93e376289ceee4a4902c8b8dd63b3988
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_conntrack.c
+SPDXID: SPDXRef-item911581
+FileChecksum: SHA1: 7e3cfc92151b79cc7739bbe233cd9d310c6ccd9e
+FileChecksum: MD5: a9deaa11effdfb433480da314820ed69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_recent.man
+SPDXID: SPDXRef-item911586
+FileChecksum: SHA1: 3d09f1c1fb79812f60808790ad8fd6a62ca4868e
+FileChecksum: MD5: 04357a175a2d6f8cd89dc655d5509596
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_length.c
+SPDXID: SPDXRef-item911591
+FileChecksum: SHA1: 8ff7f515cb4518daa97411120e03e9088106bd7c
+FileChecksum: MD5: 8a47293fd241d51270551e8333d378b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_hashlimit.c
+SPDXID: SPDXRef-item911597
+FileChecksum: SHA1: 4a3cd817cac05559489d39e581d9769fdd566f45
+FileChecksum: MD5: 58af76ddc516e75189c2e85dd39673d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_multiport.man
+SPDXID: SPDXRef-item911601
+FileChecksum: SHA1: 1da80a8a1acb00e6f472b5c801f32b9da0c726ea
+FileChecksum: MD5: e6b01c100e7d008b761990806acb28b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_tcpmss.man
+SPDXID: SPDXRef-item911604
+FileChecksum: SHA1: 3bdb25cb8e7b381442ef93606fffc64ec265f9f5
+FileChecksum: MD5: 23db87db48f2272accb2b35df3e6f4f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_udp.man
+SPDXID: SPDXRef-item911608
+FileChecksum: SHA1: bbbf78bd91827cbfb32a02ff7fdbbdbcecede998
+FileChecksum: MD5: a1b72d652d6f50256988794b3c492a2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_connlabel.man
+SPDXID: SPDXRef-item911612
+FileChecksum: SHA1: e50af1307aab59a12d809643e6b4cae7313e8c9a
+FileChecksum: MD5: aca5cd9474e4ac4834d9bf819ed9735b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_SYNPROXY.man
+SPDXID: SPDXRef-item911617
+FileChecksum: SHA1: 6d79247d57f64ac4919478ebb109f101d1642269
+FileChecksum: MD5: 74194b4653d92661b8cafc94e1572201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_TTL.c
+SPDXID: SPDXRef-item911623
+FileChecksum: SHA1: 578f28aa134e665ae4953365cefd9d1d1dee9583
+FileChecksum: MD5: 15ef5c4a95910dad0c061552d0a5719e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_HL.man
+SPDXID: SPDXRef-item911627
+FileChecksum: SHA1: 3114a954ef7cc54eadc7ae0e24ffce6819e02c2c
+FileChecksum: MD5: b3b9ab38f401adbce5d0ec5cb7c23965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_NETMAP.man
+SPDXID: SPDXRef-item911631
+FileChecksum: SHA1: 8fb0080ee2484767a45f58f5c4c4e509a2fffa8a
+FileChecksum: MD5: 3c69570633d81aa89c594ec319752e3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_LOG.c
+SPDXID: SPDXRef-item911637
+FileChecksum: SHA1: c88bb91ceeadb40e50a7274cbfa04131623335c0
+FileChecksum: MD5: 284e245d7fe8af1d0911d310beac74b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_nfacct.c
+SPDXID: SPDXRef-item911642
+FileChecksum: SHA1: f0a0587e4daaf3b2e101718f00cc71252ccb3d23
+FileChecksum: MD5: 196c73b6c9d40f7fb647330ab508b8b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_tos.c
+SPDXID: SPDXRef-item911648
+FileChecksum: SHA1: 9a2e8744931a8aa6c9d98ddeea609c350dd7544b
+FileChecksum: MD5: 2ff4add081e0f5b1a4e3a534e25c4751
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_MASQUERADE.man
+SPDXID: SPDXRef-item911651
+FileChecksum: SHA1: f71d2f6a5c47a76c9546016d6a997fb3f8189a55
+FileChecksum: MD5: 65847a87c51265f5d026f4906cd692e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_frag.c
+SPDXID: SPDXRef-item911656
+FileChecksum: SHA1: 6660d7d9fb0ed9384d7a72cf555f9a7b1ca41f6f
+FileChecksum: MD5: 07bef2ace86515eac5cf585b4189776f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_hbh.c
+SPDXID: SPDXRef-item911662
+FileChecksum: SHA1: 20108e9d8b857f089925f0a21f4802ffb91dcd6a
+FileChecksum: MD5: 87fa407b913c3716eb34cbf7f1278507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_NFQUEUE.man
+SPDXID: SPDXRef-item911666
+FileChecksum: SHA1: be4c56811f5e8788c27dacb912b30a50f29bed29
+FileChecksum: MD5: 81fa44f03deda8dd9fc67cf6bcd10fda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_cluster.c
+SPDXID: SPDXRef-item911671
+FileChecksum: SHA1: db92edb196da31f7a28d8bf68a3110e13d0cad4b
+FileChecksum: MD5: ba8a72628e93e11589b3175b71d3a53b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libebt_802_3.c
+SPDXID: SPDXRef-item911676
+FileChecksum: SHA1: 8209b288d68a4a3b01f2152e74c0e0c3abab1303
+FileChecksum: MD5: adbd725fbd044b965dd6903d57071b8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_mac.man
+SPDXID: SPDXRef-item911680
+FileChecksum: SHA1: 66a14517255351decb0d4df406056b5e4efd78b5
+FileChecksum: MD5: 86a2fb12b3912dde484416390182a1dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_dscp.c
+SPDXID: SPDXRef-item911685
+FileChecksum: SHA1: c33a45f87ecabc70e7ca7d78b1626e06985fc038
+FileChecksum: MD5: 4e01a13776f681a77a679e89a3f11185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_socket.c
+SPDXID: SPDXRef-item911691
+FileChecksum: SHA1: 5b0b5e07af0120b63202e2b0bfbb35686cd9a208
+FileChecksum: MD5: 31613569c4fb82dad9e8ca41001ecbe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_mark.c
+SPDXID: SPDXRef-item911697
+FileChecksum: SHA1: 786d997093a3416b277ace76e5462e178e331f53
+FileChecksum: MD5: 6355a11a849e7a25405adce060d9f5bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_RATEEST.man
+SPDXID: SPDXRef-item911701
+FileChecksum: SHA1: f1980d173f263187ea4229159cfe8a0f700327e4
+FileChecksum: MD5: 4bacf42e1dd2f0692d9d201368c0b930
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_ecn.c
+SPDXID: SPDXRef-item911707
+FileChecksum: SHA1: c3f018ef988abdda613eb4ba81e7de528d5e3683
+FileChecksum: MD5: 9698e5ae0a58aaaf6b9752a88a5cfdaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_helper.c
+SPDXID: SPDXRef-item911711
+FileChecksum: SHA1: 7e03a8708cb49f8efbccdeccd1c04120f128e200
+FileChecksum: MD5: 01a7f3ff150da54c4c8eb2f6940f9ed7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_DSCP.man
+SPDXID: SPDXRef-item911715
+FileChecksum: SHA1: d9aa13f757599c30d900f9c3467af797e784e0ca
+FileChecksum: MD5: f276a96e2fe6ee2b547483c33103b369
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_cpu.c
+SPDXID: SPDXRef-item911721
+FileChecksum: SHA1: 3b5f1e5558b06344654b03c8a700be13ec5da6b3
+FileChecksum: MD5: ba5ba5cbba831483bc0eadb61a67e1c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_NETMAP.c
+SPDXID: SPDXRef-item911726
+FileChecksum: SHA1: dd5bf542f6b865d7dbe375ef0d3497d1bdb57690
+FileChecksum: MD5: 6990f3bed0c3ff1701d5fc6fbc24f8fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CT.man
+SPDXID: SPDXRef-item911731
+FileChecksum: SHA1: aae2b7fd30aff8145d8dd32d79e4a2a5a920b4b0
+FileChecksum: MD5: 475a7a517065b8393fb205c21f837d00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_AUDIT.c
+SPDXID: SPDXRef-item911736
+FileChecksum: SHA1: 7692e469a288c8038840c7cb4dc393267b4cbef7
+FileChecksum: MD5: 99f5e4dedf83f848c1b37194a2e7004d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_RATEEST.c
+SPDXID: SPDXRef-item911742
+FileChecksum: SHA1: 665d78e62f3f9e054164eda2b66337d17c8336d1
+FileChecksum: MD5: faaaa9ea4155e04ccfaea58bc6e84b5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_owner.c
+SPDXID: SPDXRef-item911749
+FileChecksum: SHA1: 730282edd160ac455db8933e3439d8d24ff7e752
+FileChecksum: MD5: e40de0e152f1a8ede375d36aaa5411bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_ECN.man
+SPDXID: SPDXRef-item911753
+FileChecksum: SHA1: 075094e37c175e419fde31c48ffa6518f7b565e6
+FileChecksum: MD5: acfc4f3087229417a9830de0e7757e4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_connbytes.man
+SPDXID: SPDXRef-item911758
+FileChecksum: SHA1: 2a0ee19e28aa7f3def9fa0f9c542613f8aff323d
+FileChecksum: MD5: d78ef5f68e669699e9daa5f89318a33b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_CLUSTERIP.c
+SPDXID: SPDXRef-item911764
+FileChecksum: SHA1: fa222d05c8237a8d1d05306505d6aa15abf84f9e
+FileChecksum: MD5: 9389df4537691583b254a6c429e4c6c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_CHECKSUM.man
+SPDXID: SPDXRef-item911768
+FileChecksum: SHA1: 36d555788f297d817a19645a4f04ee99091d90c4
+FileChecksum: MD5: c8c936b705aeecc1ac2951b780445852
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libebt_mark_m.c
+SPDXID: SPDXRef-item911773
+FileChecksum: SHA1: 1bc77d1c22d5a69b87bee568b2c8a5b0664be87e
+FileChecksum: MD5: d43efe2e2c5f7452e1121a4f5e3f494e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_set.man
+SPDXID: SPDXRef-item911778
+FileChecksum: SHA1: bdd854ddfe3cd25d7e71bf52eeb597e39f6a5818
+FileChecksum: MD5: d771fe8edfc8d647a6a43425f7b0b3cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_HL.c
+SPDXID: SPDXRef-item911784
+FileChecksum: SHA1: c766d8acdb1f40ec2054b98e615e114ea7c06871
+FileChecksum: MD5: d794c41cebf9b795736490d975b5d1e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_TCPMSS.man
+SPDXID: SPDXRef-item911788
+FileChecksum: SHA1: 636161c37ce77a9a367d010ff4275db549e49a99
+FileChecksum: MD5: 18d57cc69bb5b72686e5e71cf081c3cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_comment.man
+SPDXID: SPDXRef-item911792
+FileChecksum: SHA1: 380bdbc6a3ac5801c182fb98f44d22b9a74ac538
+FileChecksum: MD5: 852d527a8e92acb2299cbae948380031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_ipv6header.c
+SPDXID: SPDXRef-item911798
+FileChecksum: SHA1: 0c88e694014aa156417b920b078da9abe828bcd3
+FileChecksum: MD5: 7e78a8cca57b4f4e318311441a8bcf59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_addrtype.c
+SPDXID: SPDXRef-item911804
+FileChecksum: SHA1: b13058f18a78bf36c18ba8efc12ae923ba1efab3
+FileChecksum: MD5: 8152780f934c751ba848cae5a4902b19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_standard.c
+SPDXID: SPDXRef-item911808
+FileChecksum: SHA1: bd597c54ac7f1a15176723e56f68c42513a5a5d7
+FileChecksum: MD5: e9a79dc8fe85a1f1d16c4339d3b71dfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_cluster.man
+SPDXID: SPDXRef-item911812
+FileChecksum: SHA1: dbb4707f7e6ee8a8253be1ca457e9f5ef26ced10
+FileChecksum: MD5: e93ffd0f929c399e3cb1e52681e6de30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_dst.c
+SPDXID: SPDXRef-item911819
+FileChecksum: SHA1: 7b4ed766afc6c0ff14c86dbd5723075183dd51c2
+FileChecksum: MD5: 86edf72fdacc46078ea0048cecfe0fb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libip6t_ipv6header.man
+SPDXID: SPDXRef-item911823
+FileChecksum: SHA1: 173c5a4e45fe61209b71f72dd5bc5500cad7076d
+FileChecksum: MD5: 17afa685678c2da901b0d78cc974905b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libipt_ah.man
+SPDXID: SPDXRef-item911826
+FileChecksum: SHA1: d7bcbf24153417f01d8236f5972211aa0ecef979
+FileChecksum: MD5: ec95bcd1995b1c666910a7e86a3b2b44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_dccp.c
+SPDXID: SPDXRef-item911832
+FileChecksum: SHA1: e0a76e32acd6e4fbfb2f3927f8acfa9480d14917
+FileChecksum: MD5: 451f6e83c363cb2d9c2e3df947157ab3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/extensions/libxt_hashlimit.man
+SPDXID: SPDXRef-item911836
+FileChecksum: SHA1: c6cfcc5e17b21a75b1a7c97dfa284415ab36c02b
+FileChecksum: MD5: 1a52cf5128a1587cf2c7bffd193e81ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/patches/series
+SPDXID: SPDXRef-item911855
+FileChecksum: SHA1: 9ed77b6d0d455aaf04d8faa1d7603738b10ccb51
+FileChecksum: MD5: 7ee987e4016f7815e859e665bb11e217
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/autogen.sh
+SPDXID: SPDXRef-item911864
+FileChecksum: SHA1: ce5c6600e9be1875974b3db785dc6954ea2b967e
+FileChecksum: MD5: 0f8a58beb46f5d8ee01839a3b75b29bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/iptables/internal.h.in
+SPDXID: SPDXRef-item911873
+FileChecksum: SHA1: 18b84ce8cd79c2d5386bf1f5ccd5171316478231
+FileChecksum: MD5: 164fafed936d6d7ae17229bbf57d02ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/ebtables/ethernetdb.h
+SPDXID: SPDXRef-item911881
+FileChecksum: SHA1: c3988735c7bc906b6dccd670b2a2ef32b2c094e8
+FileChecksum: MD5: 35173cad16a18bbe2025f4686326a305
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/iptables.h
+SPDXID: SPDXRef-item911887
+FileChecksum: SHA1: 1e4ea09eaf70829ee67b2fd9087e14009dae47a8
+FileChecksum: MD5: c6bc0a05668932f75a11a031d33c37d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/Makefile.in
+SPDXID: SPDXRef-item911895
+FileChecksum: SHA1: 36955f177d4ec5d4ece522b45af4c635ccab4ace
+FileChecksum: MD5: e98c88dc5b5de2251149cd4c5b30ba5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/ip6tables.h
+SPDXID: SPDXRef-item911899
+FileChecksum: SHA1: 75fe69a99f687e891ff1c7b5b18ca55443861b88
+FileChecksum: MD5: 91411f9aeb0d8a29b8dc845295299461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/libipulog/libipulog.h
+SPDXID: SPDXRef-item911904
+FileChecksum: SHA1: c9ac05d050f257ebe8c5518f4945221e010409d6
+FileChecksum: MD5: 530a26473271cbcc61836e810da1ba2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/Makefile.am
+SPDXID: SPDXRef-item911912
+FileChecksum: SHA1: 9084c9d0796127a0ef95d224368db9a83d3e4003
+FileChecksum: MD5: 0186bf7c5c5a7772d0e2a1c99fe276b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/xtables-version.h.in
+SPDXID: SPDXRef-item911917
+FileChecksum: SHA1: 0ea163bacd9bfd1bbc491109dbad398fa0c9ee6b
+FileChecksum: MD5: 9e33188276557b9d41a9e52aa8c15479
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/libipq/libipq.h
+SPDXID: SPDXRef-item911923
+FileChecksum: SHA1: 661186f5a62dae398f981f845d37a5359d88e11e
+FileChecksum: MD5: 26809ee0531cfcf0686c28ea8b0dccc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/libiptc/xtcshared.h
+SPDXID: SPDXRef-item911932
+FileChecksum: SHA1: ea4b98dee67313346be868e9c6b5b4336722b070
+FileChecksum: MD5: 6f23fc7fa2a4d9083cfcc9ee6b61c4fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/libiptc/libip6tc.h
+SPDXID: SPDXRef-item911937
+FileChecksum: SHA1: fbd9fcfdcf20ee1a681394d4200bfdfb4ed8b7d4
+FileChecksum: MD5: 4460c1a3a99887e14bacdc51eeb4519d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/libiptc/libxtc.h
+SPDXID: SPDXRef-item911940
+FileChecksum: SHA1: 786d65dab0cfdc5bd16e4dd2009e9b62c4526f21
+FileChecksum: MD5: 47751e16c3235c55fd343ecdfdfacc2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/libiptc/ipt_kernel_headers.h
+SPDXID: SPDXRef-item911943
+FileChecksum: SHA1: dccc7c045d8384596b5a07850f7b0a4702f39dc6
+FileChecksum: MD5: d1e5210820da83da09adc923c208a106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/libiptc/libiptc.h
+SPDXID: SPDXRef-item911949
+FileChecksum: SHA1: 83f7f26b662dde6bfcbb10c81badebb5926742f5
+FileChecksum: MD5: 0bd11ad9323794753b5766663f872a48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/xtables.h
+SPDXID: SPDXRef-item911959
+FileChecksum: SHA1: 850f2a11635d2e70bbbe8dc92c43c796c5904395
+FileChecksum: MD5: 99fc9b74e15ba82c968f2bece9cbfb4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_ECN.h
+SPDXID: SPDXRef-item911966
+FileChecksum: SHA1: aab0751160454fbf95063d3cf4e5f805861cb332
+FileChecksum: MD5: 0332e098bdfdd0429f63106bee962285
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_realm.h
+SPDXID: SPDXRef-item911969
+FileChecksum: SHA1: 102902694357841cf18114cd6b04bba2137e7a9f
+FileChecksum: MD5: f63a48f0e02f2ac7c57416247428d606
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_ah.h
+SPDXID: SPDXRef-item911973
+FileChecksum: SHA1: e63b0030af6835cec200db74a8f7f2aade50e56e
+FileChecksum: MD5: c9530b3f52d2cf620dc9b31950bf6619
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_LOG.h
+SPDXID: SPDXRef-item911978
+FileChecksum: SHA1: d87fcfffbd0afb2a16261de17cce0f3a809c2471
+FileChecksum: MD5: e227c8628c4545cf23205765f24ac41a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_ULOG.h
+SPDXID: SPDXRef-item911983
+FileChecksum: SHA1: 19913e9d49dbe2bd6d2f8bed9aaf3f8c627d0b4e
+FileChecksum: MD5: 06849aacae2f582ecf378b60a5d1d312
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ip_tables.h
+SPDXID: SPDXRef-item911989
+FileChecksum: SHA1: 68241cc4ecbe3072c79a3a579a42083ee1593560
+FileChecksum: MD5: f58e68795413bbdaeab484aa2fff0c36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_ttl.h
+SPDXID: SPDXRef-item911993
+FileChecksum: SHA1: cb911fc9366975bbb68a16c91af6ee63ea2d730a
+FileChecksum: MD5: fd71d63947c8c37ac6d6d2a2904e93be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ip_queue.h
+SPDXID: SPDXRef-item911998
+FileChecksum: SHA1: 049583c0d5be0d2e02f43ac7048e5140d4c933e5
+FileChecksum: MD5: a80aead7dbafc2a5aad2e60465e3c7d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_CLUSTERIP.h
+SPDXID: SPDXRef-item912002
+FileChecksum: SHA1: 109ff00738a0903555a035e344ecfba777956f28
+FileChecksum: MD5: 96a1113f4ce64a07d44e0acdba0fb652
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_addrtype.h
+SPDXID: SPDXRef-item912006
+FileChecksum: SHA1: a08b6a3413c09303f59f85a33ab8149245e74300
+FileChecksum: MD5: a7f64e2ad5eb86aafd8b14e69f130a2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_REJECT.h
+SPDXID: SPDXRef-item912010
+FileChecksum: SHA1: 712aecc6a79f80ae903a81ddb9f9b5bb2bc8e24e
+FileChecksum: MD5: 87a62fad08564fcf8ddea591e79e7754
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4/ipt_TTL.h
+SPDXID: SPDXRef-item912014
+FileChecksum: SHA1: 355361fdaef8d3c07334e89250b169f7f8ce3ed3
+FileChecksum: MD5: 410a60bf3d3364f50fb5d7643b74f282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6.h
+SPDXID: SPDXRef-item912021
+FileChecksum: SHA1: fd7493dc6135ad027daebf3c7145cf77ab913ed5
+FileChecksum: MD5: 120a3fd2c86d33c84f27a923f357d887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter.h
+SPDXID: SPDXRef-item912025
+FileChecksum: SHA1: 972c2e319aa751ea146abf8a9b9d89dca0bb2eab
+FileChecksum: MD5: c3b2718a918e05f307f53d969b502e61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/nf_tables_compat.h
+SPDXID: SPDXRef-item912032
+FileChecksum: SHA1: c5837a1f49b48c3d6f3eddd3f9595ae096b3e21e
+FileChecksum: MD5: b8c9e86dc19d261ff393169ae006c994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_NFLOG.h
+SPDXID: SPDXRef-item912035
+FileChecksum: SHA1: 0fb5e83ad9de9e56db1edb57d95b3406acf2a311
+FileChecksum: MD5: 8bdbe43ee5bf3503fa9f8880ef93c9ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_rateest.h
+SPDXID: SPDXRef-item912039
+FileChecksum: SHA1: 8aeaafd9b40b091a10c32801b91de13d244163cf
+FileChecksum: MD5: f4d17bffc4f0e9af83c679a231683444
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_cluster.h
+SPDXID: SPDXRef-item912044
+FileChecksum: SHA1: c8657d014ba9f8a645eb4a912dbc806653422716
+FileChecksum: MD5: e78f2e0ae09a20d7a36dc82363b0e0e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_pkttype.h
+SPDXID: SPDXRef-item912048
+FileChecksum: SHA1: 71594a4bab513d4cc2db109557630c0133b86f80
+FileChecksum: MD5: e0dd58666f503de3d78f260323df1b6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_connlimit.h
+SPDXID: SPDXRef-item912052
+FileChecksum: SHA1: 2a2ff4b16403b5ad5453a9f40902af24545f3210
+FileChecksum: MD5: cc5e1acf20d9c0f53a5f5818d9eb651c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_ipvs.h
+SPDXID: SPDXRef-item912056
+FileChecksum: SHA1: 9d5d405592f8e4c81133436cefcf183e7b41f94c
+FileChecksum: MD5: 873d261d4ed81a45811f9e125eb639c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_DSCP.h
+SPDXID: SPDXRef-item912060
+FileChecksum: SHA1: afcaeae68e126c63452fb5b2572cb0ac53b06f15
+FileChecksum: MD5: 4bb181f75cae83344f3d0a58e14f3289
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_TPROXY.h
+SPDXID: SPDXRef-item912063
+FileChecksum: SHA1: dcfa60132d2abf2d2a86571991dd4e959e76566f
+FileChecksum: MD5: dbf327bfac16600e689d584ee5f4bf08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_state.h
+SPDXID: SPDXRef-item912068
+FileChecksum: SHA1: d240205479788d28cb7eec3adfc487fc2f07e388
+FileChecksum: MD5: 315836fe004743fa3250ae1caf4890ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_tcpudp.h
+SPDXID: SPDXRef-item912071
+FileChecksum: SHA1: b996dc74a90c61f42b16987eb70bf9583fe20c9b
+FileChecksum: MD5: e5729e2698f18a08be9e464c2d54ee17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_TCPOPTSTRIP.h
+SPDXID: SPDXRef-item912075
+FileChecksum: SHA1: 77d6529ed914ae903fe639000af65b1a5ed7bd8b
+FileChecksum: MD5: 45e9bf15edf344c6c8e739f0ae6e4398
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_iprange.h
+SPDXID: SPDXRef-item912079
+FileChecksum: SHA1: bb5e878cb5c58ab1417c45d9fb083e2f2ee43e50
+FileChecksum: MD5: 7b43982dc28b12dbf94ed71f9a3b722c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_esp.h
+SPDXID: SPDXRef-item912083
+FileChecksum: SHA1: ee68aa2ca227a940356ad235c3192b2fd9a122a3
+FileChecksum: MD5: 5c2a4bef7afa8fb9852fde0b786c4136
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/nf_nat.h
+SPDXID: SPDXRef-item912087
+FileChecksum: SHA1: 87a942f513fbeab83ec670aef825b90247b769bb
+FileChecksum: MD5: 21808709501b051c1e362a6669c83a75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_mac.h
+SPDXID: SPDXRef-item912091
+FileChecksum: SHA1: 6bfe7fa94b5c4e1573a6483e07f3cb64d49da588
+FileChecksum: MD5: 5e0dac49dbd6ab86669030526632d04d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_time.h
+SPDXID: SPDXRef-item912095
+FileChecksum: SHA1: 6409cbf7b4641c0401a344c3d3955f2dcf5f383e
+FileChecksum: MD5: d3e2ed92ad5883f2789390214a369caa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_set.h
+SPDXID: SPDXRef-item912099
+FileChecksum: SHA1: 99dedc731ebdada20dc6f7d156424e0019f6341e
+FileChecksum: MD5: d863b501a0891b26e37fa7a162fadf19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_nfacct.h
+SPDXID: SPDXRef-item912103
+FileChecksum: SHA1: 50f8aa2a9fb1732b0fc0ceaeb6b08e7c653b136f
+FileChecksum: MD5: 04c23595fc3ba872bd8912751e3040e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_connbytes.h
+SPDXID: SPDXRef-item912107
+FileChecksum: SHA1: 9ba7fa01df145ad39ca99c3eaaedeb4de1851e38
+FileChecksum: MD5: 0417be9c901a1708a5814229b154accc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_conntrack.h
+SPDXID: SPDXRef-item912112
+FileChecksum: SHA1: f5864a3fcee320449502ce9601388ffd6776c1a8
+FileChecksum: MD5: 973ce58e927372b2478c877ff9078bbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_dscp.h
+SPDXID: SPDXRef-item912115
+FileChecksum: SHA1: 9afe58ce424c9ff425734bade11640f387d42235
+FileChecksum: MD5: d7a5f5a01a284e6f360f622dab7b3f27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_tcpmss.h
+SPDXID: SPDXRef-item912119
+FileChecksum: SHA1: c4ff5ce61c35b98442fb8b70a8642f0d1d7174b5
+FileChecksum: MD5: 2bc4c58f3282b60a5edc12a7e602bd52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_physdev.h
+SPDXID: SPDXRef-item912126
+FileChecksum: SHA1: 52ee89abadbeeb17a42699e0f2e354d0b1b46fe4
+FileChecksum: MD5: 5485d5ec5294d3cb7a2d0bf17a3204b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_ipcomp.h
+SPDXID: SPDXRef-item912130
+FileChecksum: SHA1: ef7dcaaaa5cfa38a3b44aaffb6404b6c4f970712
+FileChecksum: MD5: 2fe8642a66852f05b2af8cb18e842762
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_CONNMARK.h
+SPDXID: SPDXRef-item912134
+FileChecksum: SHA1: 45df4cfef7c6227b5d125b9eaaa2440e4fe863c8
+FileChecksum: MD5: 46392115053f08ccd060a12796c59d23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_HMARK.h
+SPDXID: SPDXRef-item912138
+FileChecksum: SHA1: 494db3c7d40eb7ea2fa538eeaa9ceb66094c7565
+FileChecksum: MD5: 0b5305cd8685032d7f10fee0a5f270c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_dccp.h
+SPDXID: SPDXRef-item912142
+FileChecksum: SHA1: ecfbfcd2364ba47ef5245473fb0df9660653f49a
+FileChecksum: MD5: c298bf4b09738ce16910f3458e76f022
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/x_tables.h
+SPDXID: SPDXRef-item912147
+FileChecksum: SHA1: dfe573401ff7728b2180b81731a4b2274233d982
+FileChecksum: MD5: fa96da2a4c95f732344d4e1cec003a54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_recent.h
+SPDXID: SPDXRef-item912151
+FileChecksum: SHA1: aa05c6f4ef91e7ebd65ebe92532f29a6300ea7f3
+FileChecksum: MD5: 736f013231ee3c0b317249b7048393e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_SYNPROXY.h
+SPDXID: SPDXRef-item912155
+FileChecksum: SHA1: 64a66890a7ca5be6a82fdff717f10470165347e4
+FileChecksum: MD5: 2c3bdcac559d82ee19523331ffd7b539
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_addrtype.h
+SPDXID: SPDXRef-item912159
+FileChecksum: SHA1: e1f2620cdfe190712fdb7d80df9d551a8ad4bac1
+FileChecksum: MD5: a75d894537b78f730be02794e08d8a47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_connmark.h
+SPDXID: SPDXRef-item912163
+FileChecksum: SHA1: 7a8274e592d4124399a67f1e37ec1d5b72e30d05
+FileChecksum: MD5: 0747969489d5f3e69095d61e1109762c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_comment.h
+SPDXID: SPDXRef-item912167
+FileChecksum: SHA1: 8f81cafb50515c2fcfbe82dc7aaf7127f9732fc6
+FileChecksum: MD5: ba8aaf72d1ad5abeb3546e2ad8fcd46f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/nf_conntrack_common.h
+SPDXID: SPDXRef-item912175
+FileChecksum: SHA1: a69506ad480d72c1025e88351824b76a9c7e2624
+FileChecksum: MD5: 13ff8d3a2bc2dcaf9de897cb3ee2ea26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_length.h
+SPDXID: SPDXRef-item912179
+FileChecksum: SHA1: 3695a2b8c77daf8ddd83d2b6ec13aab0454928f4
+FileChecksum: MD5: 7f6c04b455e4710cfec005ef2f783110
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_hashlimit.h
+SPDXID: SPDXRef-item912184
+FileChecksum: SHA1: a6b0cf5c4fd2b4314aa4be56e99923af55c46ee8
+FileChecksum: MD5: b36eec2ae29aa5595cfbb7e37ea9a0d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_cpu.h
+SPDXID: SPDXRef-item912187
+FileChecksum: SHA1: 139224b8bbaec23b55c534c0130c3fe30759b7e7
+FileChecksum: MD5: 5fe303b587ff7f95b69825dbcb02c8e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_AUDIT.h
+SPDXID: SPDXRef-item912191
+FileChecksum: SHA1: 0ca89ea7d882fe8e3879cf0f5eb3bf1eea12f8dd
+FileChecksum: MD5: 4ffdfeeb62d8456bf5c264e3f0ad09e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_IDLETIMER.h
+SPDXID: SPDXRef-item912195
+FileChecksum: SHA1: 348da0b0a20124192c0c5f276ba603cd196468d7
+FileChecksum: MD5: dc65fe66dd8b9d0dc2473553a0a4d670
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_u32.h
+SPDXID: SPDXRef-item912199
+FileChecksum: SHA1: 5379468f7ff8c18fec0d905ac14056992d6bdeda
+FileChecksum: MD5: 62b1895a0d44d6b97669f537e744b4ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/nfnetlink.h
+SPDXID: SPDXRef-item912204
+FileChecksum: SHA1: 4e819de36cf54689d5f5197882cf3d57758f644d
+FileChecksum: MD5: 9cdcd6a0c76b2ee5312ad16d6a1ce39b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_owner.h
+SPDXID: SPDXRef-item912207
+FileChecksum: SHA1: 89c8634640e31f81e333d1f7551590828c369751
+FileChecksum: MD5: df627345d02699bec20a86225b1736c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_multiport.h
+SPDXID: SPDXRef-item912211
+FileChecksum: SHA1: 2d3850802024594fc46ce462757f2cd48ea9a896
+FileChecksum: MD5: dee24fd91ce4168d1669c81d8f6da031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_NFQUEUE.h
+SPDXID: SPDXRef-item912215
+FileChecksum: SHA1: f56b272992ccfc5213537f9772aeeadc5a0aa899
+FileChecksum: MD5: d93ef17a023ac9393e8119988fe79625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_policy.h
+SPDXID: SPDXRef-item912219
+FileChecksum: SHA1: 8defb13823ff9bbd4379ba334927c2741f404c2b
+FileChecksum: MD5: ce1c1e9904d6db375c51a32a6327787c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/nf_tables.h
+SPDXID: SPDXRef-item912229
+FileChecksum: SHA1: 40d7546f0b22a2886b0bd4aa253557dffd4a05f1
+FileChecksum: MD5: c08bc97ef55c32928bd02fa6c7302300
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_connlabel.h
+SPDXID: SPDXRef-item912233
+FileChecksum: SHA1: 40bf6ed9167cff0317145802b5cbb75dcff6afe7
+FileChecksum: MD5: 7c66d199a25f0bf83b834255fdb83e80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_sctp.h
+SPDXID: SPDXRef-item912238
+FileChecksum: SHA1: 948a1f4ad1293ba223edc89a653402fa934f4e28
+FileChecksum: MD5: a0ed68c9bac224172fc35b9d78470f4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/ipset/ip_set.h
+SPDXID: SPDXRef-item912245
+FileChecksum: SHA1: fa62593287c3163475decf4d06dc48706b6c9c64
+FileChecksum: MD5: a3c28f48eafa5e39e91214535238d928
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_RATEEST.h
+SPDXID: SPDXRef-item912251
+FileChecksum: SHA1: 10dfd38064f1dcb0795b27f1d7fab4665b0d76d9
+FileChecksum: MD5: 882c619c4d214f6b720515ac708d160f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_osf.h
+SPDXID: SPDXRef-item912256
+FileChecksum: SHA1: 89485e0ce46df5ee7e4105784d3c08ba21b91156
+FileChecksum: MD5: 4321a1610770588b6af231866a458482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_realm.h
+SPDXID: SPDXRef-item912261
+FileChecksum: SHA1: 8da1d5d6e6a856c6f640e7370c9b1c3ff98606d0
+FileChecksum: MD5: 6939be3b460073ad7c2aa8d8655d6ab2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_mark.h
+SPDXID: SPDXRef-item912264
+FileChecksum: SHA1: f897a7fe311534948164b3dbdb1c686c95b5b5c2
+FileChecksum: MD5: e16f80e09d8a2ef4ece3cfa34b8cb2fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_ecn.h
+SPDXID: SPDXRef-item912268
+FileChecksum: SHA1: cd1872fa98891a5af897843c8fc356737807e876
+FileChecksum: MD5: 8a3942210466d2a0a764e2dd2929708d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_CT.h
+SPDXID: SPDXRef-item912272
+FileChecksum: SHA1: e239fc944a93a747b15340ca087f039f81eff8fe
+FileChecksum: MD5: 25e16dea912f3dcb90d385ba72b67a65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_TCPMSS.h
+SPDXID: SPDXRef-item912276
+FileChecksum: SHA1: 04da6f67a2d0ffca0c1262f421ed4e9d8ab7dbec
+FileChecksum: MD5: c92d22c6489a937d74a4406b67f90bd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_CONNSECMARK.h
+SPDXID: SPDXRef-item912280
+FileChecksum: SHA1: 4875b86c56c1f493adf0834455b4828776c33e9b
+FileChecksum: MD5: cd70f5f4f9512c24669d21e2499a7898
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_LED.h
+SPDXID: SPDXRef-item912283
+FileChecksum: SHA1: e92a6bda8f977beb3a9ccbb043f7dbd841e62886
+FileChecksum: MD5: 7f221b72cc8b51b287817caf4203e80d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_helper.h
+SPDXID: SPDXRef-item912287
+FileChecksum: SHA1: 812b926c1d91fb38d73200a5197796913203f1af
+FileChecksum: MD5: e400ee27f832c012c840d4354a0a67ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/nf_conntrack_tuple_common.h
+SPDXID: SPDXRef-item912292
+FileChecksum: SHA1: 14d202124a0b8b10b8d70253a16974604705590d
+FileChecksum: MD5: b1ac6c4fe29ea858e70d2ac7a82813bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_SECMARK.h
+SPDXID: SPDXRef-item912296
+FileChecksum: SHA1: 5e0fdc1c5d8d2a3d57a9ece5ac2b88347cd8b926
+FileChecksum: MD5: afe4b0148ae205640c0a7ba07409528f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_CLASSIFY.h
+SPDXID: SPDXRef-item912299
+FileChecksum: SHA1: 579279c6bbf6757222138898136fa85cfa292806
+FileChecksum: MD5: 7241892c3ec71ed9859b6089752e8031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_string.h
+SPDXID: SPDXRef-item912303
+FileChecksum: SHA1: 6927e2b69cd45d25f1e4419927bac60cce7ae182
+FileChecksum: MD5: 491aba24110de7f499ec177824f25104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_socket.h
+SPDXID: SPDXRef-item912306
+FileChecksum: SHA1: 3e6bdc0478ab24a9c28cb7d98e0800237cbc873f
+FileChecksum: MD5: e59accd47626cc50ba46e208a4095db7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_quota.h
+SPDXID: SPDXRef-item912310
+FileChecksum: SHA1: 5ad9333b87877ace89ccd4469b47669f1a6b2afe
+FileChecksum: MD5: 021cd732a4e6f7342988947ae2fc9937
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_cgroup.h
+SPDXID: SPDXRef-item912314
+FileChecksum: SHA1: 37c878c29ce8073edc66e5a3ad98d16d1492a826
+FileChecksum: MD5: 6532075129298e8996f28983723f80c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_bpf.h
+SPDXID: SPDXRef-item912318
+FileChecksum: SHA1: 799d52e35cbe6cca5ba3f5872db1d99ae2a8f9ab
+FileChecksum: MD5: 9ccebb355b2d365f4342728e1d8c30e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_limit.h
+SPDXID: SPDXRef-item912322
+FileChecksum: SHA1: dbc3ccae2a5fcd73f577feb696e1565468269bd6
+FileChecksum: MD5: e5835c872d753dc6061296197abf1002
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_statistic.h
+SPDXID: SPDXRef-item912325
+FileChecksum: SHA1: 84a3e8d7b92abdd30a6d7ffe117a5d28f5392704
+FileChecksum: MD5: 8322099b59ec3ec8ee09b241dadc8abf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_TEE.h
+SPDXID: SPDXRef-item912329
+FileChecksum: SHA1: ae86a94d9ab1e59c8bb26e342b95f6c95c50de97
+FileChecksum: MD5: e0bbf4f4346058f169c28195d3e5108a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_rpfilter.h
+SPDXID: SPDXRef-item912333
+FileChecksum: SHA1: d98ac99c32b856ef71ec6710b972f7a3a5be4f50
+FileChecksum: MD5: 0fa8f8eeba90c0121eed4b6a14d38bd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_CHECKSUM.h
+SPDXID: SPDXRef-item912337
+FileChecksum: SHA1: 40035d85004f75a488bd14c7c315b3a883ab9eea
+FileChecksum: MD5: 417f84d9259e7f46d9bbbf138aa9ee7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_devgroup.h
+SPDXID: SPDXRef-item912341
+FileChecksum: SHA1: 3bd6b02ed8ade68f5b1123b431830866de387f66
+FileChecksum: MD5: bf7967a223056017fef59183e18b6f52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter/xt_MARK.h
+SPDXID: SPDXRef-item912344
+FileChecksum: SHA1: bb05ffb7f94bda7f30ddb5b097923b969a384cb9
+FileChecksum: MD5: d5a3216e885955d1e6df95d4efc8107c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_arp/arpt_mangle.h
+SPDXID: SPDXRef-item912352
+FileChecksum: SHA1: 44faa8f0a05618f8dd8cbdb6635ada11490b2bf1
+FileChecksum: MD5: 65fe752107092e518d72fa93299e973f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_arp/arp_tables.h
+SPDXID: SPDXRef-item912358
+FileChecksum: SHA1: a0a95648f78eaeab95af5bad633ddd8cd449020e
+FileChecksum: MD5: c34dcc6e21da25b434b5e069272e70d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_bridge.h
+SPDXID: SPDXRef-item912365
+FileChecksum: SHA1: 4d97e566189a0af0620afa57872533bb2d2c1164
+FileChecksum: MD5: b22d9463dffaa6a503e0a56738f98214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/filter.h
+SPDXID: SPDXRef-item912371
+FileChecksum: SHA1: 6db6012b43238247af1ac27437467789f7d2e054
+FileChecksum: MD5: 13ca3590632c1ada2d7c77a5e816c8b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_arp.h
+SPDXID: SPDXRef-item912374
+FileChecksum: SHA1: 4bb6dec232c4a705dcf91e544694eea2ddbc14f3
+FileChecksum: MD5: f24d310aac30b30e788be4fe32c05567
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_bridge/ebt_ip.h
+SPDXID: SPDXRef-item912379
+FileChecksum: SHA1: 9d79624dcbd65fb5b9be7bbcecdccc1da3b5aaa6
+FileChecksum: MD5: 3b3812e25ddf012cc2b513f22f287b67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_bridge/ebt_802_3.h
+SPDXID: SPDXRef-item912383
+FileChecksum: SHA1: 31b1ae8d3163d5e44cd3dc2457e6803fb5cd20eb
+FileChecksum: MD5: ce8c52c32dda44143934f6a2607bdb29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_bridge/ebt_mark_t.h
+SPDXID: SPDXRef-item912387
+FileChecksum: SHA1: 40ff3d4285e9fa0f5cac1797a7ece94533239808
+FileChecksum: MD5: 0089fe8f41c363364afd1a1dcc2357ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_bridge/ebt_mark_m.h
+SPDXID: SPDXRef-item912391
+FileChecksum: SHA1: 65fc1a6183f8354e0bc2ed572d9b5104b8e32e4b
+FileChecksum: MD5: 65bf3e4242ec5e215f4dc3307bddf461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv4.h
+SPDXID: SPDXRef-item912398
+FileChecksum: SHA1: ca164bec2dfee3d01dfd8d52363fd03188b02a18
+FileChecksum: MD5: 9cc85ef4aef329939ccb6d09d5a86760
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/kernel.h
+SPDXID: SPDXRef-item912403
+FileChecksum: SHA1: 8b0425c90ee633eab96b04ed21f801dbb9c0d67b
+FileChecksum: MD5: e3e88c8bad9a2813662e61c2cd5b24ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_ipv6header.h
+SPDXID: SPDXRef-item912408
+FileChecksum: SHA1: 98f1e60f236840e80f156cbd2a238e961360e885
+FileChecksum: MD5: 7a50eb9f34323c3eac2abf213df52ca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_opts.h
+SPDXID: SPDXRef-item912414
+FileChecksum: SHA1: c69e831ce1bbd3c9b1f528c6afa4201c532123f2
+FileChecksum: MD5: 8b86087778dd2b658927e9bfb759f4a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_LOG.h
+SPDXID: SPDXRef-item912418
+FileChecksum: SHA1: 9de1e7c2a8031b08b9cb517589f2f231a96cc2e5
+FileChecksum: MD5: 32715464a618d14fdaf8b8d2a2512f3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_rt.h
+SPDXID: SPDXRef-item912422
+FileChecksum: SHA1: 08818c759a08bbba87bea8d5cd0d9551dcca0c34
+FileChecksum: MD5: b331f90019b279ed20e977b7a11eaaa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6_tables.h
+SPDXID: SPDXRef-item912428
+FileChecksum: SHA1: c74390400273dadf28b760e5d9bfe3aafcbe0821
+FileChecksum: MD5: be9533130e505c8c53973cbecb77a0e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_NPT.h
+SPDXID: SPDXRef-item912432
+FileChecksum: SHA1: ab3dce405128d321ecfed55e0e6c59a05deaf9d6
+FileChecksum: MD5: 890d4e83262fadfe5a1524ec99dd2f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_frag.h
+SPDXID: SPDXRef-item912436
+FileChecksum: SHA1: e7141cad46281816a0a6e5b0123910028159040a
+FileChecksum: MD5: e652809d514c813bf69d61079b8f1e02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_REJECT.h
+SPDXID: SPDXRef-item912440
+FileChecksum: SHA1: 355137713990f630a13c8e03516639cb32222a05
+FileChecksum: MD5: 150a14be59ef0761de01b6fbfbaa1109
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_hl.h
+SPDXID: SPDXRef-item912444
+FileChecksum: SHA1: d9999d31e0bf0effc5a4ca84c705965eefb1815d
+FileChecksum: MD5: f06d50fbbfcd1745411c75917983297f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_mh.h
+SPDXID: SPDXRef-item912447
+FileChecksum: SHA1: ad7e58da006cac3cd9d624baff5df40fd16abcdf
+FileChecksum: MD5: cb6bfda7d4f61d25ca80cbe0d855bc68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_HL.h
+SPDXID: SPDXRef-item912451
+FileChecksum: SHA1: 60cbcaa3edf7a11f66fad05560e9104f9a7f11a2
+FileChecksum: MD5: 98282a9d2051d878f50c37d3cd3fd39e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/netfilter_ipv6/ip6t_ah.h
+SPDXID: SPDXRef-item912455
+FileChecksum: SHA1: 83a04cdfc088bed04d83288acd877ebf329b47c4
+FileChecksum: MD5: a8292d95c2cb500f3594e05fa4a57599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iptables-1.6.1/include/linux/types.h
+SPDXID: SPDXRef-item912463
+FileChecksum: SHA1: b6599803d458b33ab9a0c9db75d61883aa4eb4f0
+FileChecksum: MD5: b05f44883ea9226dc8af8f06a002adf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/types.h-add-defines-that-are-required-for-if_packet.patch
+SPDXID: SPDXRef-item912473
+FileChecksum: SHA1: f7e6b6c9b65fc0ef1d8527d84769c1f48edde748
+FileChecksum: MD5: edd1e3dde5b72323c515a0829390ce4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0002-configure.ac-only-check-conntrack-when-libnfnetlink-enabled.patch
+SPDXID: SPDXRef-item912476
+FileChecksum: SHA1: c4c99ad6415bc4d1c32b1b83c0f5175f671e5c99
+FileChecksum: MD5: 1936656d42433bee2a09782cc6b322f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-fix-build-with-musl.patch
+SPDXID: SPDXRef-item912484
+FileChecksum: SHA1: 3fa3a5a46e7691a42c651b019bc5cf0d6e4f89f0
+FileChecksum: MD5: 25ab941dcd6df35510550d614677b520
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-GPL-3.0--with-autoconf-exception
+LicenseName: GPL-3.0+-with-autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

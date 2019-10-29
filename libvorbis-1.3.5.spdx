@@ -1,0 +1,4978 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libvorbis-1.3.5-r1-patched.tar.gz_1571460446.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:47:27Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libvorbis
+PackageVersion: 1.3.5
+PackageFileName: libvorbis-1.3.5-r1-patched.tar.gz
+SPDXID: SPDXRef-upload428
+PackageDownloadLocation: http://downloads.xiph.org/releases/vorbis/libvorbis-1.3.5.tar.xz
+PackageHomePage: http://www.vorbis.com/
+PackageSummary: <text>Ogg Vorbis Audio Codec</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libvorbis version 1.3.5</text>
+PackageChecksum: SHA1: ededb89216f0fe5f23056d11aef095e6c6ede2d1
+PackageChecksum: MD5: d16ebb365eb722b3cf5f56126fe0002f
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload428
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u2.vqs
+SPDXID: SPDXRef-item1101418
+FileChecksum: SHA1: e4388a1dbb38d9762b3444d8005043ce5fc2ee78
+FileChecksum: MD5: 1d19c5ea2d4e4713980ab0b8d82ce8ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/localcodebook.h
+SPDXID: SPDXRef-item1101419
+FileChecksum: SHA1: ca7490c994108cb40f94b702f823d0ab11c44772
+FileChecksum: MD5: 0b8cab38aafa2c376b2b2e0242be8a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c2.vqs
+SPDXID: SPDXRef-item1101420
+FileChecksum: SHA1: bd894be57bcc869344b3da6cc4098b187fdcee6d
+FileChecksum: MD5: 24d3f4577e50bdf8c8446325f69a9554
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u8.vqs
+SPDXID: SPDXRef-item1101421
+FileChecksum: SHA1: 053c1bc504ba45232686e9feba46233cbcfcf243
+FileChecksum: MD5: df7e54e5cc8ffda29775b7903da80217
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u5.vqs
+SPDXID: SPDXRef-item1101422
+FileChecksum: SHA1: 8a5f745b9170f0e3798c49f0a2beeb7c84bd2510
+FileChecksum: MD5: c6bcb42d271e0a1a5f05b183da94de02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u0.vqs
+SPDXID: SPDXRef-item1101423
+FileChecksum: SHA1: e3acfd54f2e578cef4c75b077f9e2885ce1ef560
+FileChecksum: MD5: 9537d5a4da487e7a29712c755751ae91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/bookutil.c
+SPDXID: SPDXRef-item1101424
+FileChecksum: SHA1: 8dbf8cbcf4349a0f62f044567103ff98e444c23e
+FileChecksum: MD5: ed0f4ba4b7391a103a4769587a5de5ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/8.vqs
+SPDXID: SPDXRef-item1101425
+FileChecksum: SHA1: eb964033ce28cb9ba0509faab02788b10fa6d8b3
+FileChecksum: MD5: 886c62d3365183ccbd28194ef4ed9f4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p4.vqs
+SPDXID: SPDXRef-item1101426
+FileChecksum: SHA1: 1cce6ee09b0f249f796c9d4334b8a941affebb01
+FileChecksum: MD5: 31e0302fad80e0fd59d67c3e2af4c7ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p7.vqs
+SPDXID: SPDXRef-item1101427
+FileChecksum: SHA1: 4d3a9e86a1585697df5072982070ae93b342567f
+FileChecksum: MD5: 90d4bf3e7a97a4f1b77b8dd44eb55c21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u4.vqs
+SPDXID: SPDXRef-item1101428
+FileChecksum: SHA1: a2d61d05b9e700fa6d4528e24937350b9e278ab2
+FileChecksum: MD5: a0acf2da57f66bbe7c1f9f0521b4e1ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/bookutil.h
+SPDXID: SPDXRef-item1101429
+FileChecksum: SHA1: a96ba3499468a5c1d95609a86f4d3f5d0e36bae5
+FileChecksum: MD5: 5111d892b10f943962fc6b560174a753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/huffbuild.c
+SPDXID: SPDXRef-item1101430
+FileChecksum: SHA1: 8a3238dfa0fe32112068676db7b376a957fe5272
+FileChecksum: MD5: f82c687d4af769f5b3d935a260ad93d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c4.vqs
+SPDXID: SPDXRef-item1101431
+FileChecksum: SHA1: 45d29f5bd16eb688f42bc89cf1262ab77887b158
+FileChecksum: MD5: c6ae5bcd3d4e0e22a86c5db3f7b04244
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c8.vqs
+SPDXID: SPDXRef-item1101432
+FileChecksum: SHA1: f3796d14859d880b5218c7405f1c99aa42e49149
+FileChecksum: MD5: 753363b28cef059b14e22730b5a8bba6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/floor_22.vqs
+SPDXID: SPDXRef-item1101433
+FileChecksum: SHA1: ec510babe00cfe621d110beaa5357fc3bcfdc10a
+FileChecksum: MD5: de91f7411e6eeb6fe433b03a0deff695
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/Makefile.in
+SPDXID: SPDXRef-item1101434
+FileChecksum: SHA1: ef39636e64d0633d82b02126eb76b6f5749a948e
+FileChecksum: MD5: e33b8b07f0817a2772af956f2356e03b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c1.vqs
+SPDXID: SPDXRef-item1101435
+FileChecksum: SHA1: 2c796550c178f829bab941dbc4f76e3a21572675
+FileChecksum: MD5: e84184d0570d70aa12efa7b0ac11bf05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c7.vqs
+SPDXID: SPDXRef-item1101436
+FileChecksum: SHA1: 9ead7b4a4f0452a7e09ac03b7cf265fb1f3b2cde
+FileChecksum: MD5: 21ff10495e9900ba66b09c638cf8c316
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p-1.vqs
+SPDXID: SPDXRef-item1101437
+FileChecksum: SHA1: 82fa448d6659e315e699c7fe731b88974ea2a5f5
+FileChecksum: MD5: d61c7e55cdb053c540b5108ecfdf0cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/16.vqs
+SPDXID: SPDXRef-item1101438
+FileChecksum: SHA1: a1ec8b6332b84085f4a14a7af3337a63d015a2ab
+FileChecksum: MD5: b5b12ff8ff76c0b132855bbeaa5cfdb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u1.vqs
+SPDXID: SPDXRef-item1101439
+FileChecksum: SHA1: 783ea9019c3cc9ffef29344bc27441a2b84365bf
+FileChecksum: MD5: 8eaf75041f6db2fd3a55f5081ea6177a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p8.vqs
+SPDXID: SPDXRef-item1101440
+FileChecksum: SHA1: 6f57b6515025616134ba75dd89d436fc77c6cd85
+FileChecksum: MD5: d80e6889e069fb8555e4628b3711cd37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/metrics.c
+SPDXID: SPDXRef-item1101441
+FileChecksum: SHA1: e2dcb7cf4155bebfe8e0b829548d49fa1f29ab8c
+FileChecksum: MD5: 3c1f9539c45ebf01609e21fe0fdea6fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u9.vqs
+SPDXID: SPDXRef-item1101442
+FileChecksum: SHA1: ab03af4a4eb9f0dc118e53af0d78a693e2890708
+FileChecksum: MD5: eb09a3f62bb141a5a3b2699d1916ffcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/Makefile.am
+SPDXID: SPDXRef-item1101443
+FileChecksum: SHA1: a198291c76b51786cb9f7499b66c617ae121f5f5
+FileChecksum: MD5: 3fee071f835d337a4791466a277957eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p0.vqs
+SPDXID: SPDXRef-item1101444
+FileChecksum: SHA1: 12b4c640af1d02f54bed41db76825178408a572c
+FileChecksum: MD5: b26573c25bd17d36756212da8fed4375
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/latticebuild.c
+SPDXID: SPDXRef-item1101445
+FileChecksum: SHA1: e551442c1fb5b717d98dc6b1ae4deaaeb9a1fa3c
+FileChecksum: MD5: af4f0336f4648056842d9c3c9c91e9c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/distribution.c
+SPDXID: SPDXRef-item1101446
+FileChecksum: SHA1: 2c83b26c977293407d6c647c3568b2e498e377c0
+FileChecksum: MD5: 9fadf6cef68c5986220ca896f2c8c67c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u7.vqs
+SPDXID: SPDXRef-item1101447
+FileChecksum: SHA1: a54f2afc22ffc87339e3d3ac86c9f744be85bd41
+FileChecksum: MD5: ee90f483398a5adb54e7a46fa7c593b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u3.vqs
+SPDXID: SPDXRef-item1101448
+FileChecksum: SHA1: f2a2870479ace7844ca0022ce8e6a87617ef7a45
+FileChecksum: MD5: 4eebfedadd3be438cdc9075b54e2b659
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p9.vqs
+SPDXID: SPDXRef-item1101449
+FileChecksum: SHA1: 8d1086379b5e52e4cf9e42d34e7195e0ad9d23e7
+FileChecksum: MD5: 05a24ec684c54e8844e18536d2b17f55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/floor_11.vqs
+SPDXID: SPDXRef-item1101450
+FileChecksum: SHA1: 765d48a0be05ecd77e3f1ef6c27d17baf0838112
+FileChecksum: MD5: c599ee1f4829238aef26592bcc0fa933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p2.vqs
+SPDXID: SPDXRef-item1101451
+FileChecksum: SHA1: baae07d1ba14fb76e86e43eb74d398c3eeaec1b4
+FileChecksum: MD5: a7505fe543959fc059d6d65a29605c18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c-1.vqs
+SPDXID: SPDXRef-item1101452
+FileChecksum: SHA1: caaccaeafc60d8c640aacc46cfaa48f2cd8d27ea
+FileChecksum: MD5: 630a5a172b520a12ba986abfd3d72deb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p5.vqs
+SPDXID: SPDXRef-item1101453
+FileChecksum: SHA1: 9860b0daa082e38f80f35bca619ccd0713272f11
+FileChecksum: MD5: 2b583328e4a28b05fc35a48732f32364
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p6.vqs
+SPDXID: SPDXRef-item1101454
+FileChecksum: SHA1: 62fb869cc0dee8db4d0b2eb76a6b3adc2c4c1b1e
+FileChecksum: MD5: 1c669ee65af530af85f3138469498311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c0.vqs
+SPDXID: SPDXRef-item1101455
+FileChecksum: SHA1: a1223eb05903084b0cf1e0342d5954db46581a39
+FileChecksum: MD5: f8b53bb8a25b84d91295d907203aaefb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/vqgen.c
+SPDXID: SPDXRef-item1101456
+FileChecksum: SHA1: 631a4e0a1265aed4ff9bbe4b5462ce0b898bf0cf
+FileChecksum: MD5: 8e59cfe32dd1dc4a8d4bc6be9249305b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/vqgen.h
+SPDXID: SPDXRef-item1101457
+FileChecksum: SHA1: a1c2b8afd729781fac9422896524e01224863f80
+FileChecksum: MD5: 0f783dc396a9ffdd8df2d0dd0ec9b0ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/16u.vqs
+SPDXID: SPDXRef-item1101458
+FileChecksum: SHA1: 109058be72f220cac2f70dffd7041f393713d5d3
+FileChecksum: MD5: 0bb0a089ce9370cfbb38acb8a6b1444d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p3.vqs
+SPDXID: SPDXRef-item1101459
+FileChecksum: SHA1: ce7c69b113cc10fa972aabdbcd932345434ace31
+FileChecksum: MD5: c63d05dc96b14cebe34e627860add58d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c3.vqs
+SPDXID: SPDXRef-item1101460
+FileChecksum: SHA1: 2caddee6a91274d3acf88b870131c8fa3792ddc4
+FileChecksum: MD5: 6b334f479eb16d9e2965314670aa0ca4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c6.vqs
+SPDXID: SPDXRef-item1101461
+FileChecksum: SHA1: b164f30e05e9fde43aa5c72708e7d591a57a5303
+FileChecksum: MD5: 9275c2a07ba37a600d7ad2b6612ace1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/make_floor_books.pl
+SPDXID: SPDXRef-item1101462
+FileChecksum: SHA1: fe841b70cb130f8ddcc4c5bd43b43f0d81c3b268
+FileChecksum: MD5: 0c6d1ece591f2e5f22ea3da551385b1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c9.vqs
+SPDXID: SPDXRef-item1101463
+FileChecksum: SHA1: 481e0de5cc61fc87564ae0ab60af5ad785bcd770
+FileChecksum: MD5: e3841768e7fd11f7fa5129581757ca6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44u6.vqs
+SPDXID: SPDXRef-item1101464
+FileChecksum: SHA1: 01197f75582801df1661b3c2ab6a7d814de0dcb8
+FileChecksum: MD5: 17179901a1ac4e86abcd9afa7570f37b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/8u.vqs
+SPDXID: SPDXRef-item1101465
+FileChecksum: SHA1: 1ebb29e4cb43ac00b9f02a7e12d21ec3928798e2
+FileChecksum: MD5: 748481594a6889d0ff4820163c9068b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/latticetune.c
+SPDXID: SPDXRef-item1101466
+FileChecksum: SHA1: c3b5504444524ca024833c5efb871d627dd88e00
+FileChecksum: MD5: f1e7646de92e8244a7a2ba976e5f49c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44c5.vqs
+SPDXID: SPDXRef-item1101467
+FileChecksum: SHA1: e33c58795b2042a9495c87c4e7b9a66dda6f7f04
+FileChecksum: MD5: 0e008381e32525f111c27c6ad54cfe6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/make_residue_books.pl
+SPDXID: SPDXRef-item1101468
+FileChecksum: SHA1: d443e8bdbad34682c652fe749351ba6e2cec933e
+FileChecksum: MD5: 84899c62c2859074bee148572f82c468
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/floor_44.vqs
+SPDXID: SPDXRef-item1101469
+FileChecksum: SHA1: 66885383d1f67c883e621333d5c258f8db7ceab2
+FileChecksum: MD5: db3e034e797c4fc75f01a655927dd8c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vq/44p1.vqs
+SPDXID: SPDXRef-item1101470
+FileChecksum: SHA1: d9e95acc36ba166af746837a8b7aec6deb3fe702
+FileChecksum: MD5: 3b342671b791cb7f80852eb7e7933560
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/compile
+SPDXID: SPDXRef-item1101471
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/install-sh
+SPDXID: SPDXRef-item1101472
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vorbis.m4
+SPDXID: SPDXRef-item1101473
+FileChecksum: SHA1: bea9199d8e5fbdab554e0403af683eae87e72714
+FileChecksum: MD5: 5140e4c5a18d78bc55b075182d4232b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vorbisfile.pc.in
+SPDXID: SPDXRef-item1101474
+FileChecksum: SHA1: 9f66ef2862adf203116ba49c1f1ee21966981a33
+FileChecksum: MD5: 2a9eca370b777916c542563b2aba8565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/aclocal.m4
+SPDXID: SPDXRef-item1101475
+FileChecksum: SHA1: f3b2aebb74337126d8d8d40d324de2e542622ba4
+FileChecksum: MD5: 52115b3d62d52b32ecaf3b53210c92f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/libvorbis.spec
+SPDXID: SPDXRef-item1101476
+FileChecksum: SHA1: ab860aceeef19cc66c63466a5eb825af411325c1
+FileChecksum: MD5: 2b936cda9f725c2a245c4c99a6dc0cfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/Makefile.in
+SPDXID: SPDXRef-item1101477
+FileChecksum: SHA1: 6917c51acc63dcc60a676701f11a0b542f953249
+FileChecksum: MD5: 2a65f0b9a148aa8ca8ec81fe01a6d2d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/COPYING
+SPDXID: SPDXRef-item1101478
+FileChecksum: SHA1: c3c047654de9de72bcbbc363d9fd5c2c20898547
+FileChecksum: MD5: 7d2c487d2fc7dd3e3c7c465a5b7f6217
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/configure
+SPDXID: SPDXRef-item1101479
+FileChecksum: SHA1: ac901abe37764eec66cefb9cdcedcbb1bce0a253
+FileChecksum: MD5: a01ee291fef80fe230157f7cfde4e09c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/ltmain.sh
+SPDXID: SPDXRef-item1101480
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vorbis.pc.in
+SPDXID: SPDXRef-item1101481
+FileChecksum: SHA1: 16fe8082e3e2a166fddabf58e2cead2a6dca6f44
+FileChecksum: MD5: ff2256d7a6a1ac34824838780901e548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vorbisfile-uninstalled.pc.in
+SPDXID: SPDXRef-item1101482
+FileChecksum: SHA1: abe68c8c6baa270416bd6ea7fad96924615a74ba
+FileChecksum: MD5: dbbf595ebee18dbf2f951f3d77fe8b7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/examples/encoder_example.c
+SPDXID: SPDXRef-item1101484
+FileChecksum: SHA1: 272f14354f50d85aa6b4bdde10547c8a50418ae1
+FileChecksum: MD5: 3d05996e902fbbd1db9d05ac9ec358a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/examples/Makefile.in
+SPDXID: SPDXRef-item1101485
+FileChecksum: SHA1: 3865ce606c671166238fe384300eafceebb4ce60
+FileChecksum: MD5: ca929b1edc4fd9cb7263f5c9c9021882
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/examples/seeking_example.c
+SPDXID: SPDXRef-item1101486
+FileChecksum: SHA1: ab655f23d00222ce25e6a67b2456ba159dc42ca5
+FileChecksum: MD5: addb7cde38f3cfafdf2830356840fbc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/examples/vorbisfile_example.c
+SPDXID: SPDXRef-item1101487
+FileChecksum: SHA1: 6fd0089fba3400e39162e545d9616f8987c6aa66
+FileChecksum: MD5: 4ebc4840fd382fcd9d34dcdb57754e38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/examples/decoder_example.c
+SPDXID: SPDXRef-item1101488
+FileChecksum: SHA1: 9321844804a316bfcd0fcbd4e299c0dfb3c931e4
+FileChecksum: MD5: 0a68052443736351a437d3ea7a4e7719
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/examples/Makefile.am
+SPDXID: SPDXRef-item1101489
+FileChecksum: SHA1: dc4c9030a4fcd46a0f3437f91b6ec26e87475767
+FileChecksum: MD5: 36e02c6a3ccf8826f7788a97502b28c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/examples/chaining_example.c
+SPDXID: SPDXRef-item1101490
+FileChecksum: SHA1: 686a55e702db80d472e996ddff0179c441e6ca60
+FileChecksum: MD5: f57817287d9438e24965953b938a7314
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/examples/frameview.pl
+SPDXID: SPDXRef-item1101491
+FileChecksum: SHA1: fb0a9d9b4c0e4fe7ab53f64d954bef7dcb471acf
+FileChecksum: MD5: 575bdc8e1b36b650369f73894c656294
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/symbian/config.h
+SPDXID: SPDXRef-item1101493
+FileChecksum: SHA1: 6887e20ff1e258bd61ab50e567719033548f500d
+FileChecksum: MD5: 7f92cf665c33e115a4604e54d50a151a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/symbian/vorbis.mmp
+SPDXID: SPDXRef-item1101494
+FileChecksum: SHA1: 43ce59cab6bca7435e7e4275c2c87f0253cbfd9a
+FileChecksum: MD5: 6aa81174ed0b2fafb76a0c4bedf522f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/symbian/bld.inf
+SPDXID: SPDXRef-item1101495
+FileChecksum: SHA1: 8bb9153dcec3bdd3c79c4d84dc0c8355ce593534
+FileChecksum: MD5: 8c77d94f54c1ff9159bd1d085de2e6d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/m4/Makefile.in
+SPDXID: SPDXRef-item1101497
+FileChecksum: SHA1: 04e82d4adeb619efaa75156fc6e6faae1df69eff
+FileChecksum: MD5: bc32e80a79e675ce454570597b000c01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/m4/Makefile.am
+SPDXID: SPDXRef-item1101498
+FileChecksum: SHA1: e074c481eed4ed8a22b7937f20c38155048215db
+FileChecksum: MD5: e879045468f1f5e99b8a16c47ea9f22a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/m4/ogg.m4
+SPDXID: SPDXRef-item1101499
+FileChecksum: SHA1: af710ec4d41323c872804584e1969e74940f8126
+FileChecksum: MD5: d01b21841f99116efac659e34f6aa8c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/m4/pkg.m4
+SPDXID: SPDXRef-item1101500
+FileChecksum: SHA1: 36ceb1b5014b55df700b79442c04db6755f3c365
+FileChecksum: MD5: 84f4c817d89ea6239ba46654334db49a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/m4/add_cflags.m4
+SPDXID: SPDXRef-item1101501
+FileChecksum: SHA1: d5dbd6cd43e30ecf3ec55d5eccb678fdc8115509
+FileChecksum: MD5: e1604214bbd1f8054f6965dfd1bd473a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/decoder_example.mcp
+SPDXID: SPDXRef-item1101503
+FileChecksum: SHA1: 2c5ca2c5d05264530716f1f648556bc4566d7f79
+FileChecksum: MD5: 264b82aa48c509eeb56fc866ea1d6c6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/libvorbis.mcp
+SPDXID: SPDXRef-item1101504
+FileChecksum: SHA1: ced4bbadc8edbd1c9496005ab2154e04690e5be6
+FileChecksum: MD5: 124ba2d0c5b057f8271f028d2086b40b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/libvorbisenc.mcp
+SPDXID: SPDXRef-item1101505
+FileChecksum: SHA1: 82d8ddd82f31e86076063a18911671144d6ec611
+FileChecksum: MD5: b7a49f2d5d24aba7d5badf5b700ae5ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/libvorbisfile.mcp.exp
+SPDXID: SPDXRef-item1101506
+FileChecksum: SHA1: 86ac3939b77a0d1120db63ae7893869606724a75
+FileChecksum: MD5: e3eed553c21c97bf301b470b5ab13a09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/encoder_example.mcp
+SPDXID: SPDXRef-item1101507
+FileChecksum: SHA1: 7f063af280d412fa40db3d4f0b71cb97ead42a34
+FileChecksum: MD5: f8c0b5568ae8c3d87145112ed6a4543f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/compat/strdup.c
+SPDXID: SPDXRef-item1101509
+FileChecksum: SHA1: 7deeec8c3d0760e5e41a68cbaf99fdda1a7d3ba3
+FileChecksum: MD5: 513e84789155a6868d10090cd25ae052
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/compat/sys/types.h
+SPDXID: SPDXRef-item1101511
+FileChecksum: SHA1: 80652cf91cd5e40f97e7169c0a78f2912dbd155c
+FileChecksum: MD5: 90f289797a737f564e62d97fe56f1cc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/libvorbisenc.mcp.exp
+SPDXID: SPDXRef-item1101512
+FileChecksum: SHA1: 1fb9825e907856afba654f4b109f5259c96b3e24
+FileChecksum: MD5: 56e1516a9400b7cee3d5d0f395891019
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/libvorbis.mcp.exp
+SPDXID: SPDXRef-item1101513
+FileChecksum: SHA1: db325bdc98760f6d29bad28f615cb01f827c9dbd
+FileChecksum: MD5: 5ae3ed17dd757016282847119e3e8cd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/vorbis.mcp
+SPDXID: SPDXRef-item1101514
+FileChecksum: SHA1: f93a97a9e31ff5f6b3cbcc689bbe86a7507bdcaf
+FileChecksum: MD5: 74cdf4c96cca14d8cabc8e5e841368d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macos/libvorbisfile.mcp
+SPDXID: SPDXRef-item1101515
+FileChecksum: SHA1: 1288bda0e1b83c50a0ec7fcebab82c9a1305f73a
+FileChecksum: MD5: b17be509d520ddec6c6e5080da1df7b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/masking.h
+SPDXID: SPDXRef-item1101517
+FileChecksum: SHA1: 9b7a758a36aa96da2b790b83b916ed41ce256252
+FileChecksum: MD5: dc54b25bbdb0c2fe006b32f484507006
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/backends.h
+SPDXID: SPDXRef-item1101518
+FileChecksum: SHA1: ff3f913430e89ebd6d4f910ce353ff0408f02a15
+FileChecksum: MD5: 2078e838cf8e9ce2380887f1776b1083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/highlevel.h
+SPDXID: SPDXRef-item1101519
+FileChecksum: SHA1: e26fc7ed7a086c1cfca0a83d545aa30cfbb150dd
+FileChecksum: MD5: d46d84ac16417e47f6758e015d0f58e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/lookup.h
+SPDXID: SPDXRef-item1101520
+FileChecksum: SHA1: fa4baeafb955e783ec8298a628f20e5d0d3c3ce5
+FileChecksum: MD5: fdc927a0d016aa5ba6cf49455bd07dc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/tone.c
+SPDXID: SPDXRef-item1101521
+FileChecksum: SHA1: 993aa7886a24441bbf6890376da8740ea90b03b1
+FileChecksum: MD5: 681207a0e2c2fd1d9b6d2a40b606704a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/codec_internal.h
+SPDXID: SPDXRef-item1101522
+FileChecksum: SHA1: 5967c263694b40faf014cc99abe375078153ec76
+FileChecksum: MD5: cff4ccbf6365a3318c384a2397cf8914
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/window.c
+SPDXID: SPDXRef-item1101523
+FileChecksum: SHA1: 83033c776144a01fadff963a805786c2886751fe
+FileChecksum: MD5: 806438572b32268c8f6d49522e1ea87a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/envelope.c
+SPDXID: SPDXRef-item1101524
+FileChecksum: SHA1: bde002f9fd88837651f3693395c0550b2e19c756
+FileChecksum: MD5: c1e85b7b7abc8b68600a25bb207dd6b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/codebook.h
+SPDXID: SPDXRef-item1101525
+FileChecksum: SHA1: c1a7eae6448c53c430df42b91999f7b885e2ab4f
+FileChecksum: MD5: 6a84b878a5b8cc0fbe3c6c855d88b52f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/floor0.c
+SPDXID: SPDXRef-item1101526
+FileChecksum: SHA1: aeb7b984e6f77b5d6bd3e3be17f68c6ee3a3a162
+FileChecksum: MD5: 0eddd18d344c2fa2ff002ba92923f145
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/sharedbook.c
+SPDXID: SPDXRef-item1101527
+FileChecksum: SHA1: 9ce49a0bc9c4378a4d9f2a56203d027df9410d64
+FileChecksum: MD5: 2d3f3652dec263c58fa2613a96072cea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_22.h
+SPDXID: SPDXRef-item1101529
+FileChecksum: SHA1: 56b26be2a2b4c45eb50cd42701843ce09fd3a553
+FileChecksum: MD5: d49f02f6686371046670b1b00bfc150b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_44u.h
+SPDXID: SPDXRef-item1101530
+FileChecksum: SHA1: b34caa1bcd86a54187da995d6d300562f1a6c17f
+FileChecksum: MD5: 66fd0f199729c33ce38cc0b7e361cfe3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/psych_11.h
+SPDXID: SPDXRef-item1101531
+FileChecksum: SHA1: 58583f98c0f1d8e212111d22ba03eaadffc53b13
+FileChecksum: MD5: e0cbcae2c28f83545688b2b4aac350fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_11.h
+SPDXID: SPDXRef-item1101532
+FileChecksum: SHA1: 4437b0d6a61aecb139ded13a734f77b5ef009c97
+FileChecksum: MD5: bd58f820e45496a9b04802f1bde76960
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/residue_44u.h
+SPDXID: SPDXRef-item1101533
+FileChecksum: SHA1: 53cbd42f90e6e8aee62d0932e986603c13edf275
+FileChecksum: MD5: d91346a53eda79b98c50deb37f4c4aad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/psych_16.h
+SPDXID: SPDXRef-item1101534
+FileChecksum: SHA1: 093ee280c1761ae2576037405adbad4619a9fae8
+FileChecksum: MD5: 9219ada0dfa5f0fe34e736a3ffd42727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/psych_8.h
+SPDXID: SPDXRef-item1101535
+FileChecksum: SHA1: 0f3a29a8baa54f9c0b24553f4892f82835ec219c
+FileChecksum: MD5: 49e6a2175b29a05f6b76d7bf75d81918
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/Makefile.in
+SPDXID: SPDXRef-item1101536
+FileChecksum: SHA1: 75300d3c4a62b6e0c021dd72a8a4b14008646025
+FileChecksum: MD5: 7f82db0fbe10b6f1da56925f22e780d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/residue_16.h
+SPDXID: SPDXRef-item1101537
+FileChecksum: SHA1: a9be4925106b6a4512df6d81b4bf520d1ad793b2
+FileChecksum: MD5: b956cb453cc567aa6e29f91787c76db0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_X.h
+SPDXID: SPDXRef-item1101538
+FileChecksum: SHA1: 00dfbcf1ca0463026ad4f8d50806cec8ae76b7d0
+FileChecksum: MD5: 7c25bbf3ef0d3c3060e1518c409b0675
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/residue_44p51.h
+SPDXID: SPDXRef-item1101539
+FileChecksum: SHA1: d0619c604a5ab8820a02edb3607a7120138ed049
+FileChecksum: MD5: 9e2461b0167c2beae3ac5507777be3ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/Makefile.am
+SPDXID: SPDXRef-item1101540
+FileChecksum: SHA1: 92f3c9390dc358919a1d4f8cc0a6d1e818fae988
+FileChecksum: MD5: e1b8083a5d319c61aba949b3b1c59386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_8.h
+SPDXID: SPDXRef-item1101541
+FileChecksum: SHA1: 6a4343b6a5826d2e5dad4b880980cedfbeae5ddb
+FileChecksum: MD5: 93336f963737df60afe5505cb3e9ee86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/residue_44.h
+SPDXID: SPDXRef-item1101542
+FileChecksum: SHA1: d2595afb0c70693efeadc330d58febb0a0af06c5
+FileChecksum: MD5: 70cba0993813d61023f5e0bf87d39008
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/floor_all.h
+SPDXID: SPDXRef-item1101543
+FileChecksum: SHA1: a8575a7e2cc2f0dd7ba577aa0b8839f16826fee3
+FileChecksum: MD5: 3daab23c7034c3a2ff1aab4e6c68d173
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_16.h
+SPDXID: SPDXRef-item1101544
+FileChecksum: SHA1: f471956baeb3779a4a2d8a430ae4e903f691ef9a
+FileChecksum: MD5: 853f47de4cc756e2eabeb03823390a4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_44p51.h
+SPDXID: SPDXRef-item1101545
+FileChecksum: SHA1: 99438280c8010359631de670bedcf5a0fa807e33
+FileChecksum: MD5: f36550afebf502142deb6c53882a3f63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_32.h
+SPDXID: SPDXRef-item1101546
+FileChecksum: SHA1: 4cf1e226d96e63dbe5ce00a4dcd4b2b87c80dd8d
+FileChecksum: MD5: d006f59e1d703fd98a1a26a3240b1583
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/residue_8.h
+SPDXID: SPDXRef-item1101547
+FileChecksum: SHA1: b37c61178f82527aaf1f9cf2e2dcde7c3583128c
+FileChecksum: MD5: 2cb955472d7377edb59774c808650766
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/psych_44.h
+SPDXID: SPDXRef-item1101548
+FileChecksum: SHA1: ec6e79e6a74db0ab18ad874219244478dcd65f6a
+FileChecksum: MD5: 3398c15c4bc8bd2695fbcc61b0066073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/modes/setup_44.h
+SPDXID: SPDXRef-item1101549
+FileChecksum: SHA1: 0e04c45ddccdd48689cc69a4529d9169c8d1c0aa
+FileChecksum: MD5: 3874f468b9fc28d773a9f168f407708f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/lookups.pl
+SPDXID: SPDXRef-item1101550
+FileChecksum: SHA1: b17cfee658ae7797480532f8b5277c6528809679
+FileChecksum: MD5: a42ded3198d4c8e65738b2f314df926e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/bitrate.c
+SPDXID: SPDXRef-item1101551
+FileChecksum: SHA1: dda1f96f54b4ef61756dc823dadfb7d2946f9bd1
+FileChecksum: MD5: eeb04aa685d2fb6f597ed9990490fc5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/mdct.c
+SPDXID: SPDXRef-item1101552
+FileChecksum: SHA1: d1bafa7ace4610cbda6eee0e3a5bf13a8aeb2733
+FileChecksum: MD5: df20fdd6286b9ce257e40562156b06df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/envelope.h
+SPDXID: SPDXRef-item1101553
+FileChecksum: SHA1: 04ff4b9e0e260be79881bec2ae678b7b3795c94a
+FileChecksum: MD5: 49edbebc9c1511cd1fde911bab9644d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/synthesis.c
+SPDXID: SPDXRef-item1101554
+FileChecksum: SHA1: ebe94e90dfddbb7cf3c7b80aeed594beffb23618
+FileChecksum: MD5: 83a1166ef9c7037cfe51db8a8b1bec53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/scales.h
+SPDXID: SPDXRef-item1101555
+FileChecksum: SHA1: c9cd2e0227f6814b21e9096878ef3853a90629ca
+FileChecksum: MD5: 15a59499648426b4e4e53cfeebef4449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/Makefile.in
+SPDXID: SPDXRef-item1101556
+FileChecksum: SHA1: bf7795cc18cdc711228aca892923aec6ff398c1c
+FileChecksum: MD5: 27df75f0781c2485b0826a0442797bc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/block.c
+SPDXID: SPDXRef-item1101557
+FileChecksum: SHA1: 5efc2be4cb59fea760f14189f37f2a0940ffbf60
+FileChecksum: MD5: 39db200fedcbe5a6362e847d74ec0ba1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/lookup_data.h
+SPDXID: SPDXRef-item1101558
+FileChecksum: SHA1: e1f254f76eb306aeb1a4342feb68c42fdaa0fe37
+FileChecksum: MD5: ee1f6f0eb302820c9098c691254b56e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/codebook.c
+SPDXID: SPDXRef-item1101559
+FileChecksum: SHA1: 9ac6e019bf81da12d8139557062e230d7183757c
+FileChecksum: MD5: 67cbddfe7b9928b05208ae78b6ef612b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/os.h
+SPDXID: SPDXRef-item1101560
+FileChecksum: SHA1: 1a630a47aa70b9ab0c87326b7bd7b70994ff21ba
+FileChecksum: MD5: 93abc85cfa480f609656fb292bf7e719
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/info.c
+SPDXID: SPDXRef-item1101561
+FileChecksum: SHA1: 84d9612143dca6a572614c3a360ea4462bfedcc4
+FileChecksum: MD5: dbef550a1b65771403c645ed77fab397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/bitrate.h
+SPDXID: SPDXRef-item1101562
+FileChecksum: SHA1: 2a97fd6f79c7597d7d97d3683e2e7fd7dc327c1a
+FileChecksum: MD5: 962ecce43653707bfab7f6fb36bf80ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/Makefile.am
+SPDXID: SPDXRef-item1101563
+FileChecksum: SHA1: bf9fe9cc209bec8cab48de7486685a438a4dae9d
+FileChecksum: MD5: 7fde5e139b20eb7635f0801df4b3ff76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/mapping0.c
+SPDXID: SPDXRef-item1101564
+FileChecksum: SHA1: fe4a11985a48fd99a186e63c99cca0f01a8a20c4
+FileChecksum: MD5: 8c924b5fe4f9fb48873c02d37e745e15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/res0.c
+SPDXID: SPDXRef-item1101565
+FileChecksum: SHA1: e5544f9c38e1b80b2ecb72cbc391589b8c147846
+FileChecksum: MD5: 085cbc19d75992c3b3b18b3a3fc1878e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/vorbisfile.c
+SPDXID: SPDXRef-item1101566
+FileChecksum: SHA1: f76fa12cbc12d5af81702daf57c47c16ace788f1
+FileChecksum: MD5: 7deaf2192a28e93cf8a5ab330dde5210
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/registry.c
+SPDXID: SPDXRef-item1101567
+FileChecksum: SHA1: ddb20d67e2a4c334a3817aacec167154ff46f4e6
+FileChecksum: MD5: d20a35a0214f50ff43f98a82129eceb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/smallft.c
+SPDXID: SPDXRef-item1101568
+FileChecksum: SHA1: 34507c4d7c1f7799f6cc3e6c5637b1f70e01afc2
+FileChecksum: MD5: 306ee0306bb34dc9dcca089c0fe1c522
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/mdct.h
+SPDXID: SPDXRef-item1101569
+FileChecksum: SHA1: 5b6fc42165e8c099e69e38884a7df323c75293bb
+FileChecksum: MD5: c4734260aa22475387cfa53ed44c3e88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/analysis.c
+SPDXID: SPDXRef-item1101570
+FileChecksum: SHA1: 7eb2d91344b96a474d25b97b888edd2c9cc7b668
+FileChecksum: MD5: 7f6455927769bd8f35ba753dd4f58918
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/floor1.c
+SPDXID: SPDXRef-item1101571
+FileChecksum: SHA1: c1fd59dde58ef91bb9166b26dcfd0bc2f68c5cb9
+FileChecksum: MD5: 26783269ae6d68bf955383b8023dc8ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/barkmel.c
+SPDXID: SPDXRef-item1101572
+FileChecksum: SHA1: f6466129c05d7ab6910f1eea4b0c4e982e1a213e
+FileChecksum: MD5: 9d30967f18335ff981ebfe982dc11b3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/misc.h
+SPDXID: SPDXRef-item1101573
+FileChecksum: SHA1: 2265fcdf219f4f0b74764ea3b76a068bdd5824c0
+FileChecksum: MD5: f79831288c92d49f310f9469a5b7d4fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/lookup.c
+SPDXID: SPDXRef-item1101574
+FileChecksum: SHA1: 5787278b5741ef3c0dbae1a6f1813824d19b6fc3
+FileChecksum: MD5: eb3e350f7972b423ec6238904c292750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/lsp.c
+SPDXID: SPDXRef-item1101575
+FileChecksum: SHA1: eb161b2cddd556809acb9bc6bfabb5ca9a197697
+FileChecksum: MD5: 94b7ee1b12a7944eae726cbde376b994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/window.h
+SPDXID: SPDXRef-item1101576
+FileChecksum: SHA1: b2af9ba4f5ff4febb06f7887f811af825176a4cc
+FileChecksum: MD5: 3aa00b493abafe68f5f2d6863165a2ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/registry.h
+SPDXID: SPDXRef-item1101577
+FileChecksum: SHA1: 9b235c4cd0b6bab4eda997fa3e271a56c1d9b4f2
+FileChecksum: MD5: 432fe4bca3665babd955f51cc380788f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/uncoupled/Makefile.in
+SPDXID: SPDXRef-item1101580
+FileChecksum: SHA1: 34dc922125db90f64f9ddca414cb738ef1171e2b
+FileChecksum: MD5: 445d6bf031a0e85400480fcc63759f53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/uncoupled/res_books_uncoupled.h
+SPDXID: SPDXRef-item1101581
+FileChecksum: SHA1: e6a9c53725ffda435cc3605b03d42b08e65de1ab
+FileChecksum: MD5: b673046f701934c929221f7746ba0a78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/uncoupled/Makefile.am
+SPDXID: SPDXRef-item1101582
+FileChecksum: SHA1: d048430fc411210804dffb36270b196aca91fcf8
+FileChecksum: MD5: 9411f6b5def34ecc9a63a392ed1539d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/Makefile.in
+SPDXID: SPDXRef-item1101583
+FileChecksum: SHA1: ee78a83ebf040943105208905b72ec72d479f63a
+FileChecksum: MD5: c116b99e6855bda16d3b9223ae71f0d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/coupled/Makefile.in
+SPDXID: SPDXRef-item1101585
+FileChecksum: SHA1: 821973aed93c9c9096e26419175782e7b9d3d6ab
+FileChecksum: MD5: 38106b1470df98bab3e8b94c3a61a952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/coupled/res_books_51.h
+SPDXID: SPDXRef-item1101586
+FileChecksum: SHA1: 0aca42f757f51f95b131a2ed30ddae1fdc7799f6
+FileChecksum: MD5: be3e447136ef6caeb405e8b8c7f89d54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/coupled/res_books_stereo.h
+SPDXID: SPDXRef-item1101587
+FileChecksum: SHA1: df50b9ea8c7a63b39929ca57da3434e86df92f2e
+FileChecksum: MD5: 01a259658c1dd516ca880027fb2b8bef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/coupled/Makefile.am
+SPDXID: SPDXRef-item1101588
+FileChecksum: SHA1: 217e40006560eb175323f82916f418369bd03030
+FileChecksum: MD5: 5f7ba5a0fd70f90e3737f197c406922c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/Makefile.am
+SPDXID: SPDXRef-item1101589
+FileChecksum: SHA1: 8d8a21bc540bcb7e70e802350a0c8f162a61f77b
+FileChecksum: MD5: 37c5e8708f58283ef3fa301b484efbac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/floor/Makefile.in
+SPDXID: SPDXRef-item1101591
+FileChecksum: SHA1: 64c754e006d9d85f1e517bfece330d213e6fec45
+FileChecksum: MD5: a5586d424090c1dfe612354bd0464cc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/floor/floor_books.h
+SPDXID: SPDXRef-item1101592
+FileChecksum: SHA1: de53055de1c7e46f60340952e1d6969f79c91ee2
+FileChecksum: MD5: 58306214037f2837e630017efb3f11b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/books/floor/Makefile.am
+SPDXID: SPDXRef-item1101593
+FileChecksum: SHA1: 0845e75f862c106abb782c959886fd3f4fb276dc
+FileChecksum: MD5: 1f2c697e16293338ef0d02f2684595c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/psytune.c
+SPDXID: SPDXRef-item1101594
+FileChecksum: SHA1: 64a3c63dcb062e68472365fd39165d1704021ea0
+FileChecksum: MD5: e8e46b4dd589c92f409e67826158a239
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/psy.h
+SPDXID: SPDXRef-item1101595
+FileChecksum: SHA1: 561ec44281c3893d62071d98c74213496abdc4a7
+FileChecksum: MD5: 1d22c6de7533247fe5a2f20f908c4efe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/lpc.h
+SPDXID: SPDXRef-item1101596
+FileChecksum: SHA1: ae7f220a59f03d164170b6c97719f977e8a198b7
+FileChecksum: MD5: 29e4fb99022459624f775b18f4e9b705
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/lsp.h
+SPDXID: SPDXRef-item1101597
+FileChecksum: SHA1: 96a53fec1ba0a301811cbfd6875fd1f7ef08270c
+FileChecksum: MD5: 978bfbd81d1e8228a292db186bc87a68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/psy.c
+SPDXID: SPDXRef-item1101598
+FileChecksum: SHA1: 65545ea35813f98e8d8401be8a977d9faef9ded1
+FileChecksum: MD5: 8ac84f20773a496fdfc1c2ef023341b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/smallft.h
+SPDXID: SPDXRef-item1101599
+FileChecksum: SHA1: 4d24db69ff14816c08316c0c056c3a792550dd55
+FileChecksum: MD5: 2ad1b868507156e3b6767c2dc3b9e386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/lpc.c
+SPDXID: SPDXRef-item1101600
+FileChecksum: SHA1: d7a3847d866c5e4cfc0b7f0184c8c200be656aa0
+FileChecksum: MD5: 1a716fc9fb772a39b49c868c3939fc79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/lib/vorbisenc.c
+SPDXID: SPDXRef-item1101601
+FileChecksum: SHA1: 76aca9fd4304578993f2c5c7365898b9fa51ee57
+FileChecksum: MD5: 2877f11ff945c425fe35b1b0bb3e3edc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/config.h.in
+SPDXID: SPDXRef-item1101602
+FileChecksum: SHA1: ea7f23292f7bf3c0bc7f0b1b352db302ae0edc64
+FileChecksum: MD5: dd24cf4c00ab69da4e4ad334044253bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/Makefile.am
+SPDXID: SPDXRef-item1101603
+FileChecksum: SHA1: 64cf631507bf369fade79d09d82f18fa8e6505ba
+FileChecksum: MD5: 7c0ab6d2fabee350cbe3842cbcb88342
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/AUTHORS
+SPDXID: SPDXRef-item1101604
+FileChecksum: SHA1: 92143d0dacd4c6be3450737b5973196c703f98b1
+FileChecksum: MD5: 29e3f1bcd15515e28aaec48a9fd1e466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/config.sub
+SPDXID: SPDXRef-item1101605
+FileChecksum: SHA1: a0870c772b786520326abce13b33db131bfb87da
+FileChecksum: MD5: 9e38dc3cc2b4e471ea192c8984fb0cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vorbisenc.pc.in
+SPDXID: SPDXRef-item1101606
+FileChecksum: SHA1: 8f7cb5e10e3c0ae8b3cc6fd09e2be69785063642
+FileChecksum: MD5: 79201c2759f4f891b21ac48116b05952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/helper.html
+SPDXID: SPDXRef-item1101608
+FileChecksum: SHA1: c485daf7993d442b03b88a9870b4d1f69e0ef31b
+FileChecksum: MD5: cfa89d8f0273bdbe09342766c7063493
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/floor1-4.png
+SPDXID: SPDXRef-item1101609
+FileChecksum: SHA1: 72a393e3dab9f66bc5fe7bb0f7d85baf7c2db667
+FileChecksum: MD5: cc544e5627bd0c9e2ff789310e5e9d9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/Vorbis_I_spec.cfg
+SPDXID: SPDXRef-item1101610
+FileChecksum: SHA1: fd15e94d6c1794886f8bcda16fecd292eb792fb5
+FileChecksum: MD5: 387ec8f2092ea49e35e6fcbdfbc64396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/stream.png
+SPDXID: SPDXRef-item1101611
+FileChecksum: SHA1: f7aea0ec1321b83733838789b81e4dd90ab062dc
+FileChecksum: MD5: 147edcd251e5741ede2a831e0adf0dfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_commentheader_out.html
+SPDXID: SPDXRef-item1101613
+FileChecksum: SHA1: cbd22fb479583b14e729a41bab88f7de90ee601e
+FileChecksum: MD5: 255e13eaeebd9c922bcccaf314b269c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_analysis_headerout.html
+SPDXID: SPDXRef-item1101614
+FileChecksum: SHA1: ee1cc223657288bd9241efdcd3579c481e9c440e
+FileChecksum: MD5: 8f7be633913b3bbc4688f9104546bfba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_comment_add.html
+SPDXID: SPDXRef-item1101615
+FileChecksum: SHA1: 8308adc24564d1f250917d6d65870e36bd100fcb
+FileChecksum: MD5: 8ec4c9c13f118023b085ab8c00043d3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_restart.html
+SPDXID: SPDXRef-item1101616
+FileChecksum: SHA1: 3b4de9ec2727d7048712e2dc40e3ec9da5bd8438
+FileChecksum: MD5: 0e4cf1315a80080250f36f359f13a4e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_pcmout.html
+SPDXID: SPDXRef-item1101617
+FileChecksum: SHA1: 12c3ba5bcaed37d0992567f6068d0cb1e8a576cc
+FileChecksum: MD5: 98bb998c7e48d8afe3234d7f23538576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_comment_query_count.html
+SPDXID: SPDXRef-item1101618
+FileChecksum: SHA1: 53efd5ffbb50b1364cd1cfee0156c3de4effe243
+FileChecksum: MD5: 294c2f87d1b86b4ea711875b808c7886
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/return.html
+SPDXID: SPDXRef-item1101619
+FileChecksum: SHA1: 5dc14a82e38091c79f939a34e6ed471319195011
+FileChecksum: MD5: c8cac6f32ad80c2886a0f01bc4e9bb6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_blockin.html
+SPDXID: SPDXRef-item1101620
+FileChecksum: SHA1: 032c8f24b7edc42f17e07a94dea4d87bebcd9225
+FileChecksum: MD5: 0f5c0e4eb00830b7909112e6d5e2b1c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_info_init.html
+SPDXID: SPDXRef-item1101621
+FileChecksum: SHA1: f452c267aead2be5b26430d1cae728b716c54f86
+FileChecksum: MD5: 9452aa8e5943a3b7d6e8aadfbe3d055d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_analysis_blockout.html
+SPDXID: SPDXRef-item1101622
+FileChecksum: SHA1: aa027d5e987d99407fb1aa04454abdc041a9bfe4
+FileChecksum: MD5: ea448b1bb9c6eb69e6cbb34c681a6b01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_comment_clear.html
+SPDXID: SPDXRef-item1101623
+FileChecksum: SHA1: 128c3ca8472295b99d5ea5614d7f146c244dc56c
+FileChecksum: MD5: 34e033cf1125c3df062276e85e493cc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/Makefile.in
+SPDXID: SPDXRef-item1101624
+FileChecksum: SHA1: e20c2cb9073bd434c1cdaedbafb742357ce1c267
+FileChecksum: MD5: 0e2294bbd55d74e9863a2fdc61aa15b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_bitrate_addblock.html
+SPDXID: SPDXRef-item1101625
+FileChecksum: SHA1: c7830f7a2c2f03730de09b8f902c1fabaa310364
+FileChecksum: MD5: d327f0b2cbb671928320938473f3b23e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_bitrate_flushpacket.html
+SPDXID: SPDXRef-item1101626
+FileChecksum: SHA1: 29e58785330f32b4e3878c2b200a826de2bbcde7
+FileChecksum: MD5: 0d9e345d5108cee4383e7ca4992ca60e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/index.html
+SPDXID: SPDXRef-item1101627
+FileChecksum: SHA1: 70c28103289e7007b4738d924896757547b283a1
+FileChecksum: MD5: dc77f3b69f7d392275185415a80367f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_trackonly.html
+SPDXID: SPDXRef-item1101628
+FileChecksum: SHA1: 4df0be786f39fa26639b409886620132a0a98506
+FileChecksum: MD5: 2787e4cf5f28abc2e9184dce7507702b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_block.html
+SPDXID: SPDXRef-item1101629
+FileChecksum: SHA1: c7fbe41a161e8541131bf2359d99601d8aadc746
+FileChecksum: MD5: 9179b4f4c45676f21cfcfd48c7579552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_granule_time.html
+SPDXID: SPDXRef-item1101630
+FileChecksum: SHA1: 32a4536a87c8036c29c289eb034a8d0a95d8f207
+FileChecksum: MD5: 4b8d217f8fa64936d2e73385825477a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_lapout.html
+SPDXID: SPDXRef-item1101631
+FileChecksum: SHA1: 1e4e5a08003066ca0252dd4e64a640178161cd65
+FileChecksum: MD5: 1b27d8a9b37ce28b55b20497dac4a0e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_comment_add_tag.html
+SPDXID: SPDXRef-item1101632
+FileChecksum: SHA1: 1fa917f265a551b2c139a6cb07a0f26475841386
+FileChecksum: MD5: e824eb8b944e4462d5680b0b2acea47b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_comment_query.html
+SPDXID: SPDXRef-item1101633
+FileChecksum: SHA1: ee7e71ea7fff972ae90e68a94e7d4d45978d96e7
+FileChecksum: MD5: 89f22cb8c98f461db2432ab2046d0243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_read.html
+SPDXID: SPDXRef-item1101634
+FileChecksum: SHA1: 35b1833358c06e51c1f32f1e067be90348bda14b
+FileChecksum: MD5: 6972bc9d3ff1d5e247cba8796798c482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/Makefile.am
+SPDXID: SPDXRef-item1101635
+FileChecksum: SHA1: 6234daeda1a1fae5a99f8f59d2846e8536f0866d
+FileChecksum: MD5: a53e2e9641ed4fcc36b759263f11d760
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/style.css
+SPDXID: SPDXRef-item1101636
+FileChecksum: SHA1: 52a68587a783e91e5abf1211cb08823d03acb77e
+FileChecksum: MD5: b6bacacc82f7403bde49a29905a9ee08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_block_init.html
+SPDXID: SPDXRef-item1101637
+FileChecksum: SHA1: 7ac4e97068d596f9f7fbc386de4304399d480d38
+FileChecksum: MD5: 3dd7d227d5847b80beb4270a12752378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/overview.html
+SPDXID: SPDXRef-item1101638
+FileChecksum: SHA1: 6c2e4622ff1d4565c8d0b76edecdc805a520086e
+FileChecksum: MD5: e88fe42e06323f69aebf2f0c9052df08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_analysis_init.html
+SPDXID: SPDXRef-item1101639
+FileChecksum: SHA1: 0e36bc993011fa9e4a759c48d8eca0d6b52c8984
+FileChecksum: MD5: d862a37c2fa50c19cd629f03fa1149b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_analysis_wrote.html
+SPDXID: SPDXRef-item1101640
+FileChecksum: SHA1: 5a3a131f53945bbf6099c4e171f701cc783caa4d
+FileChecksum: MD5: 63e0992aea27b29d5164088c7a690ec0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_dsp_clear.html
+SPDXID: SPDXRef-item1101641
+FileChecksum: SHA1: 9e64ef0212693af55a8ae057edf010b8c176f4aa
+FileChecksum: MD5: 5670b44199865058a5690ce8a8ad128c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/reference.html
+SPDXID: SPDXRef-item1101642
+FileChecksum: SHA1: d01f7c5eda658a58bc1f64a6f4714cfebbae54e5
+FileChecksum: MD5: f1d200a4d00b227b77f0ae646756cef3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_version_string.html
+SPDXID: SPDXRef-item1101643
+FileChecksum: SHA1: ad3e5025cbf7585708b94bb4cc1b61b3de607886
+FileChecksum: MD5: f3bfd1f6aceb2baa12e4046b5bf38347
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_dsp_state.html
+SPDXID: SPDXRef-item1101644
+FileChecksum: SHA1: 735d814e0e3733d60861b6e14fcc7b778bb2cc41
+FileChecksum: MD5: 3649ad2ceaf83070674cfb74e1330acb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_halfrate.html
+SPDXID: SPDXRef-item1101645
+FileChecksum: SHA1: ebe51d262f6249f00aa31c5c9d9215c9052c0195
+FileChecksum: MD5: 9a1aa83c9fe1b3d409e5345b0d994950
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_analysis_buffer.html
+SPDXID: SPDXRef-item1101646
+FileChecksum: SHA1: 58b390fe44208b191ba78c3c8bf56e50d0ef1b40
+FileChecksum: MD5: d53de80d6e153888a7e121f82fa8b7e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_idheader.html
+SPDXID: SPDXRef-item1101647
+FileChecksum: SHA1: bca612e58f5cf5bf285ced7b38604055d112201f
+FileChecksum: MD5: 8aa323e8dc4511a3040f3b55a4fd4086
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_comment.html
+SPDXID: SPDXRef-item1101648
+FileChecksum: SHA1: 3a4673b2b9b9080fe45e57cc4531bbd0d916c32b
+FileChecksum: MD5: e4e0f97c171a7ed12706124a20853869
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_analysis.html
+SPDXID: SPDXRef-item1101649
+FileChecksum: SHA1: da13303ee36e7ba98fe2a5370e1a89654ecc5183
+FileChecksum: MD5: 6847dc2dfb20e43953e9c20baedef5c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_init.html
+SPDXID: SPDXRef-item1101650
+FileChecksum: SHA1: 4557cded2540622888acab074dda86684ddf77f6
+FileChecksum: MD5: b5ca9c835ff5fe325c67df8f8363e359
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis.html
+SPDXID: SPDXRef-item1101651
+FileChecksum: SHA1: 2b6aa8e734d225e8968f315163793fab1665464e
+FileChecksum: MD5: 89e3666e9e538160fe98892ace37274c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_halfrate_p.html
+SPDXID: SPDXRef-item1101652
+FileChecksum: SHA1: dd76978c24d0538461dd7dd79ac9bda4ae14067e
+FileChecksum: MD5: fc00c5d867f166d7731ac58d91461897
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_info.html
+SPDXID: SPDXRef-item1101653
+FileChecksum: SHA1: cf44852995b49edf12ab5cb04232c3be8bc5b256
+FileChecksum: MD5: b7abfef0d516becea5470bc3fd398091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_info_clear.html
+SPDXID: SPDXRef-item1101654
+FileChecksum: SHA1: e84b82bb1f4b1c976a4895f96a2479c92eaccf3c
+FileChecksum: MD5: 3520f8a3a8a9c45dcd8dc9943f6e29ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_comment_init.html
+SPDXID: SPDXRef-item1101655
+FileChecksum: SHA1: ecc8614d8c011b69b55d0bcf0d434fa0b3e02bc9
+FileChecksum: MD5: 1466c0427901e670ae99375e6684da24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_packet_blocksize.html
+SPDXID: SPDXRef-item1101656
+FileChecksum: SHA1: d0183ca2a46f5f9c4dd4805abc04b899ce37bb35
+FileChecksum: MD5: f1acaa6d5b5516b1237fb59642a90c3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_info_blocksize.html
+SPDXID: SPDXRef-item1101657
+FileChecksum: SHA1: 794e781798c834335e95eb5064f2d835f63288ab
+FileChecksum: MD5: 196ed5f92dbcb9605064e6dc0eea90ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_block_clear.html
+SPDXID: SPDXRef-item1101658
+FileChecksum: SHA1: 64fb93d69604cdaa1f3dc56ed5464b389672391c
+FileChecksum: MD5: 01645c51fc4a4dfc60261d6a637b0949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/libvorbis/vorbis_synthesis_headerin.html
+SPDXID: SPDXRef-item1101659
+FileChecksum: SHA1: fddf8fc7279b1b10ccb8221aaa1cb639ca6ca5ac
+FileChecksum: MD5: 2b5bb5af7d7b1e9f2addb1f7905e5d85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/floor1-2.png
+SPDXID: SPDXRef-item1101660
+FileChecksum: SHA1: ae491d42df4a98e4100b0fdd5bf20ad18e320428
+FileChecksum: MD5: e8c8b1ac3c8cd43ddba4c118960ecb74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/10-tables.tex
+SPDXID: SPDXRef-item1101661
+FileChecksum: SHA1: 7b2e8fc17a108b448ac11e8e49cdb3634c87d860
+FileChecksum: MD5: 68a4d2994df55fb3bf8f134c57b8a0b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/rfc5215.txt
+SPDXID: SPDXRef-item1101662
+FileChecksum: SHA1: 7e1e8892e6a4490011ed96bbfae23191c1f47ee8
+FileChecksum: MD5: b3bdad4ad786a3d4b0b70b5d59150907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IETF-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/eightphase.png
+SPDXID: SPDXRef-item1101663
+FileChecksum: SHA1: 0c272e6fb9c112c3612c22aee7f8ee065d9ae24b
+FileChecksum: MD5: b9e4c57a1bb69b0230ada55aa21c35fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/ovectl_ratemanage_arg.html
+SPDXID: SPDXRef-item1101665
+FileChecksum: SHA1: e464c580a6951bc5cb84ce74f54fabd80d4e5615
+FileChecksum: MD5: 5b98ec08d7d339ce8ac8acd979df5565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/vorbis_encode_setup_init.html
+SPDXID: SPDXRef-item1101666
+FileChecksum: SHA1: 4b0cc23427c492a23af0b286b888ce015ffd7f7a
+FileChecksum: MD5: 213d8cf957052a91bfadd32f1d2831e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/ovectl_ratemanage2_arg.html
+SPDXID: SPDXRef-item1101667
+FileChecksum: SHA1: 4d3362348f3a7e01398f535d1147ff690c67dbe0
+FileChecksum: MD5: c9e5ea25491b96025239c70a03fec1de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/Makefile.in
+SPDXID: SPDXRef-item1101668
+FileChecksum: SHA1: df1d94ecd1439a5ef25efe843b33261819267de2
+FileChecksum: MD5: b2b2f0528b36d940bda35625a262da41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/vorbis_encode_init_vbr.html
+SPDXID: SPDXRef-item1101669
+FileChecksum: SHA1: a71cc5f04d6dbacb0924d3895a69e26e2fe43d9e
+FileChecksum: MD5: 45fee5759354f9bddad07beeb98dddb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/vorbis_encode_init.html
+SPDXID: SPDXRef-item1101670
+FileChecksum: SHA1: 3f9bb7cb90e6d91b98085ae6a3868e95d46c1168
+FileChecksum: MD5: 09aa5a5499a17df7691cb91f1be5a1c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/examples.html
+SPDXID: SPDXRef-item1101671
+FileChecksum: SHA1: 36149ddf76adf7cb62bf36a4e03948bd8ec07719
+FileChecksum: MD5: 1778cccbaf8c1d0ddcf70864ed2c48be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/index.html
+SPDXID: SPDXRef-item1101672
+FileChecksum: SHA1: 38c928d0c96371908615ccff5d6a85d8375ccbf4
+FileChecksum: MD5: 6b78d908ea30c35dfcdfa1d1dd9fe576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/changes.html
+SPDXID: SPDXRef-item1101673
+FileChecksum: SHA1: db596633d0fdf437a52e75bb033544b43a7fe295
+FileChecksum: MD5: a899824807ae13475efec8f8246a359b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/Makefile.am
+SPDXID: SPDXRef-item1101674
+FileChecksum: SHA1: 795ea936a0ac6d8cca52a25011d3feb6151f8faa
+FileChecksum: MD5: ae994f73a08139af84dd72269b6ce025
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/style.css
+SPDXID: SPDXRef-item1101675
+FileChecksum: SHA1: 52a68587a783e91e5abf1211cb08823d03acb77e
+FileChecksum: MD5: b6bacacc82f7403bde49a29905a9ee08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/overview.html
+SPDXID: SPDXRef-item1101676
+FileChecksum: SHA1: 5c25cc61bd161061f387754576eabc8958236db2
+FileChecksum: MD5: a80c71a473fc88c1966c267c4f02d76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/reference.html
+SPDXID: SPDXRef-item1101677
+FileChecksum: SHA1: f4629c77b5f587fc2518a0c2cbf5ad44a1b33f6d
+FileChecksum: MD5: 41af18c39b72d7f81959f82cd4ebab80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/vorbis_encode_ctl.html
+SPDXID: SPDXRef-item1101678
+FileChecksum: SHA1: 20c25c593266f6439adaf5c84956385b5077ab86
+FileChecksum: MD5: ee2f3452fe5e9fef39f9274216b8cf5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/vorbis_encode_setup_managed.html
+SPDXID: SPDXRef-item1101679
+FileChecksum: SHA1: 2cba4fbd599e24b0be985f84825901e173e948b9
+FileChecksum: MD5: 0227e5c4b7c227a2705f670f2cec50aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisenc/vorbis_encode_setup_vbr.html
+SPDXID: SPDXRef-item1101680
+FileChecksum: SHA1: d6b346a9575812f5d737ac168b2b26aefead6028
+FileChecksum: MD5: a7649018e2007ff715e7c98ad041bb3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/Vorbis_I_spec.css
+SPDXID: SPDXRef-item1101681
+FileChecksum: SHA1: a397dacd0524af867c96534f502bc1d6c912239e
+FileChecksum: MD5: 968cbc523ee8f9c2c32bb8397478f6c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/framing.html
+SPDXID: SPDXRef-item1101682
+FileChecksum: SHA1: 6cf59398845f6c17fe35cdb0676e0b5b3b8fad99
+FileChecksum: MD5: 9fbbc7e0b819927d702cdf4f2ed4eba5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbis-errors.txt
+SPDXID: SPDXRef-item1101683
+FileChecksum: SHA1: f2a037d12f39427555bdc2409de725974ba815fd
+FileChecksum: MD5: 1e65d184fd08b65132850fd3ff75a404
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/Makefile.in
+SPDXID: SPDXRef-item1101684
+FileChecksum: SHA1: 68f6f903d1047783b45b7f726959e8e6578e9884
+FileChecksum: MD5: bb04974805ee2d5aea4a1baab5f3adeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/Vorbis_I_spec.tex
+SPDXID: SPDXRef-item1101685
+FileChecksum: SHA1: 1aa93bb298cb99d500dae8cbe1707c4453ad8342
+FileChecksum: MD5: 504dcde5a71e5c8510157bae56859995
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/02-bitpacking.tex
+SPDXID: SPDXRef-item1101686
+FileChecksum: SHA1: 40fb540b985d63b8b0dc256ae5a3f349de1b7e7c
+FileChecksum: MD5: 1b7976f3fcc970a2a0024ba2e1f11a1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/09-helper.tex
+SPDXID: SPDXRef-item1101687
+FileChecksum: SHA1: a99de3665c5594b40ae8294f7ae1b0644277cec8
+FileChecksum: MD5: 49f1f04057dfc667ae8a3e3b9fa71b89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/a1-encapsulation-ogg.tex
+SPDXID: SPDXRef-item1101688
+FileChecksum: SHA1: 5e046dfb1c4979fcb176201ae2174eecf8649d91
+FileChecksum: MD5: 0dc5135b79226a9b692e49eb91e0f74f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/index.html
+SPDXID: SPDXRef-item1101689
+FileChecksum: SHA1: f8d50c3487857c6c385a16eadfa237c448779e5e
+FileChecksum: MD5: 2a7d38b7fa48abf2eb4c41c00e239539
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/components.png
+SPDXID: SPDXRef-item1101690
+FileChecksum: SHA1: a8ac3f96b29ed0f4e9b6874ffe210248d7013ccc
+FileChecksum: MD5: 9c975257f18d73e5db02acfe62bf78fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/programming.html
+SPDXID: SPDXRef-item1101691
+FileChecksum: SHA1: 3668685477478226e4d9bb9778a3ae19db7aa143
+FileChecksum: MD5: 4a64e8a9701cbb1260488c5762ba0a87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/Doxyfile.in
+SPDXID: SPDXRef-item1101692
+FileChecksum: SHA1: 33cd570f0958b0e6391dbe17d285d8022204793d
+FileChecksum: MD5: e877a7f2e92769b916e86bdb060f2fcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/Makefile.am
+SPDXID: SPDXRef-item1101693
+FileChecksum: SHA1: 462bdd0f8adc20caf45269c9e5d59da0d0880183
+FileChecksum: MD5: f0bbcf8b7f858c8802ed075677c37c06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/floor1_inverse_dB_table.html
+SPDXID: SPDXRef-item1101694
+FileChecksum: SHA1: 26bb4bcadc8d5ffd6818a3587cc99efe17778dbc
+FileChecksum: MD5: e46af61858a255caca5fb39f25089799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/floor1-3.png
+SPDXID: SPDXRef-item1101695
+FileChecksum: SHA1: 56f787e5a7b87d021af5f8b6c3cb9e939161cabd
+FileChecksum: MD5: ad26257e81d073e2b04a93529891f6cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/05-comment.tex
+SPDXID: SPDXRef-item1101696
+FileChecksum: SHA1: 72df8b0a4eedcc11c68601602ab45059975f4bba
+FileChecksum: MD5: ea8bab3d104d98a955c17d1571d03c45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbis-clip.txt
+SPDXID: SPDXRef-item1101697
+FileChecksum: SHA1: 130a873819295b5adc2517bf666801b276cd8c52
+FileChecksum: MD5: 9724185c26ebbad2fba02f13a6c490b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/stereo.html
+SPDXID: SPDXRef-item1101698
+FileChecksum: SHA1: f2942f3c34364f16fcacafb81bf90392e895c1a0
+FileChecksum: MD5: 50ad62939d54b4ebab45d4683519178e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/Vorbis_I_spec.pdf/Vorbis_I_spec
+SPDXID: SPDXRef-item1101701
+FileChecksum: SHA1: a881702e31aeb0eb7d07c1025625df42f5076c91
+FileChecksum: MD5: ec57e1e3b1883f4c494b46d40daf89ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/a2-encapsulation-rtp.tex
+SPDXID: SPDXRef-item1101702
+FileChecksum: SHA1: e37d821cad083ba1a16190aca5e28bfb9bdde77c
+FileChecksum: MD5: 00d2d1283dbb388725953a379275fe83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/window2.png
+SPDXID: SPDXRef-item1101703
+FileChecksum: SHA1: 0508da658ecb2fbf1b2561e95963e68db3a4f79e
+FileChecksum: MD5: a93cec8f6694ac8b3f5e2327dcd374c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/hufftree.png
+SPDXID: SPDXRef-item1101704
+FileChecksum: SHA1: 8c7663a58989727edee0f0cb1fe164d2713e8317
+FileChecksum: MD5: 6009ed8db4e5f2f56ba4590711c291c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/fish_xiph_org.png
+SPDXID: SPDXRef-item1101705
+FileChecksum: SHA1: e99969927eb9f117d64c5b4d928d881f93a89150
+FileChecksum: MD5: 577cb1de2f201f4c473b89118b342b28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbis-fidelity.html
+SPDXID: SPDXRef-item1101706
+FileChecksum: SHA1: bb049ee4abf293e3ef8ec4a1e7566d8b6448e72e
+FileChecksum: MD5: d8514f909e7f1b2bb57e9405cf2bcfb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/floorval.png
+SPDXID: SPDXRef-item1101707
+FileChecksum: SHA1: d0d65f991b7c33839fd7540fd08f2fde6175c019
+FileChecksum: MD5: e8247a18da31f6c23091550edf73cd08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/floor1-1.png
+SPDXID: SPDXRef-item1101708
+FileChecksum: SHA1: 1fb5ff6a817790de859fba262633a2274280850c
+FileChecksum: MD5: 0d1b11062f9fe0930509700e2e688d4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/residue-pack.png
+SPDXID: SPDXRef-item1101709
+FileChecksum: SHA1: 549d7089b73d9259fbf239475709b8492a74f2ef
+FileChecksum: MD5: 397e6f2e1b80b25bb800206de9eca33b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/residue2.png
+SPDXID: SPDXRef-item1101710
+FileChecksum: SHA1: 7d92db462b05e5c13e685f1ad0b700cafcb7fc69
+FileChecksum: MD5: 9eec2738386f18a99d67d5f0e68f57fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/rfc5215.xml
+SPDXID: SPDXRef-item1101711
+FileChecksum: SHA1: c93417cf85c275e8ea455283832faec3f1ece1eb
+FileChecksum: MD5: 3bd4aa20b67cd5c07d5102a489e1fb7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/08-residue.tex
+SPDXID: SPDXRef-item1101712
+FileChecksum: SHA1: 89c90e2d2bd3c182d9b5cc490c33da865e0876a4
+FileChecksum: MD5: c07623caea22766d3edaa1441532ac02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/03-codebook.tex
+SPDXID: SPDXRef-item1101713
+FileChecksum: SHA1: f3a3730938acf0ef1e2769f5d9508e3fe19d8310
+FileChecksum: MD5: 1bad9893f7c530ba3f6ffa3461eae987
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/04-codec.tex
+SPDXID: SPDXRef-item1101714
+FileChecksum: SHA1: 573b0a196c8026d9eeab9b56f86a80305ff86f3a
+FileChecksum: MD5: 5d366aa596ed29f57406459e79307990
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/01-introduction.tex
+SPDXID: SPDXRef-item1101715
+FileChecksum: SHA1: c712cc5d6a82315acef0c4b5f7936feb5e1b3aac
+FileChecksum: MD5: 0b1d037358f6d145f276b4a049719f04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/06-floor0.tex
+SPDXID: SPDXRef-item1101716
+FileChecksum: SHA1: 747c405b2dcae8e893034d17014c09fe9cb999a1
+FileChecksum: MD5: 91837536dbc585ac5d000bf14bdd4844
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/v-comment.html
+SPDXID: SPDXRef-item1101717
+FileChecksum: SHA1: bbcd5998fb6702242ecc55458feb79455174c065
+FileChecksum: MD5: 9f72b3d627fb477ab1761a6932e7749c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/07-floor1.tex
+SPDXID: SPDXRef-item1101718
+FileChecksum: SHA1: 95abd5f9d73f546e72b61fc37eca1efc315c10ec
+FileChecksum: MD5: 0c176e056f893b2afd76522ae7d8bef9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/oggstream.html
+SPDXID: SPDXRef-item1101719
+FileChecksum: SHA1: 17aa9d3bf0313aac4b98b2d20010c14e225f5cd6
+FileChecksum: MD5: 20d232c10e95b555afe855a658ed1070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/Vorbis_I_spec.html
+SPDXID: SPDXRef-item1101720
+FileChecksum: SHA1: bfd1a3b8f0cb563635c512d3d1539ad5a9ca9367
+FileChecksum: MD5: 283931113f4a446de8799a91a2e55725
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/squarepolar.png
+SPDXID: SPDXRef-item1101721
+FileChecksum: SHA1: f9938dbfa775853443b6cc643131978b9cf053e2
+FileChecksum: MD5: 18b7d83f940e32ac98403077d8343d33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_raw_seek_lap.html
+SPDXID: SPDXRef-item1101723
+FileChecksum: SHA1: 891055bf95af0e046bb7a15da0d9423d6e0168b9
+FileChecksum: MD5: d7b4394b319fd0ceea8cf843d198fcab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_raw_seek.html
+SPDXID: SPDXRef-item1101724
+FileChecksum: SHA1: a6e03258048aa3ef0d95e7ea0dcacc61382d5379
+FileChecksum: MD5: 15c4994d9498cf9925abf32794154be2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_crosslap.html
+SPDXID: SPDXRef-item1101725
+FileChecksum: SHA1: e752f98a66cc19e93a65986a5c94553cbcf8c84f
+FileChecksum: MD5: 4319fa04bb70d12d412d7dccf0a9cfde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_fopen.html
+SPDXID: SPDXRef-item1101726
+FileChecksum: SHA1: e25f271effba9fdb995cace5bb6872fb6d6b268f
+FileChecksum: MD5: 59e2a7940856ae86c56ce2532535aa2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_pcm_seek_lap.html
+SPDXID: SPDXRef-item1101727
+FileChecksum: SHA1: 6c59e72228839af4321b5811c3691950e0bef9ce
+FileChecksum: MD5: cbbe806aa2515c1ee35141263f73812b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/chainingexample.html
+SPDXID: SPDXRef-item1101728
+FileChecksum: SHA1: e530445cf9aeda3787f62e25b82b1b9ba7901521
+FileChecksum: MD5: 26137c18ee7f50632e9c8b009672b11a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/exampleindex.html
+SPDXID: SPDXRef-item1101729
+FileChecksum: SHA1: c077b1ebd991eee9fc3951c62745eb2d6f54dcf1
+FileChecksum: MD5: 45c6689af1f82bb1bfb475ec85fd0f3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_pcm_total.html
+SPDXID: SPDXRef-item1101730
+FileChecksum: SHA1: 5b451d24078fb4fef958e50ae7ce6834cb233acf
+FileChecksum: MD5: 754d8098e02a7109574f832fd6ed3c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/seeking_example_c.html
+SPDXID: SPDXRef-item1101731
+FileChecksum: SHA1: 0d2fbea317a23d7c22563d7ce0fef04e3b02d9ed
+FileChecksum: MD5: 87cc30efd32c389a9d48824ddf93806a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_pcm_seek_page.html
+SPDXID: SPDXRef-item1101732
+FileChecksum: SHA1: 3b9921883dab7e2c7b8edddb4cb21b551b2d7def
+FileChecksum: MD5: 9277795658461c231bfd406134ad4340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/chaining_example_c.html
+SPDXID: SPDXRef-item1101733
+FileChecksum: SHA1: 9ecb4c417114135b1cf9abbabf7df7bc7ec78062
+FileChecksum: MD5: 24539f2b020906ce599f3f23fa056f36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_read.html
+SPDXID: SPDXRef-item1101734
+FileChecksum: SHA1: 5f93afe6dedd8c013e6b750c3908832dbea1e40d
+FileChecksum: MD5: a1d957fefd89130e0b527d6518c3691d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/seekingexample.html
+SPDXID: SPDXRef-item1101735
+FileChecksum: SHA1: ff8bd5cee319bab67fb78259dcfc6be689962c2a
+FileChecksum: MD5: 8fcbc875d84229074a8042cb3f9e375b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_read_float.html
+SPDXID: SPDXRef-item1101736
+FileChecksum: SHA1: 7bd12643d833812650a1e8052b500b5cc4c773c4
+FileChecksum: MD5: ba770b02bafd16113c4a8c9ce6bbef96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_time_tell.html
+SPDXID: SPDXRef-item1101737
+FileChecksum: SHA1: a1a0e3eceef7ef40f4dba3e46b0131fa8eb5b53d
+FileChecksum: MD5: 7490bfd821e01d822a6a983968dd9dec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_serialnumber.html
+SPDXID: SPDXRef-item1101738
+FileChecksum: SHA1: 65980e7b3e8ea058a87b825cf4fffa084600176d
+FileChecksum: MD5: 912d06c1d4d5ac04e6c9395b4173a37a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_time_seek_lap.html
+SPDXID: SPDXRef-item1101739
+FileChecksum: SHA1: a266d04699e6834c908e7a2d22bbc6557a1a4fd7
+FileChecksum: MD5: 29efb9124731bcad8c2c6c01753c5dd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/Makefile.in
+SPDXID: SPDXRef-item1101740
+FileChecksum: SHA1: 46ee8a7f02c5c7b2f1ab50c151b99ad104af84f3
+FileChecksum: MD5: df572be9cb74f89e4c1abcff958bb2be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_pcm_seek_page_lap.html
+SPDXID: SPDXRef-item1101741
+FileChecksum: SHA1: 26c1913f88556564c64c788c47919ae268058ee6
+FileChecksum: MD5: 31c6afcb406cc3f07c061777bfd8cdf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/seeking.html
+SPDXID: SPDXRef-item1101742
+FileChecksum: SHA1: 242980d5a4c75f35da3851e48d8feddd229f6b33
+FileChecksum: MD5: 0f96b39cabcebdd97378fd8e5da039f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_callbacks.html
+SPDXID: SPDXRef-item1101743
+FileChecksum: SHA1: 4717d07dae1fc38983af58b1a2a0775993dc5c72
+FileChecksum: MD5: cf2034ff5465644aff7cd53696669350
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/index.html
+SPDXID: SPDXRef-item1101744
+FileChecksum: SHA1: 762ccf33fdc3bc2a3815f44672c77a5861a4797c
+FileChecksum: MD5: 2667a9f791933786672e13d20e39bee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_pcm_tell.html
+SPDXID: SPDXRef-item1101745
+FileChecksum: SHA1: ecf586ef662a93366b819aa902dbf17f6d854c29
+FileChecksum: MD5: dcfa03eb61433d03c7160f58f1009a97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/crosslap.html
+SPDXID: SPDXRef-item1101746
+FileChecksum: SHA1: 20f76a31408f1804f99af16fa02044a43fb96a34
+FileChecksum: MD5: efc3f0a7dbd9c3648a59412ba12bfbbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_raw_total.html
+SPDXID: SPDXRef-item1101747
+FileChecksum: SHA1: 56264778e53a7a970d4f256ab4c908a1bc5ff9e5
+FileChecksum: MD5: 45ddb28ecded04403e23a9e6a2a9a4d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_comment.html
+SPDXID: SPDXRef-item1101748
+FileChecksum: SHA1: a219bd9a62d81f04f36c71102ac9a9460c0255cb
+FileChecksum: MD5: 67ac03643039a887261f7d4ecf3f9ae5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_test.html
+SPDXID: SPDXRef-item1101749
+FileChecksum: SHA1: 9c21f47ec1d95eeaf5b64bdf4327520d688fe2fe
+FileChecksum: MD5: ee259f9f42345973ae48974b6dbeddaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_time_seek_page_lap.html
+SPDXID: SPDXRef-item1101750
+FileChecksum: SHA1: 0dd1484a6d0573654fbe7dec3cd6b11092f71e92
+FileChecksum: MD5: 6e499a89d0a760b2f287a7ab54f2ad5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_test_open.html
+SPDXID: SPDXRef-item1101751
+FileChecksum: SHA1: b6aa722a4d8b879cf9ee410ac610cf47927b6fa1
+FileChecksum: MD5: 7e97fc692102b9bb19ee3d1f56dca095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/Makefile.am
+SPDXID: SPDXRef-item1101752
+FileChecksum: SHA1: d8b5c32b2fd320983b3bd7e90c0d37dd0e68829e
+FileChecksum: MD5: 544ebf20dd8c5250a6240dd957c662f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_clear.html
+SPDXID: SPDXRef-item1101753
+FileChecksum: SHA1: 46c449d7eb7e9b8ed3e29b64258c64e8c5637ad4
+FileChecksum: MD5: 946f25e94da99a150aa707b58a62a310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_open.html
+SPDXID: SPDXRef-item1101754
+FileChecksum: SHA1: a047284d67152fd3c2e6d6511f8b71ac444ae3e9
+FileChecksum: MD5: 1e48b096c710b5df790602bb010110d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/style.css
+SPDXID: SPDXRef-item1101755
+FileChecksum: SHA1: 52a68587a783e91e5abf1211cb08823d03acb77e
+FileChecksum: MD5: b6bacacc82f7403bde49a29905a9ee08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/callbacks.html
+SPDXID: SPDXRef-item1101756
+FileChecksum: SHA1: 9cb245f97b136a5e17b18a3cdacc342bd741ad27
+FileChecksum: MD5: e3bf76b33805e46c75939bbc89a31867
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/overview.html
+SPDXID: SPDXRef-item1101757
+FileChecksum: SHA1: 0ade402ae7d9145964b968f21fade77a57602421
+FileChecksum: MD5: c37d24efbfbe38455d2ce8e855c7e7bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/fileinfo.html
+SPDXID: SPDXRef-item1101758
+FileChecksum: SHA1: fce0a6099b43047eea2643b8ceeadc554fee44c9
+FileChecksum: MD5: 75f7087aa3e6d49c7677cba829ef598d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_seekable.html
+SPDXID: SPDXRef-item1101759
+FileChecksum: SHA1: af308c2685f75e616ce7bc93a2263f6712855f70
+FileChecksum: MD5: 3f4bc2b00c5059b189eed7cc4091c712
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/datastructures.html
+SPDXID: SPDXRef-item1101760
+FileChecksum: SHA1: a2c0a73bb6863cf6d55fdecf961ef3a8b188fdbb
+FileChecksum: MD5: c8cab4c36ba0503d268cfa72c97292e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_bitrate.html
+SPDXID: SPDXRef-item1101761
+FileChecksum: SHA1: 784652972ab59d5181751d51ea9180d1a8fab741
+FileChecksum: MD5: 1cc442a2d26239b101f4184332bd42c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_streams.html
+SPDXID: SPDXRef-item1101762
+FileChecksum: SHA1: 16d668f1e2bb03984e551d85fefbcedc0e7002a1
+FileChecksum: MD5: 298db71b25f357603b1f81c3da8e2b6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/seeking_test_c.html
+SPDXID: SPDXRef-item1101763
+FileChecksum: SHA1: 0d2fbea317a23d7c22563d7ce0fef04e3b02d9ed
+FileChecksum: MD5: 87cc30efd32c389a9d48824ddf93806a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/reference.html
+SPDXID: SPDXRef-item1101764
+FileChecksum: SHA1: 77c44ddea4752673eb6e642eb8e528f1e5b79b18
+FileChecksum: MD5: 54ef3eb427b0cdb552e8f5706b9b4215
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_bitrate_instant.html
+SPDXID: SPDXRef-item1101765
+FileChecksum: SHA1: 9d5b0e1571399017f0f6d3a1717b7fa98f66934b
+FileChecksum: MD5: 932dcd4b295b8ad1838e73c95b5562bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/initialization.html
+SPDXID: SPDXRef-item1101766
+FileChecksum: SHA1: 794a854191ac9dc0f1ff449507a7beff70d9441a
+FileChecksum: MD5: 54876e38157dcc858e8222cbc0e18ebf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/threads.html
+SPDXID: SPDXRef-item1101767
+FileChecksum: SHA1: 274a931f0ac6dd175af79782ded2f13d4bde4aa6
+FileChecksum: MD5: bf0f44c5a8195ca93282de105d02c6bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_raw_tell.html
+SPDXID: SPDXRef-item1101768
+FileChecksum: SHA1: 1ca871ee695a9f413a6a7145d9fc7b19fc18de31
+FileChecksum: MD5: 7ca214765b0985f8725b7d171ca38ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/OggVorbis_File.html
+SPDXID: SPDXRef-item1101769
+FileChecksum: SHA1: f7fedae7d5c92a8ba6cc9f44021704da32dc2c95
+FileChecksum: MD5: 565612b02238aebd6c6d94ee4d97e89b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/seekexample.html
+SPDXID: SPDXRef-item1101770
+FileChecksum: SHA1: 99d747f87222936e48b25c17919f9217f45fd2c3
+FileChecksum: MD5: 5662ed2383c80af54340407c3d5d3ec3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_test_callbacks.html
+SPDXID: SPDXRef-item1101771
+FileChecksum: SHA1: 3e60da2542b8fda83285351fe52c5bef21d68bf0
+FileChecksum: MD5: d7354130558a1b6342944502b8881b2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/example.html
+SPDXID: SPDXRef-item1101772
+FileChecksum: SHA1: 5916078f3df741bceeae18f3b31156d706387f05
+FileChecksum: MD5: 8454e9e1b2b6a11f0de27c47c14f8808
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_time_total.html
+SPDXID: SPDXRef-item1101773
+FileChecksum: SHA1: de84605257d7a10031670da4caf14d4ea5d65e5f
+FileChecksum: MD5: cae25204757b1dd6b32d1842cab2cdef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_read_filter.html
+SPDXID: SPDXRef-item1101774
+FileChecksum: SHA1: 406b92c2f14b878591458ab3c3a138f59ac054bb
+FileChecksum: MD5: 61baeb5fafad690b953d40b9845e1626
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_time_seek_page.html
+SPDXID: SPDXRef-item1101775
+FileChecksum: SHA1: e65e78cd9b37aba5c6623353890451a62c45f440
+FileChecksum: MD5: 092a67b9c7ece7574a9f0c1941b559e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_pcm_seek.html
+SPDXID: SPDXRef-item1101776
+FileChecksum: SHA1: 8d6ca360241cf3d5080af6639b478275cac64fa6
+FileChecksum: MD5: aa11bd7ec8501dee780534312e24d683
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/decoding.html
+SPDXID: SPDXRef-item1101777
+FileChecksum: SHA1: 8a0decb8f788462bc64c70768ec1fefc79f736f5
+FileChecksum: MD5: 3fff4dcc9ab72a30870c260830ec88b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/vorbisfile_example_c.html
+SPDXID: SPDXRef-item1101778
+FileChecksum: SHA1: 43e73115d4f3ea74f08adfb72e0842d61a09fec3
+FileChecksum: MD5: dbc2f690c35bc098e087722f2ca3ffb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_time_seek.html
+SPDXID: SPDXRef-item1101779
+FileChecksum: SHA1: 992551509f8dc4ff15856981bc3c0454538b586a
+FileChecksum: MD5: fc2b6033176a2a900fdd94d14bb1605e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_open_callbacks.html
+SPDXID: SPDXRef-item1101780
+FileChecksum: SHA1: 2d74e40bfb2f95e9b3de11a4804df738738c893c
+FileChecksum: MD5: 02c5dcd4a5ba9c5d32718e3efd1a89bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/vorbisfile/ov_info.html
+SPDXID: SPDXRef-item1101781
+FileChecksum: SHA1: 5d3132f5840371095569278e810ab569cf1a501a
+FileChecksum: MD5: e345aeb76903113358787ba19bbf7506
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/footer.tex
+SPDXID: SPDXRef-item1101782
+FileChecksum: SHA1: 8b3498b78024c86ee00b41a5e8ec3fce9a49927d
+FileChecksum: MD5: 726d4e8576dff2121fa51d41411f6575
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/hufftree-under.png
+SPDXID: SPDXRef-item1101783
+FileChecksum: SHA1: 32d07170c73d36f34dac8442d86c0ea0313b6b46
+FileChecksum: MD5: 7ad0c6cb12f80fea3f700b02543212bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/fourphase.png
+SPDXID: SPDXRef-item1101784
+FileChecksum: SHA1: b219c6d19d8d94ec3647643fd1f397fd988f1fbd
+FileChecksum: MD5: 489a3e2e09354bb2d6e6c262d14e2792
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/doc/window1.png
+SPDXID: SPDXRef-item1101785
+FileChecksum: SHA1: badfe55de20121718961d1fbdfbe77455b34e09f
+FileChecksum: MD5: 1df905ac7bcb1af2e4cc805e926f9209
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/test/write_read.h
+SPDXID: SPDXRef-item1101787
+FileChecksum: SHA1: 6cddd00ebf59427c8c69c45f8caa38ef8d0854ac
+FileChecksum: MD5: 2faaa5d400e11862753dd87749156bf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/test/Makefile.in
+SPDXID: SPDXRef-item1101788
+FileChecksum: SHA1: cdc5003692d9238420d675c712d988ce88dc1f31
+FileChecksum: MD5: 419d45302a59475b87e1487036573b6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/test/write_read.c
+SPDXID: SPDXRef-item1101789
+FileChecksum: SHA1: f720460834569aa7dc68e5beb05147fdcd19392a
+FileChecksum: MD5: 24c08c81670f4cde3f6ab8e0619e045f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/test/Makefile.am
+SPDXID: SPDXRef-item1101790
+FileChecksum: SHA1: a2feea7e38c34ad9a54fe1670df41b982175d59f
+FileChecksum: MD5: be98cf0770c7be2397e19c1846c970d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/test/test.c
+SPDXID: SPDXRef-item1101791
+FileChecksum: SHA1: bb903d1ae79363acb5f21ad812e78cb4e8d6c996
+FileChecksum: MD5: 6878ef7722b3a3d96a3bc68710c43774
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/test/util.c
+SPDXID: SPDXRef-item1101792
+FileChecksum: SHA1: f89ac64df8f7fc16fc01f6e53611a89cbe5b8f82
+FileChecksum: MD5: a2154e962c8e290ef06356f13f9cf3f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/test/util.h
+SPDXID: SPDXRef-item1101793
+FileChecksum: SHA1: eec3ede20c1f858cfc7f7558b8ec3cbb01f9e75c
+FileChecksum: MD5: f65e1dbf26ebabe681d6b7282f855c78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/missing
+SPDXID: SPDXRef-item1101794
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vorbisenc-uninstalled.pc.in
+SPDXID: SPDXRef-item1101795
+FileChecksum: SHA1: 379ac92693fbd2c94424e66debe0fe26951f63fb
+FileChecksum: MD5: c685eb7ca1765fa1b6a068fe198746d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macosx/Info.plist
+SPDXID: SPDXRef-item1101797
+FileChecksum: SHA1: e602df74427557fa3b9af663a0d86b903426f85e
+FileChecksum: MD5: 1966dbbd27ebd991090af529d9f1f3b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macosx/Vorbis.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item1101799
+FileChecksum: SHA1: 17399e7314ccc85deb79f45e3198a5144da5575b
+FileChecksum: MD5: 91c32e5738245ea33250a7b9290a729f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/macosx/English.lproj/InfoPlist.strings
+SPDXID: SPDXRef-item1101801
+FileChecksum: SHA1: f1b659a01ad4fa891cb285704e21fcc4f607a774
+FileChecksum: MD5: 85c4ce9f09afabab7e212c7ee2db0ddb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/CHANGES
+SPDXID: SPDXRef-item1101802
+FileChecksum: SHA1: 5895179fc5c5be4755461baba484d7d7618dba71
+FileChecksum: MD5: 69feaeb578164deb25dde5868142a2f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/README
+SPDXID: SPDXRef-item1101803
+FileChecksum: SHA1: a8db8a3729d0b7b51e536ebad49d3338c01f966e
+FileChecksum: MD5: ec04ac4b841626416e370811a1193a79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/vorbis-uninstalled.pc.in
+SPDXID: SPDXRef-item1101804
+FileChecksum: SHA1: 10d098a8d2183845b72a3c3101ed0e1f02e583d7
+FileChecksum: MD5: 1c4504e7a6534dada0e885f8f81a7e58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/todo.txt
+SPDXID: SPDXRef-item1101805
+FileChecksum: SHA1: db77bb75d076c72fcddaa21a308b18a1a757a92a
+FileChecksum: MD5: 47980332adb88080a83d4a580db4d872
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/vorbisenc.def
+SPDXID: SPDXRef-item1101807
+FileChecksum: SHA1: a5e45cdc44b4458745a5c95b49098df3cdb9b82a
+FileChecksum: MD5: 77d7e6e0cfd271fd4d4539eabb6d3b52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/libvorbis/libvorbis_dynamic.vcxproj
+SPDXID: SPDXRef-item1101810
+FileChecksum: SHA1: f59a3012493adfbeff84f5cc25be6ec65cae257a
+FileChecksum: MD5: 35ee31ff5215596fbcec3085869a4bcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/libvorbis/libvorbis_static.vcxproj
+SPDXID: SPDXRef-item1101811
+FileChecksum: SHA1: 8c2faf10610dc9c489ea2e7dc6638f8c100b9aa2
+FileChecksum: MD5: 79f8669d2d87af6b42ae2415e5a5c397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/vorbisdec/vorbisdec_static.vcxproj
+SPDXID: SPDXRef-item1101813
+FileChecksum: SHA1: a675dbdec650561b13c09645c711851775eb6654
+FileChecksum: MD5: 0c1c28a954001208306f09c324a456cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/vorbisdec/vorbisdec_dynamic.vcxproj
+SPDXID: SPDXRef-item1101814
+FileChecksum: SHA1: 461f3e7ee2862d51b664215606f99630e0190284
+FileChecksum: MD5: 03e698f0c3c3416de3bc6005132d51ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/vorbisenc/vorbisenc_dynamic.vcxproj
+SPDXID: SPDXRef-item1101816
+FileChecksum: SHA1: 30c3f30d3dbec9d0033ee227b60cca38ff54854f
+FileChecksum: MD5: d73792ccd7c00bd25b1aff63a14bf243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/vorbisenc/vorbisenc_static.vcxproj
+SPDXID: SPDXRef-item1101817
+FileChecksum: SHA1: 54758eb2ff513b225656074625bc53b1d22b9a47
+FileChecksum: MD5: ae6a781ba5b8aa55eb74057d8d6c10a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/libvorbisfile/libvorbisfile_dynamic.vcxproj
+SPDXID: SPDXRef-item1101819
+FileChecksum: SHA1: a09cbfdbcf784dc7d5fa28adbe11db6e81ed4f71
+FileChecksum: MD5: 2cee95a4f9c80ceb40fcc9307235f5ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/libvorbisfile/libvorbisfile_static.vcxproj
+SPDXID: SPDXRef-item1101820
+FileChecksum: SHA1: 61a792f750744075db85b468ba59bf10e19b01e6
+FileChecksum: MD5: 2c7fb627e190c6a5b59d558019b9cc4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/vorbis_static.sln
+SPDXID: SPDXRef-item1101821
+FileChecksum: SHA1: 3c50427996d520115583bd78d39c6225eb3b6e1b
+FileChecksum: MD5: 108a3f8800cef8d69f4851cafc4dff91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/README
+SPDXID: SPDXRef-item1101822
+FileChecksum: SHA1: 9388c527b606e8923c802102f96ab0fc5eff9d3a
+FileChecksum: MD5: 77dc58827bc2b2c30b93219b2f1e4bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/libogg.props
+SPDXID: SPDXRef-item1101823
+FileChecksum: SHA1: 7e53295aa695710854d2d2ea58bfeb0aa9aaab46
+FileChecksum: MD5: 60e86588e65c66bb0a07e179d5d5d012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2010/vorbis_dynamic.sln
+SPDXID: SPDXRef-item1101824
+FileChecksum: SHA1: eaadd3dff6b7d96f44f9e3a0638dc8df74d3bde2
+FileChecksum: MD5: 9dc8e070b3630c02270c06f88ed2e4d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/libvorbis/libvorbis_static.vcproj
+SPDXID: SPDXRef-item1101827
+FileChecksum: SHA1: bbc443373805b108c0f22c47536668c9bcdaacf6
+FileChecksum: MD5: ea91f70b4786afc4937ee64bb63cab81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/libvorbis/libvorbis_dynamic.vcproj
+SPDXID: SPDXRef-item1101828
+FileChecksum: SHA1: 32b925a4c19c554fc65d541a8f99fc44b9460cbe
+FileChecksum: MD5: 301168c0856db824b4b02602190a0fe3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/vorbisdec/vorbisdec_dynamic.vcproj
+SPDXID: SPDXRef-item1101830
+FileChecksum: SHA1: 264755fa71736c5677861ba2a5d1032b63660ffb
+FileChecksum: MD5: 1b0f837f317b0ffc2d19333a1893b7ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/vorbisdec/vorbisdec_static.vcproj
+SPDXID: SPDXRef-item1101831
+FileChecksum: SHA1: 35ff3d92aa77e4bda7e590ae38448572341aca77
+FileChecksum: MD5: 666e671c1763903a480944a05e2cc3c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/vorbisenc/vorbisenc_dynamic.vcproj
+SPDXID: SPDXRef-item1101833
+FileChecksum: SHA1: f71e9c83c26a208bd05f925de59f4bc74239bf6c
+FileChecksum: MD5: 6091b065f45d96050ce93b6413d51638
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/vorbisenc/vorbisenc_static.vcproj
+SPDXID: SPDXRef-item1101834
+FileChecksum: SHA1: 31bde4765f8fd71c75a22deda684424a6ca71b08
+FileChecksum: MD5: c79cbf3bd8cf2a4bc70b6ac905074353
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/libvorbisfile/libvorbisfile_dynamic.vcproj
+SPDXID: SPDXRef-item1101836
+FileChecksum: SHA1: a848700e34ca0820de2295d661af912694c42d5e
+FileChecksum: MD5: 210d2d8a6e80cef23ee2961f56af2531
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/libvorbisfile/libvorbisfile_static.vcproj
+SPDXID: SPDXRef-item1101837
+FileChecksum: SHA1: fa63c00ae9a19c87f802d7a92c0a27aed9e6c073
+FileChecksum: MD5: 5d61f99e24bd23ccf76b7bbcfc4cd2ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/vorbis_static.sln
+SPDXID: SPDXRef-item1101838
+FileChecksum: SHA1: aa75c2ce6bb88e52cd957cca1c9f8bfc455f80f1
+FileChecksum: MD5: ab37583c6a205173235ba72c7cdfd353
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/README
+SPDXID: SPDXRef-item1101839
+FileChecksum: SHA1: d4b691a210ad5cbc2c6ff8a7003306f9b793f032
+FileChecksum: MD5: bf6c7ea78fbfc26f99ea0c1a334e1ccf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/libogg.vsprops
+SPDXID: SPDXRef-item1101840
+FileChecksum: SHA1: ab71365875b472cc8e4c46dc1ce2d48d85ab6b1b
+FileChecksum: MD5: 3ae095a3ae39b05c6f3e9a2724036528
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2005/vorbis_dynamic.sln
+SPDXID: SPDXRef-item1101841
+FileChecksum: SHA1: d433116c9359b886a5bc6440d35c39d31c7b8b33
+FileChecksum: MD5: 63b0982a9477bb910403346d2ff82959
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/vorbisfile.def
+SPDXID: SPDXRef-item1101842
+FileChecksum: SHA1: 527d076bf7dd2b48606a04e6a4f89b48cd2c3b0a
+FileChecksum: MD5: 0303816bea6270d9c76b0ed610133684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/vorbis.def
+SPDXID: SPDXRef-item1101843
+FileChecksum: SHA1: bba5ed88e1594c56270e32327e00853f27cd5c1c
+FileChecksum: MD5: 94d1e1fd712e695f8425d4aa32d3a714
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/libvorbis/libvorbis_static.vcproj
+SPDXID: SPDXRef-item1101846
+FileChecksum: SHA1: aba663b893622c3ba6ae1e53636568a515b0e7bb
+FileChecksum: MD5: bcfa4348dcf019b6ad6f86840c3e330c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/libvorbis/libvorbis_dynamic.vcproj
+SPDXID: SPDXRef-item1101847
+FileChecksum: SHA1: 71f1a4f763d75fb2e7f9fe006c6d7cdc5ba8ed87
+FileChecksum: MD5: 6f7db4bf24647d574f3c4c00bf9b6f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/vorbisdec/vorbisdec_dynamic.vcproj
+SPDXID: SPDXRef-item1101849
+FileChecksum: SHA1: 0f0e4420dbc53543977e7397eb6e8b5c5cb2fa68
+FileChecksum: MD5: 952d42765e834b1643cca9e699133e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/vorbisdec/vorbisdec_static.vcproj
+SPDXID: SPDXRef-item1101850
+FileChecksum: SHA1: d5eb6949f851a7348435bc409d22e3b65363f3a4
+FileChecksum: MD5: 711b284a29161e912d32467720cf08c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/vorbisenc/vorbisenc_dynamic.vcproj
+SPDXID: SPDXRef-item1101852
+FileChecksum: SHA1: 962a32bf9ec6637a106fc5408d625efa3425a0db
+FileChecksum: MD5: 7ba3eb1ec9efb019238b84be1115f733
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/vorbisenc/vorbisenc_static.vcproj
+SPDXID: SPDXRef-item1101853
+FileChecksum: SHA1: 2c7b3e2987318ef169f28fc28cdf0f015b0f98da
+FileChecksum: MD5: 80ba122fad79de49c55c8a2e8e89f2a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/libvorbisfile/libvorbisfile_dynamic.vcproj
+SPDXID: SPDXRef-item1101855
+FileChecksum: SHA1: 43c44258a32155a426eaebe2607785cd85bf6c23
+FileChecksum: MD5: aa3519b8aff3aa40054e62f9ceeb0661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/libvorbisfile/libvorbisfile_static.vcproj
+SPDXID: SPDXRef-item1101856
+FileChecksum: SHA1: b5edfb4155d5988ce9a57eeff16c2e0fcc5509ff
+FileChecksum: MD5: 5b1b49bb21c06d35274ce846ffb2e84d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/vorbis_static.sln
+SPDXID: SPDXRef-item1101857
+FileChecksum: SHA1: 4da3a696c8306d5b7888ce694c323a724cad735a
+FileChecksum: MD5: 6812a2567579f333c93bc756a3da1fe3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/README
+SPDXID: SPDXRef-item1101858
+FileChecksum: SHA1: d4b691a210ad5cbc2c6ff8a7003306f9b793f032
+FileChecksum: MD5: bf6c7ea78fbfc26f99ea0c1a334e1ccf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/libogg.vsprops
+SPDXID: SPDXRef-item1101859
+FileChecksum: SHA1: 3a2112d5305bb2d1f65091d6150babb7ef7b9a27
+FileChecksum: MD5: 2d4230bc2ea435183183ea16244c6d5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/win32/VS2008/vorbis_dynamic.sln
+SPDXID: SPDXRef-item1101860
+FileChecksum: SHA1: f5f81aabfda7441a2a685c5fb8fdac520ec3b87f
+FileChecksum: MD5: a152235e89149af0792f38949b0fe9a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/0001-configure-Check-for-clang.patch/.timestamp
+SPDXID: SPDXRef-item1101863
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/0001-configure-Check-for-clang.patch/configure.ac
+SPDXID: SPDXRef-item1101864
+FileChecksum: SHA1: c859bdb3118e83edf60a0cf15a517d32f427bfa4
+FileChecksum: MD5: 63bfa9a8c509966a8812d5e17449645a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/applied-patches
+SPDXID: SPDXRef-item1101865
+FileChecksum: SHA1: cc04dc304b14ea682f7fd22f9f9103c555c974e7
+FileChecksum: MD5: cf623329b5c6ff874dcfc6dcb454aa87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/.quilt_series
+SPDXID: SPDXRef-item1101866
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/.version
+SPDXID: SPDXRef-item1101867
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2017-14633.patch/lib/info.c
+SPDXID: SPDXRef-item1101870
+FileChecksum: SHA1: 4684246f33c5aafdbd11db75588314fcc4ae4891
+FileChecksum: MD5: a0b4bc4e57d684188fe693a02ba9e44d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2017-14633.patch/.timestamp
+SPDXID: SPDXRef-item1101871
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2018-10392.patch/lib/vorbisenc.c
+SPDXID: SPDXRef-item1101874
+FileChecksum: SHA1: cd7c13d9ed89907866a353e843f30c5c97b0b24d
+FileChecksum: MD5: 2bbcbf0330265cdb4b462a64152bf4b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2018-10392.patch/.timestamp
+SPDXID: SPDXRef-item1101875
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/.quilt_patches
+SPDXID: SPDXRef-item1101876
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2018-5146.patch/lib/codebook.c
+SPDXID: SPDXRef-item1101879
+FileChecksum: SHA1: 3cf3e2d92fe2a967dd4514ac24f0af3ed3edd587
+FileChecksum: MD5: d26c2e4f24585f71919c3a9d4d8d8b54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2018-5146.patch/.timestamp
+SPDXID: SPDXRef-item1101880
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2017-14160.patch/lib/psy.c
+SPDXID: SPDXRef-item1101883
+FileChecksum: SHA1: 91ecc192baef57a8518be809a19132f9c9dd933a
+FileChecksum: MD5: 08b1972b1353a2cc562ce9f779e982b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2017-14160.patch/.timestamp
+SPDXID: SPDXRef-item1101884
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2017-14632.patch/lib/info.c
+SPDXID: SPDXRef-item1101887
+FileChecksum: SHA1: 946389f0712171bf75fa3cc1c051467da08041b9
+FileChecksum: MD5: 9a8722a825ea98465aff5549154137e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/.pc/CVE-2017-14632.patch/.timestamp
+SPDXID: SPDXRef-item1101888
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/configure.ac
+SPDXID: SPDXRef-item1101889
+FileChecksum: SHA1: a96dc5e63d0b1532f1e914f0bb915d40baa57650
+FileChecksum: MD5: 8071cf671deb00ddc872eed06124339e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/libvorbis.spec.in
+SPDXID: SPDXRef-item1101890
+FileChecksum: SHA1: 08db9818cc1d9273daac5b6ecf3c5e9788964398
+FileChecksum: MD5: 277ee1f51a9511480d352fce7a173c67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/patches/series
+SPDXID: SPDXRef-item1101896
+FileChecksum: SHA1: afa63636ed1b19e9bc61c80c3f5ffddc201c8ad4
+FileChecksum: MD5: 00238faec13ff91e76232fd7c8fe1489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/config.guess
+SPDXID: SPDXRef-item1101899
+FileChecksum: SHA1: d764d09fee2e6470de16d1fb7a91ea72eec2f364
+FileChecksum: MD5: fa1ff35df7f13f513bfa5e2c05783a10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/autogen.sh
+SPDXID: SPDXRef-item1101900
+FileChecksum: SHA1: 0cb0a5a690976b9732d53cc7559afdf5922cd517
+FileChecksum: MD5: aaa256c3068fd3ceb1dd35cb9d8afab2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/include/Makefile.in
+SPDXID: SPDXRef-item1101902
+FileChecksum: SHA1: 688981dab4bbb8c7ee17a192bca241ff60118120
+FileChecksum: MD5: f292e977a25c5f3115b9319549c0561a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/include/vorbis/vorbisenc.h
+SPDXID: SPDXRef-item1101904
+FileChecksum: SHA1: 093645c0f1ed661334596ae8803b6707e568fdd6
+FileChecksum: MD5: 5f1f91c94f9a38a00d1363e9a018f966
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/include/vorbis/Makefile.in
+SPDXID: SPDXRef-item1101905
+FileChecksum: SHA1: 630942a37925dd0d9d764be3a8df1e856fc9500f
+FileChecksum: MD5: e868ce406732e033fd551d265ce54598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/include/vorbis/Makefile.am
+SPDXID: SPDXRef-item1101906
+FileChecksum: SHA1: 9349fb7701aa36e233d9338c8786dd7c4737e0c0
+FileChecksum: MD5: e34448fe35358c4439e74cc00138df44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/include/vorbis/codec.h
+SPDXID: SPDXRef-item1101907
+FileChecksum: SHA1: 2171c06900630cd3802906fcb54634d818ca0618
+FileChecksum: MD5: 07c6f9b10314dfae5d9f6ba605936a9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/include/vorbis/vorbisfile.h
+SPDXID: SPDXRef-item1101908
+FileChecksum: SHA1: cfa6daf99becb4b2c568418c4536d11f134078b2
+FileChecksum: MD5: 135ad692a9ba1b8c9cf0ac1ef8bf7d22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/include/Makefile.am
+SPDXID: SPDXRef-item1101909
+FileChecksum: SHA1: a8d6d481d19832d2855d426e5aed67ddf6bd71b7
+FileChecksum: MD5: 0f702ffb1306d7b761b1ffc5639a31fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libvorbis-1.3.5/depcomp
+SPDXID: SPDXRef-item1101910
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-configure-Check-for-clang.patch
+SPDXID: SPDXRef-item1101911
+FileChecksum: SHA1: 4f504d1087fc5c2a3eaba682469d3659dc06d7d0
+FileChecksum: MD5: 2684bb1887977b3c18ee233b53b6166c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/CVE-2017-14633.patch
+SPDXID: SPDXRef-item1101912
+FileChecksum: SHA1: 0b7f76a6acb02c82543eacaddf1bd5453d75a027
+FileChecksum: MD5: 1a9ea086b47969d6e2ee64f4d8eee629
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/CVE-2018-10392.patch
+SPDXID: SPDXRef-item1101913
+FileChecksum: SHA1: 564d296b5d4c9e86dee90d18c94538e2e3dc4568
+FileChecksum: MD5: 314c25fbbe14432ad7c0f523a934fbbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/CVE-2018-5146.patch
+SPDXID: SPDXRef-item1101915
+FileChecksum: SHA1: a116010650187728571674e64c2cb03b11d25f23
+FileChecksum: MD5: 8965cdf8ab442aa28f8a94de935031f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/CVE-2017-14160.patch
+SPDXID: SPDXRef-item1101916
+FileChecksum: SHA1: 60b6323caa76589924a5d1b97445bad6a3bea8ad
+FileChecksum: MD5: b582e560c4bfa8fb98c816e3f60e929f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/CVE-2017-14632.patch
+SPDXID: SPDXRef-item1101917
+FileChecksum: SHA1: 4c447d6e329b0d932e6f93f4c26d7bc52cd58498
+FileChecksum: MD5: b3f314d6b9074ea47cab8e3dabb5fc62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-IETF-style
+LicenseName: IETF-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

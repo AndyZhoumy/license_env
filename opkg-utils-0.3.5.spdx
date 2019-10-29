@@ -1,0 +1,463 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_opkg-utils-0.3.5-r0-patched.tar.gz_1571457942.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:05:42Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: opkg-utils
+PackageVersion: 0.3.5
+PackageFileName: opkg-utils-0.3.5-r0-patched.tar.gz
+SPDXID: SPDXRef-upload336
+PackageDownloadLocation: http://git.yoctoproject.org/cgit/cgit.cgi/opkg-utils/snapshot/opkg-utils-0.3.5.tar.gz
+PackageHomePage: http://git.yoctoproject.org/cgit/cgit.cgi/opkg-utils
+PackageSummary: <text>Additional utilities for the opkg package manager</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>opkg-utils version 0.3.5</text>
+PackageChecksum: SHA1: 74dc89c83d1dfe743ee342bd58f8577576f2923b
+PackageChecksum: MD5: d746827522047a1fa2ce312f817f8388
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload336
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/arfile.py
+SPDXID: SPDXRef-item851912
+FileChecksum: SHA1: ca647064abc4390fc267d8ea251bc4f3bebe2b01
+FileChecksum: MD5: c6a2b62542186ed4b5688eb6575b2c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/Makefile
+SPDXID: SPDXRef-item851913
+FileChecksum: SHA1: ee8ae3eeb719f0c9be949cefdd74a3881db8bf9f
+FileChecksum: MD5: 47204a2bfacf47db3a034174160dce5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-list-fields
+SPDXID: SPDXRef-item851914
+FileChecksum: SHA1: 89784026604d0ab4afc9ca41c1d0094dcd0435a5
+FileChecksum: MD5: 2240e56fad0348adc8906e20f0223ca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-buildpackage
+SPDXID: SPDXRef-item851915
+FileChecksum: SHA1: f68beb2db9022c43327372487cf99e904f3c8150
+FileChecksum: MD5: d2455148ee4f5a3dcd6ce6976f46d917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/update-alternatives
+SPDXID: SPDXRef-item851916
+FileChecksum: SHA1: bf510aed61119595aea9f72c278f3ac45f9d20bd
+FileChecksum: MD5: cdb2563e85dcce5bab0d0b0d8572ae46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/makePackage
+SPDXID: SPDXRef-item851917
+FileChecksum: SHA1: 24e6e1af60fd3b484b1c305140712f93c932ed00
+FileChecksum: MD5: cd97395e983101f20833827d520e7586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-extract-file
+SPDXID: SPDXRef-item851918
+FileChecksum: SHA1: d2f1912bc97e7a76dd7f83a705bfd8ba1a9f212f
+FileChecksum: MD5: a4489b4f2941c7091d90c7a90cae3e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-make-index
+SPDXID: SPDXRef-item851919
+FileChecksum: SHA1: 1bb74b7ef1ec1c1a9c2950c8c851eb95e8c0674e
+FileChecksum: MD5: 54f085f8c6f5c6e77d542e577849433d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/COPYING
+SPDXID: SPDXRef-item851920
+FileChecksum: SHA1: dfac199a7539a404407098a2541b9482279f690d
+FileChecksum: MD5: 94d55d512a9ba36caa9b7df079bae19f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.gitignore
+SPDXID: SPDXRef-item851921
+FileChecksum: SHA1: afbafb9ed9b675640a574becd6190ca017a2785b
+FileChecksum: MD5: 8c134bd54d19334f393466cdcfd228f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-diff
+SPDXID: SPDXRef-item851922
+FileChecksum: SHA1: 48d8369442714cac393fd3d7e7d04f6e936e3176
+FileChecksum: MD5: e1734710a3f1b2408db134943238a060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/AUTHORS
+SPDXID: SPDXRef-item851923
+FileChecksum: SHA1: 392d6c80031683e4a31f6de73965bc1a20df0653
+FileChecksum: MD5: 39efe3d4dcf85c66e4250a07cefe96a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-graph-deps
+SPDXID: SPDXRef-item851924
+FileChecksum: SHA1: 764518abccfa70d397837a8b1852477b5da1f11f
+FileChecksum: MD5: 69081fcc77d57ea43d2a94253b2f891d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/CONTRIBUTING
+SPDXID: SPDXRef-item851925
+FileChecksum: SHA1: 0d54a5d0247f9defc0f88416b7dabca3a6d23733
+FileChecksum: MD5: 779ab35d0bbac52dc6f9d58438b6bb73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-compare-indexes
+SPDXID: SPDXRef-item851926
+FileChecksum: SHA1: fbc5e72916ab8d4a11e15e110171b75641900d6a
+FileChecksum: MD5: a46dc5d7e6f84fae4c4862113b8d6d6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/applied-patches
+SPDXID: SPDXRef-item851928
+FileChecksum: SHA1: 2f6f97254774e0f3288c35ac80062bbb7c05e198
+FileChecksum: MD5: 412cd045a06a9911bd01b9906ab91f6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/.quilt_series
+SPDXID: SPDXRef-item851929
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/.version
+SPDXID: SPDXRef-item851930
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/opkg-list-fields
+SPDXID: SPDXRef-item851932
+FileChecksum: SHA1: 2d641d7bb641bda16e2981b2be6510be1e33b686
+FileChecksum: MD5: c29ae8d2b7086c6c028337fc45d6a4f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/makePackage
+SPDXID: SPDXRef-item851933
+FileChecksum: SHA1: ad3df6896b017fd8da2279c6d78b6e79d3982f8d
+FileChecksum: MD5: 0c115e3b3025d27521107fcc3f4a8925
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/opkg-make-index
+SPDXID: SPDXRef-item851934
+FileChecksum: SHA1: 827c7ecf61339175e9c1bab5cae0d630fa0ced5c
+FileChecksum: MD5: 32b76893f19541f9af78c7ebfcc9a508
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/opkg-graph-deps
+SPDXID: SPDXRef-item851935
+FileChecksum: SHA1: cc1f030f6a6c174862c45fa333e563579e17e422
+FileChecksum: MD5: f5618bfbd0060962fa3f3babf02886f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/opkg-compare-indexes
+SPDXID: SPDXRef-item851936
+FileChecksum: SHA1: 8ce70dee4b70d1d29e830844d6d845209c8ac184
+FileChecksum: MD5: ed140928bde4ae3cd8f0e625af91a5ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/.timestamp
+SPDXID: SPDXRef-item851937
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/opkg-show-deps
+SPDXID: SPDXRef-item851938
+FileChecksum: SHA1: 63cff36ae515824994f9345a4774908056f8d86a
+FileChecksum: MD5: de75b41466abc8a8796c6e247409b7e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/opkg-unbuild
+SPDXID: SPDXRef-item851939
+FileChecksum: SHA1: 00a10bfdcf4e5288ee611e7df8a51cfd79a7047c
+FileChecksum: MD5: b205b5d540428abb339f57fd95188210
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/opkg.py
+SPDXID: SPDXRef-item851940
+FileChecksum: SHA1: 573cc0a807de453f7447d01652acd10b60e38c9f
+FileChecksum: MD5: f39fb95620e86ce229b8155be49fd8bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/0001-Switch-all-scripts-to-use-Python-3.x.patch/opkg-update-index
+SPDXID: SPDXRef-item851941
+FileChecksum: SHA1: 9be07899a096601bb8e5beedfe73991a3f037918
+FileChecksum: MD5: 57e1ed2590461efdbfc8d0d45ea33d14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/.pc/.quilt_patches
+SPDXID: SPDXRef-item851942
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-show-deps
+SPDXID: SPDXRef-item851943
+FileChecksum: SHA1: c9cb0e6c4f973469af9d4c4e110713c7d7dde7ff
+FileChecksum: MD5: ee50441e1edc0f6cde4b04abac3da17c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-unbuild
+SPDXID: SPDXRef-item851944
+FileChecksum: SHA1: 8d28cb78896cbb0d41a3ec1fd3126af726434d20
+FileChecksum: MD5: 7ab329d23c4987bcaeacf5c06531e886
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/patches/series
+SPDXID: SPDXRef-item851947
+FileChecksum: SHA1: 06f8967af5c07313cd30cd3818721f426a7e88b3
+FileChecksum: MD5: 1a1931b504ac9d7df09a549be457a040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-build
+SPDXID: SPDXRef-item851948
+FileChecksum: SHA1: 4070a57cf728c70f4f3c696c15e73316043ec3f9
+FileChecksum: MD5: 71c660ccd7a8575c1f942bddb26e54e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg.py
+SPDXID: SPDXRef-item851949
+FileChecksum: SHA1: ca3e317c84c7b71a0a45f41ad5fb89ed00d74d1c
+FileChecksum: MD5: f3b3189352ba546943d05f6ac779b23a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/opkg-utils-0.3.5/opkg-update-index
+SPDXID: SPDXRef-item851950
+FileChecksum: SHA1: 63676418d8659e8233c5cd99dbc3243a2054fcb0
+FileChecksum: MD5: e87a0eb4c92987c6555035795b70cb0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-Switch-all-scripts-to-use-Python-3.x.patch
+SPDXID: SPDXRef-item851951
+FileChecksum: SHA1: 7f2b33aeafba3e75a46aec5b8252840471903330
+FileChecksum: MD5: badf4df8520c75df956c89600b742bb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+

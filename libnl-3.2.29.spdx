@@ -1,0 +1,5590 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libnl-1_3.2.29-r0-patched.tar.gz_1571458808.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:20:08Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libnl
+PackageVersion: 3.2.29
+PackageFileName: libnl-1_3.2.29-r0-patched.tar.gz
+SPDXID: SPDXRef-upload383
+PackageDownloadLocation: https://github.com/thom311/libnl/releases/download/libnl3_2_29/libnl-3.2.29.tar.gz
+PackageHomePage: http://www.infradead.org/~tgr/libnl/
+PackageSummary: <text>A library for applications dealing with netlink sockets</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libnl version 3.2.29</text>
+PackageChecksum: SHA1: e921467be7e72d4172767afc9806e5ee00fc9c50
+PackageChecksum: MD5: a326d7005dad8bd90a5eaca80a7405b0
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload383
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/fix-pc-file.patch
+SPDXID: SPDXRef-item883786
+FileChecksum: SHA1: e562bb4e089e05162d1b5874c1ef99f893d5df07
+FileChecksum: MD5: b4a56998352e65c56f7f58bfe19d21ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lib-check-for-integer-overflow-in-nlmsg_reserve.patch
+SPDXID: SPDXRef-item883787
+FileChecksum: SHA1: b68bb4b58f97400e119d3a86e03b7ac03399049d
+FileChecksum: MD5: 508cca9dce5a2245942e4f2a54f91762
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-nf-3.sym
+SPDXID: SPDXRef-item883789
+FileChecksum: SHA1: b641ecb55e5b3f507cddccd3d902d0250ce960ea
+FileChecksum: MD5: 8b9db36e25bb3118fe297e130deedb56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-genl-3.0.pc.in
+SPDXID: SPDXRef-item883790
+FileChecksum: SHA1: 6148cec32f0674f9c54a8ed879fb8d29b8716ebf
+FileChecksum: MD5: fddb9bc497576665945a45a770eb4579
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-3.0.pc.in
+SPDXID: SPDXRef-item883791
+FileChecksum: SHA1: 07121737bb449fa4a6706bb2746f5612bd936afe
+FileChecksum: MD5: 1944f826576d4c875863747c5c6ec0e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-xfrm-3.0.pc.in
+SPDXID: SPDXRef-item883792
+FileChecksum: SHA1: abc16a59d45108b67a206ff47821b2d5947ab8a0
+FileChecksum: MD5: 3007405d73d0116d03fd016f80b58fef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-3.sym
+SPDXID: SPDXRef-item883793
+FileChecksum: SHA1: e0f815b929ce53cc6a04d173a7f5a36311393f62
+FileChecksum: MD5: 5c10db4e159322f048de15e6608cf52f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-route-3.0.pc.in
+SPDXID: SPDXRef-item883794
+FileChecksum: SHA1: 1bc06388495a65d8f10c3a9ab2b823adcd8c5398
+FileChecksum: MD5: dce8fe9577aa3bd59d9e4bb04653e709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-cli-3.0.pc.in
+SPDXID: SPDXRef-item883795
+FileChecksum: SHA1: e524e1ca0a971826e029cd585b1cb6bcc25748e9
+FileChecksum: MD5: 3f0f07fa1fa4a882e7cf1296c49c5c90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/etc/classid
+SPDXID: SPDXRef-item883797
+FileChecksum: SHA1: 7298b03e52d7437adffb0baca2c950678b3d0e4a
+FileChecksum: MD5: 3e07259e58674631830b152e983ca995
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/etc/pktloc
+SPDXID: SPDXRef-item883798
+FileChecksum: SHA1: 33a3c909289ad7c9a4fa11450510da23c26728d3
+FileChecksum: MD5: 7613dbc41b2dc3258195b6b6abd0f179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/aclocal.m4
+SPDXID: SPDXRef-item883799
+FileChecksum: SHA1: 5a0c7b3bcf0d4dc0d8c6cd7ab4afe74225573fb9
+FileChecksum: MD5: 7e911c4edd953fa64df6aeedb8b277b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-genl-3.sym
+SPDXID: SPDXRef-item883800
+FileChecksum: SHA1: 75b762f934effcae8726cb6543691c75a5f10230
+FileChecksum: MD5: 4405ff17f7bbb4a696c18a5ea52178ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/Makefile.in
+SPDXID: SPDXRef-item883801
+FileChecksum: SHA1: 3fefff7f4b7efdff865416a856b889e673ea2714
+FileChecksum: MD5: afc56ff72a2e1d42f24f3b9ba873e2b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/COPYING
+SPDXID: SPDXRef-item883802
+FileChecksum: SHA1: 01a6b4bf79aca9b556822601186afab86e8c4fbf
+FileChecksum: MD5: 4fbd65380cdd255951079008b364516c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/configure
+SPDXID: SPDXRef-item883803
+FileChecksum: SHA1: 10c0f84046514c0133f3feb504465438d7ff9944
+FileChecksum: MD5: 9c3858d905493cae1ee05d50dee8eb8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/man/nl-qdisc-delete.8
+SPDXID: SPDXRef-item883805
+FileChecksum: SHA1: 75d0d4db6ec982a3b3c841e3e10990913aedec71
+FileChecksum: MD5: 4d7870e46e2ac285b85aed5a725dbdee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/man/nl-pktloc-lookup.8
+SPDXID: SPDXRef-item883806
+FileChecksum: SHA1: 8ad35477825cdc838bd39346a1c5e90ff6d42b9d
+FileChecksum: MD5: 700886896ce73a7391fe607cf71ffb14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/man/Makefile.in
+SPDXID: SPDXRef-item883807
+FileChecksum: SHA1: b866620c6e65f2868238e7b24819a3483d1cb9f8
+FileChecksum: MD5: fa968ddf9b71631513f3087dc2e972fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/man/genl-ctrl-list.8
+SPDXID: SPDXRef-item883808
+FileChecksum: SHA1: 60c8627b64d1941fbb215fbbe32467123f432cdd
+FileChecksum: MD5: 675f6a0940377b5bdde2d49c51afbf2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/man/Makefile.am
+SPDXID: SPDXRef-item883809
+FileChecksum: SHA1: fd1ae81a0a2835a1c9263d4e5ae456bf7ff6d438
+FileChecksum: MD5: e52541fc295eccc3fa3b732873973f83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/man/nl-qdisc-list.8
+SPDXID: SPDXRef-item883810
+FileChecksum: SHA1: 75d0d4db6ec982a3b3c841e3e10990913aedec71
+FileChecksum: MD5: 4d7870e46e2ac285b85aed5a725dbdee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/man/nl-classid-lookup.8
+SPDXID: SPDXRef-item883811
+FileChecksum: SHA1: 1831e8e0ee81dc3a8ffd6048902a1b5ac150580e
+FileChecksum: MD5: 6bd964d0943524df91136977870b384d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/man/nl-qdisc-add.8
+SPDXID: SPDXRef-item883812
+FileChecksum: SHA1: 4cb4a215fc2210219c3eb71a756136ebf1804d99
+FileChecksum: MD5: fa0cd01df5080ec2306c3f562d62f536
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-link-list.c
+SPDXID: SPDXRef-item883814
+FileChecksum: SHA1: 7966e8e27738673aeffc88d6f68f3914dcebe741
+FileChecksum: MD5: 5c418bf01bbb372e7072c0abdefe1232
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nf-exp-list.c
+SPDXID: SPDXRef-item883815
+FileChecksum: SHA1: a394a83b7819507c4726bf3cf4dfe78d03f54f49
+FileChecksum: MD5: bfb70b339bfe89083bac04b832597f28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-tctree-list.c
+SPDXID: SPDXRef-item883816
+FileChecksum: SHA1: db94ff263d078c67d02cc75e20f53673c90d3411
+FileChecksum: MD5: 4d8becf51b8a6efd62884b556e665285
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-cls-delete.c
+SPDXID: SPDXRef-item883817
+FileChecksum: SHA1: cc27c08615695183aa77cbccc8827b005e82e489
+FileChecksum: MD5: 6547409dbc8f0fdcac41855c22c5047d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-util-addr.c
+SPDXID: SPDXRef-item883818
+FileChecksum: SHA1: 3189b9627dde7752af4c40a7d2b3c57beaf2b14e
+FileChecksum: MD5: 6363de75f8b300f4f52bfb0e603f7127
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-addr-add.c
+SPDXID: SPDXRef-item883819
+FileChecksum: SHA1: d55fb2a169261e751afd3e1a1b6599c90f8cece2
+FileChecksum: MD5: 07b96f08a336a43fe7ffa0d43ed82f37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-link-enslave.c
+SPDXID: SPDXRef-item883820
+FileChecksum: SHA1: 866a8d2340fdb0ba452c34864e810a65ca9fb409
+FileChecksum: MD5: 460fcd5de91d495a58d0e6ac3accae51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-link-ifindex2name.c
+SPDXID: SPDXRef-item883821
+FileChecksum: SHA1: 5fd6245a6df6dd7d18c170275a3d3b1dc1150faf
+FileChecksum: MD5: be04538c59802d8a1474673e2a965a9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-route-add.c
+SPDXID: SPDXRef-item883822
+FileChecksum: SHA1: e14746275aab82ac7222b21f205d939bb0962bea
+FileChecksum: MD5: 2279f9eb4630365dbccb34157875bc30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/Makefile.in
+SPDXID: SPDXRef-item883823
+FileChecksum: SHA1: 24506e580c859439bffa8fabb255abf94e830d1d
+FileChecksum: MD5: 03131476d80a378bb14425ba046db769
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-neigh-delete.c
+SPDXID: SPDXRef-item883824
+FileChecksum: SHA1: 76ee920bc2775824df06d3c8a2cc611adf962b9a
+FileChecksum: MD5: c49c4acf7489fb5a81c5608f649b6476
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nf-monitor.c
+SPDXID: SPDXRef-item883825
+FileChecksum: SHA1: 8dd8df19551b204d3f6b91c690427f44d612b576
+FileChecksum: MD5: 3e8ea668362635342fde78caeff45a89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-class-add.c
+SPDXID: SPDXRef-item883826
+FileChecksum: SHA1: 0c9288396e58f3966dbe88342c36b0485c98eefd
+FileChecksum: MD5: a372729ac1e5b13ed21f1c3e9cfb6412
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/idiag-socket-details.c
+SPDXID: SPDXRef-item883827
+FileChecksum: SHA1: f84d5c69b5769e9c587a7de3c1546f40cc81a3f6
+FileChecksum: MD5: 08cf6749ff90fa711a9fd393d71122aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-cls-list.c
+SPDXID: SPDXRef-item883828
+FileChecksum: SHA1: d5dd994d46e68537b79db54b07083c0b298fc57b
+FileChecksum: MD5: d2eb9cd842f39618155ec1a1df1a958c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/route.c
+SPDXID: SPDXRef-item883830
+FileChecksum: SHA1: 9c9f712dfe8fbbddb92b0c034885c60510e3650f
+FileChecksum: MD5: f9ebb6b36e3e5f6b83dd6d1016c3463b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/Makefile.in
+SPDXID: SPDXRef-item883831
+FileChecksum: SHA1: 4d4d2a899583047c5c8cbde4642b6e32826aadf3
+FileChecksum: MD5: 3a9d7f376a17d2b05daee766505dfa9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/ct.c
+SPDXID: SPDXRef-item883832
+FileChecksum: SHA1: 0de43baea2477360682da883db4efcb54ea2f440
+FileChecksum: MD5: 7f8c0954f6e33233272aa01d741937a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/Makefile.am
+SPDXID: SPDXRef-item883833
+FileChecksum: SHA1: 44d8fcbd528295a55aea74d52775ac85809085aa
+FileChecksum: MD5: 5b4a10426e5eed793888f35292e31b2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/neigh.c
+SPDXID: SPDXRef-item883834
+FileChecksum: SHA1: 52afd32c33a431249fcbf1c97940a03e1b83488d
+FileChecksum: MD5: d26b368939cd26dcf23e02d52608c112
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/tc.c
+SPDXID: SPDXRef-item883835
+FileChecksum: SHA1: 69a61f8ca2d8b645a5cb7c8352584a026cfebbbe
+FileChecksum: MD5: 24967d88a83720bf4dea63b40fea607e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/utils.c
+SPDXID: SPDXRef-item883836
+FileChecksum: SHA1: 9901d7e5e169afe2720ad7372d54bf324278fb54
+FileChecksum: MD5: 3bc4d87b7b064a682b9f3a21e91161a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/rule.c
+SPDXID: SPDXRef-item883837
+FileChecksum: SHA1: e37bb144e33069250dd1f7ce2b097d24426d9d2d
+FileChecksum: MD5: b357ccaae239a93562f7c2d2898f3976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/class.c
+SPDXID: SPDXRef-item883838
+FileChecksum: SHA1: 65e1b8b777f449a93ab48f6d766052321c3f396d
+FileChecksum: MD5: 4ae28196abbbb607c07f939c93c09763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/link.c
+SPDXID: SPDXRef-item883839
+FileChecksum: SHA1: 4490551c0f769f5dda16aa65590cd527c5dba8b6
+FileChecksum: MD5: 44aa8234d1e3143da89773b33459ee61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/cls.c
+SPDXID: SPDXRef-item883840
+FileChecksum: SHA1: 8004d87bd9b558eaafc0014ba198502b198a978e
+FileChecksum: MD5: 916ccb99c02ec7c7a2308af8b986c986
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/addr.c
+SPDXID: SPDXRef-item883841
+FileChecksum: SHA1: c3dc4722c23d4105aa242121f447fbc59e096de3
+FileChecksum: MD5: b5d22224f6816f38db81dcb1b792f80a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/qdisc.c
+SPDXID: SPDXRef-item883842
+FileChecksum: SHA1: 6b4a100e514634c63ace236026483da17fd09658
+FileChecksum: MD5: d290cbd8720c938a65e9bc90c442cdd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/lib/exp.c
+SPDXID: SPDXRef-item883843
+FileChecksum: SHA1: 2bc1b2029e7b73660eac194dc53a67024293e0cf
+FileChecksum: MD5: 285812d7d7f1828abb622fd8f2adce00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-route-list.c
+SPDXID: SPDXRef-item883844
+FileChecksum: SHA1: 5ccfb7202e7d4fd2a975efdf455fb469fd847a0a
+FileChecksum: MD5: 279dfb4eed9873425b482f29ea3c112f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nf-ct-list.c
+SPDXID: SPDXRef-item883845
+FileChecksum: SHA1: 2ea375a0123a8b6fd472aec9144ed2abc5ef8c50
+FileChecksum: MD5: 07be04e586b6505ab21bfb538676dd6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-neigh-add.c
+SPDXID: SPDXRef-item883846
+FileChecksum: SHA1: d3d77ac7d71af090cc2fa93b681c0f1db0126db8
+FileChecksum: MD5: d694c700e2c23ad845f01d97df10cb30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nf-queue.c
+SPDXID: SPDXRef-item883847
+FileChecksum: SHA1: 4e913c1ea2f1e87b8100e3fe473ba094ac5fab78
+FileChecksum: MD5: e166436a1253dddb0e88c96d7b51c8e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/Makefile.am
+SPDXID: SPDXRef-item883848
+FileChecksum: SHA1: ca5480a1f7345d4c31ebe59b6d4309e36ca25c7a
+FileChecksum: MD5: 94e4222743b64537fff3d7ad31dd645f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/genl-ctrl-list.c
+SPDXID: SPDXRef-item883849
+FileChecksum: SHA1: 182f0f66117104c543fc0eedf425b28bc25ea129
+FileChecksum: MD5: a2d5161123d30d0c8f352aa9f695429c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-neightbl-list.c
+SPDXID: SPDXRef-item883850
+FileChecksum: SHA1: ccbb467ea945036d25252409256c4446f9f0ce83
+FileChecksum: MD5: 95549d734558a47bbe18cec09f4393ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-class-delete.c
+SPDXID: SPDXRef-item883851
+FileChecksum: SHA1: f038e9f9e9bb335e985998b31b4f6696fa39b791
+FileChecksum: MD5: f8810d92958e277f4cad6310e6091af7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-route-get.c
+SPDXID: SPDXRef-item883852
+FileChecksum: SHA1: 156d744d50ee56a4fe4fa5adf0ff0581572683fd
+FileChecksum: MD5: f93ef3cdda3c0924288e9a0a7d706e28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-link-set.c
+SPDXID: SPDXRef-item883853
+FileChecksum: SHA1: 4628805b69db3ed3b8f0801c6eef0e47a677a1ff
+FileChecksum: MD5: 6cd8ec299db5adfeca5b9e74ad2960c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-cls-add.c
+SPDXID: SPDXRef-item883854
+FileChecksum: SHA1: fe51634ea85c8eefddc537312c0e196824af376b
+FileChecksum: MD5: e41727cc4a2aefec446b7e0a691525de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-list-caches.c
+SPDXID: SPDXRef-item883855
+FileChecksum: SHA1: 656bdc68ba14248009917fc6ff0508a01a6fd40b
+FileChecksum: MD5: 677eccf2a403463384c258a8a248a5f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-addr-delete.c
+SPDXID: SPDXRef-item883856
+FileChecksum: SHA1: b729e78d30547a166c26c41178aeca9ed8e3e373
+FileChecksum: MD5: a20c0ebe66da86aeda5ee3bb971398cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nf-exp-delete.c
+SPDXID: SPDXRef-item883857
+FileChecksum: SHA1: 6afdba623a990cd4efd0f9e351e55ae7539aea6a
+FileChecksum: MD5: be5a23add2cdae01d43bcd7b3a05c028
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-route-delete.c
+SPDXID: SPDXRef-item883858
+FileChecksum: SHA1: 8cdb69710bec2b4c3d00a5759a04e374af50a3f5
+FileChecksum: MD5: 76fbd74b1ccd842d07212eec3de1adda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-rule-list.c
+SPDXID: SPDXRef-item883859
+FileChecksum: SHA1: 488891f2903db8317230ef0d2b43a4df8d41be7c
+FileChecksum: MD5: 3aab1d30dad5ea7942117e06bb18b827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-class-list.c
+SPDXID: SPDXRef-item883860
+FileChecksum: SHA1: a8b8f539e201c1d60680c6f1cb3b0e03d17ffc55
+FileChecksum: MD5: 6bf207b5dc0d1ce5d9c429123174ca63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-list-sockets.c
+SPDXID: SPDXRef-item883861
+FileChecksum: SHA1: 1d2306a959e55a969f0898c921ffbb96c6e5f205
+FileChecksum: MD5: 1e7284043800ee9ad5b51b47b08e39ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-qdisc-list.c
+SPDXID: SPDXRef-item883862
+FileChecksum: SHA1: 6feee236b1ce1c962d5ff680e4ea08ae8b8a7bac
+FileChecksum: MD5: f11cd195b4a77d527adb53aa71cfab5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nf-ct-add.c
+SPDXID: SPDXRef-item883863
+FileChecksum: SHA1: 93cb7f8ba3882e11258a60a3cd1643743755c99d
+FileChecksum: MD5: ffb4854a67935ff7db107058dbf8d2c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-qdisc-add.c
+SPDXID: SPDXRef-item883864
+FileChecksum: SHA1: b03b8fee15785ae56fea915ba2f2c117742ab01e
+FileChecksum: MD5: 8ada6c62f7b57fcafa3c41320d41cb8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-classid-lookup.c
+SPDXID: SPDXRef-item883865
+FileChecksum: SHA1: 29c06da354cce35d71af1400e0b572b26532f7ae
+FileChecksum: MD5: 93ec9a65ebf155902787526536808d3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-link-name2ifindex.c
+SPDXID: SPDXRef-item883866
+FileChecksum: SHA1: 04014aa610eb8ee231902ed37da7324138d6fe64
+FileChecksum: MD5: c220bd564df5b875da081831d82ab091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-fib-lookup.c
+SPDXID: SPDXRef-item883867
+FileChecksum: SHA1: 5cdf428312a8b43bfc9c60b9950ea4b05331b613
+FileChecksum: MD5: bdaa9285d296da648605097f33fa3256
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nf-log.c
+SPDXID: SPDXRef-item883868
+FileChecksum: SHA1: 27f3b23b51082b1f5d0a8c0d22ab12a3109d9681
+FileChecksum: MD5: f2093de6d5d12645a93dc530f3fad0b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-link-release.c
+SPDXID: SPDXRef-item883869
+FileChecksum: SHA1: 6b2e5416cfe085f269c801aed8a4d5cee8665b04
+FileChecksum: MD5: 8dbae81bce5ff13e0b6857c25b9c349f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-addr-list.c
+SPDXID: SPDXRef-item883870
+FileChecksum: SHA1: ad98fa11e52dcb4ee0e31e1fe652307b9c75e67f
+FileChecksum: MD5: 7433662c2241e7b7cf724956f8a0d0da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-monitor.c
+SPDXID: SPDXRef-item883871
+FileChecksum: SHA1: b47ef31895f525ebcd26403efc96a0e0f9a7ac64
+FileChecksum: MD5: 11f68740b7c472a6f2cb314fc85aeefa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-qdisc-delete.c
+SPDXID: SPDXRef-item883872
+FileChecksum: SHA1: 7f55ec7a692bb2f31aee3c147dcdecc931f005d0
+FileChecksum: MD5: 2fdf936c68f01983365040c7b096a082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-neigh-list.c
+SPDXID: SPDXRef-item883873
+FileChecksum: SHA1: 6c46c0f5bbfc327885d5fc115990c8fa2144e7ff
+FileChecksum: MD5: 11d314e11011f0d867df21e8c3051c83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-link-stats.c
+SPDXID: SPDXRef-item883874
+FileChecksum: SHA1: 2196edb2225426afda09fae016d45eaf1a803d0a
+FileChecksum: MD5: 87ecd81af283328646bbddb189e96b4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nl-pktloc-lookup.c
+SPDXID: SPDXRef-item883875
+FileChecksum: SHA1: 58efe3ba544ab4b92b0fa3e36907c3b23e7c02f4
+FileChecksum: MD5: eefbb9fa895644f12ff1375192306090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/src/nf-exp-add.c
+SPDXID: SPDXRef-item883876
+FileChecksum: SHA1: ea473e008354956fdda8fe20f6a365103621a960
+FileChecksum: MD5: bcddee63772c558629f548f91cb47605
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-route-3.sym
+SPDXID: SPDXRef-item883877
+FileChecksum: SHA1: 043bbd575972c2e8ad5bc7665b1fe67ed8f087be
+FileChecksum: MD5: db4f0a1fd51108bb337e856b3287f46d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/m4/ltversion.m4
+SPDXID: SPDXRef-item883879
+FileChecksum: SHA1: 3aae847c163fa6cc7c8241a3a49f98705538d55f
+FileChecksum: MD5: d936fd6b2025c9b5322f826117d7f30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/m4/libtool.m4
+SPDXID: SPDXRef-item883880
+FileChecksum: SHA1: de18e464da943e8b69b3f84ecbfd6cdb28b996de
+FileChecksum: MD5: ae989d0c1057c319a5107fed0311632d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/m4/ltoptions.m4
+SPDXID: SPDXRef-item883881
+FileChecksum: SHA1: 9cd35d79da7776af14f21b259c64f130fa1a3536
+FileChecksum: MD5: 064af1799febaa676203302bbf359180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/m4/ltsugar.m4
+SPDXID: SPDXRef-item883882
+FileChecksum: SHA1: 2028bffadfd9b989bcc63da90596101fe4ec20b9
+FileChecksum: MD5: fa2891f9060865871cbbaa1c6e2d96f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item883883
+FileChecksum: SHA1: e21f085615f98d3751690c1615923e89160d5783
+FileChecksum: MD5: 22aa295bf5320aec7fba6756ff11058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/fib_lookup/request.c
+SPDXID: SPDXRef-item883886
+FileChecksum: SHA1: 8379223a169e26c58f2cf7d18b972ef3c24b0733
+FileChecksum: MD5: d964f420bb58a4e2af39575518377cb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/fib_lookup/lookup.c
+SPDXID: SPDXRef-item883887
+FileChecksum: SHA1: 8fb886113845151efcc18006ff3e2270d909826f
+FileChecksum: MD5: bfa02ad1b3fb0f4c8004a412af4e27a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/error.c
+SPDXID: SPDXRef-item883888
+FileChecksum: SHA1: 19a055ce76776cbd6a7af549f6d99315cff59b89
+FileChecksum: MD5: 5da1472853a1cf6761772031bf3c533d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/hashtable.c
+SPDXID: SPDXRef-item883889
+FileChecksum: SHA1: 442650e412631e948933d8a8567eab935c304d28
+FileChecksum: MD5: 3722027f10f8547e4e8b2fe65f3ef87f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/data.c
+SPDXID: SPDXRef-item883890
+FileChecksum: SHA1: 6275439f0858b07b62c154b7b0ad1ca957ff535d
+FileChecksum: MD5: 6ac8812057aace0789fcd8bc520994aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/attr.c
+SPDXID: SPDXRef-item883891
+FileChecksum: SHA1: 5f4ad6e1a982825ad9076344b40c4c0116433c43
+FileChecksum: MD5: 09fc81df4bf69ccae814b392d3c68170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/version.c
+SPDXID: SPDXRef-item883892
+FileChecksum: SHA1: 464a7f1b7884a819904e4b88d9d2afee5bcd1807
+FileChecksum: MD5: f09db4fdc831b5624d97d927d351fafc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/Makefile.in
+SPDXID: SPDXRef-item883893
+FileChecksum: SHA1: 4a53be69db8e18de28e77d5a465ae4e89416d633
+FileChecksum: MD5: a54efc29a458456047c9bf17f5c623f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cache_mngr.c
+SPDXID: SPDXRef-item883894
+FileChecksum: SHA1: b4ff23eb8011306713f2be7869666628df52a9ca
+FileChecksum: MD5: e17ac420779f9024b3d44a3244c7112a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/msg.c
+SPDXID: SPDXRef-item883895
+FileChecksum: SHA1: f36c95a96068dc924ff1d3977e7370eb66e32b8c
+FileChecksum: MD5: f21355a38fe908745dd03a92ab65d670
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/cls/basic.c
+SPDXID: SPDXRef-item883898
+FileChecksum: SHA1: bda0c850274864eb2687058a798f72f36590fde9
+FileChecksum: MD5: c16960223811db1408a7cbc83345fb14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/cls/cgroup.c
+SPDXID: SPDXRef-item883899
+FileChecksum: SHA1: 4b9796817feb72aa86c35d3ee90008f5a25d0bf7
+FileChecksum: MD5: aa378844a4993a06376ee249f23a1fd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/qdisc/fq_codel.c
+SPDXID: SPDXRef-item883901
+FileChecksum: SHA1: feb5c53d56ad396af8b427103583858461daf7bc
+FileChecksum: MD5: 6ce2b08770c697627b2fbc0a282e8a20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/qdisc/htb.c
+SPDXID: SPDXRef-item883902
+FileChecksum: SHA1: 2c228d9c12c813f13f31ab6bdb70fcbb6b320827
+FileChecksum: MD5: 438bf295c4dc41741302facb83110f84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/qdisc/ingress.c
+SPDXID: SPDXRef-item883903
+FileChecksum: SHA1: 80892bcfb11999d13765b93f858a037b5c93d4a2
+FileChecksum: MD5: 09bc28e29ae90d22cac33ba89de93b1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/qdisc/blackhole.c
+SPDXID: SPDXRef-item883904
+FileChecksum: SHA1: c56b8e369b059a2cd79e2c9d679ef741ccac389c
+FileChecksum: MD5: 16dd15325fc65a5e7edc237655353147
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/qdisc/hfsc.c
+SPDXID: SPDXRef-item883905
+FileChecksum: SHA1: d67606d420f44d6c7825ce76eae1e3603b97a56c
+FileChecksum: MD5: e3d69f427aa5ef3c9af72456c702cde8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/qdisc/plug.c
+SPDXID: SPDXRef-item883906
+FileChecksum: SHA1: 2fcf06fdce9a2faaefc79e68869bd7d262a4c076
+FileChecksum: MD5: 1487f9ca6dc4294e3581741f2ad3aa1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/qdisc/bfifo.c
+SPDXID: SPDXRef-item883907
+FileChecksum: SHA1: fc21d6b856ebb50d2b7cec9c6986e01bbe2b659d
+FileChecksum: MD5: b55d32d5ebb4bd54f50934dec55328d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cli/qdisc/pfifo.c
+SPDXID: SPDXRef-item883908
+FileChecksum: SHA1: 4d3a0776eb418f2ce8472615c073e7f8082cd792
+FileChecksum: MD5: 870f1b11ab0a77e04edab4921177d3b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/log.c
+SPDXID: SPDXRef-item883910
+FileChecksum: SHA1: e9d5ba71e4d07ac1ee4da712725eeb96829be7b3
+FileChecksum: MD5: c53ec6a379d50b895705977ae0d893c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/queue_obj.c
+SPDXID: SPDXRef-item883911
+FileChecksum: SHA1: 8af3d3804233ea0cc351efe11ae7d947783df58c
+FileChecksum: MD5: 2dc8c27a9dae6c3589619ea02d70ab7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/log_msg.c
+SPDXID: SPDXRef-item883912
+FileChecksum: SHA1: 6d6879f132b0f903473c5202d898e3c9bf1bf38b
+FileChecksum: MD5: 22c6256fc27912ac1e160b6db33a06c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/nfnl.c
+SPDXID: SPDXRef-item883913
+FileChecksum: SHA1: fc388636feadb0e6ec8622acfcd59144f689b630
+FileChecksum: MD5: 005bd65e27508418e0c6cc9c65ba87c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/exp_obj.c
+SPDXID: SPDXRef-item883914
+FileChecksum: SHA1: 9348b3704452b300f947b73bcf2d206f99394593
+FileChecksum: MD5: db9090456ed2a309a23c96466f2151fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/ct.c
+SPDXID: SPDXRef-item883915
+FileChecksum: SHA1: 8c35bd516dff0ee87ed094d872276482df36962e
+FileChecksum: MD5: cfaf87d0a1cb3de89c81a2809107d8cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/queue_msg_obj.c
+SPDXID: SPDXRef-item883916
+FileChecksum: SHA1: 40ce4ad973c85e9409efe982cef14a1be7664c26
+FileChecksum: MD5: 61495b222689f123ca0e28de8e28c09b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/log_msg_obj.c
+SPDXID: SPDXRef-item883917
+FileChecksum: SHA1: febc13e859b0a7e7fb01de8939ccb0ef1c4e3264
+FileChecksum: MD5: 2d0eb1ea152e3868b3a232b6b01ab75a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/log_obj.c
+SPDXID: SPDXRef-item883918
+FileChecksum: SHA1: 8a1108ba8036fb8920e794faf0431b6e8dfd5876
+FileChecksum: MD5: 7a3487c7cc5a7555c47e7d9460a4ca29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/queue.c
+SPDXID: SPDXRef-item883919
+FileChecksum: SHA1: e306182f8713be65ea42c2f3950116377f255074
+FileChecksum: MD5: 350108d8117ea298fe23e7d2fe32f65e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/exp.c
+SPDXID: SPDXRef-item883920
+FileChecksum: SHA1: 45f654f47c5e2e7b64ac66277fe1aa41e2ade063
+FileChecksum: MD5: 24cf82f241cfd7dbfde6b1f3fb09341c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/ct_obj.c
+SPDXID: SPDXRef-item883921
+FileChecksum: SHA1: 25526ce81f5f98e2f6e3d3277eacc0206fa1be66
+FileChecksum: MD5: ca2dcf16cacdea655ab6d324fb66631a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/queue_msg.c
+SPDXID: SPDXRef-item883922
+FileChecksum: SHA1: ec87c0a123b0ab42cf72f78e7568ef241b402414
+FileChecksum: MD5: 7b80ea11744cc4c35a46e20745530103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/netfilter/netfilter.c
+SPDXID: SPDXRef-item883923
+FileChecksum: SHA1: d5045ffabff7c695d3a3a2ae1cd8ca80244f3e65
+FileChecksum: MD5: e00cb991cfecd78b77d129e748da9c9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/idiag/idiag_req_obj.c
+SPDXID: SPDXRef-item883925
+FileChecksum: SHA1: 01beff6b07f089be0ec05ebd38cfd8e8436ff128
+FileChecksum: MD5: 7f5fc307760cf779d0a877dcb3c0ed17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/idiag/idiag_vegasinfo_obj.c
+SPDXID: SPDXRef-item883926
+FileChecksum: SHA1: 78bb97a624e741194945cd2a5bf0eaa3bc851afd
+FileChecksum: MD5: e3a89953ac6bcd8289ed00f6898ab867
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/idiag/idiag_meminfo_obj.c
+SPDXID: SPDXRef-item883927
+FileChecksum: SHA1: fc45f5462bf0da80d368b7484a94949dc0860853
+FileChecksum: MD5: cc42d12cc331f7c873cdcbf2add9cba3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/idiag/idiag.c
+SPDXID: SPDXRef-item883928
+FileChecksum: SHA1: d40105dbd183f5112ffca9e2193210b0c2e07dd9
+FileChecksum: MD5: 70e64225624fa16f38e5dde67a084256
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/idiag/idiag_msg_obj.c
+SPDXID: SPDXRef-item883929
+FileChecksum: SHA1: a76910fb8b530bb1783108efb81345597a2d5ffb
+FileChecksum: MD5: 1764d385f8933f3269e4a96c213850d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/nl.c
+SPDXID: SPDXRef-item883930
+FileChecksum: SHA1: 44b8b41737dcbed3430bf548d0b28f8cc2f546cc
+FileChecksum: MD5: df09300d9c34240e8f26334a0705d7ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/hash.c
+SPDXID: SPDXRef-item883931
+FileChecksum: SHA1: f73c0deb79f7fc52bf46beb2c6bcc528b73df553
+FileChecksum: MD5: f33631f280342f7f0f57f4b5287ccc8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/Makefile.am
+SPDXID: SPDXRef-item883932
+FileChecksum: SHA1: f859fda07172b373d6a682ee04f05522643cfa91
+FileChecksum: MD5: 01702423f9a7149b21ca92efd0d46821
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/object.c
+SPDXID: SPDXRef-item883933
+FileChecksum: SHA1: d197c2a9a31563fb28982bd80f4d623bd5b26fd7
+FileChecksum: MD5: 0b7a04bda188436de3acb74c76d64da5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cache_mngt.c
+SPDXID: SPDXRef-item883934
+FileChecksum: SHA1: 41d2ce1fee062e0b9e8d6857d1946d10a581a694
+FileChecksum: MD5: b913f375438352cb83ffed170437ed70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/utils.c
+SPDXID: SPDXRef-item883935
+FileChecksum: SHA1: bffd93fc1d1308a7e1c0985e4e12362b47c77a34
+FileChecksum: MD5: 4c03f8e12e48506589800f03bcef98b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/route_obj.c
+SPDXID: SPDXRef-item883937
+FileChecksum: SHA1: 2a80e4293b51123be7a5d045980a8bffc0b9f642
+FileChecksum: MD5: 1d30a4eb7c87b2606550162b6560371e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/route.c
+SPDXID: SPDXRef-item883938
+FileChecksum: SHA1: 07dae58c689f33618172a0004bbb3e57f401acc0
+FileChecksum: MD5: c173be8829c26cd54e1910c91225ca25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/pktloc.c
+SPDXID: SPDXRef-item883939
+FileChecksum: SHA1: 80c8a544703e59c27b13343e15daa0910bcba045
+FileChecksum: MD5: 1cb17af74edf21569633b6465dfef7be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/ematch/text.c
+SPDXID: SPDXRef-item883942
+FileChecksum: SHA1: 4b363dd720d9246720d9439fc500e021f6d0643e
+FileChecksum: MD5: 846e491e8747d7edf73e28a076fc66f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/ematch/meta.c
+SPDXID: SPDXRef-item883943
+FileChecksum: SHA1: 4c365fed51d588830f6435f923037931050d2106
+FileChecksum: MD5: 39083093786ce979d2a394b172174f20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/ematch/nbyte.c
+SPDXID: SPDXRef-item883944
+FileChecksum: SHA1: 46024568b0bc5b8841db2949e97518db87ee0a0c
+FileChecksum: MD5: 5897b61c157becfd9157b654a1d4367d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/ematch/container.c
+SPDXID: SPDXRef-item883945
+FileChecksum: SHA1: 58ec348b85d34589a95dd8a1a1e442fcee1d4e87
+FileChecksum: MD5: b34bbe959f9de4901a3403a03faf31eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/ematch/cmp.c
+SPDXID: SPDXRef-item883946
+FileChecksum: SHA1: 4249012982e8609840bb62a66bff0d66b97db8f6
+FileChecksum: MD5: 9660b44d7d2b2d888e6f12184539a2ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/ematch_grammar.l
+SPDXID: SPDXRef-item883947
+FileChecksum: SHA1: f77a0f0ba3802027903a66b963f31b6abebd335b
+FileChecksum: MD5: ac01a8401e1496ea739e841effc68cd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/basic.c
+SPDXID: SPDXRef-item883948
+FileChecksum: SHA1: 5206e05480dd966d235a32bf7c1e02d9f1575598
+FileChecksum: MD5: d0ba2e0079ffd74acc8695672a301954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/cgroup.c
+SPDXID: SPDXRef-item883949
+FileChecksum: SHA1: c9714a96c4bbcd4a7522a635026362507dc6383a
+FileChecksum: MD5: 001c40ae1b51304b0cdb2a5ddb3f3d78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/fw.c
+SPDXID: SPDXRef-item883950
+FileChecksum: SHA1: 97f57f83567817243d9b782cb97cc598e0df1b9a
+FileChecksum: MD5: 74530faa7d15e5db348f872c24a08c00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/ematch.c
+SPDXID: SPDXRef-item883951
+FileChecksum: SHA1: 9199eda53f01f81f1d4a25c9e5916b6089899d75
+FileChecksum: MD5: 142d9d74e1c22e8307e7fef85c13c811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/u32.c
+SPDXID: SPDXRef-item883952
+FileChecksum: SHA1: 29771d2c8051d6d46d4e7b348d15cd0220af4c01
+FileChecksum: MD5: 80846d64da79ac0b61408d22d4d2cda2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/police.c
+SPDXID: SPDXRef-item883953
+FileChecksum: SHA1: a1aa3efad832bd4a26507f0a4876d3a80e77abfa
+FileChecksum: MD5: eddf26df89ef437a5691e204dd1c9569
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls/ematch_syntax.y
+SPDXID: SPDXRef-item883954
+FileChecksum: SHA1: 993b5906b10f2133c78ea9ab0df00528228cb6b5
+FileChecksum: MD5: edec9dca2b21614ebb348c0c4b40a55a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/pktloc_syntax.y
+SPDXID: SPDXRef-item883955
+FileChecksum: SHA1: 92b0ec33ec31c9e87a93dca082c7bdaf0e7aafc1
+FileChecksum: MD5: 8b463f132010d34af81960d0be859753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/pktloc_grammar.l
+SPDXID: SPDXRef-item883956
+FileChecksum: SHA1: 5dcaf39aacd1a16bb57e641d0c961ba432c67718
+FileChecksum: MD5: c0d96bdba06247f8a17b1bad32f2de41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/neightbl.c
+SPDXID: SPDXRef-item883957
+FileChecksum: SHA1: 06e69386d43362cb1bba71781f5bded7633f4b04
+FileChecksum: MD5: d5941a7406d825592a0bec3c73ba8045
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/classid.c
+SPDXID: SPDXRef-item883958
+FileChecksum: SHA1: 55dc33afb0524325bdccdb5c89dc93044f83ef4e
+FileChecksum: MD5: 88688b707b6f6d606e1e7485eae85414
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/neigh.c
+SPDXID: SPDXRef-item883959
+FileChecksum: SHA1: 8c66245a47143fe13d4a4325e11bc4ece20c1619
+FileChecksum: MD5: 5b46a3eb546ef41a08e1f992cdda5251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/tc.c
+SPDXID: SPDXRef-item883960
+FileChecksum: SHA1: 3c348db927e9cbe2eb57d04698734efc1e1de71a
+FileChecksum: MD5: 7afa1c22e2bdf381a7659f0721bd6c75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/veth.c
+SPDXID: SPDXRef-item883962
+FileChecksum: SHA1: 1a1c82b8126eeb0a776b2c0be6b59e85bb721c40
+FileChecksum: MD5: 3dc1939263490f1bf0a35c7d0052dd26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/vxlan.c
+SPDXID: SPDXRef-item883963
+FileChecksum: SHA1: c7ba566d77cc7f82ffac800e43d46e2089cefea3
+FileChecksum: MD5: 7464ea016c443951393c9366757ee91a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/bridge.c
+SPDXID: SPDXRef-item883964
+FileChecksum: SHA1: 876b77b49dae928a6df9d3097bda5e4dffde133c
+FileChecksum: MD5: c4bc6a8f1a204f7d4c023ccb6954bad4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/macsec.c
+SPDXID: SPDXRef-item883965
+FileChecksum: SHA1: 5d2a2363b9cd01e5f2ac8df99990c86a39071896
+FileChecksum: MD5: a6bbb63a10d9f2eb7163d7efa380fdbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/macvlan.c
+SPDXID: SPDXRef-item883966
+FileChecksum: SHA1: 5ba50f017a57d4ae510d413f633e1dde780b68cc
+FileChecksum: MD5: f39a3a65307fb3238edc00ec39d13eae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/ifb.c
+SPDXID: SPDXRef-item883967
+FileChecksum: SHA1: 9c90c7655c021c57243b5dcf0910d1e9007381b2
+FileChecksum: MD5: 51cded9e139887e238997865161bc31d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/ipgre.c
+SPDXID: SPDXRef-item883968
+FileChecksum: SHA1: 71678005fc2990408310d37ab1a501fa5b849cb8
+FileChecksum: MD5: f41296731c10f04781ce3fbd4208e314
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/ipip.c
+SPDXID: SPDXRef-item883969
+FileChecksum: SHA1: 3559e439ac08c94358f573f7df1451be60154011
+FileChecksum: MD5: 4a694cb3ed2df9c94f3bc25ce4ebdd94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/inet6.c
+SPDXID: SPDXRef-item883970
+FileChecksum: SHA1: a8fe32158a1ccfe03052a94d5844b9a7fdac68bd
+FileChecksum: MD5: 5b5ba24ed091adde52a5f8b35f80f668
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/can.c
+SPDXID: SPDXRef-item883971
+FileChecksum: SHA1: 49d4e057c8066d7138ca943a7509fb8f88f3d6a5
+FileChecksum: MD5: b232b1ae0d385bbb1bd162b2067c0942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/api.c
+SPDXID: SPDXRef-item883972
+FileChecksum: SHA1: 1a0ae16b4d88cd648de0f7dd6311d891f85610e0
+FileChecksum: MD5: 1679d6f83725b12b966c904791ff2331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/sriov.c
+SPDXID: SPDXRef-item883973
+FileChecksum: SHA1: 41a949b7d068d0723ad113d7ab0919e5ea12c7c3
+FileChecksum: MD5: 071a337531ca4fb34c7ea5ec5d8853f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/ipvti.c
+SPDXID: SPDXRef-item883974
+FileChecksum: SHA1: febaf8d5c61b7beff04799edd690fb5c3490cfd1
+FileChecksum: MD5: 6ee04ee8cfa125f220858d12d8b85515
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/ppp.c
+SPDXID: SPDXRef-item883975
+FileChecksum: SHA1: 1bf0231453dfb5af8f19f7045845e5e0ecf1895b
+FileChecksum: MD5: 77f91027392a126864e54eea08fcb5e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/dummy.c
+SPDXID: SPDXRef-item883976
+FileChecksum: SHA1: 4d883716b16278863590b28f800d8eb4a0307b76
+FileChecksum: MD5: b91f28c5a352992c3442364cf1476117
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/vlan.c
+SPDXID: SPDXRef-item883977
+FileChecksum: SHA1: 591e7ea10bbf9aa8e83b9d47fb24c17a22668379
+FileChecksum: MD5: c03cf76103c11c1f4e333a63ee6fb689
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/vrf.c
+SPDXID: SPDXRef-item883978
+FileChecksum: SHA1: 30c7fb9c00a75ddf83c7a6c2057229571de043d5
+FileChecksum: MD5: 3ea1e95a35a27a8e684ab95b383cea2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/ip6tnl.c
+SPDXID: SPDXRef-item883979
+FileChecksum: SHA1: abf5c7a04771f8cc9f08b880f00abc53b7edeaf2
+FileChecksum: MD5: 5d09bc07d74ed2a0ed1ff7434d0206b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/inet.c
+SPDXID: SPDXRef-item883980
+FileChecksum: SHA1: d8c00bbddd96233e0b3a344c46bad8214bc83d42
+FileChecksum: MD5: 47fee547f96b3a8e9e696528ad494407
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/sit.c
+SPDXID: SPDXRef-item883981
+FileChecksum: SHA1: 08b0aca6235006f3825beff24fba216e8cab8d54
+FileChecksum: MD5: 5c8435d137ec380138d44b4c3737b9f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/bonding.c
+SPDXID: SPDXRef-item883982
+FileChecksum: SHA1: 31d872501e66b90e4b92c7cf40e347d449d01e1f
+FileChecksum: MD5: 9a22a31c6c7aa154c09c18ca78adfb67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link/ipvlan.c
+SPDXID: SPDXRef-item883983
+FileChecksum: SHA1: 569d7c774c687000f8ceaae41aed8c420b0dc7e2
+FileChecksum: MD5: 8b68b4c04a3b8a35bf871d4c2333cba0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/rule.c
+SPDXID: SPDXRef-item883984
+FileChecksum: SHA1: ebba11e3b713041218dc5b7e14c67389762de921
+FileChecksum: MD5: cead92b99213bf7414fb1bff16e33594
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/class.c
+SPDXID: SPDXRef-item883985
+FileChecksum: SHA1: dcede0b0a9184ec38eedf8fb5cc3fbc2eb24a1ca
+FileChecksum: MD5: be369a3a0b41dda6e86739b30490baa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/link.c
+SPDXID: SPDXRef-item883986
+FileChecksum: SHA1: 09bccc9615db9aa0fb1973bee2fb7d15f1e99a32
+FileChecksum: MD5: 188e8a6e7356683d1e9427b531f6b1cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/act.c
+SPDXID: SPDXRef-item883987
+FileChecksum: SHA1: 20c93e39d61713d5a11cb013f0cc547d4c2a18d6
+FileChecksum: MD5: f627d3bb1424852de7773db704690e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/route_utils.c
+SPDXID: SPDXRef-item883988
+FileChecksum: SHA1: 612442426ebf94090e1d72766c72bf57a462161f
+FileChecksum: MD5: d4ecdd9d68362f88ba025d996eff2a62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/cls.c
+SPDXID: SPDXRef-item883989
+FileChecksum: SHA1: c86ff91d987e422307eb6631cb051d0fe035b996
+FileChecksum: MD5: c31b3b303754e6129ccffbc940fa3304
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/rtnl.c
+SPDXID: SPDXRef-item883990
+FileChecksum: SHA1: a02c6aa887129208678e67dc624f00e465c852f1
+FileChecksum: MD5: 89e216341232f3608fff4a9c33341fef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/act/skbedit.c
+SPDXID: SPDXRef-item883992
+FileChecksum: SHA1: f9cadd27d1a0e748e530656d42dd0258a1d266c5
+FileChecksum: MD5: 289db0dfdb73ea5aebe918577f7aa06a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/act/gact.c
+SPDXID: SPDXRef-item883993
+FileChecksum: SHA1: b6b1a74691a070fd99d26fdb4341c4e59702c144
+FileChecksum: MD5: 609c69a5e2c1043a80cd3e9f50a679cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/act/mirred.c
+SPDXID: SPDXRef-item883994
+FileChecksum: SHA1: e76655413620534d3ab96222b7072b86e56ebaba
+FileChecksum: MD5: 3946bf3ad1c5585192a8403ab1e0f307
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/addr.c
+SPDXID: SPDXRef-item883995
+FileChecksum: SHA1: bc0759d6e52268a2a35e48067329e0f51f6c503d
+FileChecksum: MD5: 3088aa7fbb35d9c84bc6049c05e246c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/fifo.c
+SPDXID: SPDXRef-item883997
+FileChecksum: SHA1: a2d69b6c8a83281a2f122e45a44c0ad768784e16
+FileChecksum: MD5: 49da17fb61740bf0927b8bf1e0551e76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/dsmark.c
+SPDXID: SPDXRef-item883998
+FileChecksum: SHA1: 2ee1d20931543f78574470771e804b8a3eb7f08c
+FileChecksum: MD5: 4d6ac7921a71e845802186a76795adfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/fq_codel.c
+SPDXID: SPDXRef-item883999
+FileChecksum: SHA1: 7673782d1bfc8b719ff40b6108629932e1c2ebc3
+FileChecksum: MD5: 70256c658b24370b9c091bdcd603587d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/netem.c
+SPDXID: SPDXRef-item884000
+FileChecksum: SHA1: 456acf37add7adc903c18f4b21d1d175e1a05ecf
+FileChecksum: MD5: 4ab90e4a48a7c82ba9556d0789f00239
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/htb.c
+SPDXID: SPDXRef-item884001
+FileChecksum: SHA1: a8fb51a3b0f898316e426c5e254959e9b8aa4e57
+FileChecksum: MD5: c03b9b6c0b9f2151fe81f41e778e1733
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/ingress.c
+SPDXID: SPDXRef-item884002
+FileChecksum: SHA1: b6015e8fbe25282b3e03d20c00bf6d946a6e3a23
+FileChecksum: MD5: cb7f0cddeaa9175ac9a9f47de796593a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/blackhole.c
+SPDXID: SPDXRef-item884003
+FileChecksum: SHA1: 43629db056aea5ab12263cf491b2d701b17066c8
+FileChecksum: MD5: e367c659a78fc38236dcbe144e1aa60b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/hfsc.c
+SPDXID: SPDXRef-item884004
+FileChecksum: SHA1: 1f51462d53c74b882ec978271d0db3790546d747
+FileChecksum: MD5: 2384f0142d68949f9750c28642149c26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/plug.c
+SPDXID: SPDXRef-item884005
+FileChecksum: SHA1: 8a5ba3d5e67a803e7d83683cbc93812d15920757
+FileChecksum: MD5: 979416353bba800be239187aac483572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/tbf.c
+SPDXID: SPDXRef-item884006
+FileChecksum: SHA1: d4235b605754f7174e819acfec6734c0f81b6217
+FileChecksum: MD5: 2cabc246d3dcd903d89dca69c1cd00f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/cbq.c
+SPDXID: SPDXRef-item884007
+FileChecksum: SHA1: f0b92766694a5ebe7c89e4c7f4cf8b3257df7416
+FileChecksum: MD5: 7755a53a547ef486e2c165f44c63c35e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/sfq.c
+SPDXID: SPDXRef-item884008
+FileChecksum: SHA1: c7515ad70ee2cfb95328b414823f04d88c9ce45a
+FileChecksum: MD5: 45f48cd426f7bcf33d5c90d6b4deba82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/prio.c
+SPDXID: SPDXRef-item884009
+FileChecksum: SHA1: 913594d795fcc876cc5736c1cd6e9052a7eef751
+FileChecksum: MD5: 0be244d334e6f47c87898f57c563ccc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc/red.c
+SPDXID: SPDXRef-item884010
+FileChecksum: SHA1: d4926763ac76ecfd8dcd2fb65ba18789150c8a04
+FileChecksum: MD5: 41af67037202de6f9e9513d43643a689
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/qdisc.c
+SPDXID: SPDXRef-item884011
+FileChecksum: SHA1: 13ab4963ae9590b89a34e5d1d9a6d4749b76c828
+FileChecksum: MD5: bc42a72decf73749fa2f81ee049251fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/route/nexthop.c
+SPDXID: SPDXRef-item884012
+FileChecksum: SHA1: ab8aeb70596527d4faa4279f5423960225118fc3
+FileChecksum: MD5: 82f4d86d74efd8a4108a55c87b0d618b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/socket.c
+SPDXID: SPDXRef-item884013
+FileChecksum: SHA1: b705ccd62da0dc5c4a4df2b52e09856f9b17f0e6
+FileChecksum: MD5: a507b0ec35d6c5030a628fd0ed4600f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/cache.c
+SPDXID: SPDXRef-item884014
+FileChecksum: SHA1: 0e4f5cf35ca061e654f1a915c1bcc8d8108498b9
+FileChecksum: MD5: 6e233026821a59dcbee7744b61c1202b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/handlers.c
+SPDXID: SPDXRef-item884015
+FileChecksum: SHA1: 54abb4e089c094bd9abc3199fbd4694124489687
+FileChecksum: MD5: a5bff74ffde6922ff0201858febbf0ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/defs.h.in
+SPDXID: SPDXRef-item884016
+FileChecksum: SHA1: 29b4c5b29055ed91e696d2de8914012589f7233d
+FileChecksum: MD5: beb949d66daf9857aa9e38f37984bde2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/xfrm/sa.c
+SPDXID: SPDXRef-item884018
+FileChecksum: SHA1: 48bef67fcfd114b35571d7be26fd9a6f276f3579
+FileChecksum: MD5: 86b0a5932b53d909354b196e5b427281
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/xfrm/ae.c
+SPDXID: SPDXRef-item884019
+FileChecksum: SHA1: 4bc9c4336baaa2472d8db84a46372b271eb2f63d
+FileChecksum: MD5: 09e248c05a390f7656d84856e293ac3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/xfrm/lifetime.c
+SPDXID: SPDXRef-item884020
+FileChecksum: SHA1: 8cb364570e5043cbd2d737ccc052027a41429a95
+FileChecksum: MD5: 87c83c07eb658c537ed0dcd720566f9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/xfrm/selector.c
+SPDXID: SPDXRef-item884021
+FileChecksum: SHA1: b34f76a43cdfe85bd805705d67631a361a185c1a
+FileChecksum: MD5: ce0d23916bed0af5229eb126ade265ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/xfrm/template.c
+SPDXID: SPDXRef-item884022
+FileChecksum: SHA1: 31b33de63431505046f28c8c56181dc2cd8ba7b7
+FileChecksum: MD5: e7e2ce7b39648c9a1c6e535cd0fbb32f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/xfrm/sp.c
+SPDXID: SPDXRef-item884023
+FileChecksum: SHA1: d0e4123f94f85664ae4f467b7726b8625a9144ba
+FileChecksum: MD5: 85dbbfdc89eeae65211946d0e5d51aa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/addr.c
+SPDXID: SPDXRef-item884024
+FileChecksum: SHA1: a99a496b8e0319d91d88a046eef452e68eeacc62
+FileChecksum: MD5: b7e52804faa4de4292a90be7f8770932
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/genl/genl.c
+SPDXID: SPDXRef-item884026
+FileChecksum: SHA1: ef6749dfb63bd3ad9514c7ef6ee4a13bf8056d39
+FileChecksum: MD5: ce22a0d06cf893dfee63fe13093a3df7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/genl/ctrl.c
+SPDXID: SPDXRef-item884027
+FileChecksum: SHA1: 6eb0d5bbb7bfc67cb1b324ac69e5fb57055308b8
+FileChecksum: MD5: 2907e9376cc1a69a135c7fea4c952db3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/genl/mngt.c
+SPDXID: SPDXRef-item884028
+FileChecksum: SHA1: 26a020a0ba1733dfd0ad95f2835f2d0cec70a2cd
+FileChecksum: MD5: 16d6bed06a0d6fa067f15001f3d732b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/lib/genl/family.c
+SPDXID: SPDXRef-item884029
+FileChecksum: SHA1: 3d3d681332ed7ebd04d4eb4afe5dceba4d59187c
+FileChecksum: MD5: 43933ed3c935a596a065be64d6f5dec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-cli-3.sym
+SPDXID: SPDXRef-item884030
+FileChecksum: SHA1: 5add415f12b922d267b19e36ef8a3658895ddb79
+FileChecksum: MD5: 2ff70b8b63b2c1cfcb352e496d1119b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/Makefile.in
+SPDXID: SPDXRef-item884032
+FileChecksum: SHA1: 8cf60d02715a77af6a952ca3a311237aede2f5a8
+FileChecksum: MD5: df85e25d3ab8921e0e7ed56cb74980cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/examples/wiphy.py
+SPDXID: SPDXRef-item884034
+FileChecksum: SHA1: f39a17c6246c93b72ff047e881fd11c011b45fad
+FileChecksum: MD5: fd3250da75ffcb2d90b8687efadfe0f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/examples/iface.py
+SPDXID: SPDXRef-item884035
+FileChecksum: SHA1: cfa7f719a0fcf5bbbcd740caa6b1b38985990540
+FileChecksum: MD5: 1c447a342b3b878f9331e2b2d36ea171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/examples/Makefile.in
+SPDXID: SPDXRef-item884036
+FileChecksum: SHA1: 2f8f100232cfe9fe464fd382b45272d3155c26a9
+FileChecksum: MD5: fa66f7750abe09296622092d10402f64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/examples/Makefile.am
+SPDXID: SPDXRef-item884037
+FileChecksum: SHA1: f9f9b074af1def55254905105a0df0ed8b5da8dd
+FileChecksum: MD5: 245ab2a2b46423a5362e361b8eccd181
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/examples/nl80211.py
+SPDXID: SPDXRef-item884038
+FileChecksum: SHA1: 3ee2ff882f770b9a591381ed1ab9fa0778248962
+FileChecksum: MD5: 33dd2151c35f2f35506db46b754c928e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/setup.py.in
+SPDXID: SPDXRef-item884039
+FileChecksum: SHA1: e864f0c34151a5addae020064f3bf691c15e63ce
+FileChecksum: MD5: a2df7c7017ae45289359f17b8dc25959
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/Makefile.am
+SPDXID: SPDXRef-item884040
+FileChecksum: SHA1: fe1d012b225ea1cbc10afa8075c421789dfa2f68
+FileChecksum: MD5: 7272644c54b3ebf92c97e5715aa5573c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/tests/Makefile.in
+SPDXID: SPDXRef-item884042
+FileChecksum: SHA1: 152bc72cc57acb14146f79037cc763fbf2f9452e
+FileChecksum: MD5: b91632cbf87b76a8d90295221f7a63f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/tests/Makefile.am
+SPDXID: SPDXRef-item884043
+FileChecksum: SHA1: 88f01ecf96a49bfc99e8893a806d324924980a21
+FileChecksum: MD5: 1820b0993f6b14df80172902350d1e44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/tests/test-create-bridge.py
+SPDXID: SPDXRef-item884044
+FileChecksum: SHA1: 4637024101f60523c150aac07943354a1f793fc5
+FileChecksum: MD5: 2a5ba828bd14c7704db23ad2fa023f91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/doc/index.rst
+SPDXID: SPDXRef-item884046
+FileChecksum: SHA1: 071c77f027e4e4dd04852b9e77172528c0658f76
+FileChecksum: MD5: 6305a139dc8bed5c2de777c9042dcbf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/doc/core.rst
+SPDXID: SPDXRef-item884047
+FileChecksum: SHA1: 1ad510e7e319e21a2b44ec05365092710a21de38
+FileChecksum: MD5: 330213f18740d8e8c8187ff6e576935f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/doc/Makefile.in
+SPDXID: SPDXRef-item884048
+FileChecksum: SHA1: 708cfac0173a49b668464b131a426616634181c5
+FileChecksum: MD5: 42ceaabaeec5c0dd7888ff37e9fd7769
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/doc/conf.py
+SPDXID: SPDXRef-item884049
+FileChecksum: SHA1: 24be44555f176cc7354da009ea7bdabd23b1fb7a
+FileChecksum: MD5: cb8b75961f8a336a4eab33508da6d01b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/doc/Makefile.am
+SPDXID: SPDXRef-item884050
+FileChecksum: SHA1: 8078cb5d8ed5aeb83df773a873a6af356a204e58
+FileChecksum: MD5: b796d1748eb8c390f03e9ce7e66a91d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/doc/route.rst
+SPDXID: SPDXRef-item884051
+FileChecksum: SHA1: 47a89a2d9073fe0146160d8110b370e21c20b64c
+FileChecksum: MD5: ad9d22381efbc06b90f77c30301e14b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/doc/route_addr.rst
+SPDXID: SPDXRef-item884052
+FileChecksum: SHA1: 58b923a207047cd6ffbbf3a64453145eba9e7fb1
+FileChecksum: MD5: f7c36a7fb17d1000cff818934a754ae2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/README
+SPDXID: SPDXRef-item884053
+FileChecksum: SHA1: dbea96407c63883fa90ceda95b098556fc7e0ff4
+FileChecksum: MD5: ebc9fc3649b271c78fa1d8bf2177f17b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/Makefile.in
+SPDXID: SPDXRef-item884055
+FileChecksum: SHA1: 7cbce4e3db3ccb15e981f97d53feb2c503fb8f04
+FileChecksum: MD5: 74802ea2a4b761b84174d612fe4aebc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/fixes.h
+SPDXID: SPDXRef-item884056
+FileChecksum: SHA1: fd8cec77667d3ff05100c566507daa1978864d86
+FileChecksum: MD5: f7b74074ced7df2f4792c55542f1ff4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/Makefile.am
+SPDXID: SPDXRef-item884057
+FileChecksum: SHA1: d1d591b5447760ed88ba0d7c4d632acb8a5083ae
+FileChecksum: MD5: 0f41a82a0ced8fc39d465c5a45b4571b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/address.py
+SPDXID: SPDXRef-item884059
+FileChecksum: SHA1: 77e8f507a319f5c6ad24b215aeb13be6df61c301
+FileChecksum: MD5: 64c120df1f3bf9576d8cbc4c413f514a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/links/dummy.py
+SPDXID: SPDXRef-item884061
+FileChecksum: SHA1: fc4a0bcecb9ae383611e44fc32e1b3d1c70a5267
+FileChecksum: MD5: fe814c013e11a30e7cfde42364358d3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/links/inet.py
+SPDXID: SPDXRef-item884062
+FileChecksum: SHA1: 1631827dd941bb39583af0f86179c6128a340685
+FileChecksum: MD5: 9bcbd799cfdc4b5a055fc172f0209580
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/links/vlan.py
+SPDXID: SPDXRef-item884063
+FileChecksum: SHA1: d6b3455146f8b3768d7f53495c99426be19a66de
+FileChecksum: MD5: ba3e4e0caafd4ba9ef99f1aef5dac1ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/links/__init__.py
+SPDXID: SPDXRef-item884064
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/Makefile.in
+SPDXID: SPDXRef-item884065
+FileChecksum: SHA1: 1c0f2726ae0450440ca30273bb7f9cf4a4b0534f
+FileChecksum: MD5: 49c8bf629cf9c099f8991d7c0fa68e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/tc.py
+SPDXID: SPDXRef-item884066
+FileChecksum: SHA1: 22df1b0b81be1e950674b2e044a719802e44fb8d
+FileChecksum: MD5: d9a6321346e801faa5f4d1709a389feb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/Makefile.am
+SPDXID: SPDXRef-item884067
+FileChecksum: SHA1: 8400c43507f2ca442ee9e8c09b4bfba99e96f2e2
+FileChecksum: MD5: 590062d90796119693a06f44e8c2bcd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/qdisc/htb.py
+SPDXID: SPDXRef-item884069
+FileChecksum: SHA1: 66045a50fc82cbc8b4654c3e0e63ad071f70fbbe
+FileChecksum: MD5: 342fe8d768b9ecc731e688846e5a6b2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/qdisc/__init__.py
+SPDXID: SPDXRef-item884070
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/capi.i
+SPDXID: SPDXRef-item884071
+FileChecksum: SHA1: ae80e576952b197add3c068d4f39b53423b48cb5
+FileChecksum: MD5: 141ae019806b259762c29661e79b568d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/link.py
+SPDXID: SPDXRef-item884072
+FileChecksum: SHA1: bf91490d628b732978324c9814609cd5eb841ea2
+FileChecksum: MD5: 44a478edaa6e781e42ed6e69ece4a4c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/route/__init__.py
+SPDXID: SPDXRef-item884073
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/core.py
+SPDXID: SPDXRef-item884074
+FileChecksum: SHA1: bea9f920b6e836a470977e0c121d8d399e2fddb7
+FileChecksum: MD5: 791ddb47fd1eb813f57a8e6d43e3dda6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/utils.h
+SPDXID: SPDXRef-item884075
+FileChecksum: SHA1: 2c7f02a8b8e36d9f39b64c127be7fca496962eff
+FileChecksum: MD5: eb863862a1b99bee3501b776957309b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/capi.i
+SPDXID: SPDXRef-item884076
+FileChecksum: SHA1: e91d39ae3defcdded0dc3a4c4c0dd07a2c5ef12c
+FileChecksum: MD5: f492fe834615e239457e8698fb21a08d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/util.py
+SPDXID: SPDXRef-item884077
+FileChecksum: SHA1: c411fc910c244d0bd4de26e2b8705b01e5871d21
+FileChecksum: MD5: e5114b81cff3c03de2bb295235d98e40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/__init__.py
+SPDXID: SPDXRef-item884078
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/genl/Makefile.in
+SPDXID: SPDXRef-item884080
+FileChecksum: SHA1: 4aa3319fab78e8f5dcd62b2f1a62341b9e93640f
+FileChecksum: MD5: c23acefa72ff65585752f703a40f1b9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/genl/Makefile.am
+SPDXID: SPDXRef-item884081
+FileChecksum: SHA1: 7b210315925811284850aa6ebce7f3e7a926595e
+FileChecksum: MD5: 4b386b4a3d5217ff27faf25d5293bf0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/genl/capi.i
+SPDXID: SPDXRef-item884082
+FileChecksum: SHA1: 55c9ee07ed035a791f2b152da1f8ff39a8777a11
+FileChecksum: MD5: b65959a4c074876d788c01ed6a80b9fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/python/netlink/genl/__init__.py
+SPDXID: SPDXRef-item884083
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/Makefile.am
+SPDXID: SPDXRef-item884084
+FileChecksum: SHA1: 2dad189ddb9898278c2b069e04e86b194c9359e4
+FileChecksum: MD5: d11d2f7e0a7687bfd57e99caaed8ef01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-ipip.c
+SPDXID: SPDXRef-item884086
+FileChecksum: SHA1: 0dc8118ab940dee0d00892019040d109ef80fa1e
+FileChecksum: MD5: a1ee37eb0f81f387cf7db782226946fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-vlan.c
+SPDXID: SPDXRef-item884087
+FileChecksum: SHA1: 646f326cb628b8cf9e443a908199b6c81c9c73d7
+FileChecksum: MD5: e8b9c772f4c21907841d2618468f3e30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/check-addr.c
+SPDXID: SPDXRef-item884088
+FileChecksum: SHA1: 57fc558e7bcb92fcfd9bd46613df308f58ab4980
+FileChecksum: MD5: eb2180ee6e6afa29abbcb4e139df2ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-ipgre.c
+SPDXID: SPDXRef-item884089
+FileChecksum: SHA1: 871695e2209bfe1012e19011d173e90ed823f957
+FileChecksum: MD5: 9bc3b3d320a8273d6a3ad048fe597668
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-sit.c
+SPDXID: SPDXRef-item884090
+FileChecksum: SHA1: 744400017cc4e92f862920ebf637b2e1f580499d
+FileChecksum: MD5: fa71f2136b814f4b15ed3d8f8d15ea2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-bridge.c
+SPDXID: SPDXRef-item884091
+FileChecksum: SHA1: 86e35281c03c69287ab180f2cb122bafb7cb715a
+FileChecksum: MD5: 28e6e50cb7f4abac1acc1c2f33cea0a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/Makefile.in
+SPDXID: SPDXRef-item884092
+FileChecksum: SHA1: 9fcf126e4ad14a30620b3ff6d529f1e744f83f00
+FileChecksum: MD5: 1803f404f3bed02bbc06f1a563f732db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-delete-link.c
+SPDXID: SPDXRef-item884093
+FileChecksum: SHA1: 1317f28a161031f129190652849aad7231cbbcbd
+FileChecksum: MD5: 0d13e3eb4f31ce9fdb89952541f92667
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-ip6tnl.c
+SPDXID: SPDXRef-item884094
+FileChecksum: SHA1: 98a821eb1ac2c6c55c299d090200c18f9500ee6f
+FileChecksum: MD5: d286aebd184df4a0a118f2af150dfd3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/check-all.c
+SPDXID: SPDXRef-item884095
+FileChecksum: SHA1: 08fc0485cce09bb5b4d3408faf0283b65ffd85a9
+FileChecksum: MD5: 48a079adf0a135cd5b37008a2760c942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-u32-filter-with-actions.c
+SPDXID: SPDXRef-item884096
+FileChecksum: SHA1: 707df93b63ab91a6cf38c916bed8e1ef433ed825
+FileChecksum: MD5: f13250885ae3c9f49177e93ca9605de7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/Makefile.am
+SPDXID: SPDXRef-item884097
+FileChecksum: SHA1: 9daab2f969dfbba02e31ebb7643d936b3bd99d6e
+FileChecksum: MD5: 498bd9fa59a4c76ad7e81dc1ac018a36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/check-attr.c
+SPDXID: SPDXRef-item884098
+FileChecksum: SHA1: 5a1319938c375c16bd38bd8bc367d3a56bf3c34f
+FileChecksum: MD5: 1c73f2d0c340eec3c9f893e3d2b98195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-macsec.c
+SPDXID: SPDXRef-item884099
+FileChecksum: SHA1: cf5951515622a8fa62d642d44421de1cbe934dc7
+FileChecksum: MD5: 2f60dfcdffce1851f74b7a63aa696498
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-ipgretap.c
+SPDXID: SPDXRef-item884100
+FileChecksum: SHA1: b8825759fab70ec1af1dbf59ac678d64fbe8c00e
+FileChecksum: MD5: bcc2c4f8b16de047dc0cb71cc9f017ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-macvlan.c
+SPDXID: SPDXRef-item884101
+FileChecksum: SHA1: 1722a2d168d4ea69136ec9078f0be4c749ccfa61
+FileChecksum: MD5: 10934cd68cfe734aa4ffb877167a59b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-ifb.c
+SPDXID: SPDXRef-item884102
+FileChecksum: SHA1: 3519a193739baacc3ef07167c795820a6619d748
+FileChecksum: MD5: 0930e2f6aa7d7f4429fbc5e152b7064c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-nf-cache-mngr.c
+SPDXID: SPDXRef-item884103
+FileChecksum: SHA1: 14245d9f50bbda44669f2df1ded2e0eef0755549
+FileChecksum: MD5: b427fcd29dd046ecfaf25778d53fd221
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-socket-creation.c
+SPDXID: SPDXRef-item884104
+FileChecksum: SHA1: 3dc3eb9a808c8e384db0aae61eab256c9b0a1c45
+FileChecksum: MD5: 7de5b73a0c5c913ce3ce5fa2625a02b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-bond.c
+SPDXID: SPDXRef-item884105
+FileChecksum: SHA1: 46420467ddedc44544ddbf31cd29ff76349c4ee1
+FileChecksum: MD5: 13964abe7e3d45bf0a4075703f1b731e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-complex-HTB-with-hash-filters.c
+SPDXID: SPDXRef-item884106
+FileChecksum: SHA1: bbc17663e5dbb57feb6aee728af35df8bc4ad706
+FileChecksum: MD5: 7157f281cdb1f291c07583102b5c2e55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/util.h
+SPDXID: SPDXRef-item884107
+FileChecksum: SHA1: fb33551a468934cdce83454183e01cb2c8be5620
+FileChecksum: MD5: 833bd3fa26f45203fe7efbee5cb18b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-macvtap.c
+SPDXID: SPDXRef-item884108
+FileChecksum: SHA1: dfda2e4d111e04acd0dd2379be42a5930ea8e49e
+FileChecksum: MD5: 0afb96d331076ba857e044c600ad5335
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-vrf.c
+SPDXID: SPDXRef-item884109
+FileChecksum: SHA1: 39138110c002f5d2a0e69fcd32a1708d1a46983f
+FileChecksum: MD5: 06d31b9230f1ee5900d287e4ef3037c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-veth.c
+SPDXID: SPDXRef-item884110
+FileChecksum: SHA1: caa9c55524321210a8e05e415570aa7d3d46862d
+FileChecksum: MD5: 4d19b4ae712a4b77f349d2dfea4f010e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-ipvlan.c
+SPDXID: SPDXRef-item884111
+FileChecksum: SHA1: cf0cd9907cea0fd32c148e5b83bfb897e091ad90
+FileChecksum: MD5: ec9410179adf69406361748f7f05ea6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-cache-mngr.c
+SPDXID: SPDXRef-item884112
+FileChecksum: SHA1: a8e03a6d4c52eccbff6cf442188f3c3592d7eb08
+FileChecksum: MD5: c8be18516526bfdf1fd785fc99d0b078
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-ipvti.c
+SPDXID: SPDXRef-item884113
+FileChecksum: SHA1: d8781a5d3f42af563ddd9f63d56a58020a820ca8
+FileChecksum: MD5: 27e32a3e89e0996d99e43da81cf8618f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-genl.c
+SPDXID: SPDXRef-item884114
+FileChecksum: SHA1: ce53943ef81478dabc017237e9d3ae2a3ffa4350
+FileChecksum: MD5: 64e977eee0e04fd268181b08a2a3b701
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/tests/test-create-vxlan.c
+SPDXID: SPDXRef-item884115
+FileChecksum: SHA1: 7735d931a3a4549e24ed0825b42ca5e5ab06a11c
+FileChecksum: MD5: 528acd925fd95a214158dcc1c5a2079c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-xfrm-3.sym
+SPDXID: SPDXRef-item884116
+FileChecksum: SHA1: 02b29759e866db6111b026fe23a29611fbafec88
+FileChecksum: MD5: 1b55eb719c8a09420b1a90c34765dec5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-idiag-3.sym
+SPDXID: SPDXRef-item884117
+FileChecksum: SHA1: d1e812a98db91bc6583b3cdf1bd6e4a878ff2ad0
+FileChecksum: MD5: 977b402aa64e06a9a3fee6abddd719cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/applied-patches
+SPDXID: SPDXRef-item884119
+FileChecksum: SHA1: 00cab204e74dd9d8095d1e3cbf4c5462ced47f51
+FileChecksum: MD5: a93743d2ca7a48fb0e63624fbaf00b6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/.quilt_series
+SPDXID: SPDXRef-item884120
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/.version
+SPDXID: SPDXRef-item884121
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/fix-pc-file.patch/libnl-3.0.pc.in
+SPDXID: SPDXRef-item884123
+FileChecksum: SHA1: f90f261f8a3ffffce74f629bda00a7534f2772b9
+FileChecksum: MD5: 16058bb0a91cae02bc7606eae72ed56f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/fix-pc-file.patch/.timestamp
+SPDXID: SPDXRef-item884124
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/lib-check-for-integer-overflow-in-nlmsg_reserve.patch/lib/msg.c
+SPDXID: SPDXRef-item884127
+FileChecksum: SHA1: f28390c4f00c8995574efce8da454cc350c1a762
+FileChecksum: MD5: b5dc7be69a9b3184168c2b462ebd81a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/lib-check-for-integer-overflow-in-nlmsg_reserve.patch/.timestamp
+SPDXID: SPDXRef-item884128
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/.quilt_patches
+SPDXID: SPDXRef-item884129
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/fix-pktloc_syntax_h-race.patch/lib/Makefile.am
+SPDXID: SPDXRef-item884132
+FileChecksum: SHA1: 4dd7d978cee347128b16889ebb1f5895de167879
+FileChecksum: MD5: ae4616f149f8b32c955a2329adc9bd4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/.pc/fix-pktloc_syntax_h-race.patch/.timestamp
+SPDXID: SPDXRef-item884133
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/configure.ac
+SPDXID: SPDXRef-item884134
+FileChecksum: SHA1: 41d2827021fc26355aa60884347bc0cecd92f06b
+FileChecksum: MD5: 27a8a5448eabc8103ccdd88f7c2fc28c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/ar-lib
+SPDXID: SPDXRef-item884136
+FileChecksum: SHA1: bd59743e475ef3fa5ac10601b3477ee74cd5e794
+FileChecksum: MD5: 1f44d8791219b3da98e50128bb6b0938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/compile
+SPDXID: SPDXRef-item884137
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/install-sh
+SPDXID: SPDXRef-item884138
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/ltmain.sh
+SPDXID: SPDXRef-item884139
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/config.sub
+SPDXID: SPDXRef-item884140
+FileChecksum: SHA1: 3fdd02cd1ac2db8d98909f8cd6019d9a43f14bcf
+FileChecksum: MD5: 80528c46be7fb63226fce5af083d43e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/missing
+SPDXID: SPDXRef-item884141
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/test-driver
+SPDXID: SPDXRef-item884142
+FileChecksum: SHA1: ebabeb373c5af3b8606b510a2494955e34325d8a
+FileChecksum: MD5: 7ce923f582b49637d13847c49fff9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/config.guess
+SPDXID: SPDXRef-item884143
+FileChecksum: SHA1: 41832fbc82a7fcf9197171554070a6050cf2e5c1
+FileChecksum: MD5: c53118f6682ac1db40935d5705145d5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/build-aux/depcomp
+SPDXID: SPDXRef-item884144
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-nf-3.0.pc.in
+SPDXID: SPDXRef-item884145
+FileChecksum: SHA1: 6ac8139b2679c1148cff51cd1a315d0c491ea312
+FileChecksum: MD5: e2250b5c6964dc8d11536d1b6cd00a12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/libnl-idiag-3.0.pc.in
+SPDXID: SPDXRef-item884146
+FileChecksum: SHA1: 0031726b49f6cf9deaea11b4ed7aa38f8c2d3be7
+FileChecksum: MD5: 5ea8441eca419bf226b60fd4c077b9b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/patches/series
+SPDXID: SPDXRef-item884150
+FileChecksum: SHA1: 655401edf932acfcf7497ef0175c8abfd50c0e47
+FileChecksum: MD5: f60060151ad0cccba64a0e33bc7233bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/socket.h
+SPDXID: SPDXRef-item884154
+FileChecksum: SHA1: cd5022108d47f698d0a31bcb9e5451e372949b0a
+FileChecksum: MD5: 66c51f0ac66518002710d498a8f77a56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/tc.h
+SPDXID: SPDXRef-item884155
+FileChecksum: SHA1: 0bedc965f9186fe001444a7f8d1fbdc1cdb171ae
+FileChecksum: MD5: bab69f603ffdd584c99d657a79b5a0ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/route/tc-api.h
+SPDXID: SPDXRef-item884157
+FileChecksum: SHA1: 2683bba8088eb0f93ac12784b00ca7a569dff365
+FileChecksum: MD5: 684d5f60c0c7e7e3dd7d28690587583d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/route/link/sriov.h
+SPDXID: SPDXRef-item884159
+FileChecksum: SHA1: 567bed4d6b7428fbce24e65cf711d9c2885cecc0
+FileChecksum: MD5: 7ac8d5189bd3deb2259bbf76335816c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/route/link/api.h
+SPDXID: SPDXRef-item884160
+FileChecksum: SHA1: a9cfa35a5618af61bed5d9829294b045ee0986d0
+FileChecksum: MD5: 572b2e9466fd7a9e759c85ddbc2ce189
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/cache-api.h
+SPDXID: SPDXRef-item884161
+FileChecksum: SHA1: b55bc650289baef7aa866a21585e71a490d14224
+FileChecksum: MD5: e4c724640cdc686a30625373b88ae076
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/netlink.h
+SPDXID: SPDXRef-item884162
+FileChecksum: SHA1: 5b3a9d6c9bae35781fed10151ace11dc25df75b0
+FileChecksum: MD5: 13efe80bca667bc1fc5c12ae9f9230b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/object-api.h
+SPDXID: SPDXRef-item884163
+FileChecksum: SHA1: d74fd60089e6947120db0782e6c1930507753490
+FileChecksum: MD5: e73261a2d5c8c564750d2adb8c06d1af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/utils.h
+SPDXID: SPDXRef-item884164
+FileChecksum: SHA1: d5f1dcda6824217546398a801ecae37457c354c9
+FileChecksum: MD5: 89d0351a49d933ec68ba58f9fe0f166e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/types.h
+SPDXID: SPDXRef-item884165
+FileChecksum: SHA1: 0648993cf1df4fbc383930358598eca4a24634d9
+FileChecksum: MD5: 1d63d2e8d17092c9a983b43544956ae1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink-private/genl.h
+SPDXID: SPDXRef-item884166
+FileChecksum: SHA1: d05fc8872400bd5fa30088459a5bcb3cce7af6b9
+FileChecksum: MD5: 0892d92f0a4d9258d4b8fcc1f38b87d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/pkt_cls.h
+SPDXID: SPDXRef-item884169
+FileChecksum: SHA1: 330f8de65f72b19ea567079cd235a55dcf01f2a7
+FileChecksum: MD5: 17fc8965c5e36a55e863971aa3555a6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/tc_act/tc_skbedit.h
+SPDXID: SPDXRef-item884171
+FileChecksum: SHA1: 6d2933311841a28cc2762cdf316fb67040b88b1e
+FileChecksum: MD5: fa09cda28dbdbb437c7f8cb7123049f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/tc_act/tc_gact.h
+SPDXID: SPDXRef-item884172
+FileChecksum: SHA1: e15b3996a73a5fe02bd4305ce7be251fe0d5eca7
+FileChecksum: MD5: deffb64a17e7cfeb1f53bbd7f08e6ebe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/tc_act/tc_mirred.h
+SPDXID: SPDXRef-item884173
+FileChecksum: SHA1: 86efe183d1a645798b841d269317f08118d71906
+FileChecksum: MD5: bc73c46e725a2c54ddabc631622b882b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if_ether.h
+SPDXID: SPDXRef-item884174
+FileChecksum: SHA1: 4fdc855f522765217adb83a84309011e1482c8a5
+FileChecksum: MD5: aef36c46b0e0378819fead6a2f1e8401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if_tunnel.h
+SPDXID: SPDXRef-item884175
+FileChecksum: SHA1: eec868196f92db19a5c32f47bed7f1d3d96b5db2
+FileChecksum: MD5: 55fa0b57fc6482f62f88b71119fc6cfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/socket.h
+SPDXID: SPDXRef-item884176
+FileChecksum: SHA1: 8e0a1c65302c7af93c927c4cf3edcf2e33ad47e5
+FileChecksum: MD5: 27190a1c425f3df7f4928278e100e60e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if_link.h
+SPDXID: SPDXRef-item884177
+FileChecksum: SHA1: b749e84213efe5a875c6d1c80724cf09d56e94c6
+FileChecksum: MD5: 090c1cbe243dc2d9ee4a618c50ad47e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/snmp.h
+SPDXID: SPDXRef-item884178
+FileChecksum: SHA1: 4e8bf3d26500244115316496dd57dfd94c215b40
+FileChecksum: MD5: 4f08547e307bab792925eba2b31dba8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if.h
+SPDXID: SPDXRef-item884179
+FileChecksum: SHA1: b9fa0ceec9eddae7e9b68244a898e1f578b3a9b0
+FileChecksum: MD5: 2ef29c25d06cccc77d5ed6f11e3b1908
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/fib_rules.h
+SPDXID: SPDXRef-item884180
+FileChecksum: SHA1: d48970a3b0184c2badc3dc5042912062807c3e49
+FileChecksum: MD5: 21ce9608ef6cc8708271e73ec8bbbccb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/ip.h
+SPDXID: SPDXRef-item884181
+FileChecksum: SHA1: 3672cb38edbc0caae623f24db94f291b57d3846b
+FileChecksum: MD5: c726a61f80a1ec7272e9da11222ebc94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/can/netlink.h
+SPDXID: SPDXRef-item884183
+FileChecksum: SHA1: 72f8d60499dadbb09f3d07659cef42dc4e668bdc
+FileChecksum: MD5: da380453c8ab204ffd3f2ec967496c75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/gen_stats.h
+SPDXID: SPDXRef-item884184
+FileChecksum: SHA1: bf5712c10052f5a88aaae8db0e71c58829640a55
+FileChecksum: MD5: 47dfb4b7158c6e5176913bc9ed4e8823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/veth.h
+SPDXID: SPDXRef-item884185
+FileChecksum: SHA1: 6139c5ae938391d85a305c0ed9a57542f1f6e05b
+FileChecksum: MD5: 051654f3bc5de6b714561eee6cd4cf71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/ip_mp_alg.h
+SPDXID: SPDXRef-item884186
+FileChecksum: SHA1: fcdb0178f4027f69eca8c0a98fc3df07cc14036a
+FileChecksum: MD5: e61194677b1ed82e408f03a79ef4af91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/tc_ematch/tc_em_meta.h
+SPDXID: SPDXRef-item884188
+FileChecksum: SHA1: 328be5368819c4b4f8a2e51511f1b5a41c69252f
+FileChecksum: MD5: 160f2653baa382f1c63ac59d76b3ec7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/netfilter.h
+SPDXID: SPDXRef-item884189
+FileChecksum: SHA1: 29f01efc9e72adbd4bf2907b15e350c460d24ad0
+FileChecksum: MD5: 7900aa9fad1e4a56fe341c68b3001c0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/inet_diag.h
+SPDXID: SPDXRef-item884190
+FileChecksum: SHA1: 6ee8168ad60b4ca9f4eddd42ebf356807bd3e568
+FileChecksum: MD5: 2b0797127114ae7e1f5a3a60243c754f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if_bridge.h
+SPDXID: SPDXRef-item884191
+FileChecksum: SHA1: dc5c54dccf1d46f18f282cbf97f1ddc1fa97562b
+FileChecksum: MD5: e66542c02a7359a455d651f7b2c79b33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/netfilter/nfnetlink_log.h
+SPDXID: SPDXRef-item884193
+FileChecksum: SHA1: 3d1c543caed802ba339823f69c4bb949aa5cb5a5
+FileChecksum: MD5: 9c1f48f54bc76301120c3459d7e7f617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/netfilter/nfnetlink_compat.h
+SPDXID: SPDXRef-item884194
+FileChecksum: SHA1: ec89d656fe5f7caa092e33bf1d3c742dc6691057
+FileChecksum: MD5: 5361a005e5ada19d7adcae493fefd0ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/netfilter/nf_conntrack_common.h
+SPDXID: SPDXRef-item884195
+FileChecksum: SHA1: 1e02883834fd2298bf4596338698a2d29b39a5b5
+FileChecksum: MD5: 78a24d3f23f14f36d7e9c1b243dd2efe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/netfilter/nfnetlink_queue.h
+SPDXID: SPDXRef-item884196
+FileChecksum: SHA1: 9cad5d968975d10c19704d046fe5875d70ba8554
+FileChecksum: MD5: 936ad1e632fbd02ce9a0c6c5f106f757
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/netfilter/nfnetlink.h
+SPDXID: SPDXRef-item884197
+FileChecksum: SHA1: b47b65e62dba4fe7a8a1327e18b618e2c6f1beca
+FileChecksum: MD5: 096d202cfdb5e2b8db18039f4d33f5e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/netfilter/nfnetlink_conntrack.h
+SPDXID: SPDXRef-item884198
+FileChecksum: SHA1: 8258f8527854c846d8fa7e01a9bb32ce865a8a05
+FileChecksum: MD5: 3fd5f0746d38964238c54791d56d4786
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/sock_diag.h
+SPDXID: SPDXRef-item884199
+FileChecksum: SHA1: f75d0a0242430c0848962eff51f2414db18ce5ff
+FileChecksum: MD5: 4f44d8fef7e30fe1628be5204ac2d633
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if_arp.h
+SPDXID: SPDXRef-item884200
+FileChecksum: SHA1: 8a9b70db64f4f4cf1c5304aca5980a487279f9a9
+FileChecksum: MD5: c97c70428fd5ae8d566c053f5c94f3b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if_macsec.h
+SPDXID: SPDXRef-item884201
+FileChecksum: SHA1: 04819eff34fba41f86c960a5d5b693af61afa68a
+FileChecksum: MD5: fb100b2d56eaf8cdeeb7f81a264aa416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if_vlan.h
+SPDXID: SPDXRef-item884202
+FileChecksum: SHA1: 90f5bfca70ef122c80311ec8fdb20509f1f61f4a
+FileChecksum: MD5: 328171ff007f525d8451b47c85a651cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/neighbour.h
+SPDXID: SPDXRef-item884203
+FileChecksum: SHA1: 45155e566699632368dfd3bdd5a91d875e4e0804
+FileChecksum: MD5: d37df9eff143d80cb33ecfb1e37bb048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/genetlink.h
+SPDXID: SPDXRef-item884204
+FileChecksum: SHA1: 292acac93c3f0b0a48fb8e364a809f56818355a9
+FileChecksum: MD5: a2002670691831fc2f1ef44a619098d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/netlink.h
+SPDXID: SPDXRef-item884205
+FileChecksum: SHA1: 78f947b1df44e94b4e6fadd94bc69340646513f6
+FileChecksum: MD5: a4f7e46b6097a38082094a57451d5239
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/rtnetlink.h
+SPDXID: SPDXRef-item884206
+FileChecksum: SHA1: 44ce9b6f30402d630d6c40a21a63c6536267557a
+FileChecksum: MD5: 0ed1ef29c2f780cdb43b402e056e8376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/ipv6.h
+SPDXID: SPDXRef-item884207
+FileChecksum: SHA1: 046f1d0b6d7624646731714aaabf79fd28548da5
+FileChecksum: MD5: 2774f87cc5589fcae659aa7496803ed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/if_addr.h
+SPDXID: SPDXRef-item884208
+FileChecksum: SHA1: 89c201bb3e04da5d9b9efed310927dcc6650b9a8
+FileChecksum: MD5: ea0fdcd8918a1d0a1ec1be13692120d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/xfrm.h
+SPDXID: SPDXRef-item884209
+FileChecksum: SHA1: 6abd041c9d4342526c5f82598fcb0fd26bcc1947
+FileChecksum: MD5: e5856a78252d463665d8a2f32500473f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/linux-private/linux/pkt_sched.h
+SPDXID: SPDXRef-item884210
+FileChecksum: SHA1: f637cec5b2bc85d42aff339c36b800d502701c0b
+FileChecksum: MD5: e80fb694347b3e349ee56b353ba1e942
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/Makefile.in
+SPDXID: SPDXRef-item884211
+FileChecksum: SHA1: 5792c1f5ef6dd753809a89bf541839094e2ab547
+FileChecksum: MD5: e1fab9f0df34602b371e41e9c2d79606
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/Makefile.am
+SPDXID: SPDXRef-item884212
+FileChecksum: SHA1: 387878a0ea05ae5c4255455051b118ce31e1feb3
+FileChecksum: MD5: 4ab2883d021a4a9412857dbeda1f070e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/fib_lookup/lookup.h
+SPDXID: SPDXRef-item884215
+FileChecksum: SHA1: fc738aea91a3ae2bb884fba38f2f4bd829b94b10
+FileChecksum: MD5: 1df57961757ce9182fb1c022cafd7a7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/fib_lookup/request.h
+SPDXID: SPDXRef-item884216
+FileChecksum: SHA1: c2820bb5673f5979008dd5ec41388ee329911d7d
+FileChecksum: MD5: 7b254585639f1e9ed1e06ddef6971557
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/version.h.in
+SPDXID: SPDXRef-item884217
+FileChecksum: SHA1: 5effcd43ec8d38102140fcbd998732c612ced83b
+FileChecksum: MD5: 1823abf472d8e538ce4a24673d87aa74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/socket.h
+SPDXID: SPDXRef-item884218
+FileChecksum: SHA1: 6f754e32fe8798a29b3217ae3ebbc1d00381c334
+FileChecksum: MD5: 8702854d4e02f9efb6f3d4758274af2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/addr.h
+SPDXID: SPDXRef-item884219
+FileChecksum: SHA1: 1eccc28968db91c128483000e2d9b4a0d8aa97c6
+FileChecksum: MD5: 25ee9d145714dede7529a1a69fcc05c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netlink-kernel.h
+SPDXID: SPDXRef-item884220
+FileChecksum: SHA1: 22ec10b19c723cf39ca1c7994d569cdac2619091
+FileChecksum: MD5: 29f8fabb387f7967f0431f8e0a14bad0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/ct.h
+SPDXID: SPDXRef-item884222
+FileChecksum: SHA1: 49dc735f52645ad5034cfc1c0d2ff659b0a96639
+FileChecksum: MD5: 83e4b991f3fa5651739f9949c3914470
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/route.h
+SPDXID: SPDXRef-item884223
+FileChecksum: SHA1: 3049d7d2ca48b579946f02e1eae398056d67ce53
+FileChecksum: MD5: 5c8471e66434dcbc25d3eaecb796eb48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/addr.h
+SPDXID: SPDXRef-item884224
+FileChecksum: SHA1: 515a1d6cd3c276fef0b4ed59915262707963c642
+FileChecksum: MD5: bc5ba90cee1307798b4e4593df2aa22e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/exp.h
+SPDXID: SPDXRef-item884225
+FileChecksum: SHA1: 461fa5e3be44167329d13d195e874da5d621eaed
+FileChecksum: MD5: c890ec7549c7c417168739fec9c9819c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/link.h
+SPDXID: SPDXRef-item884226
+FileChecksum: SHA1: 2ecaba08676130300abcff057a578592be4bd25f
+FileChecksum: MD5: d898ad83ce5423d6e980f6ff31726829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/tc.h
+SPDXID: SPDXRef-item884227
+FileChecksum: SHA1: d45604cafc241fd8c313bc8cc0fcb9ffaed05249
+FileChecksum: MD5: f56eba4ac354b41edddf18fb5c1df64f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/qdisc.h
+SPDXID: SPDXRef-item884228
+FileChecksum: SHA1: 1d2d7b1c6f5fd3890e2c664a21280787ee5f574f
+FileChecksum: MD5: 7928d38f33dfaa44e5367db3eb6e50ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/class.h
+SPDXID: SPDXRef-item884229
+FileChecksum: SHA1: faa15d94a0829e04be88999d312c8193d05dbadd
+FileChecksum: MD5: fd9c67edf01fc201cd34ad22a7810a18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/cls.h
+SPDXID: SPDXRef-item884230
+FileChecksum: SHA1: 89c11673f7e4bfee503f357d3ca34ecf05c4937d
+FileChecksum: MD5: 71587ebd76341613fa06eaf576af1f5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/rule.h
+SPDXID: SPDXRef-item884231
+FileChecksum: SHA1: e0a89e36f0c577a1b5cb2c04614c7a3b09aaa422
+FileChecksum: MD5: 365b0a8a9beb18d511adbfa9f4afa028
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/neigh.h
+SPDXID: SPDXRef-item884232
+FileChecksum: SHA1: 7946c349b8ee290317a1956135b6357e95ccae6f
+FileChecksum: MD5: 657c3b4cabf32ef227a959724618ec02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cli/utils.h
+SPDXID: SPDXRef-item884233
+FileChecksum: SHA1: 313ac41df55858e5a2a1923509ad0a12121cb07d
+FileChecksum: MD5: 9f982216e7f6103341b0d5b729a26b71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netfilter/ct.h
+SPDXID: SPDXRef-item884235
+FileChecksum: SHA1: 601b7b7179b3629ee948dab0fd36ef4f20fb92cd
+FileChecksum: MD5: 9f82197e1248e976a0bfea675651865d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netfilter/nfnl.h
+SPDXID: SPDXRef-item884236
+FileChecksum: SHA1: a82c506dcd93f7e9100a10969d1643f069ca2775
+FileChecksum: MD5: 9839afb4a676b2a2e16abf014b770c9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netfilter/log.h
+SPDXID: SPDXRef-item884237
+FileChecksum: SHA1: 2f9719c96f2e1334644f477e896741bdb7523833
+FileChecksum: MD5: cb492e872e512035918150fe24d03c11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netfilter/netfilter.h
+SPDXID: SPDXRef-item884238
+FileChecksum: SHA1: e17072787db9fc7b4b64ea6108fa63fd6f4250bc
+FileChecksum: MD5: d040e49b1b99db86eb872a8c8ee80fc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netfilter/exp.h
+SPDXID: SPDXRef-item884239
+FileChecksum: SHA1: 68262b60d4cf4231290a3eed8c216c4a625b51a9
+FileChecksum: MD5: c02e4ee0a2ae5ce9b2d030625426b519
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netfilter/queue_msg.h
+SPDXID: SPDXRef-item884240
+FileChecksum: SHA1: 307d975458cfe4ba172624f366f5875813a5b7a6
+FileChecksum: MD5: 1a36ec8f132db524e154a10149588084
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netfilter/queue.h
+SPDXID: SPDXRef-item884241
+FileChecksum: SHA1: 26ed5fa6f62e45751f6901ae7542d6e17e70c96f
+FileChecksum: MD5: 20fefb04c6ce1cca3e2e3f5e99736514
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netfilter/log_msg.h
+SPDXID: SPDXRef-item884242
+FileChecksum: SHA1: 1087bb8a96abf2ef7374845f3b2470462a7abf42
+FileChecksum: MD5: 9efd5f58a886c2e0eb21f26bf01f1700
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/idiag/msg.h
+SPDXID: SPDXRef-item884244
+FileChecksum: SHA1: 8a0b6e6275d7e99f60a4ff0c5cf3093674196745
+FileChecksum: MD5: 4e53a24ffac71af708a2b9b3d471e395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/idiag/vegasinfo.h
+SPDXID: SPDXRef-item884245
+FileChecksum: SHA1: be04e56e784dcf7e9acc51eff0db063693728866
+FileChecksum: MD5: c5ae537faddfa5c21a634123536cdc34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/idiag/idiagnl.h
+SPDXID: SPDXRef-item884246
+FileChecksum: SHA1: 05c543673b6a51011eb62ad5155bf8e2dbc14086
+FileChecksum: MD5: f69e864a57ec7fadcb95c2a8b3df4641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/idiag/meminfo.h
+SPDXID: SPDXRef-item884247
+FileChecksum: SHA1: db49870e2c9754fb441f631318800a5d280845a6
+FileChecksum: MD5: 396372b1464ca98ec4a68ebf171792e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/idiag/req.h
+SPDXID: SPDXRef-item884248
+FileChecksum: SHA1: e1670dd1a9f3280e4bf22cb8d928b29d4a8247c5
+FileChecksum: MD5: 1220cea88872f94dfde342e863bbc36f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netlink-compat.h
+SPDXID: SPDXRef-item884249
+FileChecksum: SHA1: 9aa8af299e2ea8d087b3b3bf58f38e9f91356635
+FileChecksum: MD5: a282e19590d23b4145008dd492451d80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/attr.h
+SPDXID: SPDXRef-item884250
+FileChecksum: SHA1: 41644965f8267b38d9486576305e4b69c675643e
+FileChecksum: MD5: 20ed8ad6d4fa0990d1a6ae3c36d99e41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/handlers.h
+SPDXID: SPDXRef-item884251
+FileChecksum: SHA1: ab431e5cc481ac13a6a0864f1b5ddc63b48da834
+FileChecksum: MD5: 3d25dd3157b65227e07fa847849f6c7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/version.h
+SPDXID: SPDXRef-item884252
+FileChecksum: SHA1: 62528e1a8297e64caad10c5fac6a4d503dba027b
+FileChecksum: MD5: 5761ca6020be98f4a8e19b0dbfd0d182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/hashtable.h
+SPDXID: SPDXRef-item884253
+FileChecksum: SHA1: 5ecd1f963eed8fd537a742d6e3c3f92aba779ded
+FileChecksum: MD5: 4af66a7d4bf59750e0ee3e1bbca1bc55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/rtnl.h
+SPDXID: SPDXRef-item884255
+FileChecksum: SHA1: f6520d492a11819999aa8ffcdb3f627f35fc8dc3
+FileChecksum: MD5: c1aaae9967a3a8144a20b6c7afc6372d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/route.h
+SPDXID: SPDXRef-item884256
+FileChecksum: SHA1: e5fb2dfba4ab7f2ca9dbb3c1f8433fa763270437
+FileChecksum: MD5: 4bedd49dad2034f510d62652a2a8b1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/ematch.h
+SPDXID: SPDXRef-item884258
+FileChecksum: SHA1: 18409f696c2c714c0e35f7fca85ec1a819a697ac
+FileChecksum: MD5: 1d25c75359c6b0ea8f4ee767e6fb6403
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/ematch/nbyte.h
+SPDXID: SPDXRef-item884260
+FileChecksum: SHA1: e02eeead9c5071c244ded25bee4633bf184ed67a
+FileChecksum: MD5: 257ebb904ef1889bb587b41c5e82a0a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/ematch/cmp.h
+SPDXID: SPDXRef-item884261
+FileChecksum: SHA1: a6a834ed8913dbd06b9f51368b42ec84596c2ba7
+FileChecksum: MD5: 6a38a52d3df77750bfb4a330f65cffbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/ematch/text.h
+SPDXID: SPDXRef-item884262
+FileChecksum: SHA1: 0b1ba733b63b3792f87b02d531cd51fac716ef3d
+FileChecksum: MD5: 5cb95ccf85a5794edf6aabde1129d707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/ematch/meta.h
+SPDXID: SPDXRef-item884263
+FileChecksum: SHA1: 7cf1ff0f04f5f5201b536e3687d7ea07efda59dc
+FileChecksum: MD5: 09ef0251ee8635c03b38d7f69f2985b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/basic.h
+SPDXID: SPDXRef-item884264
+FileChecksum: SHA1: 5b76a70a5f71dd3742c6b4c6473973e06d801673
+FileChecksum: MD5: f46a8f3de771f13276b9d718c29c4c8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/u32.h
+SPDXID: SPDXRef-item884265
+FileChecksum: SHA1: d6d7d2a16ba757683acfe211d88a66ef9bf829ac
+FileChecksum: MD5: ca0b5268a1755e2758f4f860520f6a96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/fw.h
+SPDXID: SPDXRef-item884266
+FileChecksum: SHA1: 8ecd348b9f5c8e9ff0501313103cf9c5c2f8e442
+FileChecksum: MD5: e16484eae722fa2e6ab6bfa82283e4dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/cgroup.h
+SPDXID: SPDXRef-item884267
+FileChecksum: SHA1: c592d7047ecf0da144438778983343e207b97b0e
+FileChecksum: MD5: f1123d5d0a71413c34f3195b4929b3f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/cls/police.h
+SPDXID: SPDXRef-item884268
+FileChecksum: SHA1: a86912c1aac25b5b3c08c3df74aa901bab869177
+FileChecksum: MD5: bdf90d49585f89957a29c8de274c99b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/addr.h
+SPDXID: SPDXRef-item884269
+FileChecksum: SHA1: 9950e1759cd5ad8efb6fe384802285cbe447a49e
+FileChecksum: MD5: e30c8707c1bd4aa64b2699bcfffe106d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/neightbl.h
+SPDXID: SPDXRef-item884270
+FileChecksum: SHA1: 352228bdab5a965e60498216a3792acb163012dd
+FileChecksum: MD5: 4f8c0f32ee78a9344b88d269d494b374
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link.h
+SPDXID: SPDXRef-item884271
+FileChecksum: SHA1: 1269e1423876ed9166c8421bb8e38b47a7e90780
+FileChecksum: MD5: 8106ae44261e3a7f13a2dd7e53396784
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/classifier.h
+SPDXID: SPDXRef-item884272
+FileChecksum: SHA1: c74f4e50107a8c7ff6416e3f73950f5991c57910
+FileChecksum: MD5: e386e2c8675cee0d746e5f11e33eb564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/tc.h
+SPDXID: SPDXRef-item884273
+FileChecksum: SHA1: b97667cd451679de807d00a46b93e073624db267
+FileChecksum: MD5: bbdaa54c240653e67382ec7af0e5adad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/tc-api.h
+SPDXID: SPDXRef-item884274
+FileChecksum: SHA1: f041e08d141a8f980b1681a0886d588a08a5b9b2
+FileChecksum: MD5: 72ab15ed4e888699bd86b859f52f24ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc.h
+SPDXID: SPDXRef-item884275
+FileChecksum: SHA1: 7714153b5ae4585899c66fad16c48d05c48b3ed2
+FileChecksum: MD5: 8a99c5b049c5e9a80282156b22085a18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/pktloc.h
+SPDXID: SPDXRef-item884276
+FileChecksum: SHA1: 4afe8608595322b24c29fa331bcd3d75a34df522
+FileChecksum: MD5: 587ec5822c96a87148046b71841ba7c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/class.h
+SPDXID: SPDXRef-item884277
+FileChecksum: SHA1: caa49ed1c10279ceb8278ec637e74ceb8609a319
+FileChecksum: MD5: 9e51215eda8bde8a0ee818c43e629892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/neighbour.h
+SPDXID: SPDXRef-item884278
+FileChecksum: SHA1: 463711b96107ec29b80daa5517e11d42011d4001
+FileChecksum: MD5: 7d50a36baeb810aa905669466a10a6c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/ppp.h
+SPDXID: SPDXRef-item884280
+FileChecksum: SHA1: b728e43037053df0ccb2008f981b955fe46d85e5
+FileChecksum: MD5: 1293d054d639ab7fa5ce6c1fc3def1a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/can.h
+SPDXID: SPDXRef-item884281
+FileChecksum: SHA1: e67373ab088f958c34a165700b0cac415309bb22
+FileChecksum: MD5: 9527e1a8d2839ea2901a80ffe0c33e8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/ipip.h
+SPDXID: SPDXRef-item884282
+FileChecksum: SHA1: fad891362c4acd0fe08f468c1cb122f660a8f778
+FileChecksum: MD5: bab35ced1e78060799e170b9ba65d089
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/veth.h
+SPDXID: SPDXRef-item884283
+FileChecksum: SHA1: 8bb0cbcd5c869bfc4a47790b4912b8fc05ee4bb1
+FileChecksum: MD5: 9fa16dab1d4865fca21c4786cd78c56b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/macvtap.h
+SPDXID: SPDXRef-item884284
+FileChecksum: SHA1: df3e5ce7ed19fd731e4dd4e5705221d7d06164b8
+FileChecksum: MD5: 2637742009bcac84d93093163d217e24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/ip6tnl.h
+SPDXID: SPDXRef-item884285
+FileChecksum: SHA1: 5dd13df53c526d4a014dbf97f81ca23edd33bfa9
+FileChecksum: MD5: 4041258a44fe70d0cabce9de1de81efa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/vrf.h
+SPDXID: SPDXRef-item884286
+FileChecksum: SHA1: 5fe391c295934b27c8b1907c1def42fd92686943
+FileChecksum: MD5: 9efa4820e593cd8e4e1b7d5f154728b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/sriov.h
+SPDXID: SPDXRef-item884287
+FileChecksum: SHA1: 2c6b656d4af9d356e4c3edb3616842b7c5901f26
+FileChecksum: MD5: 9e83b853dee241caffe8d04e9f6281b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/api.h
+SPDXID: SPDXRef-item884288
+FileChecksum: SHA1: 6570e56cd9cf6ef45879fc7ffcbaa5b4013fc2a2
+FileChecksum: MD5: 95a703d565e80f61f671af3dfebbeb29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/inet.h
+SPDXID: SPDXRef-item884289
+FileChecksum: SHA1: 08150a6cae15c650c01686003adee707c7af160c
+FileChecksum: MD5: 8d5bdd7d732cf7d5bec31f85aa9d6ac8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/inet6.h
+SPDXID: SPDXRef-item884290
+FileChecksum: SHA1: 7bbc0cf75969977fb09bb21ea25cb9b8638993a1
+FileChecksum: MD5: cadabc0761eff7042c4e38e619e6c416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/vlan.h
+SPDXID: SPDXRef-item884291
+FileChecksum: SHA1: 8337f72a8543e9e10564c062490c6d1d7874b922
+FileChecksum: MD5: ec224bc95ea9bac1a2d7cbc630583fa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/ipvti.h
+SPDXID: SPDXRef-item884292
+FileChecksum: SHA1: 07f8e4dead6cc0bce435732a31f0b44ffdaa21ae
+FileChecksum: MD5: 61a2faac9e568671981fc49c666fbc55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/macsec.h
+SPDXID: SPDXRef-item884293
+FileChecksum: SHA1: b19a1824b73da2062a6466ccfda3a84f6cc68afe
+FileChecksum: MD5: 422a0e425a7b3b497384fcc3e88e6f1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/ipgre.h
+SPDXID: SPDXRef-item884294
+FileChecksum: SHA1: df089d0ec57afdb39c8e51ed45440225c45879a1
+FileChecksum: MD5: f4cd203b44a0c3f6231b57ca75486752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/bonding.h
+SPDXID: SPDXRef-item884295
+FileChecksum: SHA1: 45805c85d32d98ce08b2cc95a6b99d9c9a5fb2b7
+FileChecksum: MD5: 3f544ce564666d60e91bb9f34bc359c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/vxlan.h
+SPDXID: SPDXRef-item884296
+FileChecksum: SHA1: 6a9925474c792998c57847f2ef29ec3708ed8b2b
+FileChecksum: MD5: 5fd15d50b86d8496543a634a15076686
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/bridge.h
+SPDXID: SPDXRef-item884297
+FileChecksum: SHA1: f7b609bbcb40024e53982eae4ac16ec58a35371b
+FileChecksum: MD5: d9da69474c987b5fcc818deb731bb780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/ipvlan.h
+SPDXID: SPDXRef-item884298
+FileChecksum: SHA1: 1e93dd956ec90e7d774eaa5b2256aef856e79e61
+FileChecksum: MD5: 7b495e94cf493c3bed9862e1a7423432
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/info-api.h
+SPDXID: SPDXRef-item884299
+FileChecksum: SHA1: 1b71c90f3c7a678b2a333b821132b9f2ec7c6608
+FileChecksum: MD5: 5ae8f37843a18b54c473fb011cd28869
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/sit.h
+SPDXID: SPDXRef-item884300
+FileChecksum: SHA1: 56e11be14dac732227df2cb8ac75bd4d283752be
+FileChecksum: MD5: ae1907a12fbebeba9d660d0fb0ec59f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/link/macvlan.h
+SPDXID: SPDXRef-item884301
+FileChecksum: SHA1: f444b5a11865adebceb3d8962f563323c7ceb542
+FileChecksum: MD5: a6bfab77e4eb0264eca9cc2d7f7f8a72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/action.h
+SPDXID: SPDXRef-item884302
+FileChecksum: SHA1: 3f56397ab9dfaa4b91ec2a5224f35305070aa1d3
+FileChecksum: MD5: adffbdda71dd17d9be84d69c506ab8de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/rule.h
+SPDXID: SPDXRef-item884303
+FileChecksum: SHA1: 437eb8447f13f5c6483c1a44784ebee47afc9edc
+FileChecksum: MD5: 2db402d2cb4ec5a2ad52a2844b670f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/act/skbedit.h
+SPDXID: SPDXRef-item884305
+FileChecksum: SHA1: d28205ae4f025188bc4fa14a456bd583bc9e7468
+FileChecksum: MD5: b7ddaa2dabcb950c360e938820f661ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/act/mirred.h
+SPDXID: SPDXRef-item884306
+FileChecksum: SHA1: 2eb6d1f9914261a996398dc5787b2df49945ecbe
+FileChecksum: MD5: c337b2deff630d0399955651e94827d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/act/gact.h
+SPDXID: SPDXRef-item884307
+FileChecksum: SHA1: e0ff0e7b5607f926f557ebbec8f4bbb9f7f5197e
+FileChecksum: MD5: bbe85669ea2fb68e0e3d42fe48712308
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/plug.h
+SPDXID: SPDXRef-item884309
+FileChecksum: SHA1: ccda4400116ce312620cd4081c03763daadf12ad
+FileChecksum: MD5: f632d3618e3e779bae604518633f8c34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/htb.h
+SPDXID: SPDXRef-item884310
+FileChecksum: SHA1: dc4ac8e210facc3e7b4728075f4deb0d6c051688
+FileChecksum: MD5: 008a0942812bec75d46d41ec325fcb29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/hfsc.h
+SPDXID: SPDXRef-item884311
+FileChecksum: SHA1: 7e6659ec27c12c1dda763c136849015fd2dd7ad2
+FileChecksum: MD5: 6f5589ce087011cb999364366e400e17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/red.h
+SPDXID: SPDXRef-item884312
+FileChecksum: SHA1: fbedb4acdc63542a62d558a58e1ca021d2380a71
+FileChecksum: MD5: 5b09722a50f451cf5ea346c33c855821
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/prio.h
+SPDXID: SPDXRef-item884313
+FileChecksum: SHA1: de703642905a44f431a5d92210483f0d3ac2896c
+FileChecksum: MD5: 9ad004e5634e8cb12511427d26c0a205
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/fq_codel.h
+SPDXID: SPDXRef-item884314
+FileChecksum: SHA1: 20605e8106ac58374621558b02fe166c93a5da65
+FileChecksum: MD5: 310a78e4c3e6a874079fd472a6657a69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/fifo.h
+SPDXID: SPDXRef-item884315
+FileChecksum: SHA1: 2433fd874380d182c6fdb31ce424e0692fb746d6
+FileChecksum: MD5: 5c0e50e225a653732a0935edb7ef8d3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/dsmark.h
+SPDXID: SPDXRef-item884316
+FileChecksum: SHA1: 2f0775d4a9d448612d0965c6d1022bcc7abb82f5
+FileChecksum: MD5: feed6594ad6f37883f00bbeb5b9ab52c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/netem.h
+SPDXID: SPDXRef-item884317
+FileChecksum: SHA1: 1ff82ae7ea4434fce148a92354f38b4643badf65
+FileChecksum: MD5: 9da4c2389fabad47df023b00f67d2458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/sfq.h
+SPDXID: SPDXRef-item884318
+FileChecksum: SHA1: cc4818df42b77988e834acc76ffea545a9a7bcec
+FileChecksum: MD5: 33c26ca139227edd9d192f6999e32b88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/cbq.h
+SPDXID: SPDXRef-item884319
+FileChecksum: SHA1: 7e404e8574578e8725041c6fb4ffc12bdea5a618
+FileChecksum: MD5: 6e3e32a7b4fd21fe40e0d529754e6d80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/qdisc/tbf.h
+SPDXID: SPDXRef-item884320
+FileChecksum: SHA1: 35a06b780792a2d64c10986f355d2cfccf8f6afc
+FileChecksum: MD5: 17fbf6d628b29d828b88d4d5753f330a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/route/nexthop.h
+SPDXID: SPDXRef-item884321
+FileChecksum: SHA1: 269d48c4266b7beab01ba51f6e13cf1f27a9ecdd
+FileChecksum: MD5: 65d7489129c1e932248a3817d16f9653
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/object.h
+SPDXID: SPDXRef-item884322
+FileChecksum: SHA1: a90f23eff72ac7bbe6dc0d613d5e6a1fe5aa4861
+FileChecksum: MD5: b9ecaeb6cbd1bbd8a67e67a2a9d7e0b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/list.h
+SPDXID: SPDXRef-item884323
+FileChecksum: SHA1: 29dc187f5cc903518b1b3fc482ab7773fb29370c
+FileChecksum: MD5: 1f7ce631252b93295fa7d979684e655c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cache-api.h
+SPDXID: SPDXRef-item884324
+FileChecksum: SHA1: 42665e2e27dc40cd260c39b2ecc790d585c90179
+FileChecksum: MD5: cc98d44440ae81222a2d0489466faf85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/msg.h
+SPDXID: SPDXRef-item884325
+FileChecksum: SHA1: c8c06d36ac48b8b72ae6239c079c99fcc62e9f86
+FileChecksum: MD5: 881b9fe1af4261330bc48ade438bbe9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/netlink.h
+SPDXID: SPDXRef-item884326
+FileChecksum: SHA1: 3608dbe4285aa7ed6e3f9153dcf62a51ebf665c8
+FileChecksum: MD5: bf974d2e781f6c3f3446c2af5e620b35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/object-api.h
+SPDXID: SPDXRef-item884327
+FileChecksum: SHA1: 82c30f4ffb46937688bde7be7ea6838d3ed7f233
+FileChecksum: MD5: df171ad91b5dfc843519c6ce7aa17586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/xfrm/ae.h
+SPDXID: SPDXRef-item884329
+FileChecksum: SHA1: f2fa69c9aceb862d887a4b0e3d2ea153af8faf93
+FileChecksum: MD5: bb9e6e6e7ca3d93eab636bfbbfeaec39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/xfrm/selector.h
+SPDXID: SPDXRef-item884330
+FileChecksum: SHA1: 7a265fde953a6835f4ce17749e946e73057f5ab1
+FileChecksum: MD5: 96eff05d630302bfed83a726b7e17fbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/xfrm/sp.h
+SPDXID: SPDXRef-item884331
+FileChecksum: SHA1: 6a1fcb43de54d311bebb34ab4b66548034cafde9
+FileChecksum: MD5: a505d2af16bd1627a0c095970fa3919b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/xfrm/template.h
+SPDXID: SPDXRef-item884332
+FileChecksum: SHA1: f4acb40a5509f00885bf6ca54850a8ca965f3103
+FileChecksum: MD5: f7aefa1eb64f327ae1302399bb3e86bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/xfrm/lifetime.h
+SPDXID: SPDXRef-item884333
+FileChecksum: SHA1: b32f5f2c3a082c32a68a4de3e794262bb629e821
+FileChecksum: MD5: 03b0e4188aff2e10cdb2b19b803a471a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/xfrm/sa.h
+SPDXID: SPDXRef-item884334
+FileChecksum: SHA1: f111647d5f37ee5b304b13102ce082c6dcec6e4a
+FileChecksum: MD5: 2131d70ddf38f1dba6b6b93e78653f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/utils.h
+SPDXID: SPDXRef-item884335
+FileChecksum: SHA1: 46db89b6b36353a9551476a7c77405f566454e85
+FileChecksum: MD5: 87281ba73b0aadd88b2ac773d5e0bf36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/hash.h
+SPDXID: SPDXRef-item884336
+FileChecksum: SHA1: 2e346f1cd66f074771a5cea602e0ab6f2c69fdf7
+FileChecksum: MD5: dae83c018943d7f10676385c6183b424
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-ref
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/data.h
+SPDXID: SPDXRef-item884337
+FileChecksum: SHA1: 0320b8298ab59c7c5537e9210e03cbaa4de002db
+FileChecksum: MD5: 73b2b8a0c64c11e7ba41a2db3c2de6e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/genl/ctrl.h
+SPDXID: SPDXRef-item884339
+FileChecksum: SHA1: b6cb3849462691bf5130dd4e98c602b5acf2140b
+FileChecksum: MD5: a658765fe3a6e18c82638edd05e5e677
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/genl/mngt.h
+SPDXID: SPDXRef-item884340
+FileChecksum: SHA1: 4bc9d21f1094c8eb84d729aa7eece34c10428cce
+FileChecksum: MD5: 7721da1b47ea45a1a9f840ee9ef9c1b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/genl/family.h
+SPDXID: SPDXRef-item884341
+FileChecksum: SHA1: 56a168369fb40ef8af2b5082063218986526e1fb
+FileChecksum: MD5: 086846240ec30e103b7ef94e7f29671a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/genl/genl.h
+SPDXID: SPDXRef-item884342
+FileChecksum: SHA1: 674754c555a8adc20f4a4791906ce1870e1bbddb
+FileChecksum: MD5: 9a8e38469993c19899eac8f965fdc9d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/types.h
+SPDXID: SPDXRef-item884343
+FileChecksum: SHA1: 29ec4b7844b5574da3ec41d4bf0fbb9ac1718b68
+FileChecksum: MD5: 6a91864497349445dd64171360d56e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/cache.h
+SPDXID: SPDXRef-item884344
+FileChecksum: SHA1: 382b00b421b8aa4f9a57d42ee6114ca109f9983f
+FileChecksum: MD5: 046b1b3ab9530d399f283f7ab5d26bb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/include/netlink/errno.h
+SPDXID: SPDXRef-item884345
+FileChecksum: SHA1: faf57f5b3bb9400cba34a4d95e213be0b1d7dc40
+FileChecksum: MD5: 6c1c7e62cf03986e602bda3ec7a3d063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libnl-3.2.29/ChangeLog
+SPDXID: SPDXRef-item884346
+FileChecksum: SHA1: d5e25298f97202a3e58b084335905ca8e12c01f7
+FileChecksum: MD5: 19e85b4f2a08f169b8d913a401abad7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/fix-pktloc_syntax_h-race.patch
+SPDXID: SPDXRef-item884348
+FileChecksum: SHA1: cdc823e048ba654b6ca2ba2cbfeeaa10d51f14d1
+FileChecksum: MD5: 0c1aaba6b7e07d627dc0e7fa652f274b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

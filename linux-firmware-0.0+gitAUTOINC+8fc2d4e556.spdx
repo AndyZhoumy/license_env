@@ -1,0 +1,527 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_linux-firmware-1_0.0+gitAUTOINC+8fc2d4e556-r0-patched.tar.gz_1571458340.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:12:20Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: linux-firmware
+PackageVersion: 0.0+gitAUTOINC+8fc2d4e556
+PackageFileName: linux-firmware-1_0.0+gitAUTOINC+8fc2d4e556-r0-patched.tar.gz
+SPDXID: SPDXRef-upload352
+PackageDownloadLocation: git://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git
+PackageHomePage: 
+PackageSummary: <text>Firmware files for use with Linux kernel</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>linux-firmware version 0.0+gitAUTOINC+8fc2d4e556</text>
+PackageChecksum: SHA1: f73af05a307db8f3990f1d3ffb26e5fc10d22797
+PackageChecksum: MD5: 74a9a230ddf62fd1975ae61c2c192a1a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload352
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/git/LICENCE.chelsio_firmware
+SPDXID: SPDXRef-item855087
+FileChecksum: SHA1: a4e3cd1e40df7036146c242cf19a0bead0c396db
+FileChecksum: MD5: 819aa8c3fa453f1b258ed8d168a9d903
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/GPL-3
+SPDXID: SPDXRef-item855150
+FileChecksum: SHA1: 842745cb706f8f2126506f544492f7a80dbe29b3
+FileChecksum: MD5: f27defe1e96c2e1ecd4e0c9be8967949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.xc5000
+SPDXID: SPDXRef-item855185
+FileChecksum: SHA1: 1c08de027560154a5c717fd28eab36d87b56e6fa
+FileChecksum: MD5: 1e170c13175323c32c7f4d0998d53f66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.myri10ge_firmware
+SPDXID: SPDXRef-item855187
+FileChecksum: SHA1: 0cd93bfd5808237639cb967b2829340f68c18ff2
+FileChecksum: MD5: 42e32fb89f6b959ca222e25ac8df8fed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.siano
+SPDXID: SPDXRef-item855440
+FileChecksum: SHA1: 5c634ac8cb6258edc91c01ac8088392d33c9629a
+FileChecksum: MD5: 4556c1bf830067f12ca151ad953ec2a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/qca/NOTICE.txt
+SPDXID: SPDXRef-item855447
+FileChecksum: SHA1: d44dfda2359827575d40a4c073a9802bcc404668
+FileChecksum: MD5: e64dc59a1628967f1b8bcdbdb4fb3c85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-1.0
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.open-ath9k-htc-firmware
+SPDXID: SPDXRef-item855469
+FileChecksum: SHA1: 451025a0d3d7c29e40a00044fc1d33a55e5af07a
+FileChecksum: MD5: 1b33c9f4d17bc4d457bdb23727046837
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: eCos-2.0
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.xc4000
+SPDXID: SPDXRef-item855472
+FileChecksum: SHA1: 5b5079daba32499fd2d14fcd1f37d4548a5cd93e
+FileChecksum: MD5: 0ff51d2dc49fce04814c9155081092f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.kaweth
+SPDXID: SPDXRef-item855517
+FileChecksum: SHA1: 7a3f62449e1476c5f81029051224b551b7ffb74b
+FileChecksum: MD5: b1d876e562f4b3b8d391ad8395dfe03f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.via_vt6656
+SPDXID: SPDXRef-item855525
+FileChecksum: SHA1: 8b80c22ebadca6028c9857c5eae37ee35c1f6a58
+FileChecksum: MD5: e4159694cba42d4377a912e78a6e850f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.adsp_sst
+SPDXID: SPDXRef-item855616
+FileChecksum: SHA1: 684b64e95e5425c4b760e567b20fccd56bad2367
+FileChecksum: MD5: 615c45b91a5a4a9fe046d6ab9a2df728
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: BSD-2-Clause-FreeBSD
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/qcom/NOTICE.txt
+SPDXID: SPDXRef-item855712
+FileChecksum: SHA1: 57cc640af33d0902e5eb8f996becfe876efae217
+FileChecksum: MD5: b146323cffe030f61585070e5d3e7b8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+LicenseInfoInFile: OpenSSL
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/isci/probe_roms.h
+SPDXID: SPDXRef-item855736
+FileChecksum: SHA1: 7ea23586e5b3f78722d6f02f8abd6ed2395fde12
+FileChecksum: MD5: 90c037c4a95e350b436e7583568e3fea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/WHENCE
+SPDXID: SPDXRef-item855773
+FileChecksum: SHA1: 42faf81772764ac39f93ab3a0cf9cf0f4c8928b3
+FileChecksum: MD5: 6f46986f4e913ef16b765c2319cc5141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.qla1280
+SPDXID: SPDXRef-item855813
+FileChecksum: SHA1: b97dcf5323b90d23b8ff0c4f511684492a51af25
+FileChecksum: MD5: d6895732e622d950609093223a2c4f5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA988X/hw2.0/notice_ath10k_firmware-5.txt
+SPDXID: SPDXRef-item855837
+FileChecksum: SHA1: 3d3baf9583994f46aa4efd0b2e868714e1f8d391
+FileChecksum: MD5: 5b81536e6ceeb943607184661f2e10e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-4-Clause-UC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA988X/hw2.0/notice_ath10k_firmware-4.txt
+SPDXID: SPDXRef-item855839
+FileChecksum: SHA1: 76f61dda5e74c854564260f7c22dabdd320c66dd
+FileChecksum: MD5: b97ec97f3dba6018db92eadf3b8ab38d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause-UC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA99X0/hw2.0/notice_ath10k_firmware-5.txt
+SPDXID: SPDXRef-item855844
+FileChecksum: SHA1: 1fa5bdeb9e555b6ec34ca589ce0a1a6d1f09e7ed
+FileChecksum: MD5: d3e61c87ce5760c158792ded47c9fff0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA9887/hw1.0/notice_ath10k_firmware-5.txt
+SPDXID: SPDXRef-item855849
+FileChecksum: SHA1: 3d3baf9583994f46aa4efd0b2e868714e1f8d391
+FileChecksum: MD5: 5b81536e6ceeb943607184661f2e10e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-4-Clause-UC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA9377/hw1.0/notice_ath10k_firmware-5.txt
+SPDXID: SPDXRef-item855854
+FileChecksum: SHA1: f628d9618e372040953db2ddf35973d8be5343ce
+FileChecksum: MD5: 55cdde8b0c0a116a896117747bc4f6eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA9984/hw1.0/notice_ath10k_firmware-5.txt
+SPDXID: SPDXRef-item855859
+FileChecksum: SHA1: d5d8f3177ce11fd46cec8707cc196dfcaaaba36c
+FileChecksum: MD5: d65b031f88af4cfca6d89c2c39958bda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-4-Clause
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA9888/hw2.0/notice_ath10k_firmware-5.txt
+SPDXID: SPDXRef-item855864
+FileChecksum: SHA1: d5d8f3177ce11fd46cec8707cc196dfcaaaba36c
+FileChecksum: MD5: d65b031f88af4cfca6d89c2c39958bda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-4-Clause
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-6.txt
+SPDXID: SPDXRef-item855871
+FileChecksum: SHA1: 9441f4d5c42ac842e109612e0e79b72c5de8f94f
+FileChecksum: MD5: 1996ef26689766a457043339661141c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA6174/hw3.0/notice_ath10k_firmware-4.txt
+SPDXID: SPDXRef-item855872
+FileChecksum: SHA1: 2c157d70fc231759cb79da5430b43663b0fe70a9
+FileChecksum: MD5: 8f22a7c04aa733762c0ad03e52d5de9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: eCos-2.0
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA6174/hw2.1/notice_ath10k_firmware-5.txt
+SPDXID: SPDXRef-item855877
+FileChecksum: SHA1: d15e865c7b94a8a5c2772c6188530a7a08ab4494
+FileChecksum: MD5: 520e814a78b09b4e29c65ba3ddac5631
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/ath10k/QCA4019/hw1.0/notice_ath10k_firmware-5.txt
+SPDXID: SPDXRef-item855882
+FileChecksum: SHA1: d5d8f3177ce11fd46cec8707cc196dfcaaaba36c
+FileChecksum: MD5: d65b031f88af4cfca6d89c2c39958bda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-4-Clause
+LicenseInfoInFile: BSD-4-Clause-UC
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.e100
+SPDXID: SPDXRef-item856270
+FileChecksum: SHA1: 92f44a5583a55401755e221460884c515dfcd7f7
+FileChecksum: MD5: ec0f84136766df159a3ae6d02acdf5a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/GPL-2
+SPDXID: SPDXRef-item856381
+FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
+FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.xc5000c
+SPDXID: SPDXRef-item856397
+FileChecksum: SHA1: f0ae1a032e97abddc211b8843b34e13ae199c255
+FileChecksum: MD5: 12b02efa3049db65d524aeb418dd87ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: ISC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.ueagle-atm4-firmware
+SPDXID: SPDXRef-item856442
+FileChecksum: SHA1: acc3b9ab0337a1db296e00773841f6716b352872
+FileChecksum: MD5: 4ed7ea6b507ccc583b9d594417714118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENCE.agere
+SPDXID: SPDXRef-item856461
+FileChecksum: SHA1: c949072ef9f5ac9801511b5e9dd57ccc23c87a73
+FileChecksum: MD5: af0133de6b4a9b2522defd5f188afd31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/carl9170fw/GPL
+SPDXID: SPDXRef-item856534
+FileChecksum: SHA1: 06877624ea5c77efe3b7e39b0f909eda6e25a4ec
+FileChecksum: MD5: 751419260aa954499f7abaabaa882bbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/carl9170fw/carlfw/src/ashlsi3.S
+SPDXID: SPDXRef-item856539
+FileChecksum: SHA1: f137034a0a4ea0b0ca277ac3055cc2178084e9e1
+FileChecksum: MD5: 5f6749a7ea61608c2e40b6203d855c59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-GCC-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/carl9170fw/carlfw/src/udivsi3_i4i-Os.S
+SPDXID: SPDXRef-item856541
+FileChecksum: SHA1: 004d9681b2e2591ef0e88b8f6a5591824202a91d
+FileChecksum: MD5: 0159d950982910e0a131d3b3e02c2b23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-GCC-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/carl9170fw/extra/FindUSB-1.0.cmake
+SPDXID: SPDXRef-item856621
+FileChecksum: SHA1: c32bb050709fb3bd711c350221725c97410ae951
+FileChecksum: MD5: 304c433c436d6e4c875b4cee06a54949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/carl9170fw/extra/FindGPERF.cmake
+SPDXID: SPDXRef-item856622
+FileChecksum: SHA1: c31315438a430d14c23e85364b2b38c704864bcf
+FileChecksum: MD5: c5b1636a54319d3854d5a9586aeaafa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/carl9170fw/extra/FindPackageHandleStandardArgs.cmake
+SPDXID: SPDXRef-item856623
+FileChecksum: SHA1: fab780cb4fbfed33febb56b1298a211585e4f14d
+FileChecksum: MD5: 7ccdd3f013ec93b18f87c560ac819faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/carl9170fw/extra/GCCVersion.cmake
+SPDXID: SPDXRef-item856626
+FileChecksum: SHA1: 3fbc5177aa71181154ca5a8e3234c3e2dcb38664
+FileChecksum: MD5: ecdf7b255a9d60d566ff2fe3dcee22d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+

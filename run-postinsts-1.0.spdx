@@ -1,0 +1,96 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_run-postinsts-1.0-r9-patched.tar.gz_1571459204.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:26:44Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: run-postinsts
+PackageVersion: 1.0
+PackageFileName: run-postinsts-1.0-r9-patched.tar.gz
+SPDXID: SPDXRef-upload400
+PackageDownloadLocation: file://run-postinsts
+PackageHomePage: 
+PackageSummary: <text>Runs postinstall scripts on first boot of the target device</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>run-postinsts version 1.0</text>
+PackageChecksum: SHA1: d9a178ef139060565dd5fc6f874cca4e6ce5b638
+PackageChecksum: MD5: 921df0cec0b94bd7aad91d90c23b5287
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload400
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/run-postinsts.init
+SPDXID: SPDXRef-item939089
+FileChecksum: SHA1: c1eb7e745234968ea0000142711658630cde73a8
+FileChecksum: MD5: 76aa5d3ff95a4e9acf2913fba955dde5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/run-postinsts.service
+SPDXID: SPDXRef-item939090
+FileChecksum: SHA1: 9947d2bcfd41daac9aeee092a09331eb873a8a3c
+FileChecksum: MD5: 6daae392981577d48922678776d1ad77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/run-postinsts
+SPDXID: SPDXRef-item939091
+FileChecksum: SHA1: 3e696798aa28399e75dd8c88389154ce1d4df745
+FileChecksum: MD5: 8094c113f627807124d466fe4e6cfbe3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

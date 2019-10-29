@@ -1,0 +1,107 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_spidev-dbg-1.0-r0-patched.tar.gz_1571457202.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:53:23Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: spidev-dbg
+PackageVersion: 1.0
+PackageFileName: spidev-dbg-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload293
+PackageDownloadLocation: file://spidev-dbg.tar.gz
+PackageHomePage: 
+PackageSummary: <text>SPI device debug utility</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>spidev-dbg version 1.0</text>
+PackageChecksum: SHA1: f665f20d85f417757d3c1984ce25722cfa47e8b7
+PackageChecksum: MD5: cf6dd7b58d3b850ca70cccc2eb497981
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload293
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/spidev-dbg/Makefile
+SPDXID: SPDXRef-item834067
+FileChecksum: SHA1: 44bb3a69807fe32ad942507bfa359542c698e727
+FileChecksum: MD5: a3cc25463048802116e699b49454d74c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/spidev-dbg/spidev-dbg.c
+SPDXID: SPDXRef-item834068
+FileChecksum: SHA1: 5920449cfdf76ef602d705d39f1c8e478cd040c8
+FileChecksum: MD5: 560f87eff88df0eae101d6f33b22e9f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/spidev-dbg/COPYING
+SPDXID: SPDXRef-item834069
+FileChecksum: SHA1: 21ef67f49ebe80794fe4e448c0469fcc30a5f8c0
+FileChecksum: MD5: 26cdfe4d6a85afebc7ccd5623f195fa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/spidev-dbg/spidev
+SPDXID: SPDXRef-item834070
+FileChecksum: SHA1: 83e3715191089aba7c88db094c5a186f6429abf6
+FileChecksum: MD5: e3ca5fd8ca007c3935373ed159c26c3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

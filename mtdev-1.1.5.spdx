@@ -1,0 +1,518 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_mtdev-1.1.5-r0-patched.tar.gz_1571457665.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:01:05Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: mtdev
+PackageVersion: 1.1.5
+PackageFileName: mtdev-1.1.5-r0-patched.tar.gz
+SPDXID: SPDXRef-upload320
+PackageDownloadLocation: http://bitmath.org/code/mtdev/mtdev-1.1.5.tar.bz2
+PackageHomePage: http://bitmath.org/code/mtdev/
+PackageSummary: <text>Multitouch Protocol Translation Library</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>mtdev version 1.1.5</text>
+PackageChecksum: SHA1: 369a0743c9c81218f118cd0f783ee46e413e471b
+PackageChecksum: MD5: 2a752a76fea45ca38ba37b9e8cbee2b6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload320
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/aclocal.m4
+SPDXID: SPDXRef-item842619
+FileChecksum: SHA1: 88093d547f04018a72f805aff34072bcc16a0dfc
+FileChecksum: MD5: 27212370eb6214573a45c6fd1ebbe399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/config-aux/compile
+SPDXID: SPDXRef-item842621
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/config-aux/install-sh
+SPDXID: SPDXRef-item842622
+FileChecksum: SHA1: 06ee6336e63bb845c8439d777c32eb2eccc4fbf1
+FileChecksum: MD5: 9d5ae975ae461be51dfd41d904c52af2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/config-aux/ltmain.sh
+SPDXID: SPDXRef-item842623
+FileChecksum: SHA1: 1951c7cc2365881ffa2322c9d2a594a1e1bb65a7
+FileChecksum: MD5: fddd00ca15b3cc3caa3b3f6d367a2daf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/config-aux/config.sub
+SPDXID: SPDXRef-item842624
+FileChecksum: SHA1: d49c962cc02579c219a30c73d4a934d05e2f2f8c
+FileChecksum: MD5: 9b0fe319ee606e8469592eb3a4468b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/config-aux/missing
+SPDXID: SPDXRef-item842625
+FileChecksum: SHA1: d7c9981a81af13370d4ed152b24c0a82b7028585
+FileChecksum: MD5: 52cc47fe5f31e22f14f911caaf821429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/config-aux/config.guess
+SPDXID: SPDXRef-item842626
+FileChecksum: SHA1: ef8055d5bdc820832b7183f90b27f97d7e82b498
+FileChecksum: MD5: d837ac1634b8e127e61c99f938ab7b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/config-aux/depcomp
+SPDXID: SPDXRef-item842627
+FileChecksum: SHA1: 22250306aecea98abe4cc05ea69c1bf4f005edc8
+FileChecksum: MD5: 2edbe869dfc213dbc78b76b47175f055
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/Makefile.in
+SPDXID: SPDXRef-item842628
+FileChecksum: SHA1: edc35596bbe431d4e80d0433e4161156dd4961b1
+FileChecksum: MD5: 67eadc1926911f6616fac4f46bd68da6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/COPYING
+SPDXID: SPDXRef-item842629
+FileChecksum: SHA1: 1870c2b9c61ff1cbd01583f181e6afa27bcce198
+FileChecksum: MD5: ea6bd0268bb0fcd6b27698616ceee5d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/configure
+SPDXID: SPDXRef-item842630
+FileChecksum: SHA1: 67926f3a7eb7076eca5be24b58da3ac7a3e13dea
+FileChecksum: MD5: a520db87169eb65c29a16fe2e2921655
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/mtdev.pc.in
+SPDXID: SPDXRef-item842631
+FileChecksum: SHA1: f78e507b5742a55c78e7bfcd8847d3d2903392a6
+FileChecksum: MD5: 9f6144a40a3fc12d7b1990f15eb9d34f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/Makefile.in
+SPDXID: SPDXRef-item842633
+FileChecksum: SHA1: f39f0ec4895bb6c2b7b899aeef0f852a31e00740
+FileChecksum: MD5: 87174baec952f0d39ee1fb1a45df7049
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/state.h
+SPDXID: SPDXRef-item842634
+FileChecksum: SHA1: 21b87ad1cb02a437e4c4cd83013462c40f64fdf0
+FileChecksum: MD5: c04238f9825887455ae60f69342c5640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/iobuf.c
+SPDXID: SPDXRef-item842635
+FileChecksum: SHA1: 50e6f22f0b7b0f67174f4b12a9f2448b39095b55
+FileChecksum: MD5: d9d0665984e8b413516f5e0641b54424
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/Makefile.am
+SPDXID: SPDXRef-item842636
+FileChecksum: SHA1: 1f2e37dc2d2f94dd1d30c35f30cc6c51ebb1d146
+FileChecksum: MD5: 7e9fd45ae8bef0cb50d715a26b398d32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/evbuf.h
+SPDXID: SPDXRef-item842637
+FileChecksum: SHA1: 92341363c2974f5c165369db4e23b621735db524
+FileChecksum: MD5: 01caf468d8da078c300d998d4efffd3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/common.h
+SPDXID: SPDXRef-item842638
+FileChecksum: SHA1: d57a7d0814dc37f7606de8bae241013ca583c0e9
+FileChecksum: MD5: 83dc2f2897ce719a769c9286d47b7468
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/match_four.c
+SPDXID: SPDXRef-item842639
+FileChecksum: SHA1: 33b00422bd7cf398309ae5fdef392e6b1ea505b8
+FileChecksum: MD5: 8dc3cc0520b71a3e6555bc278a4730f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/iobuf.h
+SPDXID: SPDXRef-item842640
+FileChecksum: SHA1: b1bec4f92565852dc24e7feb6396c1a47356222b
+FileChecksum: MD5: 5fb3e6d12fd605a4e74180170fcf468e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/match.h
+SPDXID: SPDXRef-item842641
+FileChecksum: SHA1: 5fdb6274fb8bda5ae79f8744887900357c0f5aa1
+FileChecksum: MD5: 4d7bddcc0694b8f8a27f3426e4b6bdb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/caps.c
+SPDXID: SPDXRef-item842642
+FileChecksum: SHA1: 5148d3a0506dad879f68ebc433fcf237db5c0925
+FileChecksum: MD5: 3c6ff63c8d38ad2c13d7051931be8ef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/match.c
+SPDXID: SPDXRef-item842643
+FileChecksum: SHA1: 30043682519326ac8fb1dce4fd1b229cb58bda63
+FileChecksum: MD5: 536b0b7d0f2d3e8d927aae7620fdd8f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/src/core.c
+SPDXID: SPDXRef-item842644
+FileChecksum: SHA1: 04b976d705d818914c4788720dcc7ac16b588eef
+FileChecksum: MD5: 638c5da70ef07776ae11bfd754e20275
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/config.h.in
+SPDXID: SPDXRef-item842645
+FileChecksum: SHA1: 0aacbc9f8788890b19665105755c9b9c6b892669
+FileChecksum: MD5: da479e6aacd535ca7e6842ccf04dfd6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/Makefile.am
+SPDXID: SPDXRef-item842646
+FileChecksum: SHA1: ba3a6618cc59def38d39ab00cfa9900684839976
+FileChecksum: MD5: 9d48487c634f9adcb392b2678e0ceacb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/test/Makefile.in
+SPDXID: SPDXRef-item842648
+FileChecksum: SHA1: 4186dfe1c97d8c88a54abdf0369468b1f9464e5a
+FileChecksum: MD5: e47ae0a4f6aac20257778af84a16dc25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/test/Makefile.am
+SPDXID: SPDXRef-item842649
+FileChecksum: SHA1: 2aebfe4b88bceba8c257cc76c2825a3268c8c5ad
+FileChecksum: MD5: 2ec12a6eaa252841215d529753bce971
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/test/mtdev-test.c
+SPDXID: SPDXRef-item842650
+FileChecksum: SHA1: 7df3a1a7cd65ee79fce87592a812fb6b18743e5e
+FileChecksum: MD5: 84de9684e71b68ecbb8560937a2b46d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/test/mtdev-matching.c
+SPDXID: SPDXRef-item842651
+FileChecksum: SHA1: 7e1ac90302bf50e31d679466197baaaf696c1c6d
+FileChecksum: MD5: a3992ac789db3d28beb603f832e7407d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/test/mtdev-mapgen.c
+SPDXID: SPDXRef-item842652
+FileChecksum: SHA1: 6e355f37693498c6508448bed65797205a9cd92f
+FileChecksum: MD5: 5d3f300a2da442b8380766ca8f523510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/test/mtdev-kernel.c
+SPDXID: SPDXRef-item842653
+FileChecksum: SHA1: 25978b73bd56632d5208ddd506da7bae3b54751a
+FileChecksum: MD5: 30f14d06caf148f74c070e4f665a5d6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/README
+SPDXID: SPDXRef-item842654
+FileChecksum: SHA1: d5eba7bc660b7df52dd57f8dce3389f0ff227d61
+FileChecksum: MD5: 44c90547a174211ac66c73bc9fd4ad62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/configure.ac
+SPDXID: SPDXRef-item842655
+FileChecksum: SHA1: 4d1fe13632033c120374e9fca61734866919714c
+FileChecksum: MD5: 2a167c477246354e642174ee1981c717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/INSTALL
+SPDXID: SPDXRef-item842656
+FileChecksum: SHA1: 14f25075055f1f6db1ffffe76eae7e632abb2254
+FileChecksum: MD5: f6e418f0ebe0f5e5a710810f492e710b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/include/mtdev-plumbing.h
+SPDXID: SPDXRef-item842658
+FileChecksum: SHA1: 0bf88afe1b4997f2c1ad73cb67d11389abed93b8
+FileChecksum: MD5: 962e71e82772c0bcabeb5c729c92be03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/include/mtdev-mapping.h
+SPDXID: SPDXRef-item842659
+FileChecksum: SHA1: 07e46f955a08beffa279c31304a72ca0ad8db5fa
+FileChecksum: MD5: f0aca2d5a15484d331a182e601cff39a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/include/mtdev.h
+SPDXID: SPDXRef-item842660
+FileChecksum: SHA1: 3d1de621fc085f68ae80c081cf93ce6859b872d3
+FileChecksum: MD5: 2dc0c308766fec128c39df69cbd17c36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/mtdev-1.1.5/ChangeLog
+SPDXID: SPDXRef-item842661
+FileChecksum: SHA1: 52b450f50a8d2fadc35fd7a98cede8e08d1572f5
+FileChecksum: MD5: 4d359899d67f07c005e03fc86bcfa04e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

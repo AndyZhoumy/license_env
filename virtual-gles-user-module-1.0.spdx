@@ -1,0 +1,59 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_virtual-gles-user-module-1.0-r0-patched.tar.gz_1571458816.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:20:16Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: virtual-gles-user-module
+PackageVersion: 1.0
+PackageFileName: virtual-gles-user-module-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload384
+PackageDownloadLocation: 
+PackageHomePage: 
+PackageSummary: <text>virtual-gles-user-module version 1.0-r0</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>virtual-gles-user-module version 1.0</text>
+PackageChecksum: SHA1: 82a31ce34611790f9f495c76b63b41d23b19b51b
+PackageChecksum: MD5: fdae111c3f8f0e827862a946483b6889
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload384
+
+##--------------------------
+## File Information
+##--------------------------
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+

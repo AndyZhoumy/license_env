@@ -1,0 +1,2529 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libusb1-1.0.21-r0-patched.tar.gz_1571459629.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:33:49Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libusb1
+PackageVersion: 1.0.21
+PackageFileName: libusb1-1.0.21-r0-patched.tar.gz
+SPDXID: SPDXRef-upload412
+PackageDownloadLocation: http://downloads.sourceforge.net/libusb/libusb-1.0.21.tar.bz2
+PackageHomePage: http://libusb.sf.net
+PackageSummary: <text>Userspace library to access USB (version 1.0)</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libusb1 version 1.0.21</text>
+PackageChecksum: SHA1: 1f86d193c03cb116d287b3b35cdaf8c181c29bf8
+PackageChecksum: MD5: 301fc63f31cf70a420325547e5de9823
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload412
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/NEWS
+SPDXID: SPDXRef-item1004053
+FileChecksum: SHA1: 4dcbb3c1fd8e3adfd0505136b6d5e7c29d4b7a62
+FileChecksum: MD5: 1421e58eafefa1dce0dbf0120409a0dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/compile
+SPDXID: SPDXRef-item1004054
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/install-sh
+SPDXID: SPDXRef-item1004055
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/aclocal.m4
+SPDXID: SPDXRef-item1004056
+FileChecksum: SHA1: e1a7a92c831e92caeeddd9770ad969d4175204ea
+FileChecksum: MD5: f27358558b099de0025ee8aebc822ed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Makefile.in
+SPDXID: SPDXRef-item1004057
+FileChecksum: SHA1: bd199eafc752908253bf03aa1e8c9ad08075e341
+FileChecksum: MD5: eed8e66d41c4ed5f7f24915448b331d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/COPYING
+SPDXID: SPDXRef-item1004058
+FileChecksum: SHA1: caeb68c46fa36651acf592771d09de7937926bb3
+FileChecksum: MD5: fbc093901857fcd118f065f900982c24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/configure
+SPDXID: SPDXRef-item1004059
+FileChecksum: SHA1: aea524e132707903eb8dba30a43ae59886df8f20
+FileChecksum: MD5: 6b845474f3e09b7316200bc19d9adaaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/ltmain.sh
+SPDXID: SPDXRef-item1004060
+FileChecksum: SHA1: e973d0281a62382849f8052fd986484726dbea60
+FileChecksum: MD5: 73c2cc02708076bcf9ec49a367974fcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/PORTING
+SPDXID: SPDXRef-item1004061
+FileChecksum: SHA1: 65a4d7e580d054f34b20c136f68d19c8b404b627
+FileChecksum: MD5: d2c270a868c0c0163da91074988da113
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/getopt/getopt.h
+SPDXID: SPDXRef-item1004064
+FileChecksum: SHA1: b3439e650abaefdf8641d7d995ea410c2575ddcf
+FileChecksum: MD5: 5a3ad0009de84afcf45622223bb43808
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/getopt/getopt1.c
+SPDXID: SPDXRef-item1004065
+FileChecksum: SHA1: 1f2cad321ad6d9729fc6841d4929cd86f52797da
+FileChecksum: MD5: 505293a1f5d196a46c09cffe85e687f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/getopt/getopt.c
+SPDXID: SPDXRef-item1004066
+FileChecksum: SHA1: e51b88ffd05374ce8a3325c607d7f39589138b53
+FileChecksum: MD5: e047064bfdde00f22d9f74802bdb5ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/xusb.c
+SPDXID: SPDXRef-item1004067
+FileChecksum: SHA1: f21fcbe03bca0e1043812c5b2832bd684498035a
+FileChecksum: MD5: 6f748cea658742e5b983af4f2ebefc98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/dpfp.c
+SPDXID: SPDXRef-item1004068
+FileChecksum: SHA1: 13f2f73ae850f5439f679af6e75970f051f1d748
+FileChecksum: MD5: 947870ac29eb286f13bcf8faa92ad8a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/Makefile.in
+SPDXID: SPDXRef-item1004069
+FileChecksum: SHA1: 52c28990b184bb2e94efd805ba688cc65a4ab536
+FileChecksum: MD5: 601d65ef5f1c362cc592ce6d165af748
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/sam3u_benchmark.c
+SPDXID: SPDXRef-item1004070
+FileChecksum: SHA1: 2c2a8e1bbce9056f44e08eb324aec4ff4e4d3f2a
+FileChecksum: MD5: 3c38fafbaab8e38a1527182dce26c4a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/ezusb.c
+SPDXID: SPDXRef-item1004071
+FileChecksum: SHA1: 6abede7032f359fbd458c6d244e7482953e7509a
+FileChecksum: MD5: 3c0a75fcefa2c955eff94d6ee5c50042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/dpfp_threaded.c
+SPDXID: SPDXRef-item1004072
+FileChecksum: SHA1: 5f6276f48873228ba34a39ddff6ddd86667602e8
+FileChecksum: MD5: ac8a954900b1458d761d78ff8c39c33c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/Makefile.am
+SPDXID: SPDXRef-item1004073
+FileChecksum: SHA1: d0ad4467f1b75f4afcbb586aa4b1bf1ed3ce2d3c
+FileChecksum: MD5: 71063e5b157bc4a4bbde3cc730840f4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/hotplugtest.c
+SPDXID: SPDXRef-item1004074
+FileChecksum: SHA1: 82f3375490a33aaf9e8010c399c5ee2a6f790089
+FileChecksum: MD5: a8aa0f8bd42bbac815de3ec03a1861c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/testlibusb.c
+SPDXID: SPDXRef-item1004075
+FileChecksum: SHA1: 27ff1cd355cbbb8d0d9dcc15fe910ba25e935bb0
+FileChecksum: MD5: a252169094ed02cfc97867615ce7d73f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/fxload.c
+SPDXID: SPDXRef-item1004076
+FileChecksum: SHA1: 1f813883835ce36e2c238c500493fb35f94d8218
+FileChecksum: MD5: 362d4d78964bbcd750745ff47c32be02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/ezusb.h
+SPDXID: SPDXRef-item1004077
+FileChecksum: SHA1: c37d9a775e490c1a6819ed7e18aa698aab7da0c9
+FileChecksum: MD5: 82c9d6b765b5dccb0b9f4f6b8f0c662c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/examples/listdevs.c
+SPDXID: SPDXRef-item1004078
+FileChecksum: SHA1: 38767ff6ba0f15a49617754f21bc38f478e105c5
+FileChecksum: MD5: 87784831b9914f0037fa05997a0e86d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/android/config.h
+SPDXID: SPDXRef-item1004080
+FileChecksum: SHA1: 9c9c3753fc902a83213486a1565445fe1853246c
+FileChecksum: MD5: 01c1528dba39bb948ec2cb76e616bb90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/android/README
+SPDXID: SPDXRef-item1004081
+FileChecksum: SHA1: 638d82f03b63689d51ae9e49e631d809a1885f5d
+FileChecksum: MD5: 9f10ae40ff3534e85ee8f6119df6c8f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/android/jni/examples.mk
+SPDXID: SPDXRef-item1004083
+FileChecksum: SHA1: 2031f4be4a9aa6a2a679c57f78ec67012ff82a13
+FileChecksum: MD5: ce193ac73ca2b4cb4c851d9d627663c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/android/jni/tests.mk
+SPDXID: SPDXRef-item1004084
+FileChecksum: SHA1: 494f622a39e836f7e7b5f88f88422b7cecaf86fb
+FileChecksum: MD5: f46ffd25e1cb034978ccf8e0567a8dd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/android/jni/libusb.mk
+SPDXID: SPDXRef-item1004085
+FileChecksum: SHA1: 747cf7e450390270dae1579b5b342eca7eeb35e9
+FileChecksum: MD5: 7c5f975dc0cc876cd6b9cf19ecb397e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/android/jni/Android.mk
+SPDXID: SPDXRef-item1004086
+FileChecksum: SHA1: e550801eb15913403722ff18d4712048e13bc063
+FileChecksum: MD5: 5cc5adb95410b091962002a4c68a7b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/android/jni/Application.mk
+SPDXID: SPDXRef-item1004087
+FileChecksum: SHA1: 4a0e75c3c6960b9c302fae2ee78a36728e8e52af
+FileChecksum: MD5: 75723c58bd1f8934bfcf727bb304e799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/config.h
+SPDXID: SPDXRef-item1004089
+FileChecksum: SHA1: 0d733a9c60c4e414927bb040896b3f7df055953a
+FileChecksum: MD5: 605318d4fbcb089a566da3290bc772fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/release.xcconfig
+SPDXID: SPDXRef-item1004090
+FileChecksum: SHA1: c3fc2ecb8110c5c64e1abc8b51d57c26f42e2dfd
+FileChecksum: MD5: eb2322e012eb7084489f5314c1336488
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb_release.xcconfig
+SPDXID: SPDXRef-item1004091
+FileChecksum: SHA1: 20311bf15fc272b106f5e1061511f0430d5376ea
+FileChecksum: MD5: 51ecece811b82e353985e4db807322be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb_debug.xcconfig
+SPDXID: SPDXRef-item1004092
+FileChecksum: SHA1: ddd51cc828b6aea7c693a953b72e4f5ed0aed328
+FileChecksum: MD5: 7172cd98fe342a78e213a042465cf669
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/common.xcconfig
+SPDXID: SPDXRef-item1004093
+FileChecksum: SHA1: 443a936202f44ad0af1212ca64e3f3269c3e1dcc
+FileChecksum: MD5: eb65be6b579e0c3f126e416b2ebe5c78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+SPDXID: SPDXRef-item1004096
+FileChecksum: SHA1: 2df5fdfef0607c4f438cefb58f4f9f64d67e7d8d
+FileChecksum: MD5: 1f3bd63990e0958efbb0934076e15da0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/project.xcworkspace/xcuserdata/hjelmn.xcuserdatad/UserInterfaceState.xcuserstate
+SPDXID: SPDXRef-item1004099
+FileChecksum: SHA1: 9c3e2effa70daa663a3a2b34233e345bcc468235
+FileChecksum: MD5: 5fb6252c098d9ab9e19fd8a389390f9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/project.xcworkspace/xcshareddata/libusb.xccheckout
+SPDXID: SPDXRef-item1004101
+FileChecksum: SHA1: 2bebecf1ee0e14460c288967d23f1913ff6502a6
+FileChecksum: MD5: 15a4bb99b5951e19c6ad07366362fa55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item1004102
+FileChecksum: SHA1: f0bd170f8ab9e6edb8b8c48528d9cc407d30a3da
+FileChecksum: MD5: ac8a13ea0d1cd1bb7f348659aef42cb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/libusb.xcscheme
+SPDXID: SPDXRef-item1004106
+FileChecksum: SHA1: 89519be0fe888e4da50786275bcaef392437e323
+FileChecksum: MD5: ce389bb774a911c36653343b7be769b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/xcschememanagement.plist
+SPDXID: SPDXRef-item1004107
+FileChecksum: SHA1: 25dad69969d48b0b8935fd0de7af2704805ab229
+FileChecksum: MD5: 8c686e09e8ad7989ed76fbbe4d102e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/libusb-bundle.xcscheme
+SPDXID: SPDXRef-item1004108
+FileChecksum: SHA1: 5fb91a23593718e107a2836d3713399501328e79
+FileChecksum: MD5: 15331cfca57f8a6d0f3af4da4754479b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/all.xcscheme
+SPDXID: SPDXRef-item1004109
+FileChecksum: SHA1: 03f816bb612e167c763240ebed5a972151b4ccd2
+FileChecksum: MD5: b1ec5b8696a513fd5798e96bf0f44cdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/libusb 2.xcscheme
+SPDXID: SPDXRef-item1004110
+FileChecksum: SHA1: 891c205b4b6f701a2ca8e6a5c79cff3cb60bc403
+FileChecksum: MD5: bf64364c6e3c501630ffe190ac246cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/dpfp_threaded.xcscheme
+SPDXID: SPDXRef-item1004111
+FileChecksum: SHA1: 6598270b73f0cba01e4982f86b8948ee72e8ea59
+FileChecksum: MD5: c342e07dd8397614d49774fe952ebd14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/fxload.xcscheme
+SPDXID: SPDXRef-item1004112
+FileChecksum: SHA1: a38098e0448471fefac44ab1b41c45895fd380f2
+FileChecksum: MD5: 53e790423ce5f49eb04a9c9ef699f5a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/listdevs.xcscheme
+SPDXID: SPDXRef-item1004113
+FileChecksum: SHA1: be42fa8cc7d6eb05ce85100c7018d1c3f34d6979
+FileChecksum: MD5: 1eab2e8e8b4741e29d62be620199ee5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/dpfp.xcscheme
+SPDXID: SPDXRef-item1004114
+FileChecksum: SHA1: 71c592f4b26c77ad5c56501abd37620071b6c5a1
+FileChecksum: MD5: 8ef99b3c5e6a21e9120d1867237d95e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcodeproj/xcuserdata/hjelmn.xcuserdatad/xcschemes/xusb.xcscheme
+SPDXID: SPDXRef-item1004115
+FileChecksum: SHA1: 9b2203e5f7beeea391b67d53281f93f309a30abc
+FileChecksum: MD5: cc1e8a025318fd54bb775bf0d1d19e2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/libusb.xcconfig
+SPDXID: SPDXRef-item1004116
+FileChecksum: SHA1: 752f724e7da1e11e5646ca0bbbd0de4d1bb1aa84
+FileChecksum: MD5: d29f2227753484ea5a0d7d4381986eb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Xcode/debug.xcconfig
+SPDXID: SPDXRef-item1004117
+FileChecksum: SHA1: 88cd38a05b6448cb5a006931bc4b99390016b0cd
+FileChecksum: MD5: da66978087dc7398347002cf6e15a22d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/m4/ltversion.m4
+SPDXID: SPDXRef-item1004119
+FileChecksum: SHA1: 25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68
+FileChecksum: MD5: 91dd5e1355d100dbdab7d71244ed2625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/m4/libtool.m4
+SPDXID: SPDXRef-item1004120
+FileChecksum: SHA1: 8830458492769decb22fc3820d33b73c1d17792a
+FileChecksum: MD5: c8c79001aa0d5bfe2d3a3e0f5ebfe7df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/m4/ltoptions.m4
+SPDXID: SPDXRef-item1004121
+FileChecksum: SHA1: 05ec66892c8b30f20aa5278e1671ae4925a9c063
+FileChecksum: MD5: 67d5ebceaac562ddf0dde4e5cdffbe09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/m4/ltsugar.m4
+SPDXID: SPDXRef-item1004122
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item1004123
+FileChecksum: SHA1: c0c6afe569131b4015d221bc853053cf884b2699
+FileChecksum: MD5: 47d420a13f9ba4e171772c3e3eee3e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/TODO
+SPDXID: SPDXRef-item1004124
+FileChecksum: SHA1: 9d6b209d07523d6c75170badfc539df236d9af9e
+FileChecksum: MD5: de083b7e5e4b2f2e78a5662aeac2db3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/config.h.in
+SPDXID: SPDXRef-item1004125
+FileChecksum: SHA1: cb90313c96ace284d470d17bb55272d0a1c6f545
+FileChecksum: MD5: 7c8673b967a1d26a3a23c285f1583ec3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/Makefile.am
+SPDXID: SPDXRef-item1004126
+FileChecksum: SHA1: 0070aac385fe8f6528aff07ee1fcf80940dd7297
+FileChecksum: MD5: 5f630bafe1ed0ff3581e28bd03d5de60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/descriptor.c
+SPDXID: SPDXRef-item1004128
+FileChecksum: SHA1: df33157acefe3601e723edf97a0c4f51ca60d2b6
+FileChecksum: MD5: 3b5015fa17315f7b64fa1a3a717ccfd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/hotplug.h
+SPDXID: SPDXRef-item1004129
+FileChecksum: SHA1: 22a2d97672dfd6008b69b6196c78c37be145cddb
+FileChecksum: MD5: 203731444c78df025211e5603de57735
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/version_nano.h
+SPDXID: SPDXRef-item1004130
+FileChecksum: SHA1: f622f1abb04f690e93a4d2124f36412f0c3f72a7
+FileChecksum: MD5: d192ded863bcfef30bd3123f677152d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/libusb.h
+SPDXID: SPDXRef-item1004131
+FileChecksum: SHA1: 61109cf7a03161f3c68caa735c2c442e86d3140f
+FileChecksum: MD5: 789728b7a63610b028a596b1c3dcd802
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/libusb-1.0.rc
+SPDXID: SPDXRef-item1004132
+FileChecksum: SHA1: 690f8297091d566bd9cfdbb61c01b34c37eb2874
+FileChecksum: MD5: edbaad3289f3811ad032770c17e811a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/Makefile.in
+SPDXID: SPDXRef-item1004133
+FileChecksum: SHA1: fe4cb8b5437fcddc353655015930c4feeaa5a122
+FileChecksum: MD5: d72215b16f533168657e1bf2b4feae49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/Makefile.am
+SPDXID: SPDXRef-item1004134
+FileChecksum: SHA1: 8c60838cf691c843f175a1e1c0413a42920dcdee
+FileChecksum: MD5: a034bb6b30dfb43b2fe724eb31ff3edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/version.h
+SPDXID: SPDXRef-item1004135
+FileChecksum: SHA1: b8d00e9dd08fc2adc358e386000d1553d5ec6279
+FileChecksum: MD5: ffa6b95e8c082eaa3db41a3edabb0591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/io.c
+SPDXID: SPDXRef-item1004136
+FileChecksum: SHA1: 583b7a2ea0a8d6cbec86a2a85ab09d4d8d4a1d65
+FileChecksum: MD5: 74652197e53dee82925af4bf82f69e42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/sync.c
+SPDXID: SPDXRef-item1004137
+FileChecksum: SHA1: 9795f987351c3d60643ed027f3dc6833d5926672
+FileChecksum: MD5: 819c90650ceae684a938e8b49e2eedfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/libusbi.h
+SPDXID: SPDXRef-item1004138
+FileChecksum: SHA1: 73a8b672a310c5436e1c9bf0aa4cf558f18f0e33
+FileChecksum: MD5: 2b3fc9f5afffbb9c1a3093bbdedb2048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/threads_posix.h
+SPDXID: SPDXRef-item1004140
+FileChecksum: SHA1: 680d4a0e9a2db016c055ab6454cbb7a58c811a90
+FileChecksum: MD5: 87130a81fb7df40b275f3350750364cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/darwin_usb.c
+SPDXID: SPDXRef-item1004141
+FileChecksum: SHA1: f9bff2229f2848bfc9a5e9357a0e32e140163890
+FileChecksum: MD5: f619169e83ef6fc25e65392f03c0f17c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/netbsd_usb.c
+SPDXID: SPDXRef-item1004142
+FileChecksum: SHA1: 6e7e0d04e4d6aeda77af2afb0e54f292b5966239
+FileChecksum: MD5: 9cf08683ed4ba01be0d47b4b4eb84481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/haiku_usb_raw.cpp
+SPDXID: SPDXRef-item1004143
+FileChecksum: SHA1: 1cd7d44b57b927f1f3976e2b6486104257ec23ef
+FileChecksum: MD5: 1d34fe978a47cb4c651f28dc190f18fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/poll_posix.h
+SPDXID: SPDXRef-item1004144
+FileChecksum: SHA1: 0ccc6f12f796bfb5fddca1d0d9fd16f927044866
+FileChecksum: MD5: 4798fa927e7d1a41b0a8d0345b7ce95c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/windows_nt_common.h
+SPDXID: SPDXRef-item1004145
+FileChecksum: SHA1: 42c9394b835d25125e4d772002fd97b500276feb
+FileChecksum: MD5: df45b50b75c2c21e7d4f5795f9ea0f82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/windows_usbdk.h
+SPDXID: SPDXRef-item1004146
+FileChecksum: SHA1: a8b83c07a4d85e58a67b0a2c3ddac20955eb87d3
+FileChecksum: MD5: c1af131272674fee1f40bed8db6bc5f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/poll_windows.h
+SPDXID: SPDXRef-item1004147
+FileChecksum: SHA1: 37dabaae850626848ac85a3c66c6cd6f6f6ffe6a
+FileChecksum: MD5: c290159dad62f619a12d67ac2a83dabb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/poll_posix.c
+SPDXID: SPDXRef-item1004148
+FileChecksum: SHA1: 39f8ca9a31b6498afc8093907ef79a690cfce92b
+FileChecksum: MD5: c1676b7440a633b1537da67ed6f4145f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/windows_nt_common.c
+SPDXID: SPDXRef-item1004149
+FileChecksum: SHA1: 774733c9117e5fd59a93e039df6be1ecbeaf3402
+FileChecksum: MD5: 689e3c03eba28b915c6efad97a7acd4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/linux_netlink.c
+SPDXID: SPDXRef-item1004150
+FileChecksum: SHA1: b2c93ff0387a1e477a24f4e194b8e3ec12e8554f
+FileChecksum: MD5: 861e3dadac3520a18688a9d882f136f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/sunos_usb.c
+SPDXID: SPDXRef-item1004151
+FileChecksum: SHA1: 54c58291c9f5bbaecd4a36230ffc4447196330f3
+FileChecksum: MD5: 1173a91ac26a3c0a73532190cfaf302b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/linux_udev.c
+SPDXID: SPDXRef-item1004152
+FileChecksum: SHA1: ee46d3b0c3805c69a4920c5cf007d2a91c8d53c6
+FileChecksum: MD5: 8f2fd892a9ca6e3bd982359a00985c98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/threads_windows.c
+SPDXID: SPDXRef-item1004153
+FileChecksum: SHA1: c72b88cb933bf6bd561627c8ced95af1a8476c1e
+FileChecksum: MD5: 0b1f3d523a7a6cacdbd8cb13628e0125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/linux_usbfs.c
+SPDXID: SPDXRef-item1004154
+FileChecksum: SHA1: 81c8b57111b582567126234aa3e9813cdcced99d
+FileChecksum: MD5: 02e4219fa1476491da2914791b386296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/wince_usb.h
+SPDXID: SPDXRef-item1004155
+FileChecksum: SHA1: de43722395d5148ededd4193c8d81d53cc5a36cc
+FileChecksum: MD5: e356a6549f6e685ad3592f2359765606
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/poll_windows.c
+SPDXID: SPDXRef-item1004156
+FileChecksum: SHA1: b7d948e0a0d80c5d806410418e0f393bd741c643
+FileChecksum: MD5: 50f0d393a15a6d475d557af963435585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/windows_common.h
+SPDXID: SPDXRef-item1004157
+FileChecksum: SHA1: ff62d86dbd96b550fcd10c501a57617f5238a2b8
+FileChecksum: MD5: 2f59cde53db4dfd68a542f5624dbfc2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/threads_posix.c
+SPDXID: SPDXRef-item1004158
+FileChecksum: SHA1: bfe64b9410764512416772a7c0084d0014ff05c1
+FileChecksum: MD5: 02704617893803991babc39735a6c5ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/haiku_usb.h
+SPDXID: SPDXRef-item1004159
+FileChecksum: SHA1: ae3afddd5525a3b1dea5f8b73e098a45dc7af7f6
+FileChecksum: MD5: ffd9496e1afd9e85bc49a549802b1527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/sunos_usb.h
+SPDXID: SPDXRef-item1004160
+FileChecksum: SHA1: 52b31516b075f58b7ab53607c263d9135ae4940d
+FileChecksum: MD5: 9df86e7b95165721c54db3c130ccd22f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/windows_winusb.h
+SPDXID: SPDXRef-item1004161
+FileChecksum: SHA1: d2b02b762b982f867dc31392ec8021f10ca1173b
+FileChecksum: MD5: 8872f0ae602a07ed2c76559a98e51128
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/threads_windows.h
+SPDXID: SPDXRef-item1004162
+FileChecksum: SHA1: 168c949daaa3ca0ac0b1c10c55a99f2fec46dbca
+FileChecksum: MD5: 6c649e62243d2f6bccf4cd3109f71e50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/wince_usb.c
+SPDXID: SPDXRef-item1004163
+FileChecksum: SHA1: 047b0d28e931d7b77964b84bc175b8d236794e86
+FileChecksum: MD5: 7d4e03c1666feded0bbd0ed85b8dd870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/windows_usbdk.c
+SPDXID: SPDXRef-item1004164
+FileChecksum: SHA1: 63368f9b870efa01ded25206abc1ea9cb80e0d52
+FileChecksum: MD5: 3d937b964d6c437ea62c1bc957032ad3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/haiku_pollfs.cpp
+SPDXID: SPDXRef-item1004165
+FileChecksum: SHA1: 1a04763b91ccd23968f23042182c76ee723804d2
+FileChecksum: MD5: 0ec59eeaf1138ec42dbfeb9d984c45ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/haiku_usb_backend.cpp
+SPDXID: SPDXRef-item1004166
+FileChecksum: SHA1: 33c2f4a93139b39e95b775e0b1a1ef441542ef37
+FileChecksum: MD5: 54c8cc9558c74923d51a3307f55a9bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/windows_winusb.c
+SPDXID: SPDXRef-item1004167
+FileChecksum: SHA1: d3748f1672f950f241c2cdfca4153c49c1a2f0b3
+FileChecksum: MD5: 783b0352f8224af81bd546f169e5d7de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/darwin_usb.h
+SPDXID: SPDXRef-item1004168
+FileChecksum: SHA1: 2b6c3de252a4a079c8bd132414ae2c46f41a8095
+FileChecksum: MD5: 374f274a2f3a318184cbb3d63954d0b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/openbsd_usb.c
+SPDXID: SPDXRef-item1004169
+FileChecksum: SHA1: 9145182621e6ffe2370ffe9fabc33da46e67268e
+FileChecksum: MD5: 5f46efab6d47f630bc6d1c96d7efddfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/linux_usbfs.h
+SPDXID: SPDXRef-item1004170
+FileChecksum: SHA1: 904eb4f17577e15c688d074d744fac31b194c82d
+FileChecksum: MD5: b9b06a317b976e416aee15bcccdeb202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/os/haiku_usb_raw.h
+SPDXID: SPDXRef-item1004171
+FileChecksum: SHA1: bc6312bfa823f9783d66d44d1f45a6a7a3895eca
+FileChecksum: MD5: 580c6775c0109291532543dfe2b2e98c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/hotplug.c
+SPDXID: SPDXRef-item1004172
+FileChecksum: SHA1: 76d9698ff2ed750b2eeee98bc71fe4efde5942cb
+FileChecksum: MD5: ee8f8b4e302a128bbe0a772b533087c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/strerror.c
+SPDXID: SPDXRef-item1004173
+FileChecksum: SHA1: 98066dbb811ca774a49f4619dc98f0a59e5dbe39
+FileChecksum: MD5: f76106d958dd2104b095786c0f842339
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/core.c
+SPDXID: SPDXRef-item1004174
+FileChecksum: SHA1: 7d783ea983fbc2a429b055fa2520693bac04e25a
+FileChecksum: MD5: 5c60e37d3f332f8d384e850509b9c062
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb/libusb-1.0.def
+SPDXID: SPDXRef-item1004175
+FileChecksum: SHA1: 49548dbe90492071d7ad2d63c2e14e3ce0176505
+FileChecksum: MD5: d4bdd3a9846f269574d79db9773f3dec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/libusb-1.0.pc.in
+SPDXID: SPDXRef-item1004176
+FileChecksum: SHA1: a24715250f168c05fdca12521686a9c50e516c07
+FileChecksum: MD5: 791c7ed23321beb2e67f6b0b22879c9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/AUTHORS
+SPDXID: SPDXRef-item1004177
+FileChecksum: SHA1: aae05e76fc3e6cc1c539516e6d0e2b94383bf529
+FileChecksum: MD5: 28bc78e9598595de151edb189182a180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/config.sub
+SPDXID: SPDXRef-item1004178
+FileChecksum: SHA1: a0870c772b786520326abce13b33db131bfb87da
+FileChecksum: MD5: 9e38dc3cc2b4e471ea192c8984fb0cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/tests/Makefile.in
+SPDXID: SPDXRef-item1004180
+FileChecksum: SHA1: b6fe5a10953fc9415bfbf87604202f10d779d294
+FileChecksum: MD5: 5faad9c39a9b47176df3b73acd3d414a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/tests/testlib.c
+SPDXID: SPDXRef-item1004181
+FileChecksum: SHA1: 9ac6f66eaefa11929d52e12cc10837584ea10098
+FileChecksum: MD5: d96483dd5310a0956e3a846ff2df2d4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/tests/Makefile.am
+SPDXID: SPDXRef-item1004182
+FileChecksum: SHA1: 596852d43aedfd76e8fda1b885bef3970b7e694b
+FileChecksum: MD5: 29b0f3de2660519393bba5b2dfec95d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/tests/stress.c
+SPDXID: SPDXRef-item1004183
+FileChecksum: SHA1: 38561cbf9917d593d224e8418bd96d563ff4ddb3
+FileChecksum: MD5: b95c59f84c3a6d331a2b25e11e7355c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/tests/libusb_testlib.h
+SPDXID: SPDXRef-item1004184
+FileChecksum: SHA1: a014ec42040045a80fad87d6405e03e89af23d66
+FileChecksum: MD5: 4a38c7bd0e5e79c2367354e0cc7a21f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/doc/Makefile.in
+SPDXID: SPDXRef-item1004186
+FileChecksum: SHA1: 13f1a210c76e6582bcf9f82614ca20ac3f8bfeaa
+FileChecksum: MD5: 1bb04079b9e3fe5ab560db11f4793aa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/doc/Makefile.am
+SPDXID: SPDXRef-item1004187
+FileChecksum: SHA1: 304c8f326304bf46a996b422794dfca379f47595
+FileChecksum: MD5: c21092dff325033689a1678c77437136
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/doc/doxygen.cfg.in
+SPDXID: SPDXRef-item1004188
+FileChecksum: SHA1: fa8aafe7869d1d517227f9d987a87f6ff8a6b3f5
+FileChecksum: MD5: 4cd1ff82e0911c7c2aa7d03baaaa9aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/missing
+SPDXID: SPDXRef-item1004189
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/README
+SPDXID: SPDXRef-item1004190
+FileChecksum: SHA1: 94fa2e234a7f3cd7221ab4dc3d37b1ffd0cd1bec
+FileChecksum: MD5: d5981f255a291a12084904ec17b03852
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static_2010.vcxproj.filters
+SPDXID: SPDXRef-item1004192
+FileChecksum: SHA1: 83c9207baf4490749d4b249c5b6deaa8495e31fd
+FileChecksum: MD5: a2e269b7630f7a186a9d418782c6c398
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/config.h
+SPDXID: SPDXRef-item1004193
+FileChecksum: SHA1: 9f43cf7c45bfc39dd93824d245173557a9699def
+FileChecksum: MD5: cb374e6ee088bb72cac255eb584e0ba9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static_2015.vcxproj
+SPDXID: SPDXRef-item1004194
+FileChecksum: SHA1: ecc6ee136eff86f2984d00414bae54bf4b48af7a
+FileChecksum: MD5: ac9374ab4386f5ba2c2b6722c4db5731
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_wince.sln
+SPDXID: SPDXRef-item1004195
+FileChecksum: SHA1: f30a04c9abcc9a6b0a67db2e38daffc4ed39c495
+FileChecksum: MD5: 5a4132bdc2967e83296a899354474f94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/getopt_2010.vcxproj.filters
+SPDXID: SPDXRef-item1004196
+FileChecksum: SHA1: 54e71d565a8fc2f9a0117279f2e4b4ca6712bdf1
+FileChecksum: MD5: 647ebc27c8ba70961d42daadf18b1a3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/fxload_2012.vcxproj.filters
+SPDXID: SPDXRef-item1004197
+FileChecksum: SHA1: d1375d199f0d5b56739cec1b90ac98a7761d2499
+FileChecksum: MD5: ad07b4b32585d1d721d366135b71969e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_2013.sln
+SPDXID: SPDXRef-item1004198
+FileChecksum: SHA1: 4e13d20bf911f197a61b80b44ac8a58c440336a5
+FileChecksum: MD5: c70999541836dbae7daaa6c560fdc3e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_sources
+SPDXID: SPDXRef-item1004199
+FileChecksum: SHA1: 3745922cc04c0925c957596ae44b008c245e2f3f
+FileChecksum: MD5: 68697bbf3414c1208b276aa1715556cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stress_2010.vcxproj
+SPDXID: SPDXRef-item1004200
+FileChecksum: SHA1: ad3ec7c483a275c499ece3c5081f763d29339d55
+FileChecksum: MD5: fe75a71bfe2a568e9474e5053f329578
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll_2005.vcproj
+SPDXID: SPDXRef-item1004201
+FileChecksum: SHA1: 4c31b2332477ad06f5e77670f311b98a3612967b
+FileChecksum: MD5: c2a1747ed963f95fd6760f71a3ff6ec6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/getopt_2015.vcxproj
+SPDXID: SPDXRef-item1004202
+FileChecksum: SHA1: 88d073e5f78c3f03ae6ace2991ef751619e00219
+FileChecksum: MD5: a48c073ba976ad10ccfde214c7f45f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_sources
+SPDXID: SPDXRef-item1004203
+FileChecksum: SHA1: f6575b963e4c7cf10ab84ec4ae93f68e87214360
+FileChecksum: MD5: 9d2d8b950353acf92a6affcc9d6d7a71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/getopt_2013.vcxproj
+SPDXID: SPDXRef-item1004204
+FileChecksum: SHA1: 091942f8ff13389b83060b261d91f37369ae2583
+FileChecksum: MD5: 500595e1e181865a1273aedd29d7940a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/hotplugtest_2012.vcxproj.filters
+SPDXID: SPDXRef-item1004205
+FileChecksum: SHA1: 646c8ee41f9f3e8fae9aa1c2d59c8cd237bdd961
+FileChecksum: MD5: 9fd8e8541ea947d517cb8d4a85df6a53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stress_2012.vcxproj
+SPDXID: SPDXRef-item1004206
+FileChecksum: SHA1: ab881f29e95bd49fd8904547a85a240017716a9d
+FileChecksum: MD5: 95e1e8d456776cae20b98d8aa0a8e650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb.dsp
+SPDXID: SPDXRef-item1004207
+FileChecksum: SHA1: 18e013ef9de5c285b658dfb472388aaf02898673
+FileChecksum: MD5: 7d6ba02c02bcf0565dda145cb99bdee9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_2012.vcxproj.filters
+SPDXID: SPDXRef-item1004208
+FileChecksum: SHA1: 8ee014ada7ae834b14c7492171226f6f196d437c
+FileChecksum: MD5: aa6c16ef5ed759f502e47f3ea97743cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/ddk_build.cmd
+SPDXID: SPDXRef-item1004209
+FileChecksum: SHA1: 8d85ead21ec01b774ac87d623dc795772af234f0
+FileChecksum: MD5: b2bc50268c21b3af551d45db6f2bd0b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static_2013.vcxproj
+SPDXID: SPDXRef-item1004210
+FileChecksum: SHA1: b134b451bae7cfcbf7bdd40d382c3e81a80f5385
+FileChecksum: MD5: 06544af52df0686b63ffcd41a0f2b678
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stress_2013.vcxproj
+SPDXID: SPDXRef-item1004211
+FileChecksum: SHA1: 5b79bf2049b7d1deb282c773268be130ef29301f
+FileChecksum: MD5: d9faf270485e471a3a95ce76dfe07a1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/getopt_2005.vcproj
+SPDXID: SPDXRef-item1004212
+FileChecksum: SHA1: 099f213488cbee2c738c2911f0399c8a38652d52
+FileChecksum: MD5: 9e1e1998430f151ec6487e7ec50e3d67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/getopt_2010.vcxproj
+SPDXID: SPDXRef-item1004213
+FileChecksum: SHA1: b88bfe46ede1f6a763e565c77b1562306fa89b75
+FileChecksum: MD5: 216b3069308669db9bc40454d746a268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_2010.sln
+SPDXID: SPDXRef-item1004214
+FileChecksum: SHA1: 7bd55afa62169f8101c685cc25e180bf8a5872ce
+FileChecksum: MD5: d461d4f2bb218e770903da8ce42fbb3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_2012.vcxproj.filters
+SPDXID: SPDXRef-item1004215
+FileChecksum: SHA1: 3d0679c28d5f798b2f535af8e8ba0990e1dae05a
+FileChecksum: MD5: 222dce5e4134ad361b28ff5960a560ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stdint.h
+SPDXID: SPDXRef-item1004216
+FileChecksum: SHA1: f7ca8ab6d0f27e863dc90d551384620568112413
+FileChecksum: MD5: 72b272ae829b57f602f0bcd2e19c8470
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static.dsp
+SPDXID: SPDXRef-item1004217
+FileChecksum: SHA1: 133ae9648d18f57c6468c7ecea4e140ccf6669a4
+FileChecksum: MD5: 185da386d215eb6359477fc1c72d409f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static_2010.vcxproj
+SPDXID: SPDXRef-item1004218
+FileChecksum: SHA1: 5b3bc989adf469959627f0950107156636a906c0
+FileChecksum: MD5: 89dc90d45f06bfa9c0d5b212854948aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/fxload_2013.vcxproj
+SPDXID: SPDXRef-item1004219
+FileChecksum: SHA1: 96ab653bc93c0682af6f72e4a3a4f4a3c1e128cf
+FileChecksum: MD5: e09f4037c38c9b1b55d2223cd59cc8ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/getopt_2012.vcxproj.filters
+SPDXID: SPDXRef-item1004220
+FileChecksum: SHA1: 54e71d565a8fc2f9a0117279f2e4b4ca6712bdf1
+FileChecksum: MD5: 647ebc27c8ba70961d42daadf18b1a3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_sources
+SPDXID: SPDXRef-item1004221
+FileChecksum: SHA1: e417b562ae82a048d0a5095dffa33bec765eb44b
+FileChecksum: MD5: 0de63c3be35b6d3d4bd6dd3c9acf4dd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/fxload_2010.vcxproj
+SPDXID: SPDXRef-item1004222
+FileChecksum: SHA1: 33a1b4d3458904c2c7a5d18a80dd04007dd0f470
+FileChecksum: MD5: f3e3f50c8f463b693c54ede2b94ad3b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stress_2005.vcproj
+SPDXID: SPDXRef-item1004223
+FileChecksum: SHA1: 3bfc4731d154ceb5322680f276ce08d072cebc60
+FileChecksum: MD5: 205e4fe6ae983c96d88032df94a50681
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_2010.vcxproj.filters
+SPDXID: SPDXRef-item1004224
+FileChecksum: SHA1: 8ee014ada7ae834b14c7492171226f6f196d437c
+FileChecksum: MD5: aa6c16ef5ed759f502e47f3ea97743cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/inttypes.h
+SPDXID: SPDXRef-item1004225
+FileChecksum: SHA1: 805af4bc2d28e65cf2f48f1ed57605877cf4665a
+FileChecksum: MD5: 48b181b6d2e1a6e50ffa3e33767bc25c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll_2013.vcxproj
+SPDXID: SPDXRef-item1004226
+FileChecksum: SHA1: 9b696f5226c55d143a36e4ff77a8b16a813ab4f0
+FileChecksum: MD5: d010b2e63d92444086c1ac0b46ab072f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static_2012.vcxproj
+SPDXID: SPDXRef-item1004227
+FileChecksum: SHA1: 740ae12340823383a256c71e94e256cb6f65f840
+FileChecksum: MD5: 63d1f16b0c6546627039c2f61d06dda1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs.dsp
+SPDXID: SPDXRef-item1004228
+FileChecksum: SHA1: e423368bdad4d57a95a630b952ef0085b11aebfd
+FileChecksum: MD5: c9cd0bdb3a7a7df24f0427987466da0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_2010.vcxproj.filters
+SPDXID: SPDXRef-item1004229
+FileChecksum: SHA1: 3d0679c28d5f798b2f535af8e8ba0990e1dae05a
+FileChecksum: MD5: 222dce5e4134ad361b28ff5960a560ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_2012.vcxproj
+SPDXID: SPDXRef-item1004230
+FileChecksum: SHA1: 470c043e1452e1967c394c16642514a79fd378d8
+FileChecksum: MD5: 349e0aad1af86235338240525177904e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/hotplugtest_2010.vcxproj
+SPDXID: SPDXRef-item1004231
+FileChecksum: SHA1: be774db02fd57049f135f84aad953a1e61c68731
+FileChecksum: MD5: 6bdbbcdfe29690db188ba7b7691ae288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_wince.vcproj
+SPDXID: SPDXRef-item1004232
+FileChecksum: SHA1: 93f7cad4a2048e7b912df447d9e6736211cb1250
+FileChecksum: MD5: 11e27a633bf33470024a153890e5f53d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/hotplugtest_sources
+SPDXID: SPDXRef-item1004233
+FileChecksum: SHA1: 5649f37cd805e4fb17d9957759064fdbd1fa9380
+FileChecksum: MD5: c112465b089b957ade2a7a197b218656
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_2010.vcxproj
+SPDXID: SPDXRef-item1004234
+FileChecksum: SHA1: 9fc374c7b7e5ce6bff52236e7d2409c76778f010
+FileChecksum: MD5: 9cdfe10a283e75a21f37ba45d28f21a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/appveyor.bat
+SPDXID: SPDXRef-item1004235
+FileChecksum: SHA1: eb077d9d6f4295c752e39c58bd53537f3179c14f
+FileChecksum: MD5: 868bd868cdcb350e6d043a823414a480
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static_2012.vcxproj.filters
+SPDXID: SPDXRef-item1004236
+FileChecksum: SHA1: 83c9207baf4490749d4b249c5b6deaa8495e31fd
+FileChecksum: MD5: a2e269b7630f7a186a9d418782c6c398
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_usbdk_static_2015.vcxproj
+SPDXID: SPDXRef-item1004237
+FileChecksum: SHA1: 4c279fdfa1912bfe3e5618555c90636d08de2e68
+FileChecksum: MD5: f6d1782aae41cca837f5a325029f7497
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_2012.sln
+SPDXID: SPDXRef-item1004238
+FileChecksum: SHA1: 75ca2d76af04b382eb857b5595e99d4226d273d8
+FileChecksum: MD5: 06f5ba7b200ab719b4daee0da5b7d63e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/hotplugtest_2012.vcxproj
+SPDXID: SPDXRef-item1004239
+FileChecksum: SHA1: 192b4371fdef6b72377abd403a9d075a606ce964
+FileChecksum: MD5: acc5ef8525545f3394ac6e3560b0931d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_2010.vcxproj
+SPDXID: SPDXRef-item1004240
+FileChecksum: SHA1: 88994d36c753b0e538824230164ed65bfa3314bc
+FileChecksum: MD5: 920dd5b53b524b3feb6859c5961854d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/fxload_sources
+SPDXID: SPDXRef-item1004241
+FileChecksum: SHA1: 189f6e00773a0c3454542c113b657ada43198550
+FileChecksum: MD5: 234d3bc96f9727d0d776b5c2d94fe3c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stress_2015.vcxproj
+SPDXID: SPDXRef-item1004242
+FileChecksum: SHA1: b71046fe444a8e17628c35521db0317b9ad60706
+FileChecksum: MD5: dc27ec5fbdb8d775ff5ec7efe02fea99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_usbdk_static_2013.vcxproj
+SPDXID: SPDXRef-item1004243
+FileChecksum: SHA1: 514ead181cb2c14a51e23a9f27764ab023ab8c58
+FileChecksum: MD5: 9a6e943c2042eb34eb681b6a409d00b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_2015.sln
+SPDXID: SPDXRef-item1004244
+FileChecksum: SHA1: ba514518f89b0631abecf99507f042dfeebf39f1
+FileChecksum: MD5: d41ca8079ce79c197d38c39afd30bad8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_2005.vcproj
+SPDXID: SPDXRef-item1004245
+FileChecksum: SHA1: 10315bfd526e055b61dd5daddb64ecd99bd48e6b
+FileChecksum: MD5: ea4903cdd48a9fd218601443a73e02ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_2005.sln
+SPDXID: SPDXRef-item1004246
+FileChecksum: SHA1: 46d1cc8e0601c6a19e722b9337c490391cda3e88
+FileChecksum: MD5: 286ee878952dd4f80c99e1ae54d660fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/hotplugtest_2010.vcxproj.filters
+SPDXID: SPDXRef-item1004247
+FileChecksum: SHA1: 646c8ee41f9f3e8fae9aa1c2d59c8cd237bdd961
+FileChecksum: MD5: 9fd8e8541ea947d517cb8d4a85df6a53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_2012.vcxproj
+SPDXID: SPDXRef-item1004248
+FileChecksum: SHA1: 3aacfef68d95cd7942241bff8bd5ca21ea3a01b4
+FileChecksum: MD5: 61dc3372e6035e48615e3bef166a1103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static_2005.vcproj
+SPDXID: SPDXRef-item1004249
+FileChecksum: SHA1: 9db545f275e58806a354a3866aef58c32157f46c
+FileChecksum: MD5: bb6b765250fb15096fdb62166a1f5135
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_2015.vcxproj
+SPDXID: SPDXRef-item1004250
+FileChecksum: SHA1: 34bf75d92049f44809823c433e97f421b9fdc387
+FileChecksum: MD5: 554fa8849479e5b9c2812f578165e293
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_2013.vcxproj
+SPDXID: SPDXRef-item1004251
+FileChecksum: SHA1: 9892bc34da2874abf21801a8c2a2a44666406e0b
+FileChecksum: MD5: 95b9899182e7f6374846fa389d4fdf59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll.dsp
+SPDXID: SPDXRef-item1004252
+FileChecksum: SHA1: 65ff0936a8f4d7861c6c9d5131e93ff37bf5b716
+FileChecksum: MD5: 3a50206d8d8d8fa7fd4adbf348a4ca6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_usbdk_dll_2013.vcxproj
+SPDXID: SPDXRef-item1004253
+FileChecksum: SHA1: e10b13d7ada7d008b94b923cd1c9e3ef901c2bfb
+FileChecksum: MD5: 8d8d26c9d6d91396a7439e6f07389ca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll_2010.vcxproj
+SPDXID: SPDXRef-item1004254
+FileChecksum: SHA1: 78b6d24e4fb44e2d2636c2cfd50fc66786534b19
+FileChecksum: MD5: 12c885155d1cd5dd63a242dfa633479e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stress_2010.vcxproj.filters
+SPDXID: SPDXRef-item1004255
+FileChecksum: SHA1: 01acdfc6a33260ca77ad05af1ae206e8a07ec139
+FileChecksum: MD5: 6a1373d52edd1cac7bde1b6a543dc2a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stress_2012.vcxproj.filters
+SPDXID: SPDXRef-item1004256
+FileChecksum: SHA1: 01acdfc6a33260ca77ad05af1ae206e8a07ec139
+FileChecksum: MD5: 6a1373d52edd1cac7bde1b6a543dc2a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/getopt_sources
+SPDXID: SPDXRef-item1004257
+FileChecksum: SHA1: 70dfb99961745363f5c48e83d456303d0febfa5b
+FileChecksum: MD5: 7c66e0942dad618ff54eab4814f2fa2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb.dsw
+SPDXID: SPDXRef-item1004258
+FileChecksum: SHA1: 02da41a0e5bd267d9815e884ff69549db435a268
+FileChecksum: MD5: 5e846ff40efd87e6b5cd4f280f4c7bb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/getopt_2012.vcxproj
+SPDXID: SPDXRef-item1004259
+FileChecksum: SHA1: afc8c12a83b26e99008ccdaa43b1940358ffe6b0
+FileChecksum: MD5: 5d83a03ed7f5a69b93c0d720a9f60f76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/listdevs_2015.vcxproj
+SPDXID: SPDXRef-item1004260
+FileChecksum: SHA1: 2d04b4f299da1887796aabbb54dfefb39edb40d4
+FileChecksum: MD5: e3513e450be1628f35b1bd29c57c2b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/fxload_2010.vcxproj.filters
+SPDXID: SPDXRef-item1004261
+FileChecksum: SHA1: d1375d199f0d5b56739cec1b90ac98a7761d2499
+FileChecksum: MD5: ad07b4b32585d1d721d366135b71969e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/fxload_2012.vcxproj
+SPDXID: SPDXRef-item1004262
+FileChecksum: SHA1: 6beea6ccebe7105125681b36c7524f1f5c141f23
+FileChecksum: MD5: 2a45e630c5224d26c1aedbbc30a5f94c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_2005.vcproj
+SPDXID: SPDXRef-item1004263
+FileChecksum: SHA1: dd265e9f7e1f290039ee468e5c061e8e01163e13
+FileChecksum: MD5: 0e28cc5b96f0cf2028bd681cb45f484c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/missing.h
+SPDXID: SPDXRef-item1004264
+FileChecksum: SHA1: 1421b26d6095c1ba88d0f0021ca944a43d63770f
+FileChecksum: MD5: 731bfe5e37a11919dea1ca8a4ebfa1b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll_2012.vcxproj.filters
+SPDXID: SPDXRef-item1004265
+FileChecksum: SHA1: 6782b48753e7947e15fcd615eae462aca2590617
+FileChecksum: MD5: cf150b71b289c0e730bc574b70d36587
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/hotplugtest_2013.vcxproj
+SPDXID: SPDXRef-item1004266
+FileChecksum: SHA1: 82704a239699d23f5a55e90835a45286f6e05a6b
+FileChecksum: MD5: 3d6efa512a658e06c8de6e11687d1ead
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_static_wince.vcproj
+SPDXID: SPDXRef-item1004267
+FileChecksum: SHA1: 25becf3ce2a4a1fbcf8da1aff2593dbef5e80442
+FileChecksum: MD5: 04dd95afa75f4e63ab38a535c30e3122
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll_2012.vcxproj
+SPDXID: SPDXRef-item1004268
+FileChecksum: SHA1: b7d5d946f384d453e8eb0e8d89f3b069c2f6f0b4
+FileChecksum: MD5: c0b50f8beeb769a59363bf552450c00b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll_2015.vcxproj
+SPDXID: SPDXRef-item1004269
+FileChecksum: SHA1: b49c83c13dd47d0b28c0615cae8ae3a19073abf1
+FileChecksum: MD5: 90d1b62a8db6984f3392f4694ead25dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_wince.vcproj
+SPDXID: SPDXRef-item1004270
+FileChecksum: SHA1: 1542cb0c8d7ed243ebe3eef90fdb6f3ef84e85b2
+FileChecksum: MD5: 6c8ea81ed8fef735887bce6d6565a9b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/hotplugtest_2015.vcxproj
+SPDXID: SPDXRef-item1004271
+FileChecksum: SHA1: 242313b41fdc30121290a9d4c9d4aaba175529fe
+FileChecksum: MD5: fad36d18909ced7ccf88c2a7c224a542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_usbdk_dll_2015.vcxproj
+SPDXID: SPDXRef-item1004272
+FileChecksum: SHA1: 8eaad38becc4f923f5ff9c4ad294bce94479f108
+FileChecksum: MD5: 5c47dbb5a6e8e9cbd1dbb91f2104d355
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/stress_wince.vcproj
+SPDXID: SPDXRef-item1004273
+FileChecksum: SHA1: 739e6c750817c07a2eec16f5370eeae6b58ce63c
+FileChecksum: MD5: aebecba3da7acab7fa32803554ec5e47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/fxload_2015.vcxproj
+SPDXID: SPDXRef-item1004274
+FileChecksum: SHA1: 60172581d8af732dbf09d8aa44cb12df31d2a6bf
+FileChecksum: MD5: 1e88630bd620d25aade3c6904d2d4771
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll_wince.vcproj
+SPDXID: SPDXRef-item1004275
+FileChecksum: SHA1: 38fcb00d11097c6c3903dd63f230a7bd5e69109f
+FileChecksum: MD5: bb83e5b5e5ed27e61acef5d614fb2b4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/missing.c
+SPDXID: SPDXRef-item1004276
+FileChecksum: SHA1: 99bff932514cfa6fc899e6acaa08148ddae32166
+FileChecksum: MD5: f0518f997ca599fa01c80a4a72321732
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/xusb_2013.vcxproj
+SPDXID: SPDXRef-item1004277
+FileChecksum: SHA1: 370f25a605ffc14f6bd6e7487e9e443dfdf0c639
+FileChecksum: MD5: e67cda73e7ee95cc8b3d669f58a097b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/libusb_dll_2010.vcxproj.filters
+SPDXID: SPDXRef-item1004278
+FileChecksum: SHA1: f6cc63141b8eba4bca22f582303af54371d8298e
+FileChecksum: MD5: 273fb9b2e435fa2049554b2a6d0a5613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/msvc/errno.h
+SPDXID: SPDXRef-item1004279
+FileChecksum: SHA1: 36269fdac217735882ebbcfaf4cd5022cade572f
+FileChecksum: MD5: f9c1f298f7e98380da6a85d562c5bcc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/.pc/applied-patches
+SPDXID: SPDXRef-item1004281
+FileChecksum: SHA1: af3576478942e2bab3300e2b5b3a6ec00d9ec0dd
+FileChecksum: MD5: cdd99854934e5773a8d37744b9e3c552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/.pc/.quilt_series
+SPDXID: SPDXRef-item1004282
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/.pc/.version
+SPDXID: SPDXRef-item1004283
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/.pc/.quilt_patches
+SPDXID: SPDXRef-item1004284
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/.pc/no-dll.patch/libusb/Makefile.am
+SPDXID: SPDXRef-item1004287
+FileChecksum: SHA1: 35eb40cff14873bb725a269cf22fd4c8ded0dc6c
+FileChecksum: MD5: 988587dda563fc4fcff2c558df74aa89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/.pc/no-dll.patch/.timestamp
+SPDXID: SPDXRef-item1004288
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/configure.ac
+SPDXID: SPDXRef-item1004289
+FileChecksum: SHA1: 11b994f53332d94a0f38fc1161b9855d12c9cfa5
+FileChecksum: MD5: ec5d126a50eab63fd726aae778ff56fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/INSTALL
+SPDXID: SPDXRef-item1004290
+FileChecksum: SHA1: d64e64d4c73679323f8d4cde2643331ba6c20af9
+FileChecksum: MD5: d0697e131465c2bdd0af3b07a84d2878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/patches/series
+SPDXID: SPDXRef-item1004292
+FileChecksum: SHA1: 60dee2a68c4e477dd614f849d1a05736b48035ba
+FileChecksum: MD5: c1adfbdd8ea362f30c0b69f01740a5ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/config.guess
+SPDXID: SPDXRef-item1004294
+FileChecksum: SHA1: d764d09fee2e6470de16d1fb7a91ea72eec2f364
+FileChecksum: MD5: fa1ff35df7f13f513bfa5e2c05783a10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/depcomp
+SPDXID: SPDXRef-item1004295
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libusb-1.0.21/ChangeLog
+SPDXID: SPDXRef-item1004296
+FileChecksum: SHA1: 7040fe252d5f7adbda9f1af4389dc594cc0033dd
+FileChecksum: MD5: f966a94fe3830489de94e20feb1fc378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/no-dll.patch
+SPDXID: SPDXRef-item1004297
+FileChecksum: SHA1: cdf72862637010b2259d9b0c23d27ac15e84db51
+FileChecksum: MD5: 2bdba387cf7fc73cb6950190134ba91a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

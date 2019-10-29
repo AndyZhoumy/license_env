@@ -1,0 +1,728 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_neardal-0.14-r0-patched.tar.gz_1571459228.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:27:08Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: neardal
+PackageVersion: 0.14
+PackageFileName: neardal-0.14-r0-patched.tar.gz
+SPDXID: SPDXRef-upload402
+PackageDownloadLocation: https://github.com/connectivity/neardal/archive/0.14.tar.gz
+PackageHomePage: https://github.com/connectivity/neardal
+PackageSummary: <text>Neard Abstraction Library (NeardAL)</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>neardal version 0.14</text>
+PackageChecksum: SHA1: eb6eee5159b0f59009c392e4dd85251f7432c109
+PackageChecksum: MD5: 22279bc67a48a1cfe7a81b6ffa91f478
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload402
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-neardal-ncl-fix-segfault-on-help-page-being-displaye.patch
+SPDXID: SPDXRef-item939166
+FileChecksum: SHA1: 04b5b3e50388f1645d428216c32e0243cdfe0146
+FileChecksum: MD5: ccc280e27900d06b89100b87a4714f91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/neardal_ncl.spec
+SPDXID: SPDXRef-item939168
+FileChecksum: SHA1: 211552178bf3b46c8fa6b61facc0b7b36f1251da
+FileChecksum: MD5: db003fc623fea97b7be46215b406e0c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL_v2-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/NEWS
+SPDXID: SPDXRef-item939169
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/org.neardal.conf
+SPDXID: SPDXRef-item939170
+FileChecksum: SHA1: 57477d7011d3a671bba461ed1c9cf7463991e31d
+FileChecksum: MD5: 19e7c8aae2e3805cc2590889c8a38c7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/neardal.spec
+SPDXID: SPDXRef-item939171
+FileChecksum: SHA1: e30a420fafdc644bc2958c4f2b8403f4c6711023
+FileChecksum: MD5: d4612234f809b158dd2a9953fcd526c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL_v2-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/COPYING
+SPDXID: SPDXRef-item939172
+FileChecksum: SHA1: 570d185ea721e7d6aee7426be1b10a800af98aa8
+FileChecksum: MD5: 6a6e689d19255cf0557f3fe7d7068212
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.gitignore
+SPDXID: SPDXRef-item939173
+FileChecksum: SHA1: 6c980bfb653c751141f830b60880c782ea54ae0f
+FileChecksum: MD5: 7e6340e596cf93ddaded6715fed996d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_device.h
+SPDXID: SPDXRef-item939175
+FileChecksum: SHA1: 13fd81418adaf674ee04c126c7d094b9bf9a7e5b
+FileChecksum: MD5: cb678c77ddf6ac36653b7e3092744592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_adapter.h
+SPDXID: SPDXRef-item939176
+FileChecksum: SHA1: 65a07725280cd06d31a2b3f4e508401607848bac
+FileChecksum: MD5: d42df02538b66d7e6f4a90bdb6af81d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_tag.h
+SPDXID: SPDXRef-item939177
+FileChecksum: SHA1: 708055bd163af0f0d3f3da16b785b0df9570fe95
+FileChecksum: MD5: 7e61f6a45b4352ed50fa072fecd20b86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_prv.h
+SPDXID: SPDXRef-item939178
+FileChecksum: SHA1: 0f3883d3aa5b36b97a49a69c3e0b398058f9f2f6
+FileChecksum: MD5: 5d7d9203fea8e3307556f88cac3e54be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_device.c
+SPDXID: SPDXRef-item939179
+FileChecksum: SHA1: b3df3182da2740acdbdc664f4db230c46207f028
+FileChecksum: MD5: 07bcd8a404b7f13e35e0a831733bd80a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal.h
+SPDXID: SPDXRef-item939180
+FileChecksum: SHA1: 995cf9b61c99af72687ce7c2de8debe9e9131a0f
+FileChecksum: MD5: dc825db0ee7ed5872ed659e323f5c9b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_tools.c
+SPDXID: SPDXRef-item939181
+FileChecksum: SHA1: e14eb449cbbbb74f61387bfb0d6d8cc737fffd1f
+FileChecksum: MD5: 8c66d0002adfac498b9ce46c479e0079
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_errors.h
+SPDXID: SPDXRef-item939182
+FileChecksum: SHA1: def51fcf23fca3f64197bd09e842e50432091cd6
+FileChecksum: MD5: 7ee0563dd61021f93913e02da0bb18ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_agent_mgr.c
+SPDXID: SPDXRef-item939183
+FileChecksum: SHA1: 40c2c8dd1bfc758eafeab0f4eb9eb945e688a519
+FileChecksum: MD5: 05729f58517d0cb746287826b5c30d5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_agent_mgr.h
+SPDXID: SPDXRef-item939184
+FileChecksum: SHA1: 1aea5f08b942069ae1d2759659ae6aa503cd05ed
+FileChecksum: MD5: 1d8705f62e94f0ff0cb3a9a8129b84a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/interface/org.neard.Tag.xml
+SPDXID: SPDXRef-item939186
+FileChecksum: SHA1: 4b5fd2954e3926fa995265afb8b2ca89a92a5edc
+FileChecksum: MD5: a3a764d72b4f67aabe4ce645aa61f3b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/interface/org.neard.Manager.xml
+SPDXID: SPDXRef-item939187
+FileChecksum: SHA1: e623dd8fbc48158164d13a89581b86e6fa43c3a6
+FileChecksum: MD5: 66fe46789dfdaf0477fd75c1365069cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/interface/dbus-properties.xml
+SPDXID: SPDXRef-item939188
+FileChecksum: SHA1: fe7412ef4633f4fb0a1d8a2706043b58c866c222
+FileChecksum: MD5: db9835bce8514417d6e1f0710a9466e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/interface/org.neard.Adapter.xml
+SPDXID: SPDXRef-item939189
+FileChecksum: SHA1: c4dc519f591c86bdaf440c92491ca06d01018292
+FileChecksum: MD5: 91468b111ac576717c2d87070311287b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/interface/org.neard.Agent.xml
+SPDXID: SPDXRef-item939190
+FileChecksum: SHA1: d5a8142c57971b2dc10337877245dece45390b47
+FileChecksum: MD5: badbbeadb7daba6c708c75a232bac05f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/interface/dbus-object-manager.xml
+SPDXID: SPDXRef-item939191
+FileChecksum: SHA1: 9ee7b46060a774eb4ff48643a7f10c8d2df710ad
+FileChecksum: MD5: 70bf6c682901ed08fb964dfa36aae710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/Makefile.am
+SPDXID: SPDXRef-item939192
+FileChecksum: SHA1: a1e5c66f55ef01b9666d2a0340b4f347289afafa
+FileChecksum: MD5: aeae08b5ae8aae07f5e961f78601adff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_traces.c
+SPDXID: SPDXRef-item939193
+FileChecksum: SHA1: 2babcd30242247a6cc9ab5e2ef09bf3e8010af1e
+FileChecksum: MD5: c1e322ae0155b9bb3634f128d5c2a98d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_tag.c
+SPDXID: SPDXRef-item939194
+FileChecksum: SHA1: 05b8157eaff9e9199b69c01439990200e2ccffcb
+FileChecksum: MD5: 2459ad6513864a1d94c8873be16891cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_record.c
+SPDXID: SPDXRef-item939195
+FileChecksum: SHA1: 1dcd7f9fdb5acd2ce00a867dee6466296066600d
+FileChecksum: MD5: ba13a1703b749b6d5bc2e771738df38b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_adapter.c
+SPDXID: SPDXRef-item939196
+FileChecksum: SHA1: a4d17c9839de30db169777c35f7e7611716c6cb5
+FileChecksum: MD5: fde10c27da541708d3c5fb868c2f64e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_record.h
+SPDXID: SPDXRef-item939197
+FileChecksum: SHA1: fb03bb9891e05a0ef30d3d38dd5873c69765a9bc
+FileChecksum: MD5: e734955de6b41978ae7bb0a0bc849a69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_manager.c
+SPDXID: SPDXRef-item939198
+FileChecksum: SHA1: f0402c108f3896056c34e7ce0264a6b3fd94a5fd
+FileChecksum: MD5: f508858359271adef593c51844954655
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_tools.h
+SPDXID: SPDXRef-item939199
+FileChecksum: SHA1: 3f8d8f874d59ce80095ad811474d8dada4c3de90
+FileChecksum: MD5: cc14fc51839bf3ba9ed68d1a28c1d33e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal.c
+SPDXID: SPDXRef-item939200
+FileChecksum: SHA1: ef5ecab5084585c763eefaae8a36706711dd7f87
+FileChecksum: MD5: 535150d3f30968037075f085342620ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_manager.h
+SPDXID: SPDXRef-item939201
+FileChecksum: SHA1: 34cb63d5fd1fd1c2cf53949ce91fa12f720705bf
+FileChecksum: MD5: 6c35e6a33f98c1029f7b3fbaf7107141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/lib/neardal_traces_prv.h
+SPDXID: SPDXRef-item939202
+FileChecksum: SHA1: 0e0b72185e8033fbf9f55740219159fa8b2c97a4
+FileChecksum: MD5: f197b35eb4b488c146494395dbf58962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/Makefile.am
+SPDXID: SPDXRef-item939203
+FileChecksum: SHA1: 8b9d734f550a3fb6e40988f0ee40ffd75e1c2b6d
+FileChecksum: MD5: 025f477f185092ebbf7d15586fbb1095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/AUTHORS
+SPDXID: SPDXRef-item939204
+FileChecksum: SHA1: 78e5df6080d262aa7fb8dca6deef2adbecad3472
+FileChecksum: MD5: 244f614f80774cd580d4132e0070d4c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/README
+SPDXID: SPDXRef-item939205
+FileChecksum: SHA1: 5085b6e13480907a39f0b6f1cef0e6ca90cac032
+FileChecksum: MD5: 13e60edebcbb65884ffd9f3ef02999d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/0001-neardal-ncl-fix-segfault-on-help-page-being-displaye.patch/.timestamp
+SPDXID: SPDXRef-item939208
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/0001-neardal-ncl-fix-segfault-on-help-page-being-displaye.patch/ncl/ncl.c
+SPDXID: SPDXRef-item939210
+FileChecksum: SHA1: d01fdc336786103d064bf9bda7616e51deaf3712
+FileChecksum: MD5: 5e5a51068a8bf51d0e67b05c2a58e533
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/applied-patches
+SPDXID: SPDXRef-item939211
+FileChecksum: SHA1: 1eb4e197c3c5b61668f0430d20f248bc7a25f55c
+FileChecksum: MD5: 46e27546ca4d746af3036b96f267900c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/.quilt_series
+SPDXID: SPDXRef-item939212
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/.version
+SPDXID: SPDXRef-item939213
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/0002-neardal-lib-fix-memory-corruption.patch/lib/neardal_tools.c
+SPDXID: SPDXRef-item939216
+FileChecksum: SHA1: e075b73c12d86729d9491b9aed83410fad57eaaa
+FileChecksum: MD5: 6408e2fc4fb80f3af70265feb9ef1084
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/0002-neardal-lib-fix-memory-corruption.patch/lib/neardal_record.c
+SPDXID: SPDXRef-item939217
+FileChecksum: SHA1: 87599b625d54bab0ea4f8823b6bf4f5bbaa81edb
+FileChecksum: MD5: ec3410433f94edcc31f3173edf7da2b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/0002-neardal-lib-fix-memory-corruption.patch/.timestamp
+SPDXID: SPDXRef-item939218
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/ncl.patch/.timestamp
+SPDXID: SPDXRef-item939220
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/ncl.patch/ncl/Makefile.am
+SPDXID: SPDXRef-item939222
+FileChecksum: SHA1: b31cc5e5d43ff36358401735e76ee980f3dd9b52
+FileChecksum: MD5: 0aed1397ddb415d5f0c45e842edfaeed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/.pc/.quilt_patches
+SPDXID: SPDXRef-item939223
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/configure.ac
+SPDXID: SPDXRef-item939224
+FileChecksum: SHA1: 77ab76a02b45146a481b5e45a297a0393099caaa
+FileChecksum: MD5: 25750a9301ad7182e2df661c0bde457e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/ncl/ncl.c
+SPDXID: SPDXRef-item939226
+FileChecksum: SHA1: ed94c86f7709201ab255f39729de6843e9d5ad86
+FileChecksum: MD5: fd2244def316ad74fe113f585fecb707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/ncl/ncl_cmd.h
+SPDXID: SPDXRef-item939227
+FileChecksum: SHA1: f84c7241ad06d4ae48eedacca17bd574c6369a44
+FileChecksum: MD5: 478d065624a6037cc497a3b917826022
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/ncl/ncl.h
+SPDXID: SPDXRef-item939228
+FileChecksum: SHA1: 3422b04e2fcde9b90e98496cb5a30bd5a580ee1d
+FileChecksum: MD5: c902811abc65d6aa0f32c778b4c9e5ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/ncl/ncl_cmd.c
+SPDXID: SPDXRef-item939229
+FileChecksum: SHA1: 6395b8964bb97ae10b3c908db16f3de037aa8314
+FileChecksum: MD5: ee9c388bb031417cf6f6e5eb188b3f22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/ncl/Makefile.am
+SPDXID: SPDXRef-item939230
+FileChecksum: SHA1: e46cbba6453fd7319a3badd8a83f96ae28a08d6a
+FileChecksum: MD5: caa3b55b154afc2bdd97935a891096e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/doxygen.cfg.in
+SPDXID: SPDXRef-item939231
+FileChecksum: SHA1: 808ead56abb4df8f2718e67e6719885c801cd2d4
+FileChecksum: MD5: 34dffc1ee6a9d0133397efc44faa3a42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/neardal.pc.in
+SPDXID: SPDXRef-item939232
+FileChecksum: SHA1: 0c9a27a75c227bd2d3c73600e585a00743d6e3ae
+FileChecksum: MD5: 4722d0e2060de33bc1c8eac192bdce4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/patches/series
+SPDXID: SPDXRef-item939237
+FileChecksum: SHA1: 5e9ae910797253e64b1bc429028a2ec567a955d6
+FileChecksum: MD5: 71dd70b6dc7ecb2190c1ccae598a3308
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neardal-0.14/autogen.sh
+SPDXID: SPDXRef-item939238
+FileChecksum: SHA1: 3e56dd011cec54b9eb0511f65fdc55ccc3012ccb
+FileChecksum: MD5: 5354c0a9a3a6f60ebf32ff0f125187f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0002-neardal-lib-fix-memory-corruption.patch
+SPDXID: SPDXRef-item939239
+FileChecksum: SHA1: 60b3d24a480d1b95bb1fd06d4aaae5e83212d9a8
+FileChecksum: MD5: 71a519ed1c7336da1b95067cbf55f39c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/ncl.patch
+SPDXID: SPDXRef-item939241
+FileChecksum: SHA1: e8d25c0c3c12c1a1a8ec28b421e6996871b78067
+FileChecksum: MD5: e4a1f2a9176a844ddc786e50dd3fd05e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-LGPL_v2-possibility
+LicenseName: LGPL_v2-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

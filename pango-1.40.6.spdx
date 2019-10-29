@@ -1,0 +1,5369 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_pango-1.40.6-r0-patched.tar.gz_1571460482.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:48:02Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: pango
+PackageVersion: 1.40.6
+PackageFileName: pango-1.40.6-r0-patched.tar.gz
+SPDXID: SPDXRef-upload431
+PackageDownloadLocation: http://ftp.gnome.org/pub/GNOME/sources/pango/1.40/pango-1.40.6.tar.xz;name=archive
+PackageHomePage: http://www.pango.org/
+PackageSummary: <text>Framework for layout and rendering of internationalized text</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>pango version 1.40.6</text>
+PackageChecksum: SHA1: 3704b778ab0fc1be905e7257f14dbf18e799f6b8
+PackageChecksum: MD5: 89021ee64b70d953b3b295a0efafaa45
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload431
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-Enforce-recreation-of-docs-pango.types-it-is-build-c.patch
+SPDXID: SPDXRef-item1102886
+FileChecksum: SHA1: 687a9d1d7fe5ff88a8f23a9759aa79cf6676ddf5
+FileChecksum: MD5: 6561fb0b9d18da7caf6dbefd8b5bd4d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-Drop-introspection-macros-from-acinclude.m4.patch
+SPDXID: SPDXRef-item1102888
+FileChecksum: SHA1: 64ca62ecbbfef153a8eeddc382ed8300f8231326
+FileChecksum: MD5: 2ea78658a1f6293809202850cb8c39d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/MAINTAINERS
+SPDXID: SPDXRef-item1102893
+FileChecksum: SHA1: 79096b4ed2ca2ace37b4aa56122c89496e29e5ec
+FileChecksum: MD5: e43eab42348992c31b102e0449456350
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/NEWS
+SPDXID: SPDXRef-item1102896
+FileChecksum: SHA1: 1830610d773ce114a5648042ff7c8d1dddde8aca
+FileChecksum: MD5: 6f636fe5adcaa81ec7e768b63a4be745
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/compile
+SPDXID: SPDXRef-item1102897
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/acinclude.m4
+SPDXID: SPDXRef-item1102900
+FileChecksum: SHA1: c5840de78deece4948611c9cd6ff3c547dd4b6cd
+FileChecksum: MD5: 5402e28944c0da3941a2ea1558ec3e6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/install-sh
+SPDXID: SPDXRef-item1102901
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango.doap
+SPDXID: SPDXRef-item1102903
+FileChecksum: SHA1: a4ad84655cf2302499c766609864b36968d11248
+FileChecksum: MD5: 9b1efa77893e147e7fbca4f67aeadc1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/aclocal.m4
+SPDXID: SPDXRef-item1102906
+FileChecksum: SHA1: 575faf6218c47e5fde7e89cb74e0bbdca11a5484
+FileChecksum: MD5: a38f2907633f6199fa8009cdb6d1421c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango.pc.in
+SPDXID: SPDXRef-item1102908
+FileChecksum: SHA1: 619521ba535722e10f23f402e888ef0062782220
+FileChecksum: MD5: 605754f137078d7194d153118202e48b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/gtk-doc.make
+SPDXID: SPDXRef-item1102911
+FileChecksum: SHA1: 32516a79b620156f2e30d684d4385bd52b17b3fb
+FileChecksum: MD5: fb34f9fc4adf008f75aa59b2a9c965b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/Makefile.in
+SPDXID: SPDXRef-item1102913
+FileChecksum: SHA1: 7cdd4a3d7327b3a82eef4c3acef7cbb01b324847
+FileChecksum: MD5: 8c97e4c62d259f173ff4e99c86cb7c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/COPYING
+SPDXID: SPDXRef-item1102915
+FileChecksum: SHA1: bf50bac24e7ec325dbb09c6b6c4dcc88a7d79e8f
+FileChecksum: MD5: 3bf50002aefd002f49e7bb854063f7e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/configure
+SPDXID: SPDXRef-item1102917
+FileChecksum: SHA1: 70e3c9ef05bdc1eeeb5b3b5a8be2669b4a43ae71
+FileChecksum: MD5: 5b062a725b35efef76c3b3fc214611c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/config.h.win32
+SPDXID: SPDXRef-item1102920
+FileChecksum: SHA1: 2fc4e47ae4aad02c3f967115cc36bc2762da83b9
+FileChecksum: MD5: 4e1564cb60a438f28ef79be7ae144669
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/ltmain.sh
+SPDXID: SPDXRef-item1102922
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pangoxft.pc.in
+SPDXID: SPDXRef-item1102924
+FileChecksum: SHA1: a0964e2cc414d620ff00b3328295c8752075a60c
+FileChecksum: MD5: 7025465f65906610fb0f50cbf99346a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangowin32-fontmap.c
+SPDXID: SPDXRef-item1102928
+FileChecksum: SHA1: aa0734d52af948d1c1b1b69741f69f397b11e3af
+FileChecksum: MD5: 2b0e9cf902c619de4b179545f84b0223
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoft2.c
+SPDXID: SPDXRef-item1102931
+FileChecksum: SHA1: 1ad66bdc6d4ccbea0b688784230e4b8d12a432c2
+FileChecksum: MD5: a8a588ad66a51d890490ffaa21171e57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-win32font.c
+SPDXID: SPDXRef-item1102933
+FileChecksum: SHA1: 24c19ed911d65c6eb2cea68e0ef77d394c67925d
+FileChecksum: MD5: 17a00fb84bf0f714c47211caab745b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoft2-fontmap.c
+SPDXID: SPDXRef-item1102935
+FileChecksum: SHA1: 8fd574034f8ad64e1fe07139c9f8d0ee23ae398b
+FileChecksum: MD5: 58f06f9896c843acfc825b4f3cb82efe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-enum-types.c
+SPDXID: SPDXRef-item1102937
+FileChecksum: SHA1: f1cc719252c9293954d018da536a09adbf64aedf
+FileChecksum: MD5: d12212e436d3a268edc0c6b28329a7ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-font.c
+SPDXID: SPDXRef-item1102939
+FileChecksum: SHA1: abe7c575d6a58f0e31daf54c841216f1e17a6883
+FileChecksum: MD5: dfa8e2526330b83cc763856bb3cb39f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/fonts.c
+SPDXID: SPDXRef-item1102942
+FileChecksum: SHA1: 8bb78aa54f34ff7d2e24ff63b9f956771a84b872
+FileChecksum: MD5: 510410c8cc9faa486206ab66f096e331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-matrix.c
+SPDXID: SPDXRef-item1102943
+FileChecksum: SHA1: 25a1b7fc5a8e3ba214c963935b36c9e6dd175c86
+FileChecksum: MD5: 053a9fca1c8b700d4742407cb22c1010
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-features.h
+SPDXID: SPDXRef-item1102944
+FileChecksum: SHA1: af8f117607bca205eda9351c82a390d4d2d7f0e4
+FileChecksum: MD5: 586b03aa1381aa7ad6185de674217d8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangowin32.rc
+SPDXID: SPDXRef-item1102946
+FileChecksum: SHA1: 7eabed34d608e6f065650ec1be8daed17bed35cc
+FileChecksum: MD5: cffa8c4168d1526684d46376d4f26dc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/shape.c
+SPDXID: SPDXRef-item1102948
+FileChecksum: SHA1: f98efda2961519ac548e549c0bb440482eeb61ef
+FileChecksum: MD5: c50df3c24acbef22a07614a983e9061d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-context.c
+SPDXID: SPDXRef-item1102951
+FileChecksum: SHA1: 88ea9b245aa550f74e2f8aca592d12432678bbdf
+FileChecksum: MD5: 0f8a95c42857bf608af596b17a3d592d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-language.h
+SPDXID: SPDXRef-item1102952
+FileChecksum: SHA1: a4d2e19d77ef11bfbcfb655596bff6921ca38bf5
+FileChecksum: MD5: 3f78670cbd59bd08f64a93dd9d10f716
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-item.c
+SPDXID: SPDXRef-item1102954
+FileChecksum: SHA1: d1f2be5c69e25e917966e95d049e3a4b67aa6e82
+FileChecksum: MD5: c5b2f62bf6ec6abf2ebec461546daef5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-bidi-type.c
+SPDXID: SPDXRef-item1102956
+FileChecksum: SHA1: 307e70c2ccb65807a31585200d998c2d07a8a048
+FileChecksum: MD5: de2afac26b382aa83887e106caea0dc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-break.h
+SPDXID: SPDXRef-item1102958
+FileChecksum: SHA1: 43e7254f475eb418a1d67170f2a86fb8ccafe6a8
+FileChecksum: MD5: ed30fa87a8824e0e35833d8f14e79081
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-fcfontmap.c
+SPDXID: SPDXRef-item1102960
+FileChecksum: SHA1: 988fab70da93e946c70d9b7664e6d675c482ffeb
+FileChecksum: MD5: a43f80194f39dc01351a2649363be72f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-fontmap.c
+SPDXID: SPDXRef-item1102962
+FileChecksum: SHA1: 13bf48c7929dc3d55ed57f7543666242f63634cd
+FileChecksum: MD5: 28a64028c1d8325d43b17d9299b783dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-ot-buffer.c
+SPDXID: SPDXRef-item1102965
+FileChecksum: SHA1: 3318921632dc737fb9687d7933ccd84d5b3bd523
+FileChecksum: MD5: bed57c3399ea59eeff2056bfb37e3331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-coverage.h
+SPDXID: SPDXRef-item1102967
+FileChecksum: SHA1: 21a41fa021356fd9524c8cd467f36cc6454ca298
+FileChecksum: MD5: 93d3c3aed599758171cdca032fdc87bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoxft-render.h
+SPDXID: SPDXRef-item1102969
+FileChecksum: SHA1: 2e0d197c003862d67e2215debb403b8d2776ec68
+FileChecksum: MD5: e47ac8475bab80b62d1b7eb49162982b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-fc.h
+SPDXID: SPDXRef-item1102972
+FileChecksum: SHA1: d3a552be3c2e07aa597a3610d022d7338d7dbde5
+FileChecksum: MD5: 730da360b2ac0a70fd2190b963817298
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoxft-font.c
+SPDXID: SPDXRef-item1102974
+FileChecksum: SHA1: 3c90ab1b3a7dfce68c2be9b5fc95c003a72e3391
+FileChecksum: MD5: 8a0192269aa24e13f91b57bc431bbf65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-script-lang-table.h
+SPDXID: SPDXRef-item1102977
+FileChecksum: SHA1: fa3f0cf6988b4e6bb55f510f39f3dbe590a3cace
+FileChecksum: MD5: 03b509a359238b9af664b529c698c87f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-coretextfontmap.c
+SPDXID: SPDXRef-item1102980
+FileChecksum: SHA1: fc0b6eba9e55063b0622fd83883ef6b4da0a1065
+FileChecksum: MD5: 41301ca20edc19067d8ca2907f10d36f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-win32.h
+SPDXID: SPDXRef-item1102981
+FileChecksum: SHA1: 4307e6ff8fcd805a82e56a4bbe93154be605dff1
+FileChecksum: MD5: 11c193e390c26219d975c09023d75406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-renderer.c
+SPDXID: SPDXRef-item1102984
+FileChecksum: SHA1: 2c7215015af478abfa6b2bf14f7b80efd9b28ebf
+FileChecksum: MD5: 0dd4795897f8c75af527951bb0f24412
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo.rc.in
+SPDXID: SPDXRef-item1102986
+FileChecksum: SHA1: 1bad117ba9766ff59a0a9d91a088cd2a85523eb1
+FileChecksum: MD5: f5e086e49e14d6f530de51905483704d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoxft-private.h
+SPDXID: SPDXRef-item1102987
+FileChecksum: SHA1: 291c7c20d6a55db5880c5eea5d71c301ef63b419
+FileChecksum: MD5: 146cf30bf86e248c228bb6417cfb7ebb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-attributes.c
+SPDXID: SPDXRef-item1102989
+FileChecksum: SHA1: eb9b7f5416c268c00464a047e595477af157e69d
+FileChecksum: MD5: 34db7b755e758cdca0cd2cc4df002cf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-render.c
+SPDXID: SPDXRef-item1102992
+FileChecksum: SHA1: f1154ec7170ef4d312473c9a3f8e205f7be0b8eb
+FileChecksum: MD5: 9b9dbb1e697cb2d95241f394af8e2386
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocoretext.c
+SPDXID: SPDXRef-item1102994
+FileChecksum: SHA1: 7fcb4503f559e4c9c5d80d54e4c4878ebe09e9f7
+FileChecksum: MD5: aabf9da6756e8b7cb40274cb12194554
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-coverage.c
+SPDXID: SPDXRef-item1102996
+FileChecksum: SHA1: 871161deca889a728cce7139642bf8bcddb19129
+FileChecksum: MD5: 728f41a819fdc719f4f8bea485fbad75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-bidi-type.h
+SPDXID: SPDXRef-item1102997
+FileChecksum: SHA1: 54ccaafb092c31f3a73f0b53180a6c60c293772f
+FileChecksum: MD5: d154ea3f286d0e040208b3a59dd4adb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-ot-ruleset.c
+SPDXID: SPDXRef-item1103000
+FileChecksum: SHA1: 7bce40e0723786b3f8eee62b78ad254910718f20
+FileChecksum: MD5: 9e7f313d88ab9fb8e8bb4c6a3fcd8ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-modules.h
+SPDXID: SPDXRef-item1103003
+FileChecksum: SHA1: 8c6f253ca5819c01edfd54200ea2f48d48d5aabb
+FileChecksum: MD5: 0314b02f7c233d3127344027828ec526
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-glyph-item.h
+SPDXID: SPDXRef-item1103005
+FileChecksum: SHA1: aaedfae2ad64e1e6227d46e8de5a1e474a04acc2
+FileChecksum: MD5: 56e216836fa06406a202dee849227482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoxft.rc
+SPDXID: SPDXRef-item1103007
+FileChecksum: SHA1: 705b6b3bb63e407117bd3b99e4de864e71bca676
+FileChecksum: MD5: 209d5aaaee4be22c9dbe6f1b4b9ece0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/Makefile.in
+SPDXID: SPDXRef-item1103010
+FileChecksum: SHA1: 83339c82b1722b17cc68d9481a804a6efd9a36fc
+FileChecksum: MD5: fbd8a2cbb01b1fc4dc08ba58d1208620
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocoretext.h
+SPDXID: SPDXRef-item1103012
+FileChecksum: SHA1: 6dfdcea9f0f935312ba52b5563b6c1fa75af7d68
+FileChecksum: MD5: 6d9c026a84a928f68f76e9a14de032b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-utils.h
+SPDXID: SPDXRef-item1103014
+FileChecksum: SHA1: 6f9676922b11e9123336115a14d4f68918ec8fbb
+FileChecksum: MD5: d37e33cb99e0a295c1121b373ff73cb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo.rc
+SPDXID: SPDXRef-item1103017
+FileChecksum: SHA1: a547c7527b147d723e2d7c6a2acaaa97a9f60af8
+FileChecksum: MD5: eb0cfdaf9a8949c5fa0b8c675ddf548f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-layout.h
+SPDXID: SPDXRef-item1103019
+FileChecksum: SHA1: 1f82725afaf28e185762a82f7cdc70a8d9dcaea3
+FileChecksum: MD5: b45418da505968abfd4c4af8502bbf85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-utils.c
+SPDXID: SPDXRef-item1103022
+FileChecksum: SHA1: c27c7a05ef0dd77c3fe7946d73b247b99f2c9751
+FileChecksum: MD5: d42833f76476fa1b29f56ef8c464de06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangofc-shape.c
+SPDXID: SPDXRef-item1103024
+FileChecksum: SHA1: 265fec5e07a5ea01f5e5351289fd50acf12123eb
+FileChecksum: MD5: 38dd832f8b01fe5028cec9279d32070f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-language-sample-table.h
+SPDXID: SPDXRef-item1103027
+FileChecksum: SHA1: 5477aba6566de8361a801dc6d062140c66c807c2
+FileChecksum: MD5: 20a2ee356720a661b9f22e5ba9c50c5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-renderer.h
+SPDXID: SPDXRef-item1103029
+FileChecksum: SHA1: d59737b91fa58d9335886fd1417dcdf18acb029e
+FileChecksum: MD5: ff37854fc1ea852b2e8ae76e2b86f448
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango.rc.in
+SPDXID: SPDXRef-item1103031
+FileChecksum: SHA1: 270dd03cea452aeb3923aee4d52cf9eb20c8c70f
+FileChecksum: MD5: c6e61180894f84e24eb2626e32a2acc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-fcfont.c
+SPDXID: SPDXRef-item1103034
+FileChecksum: SHA1: 2fa0b20d47ef0a1d1e5b2b4dedf987137c4be443
+FileChecksum: MD5: 996f7af3268eb5726a536c16643abf0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoft2.rc
+SPDXID: SPDXRef-item1103036
+FileChecksum: SHA1: f0db07226d6e4033cab82140d21833df0cc6cef9
+FileChecksum: MD5: d932d0486e9ea39a94be2bead9b7b4ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-markup.c
+SPDXID: SPDXRef-item1103038
+FileChecksum: SHA1: 51fefbd8580e86e8b50010d77dd9fdf8980efc90
+FileChecksum: MD5: 040f92f2cf7b484e5bd98aba916b024e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangowin32-fontcache.c
+SPDXID: SPDXRef-item1103040
+FileChecksum: SHA1: a89c585616e37a7e8faf9e19f123268ce266d7a2
+FileChecksum: MD5: f2fbcd22ee6d4efd4f37092131ba13bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-tabs.h
+SPDXID: SPDXRef-item1103042
+FileChecksum: SHA1: 77a45d5ccdc9bf963bfe98b60081e2a9a3c09db6
+FileChecksum: MD5: 75004e2f2b5e1488268bbc6e8cc77a38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-tabs.c
+SPDXID: SPDXRef-item1103044
+FileChecksum: SHA1: aafa60e967ba0950db46251764279d48707e484a
+FileChecksum: MD5: c231288688a772e6ce33fd2d2bd3e770
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-private.h
+SPDXID: SPDXRef-item1103046
+FileChecksum: SHA1: 9c7b7c29ca93cc27ac82967fe47d9b2092a258ca
+FileChecksum: MD5: b0a4ed370836c5da4ea96b1e439d0787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-enum-types.c.template
+SPDXID: SPDXRef-item1103048
+FileChecksum: SHA1: 183dc70c8098bcceaae80e740c4825521a428b02
+FileChecksum: MD5: 555b79605b9050bf4af6a54c07c31ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-layout-private.h
+SPDXID: SPDXRef-item1103051
+FileChecksum: SHA1: 1df21c7fa8c749504bd8ba063156b341d26887fc
+FileChecksum: MD5: 1fe0d4d2a101a72e8b314903703cbcf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-item.h
+SPDXID: SPDXRef-item1103053
+FileChecksum: SHA1: 85827359536ed7fc54dbebce0c467d9ffed08075
+FileChecksum: MD5: e2b9d63ef974d432fef0b7e6224658ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoft2-render.c
+SPDXID: SPDXRef-item1103055
+FileChecksum: SHA1: 3b9bc25271b34b12e248c68740aba64bbeecd7d6
+FileChecksum: MD5: bda12c8f70e8daf503d5a97af59e87c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-utils-internal.h
+SPDXID: SPDXRef-item1103057
+FileChecksum: SHA1: ebdf82fab8babc8a3c347db3c05fe1b3bfc19756
+FileChecksum: MD5: 39dfad061bd715173b4e297eda4a2827
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-fontmap.h
+SPDXID: SPDXRef-item1103059
+FileChecksum: SHA1: 1ba80a4348eef8312d81c09ed7229a6c8d08857d
+FileChecksum: MD5: ce69427df9d729445a3fb321c4d40843
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/break.c
+SPDXID: SPDXRef-item1103062
+FileChecksum: SHA1: f1a12ef093b8565eed7947135382f57ecfd41df1
+FileChecksum: MD5: 773227287f0bd2332738b8a1032664e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-coretext.h
+SPDXID: SPDXRef-item1103064
+FileChecksum: SHA1: 8f9e671de58869786c89a2e6e81b2132683b6ca6
+FileChecksum: MD5: cb17d9b415b1a56934eecb7654dca687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/break-arabic.c
+SPDXID: SPDXRef-item1103066
+FileChecksum: SHA1: a5c6f6b0a75a9b5cd655ae7dd8bd19d31e420e8c
+FileChecksum: MD5: 19490988f00f89e8fe09eba15bd3fee9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-fontset.h
+SPDXID: SPDXRef-item1103068
+FileChecksum: SHA1: c25c3b5e55f17501711d95e0afb24e88b4498191
+FileChecksum: MD5: 93bcfb38d3008ed198bd3d75d4a2bee9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-ot-private.h
+SPDXID: SPDXRef-item1103070
+FileChecksum: SHA1: 2ff06cabb1921363866340804b74b40a0a6e43d1
+FileChecksum: MD5: fcc1b329adde39f1eabe3ab18c6551e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/Makefile.am
+SPDXID: SPDXRef-item1103073
+FileChecksum: SHA1: ef475c2116e70e87beaadbcd5e7752c6650cb30c
+FileChecksum: MD5: db898321b0ae0c31b9e9f6a54fd67760
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-context.h
+SPDXID: SPDXRef-item1103075
+FileChecksum: SHA1: c8a7fb71c850ff83bd00c2064217adddb1ebac03
+FileChecksum: MD5: 4122d8bf3d6002daf0b139584cddda02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-color-table.h
+SPDXID: SPDXRef-item1103078
+FileChecksum: SHA1: ade7d3dfa406e88eeef2c5439cd2ebcd5afe890d
+FileChecksum: MD5: 10b947c378299b328d57f1d4b4a1ddc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-ot.h
+SPDXID: SPDXRef-item1103080
+FileChecksum: SHA1: c780afc383fd317bb7337d8a5062bdbbd8221dcb
+FileChecksum: MD5: 8925b733661eb43c164301dac000faf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-engine.h
+SPDXID: SPDXRef-item1103083
+FileChecksum: SHA1: 862efd788506b7d28be14344ec35ab54bc23b316
+FileChecksum: MD5: d43894b1213927e56ff8dfe2de633ada
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-gravity.h
+SPDXID: SPDXRef-item1103085
+FileChecksum: SHA1: b5f5763c19592b6db348e8ea5d50275999bb0357
+FileChecksum: MD5: bddf4faa5d01ec41236b69e652ea7171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-color.c
+SPDXID: SPDXRef-item1103087
+FileChecksum: SHA1: 3b12b3fa825feffa3b89c76f50d63eecbb50cadc
+FileChecksum: MD5: 558b15536a5cbe67bb5d9a20fc4b762b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: LicenseRef-MIT-style
+LicenseInfoInFile: TCL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangofc-decoder.h
+SPDXID: SPDXRef-item1103090
+FileChecksum: SHA1: f7ea0d43cf1a836f05dd8ef092468dc6ac37a978
+FileChecksum: MD5: 7000bf4f9cdc000657ea3ff6c4536df5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoxft.rc.in
+SPDXID: SPDXRef-item1103091
+FileChecksum: SHA1: 49ee757d68ad8866aa5856a11e004cd97e291134
+FileChecksum: MD5: 1c5ea6f1a76ba26f8c79a07dfc31920a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/break-indic.c
+SPDXID: SPDXRef-item1103094
+FileChecksum: SHA1: 445426a711c3157316be3a0463f7190f4045ac1e
+FileChecksum: MD5: dbe99f8e5d3593f7efd12ebe682b5bb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoft2-private.h
+SPDXID: SPDXRef-item1103096
+FileChecksum: SHA1: 14cec7fdea18e240fb2452abedd803ade6429185
+FileChecksum: MD5: 694c84bff94f6693c018c6398b90eadc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-ot-tag.c
+SPDXID: SPDXRef-item1103098
+FileChecksum: SHA1: cf912d8aa5be574a23d9c8a0cb172d9a9a462f06
+FileChecksum: MD5: 422a5b5f5c117e54e0024a93945abaa8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-script-private.h
+SPDXID: SPDXRef-item1103100
+FileChecksum: SHA1: 0cb33393b558ee9355000a6eccbb76794565542b
+FileChecksum: MD5: a48c7defe90982dfc0b75f4fbf44d5cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocoretext-private.h
+SPDXID: SPDXRef-item1103102
+FileChecksum: SHA1: 30a0d72aad1dd22cb9eb06f3d56f3f1f2e0ff46f
+FileChecksum: MD5: ba5ec308d8681fd7431a06c1c306da9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangowin32.rc.in
+SPDXID: SPDXRef-item1103104
+FileChecksum: SHA1: edaaa9003ade430dfba08fab1a0abf668fa120b9
+FileChecksum: MD5: 637ec83283babc075b5651a3052b0b7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/glyphstring.c
+SPDXID: SPDXRef-item1103106
+FileChecksum: SHA1: 5c44cb4aeab7bc5d35456e40758e6148fc5df7f7
+FileChecksum: MD5: 1afaa4c30beb7d36fa6a04926fdfe72f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoft2.rc.in
+SPDXID: SPDXRef-item1103108
+FileChecksum: SHA1: 34282746cbf825cc97903571855a9d93693750d2
+FileChecksum: MD5: 76be042afe2130dd79e0daec2c7b6ffc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-engine.c
+SPDXID: SPDXRef-item1103110
+FileChecksum: SHA1: 7448ee616d9905e6e3b296394fc9b5efc39ec41d
+FileChecksum: MD5: c5fbb58af88eff51670eac8d04dcccd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-script.h
+SPDXID: SPDXRef-item1103112
+FileChecksum: SHA1: 7afb3af43804f9c02ff5cbe83c3292e717958e53
+FileChecksum: MD5: 8a89fb7cfdef1025cd2500a4c2c8bae8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangowin32-private.h
+SPDXID: SPDXRef-item1103114
+FileChecksum: SHA1: d30956c4e8942f55357f5ce00e3c881d2e398e4f
+FileChecksum: MD5: 1359417f1d0493560edaaa5824eca9ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/fribidi_tab_char_type_2.i
+SPDXID: SPDXRef-item1103119
+FileChecksum: SHA1: 1c9828b7657df3adc6a28f43c4a44c3989697bae
+FileChecksum: MD5: ba1b460fda7aa2a6a3483ba1711608af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/fribidi_char_type.c
+SPDXID: SPDXRef-item1103121
+FileChecksum: SHA1: 9ff981f6f5ea3dc8b736a304a4450e0b5010e87a
+FileChecksum: MD5: aaf6b9ad45913b8c98a9ddca4fca1792
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/fribidi_config.h
+SPDXID: SPDXRef-item1103123
+FileChecksum: SHA1: 4d677987e239dd8f4a221bb4b00dedffc9d045a1
+FileChecksum: MD5: a9813dd537d89031eae33c30c1a4e45e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/Makefile.in
+SPDXID: SPDXRef-item1103126
+FileChecksum: SHA1: 188cc6fbbfe14254b6fdc4760b30a483c96cb659
+FileChecksum: MD5: 074d058a2e150b7725a1332c08414d75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/fribidi_types.c
+SPDXID: SPDXRef-item1103128
+FileChecksum: SHA1: 9e0a988c9bf7db92ca13fa0963033e6e30ec626d
+FileChecksum: MD5: 4bb0eb1323b1419489a04e1b7c63ce13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/Makefile.am
+SPDXID: SPDXRef-item1103131
+FileChecksum: SHA1: c80e09b612f1d021c7ba0ab7cd526c0cf646ecb9
+FileChecksum: MD5: 28ea95f01c3ae717898989be001079fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/fribidi.c
+SPDXID: SPDXRef-item1103133
+FileChecksum: SHA1: 62b089b85a95bb3493fc8cd23d40b83c9d688fa9
+FileChecksum: MD5: 7692e24044a388ac2055ae6539413e53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/fribidi_types.h
+SPDXID: SPDXRef-item1103135
+FileChecksum: SHA1: b522e7a87b863af830fa7cef7b6e42bac797ac41
+FileChecksum: MD5: 107f94657f258a12ad00e36474b15908
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/fribidi.h
+SPDXID: SPDXRef-item1103138
+FileChecksum: SHA1: b159708f406574c423b1ab84cc392833d7c2ef58
+FileChecksum: MD5: 8ae6380d8f2c881c33bd559fe1f96e26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/fribidi_types.i
+SPDXID: SPDXRef-item1103140
+FileChecksum: SHA1: e535bcbf54deba2b6debc14a52dcc4bee14c3c7e
+FileChecksum: MD5: f14f14e4565d1d51c869bab36c95cdcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/mini-fribidi/README
+SPDXID: SPDXRef-item1103142
+FileChecksum: SHA1: 28bfaef9ded9841cb8ac4397e72e5bd90c0ebfde
+FileChecksum: MD5: 63056816055a0b0ae620b8d5ebdf73a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangofc-fontmap.h
+SPDXID: SPDXRef-item1103145
+FileChecksum: SHA1: 40b63bc0a2b8371fdfc409a0dd411461f40089f2
+FileChecksum: MD5: 80554076a11db7e294cd82399fde98d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-version-macros.h
+SPDXID: SPDXRef-item1103148
+FileChecksum: SHA1: f230add5e6845c0d0a9962ff3a5976cb4710ce54
+FileChecksum: MD5: 6207987c464ddb4ea06d0e226a4f5a00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoxft.h
+SPDXID: SPDXRef-item1103149
+FileChecksum: SHA1: 875b8174461eab1829488517d9bf7b68f22d2e57
+FileChecksum: MD5: a93fb480c916cbc1a883a8b7aabd9cf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoxft-render.c
+SPDXID: SPDXRef-item1103152
+FileChecksum: SHA1: fa4bbdea07fc160fab4e1e616954185406991f99
+FileChecksum: MD5: e3c1031fac3f5a5ab42d6d968c5245b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-enum-types.h
+SPDXID: SPDXRef-item1103153
+FileChecksum: SHA1: d78de2aabd51d4586a764280a29ef9ef6462b21d
+FileChecksum: MD5: 353f7a459c04acf835404f639b5acbdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/ellipsize.c
+SPDXID: SPDXRef-item1103155
+FileChecksum: SHA1: 322c90c099648d76594f3d5cf826769d14816733
+FileChecksum: MD5: 94aac87da6cfed0012fb7ddadb8c6f8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangofc-private.h
+SPDXID: SPDXRef-item1103158
+FileChecksum: SHA1: 20395ffad216658b12b015681fb8cfca4dc71dec
+FileChecksum: MD5: 94cfd131307dc06af8bcd3ee76147ac6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-fontset.c
+SPDXID: SPDXRef-item1103160
+FileChecksum: SHA1: f04745b9e2c481fb0c1ac3861988523d723f8a9f
+FileChecksum: MD5: 13176d6f6d7ffb2987cb54c4a77db1db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-matrix.h
+SPDXID: SPDXRef-item1103162
+FileChecksum: SHA1: 3a1718bc569971a31b35f42dba64de4e88a824c4
+FileChecksum: MD5: 464928d580a7036c6f0e45fa4a9b8497
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-types.h
+SPDXID: SPDXRef-item1103164
+FileChecksum: SHA1: a237c0d4649989f811a733148edbc9abfe5ae4f7
+FileChecksum: MD5: d5499f8737c175f0db20d25e9dffb9a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo.h
+SPDXID: SPDXRef-item1103166
+FileChecksum: SHA1: 549f1befaec28aaec38d120135552cf69739b34b
+FileChecksum: MD5: b6fbc0ca920c4f5f4776ef0b62c1beb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/reorder-items.c
+SPDXID: SPDXRef-item1103168
+FileChecksum: SHA1: d87af7cee2bea356aba8790ce06dd275b11c0c89
+FileChecksum: MD5: c3cb2e2aab027deeb86027d82bf5a932
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-attributes.h
+SPDXID: SPDXRef-item1103170
+FileChecksum: SHA1: a438a785e7620767ccb580bc8efab1ae19a0ac47
+FileChecksum: MD5: 75e4ba327b51a25f6bd26424ee5a0f25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-layout.c
+SPDXID: SPDXRef-item1103173
+FileChecksum: SHA1: 65c88617952522852d5663a4baa540ec7d7ff855
+FileChecksum: MD5: 5968893a6ddcd012b9364e66feef072e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango.h
+SPDXID: SPDXRef-item1103175
+FileChecksum: SHA1: 9a2e445d4085d24f72920856cca3dc294f8a904b
+FileChecksum: MD5: e703e7654c0975bd660552bc9d522bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-language.c
+SPDXID: SPDXRef-item1103178
+FileChecksum: SHA1: 55912512e5ece682a6f1d5c70ae986b0a25bc0a5
+FileChecksum: MD5: 83bd6434f7044b4317ed959ab0e3e54d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-glyph-item.c
+SPDXID: SPDXRef-item1103180
+FileChecksum: SHA1: 63bc14cda2364db7919733a990114b6c418cf54c
+FileChecksum: MD5: 55b72da9adfa672d63735a385e4ac238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangofc-font.c
+SPDXID: SPDXRef-item1103182
+FileChecksum: SHA1: 267d05c846f8cf30fdd2febd528cbac983a89d7b
+FileChecksum: MD5: 7ea6ccb2f2a083251088ff227bf7dc4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-context.c
+SPDXID: SPDXRef-item1103185
+FileChecksum: SHA1: 824a131b7ac07163b368fed49a9337026431342e
+FileChecksum: MD5: dbc2dd488cb07d80df1fe5e801439241
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-coretextfont.c
+SPDXID: SPDXRef-item1103187
+FileChecksum: SHA1: a8d442bc6c113e3d1a0b9f7e794a4bdcbe04acbe
+FileChecksum: MD5: 67b1a77a96d9561f4420384635c6c056
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-font.h
+SPDXID: SPDXRef-item1103190
+FileChecksum: SHA1: 1c0fa10ee58942de0e21f2f21b0e6a8b2275b707
+FileChecksum: MD5: aa72f16ecba7ddd547168f0c3633a5bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango.rc
+SPDXID: SPDXRef-item1103192
+FileChecksum: SHA1: 4e1cb7eb15753ba3d1f20f54f99539ec457053d1
+FileChecksum: MD5: 340a02e1c0b3cb5728ab1c9cc5d44ce0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-engine-private.h
+SPDXID: SPDXRef-item1103194
+FileChecksum: SHA1: 7135988711e2feb2d769013ab859b231c062a3b1
+FileChecksum: MD5: 842af0dd7514ee001eee5f9fbc1e9638
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/break-thai.c
+SPDXID: SPDXRef-item1103196
+FileChecksum: SHA1: 435003caf9dee3ae8c343ae68eccb630ca6d31eb
+FileChecksum: MD5: 52381058be986418da3a7a0dcc89a821
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangowin32.c
+SPDXID: SPDXRef-item1103198
+FileChecksum: SHA1: e3a9692170b755444affa2200e130776fceded8e
+FileChecksum: MD5: e5cee09fdcd81260f3d58371b41aaeeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-fontmap.c
+SPDXID: SPDXRef-item1103201
+FileChecksum: SHA1: 105c2583fe9fe8f1544e0a0d62e466af11dad724
+FileChecksum: MD5: b743771f334b6c9de1590c95ec95c6cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-glyph.h
+SPDXID: SPDXRef-item1103203
+FileChecksum: SHA1: cb1319d86669bf6e294ca6dba0977a01877e2476
+FileChecksum: MD5: a36be4056acbfaacb6d68722278894ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-win32fontmap.c
+SPDXID: SPDXRef-item1103205
+FileChecksum: SHA1: 93ccf2792e226c1ed03011b4167988a60584dd73
+FileChecksum: MD5: adcd7472d5ccf849668b564c93b61499
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangofc-fontmap.c
+SPDXID: SPDXRef-item1103208
+FileChecksum: SHA1: 94a98c3b0a1831191cdb40a1392b8333d7c5bacc
+FileChecksum: MD5: 053e2220874fa78ab3e52fb6a1816ece
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangofc-decoder.c
+SPDXID: SPDXRef-item1103210
+FileChecksum: SHA1: 7bfbd298824ade9b7759aaaf5a3a46578501bfc4
+FileChecksum: MD5: e7620f1db4f1f249bafb5079fc05bb9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocoretext-fontmap.c
+SPDXID: SPDXRef-item1103213
+FileChecksum: SHA1: 385f52d5965584ba43cf726c041494a9df765a3d
+FileChecksum: MD5: 2a88144a8707c3817b2050eb1e96a4b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-impl-utils.h
+SPDXID: SPDXRef-item1103215
+FileChecksum: SHA1: 709a10f216b780f10b42dddd8e4f308aff400601
+FileChecksum: MD5: ca42bf87157373e298ddcb6f2bd99551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocoretext-shape.c
+SPDXID: SPDXRef-item1103218
+FileChecksum: SHA1: b44fb6859b2245feaa582ad5c0fa8b70c74d257b
+FileChecksum: MD5: 2232e69a7082e50b1de7d58f0a3db8c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangowin32-shape.c
+SPDXID: SPDXRef-item1103220
+FileChecksum: SHA1: 06a9301c29b0aa9185258bfb4cd94c830e75d6fe
+FileChecksum: MD5: 2fb51b2b039591f6685c0cec2ac6d471
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangofc-font.h
+SPDXID: SPDXRef-item1103222
+FileChecksum: SHA1: b7afdda0fe4b36a543636e94f7a5ce952480e6cc
+FileChecksum: MD5: bd6a8844bad77fd51b3d933e23b58da7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-ot-info.c
+SPDXID: SPDXRef-item1103225
+FileChecksum: SHA1: a916bb1fa7a87b6e6a5e84d16db8c5881b1026c8
+FileChecksum: MD5: 5d60d6e2aa61cf38954acb8f53094e0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/modules.c
+SPDXID: SPDXRef-item1103227
+FileChecksum: SHA1: 515cc818484624a65694206298b57b2e64ede501
+FileChecksum: MD5: 06c25412c8253c7465cd1687a24cc78a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-enum-types.h.template
+SPDXID: SPDXRef-item1103229
+FileChecksum: SHA1: 64ae05dd203c6fdbed8149f6bed974a3932dd9b8
+FileChecksum: MD5: 930371da95438cf598a4e94c660d2650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoxft-fontmap.c
+SPDXID: SPDXRef-item1103231
+FileChecksum: SHA1: f6ea4aa64dc0cfa79d22632798652c085e95d4d7
+FileChecksum: MD5: 80513a637fe1023e9240ee061ac393a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-script.c
+SPDXID: SPDXRef-item1103234
+FileChecksum: SHA1: 5aa28d3a32d87994f448864c233aa5bfa017567e
+FileChecksum: MD5: 7ed1eedf1b4a2fcf7304b131342cf198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pango-gravity.c
+SPDXID: SPDXRef-item1103236
+FileChecksum: SHA1: 5f49b361180ff5f3685c9c3ccf61a253e575556f
+FileChecksum: MD5: 33b507c7bf4a4a387f6951cdca4cb379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangowin32.h
+SPDXID: SPDXRef-item1103238
+FileChecksum: SHA1: cd1dc850ffb8d9e20610a5b9e2210843404b9917
+FileChecksum: MD5: 2c250dbc0705a81a7b8c1ec6cb5b2646
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangocairo-coretextfont.h
+SPDXID: SPDXRef-item1103240
+FileChecksum: SHA1: 349fde604e87f5ff56d33b335bb55f98a75c4493
+FileChecksum: MD5: e90ada50613dc3394749a6f3aac66238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango/pangoft2.h
+SPDXID: SPDXRef-item1103243
+FileChecksum: SHA1: baa8ec455cc287824eb7aa97528d8b56aca8ddd0
+FileChecksum: MD5: e77499284312b6bc753618ccfcd62613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/config.h.win32.in
+SPDXID: SPDXRef-item1103246
+FileChecksum: SHA1: 8f3e2350c96cbf840f9c7d5b8834efd721278cd6
+FileChecksum: MD5: e06af5550f2c31bd5e0d5da6e85beb66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/THANKS
+SPDXID: SPDXRef-item1103249
+FileChecksum: SHA1: 04f671f99c4b1fd220380f9ad95edcc9b46b4e61
+FileChecksum: MD5: cd6ee0d8fdcc2b5ffd103a2e99b5ce15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/examples/cairotwisted.c
+SPDXID: SPDXRef-item1103252
+FileChecksum: SHA1: 39e4d71b5a5826e158794b3eccb9a099b6989af8
+FileChecksum: MD5: a1e7e1c0206c313bfcca960a7c45679b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/examples/cairoshape.c
+SPDXID: SPDXRef-item1103255
+FileChecksum: SHA1: aec662a649f1c0d9fe29675db45edec9d5080336
+FileChecksum: MD5: a48d6c241e7c9c8ca3dad5c17c62bae4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/examples/Makefile.in
+SPDXID: SPDXRef-item1103257
+FileChecksum: SHA1: d1f90510d715221b1a758493df7457e7b42dc16b
+FileChecksum: MD5: 9a81889c68ce72b6cc5c1a631868ae83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/examples/cairosimple.c
+SPDXID: SPDXRef-item1103260
+FileChecksum: SHA1: 09b338982c59e29aaf58cda52d418818d92a1d27
+FileChecksum: MD5: 88b484fc8e47f4f7ba993c8a27be3a91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/examples/Makefile.am
+SPDXID: SPDXRef-item1103262
+FileChecksum: SHA1: ce16f563793bb4b1c5ffe4b644ca5a8b5780e664
+FileChecksum: MD5: 7d42d6749b4e91acffb2adad219d2fe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/examples/pangowin32tobmp.c
+SPDXID: SPDXRef-item1103264
+FileChecksum: SHA1: 6e969da0f45bc0e674bc4c8a87a3825e0a4efab0
+FileChecksum: MD5: a867b1d7a36a75b9bdedbae4def31e4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/config.h.in
+SPDXID: SPDXRef-item1103267
+FileChecksum: SHA1: 605fa052748b8cf15434795678c7f09bdb597747
+FileChecksum: MD5: 544925345251081f8c771e277a22da65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/Makefile.am
+SPDXID: SPDXRef-item1103269
+FileChecksum: SHA1: 7aa5e92cb28d0968a098da355d4584c212e7adcd
+FileChecksum: MD5: ab4f2f19d77a20c49da2910a51a20238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/AUTHORS
+SPDXID: SPDXRef-item1103271
+FileChecksum: SHA1: acac9189b63484eacbcf9a45e6b2bbacefa21ea9
+FileChecksum: MD5: f69b2373a26e8ed6c550ea8c30494650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/config.sub
+SPDXID: SPDXRef-item1103273
+FileChecksum: SHA1: c15705cb56948877efbe9558541fbb4940e62155
+FileChecksum: MD5: 8c238eb18a69e902d34b48a1a3702c02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-feature-tag.markup
+SPDXID: SPDXRef-item1103276
+FileChecksum: SHA1: 4dc885bbc7227985effa134d03b0af95281da1d3
+FileChecksum: MD5: dd09205a6bf8cf9e1b4026704deebce0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-mixed.txt
+SPDXID: SPDXRef-item1103278
+FileChecksum: SHA1: bbfafb1c14feab52b1ef61ee35b78e6cb3a0b693
+FileChecksum: MD5: 5e591a3ed6f097dfb300795e52bc3e03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-cairo.c
+SPDXID: SPDXRef-item1103280
+FileChecksum: SHA1: ad3ec2a8be74537fb9c50f7b5bc08f4be6b7a9ba
+FileChecksum: MD5: 384dfcabd0276869869e64512331fc46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-tamil.txt
+SPDXID: SPDXRef-item1103282
+FileChecksum: SHA1: e048cd3679fee829a058e327a9fea97c25a8111c
+FileChecksum: MD5: 82961b870b0af24f40d93bf6d331daef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-mongolian.txt
+SPDXID: SPDXRef-item1103285
+FileChecksum: SHA1: 8244d64ef99d0d528bcd18e4f15aa6bef82f6990
+FileChecksum: MD5: 0f833842bc36c70941c16e5fb2f9b045
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-devanagari.txt
+SPDXID: SPDXRef-item1103287
+FileChecksum: SHA1: cc5cc5e47bdf82cf84182fe02b3e5c250e2a2c41
+FileChecksum: MD5: 01e2f37d89717002b7938eaf8c2c67b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-render.c
+SPDXID: SPDXRef-item1103289
+FileChecksum: SHA1: f5b687a4e621ce0d912b50d42e77f4e97f2b711a
+FileChecksum: MD5: 1967540541c527f985aec99c93f70f2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-nko.txt
+SPDXID: SPDXRef-item1103291
+FileChecksum: SHA1: bf543b4c6a95df4fea4340419eff9b819d462af8
+FileChecksum: MD5: 56baac13c2268f503a03ac200c38c9a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-gurmukhi.txt
+SPDXID: SPDXRef-item1103293
+FileChecksum: SHA1: 87f61a72c76de84acd182c3e72cad53cda91cf1d
+FileChecksum: MD5: 883a9fc6bc480998d02ccaa3ab6d4715
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-pangocairo.c
+SPDXID: SPDXRef-item1103295
+FileChecksum: SHA1: 24a197b6a015eca6cf19f3508955f2084c01d367
+FileChecksum: MD5: 730a91a7af448692b748d7e2d16bc036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-mixed.markup
+SPDXID: SPDXRef-item1103297
+FileChecksum: SHA1: a8c64d3d32daf8adbc98e0b3c57e2307a9a4e24d
+FileChecksum: MD5: 1aaa5d6f9e7845643f527c868b40db4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/Makefile.in
+SPDXID: SPDXRef-item1103300
+FileChecksum: SHA1: 9f7c6576c174f5ba4ba3739bca3fbbd8998dd783
+FileChecksum: MD5: 3f0b06ce528e45fbba012fed45e454cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-opentype-language.markup
+SPDXID: SPDXRef-item1103302
+FileChecksum: SHA1: 285d86ba7092fb87b8c2a79b3164b63f8821c41e
+FileChecksum: MD5: eab848c7b079642df56a31ef84c390e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-ipa.txt
+SPDXID: SPDXRef-item1103304
+FileChecksum: SHA1: 1a01ebec77877da5c3ac42064e666e6ee07f62ad
+FileChecksum: MD5: f1ede5fdc2be2eef813a5855e3389c5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-lao.txt
+SPDXID: SPDXRef-item1103306
+FileChecksum: SHA1: d4b02548d9784d473f35aa49d54a633967b1255b
+FileChecksum: MD5: 8937fcc938245e3c41e4d6a7f1f07acf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-latin.txt
+SPDXID: SPDXRef-item1103307
+FileChecksum: SHA1: 64da497030069634d64ab7b57dfdf49f8b8ff9d3
+FileChecksum: MD5: 3b7060e06eb9002ab0d87b68edc2ba28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-pangoft2.c
+SPDXID: SPDXRef-item1103309
+FileChecksum: SHA1: 447b2ee3983d5bf126c14626bbaf566238f0a34b
+FileChecksum: MD5: 31575dd624de0e42250a22436e09df91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-main.c
+SPDXID: SPDXRef-item1103312
+FileChecksum: SHA1: 8e305b4020d59d3ca9065c4392c4bedaad51654b
+FileChecksum: MD5: 3fbbf1cbf1107a2a9613df903dc63572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/Makefile.am
+SPDXID: SPDXRef-item1103314
+FileChecksum: SHA1: 22dced33a314332f25f01e261127157f0d761921
+FileChecksum: MD5: 5f13d5ddd461f574471392a2b02d3737
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-long-paragraph.txt
+SPDXID: SPDXRef-item1103317
+FileChecksum: SHA1: 0c003835331c3d2b7170ca657584dde522fdb3cd
+FileChecksum: MD5: 1096fa09bc60eaf540588f2e0de90a92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-x.c
+SPDXID: SPDXRef-item1103319
+FileChecksum: SHA1: 0addb8251d126f90830bd8b70c05b1b7ac0b06d1
+FileChecksum: MD5: 8e48cc4845b20a9967b5bf3c0b1913fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-pangoxft.c
+SPDXID: SPDXRef-item1103321
+FileChecksum: SHA1: 1590713b4ee8b98d7d6fabced72f9601c6d6fd04
+FileChecksum: MD5: e4b0fa4aaca2a1878cd8846a72db6ac4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/GLASS.txt
+SPDXID: SPDXRef-item1103323
+FileChecksum: SHA1: dbd398ea6e92df43bcc13241fc9e8a7e5a2e8436
+FileChecksum: MD5: 746a35603699ff24239ab249685dafd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-x.h
+SPDXID: SPDXRef-item1103325
+FileChecksum: SHA1: 94ff1e74973332c79cf66c98fce6fd0b4fdaab6b
+FileChecksum: MD5: 115bba143781ea7b365db2aeca8061d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-tibetan.txt
+SPDXID: SPDXRef-item1103327
+FileChecksum: SHA1: 7d028227fbcaf10f2ad91032d79a81aaec67b442
+FileChecksum: MD5: 759c00d22fe8985435320e0bc3fe72eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-cairo.h
+SPDXID: SPDXRef-item1103329
+FileChecksum: SHA1: 10a9215d6acb9a26502b9ce1380efaf3c1e0fad9
+FileChecksum: MD5: d4a4b9529e7e5a7664aea2fab9398bee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/pango-view.1.in
+SPDXID: SPDXRef-item1103331
+FileChecksum: SHA1: 9be4746a95d05693289e014f2d0565de50633c7f
+FileChecksum: MD5: 2dc21f14cff071e8e825d23a99fd0355
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-arabic.txt
+SPDXID: SPDXRef-item1103333
+FileChecksum: SHA1: e48581edc9db94605d1e8c703f58a04200af8e33
+FileChecksum: MD5: e5b3936c90a99e24f09e4cb9b952195e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-hebrew.txt
+SPDXID: SPDXRef-item1103334
+FileChecksum: SHA1: 3f817d4d60bcfb4a4cf74b1dd3aba5993fc06af4
+FileChecksum: MD5: 6b565d5f0e6c87c1f60436db145aaef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-syriac.txt
+SPDXID: SPDXRef-item1103336
+FileChecksum: SHA1: ccce0a4e5f4698dc3c40877df0eef66e60e2712e
+FileChecksum: MD5: 3b3bc32b58ab9998b1639fe29ac1e993
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/pango-view.c
+SPDXID: SPDXRef-item1103337
+FileChecksum: SHA1: c3525eb177dd162846997b8f1f43b0fcd65ea4a5
+FileChecksum: MD5: bed46d9a365c5f66da0520c63c922300
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer.h
+SPDXID: SPDXRef-item1103339
+FileChecksum: SHA1: 0107dbf4d46197e2771a88a8b18f8d1f7cc8f5c6
+FileChecksum: MD5: c1d76c1d273ed2d8fa32d5f8140917bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-thai.txt
+SPDXID: SPDXRef-item1103342
+FileChecksum: SHA1: 90ef116384a0333908731f48142228daf9a433e5
+FileChecksum: MD5: 49f485312d6e99ac34b5957bb4e6dcdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-justify.txt
+SPDXID: SPDXRef-item1103344
+FileChecksum: SHA1: 9e14a4cf0a730fbb3f0e6fbb7874ccfe4e198651
+FileChecksum: MD5: 066409db4c3ca214f87ff778cb2f879b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/HELLO.txt
+SPDXID: SPDXRef-item1103345
+FileChecksum: SHA1: 1c1f07b976e761503f9bbd7a19c1c6a8b1c05bb7
+FileChecksum: MD5: c1af9785b7becdbcc3c5c42a702efc9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/test-chinese.txt
+SPDXID: SPDXRef-item1103347
+FileChecksum: SHA1: 499b34fbb1bf597a831a37563d3af98b56b87525
+FileChecksum: MD5: 86f6909b8dbdf199da305eb9000bce29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pango-view/viewer-render.h
+SPDXID: SPDXRef-item1103349
+FileChecksum: SHA1: 1ab06190c81254c19101ae5b395fd8683e3a7f79
+FileChecksum: MD5: e9f0bb904b1d888afb482f47b69495f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/test-font.c
+SPDXID: SPDXRef-item1103353
+FileChecksum: SHA1: e58e7d9b135e07123f769a04307ab05268a12de8
+FileChecksum: MD5: 5007ff65d33cd5cc6476b54974df9ca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/test-layout.c
+SPDXID: SPDXRef-item1103355
+FileChecksum: SHA1: b826e52ca2509001bfaf66f64a2b0cfa748bfc13
+FileChecksum: MD5: 7796e2b34b5a3fcdaa18a7a22a3c0dff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/gen-all-unicode.c
+SPDXID: SPDXRef-item1103357
+FileChecksum: SHA1: 4c7ae40b095734c1e13e3caf9060013873f97ba3
+FileChecksum: MD5: edcabd596b5b6df87cd88ec408aa5ae1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/layouts/valid-1.expected
+SPDXID: SPDXRef-item1103360
+FileChecksum: SHA1: 8933a566b4c931b47ad97c52691bb6b81b5a11d7
+FileChecksum: MD5: 1bc6142a8d48b56c57a106bf686d516d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/layouts/valid-2.expected
+SPDXID: SPDXRef-item1103362
+FileChecksum: SHA1: d365966cd3009ab00783c44a606c619bc87d49f3
+FileChecksum: MD5: d331a8305c44a4442f8d446424079fab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/layouts/valid-1.markup
+SPDXID: SPDXRef-item1103364
+FileChecksum: SHA1: 840d43fb1f25ecd119e9af123e918b18f759e067
+FileChecksum: MD5: 599e88926373db9a28e156d8bb6293ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/layouts/valid-2.markup
+SPDXID: SPDXRef-item1103367
+FileChecksum: SHA1: 9726951dfd7f9067db4db431be4b8a1bd3b8843b
+FileChecksum: MD5: 082b757c7ba6dc2e42efb7ae35f5f494
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/testboundaries.c
+SPDXID: SPDXRef-item1103371
+FileChecksum: SHA1: 4687b8a577269e294a03d5a6b09d7b68eae1caf1
+FileChecksum: MD5: 36d086854113fe88bdf145fda4cfe464
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/Makefile.in
+SPDXID: SPDXRef-item1103374
+FileChecksum: SHA1: 83b74f1b633069c6736c176ef1c9c78e33f4d250
+FileChecksum: MD5: 3976a05862295f5c6e9841267b39a9b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/GraphemeBreakTest.txt
+SPDXID: SPDXRef-item1103377
+FileChecksum: SHA1: 42443631ef403299f86381cb48f91eb3163883dd
+FileChecksum: MD5: ad5d9949e36facc0c4c25037242b1c66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Unicode-TOU
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/testattributes.c
+SPDXID: SPDXRef-item1103379
+FileChecksum: SHA1: 10674727297c772793532edd4532673ce2d6fb05
+FileChecksum: MD5: 3b8688dbc61968c6e9fb8936a337924f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/dump-boundaries.c
+SPDXID: SPDXRef-item1103381
+FileChecksum: SHA1: a462b37497dcf36df798e0113cb03c0fe90d21d1
+FileChecksum: MD5: 4ac301e4e02d5020fa6300b0928ec193
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/cxx-test.cpp
+SPDXID: SPDXRef-item1103382
+FileChecksum: SHA1: 894edcf5efe9811450d6c266a4e6fabf804db5be
+FileChecksum: MD5: 54eb9c5d5dd1a77a6fba8f0cb2e45102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/valid-4.markup
+SPDXID: SPDXRef-item1103386
+FileChecksum: SHA1: 708ca8bf78aae14224098c8f82b528e8b95738f4
+FileChecksum: MD5: 6a338a4617a039c2684af1be5711ccd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/valid-3.markup
+SPDXID: SPDXRef-item1103387
+FileChecksum: SHA1: 6cc1886e0945e88cce784e3c24251d10a14ea193
+FileChecksum: MD5: 09358f98da5df0bd1d798a5fd655c8ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/fail-1.expected
+SPDXID: SPDXRef-item1103389
+FileChecksum: SHA1: ca72a24d3bfbfde8c15c7c33b9c4e5761f9b1766
+FileChecksum: MD5: 9236a2b135d4de0e306327771c206c0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/valid-1.expected
+SPDXID: SPDXRef-item1103391
+FileChecksum: SHA1: b4434adbe9de430fc646876dd036444fdb507d5e
+FileChecksum: MD5: 2385d192d8b14a1241499d33d550296c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/valid-2.expected
+SPDXID: SPDXRef-item1103392
+FileChecksum: SHA1: b4434adbe9de430fc646876dd036444fdb507d5e
+FileChecksum: MD5: 2385d192d8b14a1241499d33d550296c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/valid-3.expected
+SPDXID: SPDXRef-item1103395
+FileChecksum: SHA1: 47912ac0eaa2fcf3853f7cdaa793ae2eabcc4b68
+FileChecksum: MD5: ff793c48a9079cf6ba0c537a4bdd2c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/valid-4.expected
+SPDXID: SPDXRef-item1103397
+FileChecksum: SHA1: ca12b194d8da6c0db5a8a4c9985c9864946e2d59
+FileChecksum: MD5: 2fd27d5a39f0c668a3e0b5fd91b780f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/fail-1.markup
+SPDXID: SPDXRef-item1103398
+FileChecksum: SHA1: 58d0f0387c48d6bc482153132b5f99422342a943
+FileChecksum: MD5: 909b839c33401c07ff38d5566bd9f5a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/valid-1.markup
+SPDXID: SPDXRef-item1103400
+FileChecksum: SHA1: c4a8fb6ceb7b1967804ff79275d1c768fa4aa1cf
+FileChecksum: MD5: 1ee9bc7af893728c1dc244759d4cbef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markups/valid-2.markup
+SPDXID: SPDXRef-item1103401
+FileChecksum: SHA1: a673805fe3c679b786d3a911023779e0cdbbc2da
+FileChecksum: MD5: d301c404987828449aecdf9446d0ea62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/test-pangocairo-threads.c
+SPDXID: SPDXRef-item1103404
+FileChecksum: SHA1: 1d80492fd48bce28cd192a651dff69f45c1451dd
+FileChecksum: MD5: fd017ce684a7abe9bbcb471505559866
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/test-ot-tags.c
+SPDXID: SPDXRef-item1103405
+FileChecksum: SHA1: b529d1ac3329085928aea3f196b9883a3456c733
+FileChecksum: MD5: a1d6b59a236b194f7420b3b304a46b00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/Makefile.am
+SPDXID: SPDXRef-item1103408
+FileChecksum: SHA1: 3b27144b5b8fd21a1208c032e0abacebda71868c
+FileChecksum: MD5: c4b8eb60513935bbf7dc49730e2545d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/testboundaries_ucd.c
+SPDXID: SPDXRef-item1103409
+FileChecksum: SHA1: c735d13ce8a555ff8be002d6a008bb7efb99e1ec
+FileChecksum: MD5: 6da7d67c2941aa249169b86c88cf61f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/boundaries.utf8
+SPDXID: SPDXRef-item1103411
+FileChecksum: SHA1: b5e589dc937412887477191df6bad1beb15bd6b7
+FileChecksum: MD5: 98b0fc6ab063ab42f4263163ab520738
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/test-common.h
+SPDXID: SPDXRef-item1103413
+FileChecksum: SHA1: 2014f431f1a3c81b043644518d02bd5b899a788f
+FileChecksum: MD5: e99040c5132d949b44094eb3b0be2449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/testiter.c
+SPDXID: SPDXRef-item1103415
+FileChecksum: SHA1: 06b194beb01b17116824d3145277aea27e1092e7
+FileChecksum: MD5: 36cfb2980a1312f2ff61c0a2c8bcc075
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/test-common.c
+SPDXID: SPDXRef-item1103416
+FileChecksum: SHA1: 5e7de7ac25428a2a11892e6851d3760ee3cf932d
+FileChecksum: MD5: 50a5cae0a1dd7a9e900475af4a2337e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/testscript.c
+SPDXID: SPDXRef-item1103418
+FileChecksum: SHA1: 83ec3ea430c67b007a8e567b664ed79b184347e1
+FileChecksum: MD5: 4bea22ded581727a09bbd18833600486
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/testcolor.c
+SPDXID: SPDXRef-item1103420
+FileChecksum: SHA1: 0d9dbabc463d4f907294ef6c7d9686810930cf5e
+FileChecksum: MD5: 51cdaa615fb1fd49bee10d67fb7c33ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tests/markup-parse.c
+SPDXID: SPDXRef-item1103422
+FileChecksum: SHA1: 78e0c2c5b648e24fe836457d2153264f10bded5d
+FileChecksum: MD5: ce60c4cc8efe497fa371ab72560b6ae9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/missing
+SPDXID: SPDXRef-item1103424
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/HACKING
+SPDXID: SPDXRef-item1103425
+FileChecksum: SHA1: 100cf9167da39d35b46ceb745e55978e02db3895
+FileChecksum: MD5: 7622831b17332a244b17fdfb459d1e23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/README
+SPDXID: SPDXRef-item1103427
+FileChecksum: SHA1: d840111d64f71ec2f1239e148c072e0dbfa3caca
+FileChecksum: MD5: d93638e89755f4e14120861f483a2c43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pangowin32.pc.in
+SPDXID: SPDXRef-item1103429
+FileChecksum: SHA1: ec21fd3646d85768a57cc8e665468309b6ddcb26
+FileChecksum: MD5: b5e693d943f7bfbe5e08c4298088b97d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/detectenv-msvc.mak
+SPDXID: SPDXRef-item1103432
+FileChecksum: SHA1: 7dcba0f23e77b2518f23b5acf2c54d2d28ad3ed3
+FileChecksum: MD5: 91fc561c90e90295eb56bc02bffa2182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/Makefile.msvc-introspection
+SPDXID: SPDXRef-item1103434
+FileChecksum: SHA1: 4c772a3b5089648bfd9eb59258dee259a604831f
+FileChecksum: MD5: 0c88d61a7f40e8aed6d9649d7950581f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/introspection-msvc.mak
+SPDXID: SPDXRef-item1103435
+FileChecksum: SHA1: 2d7afbb5ea72d091ced2fec66e973e9ad1bcd1f1
+FileChecksum: MD5: 38750579161cf3d69deaa8eae038c97f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/introspection.body.mak
+SPDXID: SPDXRef-item1103437
+FileChecksum: SHA1: c79a0f676c0f0812ca8f7562b437ed721da397af
+FileChecksum: MD5: 7d85e6d1b12c2decb354e636947935c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/Pango_1_0_gir_list
+SPDXID: SPDXRef-item1103439
+FileChecksum: SHA1: 788405c10859e20006d5843fa24da2238ab8ecaf
+FileChecksum: MD5: 75b588e80d7b0b43cf4689a625ba830e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/Makefile-newvs.am
+SPDXID: SPDXRef-item1103441
+FileChecksum: SHA1: ff279f09898d65162aafd472165187a766193d75
+FileChecksum: MD5: 5e45c60ee748f0fcf60f1c2aed87ed16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/replace.py
+SPDXID: SPDXRef-item1103442
+FileChecksum: SHA1: 46ffdb8e2258670d58d83153960a832f8f72d159
+FileChecksum: MD5: be3f9d70a4d06787501e327764e536a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pangocairo.vcxproj
+SPDXID: SPDXRef-item1103444
+FileChecksum: SHA1: a0f8818917ccfd36d72b3171d455c8ecc0ae4c10
+FileChecksum: MD5: 454bcf42786f104836b6157c1d4fa2ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango-prebuild.props
+SPDXID: SPDXRef-item1103446
+FileChecksum: SHA1: 1f65dbb96026a35dac9f33957c8da9085eb0b09f
+FileChecksum: MD5: b83ae9aa967c7ebe84537ad2e27889d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/README.txt
+SPDXID: SPDXRef-item1103448
+FileChecksum: SHA1: 76414eba940ce8a2641c18dada6e7a7919013f9d
+FileChecksum: MD5: 77ac9c475dbb8650b10c196412ea91bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pangoft2.vcxproj
+SPDXID: SPDXRef-item1103450
+FileChecksum: SHA1: 786510550234bd32d13ea18104c739eb9020cd74
+FileChecksum: MD5: 3db8cbe4599481edc33a92a41c98842f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/Makefile.in
+SPDXID: SPDXRef-item1103452
+FileChecksum: SHA1: 67c0cb726dd80db078c2cc04c2d9dd22e7e9fe05
+FileChecksum: MD5: 22a5bccc3644c286e8d31fea4b9aa0d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango-install.vcxproj
+SPDXID: SPDXRef-item1103453
+FileChecksum: SHA1: 2f73b22a6444918fe82fb7539566b19e7f41874d
+FileChecksum: MD5: ab5a99639dc050548a365dee7189f6a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pangowin32.vcxproj
+SPDXID: SPDXRef-item1103454
+FileChecksum: SHA1: 7bac7e8c06c20520ab86c45ba1898b44abdb2333
+FileChecksum: MD5: 41b51054477c6730d3877b931f08352a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango-build-defines.props
+SPDXID: SPDXRef-item1103456
+FileChecksum: SHA1: 9458eeb4665fe4a7f43bb80dad42f9e5a2656627
+FileChecksum: MD5: 4ea130e8d8dc57456f8b019062fa8077
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/Makefile.am
+SPDXID: SPDXRef-item1103458
+FileChecksum: SHA1: bab3860a61086a7eb760f4aee523911d94441693
+FileChecksum: MD5: daf32ffd712608ef6c8af0e831606fa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pangocairo.vcxproj.filters
+SPDXID: SPDXRef-item1103459
+FileChecksum: SHA1: ba226e9512c5c36fc23264f34f925a714c15b735
+FileChecksum: MD5: ae83162329418422ba8f0812665750b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango-install-bin.props
+SPDXID: SPDXRef-item1103460
+FileChecksum: SHA1: b6868177510b6de502d943fcf74a390d2c675f8c
+FileChecksum: MD5: 59017719daeca4da767365cc1db8b082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango-ignore-fc.props
+SPDXID: SPDXRef-item1103462
+FileChecksum: SHA1: 6e233f4106397a8e0f64ce721bbbeeb1c6430240
+FileChecksum: MD5: 6bf85ae9523365874c77448bf4a361f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango-install.props
+SPDXID: SPDXRef-item1103463
+FileChecksum: SHA1: 725db71fa05eb00135c3a71cc51df67903507765
+FileChecksum: MD5: e1cec52b8d2b40b568b811ab2494c0e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pangoft2.vcxproj.filters
+SPDXID: SPDXRef-item1103464
+FileChecksum: SHA1: 2954a6e6ba05a1890a387f37eff439c02fb0f15f
+FileChecksum: MD5: 8ec0330e1ee497ee60bd2ba038a7b02a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango-install.vcxproj.filters
+SPDXID: SPDXRef-item1103466
+FileChecksum: SHA1: d1d7c51e11e3e25ec0ff51d6b97ee81ea32f10ab
+FileChecksum: MD5: fa69e2827a9d63fa68954b5827a800ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango.vcxproj.filters
+SPDXID: SPDXRef-item1103467
+FileChecksum: SHA1: e9f5a7f55c6167f7f9e4eeb2ca6ecc41f1cdab34
+FileChecksum: MD5: b25faf3ce9a637547a87c6211e707054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango.vcxproj
+SPDXID: SPDXRef-item1103468
+FileChecksum: SHA1: d2f856bb6e7e94b1d9850033629fa3a007fed38f
+FileChecksum: MD5: de6ad5ba20673ba50e9a27e6ed202880
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango-version-paths.props
+SPDXID: SPDXRef-item1103470
+FileChecksum: SHA1: 1d2fcaac82e0cafa0b1373ea60bb078927f49a91
+FileChecksum: MD5: 7b9a4bcc8b4d7a8cb44f393483624ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pangowin32.vcxproj.filters
+SPDXID: SPDXRef-item1103471
+FileChecksum: SHA1: 2706714830e8e4f6bc83c31771e65766ab7ec4a6
+FileChecksum: MD5: 6bde02d8808831767817290cc4b168a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs11/pango.sln
+SPDXID: SPDXRef-item1103473
+FileChecksum: SHA1: 73038aee579c1345f861c67bb172f3c3237d5c7b
+FileChecksum: MD5: ac60ddeb0c4c12154066f655fcbe6c6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/Makefile.in
+SPDXID: SPDXRef-item1103475
+FileChecksum: SHA1: 3bcd6f4da814268429c262d5eaefc672f38ca6f0
+FileChecksum: MD5: b7e5fe6949193343602ebe569a771fe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pangocairo.vcxproj
+SPDXID: SPDXRef-item1103478
+FileChecksum: SHA1: f3d41d806d78cf38382ba4c3ac1fae686d95cd17
+FileChecksum: MD5: 195ff75a1eac8f2898a9f8ed6560f82a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango-prebuild.props
+SPDXID: SPDXRef-item1103479
+FileChecksum: SHA1: 1f65dbb96026a35dac9f33957c8da9085eb0b09f
+FileChecksum: MD5: b83ae9aa967c7ebe84537ad2e27889d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/README.txt
+SPDXID: SPDXRef-item1103482
+FileChecksum: SHA1: 9ee6f69eca75cc636e74c5e60bc0c3cac33588d6
+FileChecksum: MD5: 7441c61568aa43dc20d3b15924b0a7b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pangoft2.vcxproj
+SPDXID: SPDXRef-item1103483
+FileChecksum: SHA1: 2c2b74853d3f822e6a8eedfdd6319f9687abb3a2
+FileChecksum: MD5: ebcbe66c34fe3ce313a44ff030d32c06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/Makefile.in
+SPDXID: SPDXRef-item1103485
+FileChecksum: SHA1: dd4dfc91b6e2b8727435a5003a34123def6ee92f
+FileChecksum: MD5: 5946650b69157890f321aa8c8b82717e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango-install.vcxproj
+SPDXID: SPDXRef-item1103487
+FileChecksum: SHA1: 8c93976a240755855d24c0eaf66e6459762d7859
+FileChecksum: MD5: 5aadbae70905157faea6cc649f69e32d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pangowin32.vcxproj
+SPDXID: SPDXRef-item1103488
+FileChecksum: SHA1: 904ecfa7d6d68524990a89cdf4f0ae70abcca08f
+FileChecksum: MD5: 87e9f9ae6cc2ca252490de4991f5a38d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango-build-defines.props
+SPDXID: SPDXRef-item1103489
+FileChecksum: SHA1: 9458eeb4665fe4a7f43bb80dad42f9e5a2656627
+FileChecksum: MD5: 4ea130e8d8dc57456f8b019062fa8077
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/Makefile.am
+SPDXID: SPDXRef-item1103491
+FileChecksum: SHA1: c95f61836ca99483eee4ea0ec18bc9b9d204464e
+FileChecksum: MD5: aa5f84c90ab898745abb9364cece34f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pangocairo.vcxproj.filters
+SPDXID: SPDXRef-item1103492
+FileChecksum: SHA1: ba226e9512c5c36fc23264f34f925a714c15b735
+FileChecksum: MD5: ae83162329418422ba8f0812665750b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango-install-bin.props
+SPDXID: SPDXRef-item1103493
+FileChecksum: SHA1: b6868177510b6de502d943fcf74a390d2c675f8c
+FileChecksum: MD5: 59017719daeca4da767365cc1db8b082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango-ignore-fc.props
+SPDXID: SPDXRef-item1103495
+FileChecksum: SHA1: 6e233f4106397a8e0f64ce721bbbeeb1c6430240
+FileChecksum: MD5: 6bf85ae9523365874c77448bf4a361f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango-install.props
+SPDXID: SPDXRef-item1103496
+FileChecksum: SHA1: 725db71fa05eb00135c3a71cc51df67903507765
+FileChecksum: MD5: e1cec52b8d2b40b568b811ab2494c0e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pangoft2.vcxproj.filters
+SPDXID: SPDXRef-item1103497
+FileChecksum: SHA1: 2954a6e6ba05a1890a387f37eff439c02fb0f15f
+FileChecksum: MD5: 8ec0330e1ee497ee60bd2ba038a7b02a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango-install.vcxproj.filters
+SPDXID: SPDXRef-item1103498
+FileChecksum: SHA1: d1d7c51e11e3e25ec0ff51d6b97ee81ea32f10ab
+FileChecksum: MD5: fa69e2827a9d63fa68954b5827a800ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango.vcxproj.filters
+SPDXID: SPDXRef-item1103499
+FileChecksum: SHA1: e9f5a7f55c6167f7f9e4eeb2ca6ecc41f1cdab34
+FileChecksum: MD5: b25faf3ce9a637547a87c6211e707054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango.vcxproj
+SPDXID: SPDXRef-item1103501
+FileChecksum: SHA1: 054a235f5307a546d5895a3f5988f45c9a387fcd
+FileChecksum: MD5: 1aafa16e36187df4d155d4e819956ff6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango-version-paths.props
+SPDXID: SPDXRef-item1103502
+FileChecksum: SHA1: 4cf58578f23d0d1331699b53828ce226213e3aec
+FileChecksum: MD5: 79a89b1537da272b03cc0abda8066d70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pangowin32.vcxproj.filters
+SPDXID: SPDXRef-item1103503
+FileChecksum: SHA1: 2706714830e8e4f6bc83c31771e65766ab7ec4a6
+FileChecksum: MD5: 6bde02d8808831767817290cc4b168a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs15/pango.sln
+SPDXID: SPDXRef-item1103506
+FileChecksum: SHA1: 95dc773618c6b77bbbe88057e09bfa9cf63792bd
+FileChecksum: MD5: 91ed89176ba78c5245570ed45a98f79c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/Makefile.am
+SPDXID: SPDXRef-item1103508
+FileChecksum: SHA1: f1d8e216d28630ed6f6b8a9a11590c5f02b7e15b
+FileChecksum: MD5: a4797f5bb272d6f76b4ca9a6e4ba0d89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pangocairo.vcxproj
+SPDXID: SPDXRef-item1103510
+FileChecksum: SHA1: fc8ba97fb20851070629ae43d389fe0bd9feb0ff
+FileChecksum: MD5: 86735bcdd1793da171c0c27037f29d04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango-prebuild.props
+SPDXID: SPDXRef-item1103511
+FileChecksum: SHA1: 1f65dbb96026a35dac9f33957c8da9085eb0b09f
+FileChecksum: MD5: b83ae9aa967c7ebe84537ad2e27889d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/README.txt
+SPDXID: SPDXRef-item1103513
+FileChecksum: SHA1: c35cc3dc084952c4fd45f7ddbcca26409a0ce383
+FileChecksum: MD5: 6f69a5a7fcd3187fc69076e7c65e9ea1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pangoft2.vcxproj
+SPDXID: SPDXRef-item1103514
+FileChecksum: SHA1: 985fb7fee32fd401a1abcfee55adc26196a5f921
+FileChecksum: MD5: 19c8743a0847a998c77bfa082a4dfb4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/Makefile.in
+SPDXID: SPDXRef-item1103516
+FileChecksum: SHA1: 8c271fc76b375b5e0026ef7b89003392673dce08
+FileChecksum: MD5: 4b82fd6fa001f68bc5b419986ec5f4ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango-install.vcxproj
+SPDXID: SPDXRef-item1103518
+FileChecksum: SHA1: 6bb0fad69fdb4b32dcead11f03ba03e0e0c81780
+FileChecksum: MD5: 0054e18369bfabafaadac66fccef3516
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pangowin32.vcxproj
+SPDXID: SPDXRef-item1103519
+FileChecksum: SHA1: 1df15b58f1e89168fa3a72c763a016266d97e7a3
+FileChecksum: MD5: b3afd854f6434f244f861ad92dca7adf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango-build-defines.props
+SPDXID: SPDXRef-item1103520
+FileChecksum: SHA1: 9458eeb4665fe4a7f43bb80dad42f9e5a2656627
+FileChecksum: MD5: 4ea130e8d8dc57456f8b019062fa8077
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/Makefile.am
+SPDXID: SPDXRef-item1103522
+FileChecksum: SHA1: 45f3c3257134695088ce4ecdfcb956ed94634a69
+FileChecksum: MD5: 317c0ab1b29b0065be79528228fe348c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pangocairo.vcxproj.filters
+SPDXID: SPDXRef-item1103523
+FileChecksum: SHA1: ba226e9512c5c36fc23264f34f925a714c15b735
+FileChecksum: MD5: ae83162329418422ba8f0812665750b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango-install-bin.props
+SPDXID: SPDXRef-item1103524
+FileChecksum: SHA1: b6868177510b6de502d943fcf74a390d2c675f8c
+FileChecksum: MD5: 59017719daeca4da767365cc1db8b082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango-ignore-fc.props
+SPDXID: SPDXRef-item1103525
+FileChecksum: SHA1: 6e233f4106397a8e0f64ce721bbbeeb1c6430240
+FileChecksum: MD5: 6bf85ae9523365874c77448bf4a361f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango-install.props
+SPDXID: SPDXRef-item1103527
+FileChecksum: SHA1: 725db71fa05eb00135c3a71cc51df67903507765
+FileChecksum: MD5: e1cec52b8d2b40b568b811ab2494c0e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pangoft2.vcxproj.filters
+SPDXID: SPDXRef-item1103528
+FileChecksum: SHA1: 2954a6e6ba05a1890a387f37eff439c02fb0f15f
+FileChecksum: MD5: 8ec0330e1ee497ee60bd2ba038a7b02a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango-install.vcxproj.filters
+SPDXID: SPDXRef-item1103529
+FileChecksum: SHA1: d1d7c51e11e3e25ec0ff51d6b97ee81ea32f10ab
+FileChecksum: MD5: fa69e2827a9d63fa68954b5827a800ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango.vcxproj.filters
+SPDXID: SPDXRef-item1103530
+FileChecksum: SHA1: e9f5a7f55c6167f7f9e4eeb2ca6ecc41f1cdab34
+FileChecksum: MD5: b25faf3ce9a637547a87c6211e707054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango.vcxproj
+SPDXID: SPDXRef-item1103532
+FileChecksum: SHA1: 1f870e02f31247408599d036256942dc26a5ac28
+FileChecksum: MD5: 4d934682b77a3407cbebdc7827ce939d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango-version-paths.props
+SPDXID: SPDXRef-item1103533
+FileChecksum: SHA1: 7dbce8159f01c5522a1c69747993d8ecce11be00
+FileChecksum: MD5: 6652e82de0f59e423e92fd054f5eea88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pangowin32.vcxproj.filters
+SPDXID: SPDXRef-item1103534
+FileChecksum: SHA1: 2706714830e8e4f6bc83c31771e65766ab7ec4a6
+FileChecksum: MD5: 6bde02d8808831767817290cc4b168a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs12/pango.sln
+SPDXID: SPDXRef-item1103537
+FileChecksum: SHA1: 852cc4d15712e60c31264dff5a2ac2e17ea942a0
+FileChecksum: MD5: 8443ed4cccb7634566c22dc9b384621a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/PangoCairo_1_0_gir_list
+SPDXID: SPDXRef-item1103538
+FileChecksum: SHA1: a19d51d80ad21e0b8a4be82b075976b5b25dbbd8
+FileChecksum: MD5: 3f3529fa2b09cfabd7bd1cd2516f703f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango.vcprojin
+SPDXID: SPDXRef-item1103541
+FileChecksum: SHA1: 2668c61931da5e99e205c0faa524847ea1f878c7
+FileChecksum: MD5: 2111b7b55cd7c4c5edc1e6f65fff5f01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/README.txt
+SPDXID: SPDXRef-item1103543
+FileChecksum: SHA1: bbe74451ab87eb8f97f7baf2dadd1e6cdc95838b
+FileChecksum: MD5: 7d8727d27d4da931c1c797a55224a2cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pangowin32.vcprojin
+SPDXID: SPDXRef-item1103545
+FileChecksum: SHA1: 8829b4aefcbcfc6219384777762d6e7bdeffd405
+FileChecksum: MD5: ead33246c4171f8b71a5955624606f90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/stdint.h
+SPDXID: SPDXRef-item1103546
+FileChecksum: SHA1: 22786f082aced1828dbde27868f9f1a542b20695
+FileChecksum: MD5: 01f903a5166b1aa997f773d40a08c799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/Makefile.in
+SPDXID: SPDXRef-item1103548
+FileChecksum: SHA1: b436f382bc2ef1dc402b0885ab4b0e1c99190d37
+FileChecksum: MD5: e5cf008217ff90b29475c3eb8cbca63f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-install.vspropsin
+SPDXID: SPDXRef-item1103550
+FileChecksum: SHA1: e86146271ba6d6131bc3628e334dcc4777b63fb6
+FileChecksum: MD5: 19145dc5709b6d119132358f220970c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pangoft2.vcprojin
+SPDXID: SPDXRef-item1103551
+FileChecksum: SHA1: 9b18d491ef4e44291aae16687ebec86561de550e
+FileChecksum: MD5: 9e834fbe52c4744ba72e0e578a9f18c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pangocairo.vcprojin
+SPDXID: SPDXRef-item1103553
+FileChecksum: SHA1: 600f36a5b0c476b512944bf512833944ef841210
+FileChecksum: MD5: 88f27621c0884e4b7b189d12f5d6af0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/Makefile.am
+SPDXID: SPDXRef-item1103555
+FileChecksum: SHA1: 7ed7b57f5a8b0437249d29dfc40e54cf1543715e
+FileChecksum: MD5: e0361e063bcf61ffc0f68075ecc53525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-version-paths.vsprops
+SPDXID: SPDXRef-item1103556
+FileChecksum: SHA1: b590cea77244fd64b42fe24daaf7e21ea93f9edf
+FileChecksum: MD5: fd2b324d8ac1b1120fad5920b7804954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-install.vcproj
+SPDXID: SPDXRef-item1103557
+FileChecksum: SHA1: 8e52c1e57da8e82304735cfefc03cf7dd57c0ca9
+FileChecksum: MD5: 4ea1deafe77a695a14ccb375021baf24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango.vcproj
+SPDXID: SPDXRef-item1103559
+FileChecksum: SHA1: 90367e6349b2e926d47cedd4297dbe29faeefcc5
+FileChecksum: MD5: b4f73184ea599bf5d166e7bd1428cb62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pangocairo.vcproj
+SPDXID: SPDXRef-item1103560
+FileChecksum: SHA1: f22aa96a071b53d0f01ba687102b31c84c0ebbdb
+FileChecksum: MD5: 2efb08842e8dbae1b8937c8838506748
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-version-paths.vsprops.in
+SPDXID: SPDXRef-item1103561
+FileChecksum: SHA1: e83458d006ed0659ad73d96268e98eb8c1a0a044
+FileChecksum: MD5: bc51c822bda9c63dd22296fd8558f644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-ignore-fc.vsprops
+SPDXID: SPDXRef-item1103563
+FileChecksum: SHA1: b4f85eba5720f16cd772ba2275809929a7d8114e
+FileChecksum: MD5: 00b38064d156c3e0b1f8fc2434439aed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-install-bin.vsprops
+SPDXID: SPDXRef-item1103564
+FileChecksum: SHA1: 2a533359437d3a3cdbba9307b5a6e14a94f7bc4a
+FileChecksum: MD5: 254ccb95697990584a85d4d01040d7bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pangowin32.vcproj
+SPDXID: SPDXRef-item1103565
+FileChecksum: SHA1: dca774a3020744893473dc21d0d99212cf3d238b
+FileChecksum: MD5: d72d16b26d71ea31c33b00c08b174cf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango.sln
+SPDXID: SPDXRef-item1103568
+FileChecksum: SHA1: a8b57fd40ee6c7b2ebff967b7d5784934bd1564c
+FileChecksum: MD5: a41c32b4bb42be32dd3c397e6ef5c0a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pangoft2.vcproj
+SPDXID: SPDXRef-item1103569
+FileChecksum: SHA1: 28cd8d8f6fffac52d377e422f871f8de1a5a0e9b
+FileChecksum: MD5: d15fe3495911400602adc04efc00c2ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-build-defines.vsprops
+SPDXID: SPDXRef-item1103570
+FileChecksum: SHA1: 5242ce0f23153907020a219f230d5760660e4971
+FileChecksum: MD5: 1e44f98fee4afa2904f7f95f5c12c984
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-install.vsprops
+SPDXID: SPDXRef-item1103572
+FileChecksum: SHA1: 22ac2b32a2fd06cbbc8320bcf59b0613a952a9e5
+FileChecksum: MD5: c83e9f47b1480b3b285c2947d649bc5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs9/pango-prebuild.vsprops
+SPDXID: SPDXRef-item1103574
+FileChecksum: SHA1: 8a5f89bf4c3bc33662d3d2167ce648d994e19298
+FileChecksum: MD5: fe87af4dc3c103e2beb22a2d61079d9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/pango-introspection-msvc.mak
+SPDXID: SPDXRef-item1103576
+FileChecksum: SHA1: 36eecf9864a386b828870c34b30f579670a2804b
+FileChecksum: MD5: 4f591ca6528347d4088af87c99a589fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pangocairo.vcxproj
+SPDXID: SPDXRef-item1103578
+FileChecksum: SHA1: 71b465cced0533636f2828ff6f5b55108e86feb5
+FileChecksum: MD5: 059af6acf83cc05f5eb9454a142a19fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango-prebuild.props
+SPDXID: SPDXRef-item1103579
+FileChecksum: SHA1: 1f65dbb96026a35dac9f33957c8da9085eb0b09f
+FileChecksum: MD5: b83ae9aa967c7ebe84537ad2e27889d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/README.txt
+SPDXID: SPDXRef-item1103581
+FileChecksum: SHA1: 6c638681f9475986db906afac3948455e6141712
+FileChecksum: MD5: daccd44d87b0c5630ee3c5f24c6a3e94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pangoft2.vcxproj
+SPDXID: SPDXRef-item1103583
+FileChecksum: SHA1: ede46bf9f02d6a599ca18ab599e7ac1010c4a832
+FileChecksum: MD5: 282f6a5361681980e858d272c8d98f82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/Makefile.in
+SPDXID: SPDXRef-item1103584
+FileChecksum: SHA1: 20d833c5454d99ff3384e73f712b8cd9fd491680
+FileChecksum: MD5: 0487ca227c5c39bde52cad0bdc96d001
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango-install.vcxproj
+SPDXID: SPDXRef-item1103586
+FileChecksum: SHA1: d2c447fe180497ea9da8641b5d1c6f866786e095
+FileChecksum: MD5: 1df1effd32ab1ed97aed46bbb8b03cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pangowin32.vcxproj
+SPDXID: SPDXRef-item1103587
+FileChecksum: SHA1: f4394fb7ae96757a172451b6c3c4767137e798a9
+FileChecksum: MD5: cd41651bb8330a911eb858bc0fa5980e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango-build-defines.props
+SPDXID: SPDXRef-item1103588
+FileChecksum: SHA1: 9458eeb4665fe4a7f43bb80dad42f9e5a2656627
+FileChecksum: MD5: 4ea130e8d8dc57456f8b019062fa8077
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/Makefile.am
+SPDXID: SPDXRef-item1103589
+FileChecksum: SHA1: be94e2e4a050f21b94ba735fc3cfaa391ebc5745
+FileChecksum: MD5: 6c6121d74bd24e1ca23f04f2b9797fda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pangocairo.vcxproj.filters
+SPDXID: SPDXRef-item1103591
+FileChecksum: SHA1: ba226e9512c5c36fc23264f34f925a714c15b735
+FileChecksum: MD5: ae83162329418422ba8f0812665750b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango-install-bin.props
+SPDXID: SPDXRef-item1103592
+FileChecksum: SHA1: b6868177510b6de502d943fcf74a390d2c675f8c
+FileChecksum: MD5: 59017719daeca4da767365cc1db8b082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango-ignore-fc.props
+SPDXID: SPDXRef-item1103593
+FileChecksum: SHA1: 6e233f4106397a8e0f64ce721bbbeeb1c6430240
+FileChecksum: MD5: 6bf85ae9523365874c77448bf4a361f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango-install.props
+SPDXID: SPDXRef-item1103594
+FileChecksum: SHA1: 725db71fa05eb00135c3a71cc51df67903507765
+FileChecksum: MD5: e1cec52b8d2b40b568b811ab2494c0e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pangoft2.vcxproj.filters
+SPDXID: SPDXRef-item1103595
+FileChecksum: SHA1: 2954a6e6ba05a1890a387f37eff439c02fb0f15f
+FileChecksum: MD5: 8ec0330e1ee497ee60bd2ba038a7b02a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango-install.vcxproj.filters
+SPDXID: SPDXRef-item1103596
+FileChecksum: SHA1: d1d7c51e11e3e25ec0ff51d6b97ee81ea32f10ab
+FileChecksum: MD5: fa69e2827a9d63fa68954b5827a800ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango.vcxproj.filters
+SPDXID: SPDXRef-item1103597
+FileChecksum: SHA1: e9f5a7f55c6167f7f9e4eeb2ca6ecc41f1cdab34
+FileChecksum: MD5: b25faf3ce9a637547a87c6211e707054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango.vcxproj
+SPDXID: SPDXRef-item1103599
+FileChecksum: SHA1: 14a7262ca121508c10bfe38bdb84de981eedb832
+FileChecksum: MD5: 5170d7499c25bf551c3122748b67856c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango-version-paths.props
+SPDXID: SPDXRef-item1103600
+FileChecksum: SHA1: 2cffcecc781981b4b04e0058036d02cf055b8310
+FileChecksum: MD5: fc4b75507c83092016a8bca18d4cb216
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pangowin32.vcxproj.filters
+SPDXID: SPDXRef-item1103601
+FileChecksum: SHA1: 2706714830e8e4f6bc83c31771e65766ab7ec4a6
+FileChecksum: MD5: 6bde02d8808831767817290cc4b168a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs14/pango.sln
+SPDXID: SPDXRef-item1103604
+FileChecksum: SHA1: 0113490339f6a8eb99dd569bf8572a7def588d84
+FileChecksum: MD5: a6df415d3a92d6b1e134ca0259a36597
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/Makefile.msvcproj
+SPDXID: SPDXRef-item1103605
+FileChecksum: SHA1: 52a11890537d5da37a3e52a9f84298eca82965fa
+FileChecksum: MD5: c9539ea8686ffcf3b9b9a3563f1aa674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangocairo.vcxproj
+SPDXID: SPDXRef-item1103608
+FileChecksum: SHA1: 8af8e578abdc48acfdbf075fb4dd2bd57a18bc88
+FileChecksum: MD5: 481bfff24d11eec84d4d6928ba8e4b18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-prebuild.props
+SPDXID: SPDXRef-item1103609
+FileChecksum: SHA1: 1f65dbb96026a35dac9f33957c8da9085eb0b09f
+FileChecksum: MD5: b83ae9aa967c7ebe84537ad2e27889d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/README.txt
+SPDXID: SPDXRef-item1103611
+FileChecksum: SHA1: e07e7511f98e717bdd95a9ee3faae39d57395a86
+FileChecksum: MD5: 15babb40edbdbc94ae2b0dd2e06739b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangoft2.vcxproj
+SPDXID: SPDXRef-item1103613
+FileChecksum: SHA1: 28de11b6231ff75420301abf43f7fb5c466db733
+FileChecksum: MD5: 412da17deec64fee19eb9536b82a3be1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangoft2.vcxprojin
+SPDXID: SPDXRef-item1103614
+FileChecksum: SHA1: 28e8e5b5443cd48b3c1eb59b9ebce11e36fcc1b1
+FileChecksum: MD5: b132fc4148a416097b676e46bdaa5f13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/Makefile.in
+SPDXID: SPDXRef-item1103616
+FileChecksum: SHA1: c942ddee7028caeb8ed8b79ac3f6d218127f2c0d
+FileChecksum: MD5: ca90e955af9a133a6d240d5a539d4727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-install.vcxproj
+SPDXID: SPDXRef-item1103617
+FileChecksum: SHA1: ea0d6a59bc9cfe3e21098446674a03991fe3323e
+FileChecksum: MD5: 609e6f8c540d1e7442fbb9281d9ad354
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangowin32.vcxproj
+SPDXID: SPDXRef-item1103619
+FileChecksum: SHA1: 126978c6e7509364074dab684378983388e5dbc8
+FileChecksum: MD5: 7e71be6549be503a6a4708cc7664e2a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-build-defines.props
+SPDXID: SPDXRef-item1103620
+FileChecksum: SHA1: 9458eeb4665fe4a7f43bb80dad42f9e5a2656627
+FileChecksum: MD5: 4ea130e8d8dc57456f8b019062fa8077
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangocairo.vcxproj.filtersin
+SPDXID: SPDXRef-item1103621
+FileChecksum: SHA1: 58b33d5fbb6e4db816a4e6b9b9ee72e130ef0459
+FileChecksum: MD5: 81f70df5bcfd19bc9b80778259a1708b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-install.propsin
+SPDXID: SPDXRef-item1103622
+FileChecksum: SHA1: d1e3966b60d67889f5374b6e6caaf0defe114399
+FileChecksum: MD5: 84abee4caa6a800c88e3e30db723bebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/Makefile.am
+SPDXID: SPDXRef-item1103624
+FileChecksum: SHA1: d9e3c58dd73bcafd6e42e0415138745e593419ce
+FileChecksum: MD5: 0d1218c4773ecfd1a2cab4c43047a895
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangocairo.vcxproj.filters
+SPDXID: SPDXRef-item1103625
+FileChecksum: SHA1: ba226e9512c5c36fc23264f34f925a714c15b735
+FileChecksum: MD5: ae83162329418422ba8f0812665750b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-install-bin.props
+SPDXID: SPDXRef-item1103627
+FileChecksum: SHA1: b6868177510b6de502d943fcf74a390d2c675f8c
+FileChecksum: MD5: 59017719daeca4da767365cc1db8b082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-ignore-fc.props
+SPDXID: SPDXRef-item1103628
+FileChecksum: SHA1: 6e233f4106397a8e0f64ce721bbbeeb1c6430240
+FileChecksum: MD5: 6bf85ae9523365874c77448bf4a361f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangocairo.vcxprojin
+SPDXID: SPDXRef-item1103629
+FileChecksum: SHA1: 26503218f4afda395e7590d4f0a0c0bebde57411
+FileChecksum: MD5: 303950b4d07ff0515ff52baceb1b74c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-install.props
+SPDXID: SPDXRef-item1103630
+FileChecksum: SHA1: 725db71fa05eb00135c3a71cc51df67903507765
+FileChecksum: MD5: e1cec52b8d2b40b568b811ab2494c0e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangoft2.vcxproj.filters
+SPDXID: SPDXRef-item1103631
+FileChecksum: SHA1: 2954a6e6ba05a1890a387f37eff439c02fb0f15f
+FileChecksum: MD5: 8ec0330e1ee497ee60bd2ba038a7b02a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-install.vcxproj.filters
+SPDXID: SPDXRef-item1103632
+FileChecksum: SHA1: d1d7c51e11e3e25ec0ff51d6b97ee81ea32f10ab
+FileChecksum: MD5: fa69e2827a9d63fa68954b5827a800ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-version-paths.props.in
+SPDXID: SPDXRef-item1103634
+FileChecksum: SHA1: 85e932134e0a8f759ec50f71936187dca3d8b3ed
+FileChecksum: MD5: 66f3e2fed35bb363d129ad91e970c92c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango.vcxprojin
+SPDXID: SPDXRef-item1103635
+FileChecksum: SHA1: 5833434e4adc2950aac9ffe1a512e10e5bfb4a6c
+FileChecksum: MD5: c8f9b2f0433270778dbc1f5f68c4fa62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango.vcxproj.filtersin
+SPDXID: SPDXRef-item1103636
+FileChecksum: SHA1: 418ca3a02ea62c1f18201e4643a8c8183cd901dc
+FileChecksum: MD5: a7e1c4bf1d2636fbd5d350b3e8321a4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango.vcxproj.filters
+SPDXID: SPDXRef-item1103638
+FileChecksum: SHA1: e9f5a7f55c6167f7f9e4eeb2ca6ecc41f1cdab34
+FileChecksum: MD5: b25faf3ce9a637547a87c6211e707054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango.vcxproj
+SPDXID: SPDXRef-item1103639
+FileChecksum: SHA1: ae434cf804b0feb41b980a47a9cc697f8e33515f
+FileChecksum: MD5: 6380f6811c81e414d70ed62325436e20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango-version-paths.props
+SPDXID: SPDXRef-item1103641
+FileChecksum: SHA1: e29822818edb41eded96b003ce109493cd23bdbf
+FileChecksum: MD5: 029c822a781d4fd345b9bc6cc2f4af0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangowin32.vcxproj.filters
+SPDXID: SPDXRef-item1103642
+FileChecksum: SHA1: 2706714830e8e4f6bc83c31771e65766ab7ec4a6
+FileChecksum: MD5: 6bde02d8808831767817290cc4b168a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangowin32.vcxproj.filtersin
+SPDXID: SPDXRef-item1103643
+FileChecksum: SHA1: 29f27418a32a2f56ffabbdf9316594c38dd66fcb
+FileChecksum: MD5: 2b887d16efe1d996332d5276d5a708fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pango.sln
+SPDXID: SPDXRef-item1103645
+FileChecksum: SHA1: f3d5199ee4bef3035343fcc70efa1edc8e18437d
+FileChecksum: MD5: 3351b77dab7a606b6506cd3a24fce5bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangoft2.vcxproj.filtersin
+SPDXID: SPDXRef-item1103646
+FileChecksum: SHA1: 053d4d40d7e24f92f7ee53565036ff4196180327
+FileChecksum: MD5: c777aaf36878760521a1f96b1ae6724a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/vs10/pangowin32.vcxprojin
+SPDXID: SPDXRef-item1103648
+FileChecksum: SHA1: a071d687158b5d5b896dd08d6b2c4c243afcea14
+FileChecksum: MD5: 98a24922baaa018335f3958b1b70dc16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/pangopc.py
+SPDXID: SPDXRef-item1103649
+FileChecksum: SHA1: f6fa8cefb9f4512d08c34cd3ab8dc342254df77d
+FileChecksum: MD5: 448a694c5c40888d81f99f96790c8364
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/pc_base.py
+SPDXID: SPDXRef-item1103650
+FileChecksum: SHA1: 859dc20189cb76cf6e616ee71892c53ccc390607
+FileChecksum: MD5: 649b3cd4aede261b94b9b6d4aae74d5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/win32/unistd.h
+SPDXID: SPDXRef-item1103652
+FileChecksum: SHA1: c30cf15b55fc929fc4643cc030c50cc8e2f6d1ad
+FileChecksum: MD5: 2d91079b88f0be784efda7d132944d29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/applied-patches
+SPDXID: SPDXRef-item1103655
+FileChecksum: SHA1: 7b1757548b17bd4fe125e5b883abf3299b919fc5
+FileChecksum: MD5: 5bfe43c5413cb85ce6a6b87e84dfc479
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/.quilt_series
+SPDXID: SPDXRef-item1103656
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/.version
+SPDXID: SPDXRef-item1103658
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/0001-Enforce-recreation-of-docs-pango.types-it-is-build-c.patch/.timestamp
+SPDXID: SPDXRef-item1103660
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/0001-Enforce-recreation-of-docs-pango.types-it-is-build-c.patch/docs/Makefile.am
+SPDXID: SPDXRef-item1103664
+FileChecksum: SHA1: 12250013b0cabde513b174b3358baf90e6553530
+FileChecksum: MD5: f7ec630c882334a85cfb0d537497231b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/0001-Enforce-recreation-of-docs-pango.types-it-is-build-c.patch/docs/pango.types
+SPDXID: SPDXRef-item1103665
+FileChecksum: SHA1: 3568102f44bddf23aeef3fe7d9301d2f3a707b80
+FileChecksum: MD5: 4bff5962c819591bf047d1c97145dfa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/0001-Drop-introspection-macros-from-acinclude.m4.patch/acinclude.m4
+SPDXID: SPDXRef-item1103669
+FileChecksum: SHA1: 6ff2d907fbe38f32bc1886d6cc3cabac41b9de19
+FileChecksum: MD5: ccddf7eadcd247d18917a519930c3ab4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/0001-Drop-introspection-macros-from-acinclude.m4.patch/.timestamp
+SPDXID: SPDXRef-item1103670
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/.pc/.quilt_patches
+SPDXID: SPDXRef-item1103671
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pangoft2.pc.in
+SPDXID: SPDXRef-item1103673
+FileChecksum: SHA1: 6ff1831ea810901a143b5ddc94717e00c99038c1
+FileChecksum: MD5: b5123e7a62e452c0377ed3826b3ee1a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/configure.ac
+SPDXID: SPDXRef-item1103675
+FileChecksum: SHA1: 8b448245313aa001058c24898c00bbd80626ada2
+FileChecksum: MD5: 2404b869328679739d1dd53b17efe5eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tools/gen-color-table.pl
+SPDXID: SPDXRef-item1103678
+FileChecksum: SHA1: 23bada83863bd98e62c6de2135e1dadfb29226cb
+FileChecksum: MD5: ab467c9b0376eaae08e608b338e919c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tools/gen-script-for-lang.c
+SPDXID: SPDXRef-item1103680
+FileChecksum: SHA1: ae1acd5f16c37d129483e073a932ce80d12a1da5
+FileChecksum: MD5: f95e5434893c662f4016d6fc3ce0935d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tools/Makefile.in
+SPDXID: SPDXRef-item1103682
+FileChecksum: SHA1: 4cc7cd84a4e8daaf926bd16a088c8b6d9ff75f68
+FileChecksum: MD5: bf6af8407f9aa57038a00b7a03d11010
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tools/rgb.txt
+SPDXID: SPDXRef-item1103684
+FileChecksum: SHA1: c9a32152d20866966c0fe61f1c77d76a1b6b4103
+FileChecksum: MD5: 2a34a40eae35042f0ed53b6c25ca5251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/tools/Makefile.am
+SPDXID: SPDXRef-item1103685
+FileChecksum: SHA1: de82be760b390d94ae8a2be3089f65d3605cb66e
+FileChecksum: MD5: e807509ba61f187b18eb27e52bb8d52a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/layout.eps
+SPDXID: SPDXRef-item1103688
+FileChecksum: SHA1: b6df7bd90693de9ad7199c017401c5a9fb0bfc4d
+FileChecksum: MD5: c8ac8cfb45c7cfda09a90727da94c7a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/check.docs
+SPDXID: SPDXRef-item1103689
+FileChecksum: SHA1: 96aff639bc6175cd8d33a0c85b5848c0df9ecff3
+FileChecksum: MD5: a5167ecef90411e0f4b2ce1704c14e87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/pango-sections.txt
+SPDXID: SPDXRef-item1103691
+FileChecksum: SHA1: e0fcafbad1ee33f350c1f08ff15888ddb0101639
+FileChecksum: MD5: bce15377faba2f9a5c46e71d91f142d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/version.xml
+SPDXID: SPDXRef-item1103692
+FileChecksum: SHA1: 0228834135e6d449fda48cb3410e093dde497a29
+FileChecksum: MD5: d322a0ba84f9d20d435bf2facdc967be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/layout.fig
+SPDXID: SPDXRef-item1103693
+FileChecksum: SHA1: e5c4786160c135b3f61ce2ae5e443cdca3ade259
+FileChecksum: MD5: 57722f905e96fc092e89c795fdaa6981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/Makefile.in
+SPDXID: SPDXRef-item1103696
+FileChecksum: SHA1: 7a45ae8f4aff947aa776431cd868d3ce3fff34ba
+FileChecksum: MD5: 606e3f8ea0b01e78148d8ec66315d627
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/layout.gif
+SPDXID: SPDXRef-item1103697
+FileChecksum: SHA1: 66a725bea07c7abdedd9284fdaca7605b0e30274
+FileChecksum: MD5: 7920788a8e2632a40704f4760819dc26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/pango-overrides.txt
+SPDXID: SPDXRef-item1103698
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/pango_markup.sgml
+SPDXID: SPDXRef-item1103699
+FileChecksum: SHA1: 4ecc0c703060c574c19030dee2fd8f6e9e1f864b
+FileChecksum: MD5: 11d449b893f3e134c1b9ac188ed904b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/Makefile.am
+SPDXID: SPDXRef-item1103701
+FileChecksum: SHA1: f30c69a2316a7ed2d2e8e7fa03f51cf0ae57206c
+FileChecksum: MD5: f972f342abdfeb0a32024356cba09a0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/pango-docs.sgml
+SPDXID: SPDXRef-item1103703
+FileChecksum: SHA1: 6022a35295e1005320633266446f6625385c7480
+FileChecksum: MD5: 46ef9ac7eb855f2b58c0c4e029eb5710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/version.xml.in
+SPDXID: SPDXRef-item1103704
+FileChecksum: SHA1: 3a2bc2d461946d164ac218b2c73e97ae8e423d98
+FileChecksum: MD5: 6198a0d22755f8b7543d761499378045
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Version-Checking.html
+SPDXID: SPDXRef-item1103707
+FileChecksum: SHA1: c380484dee6be85585ad0675f85a7f2c81d9478d
+FileChecksum: MD5: 3fc3b7a137a1d72ff083f3a47be0e045
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/PangoEngineShape.html
+SPDXID: SPDXRef-item1103708
+FileChecksum: SHA1: 84b90e1a6cb203238c4a4850c2ba347e827481df
+FileChecksum: MD5: 4204ae5e184cbd4589ada1057174d73f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-CoreText-Fonts.html
+SPDXID: SPDXRef-item1103709
+FileChecksum: SHA1: 516274cf760f10fcbc9b5e0d7bc0dafcb678731d
+FileChecksum: MD5: 2c706e0706af638875f8c69dcb56bd8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/left-insensitive.png
+SPDXID: SPDXRef-item1103710
+FileChecksum: SHA1: 6484f6847b39a92fb4f0bb92babafa93152f4e8d
+FileChecksum: MD5: b992596e1683a40d89d15dc8dcb58c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/up-insensitive.png
+SPDXID: SPDXRef-item1103711
+FileChecksum: SHA1: 092bed6184542cb2e2419399adc4c06d6e3319be
+FileChecksum: MD5: 97c742a19428c428c552a380ad9fde9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Layout-Objects.html
+SPDXID: SPDXRef-item1103713
+FileChecksum: SHA1: 949ffa6069815ad44012971df85f09d264ea3f51
+FileChecksum: MD5: 542249f38c1ea9306d591768f0e78a90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Engines.html
+SPDXID: SPDXRef-item1103714
+FileChecksum: SHA1: 85dc87ca5facd00399f3c449532fd7cd7d05f9b6
+FileChecksum: MD5: 9fcee82fa1cd73f685c54913e15c15fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/annotation-glossary.html
+SPDXID: SPDXRef-item1103715
+FileChecksum: SHA1: 1933b436493cba5cd7990f164af1a689ed92ef85
+FileChecksum: MD5: 51798517a42b517730dba259ed76f5ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/PangoFcFontMap.html
+SPDXID: SPDXRef-item1103717
+FileChecksum: SHA1: 0d6d9b0b14fd37dcb232f865577253743bb2a274
+FileChecksum: MD5: 0248fa1047e2415e40378bb8fe5aa777
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango.html
+SPDXID: SPDXRef-item1103718
+FileChecksum: SHA1: ca6d1fc1c145d8d7c52973a67c15a6f9caa7bca8
+FileChecksum: MD5: 58ac80b2175795aa92be48113b99f23b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Vertical-Text.html
+SPDXID: SPDXRef-item1103719
+FileChecksum: SHA1: a585d69505d04f866154feef1e7884f2e88ab21b
+FileChecksum: MD5: ecbc8b1498a59c8ef9cd3a5abac3932d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-OpenType-Font-Handling.html
+SPDXID: SPDXRef-item1103721
+FileChecksum: SHA1: b0cd43454c966c1f8a418e449b3038b025a2f0b0
+FileChecksum: MD5: 9c44e0ce530cb156dec05205767baf7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/lowlevel.html
+SPDXID: SPDXRef-item1103723
+FileChecksum: SHA1: a254624ab8bf63adaf596ee3cebbd3718d208438
+FileChecksum: MD5: 151dc192d398105705ef21e46dd61e24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/PangoEngineLang.html
+SPDXID: SPDXRef-item1103724
+FileChecksum: SHA1: bf0c0478108aba2378f786c14fa7b0d183c20843
+FileChecksum: MD5: 05303f93e76dd515c2d45a1fa8b01c4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-hierarchy.html
+SPDXID: SPDXRef-item1103725
+FileChecksum: SHA1: 3c3b776bc429417e3b87608bbde37b68b0f4e9c4
+FileChecksum: MD5: e8b9110eb04ff03ffc309958b8d7ef60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/layout.gif
+SPDXID: SPDXRef-item1103727
+FileChecksum: SHA1: 66a725bea07c7abdedd9284fdaca7605b0e30274
+FileChecksum: MD5: 7920788a8e2632a40704f4760819dc26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/index.html
+SPDXID: SPDXRef-item1103728
+FileChecksum: SHA1: e6b4499b809a3c05acae3d618ea9d18b1bc56c4a
+FileChecksum: MD5: 719d06a7207e10deec968e8db827b2e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/PangoMarkupFormat.html
+SPDXID: SPDXRef-item1103729
+FileChecksum: SHA1: 76b5b77b94bcf53e2ac5e255511804f845f3ac11
+FileChecksum: MD5: 398f58e49ec19861a12f95faefaa15a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango.devhelp2
+SPDXID: SPDXRef-item1103731
+FileChecksum: SHA1: 37107935ce604493a1c4c1a8e5da60e726ff9d4e
+FileChecksum: MD5: 0a141a40495bc44c065e85b2e9c79d42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Coverage-Maps.html
+SPDXID: SPDXRef-item1103733
+FileChecksum: SHA1: e5f939cd2d35f6977f3f9ffaa3b57a57e12e1c36
+FileChecksum: MD5: ab599768b248780e62780fd971e86a03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Glyph-Storage.html
+SPDXID: SPDXRef-item1103734
+FileChecksum: SHA1: 09c159b3b9e78dfbba0f39daf510b711d83cd107
+FileChecksum: MD5: 3352785f009d9b61a717ea03c00c4896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/PangoRenderer.html
+SPDXID: SPDXRef-item1103736
+FileChecksum: SHA1: 45044c406fc6bded4c4eddc486ebb95ab27ea6f5
+FileChecksum: MD5: 4b883497452d389fe111076fe7f92cbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Tab-Stops.html
+SPDXID: SPDXRef-item1103737
+FileChecksum: SHA1: b748e65db13009289c7ac071db7373327b850912
+FileChecksum: MD5: 4b81271463c16dfc3f02307159874000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Bidirectional-Text.html
+SPDXID: SPDXRef-item1103739
+FileChecksum: SHA1: c9b2c7b8bca6d8c62d48d512e8c1ad7437fff7cb
+FileChecksum: MD5: ce9820536d42c85ed7e58648bcd7eb46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/style.css
+SPDXID: SPDXRef-item1103741
+FileChecksum: SHA1: b4068fc936d1e384da62f3addc8d6a13360db867
+FileChecksum: MD5: 7ecec4d4ad66d1ea924c1a17b492117e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/right-insensitive.png
+SPDXID: SPDXRef-item1103743
+FileChecksum: SHA1: 364c83e104dbae3d8a8cf6ef9e5e7e7f9493d3c5
+FileChecksum: MD5: 987cf4ad9491f01e8db264d38098a576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/home.png
+SPDXID: SPDXRef-item1103744
+FileChecksum: SHA1: 7ba720f28018871ab2e8d1452987d9451f653ff2
+FileChecksum: MD5: 83cdd16d5fc01d8d7dfaf97df1120bc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-FreeType-Fonts-and-Rendering.html
+SPDXID: SPDXRef-item1103746
+FileChecksum: SHA1: f49454427407fd7b69bd3ee860fc974bbaf19167
+FileChecksum: MD5: 6932804c3c0fcbceb892bc3f72019728
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Modules.html
+SPDXID: SPDXRef-item1103747
+FileChecksum: SHA1: bfe04acd452d5bcadf29a486aa3a7ae1f6666d0c
+FileChecksum: MD5: e418227dec7fec7a6897c32482da312d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Text-Processing.html
+SPDXID: SPDXRef-item1103749
+FileChecksum: SHA1: e3a6a251bdfcc5de7bb17d3d94828fb6c1128808
+FileChecksum: MD5: acb32febb0d72d0abd6345a3c633e6db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/api-index-full.html
+SPDXID: SPDXRef-item1103751
+FileChecksum: SHA1: e501b9ebd1158d398a0276af9e8470c32a2c8cb7
+FileChecksum: MD5: 0f24119f4d6d8949e692b8ba08837f2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/up.png
+SPDXID: SPDXRef-item1103753
+FileChecksum: SHA1: 53d9711aa40ae3ebcb7e22671cd78fed5a039cdf
+FileChecksum: MD5: 81854a03247e9ba6981eed0b909b9c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/left.png
+SPDXID: SPDXRef-item1103754
+FileChecksum: SHA1: 5d3c0425673b016477b553030535b3d15202961d
+FileChecksum: MD5: 0cc08008324009bebc947c6af6dd52c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Miscellaneous-Utilities.html
+SPDXID: SPDXRef-item1103756
+FileChecksum: SHA1: c3d6676d267c6cf2939f1b56d0c2eb96d75c56f2
+FileChecksum: MD5: 6f5d0d7313c8b8b3ec3f4be80dae9b7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Scripts-and-Languages.html
+SPDXID: SPDXRef-item1103757
+FileChecksum: SHA1: dbce4d2fc2bc6723f689a6bc1ec9a09877c29866
+FileChecksum: MD5: ef2ea4f6be694abdd608823e0588626d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/right.png
+SPDXID: SPDXRef-item1103758
+FileChecksum: SHA1: 9894d18a4588f67b782b307bbb001e2c901ebf48
+FileChecksum: MD5: bd51fef29caa82cb560340be392b37a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Text-Attributes.html
+SPDXID: SPDXRef-item1103761
+FileChecksum: SHA1: e60367f2a80b7c984603420f98cc652fa0ac6030
+FileChecksum: MD5: dee692305e067810587fb86d5f96546f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/PangoFcDecoder.html
+SPDXID: SPDXRef-item1103762
+FileChecksum: SHA1: 8909dc429c7086be6cdd6ee59e28b0e09562a84b
+FileChecksum: MD5: 7fed98cf5902e0af23a4d21c548d9fb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Xft-Fonts-and-Rendering.html
+SPDXID: SPDXRef-item1103764
+FileChecksum: SHA1: d9cf7e3df785391abb77ebe79bfae0124d7f6b01
+FileChecksum: MD5: 2e4cc564371fc39425f70b75d8c5eb0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Win32-Fonts-and-Rendering.html
+SPDXID: SPDXRef-item1103765
+FileChecksum: SHA1: d12f30fa27e012e612d68ba776fb5d8d716bd481
+FileChecksum: MD5: f2880ce61f93036e3d0762008d519a0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/rotated-text.png
+SPDXID: SPDXRef-item1103767
+FileChecksum: SHA1: 0c47750f9faaa1424a82aa94cc2364872ede1583
+FileChecksum: MD5: 873baeb0e4d968f272982ffbc51a5aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Fonts.html
+SPDXID: SPDXRef-item1103769
+FileChecksum: SHA1: 16e1ebca18202f72a72505f3aa909a3d3b837372
+FileChecksum: MD5: 382607972b5a7ae7fb3513a96e8f188e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/pango-Cairo-Rendering.html
+SPDXID: SPDXRef-item1103771
+FileChecksum: SHA1: 5934922166c3031723397d64bd593f90c6312146
+FileChecksum: MD5: 48459ef50b94d47534c52137d4be767b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/rendering.html
+SPDXID: SPDXRef-item1103772
+FileChecksum: SHA1: ea17be2210ffb08fd692c7e41d30cd44cb3e63cb
+FileChecksum: MD5: e9c8b27bed870b93242357729f918c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/html/PangoFcFont.html
+SPDXID: SPDXRef-item1103775
+FileChecksum: SHA1: 6828ac3c6fc2dc19be85dff37a8ce0d5c5858cd5
+FileChecksum: MD5: 731c9d77aaa13ee5944c210c76efa37a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/docs/rotated-text.png
+SPDXID: SPDXRef-item1103776
+FileChecksum: SHA1: 0c47750f9faaa1424a82aa94cc2364872ede1583
+FileChecksum: MD5: 873baeb0e4d968f272982ffbc51a5aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/test-driver
+SPDXID: SPDXRef-item1103777
+FileChecksum: SHA1: ebabeb373c5af3b8606b510a2494955e34325d8a
+FileChecksum: MD5: 7ce923f582b49637d13847c49fff9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/pangocairo.pc.in
+SPDXID: SPDXRef-item1103779
+FileChecksum: SHA1: 15b5e9d7d436c1a9f885aedf1d8bdf02215fcb68
+FileChecksum: MD5: bfbf6b0cdab589fb2ff5d67c8e6fbabb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/INSTALL
+SPDXID: SPDXRef-item1103781
+FileChecksum: SHA1: d64e64d4c73679323f8d4cde2643331ba6c20af9
+FileChecksum: MD5: d0697e131465c2bdd0af3b07a84d2878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/patches/series
+SPDXID: SPDXRef-item1103786
+FileChecksum: SHA1: 7cdc58163caecc6868eeda79f7d56312ea4646c8
+FileChecksum: MD5: e96d1ad4acd4da99553b9c68233e0316
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/config.guess
+SPDXID: SPDXRef-item1103788
+FileChecksum: SHA1: c6204f8ddf6852969b956c464199b71d7dfe4b7e
+FileChecksum: MD5: e6658e52c79b2c368296c883d90979b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/autogen.sh
+SPDXID: SPDXRef-item1103790
+FileChecksum: SHA1: 08827c22afbd65a94d762a2836bea90d1dec1609
+FileChecksum: MD5: c09ba620af1cf4ddbe82e370f390500a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/depcomp
+SPDXID: SPDXRef-item1103791
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/ChangeLog
+SPDXID: SPDXRef-item1103794
+FileChecksum: SHA1: 8d5a3a786f5966096961dea60b78d15aaec05b22
+FileChecksum: MD5: 648ea7ea9838e48995c7a3e833bfe6c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pango-1.40.6/README.win32
+SPDXID: SPDXRef-item1103796
+FileChecksum: SHA1: 7abee9c50d4547ad40ca7149877be46ec61a1259
+FileChecksum: MD5: 545e43f7a6c21f2d4d73e548a611c16b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/run-ptest
+SPDXID: SPDXRef-item1103797
+FileChecksum: SHA1: 31bcfd589fde6fe687a6b7a722527a379a74b839
+FileChecksum: MD5: b46d32cc1e0cd306b2365fdb1e929cda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Unicode-TOU
+LicenseName: Unicode-TOU
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
+LicenseID: LicenseRef-MIT-style
+LicenseName: MIT-style
+ExtractedText: <text> According to MIT license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

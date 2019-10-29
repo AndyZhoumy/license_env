@@ -1,0 +1,4162 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_neon-0.30.2-r0-patched.tar.gz_1571458566.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:16:07Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: neon
+PackageVersion: 0.30.2
+PackageFileName: neon-0.30.2-r0-patched.tar.gz
+SPDXID: SPDXRef-upload368
+PackageDownloadLocation: http://www.webdav.org/neon/neon-0.30.2.tar.gz
+PackageHomePage: http://www.webdav.org/neon/
+PackageSummary: <text>An HTTP and WebDAV client library with a C interface</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>neon version 0.30.2</text>
+PackageChecksum: SHA1: d9600a3bf4efbb62c4dfdc08d1376510c3d7146f
+PackageChecksum: MD5: ed07d3d5ceecc922bd37ed9aa6635cb2
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload368
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/pkgconfig.patch
+SPDXID: SPDXRef-item878259
+FileChecksum: SHA1: 30865a47e7d2c43d6b4b5bab1b47ed81d63e9063
+FileChecksum: MD5: 92512e00b4b073148184a182cc8a2039
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/NEWS
+SPDXID: SPDXRef-item878262
+FileChecksum: SHA1: 7a4897fa5de490fe6cbebcc0f0227e80efbf9c11
+FileChecksum: MD5: 591dc1e6c9293eb54ed434d43f9a8943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.version
+SPDXID: SPDXRef-item878263
+FileChecksum: SHA1: 5871b91b6e3108bcde25e0486f85630290e63881
+FileChecksum: MD5: 68fe69f57e2df4daf76ee197dc582abd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/INSTALL.win32
+SPDXID: SPDXRef-item878264
+FileChecksum: SHA1: 01dd198498a481fa43185725bf4076d2293a0b6d
+FileChecksum: MD5: 655cdbd913984b427e2ba15d763d447f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/BUGS
+SPDXID: SPDXRef-item878265
+FileChecksum: SHA1: c46ecfe417d9a94c2e51ca6ec3607511c58d55ec
+FileChecksum: MD5: 3c09f4070505918e62b6d44c817b2910
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.package
+SPDXID: SPDXRef-item878266
+FileChecksum: SHA1: d16ed3556450e6d2040d97ac7076883c5ef5c375
+FileChecksum: MD5: cc0440fdcfd6069b528e19ef946e6e66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/macros/neon-test.m4
+SPDXID: SPDXRef-item878268
+FileChecksum: SHA1: ec994dd116332cf50ff14d286ec8e6dfd3936487
+FileChecksum: MD5: 415488a88791523d760cbefa117222af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/macros/neon.m4
+SPDXID: SPDXRef-item878269
+FileChecksum: SHA1: f7dff359b99dbee713056a71ac63afbee2983a58
+FileChecksum: MD5: 5e4b83b8c00126bd1869e84f9668b0e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/macros/neon-xml-parser.m4
+SPDXID: SPDXRef-item878270
+FileChecksum: SHA1: f3d5747bacd970467b2b8d96dde35ff8245f142e
+FileChecksum: MD5: fe0ad07970ee2a4e833c40dc70b8a357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/macros/ld-version-script.m4
+SPDXID: SPDXRef-item878271
+FileChecksum: SHA1: df88a5989fc652ca01534e09c6f1ad1555b48d7a
+FileChecksum: MD5: 494bebea48dc9a6766a35d9c7c3d8048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/macros/socklen-arg-type.m4
+SPDXID: SPDXRef-item878272
+FileChecksum: SHA1: c79fd3b7f2d6229141d1c2146b631fcb83cd3ce1
+FileChecksum: MD5: a633dcddebd50bca698e1aa5b3eb5da9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/macros/ChangeLog
+SPDXID: SPDXRef-item878273
+FileChecksum: SHA1: 381b839735d5b599307a6645bab3f640938180a7
+FileChecksum: MD5: 7885872f15348a8cdfb16bd083b74ff0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/install-sh
+SPDXID: SPDXRef-item878274
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/aclocal.m4
+SPDXID: SPDXRef-item878275
+FileChecksum: SHA1: e16327d53883c7a7113a212be97cb4841ec60731
+FileChecksum: MD5: bc879e75c7a9667e78dfe351539b35c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/Makefile.in
+SPDXID: SPDXRef-item878276
+FileChecksum: SHA1: 867f16eba5bf1985dc7a6cea668fa0fd229b7330
+FileChecksum: MD5: b7503f4bb169ac1213d3157e1d9f354d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/configure
+SPDXID: SPDXRef-item878277
+FileChecksum: SHA1: ccd9d3b721982e9bfc1875ac40cdbe8fb74d43f6
+FileChecksum: MD5: 3c850909b1ada18d78c052e8611c48cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-LGPL
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/ltmain.sh
+SPDXID: SPDXRef-item878278
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_sspi.h
+SPDXID: SPDXRef-item878280
+FileChecksum: SHA1: 3dfd046c76f24b9fc1d551661fe4efa89fd8f197
+FileChecksum: MD5: 2bfbf78d197d3d51627e76c19577e191
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_basic.c
+SPDXID: SPDXRef-item878281
+FileChecksum: SHA1: fa3d4d49e33b4aa92ba30c97ee55dea320c0a00b
+FileChecksum: MD5: e4c809bf8cef2bbc33dab483dc22c0f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_redirect.c
+SPDXID: SPDXRef-item878282
+FileChecksum: SHA1: ea4ff4082d7c1284690bb90839e868b7c992be10
+FileChecksum: MD5: 29a7bf2587d1e374b4885cf7ade73678
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_socket.c
+SPDXID: SPDXRef-item878283
+FileChecksum: SHA1: 8b07f2c92810c35df8750aa072625236133c2bbc
+FileChecksum: MD5: 64fa6c986f03f8551d4faa8a6e487d86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_uri.h
+SPDXID: SPDXRef-item878284
+FileChecksum: SHA1: 9f5ab8a1a972990cbf091cb36b1c92695163481d
+FileChecksum: MD5: c60f51b61c693723ecfc4824b5d4f0b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_defs.h
+SPDXID: SPDXRef-item878285
+FileChecksum: SHA1: b93744a4743f4b50933db739cffb99b779bad6cf
+FileChecksum: MD5: a1d920c29aeee1f72dbeacb1c8414bd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_alloc.h
+SPDXID: SPDXRef-item878286
+FileChecksum: SHA1: d1f2d5640d464a8783d61cbe181292ef41846304
+FileChecksum: MD5: a2a52babe284403adaec443895bc9a91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_props.h
+SPDXID: SPDXRef-item878287
+FileChecksum: SHA1: 86adcc3b34c06c74006059544e38d308ebb91c46
+FileChecksum: MD5: f87d58ed4903fa9de36764879fbb3fb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_locks.h
+SPDXID: SPDXRef-item878288
+FileChecksum: SHA1: ceacf95f2463f17c096d4c4267947a1cbee67233
+FileChecksum: MD5: 0476573f70c244067ba606978846808a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/COPYING.LIB
+SPDXID: SPDXRef-item878289
+FileChecksum: SHA1: 44f7289042b71631acac29b2f143330d2da2479e
+FileChecksum: MD5: f30a9716ef3762e3467a2f62bf790f0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_sspi.c
+SPDXID: SPDXRef-item878290
+FileChecksum: SHA1: 3b39bfaf9f8dab8663fc661d3b79c3dbd34e9c20
+FileChecksum: MD5: 2c099a97b1095720f9367ad3b9711832
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_acl3744.h
+SPDXID: SPDXRef-item878291
+FileChecksum: SHA1: 6f3f2dc3128cc410dd385bbf3c9f0e167a79a9c2
+FileChecksum: MD5: e66ca3a6c1c112f05616cedf4bb96141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_pkcs11.h
+SPDXID: SPDXRef-item878292
+FileChecksum: SHA1: 4706a7d27c7c51b985dd95e66dd1e22d00290a83
+FileChecksum: MD5: 581fc8b2446d615c6e9a43acebe5374b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_acl3744.c
+SPDXID: SPDXRef-item878293
+FileChecksum: SHA1: 9f185b7633816ee2ea1dcb668eb4915cb3d6d769
+FileChecksum: MD5: 7ff398a4e84b4709159f765c415ae6f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_207.c
+SPDXID: SPDXRef-item878294
+FileChecksum: SHA1: 05afd898229f80c1091b99fef008af25f79ca8bc
+FileChecksum: MD5: 8d534f22cbd8e9fbe61f7ec6090307da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_md5.h
+SPDXID: SPDXRef-item878295
+FileChecksum: SHA1: 057e00112c7048ebc9204b8caedeaa324627f2b6
+FileChecksum: MD5: d1278c03ffc55283cd46ef03baee48e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_props.c
+SPDXID: SPDXRef-item878296
+FileChecksum: SHA1: 89f4ba7c30205716bf8ed7d784420aae49af9adb
+FileChecksum: MD5: 38d54a859ef06cab25c5664dd6a7fd4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_compress.c
+SPDXID: SPDXRef-item878297
+FileChecksum: SHA1: d66a9c2615617bbe42918cc76bf865ab93ff4780
+FileChecksum: MD5: 1c9a05146a19a43da952f3bbcb728cfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_openssl.c
+SPDXID: SPDXRef-item878298
+FileChecksum: SHA1: 24222132b36a9af820030d63852e7c119921a3cb
+FileChecksum: MD5: c5d830cc378fb2e2bfdbcab2ffdc64a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_ntlm.c
+SPDXID: SPDXRef-item878299
+FileChecksum: SHA1: d9019d47176b09d7dba940437f93eef7d988e924
+FileChecksum: MD5: 5045873eb2a14b2da432171c86eb6a48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/Makefile.in
+SPDXID: SPDXRef-item878300
+FileChecksum: SHA1: b7a8ab9eb9b5b7c12a1cd813abff16659577a504
+FileChecksum: MD5: f816cedfc338ce1de557f372afb86af4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_dates.c
+SPDXID: SPDXRef-item878301
+FileChecksum: SHA1: eaf4de8af2a1ea9f1f34c4d04f60b3594dfa6edf
+FileChecksum: MD5: a926121413dfd8f5b5901b3aefc2494d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_ntlm.h
+SPDXID: SPDXRef-item878302
+FileChecksum: SHA1: fb45a43d6153616ecec1b6aaaed01269b057408b
+FileChecksum: MD5: 1b22b28576e7c683f79fdf419ae9b23d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_session.h
+SPDXID: SPDXRef-item878303
+FileChecksum: SHA1: 59b385f9e7849f60121472c15655e6c879635d66
+FileChecksum: MD5: a16d1194fbe82ac3cfb6ed162908bd60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/memleak.h
+SPDXID: SPDXRef-item878304
+FileChecksum: SHA1: 008ba6f073424c7049989d30afb9f7f279fc7ba2
+FileChecksum: MD5: 62af7287a318e7526758f945cbb5b0b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_acl.h
+SPDXID: SPDXRef-item878305
+FileChecksum: SHA1: 0d0b031fa3fa294789efdb567cfc5a668cea7caf
+FileChecksum: MD5: f84bbd417acd857610bd8f12ceb61dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_request.h
+SPDXID: SPDXRef-item878306
+FileChecksum: SHA1: 4cd7c390ac88f91a3b500baecbd8aee26516f5e5
+FileChecksum: MD5: 9d7a08bfd48e1a324d501f9e16ea7ccf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_alloc.c
+SPDXID: SPDXRef-item878307
+FileChecksum: SHA1: b7874276692cef5e44ae5f02aee8f7a6fac988ca
+FileChecksum: MD5: 5712248ba01425ccd4b6a6c0619a2193
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_socks.c
+SPDXID: SPDXRef-item878308
+FileChecksum: SHA1: 01d0e24c0464368a2ab6b87dbb648e693572484c
+FileChecksum: MD5: 29c7fb0872339f6708fd09832cf15ed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_i18n.c
+SPDXID: SPDXRef-item878309
+FileChecksum: SHA1: d2e082d700f719966067a07c16c78a904cd49b39
+FileChecksum: MD5: 9d5e74eae06f933b0748ae1ccff8bb51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_string.c
+SPDXID: SPDXRef-item878310
+FileChecksum: SHA1: 09e7ef298f632dda36b76486f9b077a8dcbb5694
+FileChecksum: MD5: a9e505a9b5653d76397f71a5ea0a4c7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_xmlreq.h
+SPDXID: SPDXRef-item878311
+FileChecksum: SHA1: 0321d7b0cdc6167ad768b7f49eda712c13081291
+FileChecksum: MD5: 2070f808be20f8049fe664c6bbead064
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_auth.c
+SPDXID: SPDXRef-item878312
+FileChecksum: SHA1: fdb558644634f77e793449f666b6f32639df9a77
+FileChecksum: MD5: d017449102ac5bd24c212c9ff91c0a1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_internal.h
+SPDXID: SPDXRef-item878313
+FileChecksum: SHA1: a4deffa9165e174818c8fffc49df50be35659a21
+FileChecksum: MD5: efb5b3a25af03a9133bfe539ddd0cebd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_md5.c
+SPDXID: SPDXRef-item878314
+FileChecksum: SHA1: 1f4846161c1c6eb851864a61bb9ea7e7ec2119b9
+FileChecksum: MD5: 9d1bbe1ea51fed1b5ed759fcf75b9014
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_i18n.h
+SPDXID: SPDXRef-item878315
+FileChecksum: SHA1: 4989287015a7972088aa6aa53f276babe945cf97
+FileChecksum: MD5: 5c3f92a9ffb36cc8692e447760380926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_gnutls.c
+SPDXID: SPDXRef-item878316
+FileChecksum: SHA1: bbda8665780e8f45ac67e9b50ae244dddfbf55a3
+FileChecksum: MD5: c0d14071a7b60f238f33af6ac856cac9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/README
+SPDXID: SPDXRef-item878317
+FileChecksum: SHA1: 78e181112774bc7b7e160e7e1e8774226ddaba80
+FileChecksum: MD5: 631d05da2ea40065b2ad4cdf89231e46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_xml.c
+SPDXID: SPDXRef-item878318
+FileChecksum: SHA1: 62011e36a9dd6497f924c7811645bf8517227ccc
+FileChecksum: MD5: 6556b09cde3b987ea03c64ab10899b74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/neon.vers
+SPDXID: SPDXRef-item878319
+FileChecksum: SHA1: f0b9895ee458aed443b5ea2760c325259e11a33a
+FileChecksum: MD5: d22b531a813a22b9bd9d86c08187fdb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_207.h
+SPDXID: SPDXRef-item878320
+FileChecksum: SHA1: fb7c6f9297dcfaa9802a9ff6ef889072027b0f25
+FileChecksum: MD5: 8ed484a95271fe870b4435e4c3529541
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_request.c
+SPDXID: SPDXRef-item878321
+FileChecksum: SHA1: 286cf33f6ccbc0e203b67eb9c80b311c29aa7338
+FileChecksum: MD5: 0166a1530dd40e97361b77fe60536f70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_xmlreq.c
+SPDXID: SPDXRef-item878322
+FileChecksum: SHA1: c284068a8adfcbb1353e2f522eb06693627d2951
+FileChecksum: MD5: 06c05dd273f2d94eaf8783ccf88d6d75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_utils.c
+SPDXID: SPDXRef-item878323
+FileChecksum: SHA1: 4c4ad4e0af3a8abf040b32405c740a1d43940b68
+FileChecksum: MD5: c6d85711d4bcbfb161e5b593b3052582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_uri.c
+SPDXID: SPDXRef-item878324
+FileChecksum: SHA1: 495c3dd74f3038c9328d8897be9fca850408cab9
+FileChecksum: MD5: 3e27e6e70a3522934312923e08c5d36e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_pkcs11.c
+SPDXID: SPDXRef-item878325
+FileChecksum: SHA1: 6e7deb032dfe8554b57a526f64c511af1b003ddc
+FileChecksum: MD5: 5a3a0024d8d8d72051123126ffe4dc8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_xml.h
+SPDXID: SPDXRef-item878326
+FileChecksum: SHA1: 8374ca0da90bce3b076dc6f3e1549c2e3cbce03a
+FileChecksum: MD5: 3946f7053709385dfeb126cf3e1e3998
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_redirect.h
+SPDXID: SPDXRef-item878327
+FileChecksum: SHA1: 7ba2511f0ef60c27a2c4f711d0aa0e591d6ef9bc
+FileChecksum: MD5: 7c4c8e1133ab877980ae2d708a002260
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_auth.h
+SPDXID: SPDXRef-item878328
+FileChecksum: SHA1: ba3c432674a617b3ada0257695e04d1dc9c361db
+FileChecksum: MD5: 085a1239184e59b29dadeb8592c7fda5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_ssl.h
+SPDXID: SPDXRef-item878329
+FileChecksum: SHA1: 33fc0aa4d6568dfaf7888e461dad41eace35992b
+FileChecksum: MD5: 7517c6191ba370a498f366fd266c1d1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_dates.h
+SPDXID: SPDXRef-item878330
+FileChecksum: SHA1: 584ecbba7dfa460c5dad10dbcc149471d04a27c0
+FileChecksum: MD5: f3011d0f854e420fd4653ae487dc4a24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_utils.h
+SPDXID: SPDXRef-item878331
+FileChecksum: SHA1: 37335f652ed172be3e71ec75b322ee162aa22a86
+FileChecksum: MD5: 38c3f9e52a807658dd171fca593e8869
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_session.c
+SPDXID: SPDXRef-item878332
+FileChecksum: SHA1: ec7c4f0d98029e136b56b63363b968fcffd95449
+FileChecksum: MD5: bbb5045aa6e1518815f720c9aeacabac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_string.h
+SPDXID: SPDXRef-item878333
+FileChecksum: SHA1: a72633b5bba32e116ab121b3c83134a890e4c512
+FileChecksum: MD5: 37d888ecea6549a621349fd7c0a5ab37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_private.h
+SPDXID: SPDXRef-item878334
+FileChecksum: SHA1: 348555b17642561fcfa910b22c54dc9d6d9b7c1a
+FileChecksum: MD5: 14e674e5ed637755e497d608cf05479b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_locks.c
+SPDXID: SPDXRef-item878335
+FileChecksum: SHA1: 3146d4a8e63ecac8101d100d009c498f231e4070
+FileChecksum: MD5: 49a354182d776ddb45564e04502f23f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_stubssl.c
+SPDXID: SPDXRef-item878336
+FileChecksum: SHA1: 13fc6d44931eea0d2be5cda48da2983481d5d25a
+FileChecksum: MD5: 9717b874ed420b90a46d9a6c2fffbce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_basic.h
+SPDXID: SPDXRef-item878337
+FileChecksum: SHA1: 1e46e24b0631d1cccbd5d3de1897d42c2fbbc44a
+FileChecksum: MD5: 4fc62ae9b75b232ab67fc13273323dd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_oldacl.c
+SPDXID: SPDXRef-item878338
+FileChecksum: SHA1: a0a34dc9613daa2c109fd783959618d0d4290263
+FileChecksum: MD5: 2926b88f3d6d0e435ddc5676558a5fab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_privssl.h
+SPDXID: SPDXRef-item878339
+FileChecksum: SHA1: 35e4d9896d3f57b34efea21f6593093bd3347228
+FileChecksum: MD5: 2bc3483a8f04cec29c29789dd636df6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ChangeLog
+SPDXID: SPDXRef-item878340
+FileChecksum: SHA1: 30a341e3ce979f2e12931e8ff53392656d2a3149
+FileChecksum: MD5: 4421f78137c0ad5e669bcac50f32d60d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_compress.h
+SPDXID: SPDXRef-item878341
+FileChecksum: SHA1: c40409a083917bf3c2c4a344536ac43a74b00cb3
+FileChecksum: MD5: 432c1da8a13a8a05bbfe37f96ea2fe11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/src/ne_socket.h
+SPDXID: SPDXRef-item878342
+FileChecksum: SHA1: 08d1e10fa653eadce8abd24828132b81658379bf
+FileChecksum: MD5: 4a63a0821d8db8fdeafbf0f51e7cbf13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/THANKS
+SPDXID: SPDXRef-item878343
+FileChecksum: SHA1: b475c00f474e9fa9dab8355e60e8b83d92c19a90
+FileChecksum: MD5: be25f088579f56985ecc606c0fef8851
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/neon.pc.in
+SPDXID: SPDXRef-item878344
+FileChecksum: SHA1: f12fb7c2135767015073dec1adf3cd823443182b
+FileChecksum: MD5: 4576964b2423b0ffaf72c24f5196a56e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/TODO
+SPDXID: SPDXRef-item878345
+FileChecksum: SHA1: f8ca540b6a058b3716e1072d21bae513bd899dde
+FileChecksum: MD5: 418cd1e5f8098158025beab6ae564325
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/config.h.in
+SPDXID: SPDXRef-item878346
+FileChecksum: SHA1: a61830f9dc8159abc216839e0204374b75614ea2
+FileChecksum: MD5: 6142130bb0996b9166410ba7774414aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/tr.gmo
+SPDXID: SPDXRef-item878348
+FileChecksum: SHA1: f62ef104be1e522bef3d6a88289abf8484d14583
+FileChecksum: MD5: ae640de19221d351d317e48bea343a15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/nn.gmo
+SPDXID: SPDXRef-item878349
+FileChecksum: SHA1: 460653a3b0739a7e4f91709b8a1e2cb08ac2e8fa
+FileChecksum: MD5: 5dcaf9b58cc6c4c3a4b5acd0cba5e8bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/cs.gmo
+SPDXID: SPDXRef-item878350
+FileChecksum: SHA1: d1ea6c7343d877885f982a9dd7fd8bac68638e8b
+FileChecksum: MD5: 8a6c3ed2189a9f478e9b2e64d9f77810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/cs.po
+SPDXID: SPDXRef-item878351
+FileChecksum: SHA1: 341351c07a5b5580fdefe1348d7e06949e0d4d39
+FileChecksum: MD5: 562978d1db43a852dfe544137b005bc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/ru.gmo
+SPDXID: SPDXRef-item878352
+FileChecksum: SHA1: 6b8414e745130e25cd4bdbb780cab8aabc1e57e2
+FileChecksum: MD5: d403637832bddc6f6124eb678b270edb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/de.po
+SPDXID: SPDXRef-item878353
+FileChecksum: SHA1: 43e64b895861113b55d4de580d96e961173d1c3e
+FileChecksum: MD5: 3a69f86185089862cf8a5f4d18f3cf82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/fr.po
+SPDXID: SPDXRef-item878354
+FileChecksum: SHA1: 81507af49dc1e233472503285af65808f061b1b6
+FileChecksum: MD5: 960c9703c525de624a2620e962bf4692
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/fr.gmo
+SPDXID: SPDXRef-item878355
+FileChecksum: SHA1: 359dfdc9183271be479d956f5a5e91df6884468e
+FileChecksum: MD5: cc9fab915969ec7b1163cdbcf7a91faf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/ru.po
+SPDXID: SPDXRef-item878356
+FileChecksum: SHA1: c431eaa47879e6c0e485e93b5ec769769f4c120b
+FileChecksum: MD5: ab727d335dcb50a2fe5105cbd093fb6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/nn.po
+SPDXID: SPDXRef-item878357
+FileChecksum: SHA1: e2bbc24cd5ee290c2d7c9da91e6bbdb6fba7d0bf
+FileChecksum: MD5: 097b27a00c1b5676d3558db71a66a794
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/ja.po
+SPDXID: SPDXRef-item878358
+FileChecksum: SHA1: 76070a5781dfd8f109b4dca3decce393be55ec19
+FileChecksum: MD5: c77834f60a693303d33311e0bfe30f36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/pl.gmo
+SPDXID: SPDXRef-item878359
+FileChecksum: SHA1: 9c7096a9ce4b90428b3ab3641be359961e672a3b
+FileChecksum: MD5: 6062018b53c139e6deabd76ab1fd5ec4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/neon.pot
+SPDXID: SPDXRef-item878360
+FileChecksum: SHA1: b46f645a7f28beee8067a9f3309429132dbcb535
+FileChecksum: MD5: 94c10bf2e3b13581b0c4b737daee4569
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/pl.po
+SPDXID: SPDXRef-item878361
+FileChecksum: SHA1: 02f9da72e1820efc4682820a3619f214938f8f2f
+FileChecksum: MD5: 3e3663a2285b98ae6678147569ad43a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/ja.gmo
+SPDXID: SPDXRef-item878362
+FileChecksum: SHA1: 0cd4ba15d00e5207ba9eca12e22518afad9708ae
+FileChecksum: MD5: 22acd7b2fe9230d7467dd747e577db7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/zh_CN.gmo
+SPDXID: SPDXRef-item878363
+FileChecksum: SHA1: a913fd2cccbe82b9803cd6395bc2a17a0c9827a8
+FileChecksum: MD5: 434ac48e1f4049aeca1f8fba3d8da994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/zh_CN.po
+SPDXID: SPDXRef-item878364
+FileChecksum: SHA1: 12ccbd00126f73049e8e3ad441216d59ed88cd38
+FileChecksum: MD5: 8670ba8db54e5912c47c57990d75359b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/tr.po
+SPDXID: SPDXRef-item878365
+FileChecksum: SHA1: cf8adcaaf3e783709a4b3171bdf066d0cde9db4e
+FileChecksum: MD5: a25af269f999276753c725bf2c95ca4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/po/de.gmo
+SPDXID: SPDXRef-item878366
+FileChecksum: SHA1: 264e2c98df4d79e98d8aefd12f54839a66ab2669
+FileChecksum: MD5: f909cd3dd5fc34c1c713a374f9bcdc4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/neon.mak
+SPDXID: SPDXRef-item878367
+FileChecksum: SHA1: c642f62b8a9dc073a506b4d9f3b6189c354d0cbb
+FileChecksum: MD5: f90e483282280cb24c29f76bfcb4adf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/AUTHORS
+SPDXID: SPDXRef-item878368
+FileChecksum: SHA1: 4bca6596d9121310146bc86cb43847be188e485a
+FileChecksum: MD5: aa192e4dfc75ea883e3fda1a0854c9eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/config.sub
+SPDXID: SPDXRef-item878369
+FileChecksum: SHA1: d6ba5ee1810cdc47be6790611f195a59600b7485
+FileChecksum: MD5: bea60cee5f6520c1205c78036051e681
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man.xsl
+SPDXID: SPDXRef-item878371
+FileChecksum: SHA1: a65a0bcbde0daff3dd2a6fbbdfe185bbaeba2a4a
+FileChecksum: MD5: 5985219a263d295ecf066c76a4fee6ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/xml.xml
+SPDXID: SPDXRef-item878372
+FileChecksum: SHA1: 887e11442d6ced567945f6e0344e97304833c00a
+FileChecksum: MD5: 3ece069769b8f5cd66aed381251ff192
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/sslcert.xml
+SPDXID: SPDXRef-item878374
+FileChecksum: SHA1: e27bb55bdd380064a099afac2f06641390ddc2dd
+FileChecksum: MD5: 51e1ffd66a5760b82f2f76da6ae73d58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/init.xml
+SPDXID: SPDXRef-item878375
+FileChecksum: SHA1: 06374dfa6ae1cd1dfdb2ea286b9a83e3413fb4e2
+FileChecksum: MD5: 53fc8e3c2118dd5bc1a927d68175b8ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/xml.xml
+SPDXID: SPDXRef-item878376
+FileChecksum: SHA1: fb41c5770c5de4509738b0cd30bea855a66d7fdd
+FileChecksum: MD5: d813ae28700e1bea456144c857a650d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/clicert.xml
+SPDXID: SPDXRef-item878377
+FileChecksum: SHA1: 5862428e6407bb864d02d96182f14e85d437b6b3
+FileChecksum: MD5: 52d0f78165f249088d7dc2a8ba397ba9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/getst.xml
+SPDXID: SPDXRef-item878378
+FileChecksum: SHA1: f6a82ec4e79dc9cd53cf262f42d3516f06b34ba1
+FileChecksum: MD5: bb4845342fedb16586df8c9704a87230
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/config.xml
+SPDXID: SPDXRef-item878379
+FileChecksum: SHA1: 6caa7b48cdafc8e1c8457b136b1afc6e5dff1e45
+FileChecksum: MD5: c1c68d555943448ba607a0493013f7a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/alloc.xml
+SPDXID: SPDXRef-item878380
+FileChecksum: SHA1: eee5d5816ad75ad08475d6993d6429d9a1b7b388
+FileChecksum: MD5: a2137a9a658432b34e204f0b10a127ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/bufutil.xml
+SPDXID: SPDXRef-item878381
+FileChecksum: SHA1: 0b76b566dcba94e116f608256dae03959178af1c
+FileChecksum: MD5: f2f43d876831138fe31eb64fab0fc9d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/sess.xml
+SPDXID: SPDXRef-item878382
+FileChecksum: SHA1: 1c1a745880053d02c381641cd3cfbaf581efe29f
+FileChecksum: MD5: 39fe00107aa52717dd7c3e93b8bf89de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/bufapp.xml
+SPDXID: SPDXRef-item878383
+FileChecksum: SHA1: 3398b3beea8e97ec77012e1b656839a9bc16e7c1
+FileChecksum: MD5: a64e5612a79aef044cad5f452e874266
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/sslcert2.xml
+SPDXID: SPDXRef-item878384
+FileChecksum: SHA1: b0486de27fe8622f08e0d5b50ef3a2dbe171a160
+FileChecksum: MD5: 86e54bfe11122298f9b017082c6968b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/neon.xml
+SPDXID: SPDXRef-item878385
+FileChecksum: SHA1: f8cab37dc50167de71ffc2645c2d0301b2e200ac
+FileChecksum: MD5: ecc9b79c6f5f445734c0272ccb14eaf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/req.xml
+SPDXID: SPDXRef-item878386
+FileChecksum: SHA1: cca1c26f4f7a9c468b687d64f5c31ce1a97b7995
+FileChecksum: MD5: 3a2de01f9811158e305559a975e3afed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/vers.xml
+SPDXID: SPDXRef-item878387
+FileChecksum: SHA1: 7ac12a56e66d5da67e0640b087914d1a21418046
+FileChecksum: MD5: 2ff8abf1767d059833ba9055205e9f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/ssltrust.xml
+SPDXID: SPDXRef-item878388
+FileChecksum: SHA1: 558aab410870fb4abdbb404bb4a691cb29b64e53
+FileChecksum: MD5: de206e7991189186fce3f58b4460c15b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/sessflags.xml
+SPDXID: SPDXRef-item878389
+FileChecksum: SHA1: 581bd51c6f94fa863eebbead638a4f432c7b1444
+FileChecksum: MD5: 23252c034de98ecb69b61115847b7986
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/tok.xml
+SPDXID: SPDXRef-item878390
+FileChecksum: SHA1: ec06b9b76695fdaa3f0c336582d1884c24e85755
+FileChecksum: MD5: ab9075e7038a3765f26a406fdfaedf18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/err.xml
+SPDXID: SPDXRef-item878391
+FileChecksum: SHA1: 7b035cc120003a2513e71fb7b71fbb42d6475951
+FileChecksum: MD5: 03dfc5efc9bb8b6ba259616551a99f1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/ssldname.xml
+SPDXID: SPDXRef-item878392
+FileChecksum: SHA1: 064c4983da7225ffd9557c27f56cf78aef762ecd
+FileChecksum: MD5: 4a40014232bd6c3d863d37d0e38ad2f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/reqbody.xml
+SPDXID: SPDXRef-item878393
+FileChecksum: SHA1: 689a8849f93fa608f76e9f1efe450fcb7b4993a6
+FileChecksum: MD5: fb3f5929d3a54a4f91d7a4b3712b30a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/resolve.xml
+SPDXID: SPDXRef-item878394
+FileChecksum: SHA1: 99d73fd51633c44b8dd6d74b3e47b053c9952592
+FileChecksum: MD5: f73d87e9b8125ed3cd6b323abb5f2704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/reqflags.xml
+SPDXID: SPDXRef-item878395
+FileChecksum: SHA1: 489a63d6d9a8fa02e91756dc78238e3a07264c5e
+FileChecksum: MD5: a6e97d550e73358e409f68ce70450583
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/proxy.xml
+SPDXID: SPDXRef-item878396
+FileChecksum: SHA1: aba89818db1ffd2a21efd92198b25d37f285e9b3
+FileChecksum: MD5: 5ccc6afa61b8cee4ecf3882fe95417f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/status.xml
+SPDXID: SPDXRef-item878397
+FileChecksum: SHA1: 1b3d15f9e2bb31521288b90007c6b2b847126cfe
+FileChecksum: MD5: fafa91fce0d233bf3d01e2418b049e8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/sslca.xml
+SPDXID: SPDXRef-item878398
+FileChecksum: SHA1: e3076d202804f13c4413e451e5d91c77b2980f5c
+FileChecksum: MD5: a9029d3e9c8b9638a753c999c3506bb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/sslcertio.xml
+SPDXID: SPDXRef-item878399
+FileChecksum: SHA1: ec0fffa2b82fd691925510618a87253b94f469d0
+FileChecksum: MD5: d066537ef92fa8ed235a7870cf3909b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/shave.xml
+SPDXID: SPDXRef-item878400
+FileChecksum: SHA1: a6a316feb040e499444d408a0b8459dd863f2143
+FileChecksum: MD5: 344af9c63fd72e8d7c84eea1d6122e48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/reqhdr.xml
+SPDXID: SPDXRef-item878401
+FileChecksum: SHA1: dbb4ae53c9a3ac554ad295b77db6be155aa02035
+FileChecksum: MD5: 14180def692747f6a2c7453fe5ec897e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/i18n.xml
+SPDXID: SPDXRef-item878402
+FileChecksum: SHA1: e16aa1f2621d142dc4dba2c558da28e99305cf5c
+FileChecksum: MD5: b5a58670fee7aca1a1a69bcd0c9db2fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/feat.xml
+SPDXID: SPDXRef-item878403
+FileChecksum: SHA1: bc097a9c1cd825a809de5349848a47d7ac8066c1
+FileChecksum: MD5: 3a1cfeeebea34c88b534ff3f92b5e4cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/opts.xml
+SPDXID: SPDXRef-item878404
+FileChecksum: SHA1: 43b18e3d437cdf1b9266897cf9826200a68e64ce
+FileChecksum: MD5: 8cfb84b421d7feae19b4292e16953c7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/auth.xml
+SPDXID: SPDXRef-item878405
+FileChecksum: SHA1: 3b5b75f5b31bcc99c84ac03db2100391bc7fab77
+FileChecksum: MD5: 983deda95091c406729f7bc1a0528700
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/resphdr.xml
+SPDXID: SPDXRef-item878406
+FileChecksum: SHA1: a366443525726fcc6edc86adc94feca27ca25231
+FileChecksum: MD5: 69b448f13d81c94e58b63b4598558b00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/sslvfy.xml
+SPDXID: SPDXRef-item878407
+FileChecksum: SHA1: d23a55169eaf4e2e04a902ee44be733b5ba61d66
+FileChecksum: MD5: c3bbd69ea6017083c43998ab05595923
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/bufcr.xml
+SPDXID: SPDXRef-item878408
+FileChecksum: SHA1: 3488052760b0ce17277a13b0251ff95fd8fa8a9f
+FileChecksum: MD5: b60ccd886ce3c1d3986f044154442228
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/iaddr.xml
+SPDXID: SPDXRef-item878409
+FileChecksum: SHA1: 2243993617c7f8cff29a7738a97325eb25c6fe31
+FileChecksum: MD5: 3f33ad8f8bd37df37c1e56dff6b25296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/buf.xml
+SPDXID: SPDXRef-item878410
+FileChecksum: SHA1: a2dd86634c70cd0f89b5f3d5976dbc0508bb9a61
+FileChecksum: MD5: 83b615a545096398909375cae7f5e65e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ref/bufdest.xml
+SPDXID: SPDXRef-item878411
+FileChecksum: SHA1: 2fc2409225bdac62ab38ba71ae9db1956884bdd2
+FileChecksum: MD5: e9d4f1b390f2f043407ef82e7259f613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html.xsl
+SPDXID: SPDXRef-item878412
+FileChecksum: SHA1: 8db01f26fce1a359f7cb6f326120c17f47d7cd90
+FileChecksum: MD5: 91fd4c7458ff70306398e2f713393553
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/manual.css
+SPDXID: SPDXRef-item878413
+FileChecksum: SHA1: 4d92a48222293acc51bf47483096cfbaedbd380c
+FileChecksum: MD5: 7940e0a64d3d41df661a26776662bce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/version.xml
+SPDXID: SPDXRef-item878414
+FileChecksum: SHA1: 985bd8fe6af50887806aebdcf15364624d0f2f93
+FileChecksum: MD5: fe2e0a47ed5b150d8ee18c76712c332b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/biblio.xml
+SPDXID: SPDXRef-item878415
+FileChecksum: SHA1: 6a1c36baf2323010f991e8f347bd38e3ea36b4a3
+FileChecksum: MD5: c909a0cf6feb6a9e8ed8abb60d713a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_identity.3
+SPDXID: SPDXRef-item878417
+FileChecksum: SHA1: 6fdda71ed9c2ccbf7096dcbd2086eebb8b50401b
+FileChecksum: MD5: eae2487a5b600b4ef09e3b67494ce9f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_calloc.3
+SPDXID: SPDXRef-item878418
+FileChecksum: SHA1: f5ee729fb672724ea5032b546a05bc42b1c837c6
+FileChecksum: MD5: 67c56dc24c4054218fc238c0c0a05143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_set_verify.3
+SPDXID: SPDXRef-item878419
+FileChecksum: SHA1: 2e3c08c7d3a7ee61ed6d53fc8fbdebc62772bd75
+FileChecksum: MD5: d89225a7e27c4129e85f326eb4d2dbe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_error.3
+SPDXID: SPDXRef-item878420
+FileChecksum: SHA1: 506ff477173252c151a2318cde055d3d07bb9345
+FileChecksum: MD5: b8eb64b95d8b3faa7b853cdcd0a71244
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_iaddr_raw.3
+SPDXID: SPDXRef-item878421
+FileChecksum: SHA1: 8c32662eda10793c82e0a4ae6e4a521ff722abf7
+FileChecksum: MD5: 56af9a65af7399bb696961ce7a74ea25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_iaddr_parse.3
+SPDXID: SPDXRef-item878422
+FileChecksum: SHA1: 8c32662eda10793c82e0a4ae6e4a521ff722abf7
+FileChecksum: MD5: 56af9a65af7399bb696961ce7a74ea25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_clicert_name.3
+SPDXID: SPDXRef-item878423
+FileChecksum: SHA1: 5c5c661a439c8ee760f2f4b3b1614a301a381e6a
+FileChecksum: MD5: 25e2433877dd10ab2dd02a7a7cd3c179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_token.3
+SPDXID: SPDXRef-item878424
+FileChecksum: SHA1: 11780233bcf3604503fcf1f153886f28d3894086
+FileChecksum: MD5: 817312c30bf37769d93fb90e588b10b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_iaddr_make.3
+SPDXID: SPDXRef-item878425
+FileChecksum: SHA1: 93dbb96d74a444626d311fcf1e27e14010b0c22f
+FileChecksum: MD5: 9cad6486365dab0773a129a9d8e81001
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/neon.3
+SPDXID: SPDXRef-item878426
+FileChecksum: SHA1: 07f3a56aad05833ab8784a962e5dbe420daa8c5e
+FileChecksum: MD5: 823a0c9a3262f2a999d63be316fe82a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_read.3
+SPDXID: SPDXRef-item878427
+FileChecksum: SHA1: 49f383746a6b4e465849cdc9bd5683d25c1a1532
+FileChecksum: MD5: 718c4065cb0edc009de859593e6462a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_i18n_init.3
+SPDXID: SPDXRef-item878428
+FileChecksum: SHA1: eea861b20a9cc504b69f96996edb63f3ebb6ab04
+FileChecksum: MD5: dbe4cf5093e6e07316193d46570bc45f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_request_destroy.3
+SPDXID: SPDXRef-item878429
+FileChecksum: SHA1: 14ffaeb61efb55d150da71c97f748255b6db42bc
+FileChecksum: MD5: 3ee88f5fd22c6395c0cc480272ae2f83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_oom_callback.3
+SPDXID: SPDXRef-item878430
+FileChecksum: SHA1: f5ee729fb672724ea5032b546a05bc42b1c837c6
+FileChecksum: MD5: 67c56dc24c4054218fc238c0c0a05143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_status.3
+SPDXID: SPDXRef-item878431
+FileChecksum: SHA1: 9e7749f3e2828f8cc9df60892628961b58bd2d8c
+FileChecksum: MD5: b3bf7fd93e9c9783c83e73e670b5b051
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_addr_destroy.3
+SPDXID: SPDXRef-item878432
+FileChecksum: SHA1: d30b51d7e2ddf8b824e5c889255df2574ebc445d
+FileChecksum: MD5: d10dfa402e899a235af98f5d18c9fbc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_addr_resolve.3
+SPDXID: SPDXRef-item878433
+FileChecksum: SHA1: 61fdb756541514b956f6e4a8c8a68e707f1791fa
+FileChecksum: MD5: 74e7888b667b8e67278e98cfcd767f56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_connect_timeout.3
+SPDXID: SPDXRef-item878434
+FileChecksum: SHA1: a4b6cb203290fb059eb404c4fdc3451e458252f3
+FileChecksum: MD5: e8e038e52c19fa3be5ec27b2dde6d6ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_readable_dname.3
+SPDXID: SPDXRef-item878435
+FileChecksum: SHA1: 6a572db0220ce883031d99c1668f723b6348e814
+FileChecksum: MD5: d27316c7f2d3e7182b205828204010d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_useragent.3
+SPDXID: SPDXRef-item878436
+FileChecksum: SHA1: 7947da2a907834ba0124bc078163687c59161a58
+FileChecksum: MD5: 238df441ebb8b202e7a5cfb551c1e4a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_version_string.3
+SPDXID: SPDXRef-item878437
+FileChecksum: SHA1: 19df20ea3cb3bdaaccd65712acf4d1d6430bb70f
+FileChecksum: MD5: f09af1ede7ebb80bad8415ea04974524
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_clicert_read.3
+SPDXID: SPDXRef-item878438
+FileChecksum: SHA1: 564d20fd4a9bc575fa9557aad77d76dde0fb44f9
+FileChecksum: MD5: 5e01b71bcb74cdb66bb23640d97dd124
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_finish.3
+SPDXID: SPDXRef-item878439
+FileChecksum: SHA1: d3d6c322dff284d1e369a1b8d95ef5e819a40f01
+FileChecksum: MD5: 27391320b8daac9e19deee8d39d2f8ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_server_auth.3
+SPDXID: SPDXRef-item878440
+FileChecksum: SHA1: 39d781a0b9df67a06e53580946af50297769514d
+FileChecksum: MD5: 0cff78f743d6866748c55b031d007d66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_close_connection.3
+SPDXID: SPDXRef-item878441
+FileChecksum: SHA1: d2bb41bcef4701cf8101e84b4483913f53c35e23
+FileChecksum: MD5: 16237fe53df8d93936379c0a7a50fce8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_iaddr_free.3
+SPDXID: SPDXRef-item878442
+FileChecksum: SHA1: 8c32662eda10793c82e0a4ae6e4a521ff722abf7
+FileChecksum: MD5: 56af9a65af7399bb696961ce7a74ea25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_response_header_iterate.3
+SPDXID: SPDXRef-item878443
+FileChecksum: SHA1: a8c5898e8816d91d5e0195978ad91fe9641b470a
+FileChecksum: MD5: 05b379e75e5a071dfeb9b26902ac70e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_create.3
+SPDXID: SPDXRef-item878444
+FileChecksum: SHA1: a0917c6f5237ea48070f4264247709e46b25a12b
+FileChecksum: MD5: 8bc09819420f7a6ac2f63d29d19aded9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_free.3
+SPDXID: SPDXRef-item878445
+FileChecksum: SHA1: b0241ac70f7639cf1576ba89a583769148c3333b
+FileChecksum: MD5: 0f2a3fe558dc76684aebda2904e2efa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_sock_init.3
+SPDXID: SPDXRef-item878446
+FileChecksum: SHA1: 4b164553b4de0dd377668cca06dc6f1fd2a99035
+FileChecksum: MD5: ee48aef8e291444d55c8c9c97a86b24e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_strdup.3
+SPDXID: SPDXRef-item878447
+FileChecksum: SHA1: f5ee729fb672724ea5032b546a05bc42b1c837c6
+FileChecksum: MD5: 67c56dc24c4054218fc238c0c0a05143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/neon-config.1
+SPDXID: SPDXRef-item878448
+FileChecksum: SHA1: 2d25282169823e354a0265fb16eb8106d0b64152
+FileChecksum: MD5: 7b1046450f2d64b807bf0e5fdc56293c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_write.3
+SPDXID: SPDXRef-item878449
+FileChecksum: SHA1: 365cb4e18ed4d5b58384c3a7fa9fa5db4b2b4266
+FileChecksum: MD5: f8e294c54f2882e9c9fc14afcda6df4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_session_proxy.3
+SPDXID: SPDXRef-item878450
+FileChecksum: SHA1: 4d9af0aeb72a87babb8fad96d57c3fc1a87d103e
+FileChecksum: MD5: d4c6bbdb00ad01e3502ffc038244f029
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_read_timeout.3
+SPDXID: SPDXRef-item878451
+FileChecksum: SHA1: a4b6cb203290fb059eb404c4fdc3451e458252f3
+FileChecksum: MD5: e8e038e52c19fa3be5ec27b2dde6d6ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_grow.3
+SPDXID: SPDXRef-item878452
+FileChecksum: SHA1: 18e2dfe5678e004426ee4ca00e5d63764691c3aa
+FileChecksum: MD5: 0504be7ec8bf40392f77958f2f1a7c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_addr_result.3
+SPDXID: SPDXRef-item878453
+FileChecksum: SHA1: d30b51d7e2ddf8b824e5c889255df2574ebc445d
+FileChecksum: MD5: d10dfa402e899a235af98f5d18c9fbc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_export.3
+SPDXID: SPDXRef-item878454
+FileChecksum: SHA1: 365cb4e18ed4d5b58384c3a7fa9fa5db4b2b4266
+FileChecksum: MD5: f8e294c54f2882e9c9fc14afcda6df4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_clicert_decrypt.3
+SPDXID: SPDXRef-item878455
+FileChecksum: SHA1: 5c5c661a439c8ee760f2f4b3b1614a301a381e6a
+FileChecksum: MD5: 25e2433877dd10ab2dd02a7a7cd3c179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_get_session_flag.3
+SPDXID: SPDXRef-item878456
+FileChecksum: SHA1: 18f46d04b10d08fd3bab35e1444e169bfb792460
+FileChecksum: MD5: 1378d4c6969e14b760d0b243b1af0f5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_iaddr_cmp.3
+SPDXID: SPDXRef-item878457
+FileChecksum: SHA1: 8c32662eda10793c82e0a4ae6e4a521ff722abf7
+FileChecksum: MD5: 56af9a65af7399bb696961ce7a74ea25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_session_destroy.3
+SPDXID: SPDXRef-item878458
+FileChecksum: SHA1: d2bb41bcef4701cf8101e84b4483913f53c35e23
+FileChecksum: MD5: 16237fe53df8d93936379c0a7a50fce8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_iaddr_print.3
+SPDXID: SPDXRef-item878459
+FileChecksum: SHA1: 8c32662eda10793c82e0a4ae6e4a521ff722abf7
+FileChecksum: MD5: 56af9a65af7399bb696961ce7a74ea25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_get_request_flag.3
+SPDXID: SPDXRef-item878460
+FileChecksum: SHA1: d48194e0272203ce078485dc4ffbe813c178e209
+FileChecksum: MD5: af76bc823e2627566c2c376fdfcd82b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_request_body_fd.3
+SPDXID: SPDXRef-item878461
+FileChecksum: SHA1: 5c77da49341cc0e4055d02bfa015a356d48f8ec9
+FileChecksum: MD5: 8ee027b0af0be94433b016b936f7e0b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_clicert_encrypted.3
+SPDXID: SPDXRef-item878462
+FileChecksum: SHA1: 5c5c661a439c8ee760f2f4b3b1614a301a381e6a
+FileChecksum: MD5: 25e2433877dd10ab2dd02a7a7cd3c179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_proxy_auth.3
+SPDXID: SPDXRef-item878463
+FileChecksum: SHA1: d30c9849a158eb4dae1c5b51f7e1598615727656
+FileChecksum: MD5: 785bd7a21ad0944316db53df5249683e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_version_match.3
+SPDXID: SPDXRef-item878464
+FileChecksum: SHA1: 7dc475d1d11c99cd9317ccfc2f3882a0f45f5ae7
+FileChecksum: MD5: 505c6c2d745339d5c8233a02c0f325ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_has_support.3
+SPDXID: SPDXRef-item878465
+FileChecksum: SHA1: c8a3b15aa10e9a67b80709f249a343f710493c2b
+FileChecksum: MD5: 3343b1d0ba9873802aaa265011e0632a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_subject.3
+SPDXID: SPDXRef-item878466
+FileChecksum: SHA1: 8eee71c8c013027acc3716b4109864f8a7de90a1
+FileChecksum: MD5: 85d3f32e67d773f46c2b15017860c177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer.3
+SPDXID: SPDXRef-item878467
+FileChecksum: SHA1: 70918c1f6aa3a607d192c3289e5956622646f3c7
+FileChecksum: MD5: 947d82bab3d289f6ff487ed331f02e40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_shave.3
+SPDXID: SPDXRef-item878468
+FileChecksum: SHA1: 4033dbbdca0b832de3a9c0282dd0fb4a2ee725c1
+FileChecksum: MD5: 156f41f9e1cfd776157074e02816ad17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_clicert_free.3
+SPDXID: SPDXRef-item878469
+FileChecksum: SHA1: 5c5c661a439c8ee760f2f4b3b1614a301a381e6a
+FileChecksum: MD5: 25e2433877dd10ab2dd02a7a7cd3c179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_addr_error.3
+SPDXID: SPDXRef-item878470
+FileChecksum: SHA1: d30b51d7e2ddf8b824e5c889255df2574ebc445d
+FileChecksum: MD5: d10dfa402e899a235af98f5d18c9fbc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_ncreate.3
+SPDXID: SPDXRef-item878471
+FileChecksum: SHA1: b4d4495bdd90966aaf82556697285bdda7610b71
+FileChecksum: MD5: 0272f8f1bee6ddccc40a6907ac3ea599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_session_system_proxy.3
+SPDXID: SPDXRef-item878472
+FileChecksum: SHA1: 272e2381a50aa8bf7e5b4abdb12a340ac64d22a9
+FileChecksum: MD5: a7653eba365c8fc6a3ea45257bf39ffe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_addrlist.3
+SPDXID: SPDXRef-item878473
+FileChecksum: SHA1: 272e2381a50aa8bf7e5b4abdb12a340ac64d22a9
+FileChecksum: MD5: a7653eba365c8fc6a3ea45257bf39ffe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_cmp.3
+SPDXID: SPDXRef-item878474
+FileChecksum: SHA1: 5d01a59dd4d7dded211ba9c7f60a433260d1459d
+FileChecksum: MD5: 5beee79758e43d93f219769b713f1156
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_xml_create.3
+SPDXID: SPDXRef-item878475
+FileChecksum: SHA1: be8e012728406da37a63d2db996c5176f43e9cbc
+FileChecksum: MD5: c810cef9a143011b03059fc02357b1f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_session_socks_proxy.3
+SPDXID: SPDXRef-item878476
+FileChecksum: SHA1: 272e2381a50aa8bf7e5b4abdb12a340ac64d22a9
+FileChecksum: MD5: a7653eba365c8fc6a3ea45257bf39ffe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_xml_destroy.3
+SPDXID: SPDXRef-item878477
+FileChecksum: SHA1: cbc9fea23ae11cda7fc7013b717bec48b28c4c2d
+FileChecksum: MD5: 5042971eb6961914c5fb2209157e9f11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_clicert_owner.3
+SPDXID: SPDXRef-item878478
+FileChecksum: SHA1: 5c5c661a439c8ee760f2f4b3b1614a301a381e6a
+FileChecksum: MD5: 25e2433877dd10ab2dd02a7a7cd3c179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_print_request_header.3
+SPDXID: SPDXRef-item878479
+FileChecksum: SHA1: 6bceccd521e54ee59fc55573d6440f7e4d61f62d
+FileChecksum: MD5: dfde7434f1dc19f8a45d9a03847fdb5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_clear.3
+SPDXID: SPDXRef-item878480
+FileChecksum: SHA1: 26ed0112a20e6dcca6d23c5ec07518c88c850f6a
+FileChecksum: MD5: c1ad18472601db330e350885ea60ea95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_get_status.3
+SPDXID: SPDXRef-item878481
+FileChecksum: SHA1: cb59ba744f1c4bca44f7858b9e38ebce912f344c
+FileChecksum: MD5: 08991a64dd4a732908ea7f381c50c439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_get_scheme.3
+SPDXID: SPDXRef-item878482
+FileChecksum: SHA1: a4b6cb203290fb059eb404c4fdc3451e458252f3
+FileChecksum: MD5: e8e038e52c19fa3be5ec27b2dde6d6ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_append.3
+SPDXID: SPDXRef-item878483
+FileChecksum: SHA1: 9668e3ecf65d12952b4ee0512ec6a12fc4249be4
+FileChecksum: MD5: a02b7f9411dfd1601eb49f25b4d095dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_dname_cmp.3
+SPDXID: SPDXRef-item878484
+FileChecksum: SHA1: 030f6906afc56c708643740d0125e1604c0e89b5
+FileChecksum: MD5: aeba9ac4f060de526f5e18518499ea28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_request_dispatch.3
+SPDXID: SPDXRef-item878485
+FileChecksum: SHA1: 14ffaeb61efb55d150da71c97f748255b6db42bc
+FileChecksum: MD5: 3ee88f5fd22c6395c0cc480272ae2f83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_import.3
+SPDXID: SPDXRef-item878486
+FileChecksum: SHA1: 365cb4e18ed4d5b58384c3a7fa9fa5db4b2b4266
+FileChecksum: MD5: f8e294c54f2882e9c9fc14afcda6df4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_addr_first.3
+SPDXID: SPDXRef-item878487
+FileChecksum: SHA1: d30b51d7e2ddf8b824e5c889255df2574ebc445d
+FileChecksum: MD5: d10dfa402e899a235af98f5d18c9fbc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_trust_default_ca.3
+SPDXID: SPDXRef-item878488
+FileChecksum: SHA1: d9fe41e4cc2346ad29c9f3575ca4d883fa6657e4
+FileChecksum: MD5: 6d7c146107895ad920b2bd6a080bc71c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_request_body_buffer.3
+SPDXID: SPDXRef-item878489
+FileChecksum: SHA1: 1a1394534c3f5d9a19852d4046fe20d7e568c4ae
+FileChecksum: MD5: 07f1e5a784c67a8cb1bcedc39afe0281
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_session_create.3
+SPDXID: SPDXRef-item878490
+FileChecksum: SHA1: 60d34535c5ab91bc3e808f46ecef89de75e72e3c
+FileChecksum: MD5: 7ca1ed615fc6e78f6af961912e5fa122
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_request_create.3
+SPDXID: SPDXRef-item878491
+FileChecksum: SHA1: 65ce9a2aca9f1d3aebb898715284633802fca391
+FileChecksum: MD5: 028449856f1b77add8248d01e3d836f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_signedby.3
+SPDXID: SPDXRef-item878492
+FileChecksum: SHA1: 8eee71c8c013027acc3716b4109864f8a7de90a1
+FileChecksum: MD5: 85d3f32e67d773f46c2b15017860c177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_request_flag.3
+SPDXID: SPDXRef-item878493
+FileChecksum: SHA1: 6d6ee64e93bb706fc3709f3ca638cfacf02bdcee
+FileChecksum: MD5: 6e3ab723c1a1add0198bc86ae9139e0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_zappend.3
+SPDXID: SPDXRef-item878494
+FileChecksum: SHA1: 9f3df8e3142f66a678e2093b9e058a2faec1faec
+FileChecksum: MD5: 665a50beda19e369d071ff39dc5a45fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_altered.3
+SPDXID: SPDXRef-item878495
+FileChecksum: SHA1: 18e2dfe5678e004426ee4ca00e5d63764691c3aa
+FileChecksum: MD5: 0504be7ec8bf40392f77958f2f1a7c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_sock_exit.3
+SPDXID: SPDXRef-item878496
+FileChecksum: SHA1: ea245f9cf4fb7814bbfe524cec74cfdb1f4a6248
+FileChecksum: MD5: 0515b2e3f02ba2f09a81f12986e8dd43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_add_request_header.3
+SPDXID: SPDXRef-item878497
+FileChecksum: SHA1: 2a9f4949230672d0359c609f97fb0a70f986f651
+FileChecksum: MD5: 6d66850454c7ef744f6326716baf116d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_forget_auth.3
+SPDXID: SPDXRef-item878498
+FileChecksum: SHA1: d30c9849a158eb4dae1c5b51f7e1598615727656
+FileChecksum: MD5: 785bd7a21ad0944316db53df5249683e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_get_response_header.3
+SPDXID: SPDXRef-item878499
+FileChecksum: SHA1: e532f27d58de84e79943850635e31356ad8ff92a
+FileChecksum: MD5: 6a62a1f1ad8f891a9e6090f02ca3110b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_malloc.3
+SPDXID: SPDXRef-item878500
+FileChecksum: SHA1: dbdbd7f646537e08119b14557c04f7bb3602c572
+FileChecksum: MD5: 64b41fa74efd83050e3e1a0becc2ad2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_iaddr_reverse.3
+SPDXID: SPDXRef-item878501
+FileChecksum: SHA1: 8c32662eda10793c82e0a4ae6e4a521ff722abf7
+FileChecksum: MD5: 56af9a65af7399bb696961ce7a74ea25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_get_error.3
+SPDXID: SPDXRef-item878502
+FileChecksum: SHA1: ffef89c1ce5da693441679e858167af4d8d36569
+FileChecksum: MD5: 6e58f91f5bf257ad1aba965de1144745
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_realloc.3
+SPDXID: SPDXRef-item878503
+FileChecksum: SHA1: f5ee729fb672724ea5032b546a05bc42b1c837c6
+FileChecksum: MD5: 67c56dc24c4054218fc238c0c0a05143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_cert_issuer.3
+SPDXID: SPDXRef-item878504
+FileChecksum: SHA1: 8eee71c8c013027acc3716b4109864f8a7de90a1
+FileChecksum: MD5: 85d3f32e67d773f46c2b15017860c177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_strndup.3
+SPDXID: SPDXRef-item878505
+FileChecksum: SHA1: f5ee729fb672724ea5032b546a05bc42b1c837c6
+FileChecksum: MD5: 67c56dc24c4054218fc238c0c0a05143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_concat.3
+SPDXID: SPDXRef-item878506
+FileChecksum: SHA1: 9f3df8e3142f66a678e2093b9e058a2faec1faec
+FileChecksum: MD5: 665a50beda19e369d071ff39dc5a45fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_addr_next.3
+SPDXID: SPDXRef-item878507
+FileChecksum: SHA1: d30b51d7e2ddf8b824e5c889255df2574ebc445d
+FileChecksum: MD5: d10dfa402e899a235af98f5d18c9fbc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_set_session_flag.3
+SPDXID: SPDXRef-item878508
+FileChecksum: SHA1: 289a0e29afe57bfbef21fc1d07834bbdbd1fdf57
+FileChecksum: MD5: ff71245c5c8eb595ac3faf0da66f73b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_iaddr_typeof.3
+SPDXID: SPDXRef-item878509
+FileChecksum: SHA1: 8c32662eda10793c82e0a4ae6e4a521ff722abf7
+FileChecksum: MD5: 56af9a65af7399bb696961ce7a74ea25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_ssl_trust_cert.3
+SPDXID: SPDXRef-item878510
+FileChecksum: SHA1: 0152649f6e20377f38f5b11fe49d4afc7c039d06
+FileChecksum: MD5: 649341c9d93a679206e1c58b98066d40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_get_server_hostport.3
+SPDXID: SPDXRef-item878511
+FileChecksum: SHA1: a4b6cb203290fb059eb404c4fdc3451e458252f3
+FileChecksum: MD5: e8e038e52c19fa3be5ec27b2dde6d6ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_buffer_destroy.3
+SPDXID: SPDXRef-item878512
+FileChecksum: SHA1: b73cb36179e1eaafaf7e0047da14cc454ec53bb8
+FileChecksum: MD5: de4076117e1fd4939a77ba17e4093990
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/man/ne_qtoken.3
+SPDXID: SPDXRef-item878513
+FileChecksum: SHA1: 37d95207ff5bde120b81abcaa19d2c9366d30c36
+FileChecksum: MD5: 7e3b58e5e5e088e7304d03ba6ea7de88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/using.xml
+SPDXID: SPDXRef-item878514
+FileChecksum: SHA1: 220f14c387ae569ec8da876c4f9827296f7e6d33
+FileChecksum: MD5: 56e6abc6f167bb6e01f8f6007d539aa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/manual.xml
+SPDXID: SPDXRef-item878515
+FileChecksum: SHA1: 889c46d7971a3f654d6045b25184e4d011bd089a
+FileChecksum: MD5: 268954e9c732c56ab394b22951609ad8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/TODO
+SPDXID: SPDXRef-item878516
+FileChecksum: SHA1: eeb3728c184969b65d6a51155ed60cd69305f52c
+FileChecksum: MD5: 31920732489ad9cbea358847eb9799ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/security.xml
+SPDXID: SPDXRef-item878517
+FileChecksum: SHA1: 1d50cda795ec21b76707b2da46ebf858f46331ec
+FileChecksum: MD5: 4ba7a9167a5aa77bff320b6d617c1eff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/feat.xml
+SPDXID: SPDXRef-item878518
+FileChecksum: SHA1: fd1b3d584d2fd780f6d303beb29a0bc54238e30c
+FileChecksum: MD5: c4b12170f8a61aab803fc1e0ef234088
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/parsing-xml.txt
+SPDXID: SPDXRef-item878519
+FileChecksum: SHA1: a8e6863b68f623029482f91c912d51d54ff703dc
+FileChecksum: MD5: 8c265f0948fdece91487c2d8d45771e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/refentry.xml
+SPDXID: SPDXRef-item878520
+FileChecksum: SHA1: 2536caece7feea067a3bc1140180696588466f77
+FileChecksum: MD5: dffa63bb24b6c380260902c364da9709
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refi18n.html
+SPDXID: SPDXRef-item878522
+FileChecksum: SHA1: a3d19d8ba050551b7297560660c09d9e60a143f7
+FileChecksum: MD5: 7f279a61072208570020ac747bde4b75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/intro.html
+SPDXID: SPDXRef-item878523
+FileChecksum: SHA1: 1b12c28773b11c0375bc388bffa26131a2734d54
+FileChecksum: MD5: d3ada140a4073d4f4d55849a7660ba88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refbufapp.html
+SPDXID: SPDXRef-item878524
+FileChecksum: SHA1: 5cee9bcc22a1dcb9ab54124ae319c7c0a49d1d97
+FileChecksum: MD5: 72ba271b4135ac8b58d086ff3276fe14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/referr.html
+SPDXID: SPDXRef-item878525
+FileChecksum: SHA1: ec22aa3a2c6bf0736f3fdc3c8d674c44158d0c49
+FileChecksum: MD5: 45aec371e8d61d25db4434eaccb0d465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refsslcertio.html
+SPDXID: SPDXRef-item878526
+FileChecksum: SHA1: cb5ed3f856ea06a65397db3287affed3a6200ff1
+FileChecksum: MD5: b5df7f47ca2af41beda995d4aeb82b2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refsslvfy.html
+SPDXID: SPDXRef-item878527
+FileChecksum: SHA1: 947fd091b3150b200fc635ec3edf08f5fc01822c
+FileChecksum: MD5: 45e51fee5345a8cc9d616610ab3b23af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refproxy.html
+SPDXID: SPDXRef-item878528
+FileChecksum: SHA1: 48ce3114280985fde595bbead25a1fa08742f8f5
+FileChecksum: MD5: d048ff47641436f510bca275cf786c3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refgetst.html
+SPDXID: SPDXRef-item878529
+FileChecksum: SHA1: b71023775774f6899fb5fa83e2b2c153cb513772
+FileChecksum: MD5: a05a57b09a8e3b5a91be290e368dd1d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refresphdr.html
+SPDXID: SPDXRef-item878530
+FileChecksum: SHA1: dc0b1019b3081bcd3d3627c0e288aa94eb215b1c
+FileChecksum: MD5: 570d76ceb906fbe9fdaebefebbf5860c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refshave.html
+SPDXID: SPDXRef-item878531
+FileChecksum: SHA1: 1c0bf9f95e9f6691f38a5692e5c55e7a827aa32e
+FileChecksum: MD5: cb965b0ed3e378b6e448ffd0e104e3da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refbufcr.html
+SPDXID: SPDXRef-item878532
+FileChecksum: SHA1: 67af3f139cc70bec1124fca4757552a1ea29f4b3
+FileChecksum: MD5: 0a4bb89373658da8d1a84d60812e55e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refstatus.html
+SPDXID: SPDXRef-item878533
+FileChecksum: SHA1: c3d1b23480dae2176cde450c9e5093de66a104cd
+FileChecksum: MD5: 7b7417b97411003eaedb889d24ceba39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refsslca.html
+SPDXID: SPDXRef-item878534
+FileChecksum: SHA1: d2d206cb59527a2aebcc7e9ae0585abe42dc4de0
+FileChecksum: MD5: 3224bc5f4c7e390133ed0bf434238708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/index.html
+SPDXID: SPDXRef-item878535
+FileChecksum: SHA1: 00c67b3eb9aa86c820bf01d1979d9c1bdb4d4e67
+FileChecksum: MD5: 25087fd8dddb5924e906e6bdf75bd6f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refclicert.html
+SPDXID: SPDXRef-item878536
+FileChecksum: SHA1: 77fa8b3bae72b4ccc4228cca52ab1037b9099ec4
+FileChecksum: MD5: 09ff3fbce6956d15307b2d22b225c370
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/reftok.html
+SPDXID: SPDXRef-item878537
+FileChecksum: SHA1: a16abbfc11b4ff4ae094b58b431bbb2021909e8f
+FileChecksum: MD5: fe61153977d5c0e3f58e59ec772e5f98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/using.html
+SPDXID: SPDXRef-item878538
+FileChecksum: SHA1: ceb2692db78e2c3b0fb00baba33543b8999f7b09
+FileChecksum: MD5: 393fbea47803a45adc273970828e2692
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/biblio.html
+SPDXID: SPDXRef-item878539
+FileChecksum: SHA1: e1bb9a674662045f9a504d8f9b21c6982e21c1cc
+FileChecksum: MD5: 87d709e0c96d2424e9b91a8743837446
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refsslcert2.html
+SPDXID: SPDXRef-item878540
+FileChecksum: SHA1: 60566f0e175dabaf0a7ce3dc5643d25cc00ef9d1
+FileChecksum: MD5: fae44575fc5439b2da07da7b4b3479ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refalloc.html
+SPDXID: SPDXRef-item878541
+FileChecksum: SHA1: 41086600ee82e5a86e1c3a5cbafa614068593877
+FileChecksum: MD5: 5b2dbcf694d707bf0740caf5cbe5826e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refneon.html
+SPDXID: SPDXRef-item878542
+FileChecksum: SHA1: f078b5a6ff0b92119b6d53ba0cdf732673769d61
+FileChecksum: MD5: ad6e6ab146dc357404580ff2372a7f56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refsockinit.html
+SPDXID: SPDXRef-item878543
+FileChecksum: SHA1: 671649c973393e05a02b7aac0764555059f25111
+FileChecksum: MD5: 2c539e707ca4c1288334a6af7dd5c303
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refreqhdr.html
+SPDXID: SPDXRef-item878544
+FileChecksum: SHA1: d943d9565f9ead2a2058fac25dc88727d448c606
+FileChecksum: MD5: 5688da655a591dee336ff9b1eecb59d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refxml.html
+SPDXID: SPDXRef-item878545
+FileChecksum: SHA1: feb4f741b3a99078f8c02af8b0b57a1e194a1a72
+FileChecksum: MD5: ae7ccc442f6a1e2456b761ba5b31c231
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/xml.html
+SPDXID: SPDXRef-item878546
+FileChecksum: SHA1: 26ce53550ff8a3c91f81be004f8860fe949cbc8c
+FileChecksum: MD5: 9e25a1974f2fa478df6d6b8d08b72326
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refreqflags.html
+SPDXID: SPDXRef-item878547
+FileChecksum: SHA1: bb4682ea82a93648d10668a805beffbda89a3e22
+FileChecksum: MD5: 567277314b2e23323522de15c5ebcbf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/features.html
+SPDXID: SPDXRef-item878548
+FileChecksum: SHA1: 599e3b566cc58a93c6b6569a1929a697d92094bb
+FileChecksum: MD5: e064a78a765fb28a117d9536d2a8f22a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refvers.html
+SPDXID: SPDXRef-item878549
+FileChecksum: SHA1: 0264c021b1e02473292a5185ba7c9a298a1c79f2
+FileChecksum: MD5: ed502cc0300be17c3f725fde50b8fb18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refreq.html
+SPDXID: SPDXRef-item878550
+FileChecksum: SHA1: 1055a02982efc0e11e85890bb9ba852ad6391a1c
+FileChecksum: MD5: e24bf54a62d79bcf08ded7c48f59e713
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/reffeat.html
+SPDXID: SPDXRef-item878551
+FileChecksum: SHA1: 0b8d6961c6593302e7393c39c482cbb7a4c73454
+FileChecksum: MD5: 0c792fea9507733775850ac38225b2cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refbufdest.html
+SPDXID: SPDXRef-item878552
+FileChecksum: SHA1: 4d7bf3e5019487d92a8805e264963ef5c6ab3c78
+FileChecksum: MD5: d90d3157d8018252421e7d2382d82ea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refcert.html
+SPDXID: SPDXRef-item878553
+FileChecksum: SHA1: 4efe685c9914f688400dcca69c49be3c8cc8f09e
+FileChecksum: MD5: ae4be496bfa803c1f5a306cec43811e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/security.html
+SPDXID: SPDXRef-item878554
+FileChecksum: SHA1: d9e5d0f0507c18f292b714150f86a91a66551777
+FileChecksum: MD5: 90643e6b922bec32407692cd22e6ee29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refssldname.html
+SPDXID: SPDXRef-item878555
+FileChecksum: SHA1: 8bb1848b9a1b7cba04a68aca8b035ecbe94c1a7b
+FileChecksum: MD5: 602880546f2961b550281eab39e1d4a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refsessflags.html
+SPDXID: SPDXRef-item878556
+FileChecksum: SHA1: 72b677d23b21d8c2253c86a798fae6d3e1a271b8
+FileChecksum: MD5: 624defd407a5633041fcd642c9576b7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/compliance.html
+SPDXID: SPDXRef-item878557
+FileChecksum: SHA1: e9bd4cb3a1e591d04b23a6c302ca480f6f50bf32
+FileChecksum: MD5: 2e48747d4e770898e107cf1514029837
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/ref.html
+SPDXID: SPDXRef-item878558
+FileChecksum: SHA1: c179f7e8887291bd562cff66c912393a4e85957b
+FileChecksum: MD5: 2148098fda42e306dd5e42c029542b17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refconfig.html
+SPDXID: SPDXRef-item878559
+FileChecksum: SHA1: 48e22889fb866ca4d0f2669859c3860fbc6a78da
+FileChecksum: MD5: 854ea29f9a7043388f7565d6e60e05b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refiaddr.html
+SPDXID: SPDXRef-item878560
+FileChecksum: SHA1: ed73c0924f2933d02fa0800bdf09e67084bc64de
+FileChecksum: MD5: 74adb6dcfa5c2509b09c2fe30bbd8d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refopts.html
+SPDXID: SPDXRef-item878561
+FileChecksum: SHA1: 82bd8197e0d23db972e8c50d32866bfa62c71bd3
+FileChecksum: MD5: 8c6723b2ae5072fb5a8de328fa03e990
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refauth.html
+SPDXID: SPDXRef-item878562
+FileChecksum: SHA1: d74b9bb4da29630bef6f669701c31635f7cbca2a
+FileChecksum: MD5: 83a54bc63a2a680060893cc5c9b5d2ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refsess.html
+SPDXID: SPDXRef-item878563
+FileChecksum: SHA1: 359fcf5cd812e85e0eb99200f0939a52c27eb3a5
+FileChecksum: MD5: 4eefbf45477a64ea1cf0a085c01ea19b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/manual.proc
+SPDXID: SPDXRef-item878564
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refreqbody.html
+SPDXID: SPDXRef-item878565
+FileChecksum: SHA1: 73a5cbcf9118840648a29bab2d02494ab59fe95b
+FileChecksum: MD5: 93909008d5f29fc5e554630c4574bb7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refbufutil.html
+SPDXID: SPDXRef-item878566
+FileChecksum: SHA1: 8feb227655a4ceeadf041a6fef4baba4849bcbf4
+FileChecksum: MD5: 9ada3568589e5cab26346e5733a0dbf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refresolve.html
+SPDXID: SPDXRef-item878567
+FileChecksum: SHA1: 039951ecf239fb72b3cf91f53385327875da46bc
+FileChecksum: MD5: a51e4f7e702a10b299435f92c4ab596c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/api.html
+SPDXID: SPDXRef-item878568
+FileChecksum: SHA1: 5f1e7fd8d8d590093d97e3d9a98df05a31dbe73c
+FileChecksum: MD5: 6ef564cee5a308b7f1754498398f72ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/html/refbuf.html
+SPDXID: SPDXRef-item878569
+FileChecksum: SHA1: 240e09007a1186f416a0dd5c863f943a18cb9bcc
+FileChecksum: MD5: 3553e9922538af9c701f2c69e27608bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/date.xml
+SPDXID: SPDXRef-item878570
+FileChecksum: SHA1: 9449f08640bdf1d9dded2bec94ec5772efa172ed
+FileChecksum: MD5: de37e7cdd4dd5afb88538f53ba234864
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/doc/ssl.xml
+SPDXID: SPDXRef-item878571
+FileChecksum: SHA1: ada2ab960b79637a6a9875cc72ad2ec42c80b8a1
+FileChecksum: MD5: 376c2f60cf8c1877f62cd149b57b18c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/xmlreq.c
+SPDXID: SPDXRef-item878573
+FileChecksum: SHA1: c427072b1f8281002b8f74f3bbc966d007639c93
+FileChecksum: MD5: ca06c4e4fdf0538caa0386d4ca8d2d06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/expired.pem
+SPDXID: SPDXRef-item878574
+FileChecksum: SHA1: 3fb90d962427afd83c2c927c1f7281dfb9faa6c3
+FileChecksum: MD5: 39953510dae4c79a6bd14edfe2e97336
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/htdocs/plain
+SPDXID: SPDXRef-item878576
+FileChecksum: SHA1: 5cda50c5376a1aeac7d6d5f13ef92d814d73e741
+FileChecksum: MD5: aea46212fa8b8d0e0e6aa34a15c9e2f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/acl3744.c
+SPDXID: SPDXRef-item878577
+FileChecksum: SHA1: 54c3d8fe6cc338179d6e6fbe6912f0db3e832ca7
+FileChecksum: MD5: aa596e2acc0785746834e04aede612b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/string-tests.c
+SPDXID: SPDXRef-item878578
+FileChecksum: SHA1: 19b5d9d14153f256c21001b6176ee38e854b5d4f
+FileChecksum: MD5: 09ba61344de900e0918218897d47120f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/props.c
+SPDXID: SPDXRef-item878579
+FileChecksum: SHA1: 395ed4d203cb4803392a80ddf0f1997e4074d0bf
+FileChecksum: MD5: 24b53d65306324956d0c0665e8a79f2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/openssl.conf
+SPDXID: SPDXRef-item878580
+FileChecksum: SHA1: 9a8eacb57a65ee2758e58447bf3e5621ad165212
+FileChecksum: MD5: e67f47adbe79a4747d0653ba09fddbb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/largefile.c
+SPDXID: SPDXRef-item878581
+FileChecksum: SHA1: 4f0b9df0fb13c775f54129a5c909cbf9a2d7fc04
+FileChecksum: MD5: fab3000e6aa5842fe75102bbec99c8e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/run-tests.sh
+SPDXID: SPDXRef-item878582
+FileChecksum: SHA1: 89309f2be4c17c739797c17aa3e4567077726688
+FileChecksum: MD5: 31174cd88d1ba39275749c42af8837ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/nulcn.pem
+SPDXID: SPDXRef-item878583
+FileChecksum: SHA1: 4da4831c7a13b91bb8c4a52f940b336b73f90693
+FileChecksum: MD5: 7d58525f4d458761ec2ef3acb22e2716
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/nulca.pem
+SPDXID: SPDXRef-item878584
+FileChecksum: SHA1: 813fe46903143870f09cb2ce4f57125381811ee7
+FileChecksum: MD5: cd219748d09365bba558f2888cb2f1a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/auth.c
+SPDXID: SPDXRef-item878585
+FileChecksum: SHA1: e2fefb1d35cc7d3419cfda1e7672387b6bd1301f
+FileChecksum: MD5: 18b7c4333b3c5eb9c10c8e2b48e72250
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/util-tests.c
+SPDXID: SPDXRef-item878586
+FileChecksum: SHA1: 0e4d91fb69868428fe6957c927fbd32e390ce736
+FileChecksum: MD5: adf5c77b64c7a9c75b3a89446c803b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/resolve.c
+SPDXID: SPDXRef-item878587
+FileChecksum: SHA1: 2012665432211ef8c91a0de367e80e5cb6aa869b
+FileChecksum: MD5: 725c53228bfa00f9537d41d17c6109be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/lock.c
+SPDXID: SPDXRef-item878588
+FileChecksum: SHA1: b62a043c234b548b74664d637d5eb09d62101e4f
+FileChecksum: MD5: e8ca5f1115fac38eb48d2c6ffba65448
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/skeleton.c
+SPDXID: SPDXRef-item878589
+FileChecksum: SHA1: 12827395e5da4381dbcbb23c6ed971afbb615471
+FileChecksum: MD5: 8bf322e6e78e74902a991447518718b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/Makefile.in
+SPDXID: SPDXRef-item878590
+FileChecksum: SHA1: 674a2703a2c6c802ca5c2fb7e979ab1dae4c3937
+FileChecksum: MD5: 6e33d1ec488a4c4f512668d009bbc1c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/COPYING
+SPDXID: SPDXRef-item878591
+FileChecksum: SHA1: 075d599585584bb0e4b526f5c40cb6b17e0da35a
+FileChecksum: MD5: 8ca43cbc842c2336e835926c2166c28b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/basic.c
+SPDXID: SPDXRef-item878592
+FileChecksum: SHA1: 6f86b9fd67533d2ab1bcad821696360acaa24cc5
+FileChecksum: MD5: f8bc03ef6f7a5c4adfed0fc9e0f64ee6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/.gdbinit
+SPDXID: SPDXRef-item878593
+FileChecksum: SHA1: bfa9314b414174b95ad41dbf85342f2392c0f82a
+FileChecksum: MD5: 8df9fa7fd4a952721accb85157c8f063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/run.sh
+SPDXID: SPDXRef-item878594
+FileChecksum: SHA1: e8f8df14a7d1f73416871b6f9b099f5d53d9502d
+FileChecksum: MD5: e58640201d56fdaf41fe8992926eca42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/session.c
+SPDXID: SPDXRef-item878595
+FileChecksum: SHA1: 010851422e48271c715b8343e9090eb1e00e9027
+FileChecksum: MD5: 00448a21fdd72f01b9c1ecacc60fc44a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/utils.c
+SPDXID: SPDXRef-item878596
+FileChecksum: SHA1: e328f1a05be91260d424a12bfca425e01aac56ab
+FileChecksum: MD5: 981ec629c58938ec3adc0dee2c3c1469
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/socket.c
+SPDXID: SPDXRef-item878597
+FileChecksum: SHA1: eac44a4211d637a411de76e05514486e51705f1b
+FileChecksum: MD5: 2ad1bc7a33ffbf8052c270314e40e176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/stubs.c
+SPDXID: SPDXRef-item878598
+FileChecksum: SHA1: e84cb02b62e339d28b9e9e46398c21ab6fb69a7b
+FileChecksum: MD5: e425c741b94b5039c8fffcba41bdd5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/request.c
+SPDXID: SPDXRef-item878599
+FileChecksum: SHA1: cfc33f9245203da61a3f00430f04263a5f79d00d
+FileChecksum: MD5: 333deda20454e8a5f4b62af3da39b947
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/ssl.c
+SPDXID: SPDXRef-item878600
+FileChecksum: SHA1: 0aeb651ef0e410d6c0c746fcc2584b5076f8558e
+FileChecksum: MD5: 36a19bf9d5ef23c5bd04025bc6846aec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/redirect.c
+SPDXID: SPDXRef-item878601
+FileChecksum: SHA1: 9cf5f8b7b70384e1e790bcca9e4fcfda644e0db4
+FileChecksum: MD5: 0098022032954acc9dbf9ed90778a9bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/compress.c
+SPDXID: SPDXRef-item878602
+FileChecksum: SHA1: 9f39dc0f3ae7d03c6b3d26c60be97e7c3d5316e3
+FileChecksum: MD5: f3324e21921df0ce96bda783f58bd806
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/makekeys.sh
+SPDXID: SPDXRef-item878603
+FileChecksum: SHA1: 1254c08ce614bef31bb0cb4dcaed05ba89a41eba
+FileChecksum: MD5: df97fe38794caf96c1837ec69d4f2868
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/oldacl.c
+SPDXID: SPDXRef-item878604
+FileChecksum: SHA1: ea6f5b075082ac37f49de1f673240ff812ef35b0
+FileChecksum: MD5: 8a6ca7a0b7689cd0bb99ecffbe2b5300
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/nulsan.pem
+SPDXID: SPDXRef-item878605
+FileChecksum: SHA1: 3844c421329f1c725b3b1e535debb76bcd38b7d8
+FileChecksum: MD5: 6918b6ca0ed2f832965b715aae772e09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/README
+SPDXID: SPDXRef-item878606
+FileChecksum: SHA1: 852db2a8dfc54262f883642cb50ea44da1da0cd7
+FileChecksum: MD5: a6ea667683212305ef93e9ea724c9287
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/common/tests.c
+SPDXID: SPDXRef-item878608
+FileChecksum: SHA1: 331b44e63a0deb3c2c57a67eefd6d166ae4482f5
+FileChecksum: MD5: dd90de48f7c38d4495ad4ea9f99c696a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/common/child.c
+SPDXID: SPDXRef-item878609
+FileChecksum: SHA1: 730b38f64ef94bbd8bcf985b341bf68ac0848891
+FileChecksum: MD5: 04b276303a3a58629e1e684545d4b273
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/common/run.sh
+SPDXID: SPDXRef-item878610
+FileChecksum: SHA1: 626252718c3efc02a950720885b106f41e938c4b
+FileChecksum: MD5: f67eca66c6a15ecbf8c6693215615e58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/common/tests.h
+SPDXID: SPDXRef-item878611
+FileChecksum: SHA1: 92badeca84c60d90fec5e4645416c3ab6442428b
+FileChecksum: MD5: 82cc788ed64180e6c7372bb31480b0e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/common/README
+SPDXID: SPDXRef-item878612
+FileChecksum: SHA1: 9ee73e856c3541975b083a0c52958ab62f32def2
+FileChecksum: MD5: db9da62dfd9d10d4744c41df453a1848
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/common/child.h
+SPDXID: SPDXRef-item878613
+FileChecksum: SHA1: 61dcd059b4e1982683fd74b857e809759baeb41d
+FileChecksum: MD5: bf607e4aadb2e61c85eb6ed0cf03b6f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/common/ChangeLog
+SPDXID: SPDXRef-item878614
+FileChecksum: SHA1: 22fea240af2feb10bc18cd323e421d9e028472fb
+FileChecksum: MD5: 4374db7562aad0e8f42daf39e044cbd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/util-socks.c
+SPDXID: SPDXRef-item878615
+FileChecksum: SHA1: 544f9ef757b63473a8adfeb1a64c42483b7f565f
+FileChecksum: MD5: 991f4504313d4308cb59c3ff6f806903
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/utils.h
+SPDXID: SPDXRef-item878616
+FileChecksum: SHA1: b7d11775fba58ee0f6929bee5aaf0c1607cf85a9
+FileChecksum: MD5: 722b3c14c0a23a29cc38405438bf4fc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/nulsrv.key
+SPDXID: SPDXRef-item878617
+FileChecksum: SHA1: 4849f47bcdb4a61c81396f5dc674a3304cfacbca
+FileChecksum: MD5: 7400d198c3f4b486c4af31a0672abfb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/STATUS
+SPDXID: SPDXRef-item878618
+FileChecksum: SHA1: 090ff69690b768c93b02c808ed79619749997d6c
+FileChecksum: MD5: c70550a17768f3562fb9c8e1f96b3311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/notvalid.pem
+SPDXID: SPDXRef-item878619
+FileChecksum: SHA1: 12957fde897375f3485ce1bf53415a5281a54367
+FileChecksum: MD5: e8e50b7d201e576f0664bffe6f31731f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/xml.c
+SPDXID: SPDXRef-item878620
+FileChecksum: SHA1: a4f67a6a376776727998031fadc48d1f820d9063
+FileChecksum: MD5: 0081ae0743f52afc5a3efe811cedf190
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/uri-tests.c
+SPDXID: SPDXRef-item878621
+FileChecksum: SHA1: fb05b11c1af18a7f9b44611df2472898df592494
+FileChecksum: MD5: e943c7e43d9b0d8092428472886b369f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/test/ChangeLog
+SPDXID: SPDXRef-item878622
+FileChecksum: SHA1: fc54eaf211409dfc72d835302aa373f1b0f32e38
+FileChecksum: MD5: a2bbe2aeca11533b4d8c42f79ccb8d29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.release.sh
+SPDXID: SPDXRef-item878623
+FileChecksum: SHA1: 2296474ff7ee20b55a769b6300fb04402d2d66d2
+FileChecksum: MD5: 7b786bcef58f1b9c02c7e9a565c4e495
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/neon-config.in
+SPDXID: SPDXRef-item878624
+FileChecksum: SHA1: c95f5542f6a9b63acd184a33cd82cfb72e694875
+FileChecksum: MD5: a8093f5affbfb5b80b5d2567f9c812ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/README
+SPDXID: SPDXRef-item878625
+FileChecksum: SHA1: c9cfd45db60efd8022a136b3d227e7e5f399c63c
+FileChecksum: MD5: 7d62859e362706308321ef896486d755
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/config.hw
+SPDXID: SPDXRef-item878626
+FileChecksum: SHA1: 9348325b26c5ad2e132e3f2f2633855c8275780d
+FileChecksum: MD5: 9c2b5590721996d501859f06bd4e3131
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/config.hw.in
+SPDXID: SPDXRef-item878627
+FileChecksum: SHA1: ef4ec41eb5f3d72caa0025dc8b32ae7902e85195
+FileChecksum: MD5: 495d24d99c85ed43ea5292807e07ceee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.pc/applied-patches
+SPDXID: SPDXRef-item878629
+FileChecksum: SHA1: b50b585cb26cf97878633ed7993953c6fe93811e
+FileChecksum: MD5: bfacfbda41877c56e1df1c71b22a862c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.pc/pkgconfig.patch/neon.pc.in
+SPDXID: SPDXRef-item878631
+FileChecksum: SHA1: 3f846f282d3d54e6005def136ca90877a5d7af14
+FileChecksum: MD5: 61892e4097275fe48604d1b0a88f2293
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.pc/pkgconfig.patch/.timestamp
+SPDXID: SPDXRef-item878632
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.pc/.quilt_series
+SPDXID: SPDXRef-item878633
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.pc/.version
+SPDXID: SPDXRef-item878634
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/.pc/.quilt_patches
+SPDXID: SPDXRef-item878635
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/configure.ac
+SPDXID: SPDXRef-item878636
+FileChecksum: SHA1: 912756f2fc1dc3e8cb152641722240fa0243a4aa
+FileChecksum: MD5: cd93926402dd0fdc40902467efd3225c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/patches/series
+SPDXID: SPDXRef-item878639
+FileChecksum: SHA1: 162e78edc2bfad4e5a3bf7049ba67cf21df173cc
+FileChecksum: MD5: cd8cdd90be6f450c7aa27b1e6f5e179d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/ChangeLog.CVS
+SPDXID: SPDXRef-item878640
+FileChecksum: SHA1: 45e9af0011021ab3169d1872280978b9867bc6c3
+FileChecksum: MD5: ce9f5fad2b95fe274cb77f6f12af007c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/config.guess
+SPDXID: SPDXRef-item878641
+FileChecksum: SHA1: b35a5c3fd2b1a5a55a3320c7cd12f17c2c8224b7
+FileChecksum: MD5: eea34cf893bb060ee20189e256a8065a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/autogen.sh
+SPDXID: SPDXRef-item878642
+FileChecksum: SHA1: f37bee8ae47e42716db3b9b0b5923cad318bce91
+FileChecksum: MD5: 007188ab7ebbb356c7e9401decfc638d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/neon-0.30.2/ChangeLog
+SPDXID: SPDXRef-item878643
+FileChecksum: SHA1: abf0bf5bbf2b3d0afbf9657be409b299fa912602
+FileChecksum: MD5: 06d3ecd4063ac268ba333d06c171426c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Same-license-as
+LicenseName: Same-license-as
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

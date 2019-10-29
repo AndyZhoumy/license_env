@@ -1,0 +1,6744 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_iproute2-4.11.0-r0-patched.tar.gz_1571457400.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:56:41Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: iproute2
+PackageVersion: 4.11.0
+PackageFileName: iproute2-4.11.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload300
+PackageDownloadLocation: http://cdn.kernel.org/pub/linux/utils/net/iproute2/iproute2-4.11.0.tar.xz
+PackageHomePage: http://www.linuxfoundation.org/collaborate/workgroups/networking/iproute2
+PackageSummary: <text>TCP / IP networking and traffic control utilities</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>iproute2 version 4.11.0</text>
+PackageChecksum: SHA1: c99e1054df8cb7c11b32ec4bd897e49791f68e48
+PackageChecksum: MD5: 4748700d89d3c3a87fe2dcf223f03ed7
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload300
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-include-stdint.h-explicitly-for-UINT16_MAX.patch
+SPDXID: SPDXRef-item834691
+FileChecksum: SHA1: 26382359330c0f29424131a79934c244e0f36ece
+FileChecksum: MD5: 5a27b750fed55fede08184d77849bec6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/configure-cross.patch
+SPDXID: SPDXRef-item834692
+FileChecksum: SHA1: 63139dc97d578ee42492da1e80df2eff47c1b035
+FileChecksum: MD5: e11941dabfd415e3a55dacf0780be6f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-libc-compat.h-add-musl-workaround.patch
+SPDXID: SPDXRef-item834693
+FileChecksum: SHA1: bfd65629ef6e2432bf80782dd32fee214a0b8852
+FileChecksum: MD5: f1a50bff8d4f6393861d35cb8a5203c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/README.iproute2+tc
+SPDXID: SPDXRef-item834695
+FileChecksum: SHA1: 81de7770e302a594a6f8cf2e74edbb04591231e3
+FileChecksum: MD5: a47b50b38a1a2d80b7f23b9ee1b8a24f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/Makefile
+SPDXID: SPDXRef-item834696
+FileChecksum: SHA1: 798ff1f1fe04b18e118c7de85144cbdb5fd397b9
+FileChecksum: MD5: e286506be4a97b4732f75af30125db70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bash-completion/tc
+SPDXID: SPDXRef-item834698
+FileChecksum: SHA1: 28472e6d77d79a1b307c6113d44ccb0e0df287c8
+FileChecksum: MD5: 84937550712ef8bd410598e58310bbef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/devlink/Makefile
+SPDXID: SPDXRef-item834700
+FileChecksum: SHA1: a371f625d41267006e37590b1eba419b7ede1028
+FileChecksum: MD5: c78775be24d77847c6363d0c77212c80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/devlink/mnlg.h
+SPDXID: SPDXRef-item834701
+FileChecksum: SHA1: c607297bf3a3c15c6c5b3c9ed21eea3488a1ad5c
+FileChecksum: MD5: 519023cc037d310c2bad2357ccba4328
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/devlink/devlink.c
+SPDXID: SPDXRef-item834702
+FileChecksum: SHA1: b8cdad59239911701b9e867ff47fc04c6fed03ae
+FileChecksum: MD5: 3cc0342c290c2bb3459bb925c8affe45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/devlink/.gitignore
+SPDXID: SPDXRef-item834703
+FileChecksum: SHA1: 7a7d425daa9cae751304002e973d0c3968a19b26
+FileChecksum: MD5: f7078d4b14ffd1f7bf9bfa25d948485e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/devlink/mnlg.c
+SPDXID: SPDXRef-item834704
+FileChecksum: SHA1: 8104688fddb31b6e5a57a57e2305816daa5a4e78
+FileChecksum: MD5: acc92c3b679b6a7e6cebdbb343f181c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/Makefile
+SPDXID: SPDXRef-item834706
+FileChecksum: SHA1: 3ed8e0395e1ccad07d10137d533e59e17e567363
+FileChecksum: MD5: fdf89880bfb1d93bfafe976e51b253ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/socket.h
+SPDXID: SPDXRef-item834707
+FileChecksum: SHA1: 128f5956d8484279c1bcf0d5cd5e186006a430c9
+FileChecksum: MD5: 7bae6793e72be5a2fb517b081cab7d52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/node.c
+SPDXID: SPDXRef-item834708
+FileChecksum: SHA1: fc7785e258147028be822a291c911de0641180e0
+FileChecksum: MD5: f69c2556b6f6834b4f038b3f1516204a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/nametable.h
+SPDXID: SPDXRef-item834709
+FileChecksum: SHA1: 0724ed52a93caf909cc80f54d9f9de4327310a37
+FileChecksum: MD5: 771a3b9e4543d84fb09f3a8d2d4f0aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/msg.c
+SPDXID: SPDXRef-item834710
+FileChecksum: SHA1: 22c016566f23b5c94ce7443bcbbddf5aff929acb
+FileChecksum: MD5: a364e3295f8cdb61cc2ffc7a3c854017
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/link.h
+SPDXID: SPDXRef-item834711
+FileChecksum: SHA1: 127b9b898298a86c3107af0ba09974c922ba29df
+FileChecksum: MD5: 42c4a5c5ad6d409b39f545eea2dc272e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/.gitignore
+SPDXID: SPDXRef-item834712
+FileChecksum: SHA1: 1b04c5de542b40eee7ee9050fd75d82ecf7d0588
+FileChecksum: MD5: b773ec88b7b317869fcc16eb746edb1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/bearer.h
+SPDXID: SPDXRef-item834713
+FileChecksum: SHA1: 4cd601e4f2f669ce6bb15745c98b6518b5caf24d
+FileChecksum: MD5: c56cb90617d4925ddb280aab3f7b63b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/media.c
+SPDXID: SPDXRef-item834714
+FileChecksum: SHA1: 727064f4b726abecf43c451ce564200214ebbeb2
+FileChecksum: MD5: 37e536be30d292559f72d6c0220f4f10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/socket.c
+SPDXID: SPDXRef-item834715
+FileChecksum: SHA1: 546609495f1e4e3fed72e8dc243ac0eba1fc7ee0
+FileChecksum: MD5: 24edb42c19422276e08823c1e17cbcf2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/msg.h
+SPDXID: SPDXRef-item834716
+FileChecksum: SHA1: 3602ecff040224b9f210a63bee1b75e3b629c772
+FileChecksum: MD5: 81274f0460318051b2baaa1c610a7e9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/cmdl.c
+SPDXID: SPDXRef-item834717
+FileChecksum: SHA1: 6a4f2a9a4db631da992be3e22eb44fb541628934
+FileChecksum: MD5: c26b860ed258d2cdd7c7574bfea1a4bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/link.c
+SPDXID: SPDXRef-item834718
+FileChecksum: SHA1: d142ad5079c6b4a1493c216f5166a2805ee7bceb
+FileChecksum: MD5: 3770ca2bb41d620405bd0eabdca8c30e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/README
+SPDXID: SPDXRef-item834719
+FileChecksum: SHA1: 340d484c343d89173cbd9eceddb7dfaca8a5949b
+FileChecksum: MD5: cde28209d356719df66114eb89df67a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/media.h
+SPDXID: SPDXRef-item834720
+FileChecksum: SHA1: b5254d114a43f6e5742c47a9f3829c6469f33236
+FileChecksum: MD5: 3b485a4d130e0740ff3da8a86ae08e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/misc.h
+SPDXID: SPDXRef-item834721
+FileChecksum: SHA1: 21edf6da5db6aeddf49c3b5360d8303d8e03f539
+FileChecksum: MD5: 2e1bc0b8b5031ed515ac17eee136afa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/bearer.c
+SPDXID: SPDXRef-item834722
+FileChecksum: SHA1: 462cc2116165221581a4777e7c1dcae2cd9e2515
+FileChecksum: MD5: 603361583accb1f812c8657b0dc6530c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/nametable.c
+SPDXID: SPDXRef-item834723
+FileChecksum: SHA1: 18d732fddcef28f554cd79dd85a0493d1dbfc22f
+FileChecksum: MD5: 94bafd0f2109f596f73efc5953f27baf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/peer.h
+SPDXID: SPDXRef-item834724
+FileChecksum: SHA1: fc566364efeacbb6476cce6e68d0255b88684ce5
+FileChecksum: MD5: 562a98a5521bf851f57cc0099382afed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/peer.c
+SPDXID: SPDXRef-item834725
+FileChecksum: SHA1: 1157e29542fbd7abc1149e9dc4abb082d1b17d9f
+FileChecksum: MD5: 723941535b2c69bf9b54123a11f54749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/node.h
+SPDXID: SPDXRef-item834726
+FileChecksum: SHA1: 1ccb1503c3724133d5b11b1fa517dd3a9cb3e99f
+FileChecksum: MD5: c90971ccb6d71d8c0bb6d0cd4fd4a52c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/cmdl.h
+SPDXID: SPDXRef-item834727
+FileChecksum: SHA1: 9d42fe109119e4ece8a18c8bd3f161830603d28a
+FileChecksum: MD5: 0ba3b4b38a169935148e8b3944ffb6ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/tipc.c
+SPDXID: SPDXRef-item834728
+FileChecksum: SHA1: 4792508ce00f7de015a229784a53735a2fdbc2af
+FileChecksum: MD5: b532ce54ddb9b6b51fca9deda2541e22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tipc/misc.c
+SPDXID: SPDXRef-item834729
+FileChecksum: SHA1: 4b57e937ab24cef5b42dd9b9688f897fee917728
+FileChecksum: MD5: fb8e8f52b69cdb27e01e5d6296d09301
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/rt_tables
+SPDXID: SPDXRef-item834732
+FileChecksum: SHA1: da6ecd3c272b22a495a7498c1da2e68348b8e22b
+FileChecksum: MD5: a1313318d6778fe6b8c680248ef5a463
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/rt_protos.d/README
+SPDXID: SPDXRef-item834734
+FileChecksum: SHA1: 513edd15d8113cd1d8a259cd407610847679ced3
+FileChecksum: MD5: 88e45597012c565f9a10ffef1bc14312
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/nl_protos
+SPDXID: SPDXRef-item834735
+FileChecksum: SHA1: c9a8e6c59067f0d6bc5fcc4a6cea0b5bddaf314f
+FileChecksum: MD5: 393e42fa549d0974eb66d576675779c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/rt_dsfield
+SPDXID: SPDXRef-item834736
+FileChecksum: SHA1: d2bc998f14cbc997cd053824d21b561db38df289
+FileChecksum: MD5: 4c80d267a84d350d89d88774efe48a0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/group
+SPDXID: SPDXRef-item834737
+FileChecksum: SHA1: 96881d20ee9d521b74d4bde6c12d6f1bdb210c96
+FileChecksum: MD5: 3aea2c0e0dd75e13a5f8f48f2936915f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/rt_tables.d/README
+SPDXID: SPDXRef-item834739
+FileChecksum: SHA1: 9ff854565653109964dc150be98321b289d09809
+FileChecksum: MD5: 18bfdabbd4d5b14eae350720ea5ff431
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/ematch_map
+SPDXID: SPDXRef-item834740
+FileChecksum: SHA1: 3bbb30a83d9786de12ca7cb97464a978fb0c843b
+FileChecksum: MD5: b91e7f9b26918449bade9573f8871d61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/rt_realms
+SPDXID: SPDXRef-item834741
+FileChecksum: SHA1: ab64726fcfeb050b86ab31825cb7b2ec6700002d
+FileChecksum: MD5: 7137bdf40e8d58c87ac7e3bba503767f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/bpf_pinning
+SPDXID: SPDXRef-item834742
+FileChecksum: SHA1: 4a42a4c2f078e0a2c3845bc5c0a57c17adc144bb
+FileChecksum: MD5: fd070252e6e9996bd04d9d59e4ce21eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/rt_scopes
+SPDXID: SPDXRef-item834743
+FileChecksum: SHA1: 71a4c71af485bca57a562b6d0c73fec23a93c11c
+FileChecksum: MD5: 6298b8df09e9bda23ea7da49021ca457
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/etc/iproute2/rt_protos
+SPDXID: SPDXRef-item834744
+FileChecksum: SHA1: d01010fb1326d5dc2129e6c39c358c62d036e5fa
+FileChecksum: MD5: a4f97323f29caf9faf49596aea11d91a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/COPYING
+SPDXID: SPDXRef-item834745
+FileChecksum: SHA1: b47456e2c1f38c40346ff00db976a2badf36b5e3
+FileChecksum: MD5: eb723b61539feef013de476e68b5c50a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/configure
+SPDXID: SPDXRef-item834746
+FileChecksum: SHA1: 73f60a689a0ddc2ef738ed191296bce113c6cc85
+FileChecksum: MD5: 6da403f649aa7761044f5a1152345191
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/Makefile
+SPDXID: SPDXRef-item834748
+FileChecksum: SHA1: 38171d45be132e0e26abb8c4ac295d450421cc76
+FileChecksum: MD5: 116d1593c0874cbe1117b2bc8396a208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man3/Makefile
+SPDXID: SPDXRef-item834750
+FileChecksum: SHA1: 049d4e3f4ef17de64236a3cbfdc332e6625cb22b
+FileChecksum: MD5: 7573eb973b02c27b4086fb3012c28dea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man3/libnetlink.3
+SPDXID: SPDXRef-item834751
+FileChecksum: SHA1: ffa8ade414501823a6b0f025455f725206999d06
+FileChecksum: MD5: c1cdebcce8fa27b33c07012939e9336b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-netns.8
+SPDXID: SPDXRef-item834753
+FileChecksum: SHA1: a95491d5bae22cd65b632739ae26b2417c94237e
+FileChecksum: MD5: 1ea5095345953f5fc3824f956c95904a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-pfifo.8
+SPDXID: SPDXRef-item834754
+FileChecksum: SHA1: 98713d6aa97e2d00168a0b698dfb581d7777e803
+FileChecksum: MD5: 5913001599368ac45968e17aec38ec7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-skbmod.8
+SPDXID: SPDXRef-item834755
+FileChecksum: SHA1: 5f51aa13a8e1701369efd49d96433a29cc52b9bb
+FileChecksum: MD5: 022d77ea4417387369ce9d4a1da0fdc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/Makefile
+SPDXID: SPDXRef-item834756
+FileChecksum: SHA1: df597f48123ad9227991da22d4677ef74d012d11
+FileChecksum: MD5: c1392699b1efb38f5c4e649d57d9ca0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tipc-bearer.8
+SPDXID: SPDXRef-item834757
+FileChecksum: SHA1: 8edf0805269d06a7dbc0aa7e443ff532a42319af
+FileChecksum: MD5: 985165bbb6b6b581408a045aba30b38f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-flow.8
+SPDXID: SPDXRef-item834758
+FileChecksum: SHA1: bb2cf2cf1453f49c12b7b352d92868a6de7dc77f
+FileChecksum: MD5: 386f257f062ead109287a69e1bd16916
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-rule.8
+SPDXID: SPDXRef-item834759
+FileChecksum: SHA1: d8367afbcf9cd1205b1b01713986215555c061e5
+FileChecksum: MD5: e6f34de8f7eddd77a771f0bc0eee9a58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-maddress.8
+SPDXID: SPDXRef-item834760
+FileChecksum: SHA1: 387747991cb6cb223b9c21b650bc6dbb0219f911
+FileChecksum: MD5: efeaa54ce2a4c24f3d1bcf45300289c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-skbedit.8
+SPDXID: SPDXRef-item834761
+FileChecksum: SHA1: b81f0b28320e840cd782d15a4dba9439aa8b58f7
+FileChecksum: MD5: a0dfe596e52d53f683a43864ba2d09bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-netconf.8
+SPDXID: SPDXRef-item834762
+FileChecksum: SHA1: 9e95b59663a3dcd424c2adbe61a28de7ace4da5b
+FileChecksum: MD5: 977527c0d1486303fe90de5280767de7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tipc.8
+SPDXID: SPDXRef-item834763
+FileChecksum: SHA1: 3d1e91e2b44c0dbce058030ef5de7964eb7424f2
+FileChecksum: MD5: 93184f8a7a7c39a3ce3b22069b129d35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-drr.8
+SPDXID: SPDXRef-item834764
+FileChecksum: SHA1: 5b5d241e1f68a72eb666ec584f6fbf2b1cd930d2
+FileChecksum: MD5: a6c0a003a73e1aaa9dae8f22c295b4d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-token.8
+SPDXID: SPDXRef-item834765
+FileChecksum: SHA1: 52f4ba7a7ee35a991172d6e21f8d027f62eab5e2
+FileChecksum: MD5: 327e475cc35900f0ced5c889a04aeb8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ss.8
+SPDXID: SPDXRef-item834766
+FileChecksum: SHA1: 67766ff7351bd824f01119fe181dee3e65ee3c77
+FileChecksum: MD5: 159594d9defa4e4bbc54871170b3dc19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-route.8.in
+SPDXID: SPDXRef-item834767
+FileChecksum: SHA1: 899f71ae4fbc023322541586346b811569807bed
+FileChecksum: MD5: d55ef3a1e38dfae75a98d9af57bc270e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-bpf.8
+SPDXID: SPDXRef-item834768
+FileChecksum: SHA1: 7ed307f72f9a29c3e5ac41a3fbc580b2e8eede5a
+FileChecksum: MD5: fbddd3542f505c3c93d4d5da09a57727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-stab.8
+SPDXID: SPDXRef-item834769
+FileChecksum: SHA1: 32cb98c9c80ff784af0a0a46a3553b5f40322b09
+FileChecksum: MD5: b728148a0f4c80691db5c3aa3f6f5dfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-nat.8
+SPDXID: SPDXRef-item834770
+FileChecksum: SHA1: 66171697d1db03a531eb6fd4c770b92d111c9895
+FileChecksum: MD5: d10cf06ead1b1a5421a9ddbcd0ac50f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/bridge.8
+SPDXID: SPDXRef-item834771
+FileChecksum: SHA1: 85633e15b22256ee6a274ad99577251d4f61e218
+FileChecksum: MD5: b435ff2b4eca1437488079b83d6ff00d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-gue.8
+SPDXID: SPDXRef-item834772
+FileChecksum: SHA1: f311ece037167b7c9eb8204de118021b176e82ad
+FileChecksum: MD5: 0372a37ff60da5c5d0c70f3f7e2e3eb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-l2tp.8
+SPDXID: SPDXRef-item834773
+FileChecksum: SHA1: 707c3a0e0572fc217e1f1dd36051e39b2ac4f95c
+FileChecksum: MD5: a9e65857d7d259e190d6ea6caa89683e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-choke.8
+SPDXID: SPDXRef-item834774
+FileChecksum: SHA1: 01c7bea6bb02380b7c425c1e2220dbb7446a1598
+FileChecksum: MD5: 72ace0b80b91202cd6837e9ed21f984f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-u32.8
+SPDXID: SPDXRef-item834775
+FileChecksum: SHA1: 720e64377bbc8e1cf51db2bf5cb2d25ab992a936
+FileChecksum: MD5: 144edff4dbd09f507c981329c34ca0f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tipc-nametable.8
+SPDXID: SPDXRef-item834776
+FileChecksum: SHA1: 589c4e97d48507cab368694cbe4f6072cee395fc
+FileChecksum: MD5: 2ffa8d8908c76be44c42efcfa1e0bca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-sample.8
+SPDXID: SPDXRef-item834777
+FileChecksum: SHA1: 5ff82a12b14371286916e4e6add5141adf057a8a
+FileChecksum: MD5: 4d5dc64c369ae4ecc9ca309f5d02df01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-tunnel.8
+SPDXID: SPDXRef-item834778
+FileChecksum: SHA1: 3da52dd0039fda899057ddc2b63c0310910387ba
+FileChecksum: MD5: 8402384c035d972d5c10e00fc9af6274
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-ematch.8
+SPDXID: SPDXRef-item834779
+FileChecksum: SHA1: 9a7f30facd4b5b274fd06e93b814857096863b83
+FileChecksum: MD5: 2f0c542556df8233f818737f9628e721
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-xt.8
+SPDXID: SPDXRef-item834780
+FileChecksum: SHA1: 658c040637f154970c203c417413e4323c65ef26
+FileChecksum: MD5: ed2b280615ce40e0a31757fd00af31ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-hfsc.8
+SPDXID: SPDXRef-item834781
+FileChecksum: SHA1: 22f3cdac70eeb4ba6cb2adc2c9b25428505ef1ed
+FileChecksum: MD5: 980823617450c076ba46e4da1e5e0989
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-sfq.8
+SPDXID: SPDXRef-item834782
+FileChecksum: SHA1: 261b6df9c0c0deac2cfce8a951406f7599659c40
+FileChecksum: MD5: 6d236181dbbc30618fed839aa5f44da9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-link.8.in
+SPDXID: SPDXRef-item834783
+FileChecksum: SHA1: bd9439ddfc44a8bd20a9b10295303745ee3c1f51
+FileChecksum: MD5: 7ccb9c3596a6cb0d9e437b088a4741f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-mroute.8
+SPDXID: SPDXRef-item834784
+FileChecksum: SHA1: 593c312dc133d96d04a208268b169d5fd2662164
+FileChecksum: MD5: 57a60eb31e9f067a0dd4e84317b19515
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/devlink-dev.8
+SPDXID: SPDXRef-item834785
+FileChecksum: SHA1: e0c24335e8119bda0920b9d82b266a7a72d23d53
+FileChecksum: MD5: deb6d48c971194b9c988df7c1e4c8023
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ifcfg.8
+SPDXID: SPDXRef-item834786
+FileChecksum: SHA1: 6d91b0a71bdb73d32f294b2db2f8c656c1bc2980
+FileChecksum: MD5: 4ec30c1adf9e602982f839f8aaeef124
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/devlink-sb.8
+SPDXID: SPDXRef-item834787
+FileChecksum: SHA1: 84be3a4d81a2fa67a88702526da57e9de9ea19e4
+FileChecksum: MD5: 6a155878b2ebac15be1a2949a9f720db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/rtacct.8
+SPDXID: SPDXRef-item834788
+FileChecksum: SHA1: 93f38e5c1284fb6217531acf242299870ec36e7f
+FileChecksum: MD5: ba1ccb59783c0ddb9da47e02c76b64ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-fq_codel.8
+SPDXID: SPDXRef-item834789
+FileChecksum: SHA1: e8723adc3fa89a47545ea1923de4c099152e105e
+FileChecksum: MD5: 670e6aa0442b99247fd17b9fadfdef94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-fou.8
+SPDXID: SPDXRef-item834790
+FileChecksum: SHA1: 4d6b751d4d162d0e761402232149adf41fb9606a
+FileChecksum: MD5: b2c26babbd0a895312f9c54e8c995237
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/rtpr.8
+SPDXID: SPDXRef-item834791
+FileChecksum: SHA1: 6aaa8187c9f4ebc9b729be7a21380c75df8ae20d
+FileChecksum: MD5: edf30ee0e85b1542f3a6bd23675fc132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ctstat.8
+SPDXID: SPDXRef-item834792
+FileChecksum: SHA1: adefd51c558d54d68f61b59f567e005142312dad
+FileChecksum: MD5: 29e6212d6fc55be4d6821a5b0197aa10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tipc-node.8
+SPDXID: SPDXRef-item834793
+FileChecksum: SHA1: 3da118f9daf36d67c86d2fef7be80ad01719ea6c
+FileChecksum: MD5: 3fae7da101186e9fb409b9e85f03720d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-red.8
+SPDXID: SPDXRef-item834794
+FileChecksum: SHA1: 725e9454e3f9137b8036880fe9b4ad329ff0450e
+FileChecksum: MD5: d17930d6b134ff999f962569c5ce06f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/rtmon.8
+SPDXID: SPDXRef-item834795
+FileChecksum: SHA1: a6027517c599df40748dda9013f28193d6e96b76
+FileChecksum: MD5: d5e52a69ed80448e88200bf050003a86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-fw.8
+SPDXID: SPDXRef-item834796
+FileChecksum: SHA1: 4e856540230fc76fee4439aed11e84230f22c319
+FileChecksum: MD5: e050ba1c7f32698b1c0fd3ffda447a29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-address.8.in
+SPDXID: SPDXRef-item834797
+FileChecksum: SHA1: 27a75543d49a5a00ff3bfb266db7b3f7e5b97ce2
+FileChecksum: MD5: e14fd12eb0f6c7179dc3f9335b707f00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-pfifo_fast.8
+SPDXID: SPDXRef-item834798
+FileChecksum: SHA1: f2359678f26ce047843385388b325e50e18034f1
+FileChecksum: MD5: 429409847b38a7d4ea66a95b8f10e299
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/.gitignore
+SPDXID: SPDXRef-item834799
+FileChecksum: SHA1: eec97ff125342560cf723bd51905d37d1bcd9460
+FileChecksum: MD5: be35785283ee08b716feba16c4565f05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-sfb.8
+SPDXID: SPDXRef-item834800
+FileChecksum: SHA1: c93b629ff106671be99af5025aac8810f307fe18
+FileChecksum: MD5: fb4760fcab48a838eca5578c92ab641f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-pie.8
+SPDXID: SPDXRef-item834801
+FileChecksum: SHA1: a5ca2ddcc1e478949f1b5c26cbd22cb78ed471ec
+FileChecksum: MD5: fe9a16da6208c4be99fb01a8092ae442
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-connmark.8
+SPDXID: SPDXRef-item834802
+FileChecksum: SHA1: 0d3a61ea3c545bbe08a941221e389e978c9d8e99
+FileChecksum: MD5: e4b3f71460a2bba549b272319a56338d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-monitor.8
+SPDXID: SPDXRef-item834803
+FileChecksum: SHA1: f0150c618cc5c5e6276b4bc522579d89b8ad4497
+FileChecksum: MD5: fc603cbc2c0c30d06a877cfceafd640b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-tbf.8
+SPDXID: SPDXRef-item834804
+FileChecksum: SHA1: 45cb1b46f2829ae278d304c98f9d7cf4660a12a8
+FileChecksum: MD5: 6eafbe6ca4cea9f896bc7f4880db63c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-netem.8
+SPDXID: SPDXRef-item834805
+FileChecksum: SHA1: 93e2f0fdb72a11bd9514cd30310798df4bec3a19
+FileChecksum: MD5: c01bd7c4e34f9af709e20db1f59c76f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ifstat.8
+SPDXID: SPDXRef-item834806
+FileChecksum: SHA1: e6b3e24a29a3dbf8e02ba32b5febbaf8714f0534
+FileChecksum: MD5: c29eb0da1b2452b1eac8edd47eb7d97a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/devlink-port.8
+SPDXID: SPDXRef-item834807
+FileChecksum: SHA1: b1b0c6017a169a0f50811a7d75b8d80c82e5789e
+FileChecksum: MD5: 04bb2cf6733c5b65d336a611402ebf9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/routef.8
+SPDXID: SPDXRef-item834808
+FileChecksum: SHA1: 53dfde89c6e30e2d53c5dbbff377fd42af0da874
+FileChecksum: MD5: c03aead15bde1c903c1803d86d6bb012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/lnstat.8
+SPDXID: SPDXRef-item834809
+FileChecksum: SHA1: 2e0f32f664f01dd07c837b32163c5026774a8f76
+FileChecksum: MD5: ae9fe3c6206f8028caed93703c5a5672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-ntable.8
+SPDXID: SPDXRef-item834810
+FileChecksum: SHA1: e4b47c13f68dbc6c8f60d6ad5e7563142e3f693b
+FileChecksum: MD5: f1394f484be67b25c2125c4aaced3124
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tipc-media.8
+SPDXID: SPDXRef-item834811
+FileChecksum: SHA1: f5b8b1df944e1a8619de1167c0d13957b380ce1c
+FileChecksum: MD5: 469d6200d7be1682203f4c4b9db289dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-csum.8
+SPDXID: SPDXRef-item834812
+FileChecksum: SHA1: 914c0042df47f58e999b8db46e4df46b7538c969
+FileChecksum: MD5: f3149b8907992c1fb54e2b10d39310de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-cgroup.8
+SPDXID: SPDXRef-item834813
+FileChecksum: SHA1: d2de9ee9cd577a21aaaf2b871a8ce4386e8f4295
+FileChecksum: MD5: 528ac62810b462ad2a9e74128568cc76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/nstat.8
+SPDXID: SPDXRef-item834814
+FileChecksum: SHA1: b826b6aad7e73cb3181bc13039ac9355691adbc2
+FileChecksum: MD5: e4d5ad094ea059576f0e8bb0ae0003e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-codel.8
+SPDXID: SPDXRef-item834815
+FileChecksum: SHA1: 2240b24ac0fa88d26208ff3b7661be98ac0e765b
+FileChecksum: MD5: 20d194c5a7092ce8a9f12f034be02c59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-basic.8
+SPDXID: SPDXRef-item834816
+FileChecksum: SHA1: 2231d38207ccb15317f63b8f41d57901f1b04ef3
+FileChecksum: MD5: 565afaa8f6680bfdf0f964f323f4db0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/routel.8
+SPDXID: SPDXRef-item834817
+FileChecksum: SHA1: abacc4cd229bf96e50df8dc27307c79871785572
+FileChecksum: MD5: 482f63603289da2a6f71c0c4405309e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-tcp_metrics.8
+SPDXID: SPDXRef-item834818
+FileChecksum: SHA1: 94ab513709fbc94cb3ee295df49263d59f0b3ec2
+FileChecksum: MD5: be11ce7c2f4be9d0ba701c5836664482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip.8
+SPDXID: SPDXRef-item834819
+FileChecksum: SHA1: 6b1ce8445737e8b0583de5d0662e09223191a292
+FileChecksum: MD5: d0089a301a12266d61d15489548f6cfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-neighbour.8
+SPDXID: SPDXRef-item834820
+FileChecksum: SHA1: 4ac1e706ade3bd70392afa013da454433c337fc7
+FileChecksum: MD5: fff285b40a8e6259e0608711c2444fe1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/devlink-monitor.8
+SPDXID: SPDXRef-item834821
+FileChecksum: SHA1: 93309b7ace8c40810551b75e01ba0179adf57041
+FileChecksum: MD5: 570a86944a1e60299ed127fa01aa9808
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc.8
+SPDXID: SPDXRef-item834822
+FileChecksum: SHA1: 9e990ce6a0fd37ead59d33a96cdbf83cf5e03232
+FileChecksum: MD5: 01777e6636567037794af96cde80f7cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-tunnel_key.8
+SPDXID: SPDXRef-item834823
+FileChecksum: SHA1: 6a866f4550df84cf022e183d8cf3d845d8dc76c2
+FileChecksum: MD5: 8f7f1e6b9e110ebf7b8ff0fd2ebf8da1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-simple.8
+SPDXID: SPDXRef-item834824
+FileChecksum: SHA1: bf6700e6695c92eeeb4f8bea10c4cbc40174483b
+FileChecksum: MD5: d7021376410ed36db6504083a9a17c57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-cbq-details.8
+SPDXID: SPDXRef-item834825
+FileChecksum: SHA1: d4fa6d0471ef7bfb04b660f72bc584fbc156fe03
+FileChecksum: MD5: 75d6c9a20092edac0815379f0f83ed99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/devlink.8
+SPDXID: SPDXRef-item834826
+FileChecksum: SHA1: 0500c1c10eeb7aa2a6ffa21c9111144f03d3dc19
+FileChecksum: MD5: 311ce02ef04b4a1506da28dd08e705fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-vrf.8
+SPDXID: SPDXRef-item834827
+FileChecksum: SHA1: 73beddb469daa3402dea040b7f323b77c2ed08c0
+FileChecksum: MD5: 7276a8eb56d40d94f40934bba1042447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-mqprio.8
+SPDXID: SPDXRef-item834828
+FileChecksum: SHA1: cf2117f95037a16e5fc9d6f4fa50bf0b2283680e
+FileChecksum: MD5: c001a030b7a9fd2705dc2ff7dd0aa0e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tipc-socket.8
+SPDXID: SPDXRef-item834829
+FileChecksum: SHA1: ceaf911ec1bdfe394b68173ed25871ae28ce49de
+FileChecksum: MD5: c606faefea4af81454a531e872deb5cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-addrlabel.8
+SPDXID: SPDXRef-item834830
+FileChecksum: SHA1: f5ca82896966e30d23201ed8a21154b49ff83728
+FileChecksum: MD5: 9b36a9002afb9febd09f8a82a4f40a20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-police.8
+SPDXID: SPDXRef-item834831
+FileChecksum: SHA1: 9c65ed27ffd82861f5532006251f3d1879b0a8e0
+FileChecksum: MD5: 8037e937c74058b184ac95e9542a9d52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-mirred.8
+SPDXID: SPDXRef-item834832
+FileChecksum: SHA1: 7053ff4ef5b7550b1db5fc64da96fee8e78cfc5d
+FileChecksum: MD5: 10c4084a989397914341409e60349dcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-htb.8
+SPDXID: SPDXRef-item834833
+FileChecksum: SHA1: 5a36f478efbe8df5a4009764eab324ef2b570964
+FileChecksum: MD5: 310568d4140015f2b2865b3cb76c46bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-flower.8
+SPDXID: SPDXRef-item834834
+FileChecksum: SHA1: fac66acac95adcaab28d92716194f900aef7bbe2
+FileChecksum: MD5: 239afdc6fc8969a4290227505d6d9cfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-matchall.8
+SPDXID: SPDXRef-item834835
+FileChecksum: SHA1: 51d3a2fbbd938d4ab7aad8eb103431b5a3ab12bc
+FileChecksum: MD5: 78094f5393e297fba9f718e8d8851f29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-fq.8
+SPDXID: SPDXRef-item834836
+FileChecksum: SHA1: 2ccb37824a84b66944963c86ecc2726ded24c601
+FileChecksum: MD5: cf852cab9878c7677e837ccdc2a8754d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-xfrm.8
+SPDXID: SPDXRef-item834837
+FileChecksum: SHA1: eabff85192444755a42aedc7b7636b78804f7103
+FileChecksum: MD5: 1babaf44b2309735e9473dcb939d8acc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tipc-peer.8
+SPDXID: SPDXRef-item834838
+FileChecksum: SHA1: 495e1dea15f587a00deb6a32f34872fa7599052d
+FileChecksum: MD5: 8d2e87fa4cac5b18f71aa4ac27d8289f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-route.8
+SPDXID: SPDXRef-item834839
+FileChecksum: SHA1: 1dd164c4ae8fd69c13041f688e5169bee9ce164a
+FileChecksum: MD5: f2803f2324e5ca6defe7524f13729a77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tipc-link.8
+SPDXID: SPDXRef-item834840
+FileChecksum: SHA1: f80e4c5664f3daa4fbadf36246d372672cb6d812
+FileChecksum: MD5: f6206eebb76afeb27204c9825850fd4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/genl.8
+SPDXID: SPDXRef-item834841
+FileChecksum: SHA1: f04e7f5b73ea0873a82656e556b95ac2d43652dc
+FileChecksum: MD5: 64cb9d2bc44e560efa16c0e91944153a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/ip-macsec.8
+SPDXID: SPDXRef-item834842
+FileChecksum: SHA1: cc3822b37415186bb3313c19e1d628f1ad626e61
+FileChecksum: MD5: f602158336a56d2d222833e2cc646e89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/arpd.8
+SPDXID: SPDXRef-item834843
+FileChecksum: SHA1: aabd20818ce5c5c34c79301f364dcb7b40caa7ae
+FileChecksum: MD5: 51e12860fa48208afdbbe49430f92619
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-tcindex.8
+SPDXID: SPDXRef-item834844
+FileChecksum: SHA1: efbd0898174d3c3ce0d1687f8df11349d7b816f3
+FileChecksum: MD5: 11f04e873f5026ab66fe8a3737cb00e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-vlan.8
+SPDXID: SPDXRef-item834845
+FileChecksum: SHA1: 9c62adadc98fa6455a52a4260c0f813664128b77
+FileChecksum: MD5: e46ed5a311dd255ea3147cbbc48b1ff5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-ife.8
+SPDXID: SPDXRef-item834846
+FileChecksum: SHA1: 51635b032d6397b47f5a195191a9b18d0442a9d9
+FileChecksum: MD5: 189926b7a0362f148f99620a02959fa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/rtstat.8
+SPDXID: SPDXRef-item834847
+FileChecksum: SHA1: adefd51c558d54d68f61b59f567e005142312dad
+FileChecksum: MD5: 29e6212d6fc55be4d6821a5b0197aa10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-cbq.8
+SPDXID: SPDXRef-item834848
+FileChecksum: SHA1: 2b0ca8699ed84e524f832d0f6bbb4f83dcaba609
+FileChecksum: MD5: b28e692318a4a32ed48bda20161adfe5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-bfifo.8
+SPDXID: SPDXRef-item834849
+FileChecksum: SHA1: 3661c563d34fc8158b7c4d0833e6c7c9855cd4e2
+FileChecksum: MD5: 0be6d20d0dc91ef50cbc59a1d6820c3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-prio.8
+SPDXID: SPDXRef-item834850
+FileChecksum: SHA1: fd9799a19e71498782f7de4ab6acfb048a83eac7
+FileChecksum: MD5: 7ec61533ca72c4912a34f8ee2821cdf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man8/tc-pedit.8
+SPDXID: SPDXRef-item834851
+FileChecksum: SHA1: 01680d192d102de63bdf970c37a7dbba28676d44
+FileChecksum: MD5: 0f0176aec82434d74463b428652039b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man7/Makefile
+SPDXID: SPDXRef-item834853
+FileChecksum: SHA1: 8c24c5d36b3c28856b8810409cbf06a683893ee9
+FileChecksum: MD5: fac621ab06707fa5f44f2175e31929ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/man/man7/tc-hfsc.7
+SPDXID: SPDXRef-item834854
+FileChecksum: SHA1: e4316741acfb1c815990069ba72efb4ea66a1965
+FileChecksum: MD5: a41dc69b546056033f950c02fe3efa2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.gitignore
+SPDXID: SPDXRef-item834855
+FileChecksum: SHA1: 9b4323c179264da092384c7aaf1e2a9dfd2e507c
+FileChecksum: MD5: 069b32e017ecf7b67d8a1914e98dc0ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/dhcp-client-script
+SPDXID: SPDXRef-item834857
+FileChecksum: SHA1: 0b5138f3dc176b88d6e7a83da253df156937adeb
+FileChecksum: MD5: b07da808795ee310fad0e61bdb9b603d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/SYN-DoS.rate.limit
+SPDXID: SPDXRef-item834858
+FileChecksum: SHA1: 753632c19be37265a842d5ff0abcff8ad73a2607
+FileChecksum: MD5: 7fba09df336fccaa9f0062c749e7e579
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/README.cbq
+SPDXID: SPDXRef-item834859
+FileChecksum: SHA1: 16156e10600ac0c1f61cfc8ae9159bebf94f8fb6
+FileChecksum: MD5: 8b9cc42842ad794ad36acf568a5fceb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/gaiconf
+SPDXID: SPDXRef-item834860
+FileChecksum: SHA1: 4749da35c5012cfd5541e151a98df3fba9f9b559
+FileChecksum: MD5: 5b33b3c4d593aeb35c92dc5019e56041
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/bpf_prog.c
+SPDXID: SPDXRef-item834862
+FileChecksum: SHA1: 361a2abb7f7ea8d07ae0891fe8cefd0e3745ac0a
+FileChecksum: MD5: 90c135c549794e5c7a387667063f2405
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/bpf_graft.c
+SPDXID: SPDXRef-item834863
+FileChecksum: SHA1: dee793000cdd57965e6f729e665b347b64a3cd4c
+FileChecksum: MD5: ca389a57b9fc94172734e784a5158236
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/bpf_tailcall.c
+SPDXID: SPDXRef-item834864
+FileChecksum: SHA1: 8851c5fcd3d3b2267597d3eb9cb5ed86c6ea209c
+FileChecksum: MD5: edb042fd7d1a2df85f445a7bed02866f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/bpf_cyclic.c
+SPDXID: SPDXRef-item834865
+FileChecksum: SHA1: 0ff22979983c1723a90b3055d3fcce80171567e5
+FileChecksum: MD5: e0004a275405e27fbbfcd362e885d559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/bpf_shared.c
+SPDXID: SPDXRef-item834866
+FileChecksum: SHA1: 9167f603da3c280fe098501ad50c3ceffc3348b0
+FileChecksum: MD5: e49ea3b1bd595a4c6214114c5ded5507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/bpf_agent.c
+SPDXID: SPDXRef-item834867
+FileChecksum: SHA1: 4646b79a8edf41e505daf5ce970eaf14da6fdd9d
+FileChecksum: MD5: 2d3f05bbbdf4912f1eb29b9ea6793ba8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/bpf_shared.h
+SPDXID: SPDXRef-item834868
+FileChecksum: SHA1: 736c13c2a4a21a2208bd2c095f8ab1f1333df55f
+FileChecksum: MD5: 3cb1f7a06dae9c06d7c17f54952d3c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/bpf_sys.h
+SPDXID: SPDXRef-item834869
+FileChecksum: SHA1: dc464288d02a07e4ca8015e937898c418bf4feb0
+FileChecksum: MD5: ec728a67f82cf7d644d101369bd53b29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/bpf/README
+SPDXID: SPDXRef-item834870
+FileChecksum: SHA1: 1eb24c7a5dbf83c00cdbca6806bfb14467925ea3
+FileChecksum: MD5: baa0319b7094a330e967973160306795
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/cbqinit.eth1
+SPDXID: SPDXRef-item834871
+FileChecksum: SHA1: 814377ccfbe8c03eb9669ad8dd507f648cdf55d5
+FileChecksum: MD5: 8edbaabf40b9ce5a8dc467e64ed341a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/Edge32-cb-u32
+SPDXID: SPDXRef-item834873
+FileChecksum: SHA1: ef72408ffdad1864f1fd7dd58fcb0a47f8ee7130
+FileChecksum: MD5: fadf94e29a78b1c18edcf1dd465270cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/Edge32-ca-u32
+SPDXID: SPDXRef-item834874
+FileChecksum: SHA1: 552e740c3a968bf37abd138dd771b1ada52b0e9f
+FileChecksum: MD5: 05b752a51fcb2a8f355e412b476effc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/Edge32-cb-chains
+SPDXID: SPDXRef-item834875
+FileChecksum: SHA1: 2eaa933298eefbbd0ca2bbca5683265bd5c2bcd5
+FileChecksum: MD5: a0dda8c7a577209344c178fc775f5d57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/afcbq
+SPDXID: SPDXRef-item834876
+FileChecksum: SHA1: 3a03698cfd2a4e666c6934d3f13e4aa8fff56a0d
+FileChecksum: MD5: 31234852109d851177cfd9d8f59a258e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/Edge2
+SPDXID: SPDXRef-item834877
+FileChecksum: SHA1: 35a2436719bcf7623727ffa759faa916d915eab5
+FileChecksum: MD5: a47c929819e1e5dd283ea7b7ac371a73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/Edge31-ca-u32
+SPDXID: SPDXRef-item834878
+FileChecksum: SHA1: 4610ee65e2a5f1a26fa99e564eabd901b7e34236
+FileChecksum: MD5: e786f42f93a9248bef486a22e5ce25f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/efcbq
+SPDXID: SPDXRef-item834879
+FileChecksum: SHA1: a78264eea94190b3e3f6531469e1a691690a3ebe
+FileChecksum: MD5: 1687f43e530a8d3ff71d4c878c1dd10a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/ef-prio
+SPDXID: SPDXRef-item834880
+FileChecksum: SHA1: 592d4a367c7b7a56dc0b63c35c62e7fde0f479cc
+FileChecksum: MD5: c53b67b3afa4af57d50edccbaff8af87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/README
+SPDXID: SPDXRef-item834881
+FileChecksum: SHA1: 678212a0e47ffef80b92bb281e2cd29ffe6b5de3
+FileChecksum: MD5: 3d489cd2a72c51ac47dac06cae45ae9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/Edge1
+SPDXID: SPDXRef-item834882
+FileChecksum: SHA1: 0075164024b01b2b8d79ea94dd85c355594b7e3e
+FileChecksum: MD5: ba01092a5db641cf6159a0be47cf240b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/regression-testing
+SPDXID: SPDXRef-item834883
+FileChecksum: SHA1: 0f9e2ca38f558284984a335d87d8fa05967c1224
+FileChecksum: MD5: cba55a4d0f9cd09fbc53b9efcf8d069d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/diffserv/Edge31-cb-chains
+SPDXID: SPDXRef-item834884
+FileChecksum: SHA1: bfacb487e011aa1dfcbe37286f97a5bc91993283
+FileChecksum: MD5: fb4757f77a5fa21a2efb854177456c4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/examples/cbq.init-v0.7.3
+SPDXID: SPDXRef-item834885
+FileChecksum: SHA1: 7692bd9037495d74e392497cd316699b7670a086
+FileChecksum: MD5: 71625ce0e7852a874a4d1c377b17c86b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipila.c
+SPDXID: SPDXRef-item834887
+FileChecksum: SHA1: c3ceb248c0489db4427a5a355d5bd1392cfb9a68
+FileChecksum: MD5: 32c3cb16f1ee3d88ea86e8ee899ed6d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iproute.c
+SPDXID: SPDXRef-item834888
+FileChecksum: SHA1: 487f5a48d857c5774df8fb23f3755ff6b5bb749d
+FileChecksum: MD5: c8f719d7d8224035e06dcc2290f29e28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_nlmon.c
+SPDXID: SPDXRef-item834889
+FileChecksum: SHA1: 6babf8be909b512008d3010c7aed92c4fdbb0939
+FileChecksum: MD5: 4fef39551808cb6ba0902fcf6c81cfce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/Makefile
+SPDXID: SPDXRef-item834890
+FileChecksum: SHA1: da922f50f5a3bcdb151636683671cffa15f367d2
+FileChecksum: MD5: 7c28d85dc8d3774bf696833b79084459
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/link_vti6.c
+SPDXID: SPDXRef-item834891
+FileChecksum: SHA1: b2b59dddafa09d672220128949c9dfd978637a65
+FileChecksum: MD5: 0acc748c0b6303c50eb16b28ee6153c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/tunnel.h
+SPDXID: SPDXRef-item834892
+FileChecksum: SHA1: c1360755020ca0d3c93cb68b579af06d6ba64eff
+FileChecksum: MD5: e8e74f1f7ee3be13e45ffa3e8177d899
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipaddress.c
+SPDXID: SPDXRef-item834893
+FileChecksum: SHA1: 223cb8581d257b4161a4c0ed031ef08ff8a6a967
+FileChecksum: MD5: f6e9de90c7d04ed93f68e71e08a413d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipmroute.c
+SPDXID: SPDXRef-item834894
+FileChecksum: SHA1: c6ceef73778fbd387b9c7a40b6199b971b4c54ec
+FileChecksum: MD5: 1e0347bd3d37e951278f53bcb4b22f60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/routel
+SPDXID: SPDXRef-item834895
+FileChecksum: SHA1: de19f7f5c71f96086021aaaf9b49808feed23bd2
+FileChecksum: MD5: a6c210bab82053f5f0053a7cd46a5b93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/rtpr
+SPDXID: SPDXRef-item834896
+FileChecksum: SHA1: 0da4e0de0f65cf0f0b814934c6b718632673edb2
+FileChecksum: MD5: 37b97639143934d4af9924b198971b6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_hsr.c
+SPDXID: SPDXRef-item834897
+FileChecksum: SHA1: b2db25f5540e87dbffe54a27bb88a7d47451d26b
+FileChecksum: MD5: 576dafc0bb95b1d61d5a04a2f82ecad4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/static-syms.c
+SPDXID: SPDXRef-item834898
+FileChecksum: SHA1: 4d07f991ea451c1e6d2a2aac33963c3b6f7b82de
+FileChecksum: MD5: e8b7a78e6f511dc76857f29becf7edc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/link_iptnl.c
+SPDXID: SPDXRef-item834899
+FileChecksum: SHA1: 14eb11a41e602bad239db4aaafb686f4729d469c
+FileChecksum: MD5: 4a46ca792d24c4f78fc9d1c77eb2ea4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/xfrm_policy.c
+SPDXID: SPDXRef-item834900
+FileChecksum: SHA1: 632e4621b9dc160af2df0fee7f2ec7a468892ade
+FileChecksum: MD5: 6522ddae8a70b1f89a7541a41e28de0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipnetns.c
+SPDXID: SPDXRef-item834901
+FileChecksum: SHA1: a5b53b8fb0f4209ac740c68b2f1b4291a5006643
+FileChecksum: MD5: 91179a52cde75d536e7be69846181724
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ip_common.h
+SPDXID: SPDXRef-item834902
+FileChecksum: SHA1: f9f1c6c18d4fc42d0652b5e61dff73136320165f
+FileChecksum: MD5: 8dbf9349d5e807b71354bf66707532b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ip.c
+SPDXID: SPDXRef-item834903
+FileChecksum: SHA1: 4e493d4c038b2f0079295c22c461185aaf936b09
+FileChecksum: MD5: eceed7671d428ae86cb5f30ec7930c96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_vlan.c
+SPDXID: SPDXRef-item834904
+FileChecksum: SHA1: aaf2a83ec104ed6cb645ee6aa8d9676943365059
+FileChecksum: MD5: 7b5136324f2ea89623d267f53bfae76f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/xfrm_monitor.c
+SPDXID: SPDXRef-item834905
+FileChecksum: SHA1: 4ff79156eeb50d1786abf3a47303f74904b43f49
+FileChecksum: MD5: 8d09e3cd979109d69eae7edc68380aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipneigh.c
+SPDXID: SPDXRef-item834906
+FileChecksum: SHA1: a7b6a9aa0470adaf02121b9ee2a8429fc61f706d
+FileChecksum: MD5: 7ce08ec985d0dd55f16cedc64b15b259
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/tcp_metrics.c
+SPDXID: SPDXRef-item834907
+FileChecksum: SHA1: db9b829673a76efacab3722c7fc13902526d7bfe
+FileChecksum: MD5: 710c99b2217000aa63b27a8ab5054174
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/.gitignore
+SPDXID: SPDXRef-item834908
+FileChecksum: SHA1: 1fe4cd2c67ffabb75d9ae420c079c8759280bfc1
+FileChecksum: MD5: 5db13c8690b83dd34bfe891d4a8578ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_xstats.c
+SPDXID: SPDXRef-item834909
+FileChecksum: SHA1: bd1bcb8ec6a9b1e9e40c1b56db7bf1e2e5890f6f
+FileChecksum: MD5: 374abc3b2e6f2d306ce05d196cd4f4a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_team.c
+SPDXID: SPDXRef-item834910
+FileChecksum: SHA1: 5a6981fe380cb1aee39e3ae2b5f8625ff00b4932
+FileChecksum: MD5: 56763a858f2c48b95091b51660f451fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipntable.c
+SPDXID: SPDXRef-item834911
+FileChecksum: SHA1: b8388d8794bb511fdb4293d323bac36c59369799
+FileChecksum: MD5: 94100bf7ec404eb5fb51f87f9f4dbc74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_ipoib.c
+SPDXID: SPDXRef-item834912
+FileChecksum: SHA1: 7dbbf78c1c6abca29a9829eb7aa71b506e6d515e
+FileChecksum: MD5: 5a7a7c451f2c15fe3f64c0747e0f5387
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_dummy.c
+SPDXID: SPDXRef-item834913
+FileChecksum: SHA1: 26a0abb1498965e5f3f24ee25a85b0a5ff48e0a6
+FileChecksum: MD5: dc1e93fe2542f0f882a5957738f72ae1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipnetconf.c
+SPDXID: SPDXRef-item834914
+FileChecksum: SHA1: d9c42caa6664c7c55ebfe1bee46ebcaf29c354cd
+FileChecksum: MD5: 05ffb32fff77ef30ebb2a81e80043877
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink.c
+SPDXID: SPDXRef-item834915
+FileChecksum: SHA1: b59e9b3fa55e8aa132109995e0e48844704525f0
+FileChecksum: MD5: 0a9ead2cefe0926c4b32b15344e599bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipl2tp.c
+SPDXID: SPDXRef-item834916
+FileChecksum: SHA1: c11c9355ada2607bfb6d6ecca9269f6b3c08d71b
+FileChecksum: MD5: 1a43f2fcc4a608ef4d2248b80ba966ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_geneve.c
+SPDXID: SPDXRef-item834917
+FileChecksum: SHA1: d22e9dc1e86d452472f76bc25cdad4e90ad1fc64
+FileChecksum: MD5: 2189a62e5391e13c4446b9d11dce83ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_ifb.c
+SPDXID: SPDXRef-item834918
+FileChecksum: SHA1: c002a1e2570220790b1094b000ef16231cf0d61d
+FileChecksum: MD5: 487565212ba2f7ad08d0a244f70ecac1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/link_gre.c
+SPDXID: SPDXRef-item834919
+FileChecksum: SHA1: 19e5f39dcc6507b20ca167b50fd00c96114898b6
+FileChecksum: MD5: 90f5a265cd1004f3c2f4c1786383528c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_macvlan.c
+SPDXID: SPDXRef-item834920
+FileChecksum: SHA1: 638d274dad9514e27c498a685c9c01a4fcc27fbc
+FileChecksum: MD5: acf7723b925d2f02fee4aacd16aed335
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipmacsec.c
+SPDXID: SPDXRef-item834921
+FileChecksum: SHA1: fdd434b447b22c716c1100f06f4c401146e207c6
+FileChecksum: MD5: 9326c3934f21629748101d519bd71cee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ip6tunnel.c
+SPDXID: SPDXRef-item834922
+FileChecksum: SHA1: 5779d333cc9b2de602d999a9fac7cbd15ae850a9
+FileChecksum: MD5: 2ce67e33e1793fb8c5253f4112ca9e9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iptoken.c
+SPDXID: SPDXRef-item834923
+FileChecksum: SHA1: 28be969b76a4bb68a97a18118b94f790580d980f
+FileChecksum: MD5: d825b6553968352a7fefc2e0ebc6ffc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iptunnel.c
+SPDXID: SPDXRef-item834924
+FileChecksum: SHA1: 8abaf373cac524b0d4a3e81aed9b07224cb78ccc
+FileChecksum: MD5: 0293f5ec867a9a7cceddd4f558879f43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipmaddr.c
+SPDXID: SPDXRef-item834925
+FileChecksum: SHA1: 56f50f855947597015cc6d69ce7d505364792b34
+FileChecksum: MD5: bf4c8898618c4e21708896f0ce8dd233
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipaddrlabel.c
+SPDXID: SPDXRef-item834926
+FileChecksum: SHA1: f3b4936c019f5689817fb7307021411474239c37
+FileChecksum: MD5: 435841904528043495f5135fa3f0bf7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/link_gre6.c
+SPDXID: SPDXRef-item834927
+FileChecksum: SHA1: e951854ac089d7bd8a6ca32f713b0dd5c959cb5d
+FileChecksum: MD5: b77cd9faa211d07bb3b91fb5c92c3be5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iproute_lwtunnel.h
+SPDXID: SPDXRef-item834928
+FileChecksum: SHA1: d21c51ce3259162c62a8b78d2be3c56bfd41b012
+FileChecksum: MD5: 09fb6b198f8c8bcb491dd4c1adf8696e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/rtm_map.c
+SPDXID: SPDXRef-item834929
+FileChecksum: SHA1: 6a26c6659b7c72a7f382021e4afdb4d7da64805d
+FileChecksum: MD5: 3d75cd6766b6787d604431216eb52eb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_bridge.c
+SPDXID: SPDXRef-item834930
+FileChecksum: SHA1: 512338c0170107a96586c79a55485fad8e05cb56
+FileChecksum: MD5: 83b05f76637a23c88769590e2d1c1656
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iprule.c
+SPDXID: SPDXRef-item834931
+FileChecksum: SHA1: d55181ccaa31089e825f59a5142943bd0433e9cf
+FileChecksum: MD5: 8c2d70f3b9d76c1c727848657d31414d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_vxlan.c
+SPDXID: SPDXRef-item834932
+FileChecksum: SHA1: e8c6bce6c545e3787b3a8da99650c36b2e3c444c
+FileChecksum: MD5: c2c88db94de1b63c8bc86597ee026a36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/link_vti.c
+SPDXID: SPDXRef-item834933
+FileChecksum: SHA1: 94a985cb7b182b8e3dd5ffdc097b753851aa840a
+FileChecksum: MD5: c8a3801ff85c3ddefbe911b7463b5299
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipprefix.c
+SPDXID: SPDXRef-item834934
+FileChecksum: SHA1: 46ce76404952246ef9e1c1922b7af71d22d40670
+FileChecksum: MD5: ac1bda15a1f167f77f16730a439b6831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipfou.c
+SPDXID: SPDXRef-item834935
+FileChecksum: SHA1: 740010e73b72408dff36da0731e7237e2b82a561
+FileChecksum: MD5: f3e82614eaeadcebb14619eeede0f856
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/tunnel.c
+SPDXID: SPDXRef-item834936
+FileChecksum: SHA1: 71577870383c3a23aac90d0f87c6e6a02f2205f6
+FileChecksum: MD5: 1848d80ee664190da443f82f7e8cdf22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_bond.c
+SPDXID: SPDXRef-item834937
+FileChecksum: SHA1: 0ebc8fb7e8ccb5fbcbf262bad8887c43112219a5
+FileChecksum: MD5: a3303c42c8ea1cb99d0bdf59b8d77c33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_can.c
+SPDXID: SPDXRef-item834938
+FileChecksum: SHA1: d06a78805b2415e589d3de326c3b8c5276ce418f
+FileChecksum: MD5: 4b79982607a62d5de342618daef13ab5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_ipvlan.c
+SPDXID: SPDXRef-item834939
+FileChecksum: SHA1: a30c55f984b3c501c84436dfc88b96a84a5c0d15
+FileChecksum: MD5: b0d5d4bd561b9286e162b24e01fb084d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipmonitor.c
+SPDXID: SPDXRef-item834940
+FileChecksum: SHA1: 3ab1f0d37a5bd94550fdb0ccdcf74537422d1706
+FileChecksum: MD5: 63b430a933fe2dc821e2956fa377113f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_xdp.c
+SPDXID: SPDXRef-item834941
+FileChecksum: SHA1: 0d832fd9cce52217be56af7397eaf73ed138306f
+FileChecksum: MD5: c73171d9249cd0a5283bd1e5252980dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/link_veth.c
+SPDXID: SPDXRef-item834942
+FileChecksum: SHA1: 28d903cbd82a408a5b47374d0c75d76872eda553
+FileChecksum: MD5: c12d8b379737bf6f392becaeca80aeb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/rtmon.c
+SPDXID: SPDXRef-item834943
+FileChecksum: SHA1: 4da67552d413abf46e51c66b37433e8833064faf
+FileChecksum: MD5: 0eeeacbeeba018c6beed6601d3e74c61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iptuntap.c
+SPDXID: SPDXRef-item834944
+FileChecksum: SHA1: 94379f4d714bd86bfba5fe18277790f7eaa70d9a
+FileChecksum: MD5: ab87cba0ffa1649f261da3599dd8162f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_bond_slave.c
+SPDXID: SPDXRef-item834945
+FileChecksum: SHA1: 083a082fb539297940c8d3f50a6dd917ba713c28
+FileChecksum: MD5: dfdbab4169e8271058545dd0b0e26bcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/xfrm.h
+SPDXID: SPDXRef-item834946
+FileChecksum: SHA1: e014066eb91f20e697f87b784e1575a97c0555be
+FileChecksum: MD5: 2696e12caf7a293871d45c0a071efef7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_vrf.c
+SPDXID: SPDXRef-item834947
+FileChecksum: SHA1: 8a184c5eaa3760f0a2cd9caf5d87d139a5a57986
+FileChecksum: MD5: c65b5a28102b1229ebefe7b43aeed4ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/xdp.h
+SPDXID: SPDXRef-item834948
+FileChecksum: SHA1: 1221a44eb9855d89838307e70ce0071f513982b9
+FileChecksum: MD5: e020616830cc3871787e71b45d31c70a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/xfrm_state.c
+SPDXID: SPDXRef-item834949
+FileChecksum: SHA1: 80d4e8976f93e642dafa9887644e9d4c604b4722
+FileChecksum: MD5: e5336f959589b90389817859f25bdd74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iproute_lwtunnel.c
+SPDXID: SPDXRef-item834950
+FileChecksum: SHA1: 4820fe4435dc258a2d093fad483164d4ee7dcd85
+FileChecksum: MD5: db8aa4ac9b04bed7c79fb7b4e08a6ac1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipvrf.c
+SPDXID: SPDXRef-item834951
+FileChecksum: SHA1: c6a778f8485a6173a2a23d2a73ac707c01d608e2
+FileChecksum: MD5: 02c6f1fd039f4a5cdfb5bd9506e69f58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ifcfg
+SPDXID: SPDXRef-item834952
+FileChecksum: SHA1: e842a02891e4d1ef9a9613ef28cd5f13e26544dc
+FileChecksum: MD5: cd0ada0622b72f1ca556b7aeceddeeaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/ipxfrm.c
+SPDXID: SPDXRef-item834953
+FileChecksum: SHA1: 3b88c22b578f76d8c26b3d871dadabcd69407496
+FileChecksum: MD5: e2cb011cd113ae3f65613242993b8796
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/link_ip6tnl.c
+SPDXID: SPDXRef-item834954
+FileChecksum: SHA1: 6690e35021c7cebe14aaa1f6d72b118fcdb4d7c7
+FileChecksum: MD5: 72a6a2b4e3d8b503ed4738b0bc66c72d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_vcan.c
+SPDXID: SPDXRef-item834955
+FileChecksum: SHA1: 0baf812d78c9a033f35dda13429e16dd319f4395
+FileChecksum: MD5: e901116ed88d841878d7dafd8e396306
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/routef
+SPDXID: SPDXRef-item834956
+FileChecksum: SHA1: 239aa4b05a0388a8a5ee8a82c68168df296503f9
+FileChecksum: MD5: bc48fa6419b07e1295ce36973ae6fc76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/ip/iplink_bridge_slave.c
+SPDXID: SPDXRef-item834957
+FileChecksum: SHA1: 58f5894797e5a1d24ee2a7ddbfee246e68c92ac4
+FileChecksum: MD5: 2579348f289c3beb9fe46befad369aae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/Makefile
+SPDXID: SPDXRef-item834959
+FileChecksum: SHA1: 3e5a4f94780da15cca9ccd1e0fd25e355c715dc9
+FileChecksum: MD5: eeb34a5159bcade1bacdd6ff7239a446
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/inet_proto.c
+SPDXID: SPDXRef-item834960
+FileChecksum: SHA1: 29653c835a89fdfda7814780045e7962865c80de
+FileChecksum: MD5: 42fbfdf1ccf749533ca1e4ca43155cdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/coverity_model.c
+SPDXID: SPDXRef-item834961
+FileChecksum: SHA1: aade26d3f52e888e5602af6798476bc1f5488c1e
+FileChecksum: MD5: 805500c018492090ca93475b3f58313d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/ll_addr.c
+SPDXID: SPDXRef-item834962
+FileChecksum: SHA1: fb46131ce724eb6bb1ef930d93883d6bf72807f6
+FileChecksum: MD5: b1d7a98bbf88996216540319e7ef5888
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/dnet_ntop.c
+SPDXID: SPDXRef-item834963
+FileChecksum: SHA1: d1299daffaa29270a1f783ed4e5c28e14c854884
+FileChecksum: MD5: 2530b0a8ac24f2f7ec6539da3dca221b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/names.c
+SPDXID: SPDXRef-item834964
+FileChecksum: SHA1: 6cbf123908c72a1a1feba18fd8925d4d3ba21316
+FileChecksum: MD5: a5387c93ca9f3550e469a0266f05328d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/ll_proto.c
+SPDXID: SPDXRef-item834965
+FileChecksum: SHA1: d55bd6a429eba54071a1be5750c834e79229bcaf
+FileChecksum: MD5: 1972e45523674c76b1a49c060b99953b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/ll_types.c
+SPDXID: SPDXRef-item834966
+FileChecksum: SHA1: 0e56a40ca6b940fe90c6b9f73994bf8effe015b0
+FileChecksum: MD5: a2d1c21f8771112f4e45e5dc3c54cee9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/bpf.c
+SPDXID: SPDXRef-item834967
+FileChecksum: SHA1: 3153ba9aa1bf21113f78afc085e68b96fe1c349e
+FileChecksum: MD5: 8e68faafc80b505de46866b2bf2fb48d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/color.c
+SPDXID: SPDXRef-item834968
+FileChecksum: SHA1: 581e4fd7f733da8447840474f5873dfe065583aa
+FileChecksum: MD5: 19fe82fc9c297a49e04ca29649aa0c92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/mpls_pton.c
+SPDXID: SPDXRef-item834969
+FileChecksum: SHA1: 0e63d25738e0ceba7d6e9c897d07d2dea6714ef0
+FileChecksum: MD5: 86b9728d73687ede8437f81645e8f804
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/json_writer.c
+SPDXID: SPDXRef-item834970
+FileChecksum: SHA1: 696d854fa1445d13c5199f22c7759ac43569c114
+FileChecksum: MD5: 355637e7058a4e53dd0b1b8dacd66770
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/exec.c
+SPDXID: SPDXRef-item834971
+FileChecksum: SHA1: 51e6825f2b8181a00f1c723a388d5dcaaf9a7b37
+FileChecksum: MD5: 401638abf8175d6054c46efdd2bcd9a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/libnetlink.c
+SPDXID: SPDXRef-item834972
+FileChecksum: SHA1: fcd8134eb8f695331ac1a924640a6b4dd5b9e013
+FileChecksum: MD5: 0cedfc7693e8050344a0dd81d31ebf7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/utils.c
+SPDXID: SPDXRef-item834973
+FileChecksum: SHA1: 13f712fc6e5f6659bdb31ff38fbcc6c8de9865a9
+FileChecksum: MD5: c3c42c71b79aeaa0b7e514d486a03fab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/dnet_pton.c
+SPDXID: SPDXRef-item834974
+FileChecksum: SHA1: de8db226a8d4802263747424b9ba500e51ebac78
+FileChecksum: MD5: 8f1f9ff15c8b9b8244634a1ee7aa5624
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/libgenl.c
+SPDXID: SPDXRef-item834975
+FileChecksum: SHA1: cc02afa87328d2e99b966c36eb500840abc8d996
+FileChecksum: MD5: 377e2a6eb4ddabba02f1df24c3de9412
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/rt_names.c
+SPDXID: SPDXRef-item834976
+FileChecksum: SHA1: c788d1c5de1c0999feb26902eb610cee14e345d9
+FileChecksum: MD5: 2f79fea9f96bbe1e51f4905b8e1cf01e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/ipx_pton.c
+SPDXID: SPDXRef-item834977
+FileChecksum: SHA1: 414a4ee2b1bb52ce63ed04572e99cc211b435b3f
+FileChecksum: MD5: 20811906be2256514074818d09221d6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/mpls_ntop.c
+SPDXID: SPDXRef-item834978
+FileChecksum: SHA1: eb8b15ee389bc28b9e064bdba9d8d263ed7363f1
+FileChecksum: MD5: 7b436dfc0ce6f5c9ee4673aabcdbd225
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/ipx_ntop.c
+SPDXID: SPDXRef-item834979
+FileChecksum: SHA1: 2fdd842faeca4f9804b9698f5ac3f3dbbb840635
+FileChecksum: MD5: abb563b47e5c402052dc895b766f1aac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/namespace.c
+SPDXID: SPDXRef-item834980
+FileChecksum: SHA1: e53328d5998e92eab66f47398097c0c843c3622a
+FileChecksum: MD5: 806a30c0e385fd92f233fd342c047511
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/ll_map.c
+SPDXID: SPDXRef-item834981
+FileChecksum: SHA1: 4e30c7a293d21a9b5e02958a5931c9d16091a9f0
+FileChecksum: MD5: 6630a65b12b882294de38f8e09a8a44f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/lib/fs.c
+SPDXID: SPDXRef-item834982
+FileChecksum: SHA1: 85b04aca0ad93faa30394e00004530a892f077fd
+FileChecksum: MD5: 515d07925529473cae402701cb1a1153
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/Makefile
+SPDXID: SPDXRef-item834984
+FileChecksum: SHA1: a72cf36d66b89557c53d8d108a07efaf50462dc6
+FileChecksum: MD5: 6d0ff120d2fcd979dc194ef8a0e7ce74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/iproute2/Makefile
+SPDXID: SPDXRef-item834986
+FileChecksum: SHA1: a549b7d4e9627bdf06c3db20900a459adb5a3e20
+FileChecksum: MD5: 5d34fb7ad12a92a3196bc33f0ebb620e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/lib/generic.sh
+SPDXID: SPDXRef-item834988
+FileChecksum: SHA1: f847283bc4e5353082f4a4e301db7368ec98dc9f
+FileChecksum: MD5: 2b5ed863076f1e27a7214aa8ef6e3d00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/ip/tunnel/add_tunnel.t
+SPDXID: SPDXRef-item834992
+FileChecksum: SHA1: 1c1f36e1d9befad6c545db8c45ddd45f87ab5df0
+FileChecksum: MD5: e3e1f3daf4c33919d9efdb6e722611ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/ip/netns/set_nsid.t
+SPDXID: SPDXRef-item834994
+FileChecksum: SHA1: 332ae0aebdb34fb53705f99754b5f6bb7de133e9
+FileChecksum: MD5: df983c102ca5a1a5752bcc1b4a50d3b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/ip/netns/set_nsid_batch.t
+SPDXID: SPDXRef-item834995
+FileChecksum: SHA1: 716b51c11c49394dc55d9122b5459582145eca37
+FileChecksum: MD5: f958b9174f8a94d660628be21c7729f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/ip/link/show_dev_wo_vf_rate.t
+SPDXID: SPDXRef-item834997
+FileChecksum: SHA1: 329c243c1b0f375b84762dd447df00c267666439
+FileChecksum: MD5: 0faa330b24a3c8e7a62674e575221ac7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/ip/link/new_link.t
+SPDXID: SPDXRef-item834998
+FileChecksum: SHA1: 23ae1c45ae1754d080dc4848841f112415edb0d5
+FileChecksum: MD5: ed1663991b969d787415034f2f0050e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/ip/route/add_default_route.t
+SPDXID: SPDXRef-item835000
+FileChecksum: SHA1: d3750418053f0be85fbab92d6eb7e1195c339986
+FileChecksum: MD5: c3510f6a697eead250705dda3159fea6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/tc/cls-testbed.t
+SPDXID: SPDXRef-item835002
+FileChecksum: SHA1: 9611aee2b3e758ebd8790e2e2c57a04f3a147990
+FileChecksum: MD5: 2c24907714925793c38b2f99f4bff092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/tc/dsmark.t
+SPDXID: SPDXRef-item835003
+FileChecksum: SHA1: 99c3f177b8950db8c80d19ba7d67e7ae227cf9bf
+FileChecksum: MD5: 59e9033cd9b20ddf3a0790e9ad58b012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/tc/cbq.t
+SPDXID: SPDXRef-item835004
+FileChecksum: SHA1: 9d144a37c744888e4795c390f326d1d2e78d7a14
+FileChecksum: MD5: 3949e5a415d7e6699e99b98ef3083965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/tc/pedit.t
+SPDXID: SPDXRef-item835005
+FileChecksum: SHA1: 4b3c5707416ea8518734d06fefaf92b9bfe751cd
+FileChecksum: MD5: 6304b76d7c828b471d07790c416620d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tests/tc/policer.t
+SPDXID: SPDXRef-item835006
+FileChecksum: SHA1: 13273f91095e924413d29c94722dc9c44c7a799d
+FileChecksum: MD5: 0c62d1df886feaff6d19bd2a7b2b7271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tools/Makefile
+SPDXID: SPDXRef-item835008
+FileChecksum: SHA1: 4330b08566376f47614d50534e8814016e390537
+FileChecksum: MD5: 68da73d975f2e866d2358dcb2a89adb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/tools/generate_nlmsg.c
+SPDXID: SPDXRef-item835009
+FileChecksum: SHA1: 3ec7c68883caadb5f58161d9b60bde116965e9bc
+FileChecksum: MD5: 16426603f586c2eebf5c7d34e13da7f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/configs/all-no-act
+SPDXID: SPDXRef-item835011
+FileChecksum: SHA1: 6cf6c5ab89df30ea6b71bf5c4436c25cf6ec6774
+FileChecksum: MD5: c1154265482b115413e3b7144f1e7346
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/configs/all-police-act
+SPDXID: SPDXRef-item835012
+FileChecksum: SHA1: 28da74f51649a87e4bd4620dccbb5f2bec7f174a
+FileChecksum: MD5: c6b1a72bb5124a2d9b32fd82281cb2ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/testsuite/configs/all-2.4
+SPDXID: SPDXRef-item835013
+FileChecksum: SHA1: 0e5ca7f8b1d52b3239dde86a1634b3474c13e55d
+FileChecksum: MD5: 2d374766dad4b12d5976aa1c8c0a65c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/README.devel
+SPDXID: SPDXRef-item835014
+FileChecksum: SHA1: 1c445041a74abbeb4025583db26b501738eb5693
+FileChecksum: MD5: ab189fa91370218a2372935b75f3c1ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/Makefile
+SPDXID: SPDXRef-item835016
+FileChecksum: SHA1: 203bfb7517d295b801efa59d5590a5f958dec319
+FileChecksum: MD5: c79998a59b54d5b9fcb3658d652cf89b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/maketable.c
+SPDXID: SPDXRef-item835017
+FileChecksum: SHA1: 4cbb74b55cfe4f4724e8bc4fb095b9837d8a4144
+FileChecksum: MD5: 35e06a269d2ba2d61d462ee1a866637d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/paretonormal.c
+SPDXID: SPDXRef-item835018
+FileChecksum: SHA1: 117aa3e4af6ab22a18407a8ffd000d06e19c100f
+FileChecksum: MD5: bb8354d3e2616c615e759eb0eac7f106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/.gitignore
+SPDXID: SPDXRef-item835019
+FileChecksum: SHA1: c51d0f7c8ef7b8c30e123c4a511207de1ba90caa
+FileChecksum: MD5: 386149f172266936e584d8949a177479
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/normal.c
+SPDXID: SPDXRef-item835020
+FileChecksum: SHA1: 002145a8e3a7f5f9394633f86803fc5696bf8d34
+FileChecksum: MD5: ca8770b6b990e8a9e47a0c3da2b968c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/stats.c
+SPDXID: SPDXRef-item835021
+FileChecksum: SHA1: 7407b2c1c72f1533f5718429d6275e41a77206a0
+FileChecksum: MD5: c92e4cbb94bcb44ee9bb2b2aa15fd376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/pareto.c
+SPDXID: SPDXRef-item835022
+FileChecksum: SHA1: a7b599f549bc0a8b59c873127c6291d6b47dc931
+FileChecksum: MD5: a344fe528cd48d360046b84395d98422
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/README.distribution
+SPDXID: SPDXRef-item835023
+FileChecksum: SHA1: f14372d6e4ef45aaa85d6035bf25e97699d4196e
+FileChecksum: MD5: 2a508c8febbc69a6698bc53413bdd665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/netem/experimental.dat
+SPDXID: SPDXRef-item835024
+FileChecksum: SHA1: 94a9db6e5c01dac5e9056099e376c6a9766fc1f0
+FileChecksum: MD5: be7dbe115237ee54c632d4f17b33e83a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/ip-tunnels.tex
+SPDXID: SPDXRef-item835026
+FileChecksum: SHA1: 5a2a9f94eb5a3b51b32cd5a301815da2c6cacdc7
+FileChecksum: MD5: 0c1521c356709004a8ad372153032b12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/Makefile
+SPDXID: SPDXRef-item835027
+FileChecksum: SHA1: 90524f67f3c4e922631297c39d13a771ef2f64f9
+FileChecksum: MD5: f62b280c92d29d344030befd842b610c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/do-psnup
+SPDXID: SPDXRef-item835028
+FileChecksum: SHA1: 69a5e29c9185a27eb5fdf6615dc675304fdaba02
+FileChecksum: MD5: 4b4d5b1a797b97b4a3c52d5e86fd2843
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/tc-filters.tex
+SPDXID: SPDXRef-item835029
+FileChecksum: SHA1: 6f0f800937187a6351454dd8b28b80c4cdd73ac6
+FileChecksum: MD5: 6cae526e090ebd008ee906f379443a38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/nstat.sgml
+SPDXID: SPDXRef-item835030
+FileChecksum: SHA1: 0a212c7d38603424d9c566c1489c9fd9ee8921b9
+FileChecksum: MD5: 28ff2d4dbe209d69abdbe3bf7d6a0e33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/Plan
+SPDXID: SPDXRef-item835031
+FileChecksum: SHA1: bece4fe8a09b3d0f3b58a92b2b38c80aa58f27b9
+FileChecksum: MD5: f5856eea154d274ec0f85ede4c241558
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/actions/ifb-README
+SPDXID: SPDXRef-item835033
+FileChecksum: SHA1: d43eaa3838cf0b0199642afea0f0255fc9086124
+FileChecksum: MD5: 2db31b94f1e66e2a49d293b31d73f29f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/actions/actions-general
+SPDXID: SPDXRef-item835034
+FileChecksum: SHA1: c3f0d7bd7429f01066bfd94b2a2e625d1873f808
+FileChecksum: MD5: 639ef363752d4504e1d7141585ffc0b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/actions/gact-usage
+SPDXID: SPDXRef-item835035
+FileChecksum: SHA1: 81d46b44d55eedda2c040a814b6c40593c9dad05
+FileChecksum: MD5: 422dbe60089fe9e30029f8c17606c9a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/actions/mirred-usage
+SPDXID: SPDXRef-item835036
+FileChecksum: SHA1: 7a6e1506323826cc7752e5ad0f3a31de6fead60d
+FileChecksum: MD5: f18b441a607da6f2542e2b1b6c710606
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/SNAPSHOT.tex
+SPDXID: SPDXRef-item835037
+FileChecksum: SHA1: 62969aefdb4a18ac6210202cb8137ee5c78ac0a2
+FileChecksum: MD5: 6d79725d811ba39bfcc70d7e84a20624
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/api-ip6-flowlabels.tex
+SPDXID: SPDXRef-item835038
+FileChecksum: SHA1: c243cfa602136121c06f7e5b3bfc762eacba2a50
+FileChecksum: MD5: 4af58a02df0410217a5c7bf4374fb227
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/preamble.tex
+SPDXID: SPDXRef-item835039
+FileChecksum: SHA1: 3f41ab14070f0db53882d2f294a66356f19ed7c9
+FileChecksum: MD5: c28bd5494da28388a053b39979186148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/ip-cref.tex
+SPDXID: SPDXRef-item835040
+FileChecksum: SHA1: a57c0afcf598f17714ff624413d1fc39eecb8601
+FileChecksum: MD5: be0c3482ceaf7e4719ec96e9e8182422
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/arpd.sgml
+SPDXID: SPDXRef-item835041
+FileChecksum: SHA1: 6ecf8e7a8780180a4ea7a6cb5b49ed95bfc1b9d3
+FileChecksum: MD5: 12e82be93203d02691ea52a5f076ab7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/rtstat.sgml
+SPDXID: SPDXRef-item835042
+FileChecksum: SHA1: 77c3840807400f513470ddcd0fa75ebc24a4d9cc
+FileChecksum: MD5: 988834d538497b2422690d6ecdb23023
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/doc/ss.sgml
+SPDXID: SPDXRef-item835043
+FileChecksum: SHA1: 760a86b9b8c96498585ed6cd937b5a4898cc21cc
+FileChecksum: MD5: a5f52bbfd1127eef5553450707bcec04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/schema/bridge_fdb_schema.json
+SPDXID: SPDXRef-item835045
+FileChecksum: SHA1: b8d3324749cfd709c45afb3fa13702abcbf97513
+FileChecksum: MD5: 971f98cccc18cc3644388cae808a84b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/README.lnstat
+SPDXID: SPDXRef-item835046
+FileChecksum: SHA1: ce741e9d446d5696b3d80bdcb4cd7fbc6ebbdd18
+FileChecksum: MD5: c27792d07ed5cc93e11a1f185b146bed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/README
+SPDXID: SPDXRef-item835047
+FileChecksum: SHA1: ffbd13fdedff35476a9217213d319532b6d11c56
+FileChecksum: MD5: 6fb1aa3d94e02950ca4a504f3fb79ae6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/applied-patches
+SPDXID: SPDXRef-item835049
+FileChecksum: SHA1: 43d5aee40aef9e4d21bdc76b8475cc336c5d1b43
+FileChecksum: MD5: 8d210535c9f231917df7251ab7a5eafe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/.quilt_series
+SPDXID: SPDXRef-item835050
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/.version
+SPDXID: SPDXRef-item835051
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-include-stdint.h-explicitly-for-UINT16_MAX.patch/.timestamp
+SPDXID: SPDXRef-item835053
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-include-stdint.h-explicitly-for-UINT16_MAX.patch/tc/tc_core.c
+SPDXID: SPDXRef-item835055
+FileChecksum: SHA1: 4d402b8402aa4adc7d1074610b84de31e74e5e37
+FileChecksum: MD5: 91499906fb0473debbde3d9063e335cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/configure-cross.patch/configure
+SPDXID: SPDXRef-item835057
+FileChecksum: SHA1: 0905d7ddf9ef6eb77928f99e94bb7a829f0acb08
+FileChecksum: MD5: 00662c7265e8409d44cb7170d1838a9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/configure-cross.patch/.timestamp
+SPDXID: SPDXRef-item835058
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-libc-compat.h-add-musl-workaround.patch/.timestamp
+SPDXID: SPDXRef-item835060
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-libc-compat.h-add-musl-workaround.patch/include/linux/libc-compat.h
+SPDXID: SPDXRef-item835063
+FileChecksum: SHA1: 29a47b6ae95beb0f4490e728a43a7bb6df1d4703
+FileChecksum: MD5: 1399c4e2f37d5a88bd2281cfaf06aff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/.quilt_patches
+SPDXID: SPDXRef-item835064
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-ip-Remove-unneed-header.patch/ip/iplink_bridge.c
+SPDXID: SPDXRef-item835067
+FileChecksum: SHA1: e20989c29e715950bf1cf4fc53d57e1c0cba55f9
+FileChecksum: MD5: 1cb9386a7105e433e4f53404f189e26b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-ip-Remove-unneed-header.patch/.timestamp
+SPDXID: SPDXRef-item835068
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-iproute2-de-bash-scripts.patch/ip/rtpr
+SPDXID: SPDXRef-item835071
+FileChecksum: SHA1: 6f5ccea0ccbbfbb17f9769edf46a2d81144d88e4
+FileChecksum: MD5: 13bc5c907f96b8b4f3e8426c7a5fce2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-iproute2-de-bash-scripts.patch/ip/ifcfg
+SPDXID: SPDXRef-item835072
+FileChecksum: SHA1: 28ce2e985b3600d028dcfe9c08d2018a5a81eda5
+FileChecksum: MD5: 0a93605c9ef0239e6bbe73eb7510d05b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/.pc/0001-iproute2-de-bash-scripts.patch/.timestamp
+SPDXID: SPDXRef-item835073
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/Makefile
+SPDXID: SPDXRef-item835075
+FileChecksum: SHA1: 73112867ed3eca33c9e48959237bf8e95ad9ff9b
+FileChecksum: MD5: b37c79ac22715619593f76e906e8fcf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/mdb.c
+SPDXID: SPDXRef-item835076
+FileChecksum: SHA1: d1a0f3e9e6b57b9964c1368806e9d3c7a43d7a9f
+FileChecksum: MD5: 518ffcc766420a64c7ae123475c096f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/bridge.c
+SPDXID: SPDXRef-item835077
+FileChecksum: SHA1: dfc96a5f21d2e7f5465727f77d29927dea9927be
+FileChecksum: MD5: 4debd2c6bf42acabda7d43900dea306d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/monitor.c
+SPDXID: SPDXRef-item835078
+FileChecksum: SHA1: e410ea86796873e10ba3056859b91c9368f6a68d
+FileChecksum: MD5: a0dbf48837704c214a1ea82cdf2a0085
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/.gitignore
+SPDXID: SPDXRef-item835079
+FileChecksum: SHA1: ffd0a800b8d6fce075406e30bdea8e32efa0b066
+FileChecksum: MD5: 1af99d1c92ddc577bb5c8ee11fb2a01c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/br_common.h
+SPDXID: SPDXRef-item835080
+FileChecksum: SHA1: 750f366121205625dfe572df674100ed1b8dc396
+FileChecksum: MD5: 3c65646e69935ba6b52c2b53b3dd7e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/link.c
+SPDXID: SPDXRef-item835081
+FileChecksum: SHA1: c4c6617cbbcf53312ec7420245d42395431ae78d
+FileChecksum: MD5: 08ffb47376bfb0411e38574469112224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/vlan.c
+SPDXID: SPDXRef-item835082
+FileChecksum: SHA1: 39ee2e42d326a6d0a4a25bf52d5285ab9e2de672
+FileChecksum: MD5: 52efdb0b00b443de3be0d5ddc54665ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/bridge/fdb.c
+SPDXID: SPDXRef-item835083
+FileChecksum: SHA1: 652d85df63e8c014113dc80c96b85c1a8a05944d
+FileChecksum: MD5: dbdb1976d3253097ca8f30447ce2aa11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/Makefile
+SPDXID: SPDXRef-item835085
+FileChecksum: SHA1: b4332cc5a939c769d8463f225bfa7d38212e6599
+FileChecksum: MD5: daf01945e5310bbe8198f5cd103558c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/lnstat.h
+SPDXID: SPDXRef-item835086
+FileChecksum: SHA1: 7cfae4be56dc78786dc995ce95f67cd467f52ddc
+FileChecksum: MD5: 1decada065680d3debd45172f5e90461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/rtacct.c
+SPDXID: SPDXRef-item835087
+FileChecksum: SHA1: 0c86d3560c68e4075d88dbb3bf187edb77a0b452
+FileChecksum: MD5: 2e0ac8f84d4ed5716c67f562626e4b9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/ifstat.c
+SPDXID: SPDXRef-item835088
+FileChecksum: SHA1: 2eaa3c7d9ff62e1731e2ad9ceed688ef33fda066
+FileChecksum: MD5: ac177d6dde8c02547940bbef5c38db73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/ssfilter.h
+SPDXID: SPDXRef-item835089
+FileChecksum: SHA1: 32e735d8050e285332f9957733d3e2978597d3bb
+FileChecksum: MD5: a00fdab8654bf0fcf3e4e1ecfbcc892a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/.gitignore
+SPDXID: SPDXRef-item835090
+FileChecksum: SHA1: 731d696c9b8e9537c9afb410325343fee2b8c989
+FileChecksum: MD5: 1e3229203df0636e2109e8a4256131dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/lnstat.c
+SPDXID: SPDXRef-item835091
+FileChecksum: SHA1: 7b8c3c99dc1853ed1345a5affb7966ace16ea444
+FileChecksum: MD5: 0c559971af9a1ffbfd9e0be31af42e50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/arpd.c
+SPDXID: SPDXRef-item835092
+FileChecksum: SHA1: f9cf173107d6ddeb728bf7d98e7f19d2f42cc2b4
+FileChecksum: MD5: d6093d2fe0311b71a8cdf3e3729b259b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/lnstat_util.c
+SPDXID: SPDXRef-item835093
+FileChecksum: SHA1: 9fcc05801f0cf140329c0e7cdca274bb51d76f44
+FileChecksum: MD5: 52adeaa67474908ec7187ab9e515f28a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/nstat.c
+SPDXID: SPDXRef-item835094
+FileChecksum: SHA1: 239c7882bb5bf7d85eb61c58c4c5f7a7d84e1a26
+FileChecksum: MD5: 98b3cd132c53d47ed60bd7d03cad6839
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/ssfilter.y
+SPDXID: SPDXRef-item835095
+FileChecksum: SHA1: b1d0499a5531507418eb86785255906a694f333f
+FileChecksum: MD5: beee71e2983a63fbccee82a1a1948e23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/misc/ss.c
+SPDXID: SPDXRef-item835096
+FileChecksum: SHA1: 4803c77abb931f4b6c3277edfdef78267be5c9e3
+FileChecksum: MD5: b6b0040bf22e44bfaddfceba4afc4b87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/emp_ematch.l
+SPDXID: SPDXRef-item835098
+FileChecksum: SHA1: b580847194c2659a066155e7d3da2a0176918435
+FileChecksum: MD5: c9f5b883e61e6c47112300c177440bd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_red.h
+SPDXID: SPDXRef-item835099
+FileChecksum: SHA1: be70b249cd88da148f0c04c3e374432de3d0036d
+FileChecksum: MD5: d7e7d9d3c4e2291ed3ec74c9120853fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_htb.c
+SPDXID: SPDXRef-item835100
+FileChecksum: SHA1: f3fe3420ab06cac5dc63fa195da248b0e477bacd
+FileChecksum: MD5: 8238f8a145930b054cdd80b3f7429adb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_tcindex.c
+SPDXID: SPDXRef-item835101
+FileChecksum: SHA1: 4798d76c670690172c764b02b64c4584ef767f5c
+FileChecksum: MD5: 41e9f6eb26b6373dc110963c9f5f7274
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_action.c
+SPDXID: SPDXRef-item835102
+FileChecksum: SHA1: 11ff94c740efe67799cddc5f9bd2a0a9147d5da7
+FileChecksum: MD5: 6a427ad36d7973071f5a1398789f0904
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/Makefile
+SPDXID: SPDXRef-item835103
+FileChecksum: SHA1: 2960d2715641c99ada80bc43e575d2d8a3502535
+FileChecksum: MD5: 7f19c1ea32fdcd41f43b0d1bf289cf24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_dsmark.c
+SPDXID: SPDXRef-item835104
+FileChecksum: SHA1: 98b2bd02bbae400bc164585c67e2992979f7d03f
+FileChecksum: MD5: ac43090153b1c6cecbd8f93f2929e707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_vlan.c
+SPDXID: SPDXRef-item835105
+FileChecksum: SHA1: f1f78f76df19423e4eaed3c0ef08a7177b24874d
+FileChecksum: MD5: f973c4dbc1dfa50d0fe2c69b8f927826
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_ingress.c
+SPDXID: SPDXRef-item835106
+FileChecksum: SHA1: 53e6ad24b4feb8239aa40269c78e5d6097a30ab7
+FileChecksum: MD5: 0262e246726a7d7df5638afd88f8fd04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_red.c
+SPDXID: SPDXRef-item835107
+FileChecksum: SHA1: 9ed08109eb58d05e43dc5215ab1820a577e85206
+FileChecksum: MD5: 630140a21e65c6adb2529399081042bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_codel.c
+SPDXID: SPDXRef-item835108
+FileChecksum: SHA1: bcebac7d1f7e616084c7e23e12201f6089bb83e2
+FileChecksum: MD5: 840b69406816bc291d7417a22ab77bfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-Cryptogams
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_xt.c
+SPDXID: SPDXRef-item835109
+FileChecksum: SHA1: c2848e72817a77a9f23d3c7b707092b4cc347766
+FileChecksum: MD5: 59e9e885081f38026dc226fb4f430340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_monitor.c
+SPDXID: SPDXRef-item835110
+FileChecksum: SHA1: 08dcd12a4b6c8710fd9d15ebea78e7a9e1c2c42c
+FileChecksum: MD5: d9a59e503a10b390f706ba3c7d1e3696
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_estimator.c
+SPDXID: SPDXRef-item835111
+FileChecksum: SHA1: 008cbeaf1bf1444315054ed6a35dc72003e84bac
+FileChecksum: MD5: 15b75d67c464b2a879843fb80f27329e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_core.c
+SPDXID: SPDXRef-item835112
+FileChecksum: SHA1: 31dcac0841a4cd7f4dc1f6fbe3b854808af6db52
+FileChecksum: MD5: a9f0521ca25c840722988e375c0fbdde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/static-syms.c
+SPDXID: SPDXRef-item835113
+FileChecksum: SHA1: 4d07f991ea451c1e6d2a2aac33963c3b6f7b82de
+FileChecksum: MD5: e8b7a78e6f511dc76857f29becf7edc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_rsvp.c
+SPDXID: SPDXRef-item835114
+FileChecksum: SHA1: dd8e11bd47bba08f7895d5ad7f818187992821ef
+FileChecksum: MD5: 187dd1f88866398b8ec0699c76851b09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_common.h
+SPDXID: SPDXRef-item835115
+FileChecksum: SHA1: c8b32e1482b902561d6068566a0eab7486ed564b
+FileChecksum: MD5: 1b1f687c748bde49dc38bd7b222445ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_util.h
+SPDXID: SPDXRef-item835116
+FileChecksum: SHA1: 93d340de97912ce590aa0e2c360b9f1299867b63
+FileChecksum: MD5: 814395282f944675703692c36ddae8cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_drr.c
+SPDXID: SPDXRef-item835117
+FileChecksum: SHA1: cf7d5dff2d207ed7f46cc035bc20778e27508652
+FileChecksum: MD5: c50e94c8a9e557ef5fe197b7bf8ea418
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_basic.c
+SPDXID: SPDXRef-item835118
+FileChecksum: SHA1: c4c3bb700f83bb8b2c94e7cbfc180676cac6fda1
+FileChecksum: MD5: 6fa4a1c7095ab32b4125201c0c7a317a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_ematch.h
+SPDXID: SPDXRef-item835119
+FileChecksum: SHA1: d033397719b0913cbdb29070fbcd59c4b3dff1d0
+FileChecksum: MD5: 4410af138bd90d03379356429eb3868a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_gred.c
+SPDXID: SPDXRef-item835120
+FileChecksum: SHA1: 3ae2a3564af57e2085ec4905bbf287fcff6b0acb
+FileChecksum: MD5: 2de67b89725e67ee4240510ebfb62d3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_bpf.c
+SPDXID: SPDXRef-item835121
+FileChecksum: SHA1: 0339e5e6d71ffdd0348c54d8389b869fa6b9715f
+FileChecksum: MD5: e78cbff25cb96952ccc88a0cab5a4073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_red.c
+SPDXID: SPDXRef-item835122
+FileChecksum: SHA1: 11188cb0fd9928828d5dc457a055d405099ad877
+FileChecksum: MD5: d37fb8b6012180262f9d66889fd759c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_pedit.c
+SPDXID: SPDXRef-item835123
+FileChecksum: SHA1: 0d83005fecf677f330dd45194169509cd59f7450
+FileChecksum: MD5: f5bc25038df3e99f750b9d1d2ff6b0db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/.gitignore
+SPDXID: SPDXRef-item835124
+FileChecksum: SHA1: 25a14218f147e8486616cd549a6228a1b99bedf6
+FileChecksum: MD5: 114adacb7896ea7052911ffd3e30cc98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_xt_old.c
+SPDXID: SPDXRef-item835125
+FileChecksum: SHA1: 269df44f11a9ebbf7a7a5d3ea0d31c3298e81422
+FileChecksum: MD5: 7cf5a780507531062b1526262e57f721
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_netem.c
+SPDXID: SPDXRef-item835126
+FileChecksum: SHA1: c94be753c971b272d2f5874de7005c604a6513ce
+FileChecksum: MD5: c1da4e3bb091e12a989b0a98e6f567bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/README.last
+SPDXID: SPDXRef-item835127
+FileChecksum: SHA1: 19dcf9675d525265e9603e0e53c51c26067502d3
+FileChecksum: MD5: b56727592898cb9ee4bb52f229708895
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_tbf.c
+SPDXID: SPDXRef-item835128
+FileChecksum: SHA1: 4b422c99941981f795e5104b48243de55c904742
+FileChecksum: MD5: b35a15da07546d2e1d1f8cf048ff4226
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_exec.c
+SPDXID: SPDXRef-item835129
+FileChecksum: SHA1: fdbb9b3a57c1b586444115ba3084dc99756ea585
+FileChecksum: MD5: 508168ca166288a488a17210f1c01b87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/p_udp.c
+SPDXID: SPDXRef-item835130
+FileChecksum: SHA1: 51bdab7418f5a674ac8ecb746a684b2054def564
+FileChecksum: MD5: ea2d03c7accb44c9256ee1753390dd88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_sample.c
+SPDXID: SPDXRef-item835131
+FileChecksum: SHA1: c8ea7bf8c9a20c93bba34a25cd4281a0e1c61cf8
+FileChecksum: MD5: c03d56780d4ca602590e886988e43efd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_fifo.c
+SPDXID: SPDXRef-item835132
+FileChecksum: SHA1: c7fcebc9ed665e4c61062080efe49b6b2699036f
+FileChecksum: MD5: d6d8a7d4baddb5317ca1049087a28202
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_prio.c
+SPDXID: SPDXRef-item835133
+FileChecksum: SHA1: ff25a6dac6540aa258265998f43c16a1685e06d0
+FileChecksum: MD5: a5f6edf0f20708617637dd8ca0fb2d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_tunnel_key.c
+SPDXID: SPDXRef-item835134
+FileChecksum: SHA1: fbb215bf1a18ce81e44a1e94d05ce75b9aa921f6
+FileChecksum: MD5: 5f6f2f4116f045bdd84b4da274a65787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_sfb.c
+SPDXID: SPDXRef-item835135
+FileChecksum: SHA1: f5c603476074fa767300e9dcdf9fe61782e5e383
+FileChecksum: MD5: 240223e3ddd4180bb34eb32ecba30a86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_pedit.h
+SPDXID: SPDXRef-item835136
+FileChecksum: SHA1: e5f8140bf68c46dc18f4e21852b0052e5dcba942
+FileChecksum: MD5: 216840297a56d6a39ddf20054232f5b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_hfsc.c
+SPDXID: SPDXRef-item835137
+FileChecksum: SHA1: f2018babd0184639f48e4a032ce0eb4ce958d6e3
+FileChecksum: MD5: 962f3ed0c3cd701cec4b8bddfd1e7a29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_choke.c
+SPDXID: SPDXRef-item835138
+FileChecksum: SHA1: 86574220c33c562855579b8dd16ec9bd473bcff1
+FileChecksum: MD5: 3b925b2e06105875bc4e3f35b88637bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc.c
+SPDXID: SPDXRef-item835139
+FileChecksum: SHA1: 2706f0b38638b24f9d98428e877b1a111dea9071
+FileChecksum: MD5: d55b4caa5b08418970366cfc3137bfad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_skbedit.c
+SPDXID: SPDXRef-item835140
+FileChecksum: SHA1: 54dff9bcf7754befed7761e645ce917b95ef9745
+FileChecksum: MD5: eca43da04213b4dd1c1996f9e25e7b15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_core.h
+SPDXID: SPDXRef-item835141
+FileChecksum: SHA1: 556072baec7c9f2e8afbff88c2f0b5c057541aa2
+FileChecksum: MD5: fc915d083ca1ec4812fdbab5beb6190d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/p_eth.c
+SPDXID: SPDXRef-item835142
+FileChecksum: SHA1: a5412de14e351519a530e4e41f52f5f3ec17c5b7
+FileChecksum: MD5: 4070886ce1662c4c2913b511613275a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_skbmod.c
+SPDXID: SPDXRef-item835143
+FileChecksum: SHA1: dfc325478aa1f29afd5cf4b5ade936442a770da9
+FileChecksum: MD5: 7d089f9cf352bff6cd64cb54d731c63c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_stab.c
+SPDXID: SPDXRef-item835144
+FileChecksum: SHA1: 3e11b6c191cd8a444ea33ae944f9cec62f4ce5d3
+FileChecksum: MD5: fc67fc098579554035cf417662fd45a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_fw.c
+SPDXID: SPDXRef-item835145
+FileChecksum: SHA1: 456c93396a4057b7b4f19edd92ba8308540fd3d2
+FileChecksum: MD5: 6f539bdfde631bb934edb060230a614d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_u32.c
+SPDXID: SPDXRef-item835146
+FileChecksum: SHA1: ea9b3f683fe21e412725e644419074d277a391a4
+FileChecksum: MD5: eaab863656a9e34912c25381dfb68616
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_ipt.c
+SPDXID: SPDXRef-item835147
+FileChecksum: SHA1: d88bd2edf9985b69aa88daa0e2b686f1ce95cd34
+FileChecksum: MD5: 6c76943cfcddd683478f6bca803cbf26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_flow.c
+SPDXID: SPDXRef-item835148
+FileChecksum: SHA1: 9ed04a833438fdc846d53e820bb91fd555460e56
+FileChecksum: MD5: 5e614e95adbf7a4eae142bac6faf5882
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_route.c
+SPDXID: SPDXRef-item835149
+FileChecksum: SHA1: 3f788ce38d689cce6b97a47f0acbafa708ca6fe8
+FileChecksum: MD5: b8f4c6aba72ca76f31a2455b4dd2f7dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_filter.c
+SPDXID: SPDXRef-item835150
+FileChecksum: SHA1: 226b52ac26bbb8c75c0a1eb446248aeac82a5f83
+FileChecksum: MD5: b6e7c2f5f4f6352776ac9ff881690cb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_mqprio.c
+SPDXID: SPDXRef-item835151
+FileChecksum: SHA1: c45dfb170ef513c7dfd3955a7683a591806a34e4
+FileChecksum: MD5: 804cef9e5da90063fb80bbecbff39e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_rr.c
+SPDXID: SPDXRef-item835152
+FileChecksum: SHA1: 913280e1d9ed8e6df39f609b0a56d5cb94376f69
+FileChecksum: MD5: 8c577797242a0bf1fab0f4d196ae4512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_atm.c
+SPDXID: SPDXRef-item835153
+FileChecksum: SHA1: a96a6ea77ca5ccbaf2eb381239143dd88db304f3
+FileChecksum: MD5: c9be6618425ea8e2b6aacc00c457d929
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_estimator.c
+SPDXID: SPDXRef-item835154
+FileChecksum: SHA1: 180c34781c3a891cf10c326d5d3d8399bfd7c011
+FileChecksum: MD5: 661021c3c59c5f207392503018f3ff4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/p_icmp.c
+SPDXID: SPDXRef-item835155
+FileChecksum: SHA1: e2e35f9f188c5c1e4629a729391f51f24490aa58
+FileChecksum: MD5: 50caa2c404f967422bfd52d920a438e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/em_cmp.c
+SPDXID: SPDXRef-item835156
+FileChecksum: SHA1: 034df27fb71b1f226f2c71dfa6420a9fa3a551a4
+FileChecksum: MD5: d3ae385d94a6ae1b0e751b31d47e48a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_fq.c
+SPDXID: SPDXRef-item835157
+FileChecksum: SHA1: e329869ca4580cb4e4500ada060356243edd4c68
+FileChecksum: MD5: 9eaab832ab2451bdce7ce1f89ddc00f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-Cryptogams
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_qdisc.c
+SPDXID: SPDXRef-item835158
+FileChecksum: SHA1: 99eedc13329cba2a2a7377ba84b52cd3e621f497
+FileChecksum: MD5: f337aea6d73845d312e20264362b4039
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/em_ipset.c
+SPDXID: SPDXRef-item835159
+FileChecksum: SHA1: 346c0673a36b68fc6e2a0310b18eafbab34c932f
+FileChecksum: MD5: f581a97cbbbc313ccaae92f06b55f3aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_class.c
+SPDXID: SPDXRef-item835160
+FileChecksum: SHA1: fe129f5627fc2624330b9aa06402b287492d5551
+FileChecksum: MD5: 8df7bbcceae57188e8a74322e530fd21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_csum.c
+SPDXID: SPDXRef-item835161
+FileChecksum: SHA1: f9d4261b07e744d22fe13d056fb5d603b96ae8a6
+FileChecksum: MD5: ad32d7e2c9ee91487e238b218d8749d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_multiq.c
+SPDXID: SPDXRef-item835162
+FileChecksum: SHA1: 31e806fe7b78884e5d99ff72b54405c267e8dd01
+FileChecksum: MD5: cf4a45792dde5ed2fef4ab5d5c0c8e09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/emp_ematch.y
+SPDXID: SPDXRef-item835163
+FileChecksum: SHA1: 205ede537df3179068bd0adb7073053d985ce584
+FileChecksum: MD5: 311e270b3374abc69a63a07a75a6a77f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_cbq.c
+SPDXID: SPDXRef-item835164
+FileChecksum: SHA1: 5998b9a0ea6b33dc3bf423823e0917cfb3d9905b
+FileChecksum: MD5: cb3480061697bb697cb0ef055b5039d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_flower.c
+SPDXID: SPDXRef-item835165
+FileChecksum: SHA1: e61df1a3d7b40dfcaac8ae679b2e3e7667854e50
+FileChecksum: MD5: 117f44e307996a4c51753f892b381eb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_gact.c
+SPDXID: SPDXRef-item835166
+FileChecksum: SHA1: 3d8bf09536ced2d06b659a7df21133cf98cca746
+FileChecksum: MD5: ee0297c52b7a74646724d423afb505cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_mirred.c
+SPDXID: SPDXRef-item835167
+FileChecksum: SHA1: a53636cbc30c7cd86662c89b3abad3a794eddfb2
+FileChecksum: MD5: 16c4bb2ed92c2d91fba6e1b7d04f35e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_hhf.c
+SPDXID: SPDXRef-item835168
+FileChecksum: SHA1: aa63bfbc0ed3537c3e7eb0ed0b5596c1c0231b3c
+FileChecksum: MD5: 2cdeec10bc95ee1ea018717794fc777d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_fq_codel.c
+SPDXID: SPDXRef-item835169
+FileChecksum: SHA1: 91e2494d98403d1ccadeaa94be5d8c77c9ed06f0
+FileChecksum: MD5: 5622c2223d33e216b868e222c24863e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-Cryptogams
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_cbq.h
+SPDXID: SPDXRef-item835170
+FileChecksum: SHA1: e7d9dec106e7a482c5cc6c2781e40c6238e0f4c3
+FileChecksum: MD5: 44c303ea06963e31826f04e5cf475dbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_util.c
+SPDXID: SPDXRef-item835171
+FileChecksum: SHA1: 6305cf230a61a780028cdedb0dff48f089823631
+FileChecksum: MD5: e605f91ef5c22214d55daf5394d05bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/em_nbyte.c
+SPDXID: SPDXRef-item835172
+FileChecksum: SHA1: ddeee489b2c74aa8aea0961ba69acb6c7b5e85e9
+FileChecksum: MD5: 02d9f2ed17d8493a7872ca364acdfeaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_matchall.c
+SPDXID: SPDXRef-item835173
+FileChecksum: SHA1: 9e4f975129fd99f95d4ee15685d506a841325a06
+FileChecksum: MD5: ec0146f9c5d0374b70be5ea834d53ca3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/e_bpf.c
+SPDXID: SPDXRef-item835174
+FileChecksum: SHA1: 9875ab68c44e599c48b7e8dada50426889dba211
+FileChecksum: MD5: 62aecca5948144af538a8fad13d7461e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/em_u32.c
+SPDXID: SPDXRef-item835175
+FileChecksum: SHA1: 42c2a40b3010a2f8b099209d953a7968106a9375
+FileChecksum: MD5: ebe96e1cf41844de26c2a4af6fb184cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_cgroup.c
+SPDXID: SPDXRef-item835176
+FileChecksum: SHA1: c867c83b2aaa3860cf40546203d42699511c2d06
+FileChecksum: MD5: e7754994ba1d4e69b5e0b5ab0dcba3d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_simple.c
+SPDXID: SPDXRef-item835177
+FileChecksum: SHA1: 0d2ab94d70e6562fa59cf119a3aaf559dbd3484c
+FileChecksum: MD5: ad45a9b77d17bb20c5f7b4172a05893c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/f_bpf.c
+SPDXID: SPDXRef-item835178
+FileChecksum: SHA1: 82f26559e11e81339b3d54a6fc61d21ef49a590c
+FileChecksum: MD5: e007dac7315e4824ae1dc678d774d154
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_nat.c
+SPDXID: SPDXRef-item835179
+FileChecksum: SHA1: 5cf281e7512ef7076caa1844e2cb587382d9d2e4
+FileChecksum: MD5: a7338d3ccc05b5e8be60fadfafcdae86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_police.c
+SPDXID: SPDXRef-item835180
+FileChecksum: SHA1: 8ef6f002296b7ac97e83f0940cf36256877a96c1
+FileChecksum: MD5: 5abd259422471174dee936efd287ec59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_ife.c
+SPDXID: SPDXRef-item835181
+FileChecksum: SHA1: 3ca5739926a50f5e570f687fdc37d96366d2c500
+FileChecksum: MD5: bdb59111b6c8134948f3dda46e39f1c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_qfq.c
+SPDXID: SPDXRef-item835182
+FileChecksum: SHA1: 0d9c2146dfe9b6a3141614a81df0c599d8d3ce15
+FileChecksum: MD5: cb2ce0d71e43fc1f2b3c4ff184c4dcb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_ematch.c
+SPDXID: SPDXRef-item835183
+FileChecksum: SHA1: 6036ffe45cb2a92fa017f2045fe2bb677415a483
+FileChecksum: MD5: ea006b5b9963f2f4559b22f101dc76cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_clsact.c
+SPDXID: SPDXRef-item835184
+FileChecksum: SHA1: 4d61e647542361fc7ef820e870820cfdbbcd7a8e
+FileChecksum: MD5: 5ab604f6c4a59e0514035534f1e13613
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/em_canid.c
+SPDXID: SPDXRef-item835185
+FileChecksum: SHA1: 5fff75b5a0cede8022f7b770159c3a151a7f4d42
+FileChecksum: MD5: 2bbad1003f2b3c5bf6051ba0d73ee617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/p_ip.c
+SPDXID: SPDXRef-item835186
+FileChecksum: SHA1: d59a47a29f0c0c0c9db8b36fa569e2810a8a5a4f
+FileChecksum: MD5: b301a6711069905f30ed6cfe5b50e29e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/m_connmark.c
+SPDXID: SPDXRef-item835187
+FileChecksum: SHA1: 29ce32752410a08d528a721c1c662d84e2446ce7
+FileChecksum: MD5: 5928ae0d6729523eca07ab01390e092b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/em_meta.c
+SPDXID: SPDXRef-item835188
+FileChecksum: SHA1: 10a70f93f10d4edf4e1ce4df432ef1a3396e7df4
+FileChecksum: MD5: 7b442a0ebff39002a502b93062b1f0c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_sfq.c
+SPDXID: SPDXRef-item835189
+FileChecksum: SHA1: 6c6d474942604956a6dbdc2c7f9ec7b785229beb
+FileChecksum: MD5: ffed8b2ddf89ae8947c578be6be030e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/p_tcp.c
+SPDXID: SPDXRef-item835190
+FileChecksum: SHA1: 64e41b453dcc3c363630b0ca229f78cbdc241ebb
+FileChecksum: MD5: 5f9da4cd305ae03d764ba1f9c6d49ddc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/tc_cbq.c
+SPDXID: SPDXRef-item835191
+FileChecksum: SHA1: 87aff2b1f547b2817803c68ae171488b5664ada6
+FileChecksum: MD5: ddc20d7635fcd169477e6f12c072bf74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/tc/q_pie.c
+SPDXID: SPDXRef-item835192
+FileChecksum: SHA1: b72dba19a0501e9390b5b78819d11157813a0369
+FileChecksum: MD5: d6be1d7240c42220967042afeb697952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/README.distribution
+SPDXID: SPDXRef-item835193
+FileChecksum: SHA1: a786229b5b2eb554bcdce4cf0513db568f13568e
+FileChecksum: MD5: b3fe297b0e0d183bbeaae50fa6141d6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/README.decnet
+SPDXID: SPDXRef-item835194
+FileChecksum: SHA1: 4a72774488d75be01c1bf43d277b14a84297b194
+FileChecksum: MD5: 513fcda70ecd81c6ae9986f876549f99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/patches/series
+SPDXID: SPDXRef-item835199
+FileChecksum: SHA1: c815d5089d17ac6cee5a15f47da095c7bc92cf49
+FileChecksum: MD5: 1ff17584c3dc48063035c9568349cf20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/genl/Makefile
+SPDXID: SPDXRef-item835203
+FileChecksum: SHA1: 85755a7bdd790ede1e38a33d554d2ef1944aeaa1
+FileChecksum: MD5: 70790b5807f3e92ad87db036afbcf707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/genl/static-syms.c
+SPDXID: SPDXRef-item835204
+FileChecksum: SHA1: 4d07f991ea451c1e6d2a2aac33963c3b6f7b82de
+FileChecksum: MD5: e8b7a78e6f511dc76857f29becf7edc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/genl/genl_utils.h
+SPDXID: SPDXRef-item835205
+FileChecksum: SHA1: 4c9c558cb32b03a4de145ca71555b69b882a103e
+FileChecksum: MD5: b07ebac4ebd4db8222aba143d72122e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/genl/genl.c
+SPDXID: SPDXRef-item835206
+FileChecksum: SHA1: 5b4d39a8d89c41b91688782d39308aac596273e4
+FileChecksum: MD5: 9633f756f4aaf19638e1cf2eb09c3cd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/genl/.gitignore
+SPDXID: SPDXRef-item835207
+FileChecksum: SHA1: d8245871d42e0bb455ec93a1ce267cbe0fc3fca6
+FileChecksum: MD5: 16154c8f89b30a8870d672110bca6cae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/genl/ctrl.c
+SPDXID: SPDXRef-item835208
+FileChecksum: SHA1: d62c5ccd0e3992354eb45861ed88e5efa1dc3fe6
+FileChecksum: MD5: b6ca5aad7008240b8e978a89dc5f3a76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/netinet/tcp.h
+SPDXID: SPDXRef-item835211
+FileChecksum: SHA1: 22054b11dc9658fc75c7b3f2429de6627084c417
+FileChecksum: MD5: ea564dd48e017bd4342ba5a0c0f1aa1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/ll_map.h
+SPDXID: SPDXRef-item835212
+FileChecksum: SHA1: 314c2061bde6552ad28322cdbe150b2a7ad5af69
+FileChecksum: MD5: ddf83947da84a4fcdb68a7609868290b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/bpf_api.h
+SPDXID: SPDXRef-item835213
+FileChecksum: SHA1: 31c823d59068234414d4f4e3c582f304b3333655
+FileChecksum: MD5: 7f6d9c3c95b3cd0d7e3a23e666683940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/iptables/internal.h
+SPDXID: SPDXRef-item835215
+FileChecksum: SHA1: 9c216e0dfdf690f076a4b8a4e5ce6031d6cbc5bf
+FileChecksum: MD5: ca31c60b8b4361e133418d7fbec15e33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/dlfcn.h
+SPDXID: SPDXRef-item835216
+FileChecksum: SHA1: 078c17a825514c19ab8872963a8966caa1dac3a4
+FileChecksum: MD5: 039d0b5e0f45a6ad95cc582c15e7b15a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/iptables.h
+SPDXID: SPDXRef-item835217
+FileChecksum: SHA1: 1e4ea09eaf70829ee67b2fd9087e14009dae47a8
+FileChecksum: MD5: c6bc0a05668932f75a11a031d33c37d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/json_writer.h
+SPDXID: SPDXRef-item835218
+FileChecksum: SHA1: e41bc566acfeedef651c766464a68713a19733ef
+FileChecksum: MD5: e0ea9e731f6f2678d4ba737bc8918831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/ip6tables.h
+SPDXID: SPDXRef-item835219
+FileChecksum: SHA1: 75fe69a99f687e891ff1c7b5b18ca55443861b88
+FileChecksum: MD5: 91411f9aeb0d8a29b8dc845295299461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/bpf_elf.h
+SPDXID: SPDXRef-item835220
+FileChecksum: SHA1: db8cdaebdf84dd43b4b3acbab05ab422f20ab610
+FileChecksum: MD5: 608693611346f37eeeceac7e801d3061
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/namespace.h
+SPDXID: SPDXRef-item835221
+FileChecksum: SHA1: a54fefa987d837bb311506b99c542fc71b8d0485
+FileChecksum: MD5: 6d2f4b045270aba19591c673d5bfd610
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/rt_names.h
+SPDXID: SPDXRef-item835222
+FileChecksum: SHA1: 2fa4b4d2449b5500b50643ab6ea52b4f07fffa87
+FileChecksum: MD5: ad087be9197eef3892ad336155f9ac42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/libnetlink.h
+SPDXID: SPDXRef-item835223
+FileChecksum: SHA1: 1784c94ba1454435cfb1d2a2285ceaeac41f03e9
+FileChecksum: MD5: c304aa1bbc421de52ca02b32ed645c11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/bpf_util.h
+SPDXID: SPDXRef-item835224
+FileChecksum: SHA1: 2a79edc63fdd9680094d2177ae0d468d4334f3a1
+FileChecksum: MD5: 78f82da73cbc624bfa01bcff61f5f498
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/SNAPSHOT.h
+SPDXID: SPDXRef-item835225
+FileChecksum: SHA1: e5e99396548164a4c776cd9ab7ab5bae71347928
+FileChecksum: MD5: fdb590b1b7e3af83421825472faee5ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/rtm_map.h
+SPDXID: SPDXRef-item835226
+FileChecksum: SHA1: cc1c574e4df41e7c46656bf7dc8f8de7c9aefe2f
+FileChecksum: MD5: d5e6df04d8199c06d68735b4f2ec64b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/list.h
+SPDXID: SPDXRef-item835227
+FileChecksum: SHA1: f51d5703222e28c034f23c87bdfa78a3f2cb64bf
+FileChecksum: MD5: 8d673005b40d2f94fafe7b25060aaf57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/bpf_scm.h
+SPDXID: SPDXRef-item835228
+FileChecksum: SHA1: 83687d29e3852d524d18371e27c6aee206ab5fd1
+FileChecksum: MD5: 6db1e21d2f90e49e45cfaccb7e93c31e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/libiptc/xtcshared.h
+SPDXID: SPDXRef-item835230
+FileChecksum: SHA1: ea4b98dee67313346be868e9c6b5b4336722b070
+FileChecksum: MD5: 6f23fc7fa2a4d9083cfcc9ee6b61c4fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/libiptc/libip6tc.h
+SPDXID: SPDXRef-item835231
+FileChecksum: SHA1: fbd9fcfdcf20ee1a681394d4200bfdfb4ed8b7d4
+FileChecksum: MD5: 4460c1a3a99887e14bacdc51eeb4519d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/libiptc/libxtc.h
+SPDXID: SPDXRef-item835232
+FileChecksum: SHA1: 786d65dab0cfdc5bd16e4dd2009e9b62c4526f21
+FileChecksum: MD5: 47751e16c3235c55fd343ecdfdfacc2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/libiptc/ipt_kernel_headers.h
+SPDXID: SPDXRef-item835233
+FileChecksum: SHA1: dccc7c045d8384596b5a07850f7b0a4702f39dc6
+FileChecksum: MD5: d1e5210820da83da09adc923c208a106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/libiptc/libiptc.h
+SPDXID: SPDXRef-item835234
+FileChecksum: SHA1: 83f7f26b662dde6bfcbb10c81badebb5926742f5
+FileChecksum: MD5: 0bd11ad9323794753b5766663f872a48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/iptables_common.h
+SPDXID: SPDXRef-item835235
+FileChecksum: SHA1: 1ff461da030224e0146f1c25cf47530f290a2ae2
+FileChecksum: MD5: d5947d751282e1cc0cc3a3a805ed8647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/libgenl.h
+SPDXID: SPDXRef-item835236
+FileChecksum: SHA1: 6dcdc948718b77480d54407686ebe89b1430b64e
+FileChecksum: MD5: d1f1ef1c31e390498c59296495352a7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/color.h
+SPDXID: SPDXRef-item835237
+FileChecksum: SHA1: 108ed5bae8fc7a129b4174248c31d0e7eb049f42
+FileChecksum: MD5: 27dce75cc215ac91c33d12de75659673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/xtables.h
+SPDXID: SPDXRef-item835238
+FileChecksum: SHA1: 56cd14520841ee0304cafaa2a9b65bdaa8a7fa7a
+FileChecksum: MD5: 23faf59a13e8f02e14d6a3f957a02d62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/names.h
+SPDXID: SPDXRef-item835239
+FileChecksum: SHA1: bd1a19309ce69e1836f1851d750dc0f3ae54f8be
+FileChecksum: MD5: f26e16111c7bb6ba019879b0f7c279ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/utils.h
+SPDXID: SPDXRef-item835240
+FileChecksum: SHA1: 193047d8e6c1fa9c6929ff85e26619c2477637d1
+FileChecksum: MD5: 6cbc33e22a57ebf66328e6dd1213db7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/pkt_cls.h
+SPDXID: SPDXRef-item835242
+FileChecksum: SHA1: 4e4de95a2a252d131f9536faeaa67134f76ae263
+FileChecksum: MD5: 42c8b4d72cd72435fa8b5fd53fb81398
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_sample.h
+SPDXID: SPDXRef-item835244
+FileChecksum: SHA1: d708610f78a4298071ee941feb0a2c69bad66658
+FileChecksum: MD5: eb96b39b283dbf86a78095ebadab57af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_nat.h
+SPDXID: SPDXRef-item835245
+FileChecksum: SHA1: f647d082f30a3d05dc2fe02c5a86539d5403f8fc
+FileChecksum: MD5: b0b64226d23e58ebe30c68c381ad0f0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_skbedit.h
+SPDXID: SPDXRef-item835246
+FileChecksum: SHA1: f3e0abb037947f61a565c6678ae84d3589608be3
+FileChecksum: MD5: 2f8b41abf6edf8f1d02cdf2ff005f697
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_skbmod.h
+SPDXID: SPDXRef-item835247
+FileChecksum: SHA1: b606c45585a438d4216795e1bfa163acacfc1818
+FileChecksum: MD5: 31f1002f5df1c5a0a6e071033a7ba702
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_ife.h
+SPDXID: SPDXRef-item835248
+FileChecksum: SHA1: 92ed4e3a5140efed0e1a38b1cd74837209d3d787
+FileChecksum: MD5: 29e25fd0b65a2ca392d5608c55d1c231
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_bpf.h
+SPDXID: SPDXRef-item835249
+FileChecksum: SHA1: 785f25d396b9892f05ee93e8b1088cdea7467625
+FileChecksum: MD5: a56463aefb7d481ed2c320064504e6ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_gact.h
+SPDXID: SPDXRef-item835250
+FileChecksum: SHA1: 54a80e2eb98e121580a3ee3b0edab29b0e3161ef
+FileChecksum: MD5: 1cba89977d36b98dee0e683112dc0ef5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_defact.h
+SPDXID: SPDXRef-item835251
+FileChecksum: SHA1: ec3b77a43d8d41bd46c2154ed841d08e66ec39b5
+FileChecksum: MD5: 60b99c3b6899fe151d11478b846ba830
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_mirred.h
+SPDXID: SPDXRef-item835252
+FileChecksum: SHA1: 262b127f1d22f96254f972861434e04eae810a12
+FileChecksum: MD5: 5c007ba110b80f8d88b05bf2ee744ba5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_connmark.h
+SPDXID: SPDXRef-item835253
+FileChecksum: SHA1: 40388035839eec252f6488be1215ae44a5f56d82
+FileChecksum: MD5: 9e860e038eb70611c805f2312431aaff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_csum.h
+SPDXID: SPDXRef-item835254
+FileChecksum: SHA1: 0b4235cc66472bce1f0704ed5175dab09c6b5bd8
+FileChecksum: MD5: 6b8164841402d0f99be3f5fbb99d1980
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_tunnel_key.h
+SPDXID: SPDXRef-item835255
+FileChecksum: SHA1: f3172dfa326d2ab95a8a3b23283ec913c01f0ee2
+FileChecksum: MD5: 9a60ed32b96bde98c215721a6d300bba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_vlan.h
+SPDXID: SPDXRef-item835256
+FileChecksum: SHA1: 14d84f85e215500219fc1e8c69cc849427451ad4
+FileChecksum: MD5: 755ae33cd2a747a4fce7e08c40e85112
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_ipt.h
+SPDXID: SPDXRef-item835257
+FileChecksum: SHA1: bebf8fa5f140f4f9bc8f5fda1932a69816c5f0f4
+FileChecksum: MD5: 3afdabe7b8b760ecf5729d9ca9df34b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_act/tc_pedit.h
+SPDXID: SPDXRef-item835258
+FileChecksum: SHA1: b6279fad93ad85d661b87018b42ae770e08fd55d
+FileChecksum: MD5: 9808e5aef15790b2c07cfdfaadbe0821
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_ether.h
+SPDXID: SPDXRef-item835259
+FileChecksum: SHA1: 372691a0ba19025b47c50f9dd8000b86f67bbaac
+FileChecksum: MD5: 1965719665953282d8e9445e8f6bfb83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_tunnel.h
+SPDXID: SPDXRef-item835260
+FileChecksum: SHA1: ee2dd8eed02452c1c9aeacfefb9825789a609e73
+FileChecksum: MD5: 5d80e3015689e4b8aa42d77afe860cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_tun.h
+SPDXID: SPDXRef-item835261
+FileChecksum: SHA1: 555c7f6918323300de26b20598a9c397fe788a13
+FileChecksum: MD5: 246f8256277214534738a3b3e2f8b9ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/socket.h
+SPDXID: SPDXRef-item835262
+FileChecksum: SHA1: 8e0a1c65302c7af93c927c4cf3edcf2e33ad47e5
+FileChecksum: MD5: 27190a1c425f3df7f4928278e100e60e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_link.h
+SPDXID: SPDXRef-item835263
+FileChecksum: SHA1: bccbf9b9f0626982a6d0cb330e6fe8b2f64a421b
+FileChecksum: MD5: f0a0a7e5ec9c99bff11b8419d9d0bf7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter_ipv4/ip_tables.h
+SPDXID: SPDXRef-item835265
+FileChecksum: SHA1: 9ddd937960197492926cf20d1ad5284b8a09d5a8
+FileChecksum: MD5: 481c0ea20b8a5e011c8b5e801e2bfa83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tipc.h
+SPDXID: SPDXRef-item835266
+FileChecksum: SHA1: fb4cfe8f35863c90ecf82642e467dda5bccbc55f
+FileChecksum: MD5: 9c75d192b9e0afaf337559216cdfa675
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/bpf_common.h
+SPDXID: SPDXRef-item835267
+FileChecksum: SHA1: ec83a1daea65088c40664821f50565c683e1c5db
+FileChecksum: MD5: b575206a5e351226a57d1b3229c5d01c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/can.h
+SPDXID: SPDXRef-item835268
+FileChecksum: SHA1: c46a5b942dab9858b99b9c4823f83830db8683a7
+FileChecksum: MD5: 445e34b0f77ae39db051978291cbf787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-Cryptogams
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if.h
+SPDXID: SPDXRef-item835269
+FileChecksum: SHA1: 514b2b0d978d06d6bae9f4485e08c2da3ecccdd8
+FileChecksum: MD5: 1a2d50407e3b045afb139b7dfb235c50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/sctp.h
+SPDXID: SPDXRef-item835270
+FileChecksum: SHA1: 674dc48911bd8e092984c5735370138e8e6291da
+FileChecksum: MD5: 7f911af305bc36ca94bbb47108aa4554
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/fib_rules.h
+SPDXID: SPDXRef-item835271
+FileChecksum: SHA1: 35e0760828717f891987abc78ac3f4ec3b10c30f
+FileChecksum: MD5: 173efd7ae2797376d1952517a409b278
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/sysinfo.h
+SPDXID: SPDXRef-item835272
+FileChecksum: SHA1: 9837298f095873c1ea2f1eae3288b4c7410b7942
+FileChecksum: MD5: 18c3ae7ddf5efda25de4815d76d1e3d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/ip.h
+SPDXID: SPDXRef-item835273
+FileChecksum: SHA1: b73303ce04a1cd9da9552470c1be66fa7f5f29a5
+FileChecksum: MD5: 25e537e48941d82d8f03da0f7caca798
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/magic.h
+SPDXID: SPDXRef-item835274
+FileChecksum: SHA1: c469956be76b3f770817c652d0549a19da7e7637
+FileChecksum: MD5: e16920ee978f92dfabd2f8810dad3ea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/can/netlink.h
+SPDXID: SPDXRef-item835276
+FileChecksum: SHA1: a9a70788834184787d7a6a02c1bba20a91c4442e
+FileChecksum: MD5: afde8a86ca5a899e2f81d157e5e2eabd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/gen_stats.h
+SPDXID: SPDXRef-item835277
+FileChecksum: SHA1: 20f56ad929d1f2b0549e23e81c9f26e5eb3e31ad
+FileChecksum: MD5: a052faa9c0136ce03bcfdfcd59181478
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tcp_metrics.h
+SPDXID: SPDXRef-item835278
+FileChecksum: SHA1: 90fba9a72f9f92158a705630ad62eb67b35fc0b5
+FileChecksum: MD5: 619061dcb1ce441c7b0d772408932933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/veth.h
+SPDXID: SPDXRef-item835279
+FileChecksum: SHA1: 6139c5ae938391d85a305c0ed9a57542f1f6e05b
+FileChecksum: MD5: 051654f3bc5de6b714561eee6cd4cf71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/ila.h
+SPDXID: SPDXRef-item835280
+FileChecksum: SHA1: afaf84657b9312374dc2cd46374730ae271e7fcb
+FileChecksum: MD5: fd1c00791d98c2ce483d95a9a2a4b6e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_bonding.h
+SPDXID: SPDXRef-item835281
+FileChecksum: SHA1: 1f28cb38363289d32bcbeacd759bc56d0506233a
+FileChecksum: MD5: b3e0b07909e9b1ffe7ea9a7bf520a9c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/mpls_iptunnel.h
+SPDXID: SPDXRef-item835282
+FileChecksum: SHA1: 94b19446d2a389a0fe0d0b357d33a39553f6819f
+FileChecksum: MD5: 690a9e788f919de80e68c87ed2f16b02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter_ipv6.h
+SPDXID: SPDXRef-item835283
+FileChecksum: SHA1: 10eb53a5e8c8e174a451b8bdc3586d7969fac90b
+FileChecksum: MD5: 5dcf67696a29a982f348940b82dfdc55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/ife.h
+SPDXID: SPDXRef-item835284
+FileChecksum: SHA1: ae30d957b18769dae82d590fbda4fa77061c6b94
+FileChecksum: MD5: a63443a6f35c18dff4955823c45dc191
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_ematch/tc_em_meta.h
+SPDXID: SPDXRef-item835286
+FileChecksum: SHA1: 94b3344211e6036ffd26b0ff543d0c89c032bb8f
+FileChecksum: MD5: ed54f2e5526a406053c71fd65d35b736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_ematch/tc_em_cmp.h
+SPDXID: SPDXRef-item835287
+FileChecksum: SHA1: 3a4dc41337064e8aaace6f9b37b3f311d837917e
+FileChecksum: MD5: 7140b7fc8936965c45a9ba27f738fa7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tc_ematch/tc_em_nbyte.h
+SPDXID: SPDXRef-item835288
+FileChecksum: SHA1: 9b6e1688477670eede9608b763d238330bf7bc3a
+FileChecksum: MD5: b64651debc982832de0c8fe8dad6e58d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/limits.h
+SPDXID: SPDXRef-item835289
+FileChecksum: SHA1: 3ea90a446c3bb101d08a5510f7a2fb70fa7dc74b
+FileChecksum: MD5: dcc63f12c47a79925586edeeba88d40f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter.h
+SPDXID: SPDXRef-item835290
+FileChecksum: SHA1: 6e2420d0a23ce73959ada76a807e651c52eeaf8e
+FileChecksum: MD5: f776eb4d90f29f029b957e80d20d2928
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/inet_diag.h
+SPDXID: SPDXRef-item835291
+FileChecksum: SHA1: 8365c2e1c420ae210c227420276544d9b92676ee
+FileChecksum: MD5: b9f4e41e6ead096e0b7066f29e22e6ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/posix_types.h
+SPDXID: SPDXRef-item835292
+FileChecksum: SHA1: 668fb1f68e0532d112e844e2c7d0912c7c41638d
+FileChecksum: MD5: 4b31ef96e37a0403aa6839ab42320bef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/icmpv6.h
+SPDXID: SPDXRef-item835293
+FileChecksum: SHA1: ce4bab8c55ac66fc8493597d1686e8402d57b8c7
+FileChecksum: MD5: d503daa4cfae6ef62bebca139e1d3063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_addrlabel.h
+SPDXID: SPDXRef-item835294
+FileChecksum: SHA1: b0f30444cd8ba8ad06ed9ebd3b8f2e5633b5b143
+FileChecksum: MD5: 2b572c608f8b83f731fd1fda229809cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/bpf.h
+SPDXID: SPDXRef-item835295
+FileChecksum: SHA1: 6f67eab907502fcac0a145b026fd3d548b04c725
+FileChecksum: MD5: 38a6ca7905a4e32b9433e8aa3ebbcec0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_bridge.h
+SPDXID: SPDXRef-item835296
+FileChecksum: SHA1: a19434a61150dde544585557890f9de80552ccc6
+FileChecksum: MD5: aea8b5e95c6b45b25afe333dfa40a08f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter/xt_tcpudp.h
+SPDXID: SPDXRef-item835298
+FileChecksum: SHA1: b996dc74a90c61f42b16987eb70bf9583fe20c9b
+FileChecksum: MD5: e5729e2698f18a08be9e464c2d54ee17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter/xt_set.h
+SPDXID: SPDXRef-item835299
+FileChecksum: SHA1: ad6ecd0f8f918f42ea8fae281a69f4c59f758434
+FileChecksum: MD5: 577e9fcf5122db3b0f6eb53b5c2c0871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter/x_tables.h
+SPDXID: SPDXRef-item835300
+FileChecksum: SHA1: dfe573401ff7728b2180b81731a4b2274233d982
+FileChecksum: MD5: fa96da2a4c95f732344d4e1cec003a54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter/ipset/ip_set.h
+SPDXID: SPDXRef-item835302
+FileChecksum: SHA1: aeee58ab396877fba70655f9d35412fe835e0d56
+FileChecksum: MD5: d9d7eddf8e42d083730070e14a41c1da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/sock_diag.h
+SPDXID: SPDXRef-item835303
+FileChecksum: SHA1: b086a2f9a16840982b3c90152f26143bc656bc83
+FileChecksum: MD5: a42fdc92f81fc18bc2e7e64ce46f6293
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/sockios.h
+SPDXID: SPDXRef-item835304
+FileChecksum: SHA1: 5133868da91c526030a7750c2e5210ef2b972bf1
+FileChecksum: MD5: 23f6ccef40012bf5a7bc53861c741dca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/param.h
+SPDXID: SPDXRef-item835305
+FileChecksum: SHA1: 9575d7ef8148cd62de905c6fdd90975e59428fc4
+FileChecksum: MD5: 5ab9e38446642229b140a108c8bfd083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netconf.h
+SPDXID: SPDXRef-item835306
+FileChecksum: SHA1: f02dd601373a48c00c6fa9b4e4ae65b8cf74ca07
+FileChecksum: MD5: e7cd28eaff26f6714cbd1674fe2b4098
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_arp.h
+SPDXID: SPDXRef-item835307
+FileChecksum: SHA1: 692e19d8278286f1960604e5f5b6886bb2803371
+FileChecksum: MD5: 3e681a5ceadcd01ecdff46f9115cd3c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/net_namespace.h
+SPDXID: SPDXRef-item835308
+FileChecksum: SHA1: 34a822b2ae87ebc2c024a4e3a44d840c453c1e67
+FileChecksum: MD5: a44fc00aecde0bc908d75d4f8c449470
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/atmioc.h
+SPDXID: SPDXRef-item835309
+FileChecksum: SHA1: 9ab6b3c704f7719ca8df669a7586cc38fd60830f
+FileChecksum: MD5: dc70932125f315a3b6d5c6109c882c6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_macsec.h
+SPDXID: SPDXRef-item835310
+FileChecksum: SHA1: 04819eff34fba41f86c960a5d5b693af61afa68a
+FileChecksum: MD5: fb100b2d56eaf8cdeeb7f81a264aa416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_vlan.h
+SPDXID: SPDXRef-item835311
+FileChecksum: SHA1: 38d0235ed8cc162f27cd2a003fbe0f17d3f9ceba
+FileChecksum: MD5: 2c103db4b282d1aa857939efba526c37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/mpls.h
+SPDXID: SPDXRef-item835312
+FileChecksum: SHA1: 113974a7e22cc54c1e9daaf123e04aa6cd6ac3e7
+FileChecksum: MD5: fe77c48a39a923cbb242529c8777c03c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netlink_diag.h
+SPDXID: SPDXRef-item835313
+FileChecksum: SHA1: 8d96e211d846b2571aedc8d54b3308d4f4a83289
+FileChecksum: MD5: f15d20a3c89307f75540a0c71eea0897
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/in6.h
+SPDXID: SPDXRef-item835314
+FileChecksum: SHA1: 27da0500cad7ca0bab2855d6c0bea615aa72e2b4
+FileChecksum: MD5: 9bba28daa96b93f6b81a63b9f5e33365
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/filter.h
+SPDXID: SPDXRef-item835315
+FileChecksum: SHA1: 633be8d28c35b45d3518c09e3f742f837a237018
+FileChecksum: MD5: 182487c5dcf4dbdb22696f8f34b92632
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/neighbour.h
+SPDXID: SPDXRef-item835316
+FileChecksum: SHA1: 643496540abf0e789dfecf89eaf7b6790148ac7e
+FileChecksum: MD5: 7b610730c0fe9e9b9d3abdaeb79589a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/atmsap.h
+SPDXID: SPDXRef-item835317
+FileChecksum: SHA1: 5a688b6d6128c2651b60c2af8e11b4e168bb4787
+FileChecksum: MD5: 185b4d7a3b7694e65cc85fd4647de30a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/genetlink.h
+SPDXID: SPDXRef-item835318
+FileChecksum: SHA1: d31ecc1bb682765b223a659e12967cd699ba1245
+FileChecksum: MD5: a6328334e111d56848708d1367b695c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/stddef.h
+SPDXID: SPDXRef-item835319
+FileChecksum: SHA1: ae5a6ebbffa7661b331e7b212257fa598b5859a7
+FileChecksum: MD5: f38d0881032a98ae2312335bf5990f41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/packet_diag.h
+SPDXID: SPDXRef-item835320
+FileChecksum: SHA1: 40e6dca8bb567ec0771a59c51dce9c3c4cdd22b4
+FileChecksum: MD5: 11f34b5f0d1b030e4ef3cb15970c7cb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/atmdev.h
+SPDXID: SPDXRef-item835321
+FileChecksum: SHA1: 6fefbd8c734fab1f332b5d33eedcdcbd078e8855
+FileChecksum: MD5: 1b1b91f79ee88dcadce41060d35b10cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/hdlc/ioctl.h
+SPDXID: SPDXRef-item835323
+FileChecksum: SHA1: fffd25f698d37a5e9b340eac0a6b445ce2b3e729
+FileChecksum: MD5: 57b87a91a74d48a8ce36d68fa41ccc36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/sysctl.h
+SPDXID: SPDXRef-item835324
+FileChecksum: SHA1: c1b5bae52160e669f479796784886b23a3e7dedb
+FileChecksum: MD5: b414064cb1b460db2ef4cd02121bf23c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/in_route.h
+SPDXID: SPDXRef-item835325
+FileChecksum: SHA1: d00334fa61026dfab4ea0076a7d646e028dcefaf
+FileChecksum: MD5: 44c46d163f39bf8dea68fc472b22f9ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/atm.h
+SPDXID: SPDXRef-item835326
+FileChecksum: SHA1: fb86638841ad7174dabc92f80496d5c5c783c0dc
+FileChecksum: MD5: b937e71f28a5b982a762b4b5bd022640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netlink.h
+SPDXID: SPDXRef-item835327
+FileChecksum: SHA1: fbb8af286aaef46977b919e353c7cce747c55668
+FileChecksum: MD5: 8208b0422fce25c443789871819aeea8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/rtnetlink.h
+SPDXID: SPDXRef-item835328
+FileChecksum: SHA1: c7df19a2d37b362af41689b3b7d10e6a969a7c26
+FileChecksum: MD5: 0c40750365366031014dd9853f84c2e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/ipv6.h
+SPDXID: SPDXRef-item835329
+FileChecksum: SHA1: 3faafdf8845b11c5a2c9cf14b211a4d289596b15
+FileChecksum: MD5: d1f4f4e01718fe92811782f3185fa1c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_addr.h
+SPDXID: SPDXRef-item835330
+FileChecksum: SHA1: 8c9d39b725c2c5af8d6ab8b159a79fe4979052b5
+FileChecksum: MD5: d2e8b3499d5fe8b56409d851509b1cb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/l2tp.h
+SPDXID: SPDXRef-item835331
+FileChecksum: SHA1: ccd0b13c19128de41b48575e62c61c550e4677ec
+FileChecksum: MD5: 59777e73542eef4552f0d00c8d7f8d5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tcp.h
+SPDXID: SPDXRef-item835332
+FileChecksum: SHA1: 5c41a7a368fa84b124bd0d10a16d5dacabb3c663
+FileChecksum: MD5: aab8118a41579adb768e02e0e5450c5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_alg.h
+SPDXID: SPDXRef-item835333
+FileChecksum: SHA1: 7a175aafff716b154ba80696f8bd880bfd41f19a
+FileChecksum: MD5: bcdff6b9843d7700262f8ae93c7ab360
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/devlink.h
+SPDXID: SPDXRef-item835334
+FileChecksum: SHA1: a977771a2656903f0dd61537d31755a5668a47e8
+FileChecksum: MD5: 7832bacc92f0586835dddb19f630804d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/lwtunnel.h
+SPDXID: SPDXRef-item835335
+FileChecksum: SHA1: 47e9ad4a1cf2f31dd95f49057a0a614bf7d534e0
+FileChecksum: MD5: afd7359cbb2dcf3e035aae73acb71a35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter_ipv4.h
+SPDXID: SPDXRef-item835336
+FileChecksum: SHA1: 3dd160440e4e98144da0130d1843c3197a35465d
+FileChecksum: MD5: 2e71f316afc0833f6d024aad3701c346
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netdevice.h
+SPDXID: SPDXRef-item835337
+FileChecksum: SHA1: cee6f1e873059c758e276c0088d0ba92d174ad66
+FileChecksum: MD5: 36abdd428b7da35700697a6626309053
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/in.h
+SPDXID: SPDXRef-item835338
+FileChecksum: SHA1: af4337fb79a34ba8e1346c53fe70a30fbd46fd4e
+FileChecksum: MD5: 911c2bd3536b9271487775d2d956fc3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/elf-em.h
+SPDXID: SPDXRef-item835339
+FileChecksum: SHA1: 6134f59b6398666411da02d9c1f78bc278ff31cd
+FileChecksum: MD5: 29d885818495cda3e6dab461a8b34599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/xfrm.h
+SPDXID: SPDXRef-item835340
+FileChecksum: SHA1: 1d930d7d22f45f53ea931e88a4d15d57214efd24
+FileChecksum: MD5: 67b45147779d228515599beae46f8d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/unix_diag.h
+SPDXID: SPDXRef-item835341
+FileChecksum: SHA1: f95af01d06b38101930c55390175a73c02334109
+FileChecksum: MD5: 3a65f5850522bc81ce4f679e52a6948c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/atmarp.h
+SPDXID: SPDXRef-item835342
+FileChecksum: SHA1: 39aa9a2b0b74c852422a09480090cb2cd442d757
+FileChecksum: MD5: 2b7d72c295e71823f654f470c4ce22cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/pkt_sched.h
+SPDXID: SPDXRef-item835343
+FileChecksum: SHA1: 9bbedbb19515dcbb02d0106297276016bd8a2d39
+FileChecksum: MD5: a6bba2141b6b9ed4ae7bc47fabd34c04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/fou.h
+SPDXID: SPDXRef-item835344
+FileChecksum: SHA1: 1af5bcae7499f8d141b37a804100c2524818727d
+FileChecksum: MD5: 3019c5b2d6a40b081afeb21dcd856fa9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/atmapi.h
+SPDXID: SPDXRef-item835345
+FileChecksum: SHA1: 307e9168b0c0fed278fb8d433b4b0e2577bce592
+FileChecksum: MD5: cdbafa97210215a310ea535a6414ae7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/kernel.h
+SPDXID: SPDXRef-item835346
+FileChecksum: SHA1: 8a8403f5be1057fb394e467cc0710d83c0864ad4
+FileChecksum: MD5: 5e2cca3d0af150f94043b7618ded4eb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/netfilter_ipv6/ip6_tables.h
+SPDXID: SPDXRef-item835348
+FileChecksum: SHA1: 52ce9fa172e9ab40b2e250e1fbb2221c61d58e70
+FileChecksum: MD5: 179af6d669fd168273bd99640d15e312
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/types.h
+SPDXID: SPDXRef-item835349
+FileChecksum: SHA1: fbe7c7b844abe31e657c508ffa0c9caa6c95d6eb
+FileChecksum: MD5: 0e5af5a81b4e44b0a9f84d8de32712d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/ip6_tunnel.h
+SPDXID: SPDXRef-item835350
+FileChecksum: SHA1: 28381a6d89d10c5c2052e6712a0e90e591631652
+FileChecksum: MD5: ab16194ba362991cc543ab014c6f9625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/tipc_netlink.h
+SPDXID: SPDXRef-item835351
+FileChecksum: SHA1: 7959aca6f18a3cb18cb262176284da8c07300edf
+FileChecksum: MD5: 570c1e3773f73691bf8ce9613afd9383
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/if_packet.h
+SPDXID: SPDXRef-item835352
+FileChecksum: SHA1: 37d01d7abdc4b1da1d2e14fe91058f48a6d0fcb2
+FileChecksum: MD5: 920959a262e407a41055054d1247054f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/linux/libc-compat.h
+SPDXID: SPDXRef-item835353
+FileChecksum: SHA1: 1a0cfab835e56bfb52cf54d97054ebb2c05cddfe
+FileChecksum: MD5: cda3241c910108027f9fd56557a469a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iproute2-4.11.0/include/xt-internal.h
+SPDXID: SPDXRef-item835354
+FileChecksum: SHA1: 1ae6554d7ce9d7214ad7ff34812e22fdf79bc7f0
+FileChecksum: MD5: 33de237829e882fae9dce47f654233b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-ip-Remove-unneed-header.patch
+SPDXID: SPDXRef-item835355
+FileChecksum: SHA1: 8b3fbb1b2854d37e16ebfff27cc6a0a48cbd70aa
+FileChecksum: MD5: b9a436f33ec9d3b0a98bba0ba9f44912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-iproute2-de-bash-scripts.patch
+SPDXID: SPDXRef-item835356
+FileChecksum: SHA1: b89870f6f5d324f4c1d4f180869dd27c67337d11
+FileChecksum: MD5: a8871786f5fea7d77c0eb1ab22fe1c52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-Cryptogams
+LicenseName: Cryptogams
+ExtractedText: <text> Copyright (c) 2006, CRYPTOGAMS by <appro@openssl.org>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+      *	Redistributions of source code must retain copyright notices,
+	this list of conditions and the following disclaimer.
+
+      *	Redistributions in binary form must reproduce the above
+	copyright notice, this list of conditions and the following
+	disclaimer in the documentation and/or other materials
+	provided with the distribution.
+
+      *	Neither the name of the CRYPTOGAMS nor the names of its
+	copyright holder and contributors may be used to endorse or
+	promote products derived from this software without specific
+	prior written permission.
+
+ALTERNATIVELY, provided that this notice is retained in full, this
+product may be distributed under the terms of the GNU General Public
+License (GPL), in which case the provisions of the GPL apply INSTEAD OF
+those given above.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+

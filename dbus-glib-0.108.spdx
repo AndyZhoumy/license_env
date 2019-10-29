@@ -1,0 +1,2429 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_dbus-glib-0.108-r0-patched.tar.gz_1571460565.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:49:25Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: dbus-glib
+PackageVersion: 0.108
+PackageFileName: dbus-glib-0.108-r0-patched.tar.gz
+SPDXID: SPDXRef-upload438
+PackageDownloadLocation: http://dbus.freedesktop.org/releases/dbus-glib/dbus-glib-0.108.tar.gz
+PackageHomePage: http://www.freedesktop.org/Software/dbus
+PackageSummary: <text>High level language (GLib) binding for D-Bus</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>dbus-glib version 0.108</text>
+PackageChecksum: SHA1: ec16e25b0a498ea1d7840ac423c7c9d77022a557
+PackageChecksum: MD5: 164e64424dab9b867cbb12f6ba52f2a6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload438
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/test-install-makefile.patch
+SPDXID: SPDXRef-item1106510
+FileChecksum: SHA1: a6512edf108ffb2ad2694b48aa56be163ce07995
+FileChecksum: MD5: 42ae20166e13f1ebfb941084e87de41b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/NEWS
+SPDXID: SPDXRef-item1106512
+FileChecksum: SHA1: dd3a9f2c92678ea468a5eb48cfc79eb8773558b7
+FileChecksum: MD5: b961e5ccf5d23efba04b276af0154b24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/compile
+SPDXID: SPDXRef-item1106513
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/install-sh
+SPDXID: SPDXRef-item1106514
+FileChecksum: SHA1: 2e3051b2027eaf42b949f495503e7c9090f4113d
+FileChecksum: MD5: b965f98f97ba53fa9e2ed5528caa4efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/aclocal.m4
+SPDXID: SPDXRef-item1106515
+FileChecksum: SHA1: 662f22566bb032e730e27638b3360ed5de24021e
+FileChecksum: MD5: 9d6b1566b35666fa40fe27fe1aabfbbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/gtk-doc.make
+SPDXID: SPDXRef-item1106516
+FileChecksum: SHA1: dad07561dac9783dfff20eb0f07c5b6a165022d0
+FileChecksum: MD5: f4d960e9cb95fbfe0e0dabc18a291cec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/Makefile.in
+SPDXID: SPDXRef-item1106517
+FileChecksum: SHA1: 9197e33cc9811a8d0f252d62b702677658ef56cc
+FileChecksum: MD5: c3b30ad301f4de1f9da954c436342a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: AFL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/COPYING
+SPDXID: SPDXRef-item1106518
+FileChecksum: SHA1: 39033cc447828edebcc86da9bcc6edcab2022292
+FileChecksum: MD5: cf5b3a2f7083750d504333114e738656
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: AFL-2.1
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/configure
+SPDXID: SPDXRef-item1106519
+FileChecksum: SHA1: 90725eddee0e3ea51698d9758ec9d7d73d98ac57
+FileChecksum: MD5: c232f78559329d99a906d3d59db03e2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gsignature.h
+SPDXID: SPDXRef-item1106521
+FileChecksum: SHA1: 5723d360839a2a68ddaf16b5a4ed429c138bd9c3
+FileChecksum: MD5: e1154e74d86f0e06b03926dc705904e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gtype-specialized.c
+SPDXID: SPDXRef-item1106522
+FileChecksum: SHA1: ca0c1c71cadeb9bd852a5a3259c5d87b53bd1939
+FileChecksum: MD5: 4e1d514068bddf76dbd682553d258413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gvalue-utils.h
+SPDXID: SPDXRef-item1106523
+FileChecksum: SHA1: 03424efb3dbc97e2e885201fb3436cc4a1f775ef
+FileChecksum: MD5: 786c0d7f6b9bcc349b135d554441e1b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-glib-tool.c
+SPDXID: SPDXRef-item1106524
+FileChecksum: SHA1: 6b153554d202befac5491e0020d7b6053981ceb2
+FileChecksum: MD5: 5de8e8a2540777701d17c893118f6d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gidl.c
+SPDXID: SPDXRef-item1106525
+FileChecksum: SHA1: 59906e056f0dd2905879070c1305b0b8b3d7bcf6
+FileChecksum: MD5: a348a10aa56e3574ed41d04e8a817bda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gtype-specialized.h
+SPDXID: SPDXRef-item1106526
+FileChecksum: SHA1: 85bf6109121709e349e46118d4be332ab8924fc2
+FileChecksum: MD5: 7204f26d27ea48a830bf3a9530014f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gtest-main.c
+SPDXID: SPDXRef-item1106527
+FileChecksum: SHA1: c3ae84a36499290664c9779d58140990aae07df5
+FileChecksum: MD5: df3c8c64f78841188b1438de4cd0ec0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gvalue-utils.c
+SPDXID: SPDXRef-item1106528
+FileChecksum: SHA1: 2ad1f1e00180ac868668bf9fa38d43118beb4164
+FileChecksum: MD5: accd4fadc469cd9ee64e62f312b03338
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gtype-specialized-priv.h
+SPDXID: SPDXRef-item1106529
+FileChecksum: SHA1: 0fcd8fc35f60b2355c8b234bec55d8e5809c47ae
+FileChecksum: MD5: 4fc636765e6637b9fd2980aecd419fcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/Makefile.in
+SPDXID: SPDXRef-item1106530
+FileChecksum: SHA1: 6a98c0a10f6ebf147648a54bd508824cc9b46ecb
+FileChecksum: MD5: f5d08da664008e96a1e349db1055bb91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gmarshal.c
+SPDXID: SPDXRef-item1106531
+FileChecksum: SHA1: 6121968aec451f98a1e9eff6c1db43886bbd2a71
+FileChecksum: MD5: 0c0f7a2513e49511a3360092ef10e4c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gproxy.c
+SPDXID: SPDXRef-item1106532
+FileChecksum: SHA1: 03498b22125e86f87b50fb83d93fe8722cbc6695
+FileChecksum: MD5: 5d1304468e4f7acb3aa06050ef0decd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/example-client.c
+SPDXID: SPDXRef-item1106534
+FileChecksum: SHA1: 66ccc78f5bcd6d841d89e6c759b15486c09e9d9a
+FileChecksum: MD5: ab2169df21df538cd4438ae1098f222b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/Makefile.in
+SPDXID: SPDXRef-item1106535
+FileChecksum: SHA1: 197cf509138e864acdb97641336e77fe254148ef
+FileChecksum: MD5: 254f63c74dc40f912b4b455309445a88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/Makefile.am
+SPDXID: SPDXRef-item1106536
+FileChecksum: SHA1: 6b098eeacdc83420e65bd86ee2807643c3eb9769
+FileChecksum: MD5: 2746ca876e9a5ba18791255d507a70a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/example-service.xml
+SPDXID: SPDXRef-item1106537
+FileChecksum: SHA1: e52f1a8fd8b40dafd0496a708eb433132c84487d
+FileChecksum: MD5: 6645c28a22f9db9606eacdfd6d6d802b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/example-signal-emitter.xml
+SPDXID: SPDXRef-item1106538
+FileChecksum: SHA1: ffd4bde96558f26358ae658a976926aae3a12c0a
+FileChecksum: MD5: 7b647df25d0c349805e4ca08585aee19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/example-service.c
+SPDXID: SPDXRef-item1106539
+FileChecksum: SHA1: 5912efc32b63227a33c860dc8d9937734cd70568
+FileChecksum: MD5: 8870ffecea40ad2e1412bab1e485cde6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/statemachine.c
+SPDXID: SPDXRef-item1106541
+FileChecksum: SHA1: ec217876b187a7ee4e8547fca5254db173a105ec
+FileChecksum: MD5: ed85385a060b24d91dfe106ce90522fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/sm-marshal.list
+SPDXID: SPDXRef-item1106542
+FileChecksum: SHA1: e25acf2c098b7b06aeff0a08389e22a5ff1dda0c
+FileChecksum: MD5: b2b6022112a423a30be0f2bdd646564d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/Makefile.in
+SPDXID: SPDXRef-item1106543
+FileChecksum: SHA1: 814c99fd93650d541e0fcef0507ba049893e9924
+FileChecksum: MD5: f4851774f7a4206f12266d693dbe81da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/statemachine-server.xml
+SPDXID: SPDXRef-item1106544
+FileChecksum: SHA1: d13e7ff19676db42d1ae92f38c8e3beb85a80384
+FileChecksum: MD5: 31fb356cbe75c37c3ad1c2c728741d65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/statemachine.h
+SPDXID: SPDXRef-item1106545
+FileChecksum: SHA1: ff9444cf1f5522e38053a29f586a05df8a3b193a
+FileChecksum: MD5: 0509e12c01a2b6a4e605881fd847b679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/Makefile.am
+SPDXID: SPDXRef-item1106546
+FileChecksum: SHA1: 6638131cb3732f9f2d07c6116dd7b7887b69c40d
+FileChecksum: MD5: 33caa8699a30476bd0157a8a5e70ef53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/statemachine-server.c
+SPDXID: SPDXRef-item1106547
+FileChecksum: SHA1: cbf9dce33569b5872060a6af46e19e8379b63dc2
+FileChecksum: MD5: 3aab2a01415039e890ba17a2c21c32e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/statemachine-server.h
+SPDXID: SPDXRef-item1106548
+FileChecksum: SHA1: 989e2f230d1933271b9145a50463813d340ed7b1
+FileChecksum: MD5: abb056e8140954ef4419a497b0b2b924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/sm-marshal.c
+SPDXID: SPDXRef-item1106549
+FileChecksum: SHA1: 4eb616335fbdba9e44c0ea35096082933ae02443
+FileChecksum: MD5: 73407c10c887a9ad886fe449c0c62ebf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/statemachine/statemachine.xml
+SPDXID: SPDXRef-item1106550
+FileChecksum: SHA1: 289fa326025bdc1d8dee54bc6cfc831d876733a6
+FileChecksum: MD5: a1f5a9e12e6b4de5730db5cb397b2378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/example-signal-recipient.c
+SPDXID: SPDXRef-item1106551
+FileChecksum: SHA1: d91cf424b11152e55f0f695bb11c37e4e2e19ad9
+FileChecksum: MD5: 1590c2c8d732692e91cda47ff18c7e2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/examples/example-signal-emitter.c
+SPDXID: SPDXRef-item1106552
+FileChecksum: SHA1: 04b8cde6555309d681b98e14c1ba978c329b580a
+FileChecksum: MD5: f8aa72934a9d1c013f7e2cc83419e82a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gparser.c
+SPDXID: SPDXRef-item1106553
+FileChecksum: SHA1: aad0d5b75f6f1f93cf8175a934066746a4d9d0ce
+FileChecksum: MD5: 6393a409d5e1d4ea9f069e1e002b0674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gvalue-parse-variant.h
+SPDXID: SPDXRef-item1106554
+FileChecksum: SHA1: d43fd6f73b1b0fbea0e755f853374ff45ad99e46
+FileChecksum: MD5: 1e96b065c4147b282bcddb4be92243e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-glib.c
+SPDXID: SPDXRef-item1106555
+FileChecksum: SHA1: 14771ae489721aedb77acff7a5ef2f58173af532
+FileChecksum: MD5: 8b375dab676530500b790b144260800d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gmarshal.h
+SPDXID: SPDXRef-item1106556
+FileChecksum: SHA1: 282fe034f2c8dac78f79a9c5615ad76b9a304674
+FileChecksum: MD5: 1b1cf51f951fd9fbc4f973684e8a6403
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/Makefile.am
+SPDXID: SPDXRef-item1106557
+FileChecksum: SHA1: 9b922a430c257a7f59a71d4b276fc37977bd8f6e
+FileChecksum: MD5: 51f8bbcb92ddff6caa453b280ca1543c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gobject.c
+SPDXID: SPDXRef-item1106558
+FileChecksum: SHA1: 9c1613911b5c49e12481858d531c2d1735939d54
+FileChecksum: MD5: 3045c3386002573cfd97b4f746d91bd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gmain.c
+SPDXID: SPDXRef-item1106559
+FileChecksum: SHA1: 0d1fe5addc6a25eb7c45d27038bb93413e514c92
+FileChecksum: MD5: e3a8a9aa0a08159c2d1d7d5cf741dc47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gvalue.c
+SPDXID: SPDXRef-item1106560
+FileChecksum: SHA1: 4bc6d7b9572f08647721feba09463826a834eb7c
+FileChecksum: MD5: 3ea13e64690e480185c0c9165d4add49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-bash-completion.sh.in
+SPDXID: SPDXRef-item1106561
+FileChecksum: SHA1: 16f001515f16766336ac9261ca6d1811fd1bb963
+FileChecksum: MD5: 9d20bfb9014ccb96587557d2cb662c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-binding-tool-glib.c
+SPDXID: SPDXRef-item1106562
+FileChecksum: SHA1: 4c869f0f032b3a63197eba940b8e09f371d6aadb
+FileChecksum: MD5: 5c26e5656c7d7a09376bd31870d8b1ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gloader-expat.c
+SPDXID: SPDXRef-item1106563
+FileChecksum: SHA1: fe05eda31e5f41681bcdab4e70917cb493729ca8
+FileChecksum: MD5: 6f701058cb421ce19038e1b799b37e01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gthread.c
+SPDXID: SPDXRef-item1106564
+FileChecksum: SHA1: 0515385c425f5f64409145a9eb5b6d3536a64ca2
+FileChecksum: MD5: 6f7eec84a058725779589f0bef8403d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gidl.h
+SPDXID: SPDXRef-item1106565
+FileChecksum: SHA1: 804b4777587939a37468c43bc8c43f0919a1a05f
+FileChecksum: MD5: 7b7aac3869b172ac53a57e8c6c5fbe25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gmarshal.list
+SPDXID: SPDXRef-item1106566
+FileChecksum: SHA1: a741a4bf787c19d6241f20519a1900829149d98f
+FileChecksum: MD5: 5ac8895feba279f91441b13fbf7bd1ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gutils.c
+SPDXID: SPDXRef-item1106567
+FileChecksum: SHA1: c44e377973a5698f34959ebbc5861d783d1b03ce
+FileChecksum: MD5: ae8622d737fb401c441841e51d3b371d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gtest.c
+SPDXID: SPDXRef-item1106568
+FileChecksum: SHA1: 199cfee3461dc1862a59ef3c31255d004dfd707b
+FileChecksum: MD5: a84204a3f03a42dc416e7e4f48339179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-bash-completion-helper.c
+SPDXID: SPDXRef-item1106569
+FileChecksum: SHA1: 2f3ae9176a25a6bf2c387bd443293d88599e0363
+FileChecksum: MD5: 9504e0a3e35dae75b680a5da6440a08d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gparser.h
+SPDXID: SPDXRef-item1106570
+FileChecksum: SHA1: 0bf6aad1de54832b72f8066b38e25a154fc71098
+FileChecksum: MD5: 3f7d9a6981f55b2c4e8eb125cb690b9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gvalue.h
+SPDXID: SPDXRef-item1106571
+FileChecksum: SHA1: 27ea5c6c3d954fbba64ac2fda975341e6dab931e
+FileChecksum: MD5: 8eca9fec1e7a358a51b9c2fe7ee928b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-glib.h
+SPDXID: SPDXRef-item1106572
+FileChecksum: SHA1: 71c46f9f8668d74a41842aa575b44d822aa733c5
+FileChecksum: MD5: 93053489ce04f5fe3b83447ea478b7ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gobject.h
+SPDXID: SPDXRef-item1106573
+FileChecksum: SHA1: 11b9936bba2ce395fce0a99863d2fce24357f4e4
+FileChecksum: MD5: 1d93aaba7625d9969bfb24e995178dcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-binding-tool-glib.h
+SPDXID: SPDXRef-item1106574
+FileChecksum: SHA1: fb0e8d6ab8ed8dbe602422b793b4802711017121
+FileChecksum: MD5: c1de818e5efecb4a54551ea536d531bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gtest.h
+SPDXID: SPDXRef-item1106575
+FileChecksum: SHA1: 92c43db601f08a574543ef1479a7e2497f820b5f
+FileChecksum: MD5: a24b85f4754d0b269b8a0a1dc1a950c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gutils.h
+SPDXID: SPDXRef-item1106576
+FileChecksum: SHA1: 45e7bb6ac8979ddd3d856eaea09e73c748462f2f
+FileChecksum: MD5: be697f0dc4fb718702611bd6697fb457
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-glib-lowlevel.h
+SPDXID: SPDXRef-item1106577
+FileChecksum: SHA1: 3457b62051c7a3d23b1ee4b888ea8f36d52988d4
+FileChecksum: MD5: 18e62ff4e4d632af47e512d03bd37c19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gvalue-parse-variant.c
+SPDXID: SPDXRef-item1106578
+FileChecksum: SHA1: f75620b11c1a083031a15aeda56dd624699005f3
+FileChecksum: MD5: 363238b38a88dce5a8297419b1630cf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-glib-tool.h
+SPDXID: SPDXRef-item1106579
+FileChecksum: SHA1: c9a40136d186c3e95e83904a893f5bb9d2aa85b2
+FileChecksum: MD5: 73d6dd6b78f073d1fbb95e670131536a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus/dbus-gsignature.c
+SPDXID: SPDXRef-item1106580
+FileChecksum: SHA1: e8dca3c882fb37adafd72ddca292850c0f20f63b
+FileChecksum: MD5: 8a58e111bf4884c93ffa9e00605241c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/ltmain.sh
+SPDXID: SPDXRef-item1106581
+FileChecksum: SHA1: a1f1c2ad29368c6f3b3a1803f4b48edac5b6277b
+FileChecksum: MD5: edbcaf917b678b3f00e4fff2608f71c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus-bus-introspect.xml
+SPDXID: SPDXRef-item1106582
+FileChecksum: SHA1: 4ef63b6e1777dd9e263fc82d639da525eed8d11c
+FileChecksum: MD5: 09228a52500da3496e36b5c95815a0d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus-glib-1-uninstalled.pc.in
+SPDXID: SPDXRef-item1106583
+FileChecksum: SHA1: b5906cbf26814fd3a5f2d374f39415acbb2f2044
+FileChecksum: MD5: d64019c92a13e3bb03b86e1a571efda7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/m4/ltversion.m4
+SPDXID: SPDXRef-item1106585
+FileChecksum: SHA1: 3aae847c163fa6cc7c8241a3a49f98705538d55f
+FileChecksum: MD5: d936fd6b2025c9b5322f826117d7f30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/m4/libtool.m4
+SPDXID: SPDXRef-item1106586
+FileChecksum: SHA1: 9b3f425d17beb3342dd9df8ee9d8fe7c090a1ce4
+FileChecksum: MD5: 2cc70ef55adb11e355f6e8c30dcab090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/m4/ltoptions.m4
+SPDXID: SPDXRef-item1106587
+FileChecksum: SHA1: 9cd35d79da7776af14f21b259c64f130fa1a3536
+FileChecksum: MD5: 064af1799febaa676203302bbf359180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/m4/Makefile.in
+SPDXID: SPDXRef-item1106588
+FileChecksum: SHA1: ec03bb7fb10e5693158ab4d54023ddccc929d421
+FileChecksum: MD5: d1f03eb23bab9b4368be18553fa1cab0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/m4/Makefile.am
+SPDXID: SPDXRef-item1106589
+FileChecksum: SHA1: d1f8e4dfc295c6e9754111229576c576da9db501
+FileChecksum: MD5: 94e31c98cc7cab7249cca854d70b64cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/m4/gtk-doc.m4
+SPDXID: SPDXRef-item1106590
+FileChecksum: SHA1: 52b6d85904ca99a2372a180b1db82b2a8592d03d
+FileChecksum: MD5: 8b607f5b1a903f3ba91558561d362623
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/m4/ltsugar.m4
+SPDXID: SPDXRef-item1106591
+FileChecksum: SHA1: 2028bffadfd9b989bcc63da90596101fe4ec20b9
+FileChecksum: MD5: fa2891f9060865871cbbaa1c6e2d96f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item1106592
+FileChecksum: SHA1: e21f085615f98d3751690c1615923e89160d5783
+FileChecksum: MD5: 22aa295bf5320aec7fba6756ff11058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/config.h.in
+SPDXID: SPDXRef-item1106593
+FileChecksum: SHA1: d8608994f3cc5519d849c196663da63284bd1bc7
+FileChecksum: MD5: cc00a641a99104942d6274c076257dbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/Makefile.am
+SPDXID: SPDXRef-item1106594
+FileChecksum: SHA1: 802503ddb0010a5864daa511b2de637b5abc91c9
+FileChecksum: MD5: c59079e1de6cbe6b58b822bb06b9c2bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/AUTHORS
+SPDXID: SPDXRef-item1106595
+FileChecksum: SHA1: 13b64728afb22a65f1ebbb37fdb3b8bd5bdacedc
+FileChecksum: MD5: 5036ee291e5a2a6f0b77959c46c80b90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/config.sub
+SPDXID: SPDXRef-item1106596
+FileChecksum: SHA1: 7d66e32bb3cce017e1cc9bef59fb6f8271fb7fec
+FileChecksum: MD5: 5c9dd3f12b38fccb64dcabbf5a5bb59c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/dbus-glib-1.pc.in
+SPDXID: SPDXRef-item1106597
+FileChecksum: SHA1: 1b394078ec6ff0301f2c9b7f9c6b044d1675f9c9
+FileChecksum: MD5: b6fc0f406f45b06ec8edf2961b921350
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/dbus-binding-tool.1
+SPDXID: SPDXRef-item1106599
+FileChecksum: SHA1: 8db3ba5322f11673379989fdaf7acde75fa4c772
+FileChecksum: MD5: e50d456b28ea62683a8a53054df60550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/Makefile.in
+SPDXID: SPDXRef-item1106600
+FileChecksum: SHA1: b2975f0eb4ce257a885d085c03d4896127d566fc
+FileChecksum: MD5: ff1cd9a4caa270b083921155a355b626
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/version.xml
+SPDXID: SPDXRef-item1106602
+FileChecksum: SHA1: e8ff8b44da5ba843a3a448abb07094e570cc8917
+FileChecksum: MD5: 23b86ce20ba3608a22546fecbd60dbb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/dbus-binding-tool.xml
+SPDXID: SPDXRef-item1106603
+FileChecksum: SHA1: ec14cae2328a2060b6b7537deb8d667d8c5d0567
+FileChecksum: MD5: fd71afe125500d4a48430469b5aa5d3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/Makefile.in
+SPDXID: SPDXRef-item1106604
+FileChecksum: SHA1: 2bed0b66ef26007632d54a5eb220187e9c6fe321
+FileChecksum: MD5: ebdf8a1f6a2a51b438529ce8312d969e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/dbus-glib.types
+SPDXID: SPDXRef-item1106605
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/dbus-glib-docs.sgml
+SPDXID: SPDXRef-item1106606
+FileChecksum: SHA1: 5eb97afc0692673c63ded09075ed8016084d7c82
+FileChecksum: MD5: 65be1050ef31632d49eb226fc86b8b2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/Makefile.am
+SPDXID: SPDXRef-item1106607
+FileChecksum: SHA1: 4abc237c4580b7f8495d850964d9499bf41a6f9e
+FileChecksum: MD5: f7b245425c4cb8af73f7597a4dbab5ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/version.xml.in
+SPDXID: SPDXRef-item1106608
+FileChecksum: SHA1: 742b710fc16107b1ff2d9b4f4ddf59801eb16b83
+FileChecksum: MD5: 92d3d0725b1df4086fbd4247a1c8ac48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-binding-tool.html
+SPDXID: SPDXRef-item1106610
+FileChecksum: SHA1: 68278bfdc0d251d738a591f2b7a915de172c32b0
+FileChecksum: MD5: e669c801a34b42a71e44f925da2e8d77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/ch01.html
+SPDXID: SPDXRef-item1106611
+FileChecksum: SHA1: 64a0bb007f2464c08d6a6dc349198ff71b26152a
+FileChecksum: MD5: af777434062628a229bc7258a3dabd97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/left-insensitive.png
+SPDXID: SPDXRef-item1106612
+FileChecksum: SHA1: 173a2fbcbf20c2f5aeade2514267c6d93c633927
+FileChecksum: MD5: 43509d9ea344d80599c71fe390fc634b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/up-insensitive.png
+SPDXID: SPDXRef-item1106613
+FileChecksum: SHA1: 9a6adae0ef9054e79cb30ac71bb821383ccfb340
+FileChecksum: MD5: e2070fac723616a6e858892320a56a13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/ch02.html
+SPDXID: SPDXRef-item1106614
+FileChecksum: SHA1: 8b78b751e5ee6bcc56913e8fe165368ba0eac838
+FileChecksum: MD5: 4fad501512a0e77c4c78814e5582518e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib-DBus-GObject-related-functions.html
+SPDXID: SPDXRef-item1106615
+FileChecksum: SHA1: cb406a876664c09b4dbfe3b53ff05ef8e6760c2b
+FileChecksum: MD5: a32d98138df191b8b132b82223e73f67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/index.html
+SPDXID: SPDXRef-item1106616
+FileChecksum: SHA1: 0c309ca18ca5ae0bd6574fd3dfe25010d88795d0
+FileChecksum: MD5: a44a648a874865df1a5d9bc7d2a7a089
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib-DBus-GLib-low-level.html
+SPDXID: SPDXRef-item1106617
+FileChecksum: SHA1: 828969f36c2b7ba0261e40bf1bfabe7297da541e
+FileChecksum: MD5: c747d57f285e3b21b2e5f523c825834c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib-DBusGConnection.html
+SPDXID: SPDXRef-item1106618
+FileChecksum: SHA1: 8911b5dee4ded40e25468fe89e3181d441ae00fe
+FileChecksum: MD5: e940e7789bb5c4a45852edff6a9acc97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib-DBusGMethod.html
+SPDXID: SPDXRef-item1106619
+FileChecksum: SHA1: cdb4eddd4fdf9b86173672e5256df30c1a0caaff
+FileChecksum: MD5: fcb7cc553cd7c0383c52cb6716f6ed00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/style.css
+SPDXID: SPDXRef-item1106620
+FileChecksum: SHA1: b4068fc936d1e384da62f3addc8d6a13360db867
+FileChecksum: MD5: 7ecec4d4ad66d1ea924c1a17b492117e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/right-insensitive.png
+SPDXID: SPDXRef-item1106621
+FileChecksum: SHA1: d2620f8b94513c0d4a0011eb29160bc5cf8b528b
+FileChecksum: MD5: af28085a6987a8eae08b13f7eeed49ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/home.png
+SPDXID: SPDXRef-item1106622
+FileChecksum: SHA1: 2b6271bcb4d391acbac7c330fd50d0155ca74469
+FileChecksum: MD5: 2383c588da6563cb407447f95202dde5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/ch03.html
+SPDXID: SPDXRef-item1106623
+FileChecksum: SHA1: fc82188ada5eecff75772086dd09210e73e55edf
+FileChecksum: MD5: 66b3d59d45ef30e3bee3152b5e8000fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/api-index-full.html
+SPDXID: SPDXRef-item1106624
+FileChecksum: SHA1: 047dd1681df9b3113efa14916d8658344ca283db
+FileChecksum: MD5: 7ad0b08e1caf684ca1a3232aeee2d5e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/up.png
+SPDXID: SPDXRef-item1106625
+FileChecksum: SHA1: ecc34d0976ffacff81ea54f92bebd3535e276ddd
+FileChecksum: MD5: 972bfbaf389d8e2edf8452a39984866f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib-DBusGError.html
+SPDXID: SPDXRef-item1106626
+FileChecksum: SHA1: 2b6517c618a905f9b000f7dccc816ca29a075d5d
+FileChecksum: MD5: 07804a7a816b54a971742b3c940b16d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib.devhelp2
+SPDXID: SPDXRef-item1106627
+FileChecksum: SHA1: faf59319a20d33cf32ae8578fc6dcd9a2ae6631e
+FileChecksum: MD5: 53d7832654b553d8c8bbff036f9d2eff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/left.png
+SPDXID: SPDXRef-item1106628
+FileChecksum: SHA1: 23794c1e85c146b43b4f8c308b5c521ec2da154e
+FileChecksum: MD5: afb05ff78e04638cae6508a8f8292a88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib-DBusGProxy.html
+SPDXID: SPDXRef-item1106629
+FileChecksum: SHA1: cb3e77b868de4fb738e0b660aca02eaff0abcd0e
+FileChecksum: MD5: 71a659f599c8f07396099ac6b75d59b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/right.png
+SPDXID: SPDXRef-item1106630
+FileChecksum: SHA1: 269624c77b5c7466462b1159d930796d5e7b2db2
+FileChecksum: MD5: 74feee85e9aedc9e90f375c88050cca6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib-Specializable-GType-System.html
+SPDXID: SPDXRef-item1106631
+FileChecksum: SHA1: cdcddadacc39cefe05cba5ee80702b95323f73c3
+FileChecksum: MD5: 593804c2929662a384340d46930ee89c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/html/dbus-glib-DBusGMessage.html
+SPDXID: SPDXRef-item1106632
+FileChecksum: SHA1: b0c23b7002f79d5b58cc36d6b62822a5d89521f2
+FileChecksum: MD5: 4c7c0cc9c48eef22f4fc5a5911f1ce2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/dbus-glib-overrides.txt
+SPDXID: SPDXRef-item1106633
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/reference/dbus-glib-sections.txt
+SPDXID: SPDXRef-item1106634
+FileChecksum: SHA1: 1f9513ef9ff7fe290473b7efc837186ac3817854
+FileChecksum: MD5: d3e2907c081e9b873c4b4f45adb4eb82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/doc/Makefile.am
+SPDXID: SPDXRef-item1106635
+FileChecksum: SHA1: 6d1a89f3d6ea071e34c84781f737897bfd66b0ba
+FileChecksum: MD5: 500ba71b8a4801324de2c5c36bba2fcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-service-glib-subclass.xml
+SPDXID: SPDXRef-item1106638
+FileChecksum: SHA1: 6717912a66916d5d526703bc06a476363b414064
+FileChecksum: MD5: a1e5ec22a903f08a9b5cdbdc8c587d3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/proxy-peer.c
+SPDXID: SPDXRef-item1106639
+FileChecksum: SHA1: 05588468ed928dffa541e2f023a8d16903473d1f
+FileChecksum: MD5: 85eed407bf08472578f89db83b33d938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/my-object.h
+SPDXID: SPDXRef-item1106640
+FileChecksum: SHA1: d90965eed757ad285ac539ad7941971d32760a8e
+FileChecksum: MD5: c478facc29311dd28f9fbe599a2e115d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/Makefile.in
+SPDXID: SPDXRef-item1106641
+FileChecksum: SHA1: 6cca28e87cdbb1091051c2fcf674626925ae32ff
+FileChecksum: MD5: 3aa70414867978d00565f01e4d6d9999
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/shared-bus.c
+SPDXID: SPDXRef-item1106642
+FileChecksum: SHA1: 8902bc55cffc7cf9d1756c27e899446498a73169
+FileChecksum: MD5: f1ae172335fa88b6470eb6f8f189367f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/peer-on-bus.c
+SPDXID: SPDXRef-item1106643
+FileChecksum: SHA1: 39e6149bf8f2df3723b299a8ca539500037475e6
+FileChecksum: MD5: 23d56399e680f6e776e51ad2e6dd480a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-variant-recursion.c
+SPDXID: SPDXRef-item1106644
+FileChecksum: SHA1: c306b8d48f3053fc98e14a84103fe0e8de75eb47
+FileChecksum: MD5: 75fb5125765319a86df690967471a214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-thread-server.c
+SPDXID: SPDXRef-item1106645
+FileChecksum: SHA1: e9b9d1eaaa65a5dad8ee1466ee53c3e2fc629fc1
+FileChecksum: MD5: 759c50f184d2d9a0f53ec46c046b3b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/manual/invalid-usage.c
+SPDXID: SPDXRef-item1106647
+FileChecksum: SHA1: f8e33cd2eb545a1034e01ffc38d4db6c17ec3d5a
+FileChecksum: MD5: 3485385ced8605614148ecafd6ca43eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-thread.h
+SPDXID: SPDXRef-item1106648
+FileChecksum: SHA1: 5785ac6221b8f2cad38ddb499460c09a0a4ddf04
+FileChecksum: MD5: 940b8c6075ec6a7f6d370a99811278d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/Makefile.am
+SPDXID: SPDXRef-item1106649
+FileChecksum: SHA1: 68af201ac28ef6c3fdb1e76062f7d4eaf72e6ec5
+FileChecksum: MD5: 025318f409bcae07c1ae6c4b98c32a5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-gvariant.c
+SPDXID: SPDXRef-item1106650
+FileChecksum: SHA1: 4d688fa61ce75469ac9584b97cc3c71ebe970eca
+FileChecksum: MD5: 8ab662b4a3f5f34aaf45230ab0266812
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/run-test.sh
+SPDXID: SPDXRef-item1106651
+FileChecksum: SHA1: cebe797a9aa493d024cfea1c87c6f94443088bba
+FileChecksum: MD5: 6a4ff1c360b0b8b4f3f49475d4538473
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/registrations.c
+SPDXID: SPDXRef-item1106652
+FileChecksum: SHA1: b9058124668ae646c36f81cdd45ff943a3556ee2
+FileChecksum: MD5: 0741a5cbe552a28e8088380181bc1212
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/peer-server.c
+SPDXID: SPDXRef-item1106653
+FileChecksum: SHA1: 81adcfe0d47d00ad97a376253199d2b44e716d28
+FileChecksum: MD5: 42011a8d8c499b97717c4ccbb8aba585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/private.c
+SPDXID: SPDXRef-item1106654
+FileChecksum: SHA1: 3a002dab9c1ef9ad307fba9bbc90b3411dc9cf6f
+FileChecksum: MD5: a5d32e3d91ac68b86a829078ec0437b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/run-peer-test.sh
+SPDXID: SPDXRef-item1106655
+FileChecksum: SHA1: eb5553c3e7932f327aeaf67f1bd05ca301aa6e80
+FileChecksum: MD5: dabcb510cf05fc1eef13e32b74723537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/my-object-subclass.h
+SPDXID: SPDXRef-item1106656
+FileChecksum: SHA1: f9813b732bd264b376153d8111ed183436ed16ee
+FileChecksum: MD5: fec7c75278c7ec080a8acb03bc773a38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/peer-client.c
+SPDXID: SPDXRef-item1106657
+FileChecksum: SHA1: 10968260d5f5c8ec45ea47f3ddd24ac76960085d
+FileChecksum: MD5: 547b7df847dcf4d0b37cdb8e83cd4896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/30574.c
+SPDXID: SPDXRef-item1106658
+FileChecksum: SHA1: 6ff6ff9806c177228d0d8dfcef99ffdb52fe3542
+FileChecksum: MD5: 963ba4f850564769cb3b9ae4a4534565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/error-mapping.c
+SPDXID: SPDXRef-item1106659
+FileChecksum: SHA1: f9c8695ddf2e6bf6f13dd159859166180fbaf053
+FileChecksum: MD5: b6cd8c416e53d05de4ed38bca8ff2d30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-dbus-glib.c
+SPDXID: SPDXRef-item1106660
+FileChecksum: SHA1: 62dae997a52c2647245fffbfb0de0394f562d66a
+FileChecksum: MD5: b852bb8741419608e19c2ef730baef24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-service-glib.xml
+SPDXID: SPDXRef-item1106661
+FileChecksum: SHA1: 4f6144497490e3553f3abe117c378cb835a5fa3a
+FileChecksum: MD5: 3e3472cea33bb1690bdba4bd408caaa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-profile.c
+SPDXID: SPDXRef-item1106662
+FileChecksum: SHA1: 48a68770084a94b2f53af5b3fbb0110bd2269311
+FileChecksum: MD5: eb7a48c7c8b556aa0966d5df294bf70f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/my-object.c
+SPDXID: SPDXRef-item1106663
+FileChecksum: SHA1: 522f4a15f9ff44d15e8888bb450a679139755a92
+FileChecksum: MD5: 120b35655fa7dc32e75384bb7aa6a06f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-types.c
+SPDXID: SPDXRef-item1106664
+FileChecksum: SHA1: d5fe9f92112615f5a6423b83509a4fc546a0dd04
+FileChecksum: MD5: 5fc649b65b0955e6b7ddceb2bf21ca8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/my-object-subclass.c
+SPDXID: SPDXRef-item1106665
+FileChecksum: SHA1: 14de7cc2df5b681477277992950db8f31be234b8
+FileChecksum: MD5: e6a6b8f04d68c1ec45efeef21b40827c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/proxy-noc.c
+SPDXID: SPDXRef-item1106666
+FileChecksum: SHA1: 13d64c91b8f2163f222b0a4fd45dbbbb565c71e2
+FileChecksum: MD5: b452bece4ef19e60b1586ef4fe8d7750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-service-glib.c
+SPDXID: SPDXRef-item1106667
+FileChecksum: SHA1: 5ceb9b16a83ea90c8ba25500282b3af36c328438
+FileChecksum: MD5: 367146688e0d17487b29a427ba7f8341
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/core/test-thread-client.c
+SPDXID: SPDXRef-item1106668
+FileChecksum: SHA1: ebc2d7db11cbd77a0a4da129342f7335074d1edb
+FileChecksum: MD5: 761edb19e96611ea0b67b76559fb27e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/data/nested-introspect.xml
+SPDXID: SPDXRef-item1106670
+FileChecksum: SHA1: d8bcfc9df84f3e36a96c29efd0c2545beec4d473
+FileChecksum: MD5: 71505e22e956a89e407401fed9cc9f2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/data/valid-service-files/debug-glib.service.in
+SPDXID: SPDXRef-item1106672
+FileChecksum: SHA1: cb0a3f92635be9baa56345729a8955f51b3b31c3
+FileChecksum: MD5: 9a9da09e0643ddfa1324ab1f5d107139
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/data/valid-service-files/interfaces-test.service.in
+SPDXID: SPDXRef-item1106673
+FileChecksum: SHA1: 300e9570da17797f5cdd57c8a4ecb5b0b2cd1cee
+FileChecksum: MD5: 7b154df7291c7504ec2406fce812b037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/data/valid-service-files/debug-echo.service.in
+SPDXID: SPDXRef-item1106674
+FileChecksum: SHA1: a0edcbde2068caba85e30a95453d40d74ffccc89
+FileChecksum: MD5: 3d9a6467f2ea1c8fe437fde79cd2eb9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/specialized-types.c
+SPDXID: SPDXRef-item1106675
+FileChecksum: SHA1: 232693c25aad778005b41890e33bedd41d7d973b
+FileChecksum: MD5: baf08d5ae061d538f12aac4a61d67b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/Makefile.in
+SPDXID: SPDXRef-item1106676
+FileChecksum: SHA1: 19e38545aca9828789651966e228951efddca3bd
+FileChecksum: MD5: f020bd6928e7394e2dfaaa111056639f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/test-service.c
+SPDXID: SPDXRef-item1106677
+FileChecksum: SHA1: 1b0181d34a67207c987531f47d2fe01a2d6bbbfe
+FileChecksum: MD5: 471f88e946d71568a9aa08f9bff6a435
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/lib/Makefile.in
+SPDXID: SPDXRef-item1106679
+FileChecksum: SHA1: b06dcaeb89c30b11beb2de0bef5e857d6c3027e4
+FileChecksum: MD5: bc01c6749171d1a7d128a834e9985d0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/lib/Makefile.am
+SPDXID: SPDXRef-item1106680
+FileChecksum: SHA1: cd82eb96be8977e06d1c2e480c91382ce218d8a0
+FileChecksum: MD5: 9ed156cd3390bca062ec6ba129c2e305
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/lib/util.c
+SPDXID: SPDXRef-item1106681
+FileChecksum: SHA1: d81f8b7bc778f56023770d3623848d2ef49a8eb5
+FileChecksum: MD5: 73054c6a88c278e5ee4c1ef86d8cc92a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/lib/util.h
+SPDXID: SPDXRef-item1106682
+FileChecksum: SHA1: df97dac89ae28373358d18c5bbbb33d434a4cbd2
+FileChecksum: MD5: db07ca4b6b17ccf0900f152404d46ac8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/Makefile.am
+SPDXID: SPDXRef-item1106683
+FileChecksum: SHA1: b5b31fe4153881cfcf73fe334c96a33b7a2788e4
+FileChecksum: MD5: 339a518c8f1f5f0f19ab55c151f492c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/test-compile-nested.sh
+SPDXID: SPDXRef-item1106684
+FileChecksum: SHA1: 037ebf6821d30b705796cbe344b3550e299bb78f
+FileChecksum: MD5: 2088560990308c06be67e4f1ce1e1081
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-client.c
+SPDXID: SPDXRef-item1106686
+FileChecksum: SHA1: a3d68d06862664253adf7bbfa3faf33225c1cec1
+FileChecksum: MD5: e50fa90df97920b9337a8bed939e1d92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/invalid-annotated-node.xml
+SPDXID: SPDXRef-item1106687
+FileChecksum: SHA1: 0cd04b6b76b4412d4275a0f69ff56b6c49a08573
+FileChecksum: MD5: cf942dd5424482695e6423ed8be80394
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-goodbye.xml
+SPDXID: SPDXRef-item1106688
+FileChecksum: SHA1: 615171382e7083c023a2d423c2baea8db12c7d78
+FileChecksum: MD5: c79fad8349184b0714de4769b98972cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-dup-prop-a.xml
+SPDXID: SPDXRef-item1106689
+FileChecksum: SHA1: a2e0e96e692e9966bc6cb02f84376af644b7561f
+FileChecksum: MD5: cdd8a780fbc503ebc3339b09ef55b38d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-interfaces.c
+SPDXID: SPDXRef-item1106690
+FileChecksum: SHA1: 14f39feeffe04bf3b4bdc11c48a3569fc9882630
+FileChecksum: MD5: 97434da0d8d6b0e555635bc2d5a2ffb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-objects.c
+SPDXID: SPDXRef-item1106691
+FileChecksum: SHA1: d90f780a9b48e51577aad451560518a0f91cc82a
+FileChecksum: MD5: 251337239ace49c7bdacf8f697e142b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-song.xml
+SPDXID: SPDXRef-item1106692
+FileChecksum: SHA1: e460b38f5bd4a31555f5c7ec3abaa0e929d92f48
+FileChecksum: MD5: e2b18688a9a6d4a92f45520eaa596cff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-objects.h
+SPDXID: SPDXRef-item1106693
+FileChecksum: SHA1: e2d095580ebf576be73ec40ba9dbc4962d04aa3d
+FileChecksum: MD5: 4a89c3750597ce9d75d9f4f22e1d5446
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-dup-prop.h
+SPDXID: SPDXRef-item1106694
+FileChecksum: SHA1: 93b9423f9d0449172ab7e2ca6383cb535a0942e9
+FileChecksum: MD5: e6c92d327ad1f6de20836e3fb3200a36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/Makefile.in
+SPDXID: SPDXRef-item1106695
+FileChecksum: SHA1: af23ff84167daf6bffe16687250fd3f5e5009c52
+FileChecksum: MD5: ba85ae8fb777be64a77dd94fe5828cbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-interfaces.h
+SPDXID: SPDXRef-item1106696
+FileChecksum: SHA1: 7fc1b0707552cadacac9740f699d5aba4c4b094a
+FileChecksum: MD5: 391f7a2d0818e177724e883dad30f748
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/Makefile.am
+SPDXID: SPDXRef-item1106697
+FileChecksum: SHA1: a0c4c1446e88a84977d01e876536b11657805b62
+FileChecksum: MD5: d7bc352d95b356a26dcb30b6ac53eec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/run-test.sh
+SPDXID: SPDXRef-item1106698
+FileChecksum: SHA1: 753942e9ff2fab745fdc4f8196bf02bab9d8c06e
+FileChecksum: MD5: f8435e806345fb21fc2019a650077fac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-dup-prop-b.xml
+SPDXID: SPDXRef-item1106699
+FileChecksum: SHA1: fd5b48a8bb21c6b48362361b3a73fa3036f62cd5
+FileChecksum: MD5: 6b72ed62593e848e481e47b58697b876
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-server.c
+SPDXID: SPDXRef-item1106700
+FileChecksum: SHA1: b98d355f04f0bc9059e6a30842e8020f6d0fcd45
+FileChecksum: MD5: e6a37f0a525d8923ce46d284b9824cb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/invalid-nested-annotation.xml
+SPDXID: SPDXRef-item1106701
+FileChecksum: SHA1: b2a1e99ec36f414ce898f1beed5a37931c207c27
+FileChecksum: MD5: 7962d1291ebf079621f79a97bba16440
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-hello.xml
+SPDXID: SPDXRef-item1106702
+FileChecksum: SHA1: ece207c0dca7f92e88df6b1ad6a928e7ba0e554a
+FileChecksum: MD5: 6727c91c31457e985c5a7c3f64830617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/valid-annotations.xml
+SPDXID: SPDXRef-item1106703
+FileChecksum: SHA1: 159c382014967bb08407bf9e7080f9cb273fe3cc
+FileChecksum: MD5: 3d9d20d3e8d0eabb70f56b07bdc355fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/interfaces/test-dup-prop.c
+SPDXID: SPDXRef-item1106704
+FileChecksum: SHA1: c36714424f9ea64d5c0693b48fd43a571a4b90a3
+FileChecksum: MD5: 156f2c5875d44f9747fea66a659695c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test/errors.c
+SPDXID: SPDXRef-item1106705
+FileChecksum: SHA1: 926c23b881289d9019a1482aa7446f84adeab5a1
+FileChecksum: MD5: ae32f01b44497fb9765c477e89eaec23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/missing
+SPDXID: SPDXRef-item1106706
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/HACKING
+SPDXID: SPDXRef-item1106707
+FileChecksum: SHA1: ac8679522fe7c6e8b9cbff5e01803bd5e02180bb
+FileChecksum: MD5: 88adf513340ecc054d3e39ad99b08548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/README
+SPDXID: SPDXRef-item1106708
+FileChecksum: SHA1: 9fd0b7e4be3425d35625b08c589b263340db6765
+FileChecksum: MD5: 07f97ac6ea5244435dd1c35bd3c62252
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/applied-patches
+SPDXID: SPDXRef-item1106710
+FileChecksum: SHA1: 03d258ea2b0e60bcdfa081ea7e21f5a4f7dbb09a
+FileChecksum: MD5: 491faeb0eba8c97a32b7516d4bf496a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/.quilt_series
+SPDXID: SPDXRef-item1106711
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/.version
+SPDXID: SPDXRef-item1106712
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/test-install-makefile.patch/test/core/Makefile.am
+SPDXID: SPDXRef-item1106716
+FileChecksum: SHA1: b2c6fe10c37d4d20c4de29ee052f841c89851b66
+FileChecksum: MD5: c74c43c33822cdf6da6e9058481d5cb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/test-install-makefile.patch/test/Makefile.am
+SPDXID: SPDXRef-item1106717
+FileChecksum: SHA1: 97ccf57b00a2da7932160bc40fd921519def2c08
+FileChecksum: MD5: 3d962ef32c516baa079148e2e771f57f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/test-install-makefile.patch/test/interfaces/Makefile.am
+SPDXID: SPDXRef-item1106719
+FileChecksum: SHA1: d44e376c27afeff4fd50b1dd421ffac2fc1ff245
+FileChecksum: MD5: 8eae0046f9afa69fb3028fd4fdf589c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/test-install-makefile.patch/.timestamp
+SPDXID: SPDXRef-item1106720
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/.quilt_patches
+SPDXID: SPDXRef-item1106721
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/no-examples.patch/dbus/Makefile.am
+SPDXID: SPDXRef-item1106724
+FileChecksum: SHA1: b36e64c68c0cda69c62c527bd6e0e0e4ec055033
+FileChecksum: MD5: 6c4a63620027a7be63b015cc82886dcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/.pc/no-examples.patch/.timestamp
+SPDXID: SPDXRef-item1106725
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/configure.ac
+SPDXID: SPDXRef-item1106726
+FileChecksum: SHA1: 89e6047a6b22860f5057b2ff8b4af2bf94fdf2ee
+FileChecksum: MD5: e34ddf4060fd46dfb25f2b6c81e40de3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/tools/session.conf
+SPDXID: SPDXRef-item1106728
+FileChecksum: SHA1: 57a405cfc2e5e70a0cffb887978fa429bebcb62c
+FileChecksum: MD5: 188ed97d90beddcc8d4ec600fa923faa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/tools/Makefile.in
+SPDXID: SPDXRef-item1106729
+FileChecksum: SHA1: 9ea38f14df936a1a9a349cb4874a902bd85f7820
+FileChecksum: MD5: 74bcb6e1e48bf57944ebebe0f20c3171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/tools/lcov.am
+SPDXID: SPDXRef-item1106730
+FileChecksum: SHA1: 078b498436633e4abe5edc396a56488f3612eebe
+FileChecksum: MD5: a7694fdfc3980a3713e606e3fbf8207d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/tools/Makefile.am
+SPDXID: SPDXRef-item1106731
+FileChecksum: SHA1: 60525ca774dd844b563b6f4c20cd0927cec47c8d
+FileChecksum: MD5: f5f251ebb9efbddfea8a0376035a37ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/tools/run-with-tmp-session-bus.sh
+SPDXID: SPDXRef-item1106732
+FileChecksum: SHA1: 5bd1dd85890c9206a30613913dc2a10d0b6287c3
+FileChecksum: MD5: b420f0d516782546f893f9aa39ada87f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/test-driver
+SPDXID: SPDXRef-item1106733
+FileChecksum: SHA1: ebabeb373c5af3b8606b510a2494955e34325d8a
+FileChecksum: MD5: 7ce923f582b49637d13847c49fff9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/INSTALL
+SPDXID: SPDXRef-item1106734
+FileChecksum: SHA1: 2f115969b42a7082891a03792461b450d5e00884
+FileChecksum: MD5: c4a6f980fe253cf01aa368651c605a99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/patches/series
+SPDXID: SPDXRef-item1106737
+FileChecksum: SHA1: 3e062847ee74df40d3251cc361d37ca14f3a90c3
+FileChecksum: MD5: a05b039be3ac0f9b60bd7b7b63cb191a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/config.guess
+SPDXID: SPDXRef-item1106739
+FileChecksum: SHA1: 2721371267147908fe73ab1ae8f919baf8878979
+FileChecksum: MD5: 21e896cb18f895a033351ed13de1ed1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/depcomp
+SPDXID: SPDXRef-item1106740
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dbus-glib-0.108/ChangeLog
+SPDXID: SPDXRef-item1106741
+FileChecksum: SHA1: d8a53c5c3cec13f9ec64f56af25ef4abf66a4db9
+FileChecksum: MD5: 5579aa3624b0658d5316ae72df6f6fb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: AFL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/no-examples.patch
+SPDXID: SPDXRef-item1106743
+FileChecksum: SHA1: 1860b0c5e0d8d72e77ae6125f7fae9f3f0a7fae0
+FileChecksum: MD5: 5abafeea56a4e07db699d510034b8029
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

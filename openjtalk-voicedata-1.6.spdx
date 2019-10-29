@@ -1,0 +1,3044 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_openjtalk-voicedata-1.6-r0-patched.tar.gz_1571460591.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:49:52Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: openjtalk-voicedata
+PackageVersion: 1.6
+PackageFileName: openjtalk-voicedata-1.6-r0-patched.tar.gz
+SPDXID: SPDXRef-upload437
+PackageDownloadLocation: http://downloads.sourceforge.net/project/mmdagent/MMDAgent_Example/MMDAgent_Example-1.6/MMDAgent_Example-1.6.zip
+PackageHomePage: https://sourceforge.net/projects/mmdagent/
+PackageSummary: <text>MMDAgent Voice Data.</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>openjtalk-voicedata version 1.6</text>
+PackageChecksum: SHA1: 7af9a4a62dd5f179e2fb546d205d620128ecfb4d
+PackageChecksum: MD5: 5f92d27b2081446ea2c8ea9fc2482562
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload437
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/README.txt
+SPDXID: SPDXRef-item1105637
+FileChecksum: SHA1: 7a0eda08dba695cf74ac4ddc129a0ddb9b6c0af8
+FileChecksum: MD5: 31fff5013f94093e47c8c6cd3e8fb632
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/NEWS.txt
+SPDXID: SPDXRef-item1105643
+FileChecksum: SHA1: 4c3db89ea95a70448546895f0b65e7e48d27618f
+FileChecksum: MD5: a78d8aca11f5b80356c691f8bd0096e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/MMDAgent_Example.fst
+SPDXID: SPDXRef-item1105649
+FileChecksum: SHA1: 34b22bd107963a838ba67c5b7972117c07ea166b
+FileChecksum: MD5: a98b8d00d9e18188d429e2092dca193c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/MMDAgent_Example.dic
+SPDXID: SPDXRef-item1105652
+FileChecksum: SHA1: c8e65e088c18fffdbdeaf36fdc2cfa470938525c
+FileChecksum: MD5: e72704915f162add148680d0985001ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Voice/mei/README.txt
+SPDXID: SPDXRef-item1105657
+FileChecksum: SHA1: 97e550e5a47cf0742cbe9844f07bea13cf058b66
+FileChecksum: MD5: 8fd46a1aefa0782f74d440cca04d00ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Voice/mei/mei_angry.htsvoice
+SPDXID: SPDXRef-item1105672
+FileChecksum: SHA1: e29b7356a1c8cab26c4291598d324faf5a7501ef
+FileChecksum: MD5: f6274b5a90427322ffe889057bb82a31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Voice/mei/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105675
+FileChecksum: SHA1: 75602d7bc211ee083ac45fbba1434817fc025b61
+FileChecksum: MD5: 4efd58b40631c9d879e28ce678480081
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Voice/mei/mei_normal.htsvoice
+SPDXID: SPDXRef-item1105687
+FileChecksum: SHA1: 31233129a4816483469b75e8dbcfc578d7e82f02
+FileChecksum: MD5: 2b9d326eb30eacb52fb4bd447a13f318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Voice/mei/mei_bashful.htsvoice
+SPDXID: SPDXRef-item1105694
+FileChecksum: SHA1: c2d8b3a64d494f366f6ef009d46fc91a05418111
+FileChecksum: MD5: 8ebf0f91792f3cd01c94ee6fb9abfd2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Voice/mei/mei_sad.htsvoice
+SPDXID: SPDXRef-item1105707
+FileChecksum: SHA1: a76fe31081bb1e62b7d4a71c9c0b3c8223b27ca6
+FileChecksum: MD5: 625118ddd4f07c47ef3c88ee35524661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Voice/mei/mei_happy.htsvoice
+SPDXID: SPDXRef-item1105732
+FileChecksum: SHA1: fd90fff641a9cfc3fe8d23cbc982f44f273743d3
+FileChecksum: MD5: 3c0997617c6c74b9518a4b57e01dbf70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/ChangeLog.txt
+SPDXID: SPDXRef-item1105747
+FileChecksum: SHA1: c222a5c6b0089e946ee20d25e7e14547b1d9fad9
+FileChecksum: MD5: f923abbe919f25e51666667cca0a072d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/MMDAgent_Example.ojt
+SPDXID: SPDXRef-item1105751
+FileChecksum: SHA1: e7d7a4e446b851b7ecc9e5c15f2d04efdfd3de7a
+FileChecksum: MD5: e6d35c36eae1466d3fee6809640f9bb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_happiness/README.txt
+SPDXID: SPDXRef-item1105758
+FileChecksum: SHA1: 9dcf370a0ea1f9f4b5819e927026b77f7e16a203
+FileChecksum: MD5: 652106c2a979d7dcb3ea9c29024fc424
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_happiness/mei_happiness.vmd
+SPDXID: SPDXRef-item1105779
+FileChecksum: SHA1: dff0809ce02023a59cbefcb72c8524e9f6c47fb8
+FileChecksum: MD5: de09ff0b17f9cf37ec52d0d9e7ac1251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_happiness/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105782
+FileChecksum: SHA1: 0917bc9df5e4fc7bf6398a5f6d4bfb3cbaf2ada1
+FileChecksum: MD5: a9191adea3ce298da2a60326364ebfb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_bashfulness/README.txt
+SPDXID: SPDXRef-item1105786
+FileChecksum: SHA1: 4b0d27685bd8d3799b5e8e9469f4b426d76fea24
+FileChecksum: MD5: ceb8f16d567bcb6b0778c41f629eeed9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_bashfulness/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105788
+FileChecksum: SHA1: 8a8ac9c66581bcb4b36fe8bc14c98996e68bd464
+FileChecksum: MD5: e40af5a72b243d324c90c9d5d9896f57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_bashfulness/mei_bashfulness.vmd
+SPDXID: SPDXRef-item1105795
+FileChecksum: SHA1: f6c67e5d7c1950be1bcdbfbbb33f2b2917257ff9
+FileChecksum: MD5: 2faab828e6cbbea06b0e44a773f900be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_sadness/README.txt
+SPDXID: SPDXRef-item1105801
+FileChecksum: SHA1: 78bfeb8420bd2653eb18502bf970634b8b80d4dc
+FileChecksum: MD5: 8690eb1c85430383447db7d8bfaf921e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_sadness/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105803
+FileChecksum: SHA1: a2db58126153c0509032ed8bb2ec5213c904ee51
+FileChecksum: MD5: 55c9808b6e3527dee222a943ea931165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_sadness/mei_sadness.vmd
+SPDXID: SPDXRef-item1105812
+FileChecksum: SHA1: ad4dc76b12f395df02941f03a03ccefdb8ae19b9
+FileChecksum: MD5: e495da2b1b0bd9c54742ffc0df289c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_anger/README.txt
+SPDXID: SPDXRef-item1105819
+FileChecksum: SHA1: 46ff6b687e3ee3706425d549cc4eb7f486cc241e
+FileChecksum: MD5: 0d2368e16520b68b76f68f7c1bebcc72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_anger/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105823
+FileChecksum: SHA1: b4b6eb0910f63861481686f1816b45d475530281
+FileChecksum: MD5: e82389a0799c135016aa56c536c158d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_anger/mei_anger.vmd
+SPDXID: SPDXRef-item1105831
+FileChecksum: SHA1: 1e4b70b45a3d814b06bad71693b59289a35bbde0
+FileChecksum: MD5: 67fe471b9c6fd4c9380e6e7f7dd33938
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_sadness/README.txt
+SPDXID: SPDXRef-item1105837
+FileChecksum: SHA1: 230ea0fe720dafa1a2fda972014f1054a1bd8498
+FileChecksum: MD5: 96f248f8ab713bfbbed1d933d9f982aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_sadness/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105840
+FileChecksum: SHA1: a8a19556e0b991aed6870e9ca14becb41d4022f4
+FileChecksum: MD5: b93474f2785055459151a110c1e00758
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_sadness/sd_mei_sadness.vmd
+SPDXID: SPDXRef-item1105846
+FileChecksum: SHA1: ffc57b4f78c8dfa27ee5b6cda9b96f92bc99f8c0
+FileChecksum: MD5: cbde242b8d710247637e68099a7d85da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_happiness/README.txt
+SPDXID: SPDXRef-item1105850
+FileChecksum: SHA1: 87190da9bea005bbbda2902942cd596f8a50dd3f
+FileChecksum: MD5: 5e685bbb7131732539740acee0a4fe8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_happiness/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105853
+FileChecksum: SHA1: 138ae2079d653bc2b6166c95d4b7f16428456564
+FileChecksum: MD5: 7011a8aaeae781fb8a77ea8233c3c3f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_happiness/sd_mei_happiness.vmd
+SPDXID: SPDXRef-item1105860
+FileChecksum: SHA1: b39cac1e284d5f42d420fbc44f2d3059dc7faad5
+FileChecksum: MD5: 47a6b8e76294795ca15595e4da941a3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_bashfulness/README.txt
+SPDXID: SPDXRef-item1105866
+FileChecksum: SHA1: a5ef4ce65cc91020c484135bdb10122cd190a064
+FileChecksum: MD5: 8480e22036e653d5322f4cb088bd239a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_bashfulness/sd_mei_bashfulness.vmd
+SPDXID: SPDXRef-item1105873
+FileChecksum: SHA1: 9740d49017a94e4b29ddaef767ec6de56e3aa2b5
+FileChecksum: MD5: 9f510444ebdd4a5da31d01cccbc0437a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_bashfulness/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105876
+FileChecksum: SHA1: 1a0c29bc486a9e16d5804e4109d8409b91422b63
+FileChecksum: MD5: 1bab56b1a3827e1871724b489a885945
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_confusion/README.txt
+SPDXID: SPDXRef-item1105881
+FileChecksum: SHA1: 8c33feecac8d73e7b52ccc1557144215d2d1bd1c
+FileChecksum: MD5: f698d441575d48a1f18635e7feb7a461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_confusion/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105885
+FileChecksum: SHA1: 0bfb56a39faa4de6ee8586fd410bbba9de5ac5a9
+FileChecksum: MD5: 027b29167ed3f5337a0a69adb3d8474a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_confusion/sd_mei_confusion.vmd
+SPDXID: SPDXRef-item1105893
+FileChecksum: SHA1: f5d1234c17ce59421954ed379f689cbeb8270850
+FileChecksum: MD5: e43f5e8b3ac0860fe371c67d02160fa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_anger/README.txt
+SPDXID: SPDXRef-item1105898
+FileChecksum: SHA1: cab356fbeccc621511d4b1456fc62bd615863bc8
+FileChecksum: MD5: f03ca0c3c77503ad7e8b670b33114e4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_anger/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105901
+FileChecksum: SHA1: 38738669ec10104a6ca952e7882bc263fb5ef0ba
+FileChecksum: MD5: be1d2cdc41c4a07a099718e8eab06f0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/sd_mei_anger/sd_mei_anger.vmd
+SPDXID: SPDXRef-item1105907
+FileChecksum: SHA1: fdf229d6133f30e39b6632f8ed806d3b17739491
+FileChecksum: MD5: 8e863a78874d1be3560dc8b54176a3d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_listen/README.txt
+SPDXID: SPDXRef-item1105913
+FileChecksum: SHA1: 4b44148e5fbc161fe9c4683011b9cd180d29fb1c
+FileChecksum: MD5: 34cbcd12f07f781024c0f9b129210011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_listen/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105916
+FileChecksum: SHA1: d159bb926fac419423c71cf0f836c24dd7b5ce4c
+FileChecksum: MD5: b832916670fb6bf8ece176fd4f4d2e6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Expression/mei_listen/mei_listen.vmd
+SPDXID: SPDXRef-item1105923
+FileChecksum: SHA1: 2128c7b80656c91f021c2bc7ff6c88f27596d25b
+FileChecksum: MD5: 43bfd29ff04004ef14a5d5918b331b03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Stage/building2/README.txt
+SPDXID: SPDXRef-item1105931
+FileChecksum: SHA1: 40f118d6e9594bba9226030884cdec3769eefe44
+FileChecksum: MD5: e08d08fb134cee62b13f83e2f7b373ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Stage/building2/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105934
+FileChecksum: SHA1: a7c052827b81d2b0567c7f714dc0ef8f1ccaec74
+FileChecksum: MD5: bafa95cb45867d77987ce6f66225438c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Stage/building2/floor.bmp
+SPDXID: SPDXRef-item1105958
+FileChecksum: SHA1: b318ff143a75f4d9c8268cf540312346dcf2525c
+FileChecksum: MD5: e3331d95174fab755bb9f58cb38d68ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Stage/building2/background.bmp
+SPDXID: SPDXRef-item1105974
+FileChecksum: SHA1: 867602eb1b3b4f0b53f806066feb265cf3bd3d38
+FileChecksum: MD5: 18cad38372b637dbe9de05f5265a5fb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/blouse_arm.png
+SPDXID: SPDXRef-item1105979
+FileChecksum: SHA1: 5eec7c87c27f0b4907816ae22e1816e88f155aa4
+FileChecksum: MD5: be1884fc71304e49d914a7e735a40ea8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/hair03.png
+SPDXID: SPDXRef-item1105980
+FileChecksum: SHA1: 6f96ba0687532ad20b1f8c468f8741e8f5e2fee4
+FileChecksum: MD5: 11bce75e09c5427c762cef9cbc6b5164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/README.txt
+SPDXID: SPDXRef-item1105982
+FileChecksum: SHA1: 24ce9642db3aaf10191424743e9ed0d0d2c03cd5
+FileChecksum: MD5: e5c4d29961db1fa5e34aca10e88cb310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/COPYRIGHT.txt
+SPDXID: SPDXRef-item1105984
+FileChecksum: SHA1: 9ffc4dcaa9c4e0014d52aa05e1b075e0148d2618
+FileChecksum: MD5: 53020d77bd8c89c69aa23c34595124f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/face.png
+SPDXID: SPDXRef-item1105985
+FileChecksum: SHA1: 6b86890a0912bb9259f5e72a1ee82526618c4ec9
+FileChecksum: MD5: 551f619050c15cf5caaeace5c1e2c28d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/shoes.png
+SPDXID: SPDXRef-item1105986
+FileChecksum: SHA1: b143689b7908614d13fbd55eb1db157460e20498
+FileChecksum: MD5: dd58eff4eca63af933036692c5d9b358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/skirt.png
+SPDXID: SPDXRef-item1105988
+FileChecksum: SHA1: cf7bbcfd8e3fa850a097ab34f03da7811df5c2ba
+FileChecksum: MD5: 91a3d705d99e41affb3e8e1d5e6b94c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/neck.png
+SPDXID: SPDXRef-item1105989
+FileChecksum: SHA1: 8ce82b2310303bf3f0dc37c65816a56eb851e8cf
+FileChecksum: MD5: 069eefcefd53ca4fee372c579332c7ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/vest.png
+SPDXID: SPDXRef-item1105990
+FileChecksum: SHA1: f2da2dc644679e3bb2e118e7b9bbd0bbd0a8f81a
+FileChecksum: MD5: fa6492b4619447e71abfd08dc070e55f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/eye.png
+SPDXID: SPDXRef-item1105991
+FileChecksum: SHA1: 41dd815ca88436fceb8aff37d26a3f5fdf28c58c
+FileChecksum: MD5: beb55a4d3543ac176ee628851b3eca27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/hair02.png
+SPDXID: SPDXRef-item1105993
+FileChecksum: SHA1: 73cbc22641e11d25d3b7c923607370467bcfe284
+FileChecksum: MD5: 2de9876fdeef958bf6871d323c847257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/blouse_ribbon.png
+SPDXID: SPDXRef-item1105994
+FileChecksum: SHA1: efd5d1e0750c493b61989aca1c3b3b148cf8e7c6
+FileChecksum: MD5: ab85186a463f67be739c80bc73c7f3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/leg.png
+SPDXID: SPDXRef-item1105996
+FileChecksum: SHA1: 7174d24cc7c6fa72f4c27fb5af7bb0897cf21945
+FileChecksum: MD5: a0c887b7080e4116d0be6272a44347e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/mei.pmd
+SPDXID: SPDXRef-item1106009
+FileChecksum: SHA1: 8aef5739f02075aa8e7fe0cf29a561c7ceb58866
+FileChecksum: MD5: 88f2209ce683a3352a75ea5bd50fccb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/mei.lip
+SPDXID: SPDXRef-item1106011
+FileChecksum: SHA1: 81b76b2393d8d0c10e7f03775f6cb013ca044db1
+FileChecksum: MD5: bbed4fd477a590b1e90a9d5e0ede9825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/cheek.png
+SPDXID: SPDXRef-item1106012
+FileChecksum: SHA1: 757c3597fd1e2945357dcdb67d81d01b25766be8
+FileChecksum: MD5: bfee5c4433365ce6d934c2c9238ea0b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/hair01.png
+SPDXID: SPDXRef-item1106013
+FileChecksum: SHA1: bc05fde3f94d58b643c32a0bc27ded3fd07668ed
+FileChecksum: MD5: 0a3d3fb789179bee132fe686ae477679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/hand.png
+SPDXID: SPDXRef-item1106015
+FileChecksum: SHA1: a99387f5ab76b1880f5a6ed878832989ddc7c289
+FileChecksum: MD5: e0a1f508d2719043823ccdec025de1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei/hair04.png
+SPDXID: SPDXRef-item1106017
+FileChecksum: SHA1: b166a12dbca4789ac47f8eae144950450298c952
+FileChecksum: MD5: c2faed60720caaadd756b04dfb7ca507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/hair03.png
+SPDXID: SPDXRef-item1106020
+FileChecksum: SHA1: 6f96ba0687532ad20b1f8c468f8741e8f5e2fee4
+FileChecksum: MD5: 11bce75e09c5427c762cef9cbc6b5164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/README.txt
+SPDXID: SPDXRef-item1106022
+FileChecksum: SHA1: 31995322784fb7e3960e2090f768a351fc137eb0
+FileChecksum: MD5: 0cadd865023a80d5891fd72525371509
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106025
+FileChecksum: SHA1: d0caa15169b6226a173dfa5860c50a4c1e300a6e
+FileChecksum: MD5: 7cf7bd93e646b0c1c0aeaa10240104a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/face.png
+SPDXID: SPDXRef-item1106026
+FileChecksum: SHA1: 6b86890a0912bb9259f5e72a1ee82526618c4ec9
+FileChecksum: MD5: 551f619050c15cf5caaeace5c1e2c28d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/arm.png
+SPDXID: SPDXRef-item1106027
+FileChecksum: SHA1: 24738b6207c104cf51091b8ee268bd0e2fa4e4df
+FileChecksum: MD5: 9009a2ecfeed71f57942c98eda4f87bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/shoes.png
+SPDXID: SPDXRef-item1106028
+FileChecksum: SHA1: b143689b7908614d13fbd55eb1db157460e20498
+FileChecksum: MD5: dd58eff4eca63af933036692c5d9b358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/skirt.png
+SPDXID: SPDXRef-item1106029
+FileChecksum: SHA1: cf7bbcfd8e3fa850a097ab34f03da7811df5c2ba
+FileChecksum: MD5: 91a3d705d99e41affb3e8e1d5e6b94c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/blazer.png
+SPDXID: SPDXRef-item1106030
+FileChecksum: SHA1: b8c703d321e26f3cef35b4bca1f59db3c85a6330
+FileChecksum: MD5: 7694229983e562deb0d41f10349f18a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/neck.png
+SPDXID: SPDXRef-item1106032
+FileChecksum: SHA1: 8ce82b2310303bf3f0dc37c65816a56eb851e8cf
+FileChecksum: MD5: 069eefcefd53ca4fee372c579332c7ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/eye.png
+SPDXID: SPDXRef-item1106033
+FileChecksum: SHA1: 41dd815ca88436fceb8aff37d26a3f5fdf28c58c
+FileChecksum: MD5: beb55a4d3543ac176ee628851b3eca27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/hair02.png
+SPDXID: SPDXRef-item1106034
+FileChecksum: SHA1: 73cbc22641e11d25d3b7c923607370467bcfe284
+FileChecksum: MD5: 2de9876fdeef958bf6871d323c847257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/leg.png
+SPDXID: SPDXRef-item1106035
+FileChecksum: SHA1: 7174d24cc7c6fa72f4c27fb5af7bb0897cf21945
+FileChecksum: MD5: a0c887b7080e4116d0be6272a44347e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/mei_winter_blazer.pmd
+SPDXID: SPDXRef-item1106043
+FileChecksum: SHA1: 59ba81807c1e57e5199fd8118c184a3f0640b946
+FileChecksum: MD5: a3a0a25dee5cb7e5359f4a15f0a63d2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/cheek.png
+SPDXID: SPDXRef-item1106044
+FileChecksum: SHA1: 757c3597fd1e2945357dcdb67d81d01b25766be8
+FileChecksum: MD5: bfee5c4433365ce6d934c2c9238ea0b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/hair01.png
+SPDXID: SPDXRef-item1106045
+FileChecksum: SHA1: bc05fde3f94d58b643c32a0bc27ded3fd07668ed
+FileChecksum: MD5: 0a3d3fb789179bee132fe686ae477679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/hand.png
+SPDXID: SPDXRef-item1106046
+FileChecksum: SHA1: a99387f5ab76b1880f5a6ed878832989ddc7c289
+FileChecksum: MD5: e0a1f508d2719043823ccdec025de1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/hair04.png
+SPDXID: SPDXRef-item1106047
+FileChecksum: SHA1: b166a12dbca4789ac47f8eae144950450298c952
+FileChecksum: MD5: c2faed60720caaadd756b04dfb7ca507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/blouse.png
+SPDXID: SPDXRef-item1106050
+FileChecksum: SHA1: efd5d1e0750c493b61989aca1c3b3b148cf8e7c6
+FileChecksum: MD5: ab85186a463f67be739c80bc73c7f3e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_winter_blazer/mei_winter_blazer.lip
+SPDXID: SPDXRef-item1106052
+FileChecksum: SHA1: 81b76b2393d8d0c10e7f03775f6cb013ca044db1
+FileChecksum: MD5: bbed4fd477a590b1e90a9d5e0ede9825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/hair03.png
+SPDXID: SPDXRef-item1106055
+FileChecksum: SHA1: 6f96ba0687532ad20b1f8c468f8741e8f5e2fee4
+FileChecksum: MD5: 11bce75e09c5427c762cef9cbc6b5164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/mei_gray_jacket.pmd
+SPDXID: SPDXRef-item1106066
+FileChecksum: SHA1: 87b67ad79db3bd5274981f0cb8a6e6d2a0e73aba
+FileChecksum: MD5: dc9f11de4a8888e0cf249857fb87922e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/README.txt
+SPDXID: SPDXRef-item1106069
+FileChecksum: SHA1: 377d1ec5ab9713fc0b575538ac5b0aac53c64424
+FileChecksum: MD5: 4ceda17360a77ffe65dfa07742a86f63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106072
+FileChecksum: SHA1: 8ae29abada76c0d64fd3fa8b5f41abb1bb89ad79
+FileChecksum: MD5: bbfdaaccc8b7f876ebd59b46acc3c56f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/face.png
+SPDXID: SPDXRef-item1106074
+FileChecksum: SHA1: 6b86890a0912bb9259f5e72a1ee82526618c4ec9
+FileChecksum: MD5: 551f619050c15cf5caaeace5c1e2c28d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/shoes.png
+SPDXID: SPDXRef-item1106075
+FileChecksum: SHA1: b143689b7908614d13fbd55eb1db157460e20498
+FileChecksum: MD5: dd58eff4eca63af933036692c5d9b358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/corsage.png
+SPDXID: SPDXRef-item1106076
+FileChecksum: SHA1: 383fb8d747868106fd2383dcb8946929b04ff510
+FileChecksum: MD5: 43350807d7abb3d9adecf692edebe283
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/skirt.png
+SPDXID: SPDXRef-item1106078
+FileChecksum: SHA1: 0d6e3069dfe0b6f983b986705f4317c888071740
+FileChecksum: MD5: 41219228f83c1bdf29d0c5890217e461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/neck.png
+SPDXID: SPDXRef-item1106079
+FileChecksum: SHA1: 8ce82b2310303bf3f0dc37c65816a56eb851e8cf
+FileChecksum: MD5: 069eefcefd53ca4fee372c579332c7ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/eye.png
+SPDXID: SPDXRef-item1106080
+FileChecksum: SHA1: 41dd815ca88436fceb8aff37d26a3f5fdf28c58c
+FileChecksum: MD5: beb55a4d3543ac176ee628851b3eca27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/mei_gray_jacket.lip
+SPDXID: SPDXRef-item1106082
+FileChecksum: SHA1: 81b76b2393d8d0c10e7f03775f6cb013ca044db1
+FileChecksum: MD5: bbed4fd477a590b1e90a9d5e0ede9825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/hair02.png
+SPDXID: SPDXRef-item1106083
+FileChecksum: SHA1: 73cbc22641e11d25d3b7c923607370467bcfe284
+FileChecksum: MD5: 2de9876fdeef958bf6871d323c847257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/leg.png
+SPDXID: SPDXRef-item1106084
+FileChecksum: SHA1: 7174d24cc7c6fa72f4c27fb5af7bb0897cf21945
+FileChecksum: MD5: a0c887b7080e4116d0be6272a44347e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/suit.png
+SPDXID: SPDXRef-item1106085
+FileChecksum: SHA1: 1c28beef7cecd4100d0b173faf7749d65fd5ddd0
+FileChecksum: MD5: 4060fca2c2f15484caa7d7df46a598ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/cheek.png
+SPDXID: SPDXRef-item1106086
+FileChecksum: SHA1: 757c3597fd1e2945357dcdb67d81d01b25766be8
+FileChecksum: MD5: bfee5c4433365ce6d934c2c9238ea0b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/hair01.png
+SPDXID: SPDXRef-item1106087
+FileChecksum: SHA1: bc05fde3f94d58b643c32a0bc27ded3fd07668ed
+FileChecksum: MD5: 0a3d3fb789179bee132fe686ae477679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/hand.png
+SPDXID: SPDXRef-item1106089
+FileChecksum: SHA1: a99387f5ab76b1880f5a6ed878832989ddc7c289
+FileChecksum: MD5: e0a1f508d2719043823ccdec025de1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/hair04.png
+SPDXID: SPDXRef-item1106090
+FileChecksum: SHA1: b166a12dbca4789ac47f8eae144950450298c952
+FileChecksum: MD5: c2faed60720caaadd756b04dfb7ca507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_gray_jacket/blouse.png
+SPDXID: SPDXRef-item1106091
+FileChecksum: SHA1: 4193e9ee3191a436e3b5c83231c60a279904f52f
+FileChecksum: MD5: f6b88e4788d887f68e5045b12d26a0e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/mei_black_jacket.lip
+SPDXID: SPDXRef-item1106096
+FileChecksum: SHA1: 81b76b2393d8d0c10e7f03775f6cb013ca044db1
+FileChecksum: MD5: bbed4fd477a590b1e90a9d5e0ede9825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/hair03.png
+SPDXID: SPDXRef-item1106097
+FileChecksum: SHA1: 6f96ba0687532ad20b1f8c468f8741e8f5e2fee4
+FileChecksum: MD5: 11bce75e09c5427c762cef9cbc6b5164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/README.txt
+SPDXID: SPDXRef-item1106100
+FileChecksum: SHA1: 1da5da1bda5b88694a7626d70c4eee94dd194e6f
+FileChecksum: MD5: 39e235f9c2a48ae5aff7f9bda30c49a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106102
+FileChecksum: SHA1: c825186f1675d47fda89fac23fbd81d32935e53e
+FileChecksum: MD5: 516563afe17cefc4efdd58725686c313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/face.png
+SPDXID: SPDXRef-item1106103
+FileChecksum: SHA1: 6b86890a0912bb9259f5e72a1ee82526618c4ec9
+FileChecksum: MD5: 551f619050c15cf5caaeace5c1e2c28d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/shoes.png
+SPDXID: SPDXRef-item1106104
+FileChecksum: SHA1: b143689b7908614d13fbd55eb1db157460e20498
+FileChecksum: MD5: dd58eff4eca63af933036692c5d9b358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/corsage.png
+SPDXID: SPDXRef-item1106105
+FileChecksum: SHA1: 383fb8d747868106fd2383dcb8946929b04ff510
+FileChecksum: MD5: 43350807d7abb3d9adecf692edebe283
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/skirt.png
+SPDXID: SPDXRef-item1106107
+FileChecksum: SHA1: 3b1600e536cb28babe02d7ccdf172a589d7ec66e
+FileChecksum: MD5: 013cbb2868e4d37484770a936b7678d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/neck.png
+SPDXID: SPDXRef-item1106108
+FileChecksum: SHA1: 8ce82b2310303bf3f0dc37c65816a56eb851e8cf
+FileChecksum: MD5: 069eefcefd53ca4fee372c579332c7ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/eye.png
+SPDXID: SPDXRef-item1106109
+FileChecksum: SHA1: 41dd815ca88436fceb8aff37d26a3f5fdf28c58c
+FileChecksum: MD5: beb55a4d3543ac176ee628851b3eca27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/hair02.png
+SPDXID: SPDXRef-item1106110
+FileChecksum: SHA1: 73cbc22641e11d25d3b7c923607370467bcfe284
+FileChecksum: MD5: 2de9876fdeef958bf6871d323c847257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/leg.png
+SPDXID: SPDXRef-item1106111
+FileChecksum: SHA1: 7174d24cc7c6fa72f4c27fb5af7bb0897cf21945
+FileChecksum: MD5: a0c887b7080e4116d0be6272a44347e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/mei_black_jacket.pmd
+SPDXID: SPDXRef-item1106119
+FileChecksum: SHA1: cc78d7540f25681ded39b4f7803a450d357285cc
+FileChecksum: MD5: afab031ee96ced410eb9aa1219064fe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/suit.png
+SPDXID: SPDXRef-item1106122
+FileChecksum: SHA1: 6fa51c7bd711f418072da2297d096326346bd61f
+FileChecksum: MD5: 4f380efecdcefff2913ca277af2346d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/cheek.png
+SPDXID: SPDXRef-item1106123
+FileChecksum: SHA1: 757c3597fd1e2945357dcdb67d81d01b25766be8
+FileChecksum: MD5: bfee5c4433365ce6d934c2c9238ea0b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/hair01.png
+SPDXID: SPDXRef-item1106124
+FileChecksum: SHA1: bc05fde3f94d58b643c32a0bc27ded3fd07668ed
+FileChecksum: MD5: 0a3d3fb789179bee132fe686ae477679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/hand.png
+SPDXID: SPDXRef-item1106125
+FileChecksum: SHA1: a99387f5ab76b1880f5a6ed878832989ddc7c289
+FileChecksum: MD5: e0a1f508d2719043823ccdec025de1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/hair04.png
+SPDXID: SPDXRef-item1106126
+FileChecksum: SHA1: b166a12dbca4789ac47f8eae144950450298c952
+FileChecksum: MD5: c2faed60720caaadd756b04dfb7ca507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_black_jacket/blouse.png
+SPDXID: SPDXRef-item1106127
+FileChecksum: SHA1: 4193e9ee3191a436e3b5c83231c60a279904f52f
+FileChecksum: MD5: f6b88e4788d887f68e5045b12d26a0e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/sd_mei/README.txt
+SPDXID: SPDXRef-item1106130
+FileChecksum: SHA1: 73220d8f5e3c92510346ce58ae7e45248d917288
+FileChecksum: MD5: 489b3f2bba863ecdae301b4c838e5f91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/sd_mei/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106135
+FileChecksum: SHA1: 4a908ef7dcb46316ee7499dd2264ccf5eba49399
+FileChecksum: MD5: 5f7d1b3d8c3882f461f1c258d7133605
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/sd_mei/sd_mei.png
+SPDXID: SPDXRef-item1106147
+FileChecksum: SHA1: a62595060453a02b877b8fa1a6b4aacca6f6bf6e
+FileChecksum: MD5: 197bb7da338c1f33165b2653323da064
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/sd_mei/sd_mei.pmd
+SPDXID: SPDXRef-item1106153
+FileChecksum: SHA1: c4740072bf3f22959d67e6cbada1b02288bf8c9d
+FileChecksum: MD5: 5e52ac3b0a2ae3c146ceadc8a2e083ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/hair03.png
+SPDXID: SPDXRef-item1106156
+FileChecksum: SHA1: 6f96ba0687532ad20b1f8c468f8741e8f5e2fee4
+FileChecksum: MD5: 11bce75e09c5427c762cef9cbc6b5164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/README.txt
+SPDXID: SPDXRef-item1106159
+FileChecksum: SHA1: ab0580cd99b73d73c557cf874dad867e034f4158
+FileChecksum: MD5: bcacaa6c33ab447c4c2ece3924a7c4d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106161
+FileChecksum: SHA1: 7ee10cc5252415aa5794123677c22e9715959c89
+FileChecksum: MD5: dc888672d125964da49c2731b269f857
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/face.png
+SPDXID: SPDXRef-item1106163
+FileChecksum: SHA1: 6b86890a0912bb9259f5e72a1ee82526618c4ec9
+FileChecksum: MD5: 551f619050c15cf5caaeace5c1e2c28d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/shoes.png
+SPDXID: SPDXRef-item1106164
+FileChecksum: SHA1: b143689b7908614d13fbd55eb1db157460e20498
+FileChecksum: MD5: dd58eff4eca63af933036692c5d9b358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/corsage.png
+SPDXID: SPDXRef-item1106165
+FileChecksum: SHA1: 383fb8d747868106fd2383dcb8946929b04ff510
+FileChecksum: MD5: 43350807d7abb3d9adecf692edebe283
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/skirt.png
+SPDXID: SPDXRef-item1106167
+FileChecksum: SHA1: 1b66a33572965adfafca616b0940f59be699fe17
+FileChecksum: MD5: 5830568c030f6ebf2d88c78aa57b4bf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/mei_blue_jacket.pmd
+SPDXID: SPDXRef-item1106178
+FileChecksum: SHA1: f1a5fb58e7a6943c8e85ed23fc5fc6f16951ef4f
+FileChecksum: MD5: 6c599138c36c6955318d64ae233f1062
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/neck.png
+SPDXID: SPDXRef-item1106179
+FileChecksum: SHA1: 8ce82b2310303bf3f0dc37c65816a56eb851e8cf
+FileChecksum: MD5: 069eefcefd53ca4fee372c579332c7ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/eye.png
+SPDXID: SPDXRef-item1106180
+FileChecksum: SHA1: 41dd815ca88436fceb8aff37d26a3f5fdf28c58c
+FileChecksum: MD5: beb55a4d3543ac176ee628851b3eca27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/hair02.png
+SPDXID: SPDXRef-item1106182
+FileChecksum: SHA1: 73cbc22641e11d25d3b7c923607370467bcfe284
+FileChecksum: MD5: 2de9876fdeef958bf6871d323c847257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/leg.png
+SPDXID: SPDXRef-item1106183
+FileChecksum: SHA1: 7174d24cc7c6fa72f4c27fb5af7bb0897cf21945
+FileChecksum: MD5: a0c887b7080e4116d0be6272a44347e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/suit.png
+SPDXID: SPDXRef-item1106185
+FileChecksum: SHA1: 951edee8c64cb74fa8e6d4a7927334f6494cbfe6
+FileChecksum: MD5: d075a5e7985806ba33963087e630d62b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/cheek.png
+SPDXID: SPDXRef-item1106186
+FileChecksum: SHA1: 757c3597fd1e2945357dcdb67d81d01b25766be8
+FileChecksum: MD5: bfee5c4433365ce6d934c2c9238ea0b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/hair01.png
+SPDXID: SPDXRef-item1106187
+FileChecksum: SHA1: bc05fde3f94d58b643c32a0bc27ded3fd07668ed
+FileChecksum: MD5: 0a3d3fb789179bee132fe686ae477679
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/hand.png
+SPDXID: SPDXRef-item1106189
+FileChecksum: SHA1: a99387f5ab76b1880f5a6ed878832989ddc7c289
+FileChecksum: MD5: e0a1f508d2719043823ccdec025de1ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/mei_blue_jacket.lip
+SPDXID: SPDXRef-item1106191
+FileChecksum: SHA1: 81b76b2393d8d0c10e7f03775f6cb013ca044db1
+FileChecksum: MD5: bbed4fd477a590b1e90a9d5e0ede9825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/hair04.png
+SPDXID: SPDXRef-item1106193
+FileChecksum: SHA1: b166a12dbca4789ac47f8eae144950450298c952
+FileChecksum: MD5: c2faed60720caaadd756b04dfb7ca507
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Model/mei_blue_jacket/blouse.png
+SPDXID: SPDXRef-item1106194
+FileChecksum: SHA1: 4193e9ee3191a436e3b5c83231c60a279904f52f
+FileChecksum: MD5: f6b88e4788d887f68e5045b12d26a0e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/MMDAgent_Example.mdf
+SPDXID: SPDXRef-item1106199
+FileChecksum: SHA1: 42373513ac366eed93596aee12516cbda6c1d7be
+FileChecksum: MD5: 52ab1bd807e114d61520986d547eecb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_guide/README.txt
+SPDXID: SPDXRef-item1106206
+FileChecksum: SHA1: f68a682f15651e1738e93427933b6e9082b528e5
+FileChecksum: MD5: f64bcc40e95195c651caffa3f60e1913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_guide/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106208
+FileChecksum: SHA1: 0665cb4200f77a7958483684ab87c40cd71d0640
+FileChecksum: MD5: 5e1ea664975fef854d14c778da10d428
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_guide/mei_guide_normal.vmd
+SPDXID: SPDXRef-item1106213
+FileChecksum: SHA1: ed6d3a5dc8297950268b1595b92dbb35512aad22
+FileChecksum: MD5: 50b172efb63957c9f72f3fd25c9fcdb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_guide/mei_guide_sad.vmd
+SPDXID: SPDXRef-item1106220
+FileChecksum: SHA1: a8a784113196494026045f78a61fc34bb408d972
+FileChecksum: MD5: a7fa9c9545b2d6b8691493798e18cb8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_guide/mei_guide_happy.vmd
+SPDXID: SPDXRef-item1106229
+FileChecksum: SHA1: 7b4a036d94e131401318bb43fa487816a7e4def1
+FileChecksum: MD5: 72fde13f68d3de890ba6ef43814d5fa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_left_center.vmd
+SPDXID: SPDXRef-item1106239
+FileChecksum: SHA1: 076c92eba0b12c0ccd383742001a902883ff2bae
+FileChecksum: MD5: fbe1807ec5e9880a8aaa22e681bad550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/README.txt
+SPDXID: SPDXRef-item1106241
+FileChecksum: SHA1: 61ec77056194a1dec3cbae94d08156d22c3c4f45
+FileChecksum: MD5: 0c05afdf3b2ba79d2ccdf1dd87c4deb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_right_buttom.vmd
+SPDXID: SPDXRef-item1106248
+FileChecksum: SHA1: 69b1ad665a9c7700f7ef2147d94cfec448f3e9fd
+FileChecksum: MD5: a65a422bc2cd440ab168ddbafbf23df4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106250
+FileChecksum: SHA1: 4a6aa4988c790bbf5f84c1412387662b06bfaef0
+FileChecksum: MD5: ebe8a9c97116d8a299418b2e4aa75148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_center_center.vmd
+SPDXID: SPDXRef-item1106261
+FileChecksum: SHA1: d7fe44b1e3bca29ec07d2dec30cb294fea0edf4f
+FileChecksum: MD5: 3f80d8b24fdb889b75ef8da8000e5de1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_left_buttom.vmd
+SPDXID: SPDXRef-item1106269
+FileChecksum: SHA1: 1477a116b61ee4dfff4cf5a553c1bc08a076a2ee
+FileChecksum: MD5: fd3cb60276e6609f3dc5f55f9f178829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_center_buttom.vmd
+SPDXID: SPDXRef-item1106275
+FileChecksum: SHA1: 01daa34aba66ee4ff20c1fd0d5a0bd4a3c4f2627
+FileChecksum: MD5: d06ecd3971d3d853277b07cd0db9197e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_lef_top.vmd
+SPDXID: SPDXRef-item1106280
+FileChecksum: SHA1: 9ff78fa985ff5b8abe5da50c5d544a77b3e56222
+FileChecksum: MD5: 2715e575d19f6afba3a2b708ed533590
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_center_top.vmd
+SPDXID: SPDXRef-item1106286
+FileChecksum: SHA1: ca88962e64036736eb3555c83217266bee247037
+FileChecksum: MD5: 882a8cdc5290978f93b3530dfc18be33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_right_center.vmd
+SPDXID: SPDXRef-item1106292
+FileChecksum: SHA1: 5afad81c4962ac18620431e9e0d53786ff0f18b0
+FileChecksum: MD5: 338b2b5adca9f0f249124d968467f07b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_point/mei_point_right_top.vmd
+SPDXID: SPDXRef-item1106296
+FileChecksum: SHA1: ed73cf326086d4a4cbbc6e6aa5d21418ee9f1f9e
+FileChecksum: MD5: 5a9a0c072b9768cbb8468753cc06e7b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_breath/README.txt
+SPDXID: SPDXRef-item1106300
+FileChecksum: SHA1: dcc5286428011f32df59541bd76334a11bb48c93
+FileChecksum: MD5: 6f8f3c3bfa7295febd22462983d1f390
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_breath/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106306
+FileChecksum: SHA1: a4e872e2f7c1a68459d61da29f95aff2d6142be4
+FileChecksum: MD5: 3f115df43b7aa6d890a3e7372086d428
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_breath/mei_breath.vmd
+SPDXID: SPDXRef-item1106316
+FileChecksum: SHA1: 5b3d32eefb27022f8a2fbc79848228856a6b64ce
+FileChecksum: MD5: 537c88c4f0765a8bdfa6e1e69f169643
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_greeting/README.txt
+SPDXID: SPDXRef-item1106323
+FileChecksum: SHA1: 97e3a6254972f27b631cce914c94f01363e8dd0a
+FileChecksum: MD5: 8cbec2dec4dce6c4dfd7bbbbaaba4fcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_greeting/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106327
+FileChecksum: SHA1: 1eecbed9e39edd969e5b1f5f0e781053f4c23915
+FileChecksum: MD5: 992e6fc6b86f14baa4b3aff8f76c5912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_greeting/mei_greeting.vmd
+SPDXID: SPDXRef-item1106335
+FileChecksum: SHA1: 30b4fa6aed7334b7613f5549d308506680eec3c3
+FileChecksum: MD5: 4eebc3b093cdcd7167295645d5be0d0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_panel/README.txt
+SPDXID: SPDXRef-item1106339
+FileChecksum: SHA1: 4d83ae2449540014882075ef4a13646e28b0fafe
+FileChecksum: MD5: 7c30e27f6390abb49bfce791da68fade
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_panel/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106341
+FileChecksum: SHA1: 57dbcfdbd496294367f3204d8db82fffcee1a433
+FileChecksum: MD5: cecd15bcfce92518731d1acc2e4140b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_panel/mei_panel_off.vmd
+SPDXID: SPDXRef-item1106350
+FileChecksum: SHA1: b8c8cd3dc9eeeaa5242fc6cf2cf6550a98c75cdc
+FileChecksum: MD5: f875c3dc2148effffab05a9a386074b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_panel/mei_panel_on.vmd
+SPDXID: SPDXRef-item1106361
+FileChecksum: SHA1: 2ae2bb50184448662b6e50289726528bc5a591e5
+FileChecksum: MD5: deccc57ab676cf795b361f296dfcaafc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_self_introduction/README.txt
+SPDXID: SPDXRef-item1106369
+FileChecksum: SHA1: 91b28add4002f3dbad108cefe98f7421633f9bd6
+FileChecksum: MD5: fac610386b07c6f34502d88e26cd9724
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_self_introduction/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106371
+FileChecksum: SHA1: d94669633caf13708f2abf775b42c6543641c939
+FileChecksum: MD5: 122f23e949ddec3ec89ef48a2ea923f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_self_introduction/mei_self_introduction.vmd
+SPDXID: SPDXRef-item1106378
+FileChecksum: SHA1: 4dc353bc43b3a3b6a0843b0abd6b3557fe0970b7
+FileChecksum: MD5: 305eed11d018c7d24a13f70baf467281
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_hand_shake/mei_hand_shake.vmd
+SPDXID: SPDXRef-item1106391
+FileChecksum: SHA1: 40f80d559255a798798b8a99436de44ea2790b88
+FileChecksum: MD5: 251adc0f200ccbcbd8468afc9150db16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_hand_shake/README.txt
+SPDXID: SPDXRef-item1106395
+FileChecksum: SHA1: f0671980cfc05e2dc19804d545e57dcd664660c4
+FileChecksum: MD5: 9c1a488b01a6b50c3380ac47f18b99c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_hand_shake/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106398
+FileChecksum: SHA1: 65a5b5bd20a7a237820b0dc7218e1bf7ddb19987
+FileChecksum: MD5: dffa6b4abf99f22dfa1b30f72b65bcec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_bye/README.txt
+SPDXID: SPDXRef-item1106401
+FileChecksum: SHA1: de367ccee04ca890ed351c196d5cda9b1d6710c1
+FileChecksum: MD5: 74afb0d4bef921910afd417a6c02bc3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_bye/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106402
+FileChecksum: SHA1: fe1d8ea8242d8c08b299bde1cce492c9a6d13c8d
+FileChecksum: MD5: 8873339536b9bc273c53d0a0def1ea8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_bye/mei_bye.vmd
+SPDXID: SPDXRef-item1106403
+FileChecksum: SHA1: 51bb3fe241bbd108079cceca71cc6b0dff912ae3
+FileChecksum: MD5: 83dc85944870eb1a3d9056a93d05b426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_guts/README.txt
+SPDXID: SPDXRef-item1106405
+FileChecksum: SHA1: 434059d01012cfbda9e3d7d8b2ee3cd2192d55d3
+FileChecksum: MD5: 1ecfc30213044a770c2cd0e4edbc84f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_guts/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106406
+FileChecksum: SHA1: e5eb51c59ef7cad85c032ad95c9a1f9e2278188f
+FileChecksum: MD5: 1789708ff9c1a5c48791a23a96fa5e20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_guts/sd_mei_guts.vmd
+SPDXID: SPDXRef-item1106407
+FileChecksum: SHA1: 40f6b165a7f97e1b1a78c9f37eda35b8e2f8ae61
+FileChecksum: MD5: a32b3bea05112ad03d134e1b9682de06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_guts/README.txt
+SPDXID: SPDXRef-item1106409
+FileChecksum: SHA1: 9ddd9880b324a11cf16dbe1d28ec8647be6775c0
+FileChecksum: MD5: a9d3020e00bfda4db7cdcf50432f3327
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_guts/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106410
+FileChecksum: SHA1: 01bb9a1c1739d7c9c2e92844dd35a69f9c85e661
+FileChecksum: MD5: e98074dbabd9052c8871b92bf965ff2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_guts/mei_guts.vmd
+SPDXID: SPDXRef-item1106411
+FileChecksum: SHA1: 2298cd5fe7c684885c9f59f624eca711cc340348
+FileChecksum: MD5: b4a694bf16e7be8fe1fd7c03891adaba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_surprise/README.txt
+SPDXID: SPDXRef-item1106413
+FileChecksum: SHA1: a5b772e8842598afabb067eb1cdb83dd1b372140
+FileChecksum: MD5: 8b8c661e452aca6eeeb3c5aa1b76d081
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_surprise/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106414
+FileChecksum: SHA1: 4b29415beffc271b9b0854691299853bb32c1ad4
+FileChecksum: MD5: c646c7f08c2b11eb9cb8d3e14020631b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_surprise/mei_surprise_normal.vmd
+SPDXID: SPDXRef-item1106415
+FileChecksum: SHA1: c2f0049c611b80f00565be7a3d90829e322ed298
+FileChecksum: MD5: b295474db30d576780f1ed8d8b4c18b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_surprise/mei_surprise_small.vmd
+SPDXID: SPDXRef-item1106416
+FileChecksum: SHA1: c2f82a1b14408693835bcd027f2eeeeaedce6115
+FileChecksum: MD5: 250a787a6dd80e0f45bd070138f2cfdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_flash/README.txt
+SPDXID: SPDXRef-item1106418
+FileChecksum: SHA1: 186b927d044e6c20724789d3816f921875a58c65
+FileChecksum: MD5: 08f540aa850a4a007ba73f0a037e8395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_flash/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106419
+FileChecksum: SHA1: 8cf7001cf00f7334eebd91e9e282499eb1435c42
+FileChecksum: MD5: 927375baeed7318f1924292e0d09833b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_flash/mei_flash.vmd
+SPDXID: SPDXRef-item1106420
+FileChecksum: SHA1: 718ebc647203524fa9fea30fb95b6b24abd8c856
+FileChecksum: MD5: d113e2175a4b4bc6e5184040cf454be4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/menu_rotation/README.txt
+SPDXID: SPDXRef-item1106422
+FileChecksum: SHA1: 780d3979dc0e1d062fcbb0cdd2271e1975019ef4
+FileChecksum: MD5: 2f21d7fc8041181389aaf9f98b8a0f6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/menu_rotation/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106423
+FileChecksum: SHA1: 8a2d0e1a9368286dfded42db62360a95bc3fada7
+FileChecksum: MD5: db9dc3f4d13180e77739ea4f4cd88543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/menu_rotation/menu_rotation.vmd
+SPDXID: SPDXRef-item1106424
+FileChecksum: SHA1: 0d765675051edac761e3b5da66b329579eb1a23b
+FileChecksum: MD5: 71b7f9e5b6fa43630a9daf922811592a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_bye/sd_mei_bye.vmd
+SPDXID: SPDXRef-item1106426
+FileChecksum: SHA1: e04f76319d59349bd135cb729f4af46eb509eb7f
+FileChecksum: MD5: 79025470ef40e61de3acc4c8b9a79c8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_bye/README.txt
+SPDXID: SPDXRef-item1106427
+FileChecksum: SHA1: 82e73170a9d29dd362057ecbf5e040bd3c0f82e1
+FileChecksum: MD5: 7984edb2290c5f8a641695a68e94c820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_bye/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106428
+FileChecksum: SHA1: b3a80d9f58854445a587105caa0dc47b62939b21
+FileChecksum: MD5: f975d32dd815d6d903b2f314d89925c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_imagine/mei_imagine_left_normal.vmd
+SPDXID: SPDXRef-item1106430
+FileChecksum: SHA1: 0859fdfe27d49aa488fa8196384e9cd44572587b
+FileChecksum: MD5: 6ca55eb68518aa1d90491981a1de1fba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_imagine/README.txt
+SPDXID: SPDXRef-item1106431
+FileChecksum: SHA1: 265ac642c01b279605979ec03da04c5da6238fe9
+FileChecksum: MD5: 5c33ab5e56f2c618ebb9d8305c54b474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_imagine/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106432
+FileChecksum: SHA1: deadd37557b3bc83a176874eb51e11501ea98231
+FileChecksum: MD5: 79a3e1229a748aefff55bc7d88f91484
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_imagine/mei_imagine_forward_normal.vmd
+SPDXID: SPDXRef-item1106433
+FileChecksum: SHA1: 8a2c9b657e484e0160e9e5b8e9690f5c22d24f26
+FileChecksum: MD5: 83c7f8832d73d630629af40c6c89f403
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_imagine/mei_imagine_forward_small.vmd
+SPDXID: SPDXRef-item1106434
+FileChecksum: SHA1: c61888c48cba7f5989c4892505d6849c7a71046d
+FileChecksum: MD5: bd311e8f5338b8a291c5abe8b737ec0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_imagine/mei_imagine_right_normal.vmd
+SPDXID: SPDXRef-item1106435
+FileChecksum: SHA1: a3802989d8b9b9fceeeef848cd73f5fdffde5167
+FileChecksum: MD5: b58458b64ddb71978b2446c84af01b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_imagine/mei_imagine_left_small.vmd
+SPDXID: SPDXRef-item1106436
+FileChecksum: SHA1: b656342fd9e38bd6df99c9d8a95416f2c8f2f1e2
+FileChecksum: MD5: 2c1522b94b23d917baf8e4f6bb14e374
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_self_introduction/README.txt
+SPDXID: SPDXRef-item1106438
+FileChecksum: SHA1: 310eb6b0e83f79d17964ffd18efadb10ae815b7f
+FileChecksum: MD5: 7ecadb1364b9642d43e3e2baa5e1d39e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_self_introduction/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106439
+FileChecksum: SHA1: 3820b4951eff69cb63e4922ed7175fe32c9b87a2
+FileChecksum: MD5: 53e72777437363427f0a15a66c00a6f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_self_introduction/sd_mei_self_introduction.vmd
+SPDXID: SPDXRef-item1106440
+FileChecksum: SHA1: 765423d9306da41491f60e24a8e1ddf68e6c5d3f
+FileChecksum: MD5: 3e2a66e57dbc52e643c1d116dc11dca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_idle/mei_idle_boredom.vmd
+SPDXID: SPDXRef-item1106442
+FileChecksum: SHA1: 221d312a52b5b5926fdaaafeaf2f52c10ec1394b
+FileChecksum: MD5: 23dc35aa8e8c37969d1b7cf36b609ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_idle/README.txt
+SPDXID: SPDXRef-item1106443
+FileChecksum: SHA1: 6f5e144c3948891a65c889e8d38c1e3773a294ff
+FileChecksum: MD5: 8fa80a188816c4ffe9db4fccb1323de4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_idle/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106444
+FileChecksum: SHA1: f239a87e6c5bcb7e6898a5015db290e96328583a
+FileChecksum: MD5: 450c52b2e4d66c46051a7688df06a031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_idle/mei_idle_sleep.vmd
+SPDXID: SPDXRef-item1106445
+FileChecksum: SHA1: e332beb1aae3fd5506513339d03d49c6e4ab09d0
+FileChecksum: MD5: 90f1b643300cf863fd11c09febbfe70b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_idle/mei_idle_think.vmd
+SPDXID: SPDXRef-item1106446
+FileChecksum: SHA1: f8955a77fe45e3e86d1ce1db819ddc348b3a7b21
+FileChecksum: MD5: cc7cd0d33eab4b2414c53c557bdb3ee2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_idle/mei_idle_touch_clothes.vmd
+SPDXID: SPDXRef-item1106447
+FileChecksum: SHA1: f30dd460a028284afecbc38e42c5d50b5c5156a7
+FileChecksum: MD5: b7ea9d0cdd50f4492947f98d2464e6df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_idle/mei_idle_yawn.vmd
+SPDXID: SPDXRef-item1106448
+FileChecksum: SHA1: 0ea6f25264c9a9f058ce852882d7ea57693ddea3
+FileChecksum: MD5: 08ac6143534d8b4463aecffad122c224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_laugh/README.txt
+SPDXID: SPDXRef-item1106450
+FileChecksum: SHA1: 2be080469e43f3498e64766e0c07f97f14fd9cd6
+FileChecksum: MD5: df9e753f33d8a7a8e12988858d2f945c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_laugh/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106451
+FileChecksum: SHA1: 68341e618ddb47a2b8cffd196f269cbc21b214fd
+FileChecksum: MD5: 7c8119a7e54dbfdd9627950cbb120155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_laugh/mei_laugh.vmd
+SPDXID: SPDXRef-item1106452
+FileChecksum: SHA1: 04d0f88df64953d13d618c2d64f81bdf4e85a819
+FileChecksum: MD5: e049420f6ce590d27f8cb7c81d947b83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_wait/README.txt
+SPDXID: SPDXRef-item1106454
+FileChecksum: SHA1: 2d40f7cbb4aa46fa15061adfaaa3ba4fbd5c2a7b
+FileChecksum: MD5: 259aa26a332ffb1944990b2636dfbf02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_wait/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106455
+FileChecksum: SHA1: c955c8fd1bbc525f41fbeb113c42b7779055a5cd
+FileChecksum: MD5: adcd5d7f3b7b9c1f8912ed050d889cf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_wait/mei_wait.vmd
+SPDXID: SPDXRef-item1106456
+FileChecksum: SHA1: f20ed2f71b49b2c775c5729f3f208f5581b4621d
+FileChecksum: MD5: 838276f175c9499792fc85e4c4ee8297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_confusion/README.txt
+SPDXID: SPDXRef-item1106458
+FileChecksum: SHA1: 50724eb74a88c40097fa18b47d3ca2537bcbe8a1
+FileChecksum: MD5: 1aa13d3fe4473fe307bc7c5b344e3125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_confusion/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106459
+FileChecksum: SHA1: 2783fe16823bf8d12bfb0da35063ccf58cf93ed4
+FileChecksum: MD5: f8650188a1485fc4839e3792b2c659ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_confusion/sd_mei_confusion.vmd
+SPDXID: SPDXRef-item1106460
+FileChecksum: SHA1: 5bf20372e71edcfe5899c8473a09fc3652005c4f
+FileChecksum: MD5: db39e87a88d4c675c8eff0199cc7368a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_call/README.txt
+SPDXID: SPDXRef-item1106462
+FileChecksum: SHA1: 273579844f4f908c0abcd319c7f64f1b1e8564a4
+FileChecksum: MD5: 8d5d7c0e6956fe006ad38f7949f4feff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_call/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106463
+FileChecksum: SHA1: 1b59d55da372cff7ea3afca15f9adf09a73d6fd5
+FileChecksum: MD5: c74fc836a749ca0c2058dc73f56543fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_call/mei_call.vmd
+SPDXID: SPDXRef-item1106464
+FileChecksum: SHA1: 8c70b55d65814e838eb05d855f332b29011b7806
+FileChecksum: MD5: e74d91c9aa46d039ede28c863566b0ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_guide/README.txt
+SPDXID: SPDXRef-item1106466
+FileChecksum: SHA1: f0dcb7d3e5f572b4c3de422cdef068e9ebfb6ae0
+FileChecksum: MD5: 56a82c6f82e582432fa40e0fa66cc48a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_guide/sd_mei_guide_sad.vmd
+SPDXID: SPDXRef-item1106467
+FileChecksum: SHA1: 61bcd4bd47d4166f6145d092c83b6d1658b93771
+FileChecksum: MD5: 47eceac599f540d4f3a493890c49e4ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_guide/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106468
+FileChecksum: SHA1: 39024c09433769571c45bfe4041c2cb313d4d88e
+FileChecksum: MD5: 8377653dff3effe44d697e174aab9286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_guide/sd_mei_guide_normal.vmd
+SPDXID: SPDXRef-item1106469
+FileChecksum: SHA1: 4888df587dfb078f419ed6a999c96b57babd1b2c
+FileChecksum: MD5: cf1d322f1221a54432668567fdf0f3ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_guide/sd_mei_guide_happy.vmd
+SPDXID: SPDXRef-item1106470
+FileChecksum: SHA1: 0e0fe283640b24ff56d36861302d8f348616c62f
+FileChecksum: MD5: 9fa917c791b720a742db72a75adbacd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_wait/README.txt
+SPDXID: SPDXRef-item1106472
+FileChecksum: SHA1: a7e94c08dd5d01dcb1505c34502ce18a4eca8ea5
+FileChecksum: MD5: 1254dba1312b465f5eaac581c85583e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_wait/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106473
+FileChecksum: SHA1: 9172108c6616bb0c9c3100624c7e5f815c771b74
+FileChecksum: MD5: fac2d8a3eed29eaad77952ca4e1daf46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_wait/sd_mei_wait.vmd
+SPDXID: SPDXRef-item1106474
+FileChecksum: SHA1: cdcb0c0e550ecdcad288710b65a5e31def4c0d4b
+FileChecksum: MD5: 0d2cdfe3016e46585cd5b11662f8e44b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_look/README.txt
+SPDXID: SPDXRef-item1106476
+FileChecksum: SHA1: c5775a6fb7022b788595d3634750b82da2026841
+FileChecksum: MD5: 106296a3994e605ce45526e45221bb9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_look/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106477
+FileChecksum: SHA1: d35f1f755a6992d811aecfdb943acbdf56fde635
+FileChecksum: MD5: b8e906448c9e6a3f5fed553900cf0b88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/mei_look/mei_look_down.vmd
+SPDXID: SPDXRef-item1106478
+FileChecksum: SHA1: 5fcab84d1b86036966389d914f11aea62ba7e7b7
+FileChecksum: MD5: 442c775214b70ee5f0a974974b062a54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_greeting/README.txt
+SPDXID: SPDXRef-item1106480
+FileChecksum: SHA1: 34bcc207f18f05fe89bff13b16e0efbae7bb7fd8
+FileChecksum: MD5: ccd7d25bc899bb4e4e11374cc74eb848
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_greeting/sd_mei_greeting.vmd
+SPDXID: SPDXRef-item1106481
+FileChecksum: SHA1: 491d33af3ef8c63c725f9076e96170f6b165e1d3
+FileChecksum: MD5: fe2b8c03976c27b086deb919bc8af0c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Motion/sd_mei_greeting/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106482
+FileChecksum: SHA1: eab35754061e7715945c7d1f3f91987fb2227f36
+FileChecksum: MD5: 91a61602110ae6d365bf223ad6d20176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/map/README.txt
+SPDXID: SPDXRef-item1106485
+FileChecksum: SHA1: a1ddd3943f6327ab5a68e249b0fa839c6123c02a
+FileChecksum: MD5: 0e815279d70dd92da2a2a54999f4b0a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/map/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106486
+FileChecksum: SHA1: 45df2720839cf9f65eade7dab112d4f4251b0182
+FileChecksum: MD5: 6990fbf4d4dca1cf13f5749202833293
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/map/map_library.pmd
+SPDXID: SPDXRef-item1106487
+FileChecksum: SHA1: 26aed184565b99b2f980f39c976adefcb5a88e72
+FileChecksum: MD5: 155242be4dbd64c87217ee684305b0a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/map/map_library.tga
+SPDXID: SPDXRef-item1106488
+FileChecksum: SHA1: 3597c66db431b01a40a23403a52e15a3928f65de
+FileChecksum: MD5: 07a5008c56c967a9df2385b51b10c825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/menu_02.tga
+SPDXID: SPDXRef-item1106490
+FileChecksum: SHA1: c0304de526b5369ec57c46ea9c1dbfb1dda503ef
+FileChecksum: MD5: 8d3189390b80559aa8f14e90270edd95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/README.txt
+SPDXID: SPDXRef-item1106491
+FileChecksum: SHA1: d7b704785a5b14a25b2f370defcbfaf6359e450d
+FileChecksum: MD5: fc934c471d807685fe50b41a66cc987d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106492
+FileChecksum: SHA1: 933e2c29fba8e9b3618d82202e39598a153dcbce
+FileChecksum: MD5: 616e75f94f2b0b59ee3589721c091680
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/menu_01.tga
+SPDXID: SPDXRef-item1106493
+FileChecksum: SHA1: b571d829226066252be61496066faef45f6b14c2
+FileChecksum: MD5: 673961814fc5eb54b9b9ab6908e27a5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/menu_04.tga
+SPDXID: SPDXRef-item1106494
+FileChecksum: SHA1: 9cb4b2cc690adf68d0ec9ff61b617407ed0e4f19
+FileChecksum: MD5: 7c0f9d262b7b707beeeb82d47812594b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/menu.pmd
+SPDXID: SPDXRef-item1106495
+FileChecksum: SHA1: d36bdcdeda50ad03be18b16d4e9765479209b144
+FileChecksum: MD5: 39fbdaf55d699d06c5baf1771e40996c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/menu_06.tga
+SPDXID: SPDXRef-item1106496
+FileChecksum: SHA1: c625202a999140fd550af92dd5266b92075cffcc
+FileChecksum: MD5: b5cb5a5fa8587b736081901e159d42e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/menu_03.tga
+SPDXID: SPDXRef-item1106497
+FileChecksum: SHA1: 4c37cbedab07bf10dc7e910e6b796a809b86fe94
+FileChecksum: MD5: 73784810da8c9078ecbc02cee4a6ffd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/menu_07.tga
+SPDXID: SPDXRef-item1106498
+FileChecksum: SHA1: bc46723a509a9d1c4b79760fad807904a331bd55
+FileChecksum: MD5: 31203b8c1101cdb3a82d9ffa2418d6c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/menu/menu_05.tga
+SPDXID: SPDXRef-item1106499
+FileChecksum: SHA1: e352d5134f79b5f57973940d8bd4f66b109ea9e5
+FileChecksum: MD5: 83e0468d466cf31d62e6ff284273b19c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/bootscreen/README.txt
+SPDXID: SPDXRef-item1106501
+FileChecksum: SHA1: d354bcd4e5f5c3a784bd38eb11a438fddaa2a944
+FileChecksum: MD5: e3f440a45d522bd9b5708fe0dbb55b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/bootscreen/COPYRIGHT.txt
+SPDXID: SPDXRef-item1106502
+FileChecksum: SHA1: fffb130f37cd097a3974fd80e45efbf4c659c6ae
+FileChecksum: MD5: 1062cc7a03460bdba14e0f82a8add73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: CC-BY-3.0
+LicenseInfoInFile: LicenseRef-CC-BY
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/bootscreen/bootscreen.png
+SPDXID: SPDXRef-item1106503
+FileChecksum: SHA1: 09ff3ab7198d94f4c9e1f67b0978d167bba0b95f
+FileChecksum: MD5: b0a08cac5791ab8183e3bdd03c45c0a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/MMDAgent_Example-1.6/Accessory/bootscreen/bootscreen.pmd
+SPDXID: SPDXRef-item1106504
+FileChecksum: SHA1: 8f4dd5c2485ffb8b633f4e19693e64429b46b8c0
+FileChecksum: MD5: 827009691e2c9f01b5fce318ff434d9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-CC-BY
+LicenseName: Creative Commons Attribution
+ExtractedText: <text> CC-BY is referenced without a version number. Please look up CC-BY in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+

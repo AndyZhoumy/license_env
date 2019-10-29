@@ -1,0 +1,1726 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libogg-1.3.2-r0-patched.tar.gz_1571460508.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:48:28Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libogg
+PackageVersion: 1.3.2
+PackageFileName: libogg-1.3.2-r0-patched.tar.gz
+SPDXID: SPDXRef-upload433
+PackageDownloadLocation: http://downloads.xiph.org/releases/ogg/libogg-1.3.2.tar.xz
+PackageHomePage: http://xiph.org/
+PackageSummary: <text>Ogg bitstream and framing libary</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libogg version 1.3.2</text>
+PackageChecksum: SHA1: 56a8ae23514e762db6f180a2b1789741022eb5a8
+PackageChecksum: MD5: f72b0aab7af9bdbd87b1ced476793a06
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload433
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/compile
+SPDXID: SPDXRef-item1104887
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/install-sh
+SPDXID: SPDXRef-item1104888
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/aclocal.m4
+SPDXID: SPDXRef-item1104889
+FileChecksum: SHA1: 6fe02c79f70c5d1108a6efe159b7a7d4b40b5b77
+FileChecksum: MD5: 3f53d782feef6544337d495e568a202c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/Makefile.in
+SPDXID: SPDXRef-item1104890
+FileChecksum: SHA1: b82647b0856ad46d8dfe6db97226081e547c8fe4
+FileChecksum: MD5: 106d35dd3a73882a7ccc8842d6104d05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/COPYING
+SPDXID: SPDXRef-item1104891
+FileChecksum: SHA1: bc252631805cf037048f64fef562f98c2a0bdc9e
+FileChecksum: MD5: db1b7a668b2a6f47b2af88fb008ad555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/configure
+SPDXID: SPDXRef-item1104892
+FileChecksum: SHA1: 3c9ac60e2cceef0baa429d8ac6139d0d09442e47
+FileChecksum: MD5: 1c5d7ebadb87bd79eb6849ad3a1e0384
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/ltmain.sh
+SPDXID: SPDXRef-item1104893
+FileChecksum: SHA1: 1951c7cc2365881ffa2322c9d2a594a1e1bb65a7
+FileChecksum: MD5: fddd00ca15b3cc3caa3b3f6d367a2daf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/src/Makefile.in
+SPDXID: SPDXRef-item1104895
+FileChecksum: SHA1: c7b20314cee422d9942b6412e1e5ee57dcf7c487
+FileChecksum: MD5: 88914d75877cff4a46757068338386d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/src/Makefile.am
+SPDXID: SPDXRef-item1104896
+FileChecksum: SHA1: 102dc7bcad773848523a5293e961ac8cc4b6b425
+FileChecksum: MD5: 1f60a1aedafc840bb2b633f8e6c19eb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/src/framing.c
+SPDXID: SPDXRef-item1104897
+FileChecksum: SHA1: afe1f2024adce621ca65672de01f73fd77b7e6ae
+FileChecksum: MD5: 6c649ddcc4d30aee98d28f275277a6d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/src/bitwise.c
+SPDXID: SPDXRef-item1104898
+FileChecksum: SHA1: 508a77f972ae8e4da3f89610d5ff9950c3741958
+FileChecksum: MD5: a9219e3b830c71d18e3c6f7706328b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/ogg-uninstalled.pc.in
+SPDXID: SPDXRef-item1104899
+FileChecksum: SHA1: 7e0babf60da40831ba838683bfbd18ae17617f33
+FileChecksum: MD5: 7dbc2d7859ec0905d76ab107b1849d01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/libogg.spec
+SPDXID: SPDXRef-item1104900
+FileChecksum: SHA1: 4833abe8c87f054a8948dad22c70fe3f8ae4ac05
+FileChecksum: MD5: 011901be2f082b1415d87343f9342e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/libogg.spec.in
+SPDXID: SPDXRef-item1104901
+FileChecksum: SHA1: aeccd0a562aecda766ee6a7328cd5acbb3ab754f
+FileChecksum: MD5: a94621448fbda58108b2bf6c9031e092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/config.h.in
+SPDXID: SPDXRef-item1104902
+FileChecksum: SHA1: 7970948de2e172637b13264bc5336fc07aea0d43
+FileChecksum: MD5: 6efa1748751d5b596fac3ff1b25d3737
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/Makefile.am
+SPDXID: SPDXRef-item1104903
+FileChecksum: SHA1: 09f8f5410a35c8a07e6068ad2ce1ff80376cdc5d
+FileChecksum: MD5: 2f4bb703083386be20da142b905e1563
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/AUTHORS
+SPDXID: SPDXRef-item1104904
+FileChecksum: SHA1: 9a4fab02c00633c5efd2e18a05bf502be5243f0e
+FileChecksum: MD5: eac5f2e266a51fcb213e8bcfef864dfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/config.sub
+SPDXID: SPDXRef-item1104905
+FileChecksum: SHA1: 7569b6bf8b36f9c7869d456b8faa30c9f7f31afa
+FileChecksum: MD5: 1803a1d601bcf4debccfe2902c4f0f65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/packets.png
+SPDXID: SPDXRef-item1104907
+FileChecksum: SHA1: ae1faee04975c57ae2823b33188a5b2d5c00007a
+FileChecksum: MD5: 57b2bbe78f58b722460c7dd6d5a42db6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/pages.png
+SPDXID: SPDXRef-item1104908
+FileChecksum: SHA1: 04bc16b759c5b6bdbc0d134062ef3418bfafe343
+FileChecksum: MD5: a7bd72f2b743a47b265fd8b976cabb6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/stream.png
+SPDXID: SPDXRef-item1104909
+FileChecksum: SHA1: d7fbfa656fcd0374c831353f652753557dcd07c0
+FileChecksum: MD5: df52cc3b79fdf8bcc1e4b430772c0bc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/ogg-multiplex.html
+SPDXID: SPDXRef-item1104910
+FileChecksum: SHA1: e6f7d7083cfb3f322796b1f7e89906c3b188af15
+FileChecksum: MD5: 57e0d037730199a599203b5b188bbd2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/rfc5334.txt
+SPDXID: SPDXRef-item1104911
+FileChecksum: SHA1: 5b21b39f01ec957c882e21fcb1c80b4e56f58b68
+FileChecksum: MD5: 8d3a7ca28acf632e36b31c63ada62e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-IETF-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/framing.html
+SPDXID: SPDXRef-item1104912
+FileChecksum: SHA1: c5b6e81518c7e3c1435484e2ad99695e047fb6c7
+FileChecksum: MD5: bab93ccc34adb311fb8f5bc0b59bba2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/Makefile.in
+SPDXID: SPDXRef-item1104913
+FileChecksum: SHA1: b2add97e099efa094925e6ea0fc1b411a78dd180
+FileChecksum: MD5: 48020e0d4abf1f5b85959b24a7aa9377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/skeleton.html
+SPDXID: SPDXRef-item1104914
+FileChecksum: SHA1: 2ad2d7b1416da33edf7911671de90d6c8f28e298
+FileChecksum: MD5: 4f177f89707786a13fae9ff64c0f1477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/rfc3533.txt
+SPDXID: SPDXRef-item1104915
+FileChecksum: SHA1: a26a0adde8b978fe80069f2414f47bd03cc1b67e
+FileChecksum: MD5: a699d094105013440eba60ec619ea71d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IETF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/multiplex1.png
+SPDXID: SPDXRef-item1104916
+FileChecksum: SHA1: 195293837142740b29b6ee8ca6842a4b112c0fb7
+FileChecksum: MD5: 2b98cd8dd0cb1af475433a66525f0a0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/index.html
+SPDXID: SPDXRef-item1104917
+FileChecksum: SHA1: b2edbfa3fb06abeddbcef1e226bf22f249145268
+FileChecksum: MD5: 99234320e1143b197307188761036a0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_reset.html
+SPDXID: SPDXRef-item1104919
+FileChecksum: SHA1: dfd86f4f7022f1230f5be27c0bf2fadd47f9782a
+FileChecksum: MD5: 2505a8e65a46b4b09c0bea5d118986da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_eos.html
+SPDXID: SPDXRef-item1104920
+FileChecksum: SHA1: fbaf3d96a93fb654ddabcbeb0454cbcfb53a1b81
+FileChecksum: MD5: 3d7d4ebf6fb7b8509dce6e87d28d5670
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_packet.html
+SPDXID: SPDXRef-item1104921
+FileChecksum: SHA1: e97761a8332b85928d92aaec4aa246c05773a01c
+FileChecksum: MD5: d4ec0eb1d8ba712343c3184ded12cc9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_flush_fill.html
+SPDXID: SPDXRef-item1104922
+FileChecksum: SHA1: 4dc55f84cbc008a21e124764bfe7286930159cfc
+FileChecksum: MD5: b9393dbc4630bc61bf9b7bab72127b51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_pageout.html
+SPDXID: SPDXRef-item1104923
+FileChecksum: SHA1: ce883e8c9b473ba5f2afb8d17644bb7baef50886
+FileChecksum: MD5: 76ae51349a46cfe31b272744fc83cdb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_readinit.html
+SPDXID: SPDXRef-item1104924
+FileChecksum: SHA1: 3aacad6a674073cdb276aaba88f5a53742d9cb7e
+FileChecksum: MD5: 98e2f823be6c552dd6645d9d1228185f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_reset.html
+SPDXID: SPDXRef-item1104925
+FileChecksum: SHA1: bd11053b511607633443d6acc7aac08a53e70a3d
+FileChecksum: MD5: dc9f70398713ef6a10551b405951186e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/general.html
+SPDXID: SPDXRef-item1104926
+FileChecksum: SHA1: bb7a794559c9e0e910d9014276aa5156f756d04f
+FileChecksum: MD5: 3cd3285da5af66753c41f30ae1300771
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_granulepos.html
+SPDXID: SPDXRef-item1104927
+FileChecksum: SHA1: b359714dca09312023fab23ff6fa740b498d54b8
+FileChecksum: MD5: 36f75319d8a6dbea16b9e07956b754d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_reset.html
+SPDXID: SPDXRef-item1104928
+FileChecksum: SHA1: 7d611512cd598393a01b185306add2bce7c4ce80
+FileChecksum: MD5: a92c260795df70057d39ee39ef07b78d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_flush.html
+SPDXID: SPDXRef-item1104929
+FileChecksum: SHA1: 9ed7302e21c4ef8b2f6640a1258a4019dc63ba93
+FileChecksum: MD5: 45081844da9d76bf822b2eaad5f67273
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page.html
+SPDXID: SPDXRef-item1104930
+FileChecksum: SHA1: fc9ec09bcfb4bb54441363ad568be10accd38166
+FileChecksum: MD5: 607b29711dc6c59da4ea59974ee7e009
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_buffer.html
+SPDXID: SPDXRef-item1104931
+FileChecksum: SHA1: a5828bf563d608198828f38d8cb6fa6a0bc917e7
+FileChecksum: MD5: 9657517fbfa405def74320259e245c23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_check.html
+SPDXID: SPDXRef-item1104932
+FileChecksum: SHA1: 9ac3a2583419a5b31ad9465ad197863e70500bdd
+FileChecksum: MD5: d56c1a882a7061de470e0246e73c8fcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_check.html
+SPDXID: SPDXRef-item1104933
+FileChecksum: SHA1: b7683aaac5aa9ad64829585a5f52e7ce3cca1319
+FileChecksum: MD5: 28c89ad305c6369641e6f04178776787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_pageout_fill.html
+SPDXID: SPDXRef-item1104934
+FileChecksum: SHA1: c208df9f2b59b04928b11058543f8d4c5966c3b3
+FileChecksum: MD5: ebbee49e6384b44499b99e116c415dce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/Makefile.in
+SPDXID: SPDXRef-item1104935
+FileChecksum: SHA1: 206dfe8f504675674ec891d588f97ee61a8057ae
+FileChecksum: MD5: f5489f3d2f9d28e68e2c932f148ff907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_writecheck.html
+SPDXID: SPDXRef-item1104936
+FileChecksum: SHA1: f0752f1b8e80342f45a0ccb6116b8c45662ce8d8
+FileChecksum: MD5: a5ee0ea97d0d7ebd51ad2dbccaf27ffe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_serialno.html
+SPDXID: SPDXRef-item1104937
+FileChecksum: SHA1: 1f4f6f460566bb88394ff3c690655da8cdaa4f11
+FileChecksum: MD5: 98cb01fdd9f6fae7e58be8f3e7d7b2a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_packetin.html
+SPDXID: SPDXRef-item1104938
+FileChecksum: SHA1: b75191175b1d26acc6b6b5356499d290a5489282
+FileChecksum: MD5: 20585aeafd4eb3c26f0032e204999477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_writetrunc.html
+SPDXID: SPDXRef-item1104939
+FileChecksum: SHA1: 232acc5a2bbf4d656868892ac3016692e3ad85a1
+FileChecksum: MD5: 4466e9bdf0369706b37919831b5e6b8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_wrote.html
+SPDXID: SPDXRef-item1104940
+FileChecksum: SHA1: 77276e4ddd8bb683fdb22742f0701f31b90d7f19
+FileChecksum: MD5: d9aac62b87417c4762cbf3c7dbc58a6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/index.html
+SPDXID: SPDXRef-item1104941
+FileChecksum: SHA1: c1726f9c71e0cee5f1de64b7948bdc7e140fece7
+FileChecksum: MD5: 03241abab52c53c8aea87ffb2acf22e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_state.html
+SPDXID: SPDXRef-item1104942
+FileChecksum: SHA1: 78cbe6432621f412dba2d38f0e6a5bca70bc7386
+FileChecksum: MD5: c2da2c509dfe8e1a51405e871a5661b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_eos.html
+SPDXID: SPDXRef-item1104943
+FileChecksum: SHA1: 3d8175b8ab5bf9d7a32dc7e18044811ec50a1348
+FileChecksum: MD5: e2cb99ef4515964d4cf928ae46f83905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_iovecin.html
+SPDXID: SPDXRef-item1104944
+FileChecksum: SHA1: 2c74b1adf7a45932e7e56400cbe4fee022eee7c9
+FileChecksum: MD5: e30a95cbcaf0a26559e69629840a9bf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_write.html
+SPDXID: SPDXRef-item1104945
+FileChecksum: SHA1: 4c20540e905c07f6142d115b5f26ca5c91ca2c35
+FileChecksum: MD5: 65685c9542b99945260feda5040717ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_pagein.html
+SPDXID: SPDXRef-item1104946
+FileChecksum: SHA1: 5c0a64ed95ad065079dab339a829872aa9bf88b9
+FileChecksum: MD5: 61ede5ab44658579aa0bffec9915f19d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_buffer.html
+SPDXID: SPDXRef-item1104947
+FileChecksum: SHA1: bd7aa7647fde40a5d4f18871b370b3d08ed1f61a
+FileChecksum: MD5: 5d0e32a272ed95cff4dcaea0c7598de8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_state.html
+SPDXID: SPDXRef-item1104948
+FileChecksum: SHA1: 864fa42e939b317e14234534d44b3fced693b08d
+FileChecksum: MD5: f4c13bdcf4a90a145569134f983f1238
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_bytes.html
+SPDXID: SPDXRef-item1104949
+FileChecksum: SHA1: efee0a889e02dc8c71b48d5c091caae49fc072ec
+FileChecksum: MD5: afe5cb3ac33caeb84d5035e03a82a2fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_packetpeek.html
+SPDXID: SPDXRef-item1104950
+FileChecksum: SHA1: 0e58e9bc85c4cd13e8df84d5583bfa435488ad51
+FileChecksum: MD5: 5c713eb3ef087f3e58bcaae0dc701073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_checksum_set.html
+SPDXID: SPDXRef-item1104951
+FileChecksum: SHA1: 6a4c42135d10961c78afe660a9dc7ae5e6536cd1
+FileChecksum: MD5: e1ff0d445541014522ee126068fcf483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/Makefile.am
+SPDXID: SPDXRef-item1104952
+FileChecksum: SHA1: bcf95bdff456f8ca286ab8c19d905ba44ccb9b42
+FileChecksum: MD5: 259dd11c796b3dd78b16ba315da2ff83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_look1.html
+SPDXID: SPDXRef-item1104953
+FileChecksum: SHA1: c77413ed822add1b8c8da31939aebc322123a6b9
+FileChecksum: MD5: edc1658058174fb4659c03dd8bc946a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_writecopy.html
+SPDXID: SPDXRef-item1104954
+FileChecksum: SHA1: b5acf7748bc8a614dc0322ea47b42774064bd949
+FileChecksum: MD5: a0855d9ee52a89248cea1982219e5396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_version.html
+SPDXID: SPDXRef-item1104955
+FileChecksum: SHA1: 724cc1b3e69056d13dd58011b7366e6913872605
+FileChecksum: MD5: fb8eca4b998b1a4376f2a37b40299499
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/style.css
+SPDXID: SPDXRef-item1104956
+FileChecksum: SHA1: 52a68587a783e91e5abf1211cb08823d03acb77e
+FileChecksum: MD5: b6bacacc82f7403bde49a29905a9ee08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_bits.html
+SPDXID: SPDXRef-item1104957
+FileChecksum: SHA1: 8f42de0e92c20897c1a1dbf962948a8703342126
+FileChecksum: MD5: bec79f69b04a96f5d9927b9cfe677ebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_writealign.html
+SPDXID: SPDXRef-item1104958
+FileChecksum: SHA1: 3471656dacab8726f1fe684f1c54b1699d170287
+FileChecksum: MD5: d24bc1d122522f651d12f3cf5fbaefad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/overview.html
+SPDXID: SPDXRef-item1104959
+FileChecksum: SHA1: 55151e6333f5c799d94e623e8d5e91effaa93ff1
+FileChecksum: MD5: bba0379960b588a4dbb592c95d1ce625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_destroy.html
+SPDXID: SPDXRef-item1104960
+FileChecksum: SHA1: 03f7dfc733385978af3a654d1b360cc54d5e2cf7
+FileChecksum: MD5: 7b7db11c41c5a596019354cb8e699667
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_pageseek.html
+SPDXID: SPDXRef-item1104961
+FileChecksum: SHA1: f037f79777028c75d4fbbc8a2243e2dc1be1b974
+FileChecksum: MD5: 84f574d222200fd02b7a2de7610aa2ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/datastructures.html
+SPDXID: SPDXRef-item1104962
+FileChecksum: SHA1: f7ab065f642c34570ffac9f2806dca7d60475ccd
+FileChecksum: MD5: ec993791f9d0680d4dd52ff05fdee8fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_init.html
+SPDXID: SPDXRef-item1104963
+FileChecksum: SHA1: 8ba09f1a7e0e77f159717d46430ca40851eb042e
+FileChecksum: MD5: 903b9814b826079b7eae99ef2225c347
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_clear.html
+SPDXID: SPDXRef-item1104964
+FileChecksum: SHA1: 4ffa0a9302e09b78b74e0e8e9a8941ad009d730c
+FileChecksum: MD5: f3704bdb4d6c7bd6b8575b80aa22b2cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/reference.html
+SPDXID: SPDXRef-item1104965
+FileChecksum: SHA1: 7811076cd062811cc018913bdeb3487575daf9a0
+FileChecksum: MD5: 137ae9a10bf2aae24556219207c3f9b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_clear.html
+SPDXID: SPDXRef-item1104966
+FileChecksum: SHA1: 2fa167b727ebba9530763967a45f180cac722014
+FileChecksum: MD5: c2c7e9049e3b83f496e4c81267b27e49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_destroy.html
+SPDXID: SPDXRef-item1104967
+FileChecksum: SHA1: 9d52b4e51df3b30304b864b2dc2b755599ddf38e
+FileChecksum: MD5: 256226f8bb3a71835269d643c89092f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_adv.html
+SPDXID: SPDXRef-item1104968
+FileChecksum: SHA1: fcc575a04fbc6dda5e9355f8bffd38e3ef125957
+FileChecksum: MD5: 1cd340d917e08e853eba4b26b5dde187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_reset_serialno.html
+SPDXID: SPDXRef-item1104969
+FileChecksum: SHA1: 7215516b23f42c486db1ff84af0aaaf020a4ce94
+FileChecksum: MD5: ad08d938507ce8863589570aec0912eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_adv1.html
+SPDXID: SPDXRef-item1104970
+FileChecksum: SHA1: d6efa86e665fcacda1bf4172d80ce9fc43570b88
+FileChecksum: MD5: b70c507b738ace7ffcb91f245f3931cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/bitpacking.html
+SPDXID: SPDXRef-item1104971
+FileChecksum: SHA1: 21f9c09cd1e74113802cc435695fd2a19700490f
+FileChecksum: MD5: 3f514c9e3639f9a6c2e4f700dcd4ef98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_writeclear.html
+SPDXID: SPDXRef-item1104972
+FileChecksum: SHA1: a25224442238f847d8f18480da905eb0184148bf
+FileChecksum: MD5: 90ace1ee2eb7c12f6ba6a8195d39015b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_packet_clear.html
+SPDXID: SPDXRef-item1104973
+FileChecksum: SHA1: 8c27aa358e81cd1762119285a7f54d98dfa5adfe
+FileChecksum: MD5: d6589ac96b54905b9214df54e2817a92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_writeinit.html
+SPDXID: SPDXRef-item1104974
+FileChecksum: SHA1: edaf678fee1fbe0cfd88c3df2e3994951badcf7b
+FileChecksum: MD5: d85afe01052cc776858472df0e5b18da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_read1.html
+SPDXID: SPDXRef-item1104975
+FileChecksum: SHA1: 6deff893f7ca2f0d7b3cc54d053baa578865d313
+FileChecksum: MD5: 5020649d5af8e57277be3b0cb55013c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_packets.html
+SPDXID: SPDXRef-item1104976
+FileChecksum: SHA1: bc075216adefc87fbc11fc09d09ed3da6550fbf5
+FileChecksum: MD5: 307907423aed75fefd0c25f1471815c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_packetout.html
+SPDXID: SPDXRef-item1104977
+FileChecksum: SHA1: 95d0903ae79cdcdb09670b8afe1d9356cee584e5
+FileChecksum: MD5: e744c4b2c33c2f83a75ec8f870dc0b0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_iovec_t.html
+SPDXID: SPDXRef-item1104978
+FileChecksum: SHA1: a028f5b79e0c268f9060235d7b34c972157d7357
+FileChecksum: MD5: 6fb7f2a2bac041eedd3df0660bf42b86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_bos.html
+SPDXID: SPDXRef-item1104979
+FileChecksum: SHA1: a49ce43b55b9be74d3e142bad7984c56878db7a2
+FileChecksum: MD5: ff711a6f698e89b5671e118dd06ca80e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/decoding.html
+SPDXID: SPDXRef-item1104980
+FileChecksum: SHA1: cf58419740ceb2843dcf9d7a0d887ede2012e45b
+FileChecksum: MD5: 79c8b9ee9b9e55fa0e8b50d741ea6b4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_continued.html
+SPDXID: SPDXRef-item1104981
+FileChecksum: SHA1: e1cdf87b90b03686f6cc34ddad5d69806e847b48
+FileChecksum: MD5: ad4aa1a3beb22636833921f18e06605c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_stream_pageout.html
+SPDXID: SPDXRef-item1104982
+FileChecksum: SHA1: b0a41141bf8f66bd56ff4f33f2f8076ae8939f3e
+FileChecksum: MD5: 16ddd6426e0568606aed7a12245c391f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_get_buffer.html
+SPDXID: SPDXRef-item1104983
+FileChecksum: SHA1: 0c22ce1e47c2a14db00b53eb94c106b6e72f48e2
+FileChecksum: MD5: b5bd493ef2f3c0d174cad74f9611a3b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_sync_init.html
+SPDXID: SPDXRef-item1104984
+FileChecksum: SHA1: e2f43605cabf3ffc4b32739133b36994308f9ce4
+FileChecksum: MD5: 3199eedd8b24e8ce380a4bcd1aa4075e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/ogg_page_pageno.html
+SPDXID: SPDXRef-item1104985
+FileChecksum: SHA1: 649aa74cfe91b0dff7ca654455ca6a459fc4cb3a
+FileChecksum: MD5: 9b2856669c4f8031d60aba75858da90f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/encoding.html
+SPDXID: SPDXRef-item1104986
+FileChecksum: SHA1: 44a445118726e9c31d78826e06bfb1988a8d3ccf
+FileChecksum: MD5: 0c6a94a8d2bbeedf5eb5b9cb28518644
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_look.html
+SPDXID: SPDXRef-item1104987
+FileChecksum: SHA1: 7073b2fca8b94720e0d6dc06ab8b1dede678ac37
+FileChecksum: MD5: 927a6fb349d026894baa21279a7c0d69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/libogg/oggpack_read.html
+SPDXID: SPDXRef-item1104988
+FileChecksum: SHA1: f0bbaef46a6365473d38ec0a4dc45a12c9c89aee
+FileChecksum: MD5: 781c7e42aa98a58d8831077423ef4f10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/white-ogg.png
+SPDXID: SPDXRef-item1104989
+FileChecksum: SHA1: 8b8df23b9951d69ce9064c31600a10af6b6ba96f
+FileChecksum: MD5: 4c932c925fe540b8734fdf49b24897c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/white-xifish.png
+SPDXID: SPDXRef-item1104990
+FileChecksum: SHA1: 1a9cae73512084d40ae660262624b4a71b42e724
+FileChecksum: MD5: 84d9a382bb3d55caee1a9b2abc71b4e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/Makefile.am
+SPDXID: SPDXRef-item1104991
+FileChecksum: SHA1: 6291d4541353fd61321ce61af002de74e8eb8ba7
+FileChecksum: MD5: 2ce861f7aab0ac0c841e7bba3c87a195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/fish_xiph_org.png
+SPDXID: SPDXRef-item1104992
+FileChecksum: SHA1: 0f97e0569e674ce22f006c66d1f4cacfbd5288fa
+FileChecksum: MD5: 574c0fff4d87e3da976a05f644e8f25e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/vorbisword2.png
+SPDXID: SPDXRef-item1104993
+FileChecksum: SHA1: 3da21c7b3f48f1476dc59098b503924bfbab3c18
+FileChecksum: MD5: eb6f0abe60f2ad73f2518a5b911e06bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/doc/oggstream.html
+SPDXID: SPDXRef-item1104994
+FileChecksum: SHA1: 61820dd6cd244353ee3b7ee256e60192d4bd184b
+FileChecksum: MD5: 30ddd00a8b409e0c485aeac8e27b8037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/missing
+SPDXID: SPDXRef-item1104995
+FileChecksum: SHA1: 14c13c2106a25f52b9220288add50989f483f79e
+FileChecksum: MD5: ba67d589a17b479cb3f568cd7b52b0c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/ogg.pc.in
+SPDXID: SPDXRef-item1104996
+FileChecksum: SHA1: 8272634e5edb3a287eabb7429bf2b9bee1683ceb
+FileChecksum: MD5: e025d0a24f4cb210439754bbfb4da661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/macosx/Ogg_Prefix.pch
+SPDXID: SPDXRef-item1104998
+FileChecksum: SHA1: 592d32f3e6ac86e690d5dcc5f7192a01957b1017
+FileChecksum: MD5: 5c0f2d13639e6292c358aafee19ac2a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/macosx/Ogg.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item1105000
+FileChecksum: SHA1: 924b6b50f800371eaf69d334f9b34c0f33a30fbc
+FileChecksum: MD5: 148e6a1d1198689f80366f301a31d93a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/macosx/Info.plist
+SPDXID: SPDXRef-item1105001
+FileChecksum: SHA1: 4f8aa6fc9174e3460a9ca11694b6815d7c4a8fa8
+FileChecksum: MD5: afc9ecc3d6e6382c49c0db870d2ae0ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/macosx/English.lproj/InfoPlist.strings
+SPDXID: SPDXRef-item1105003
+FileChecksum: SHA1: b7a3a949760f506cc664cc47c10cc0db086ffd2f
+FileChecksum: MD5: 0bfc2b16f10b1483ef1f0af9a9c6d5c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/CHANGES
+SPDXID: SPDXRef-item1105004
+FileChecksum: SHA1: 3f71a5e1c642ca079d082276debd8a322a1c6682
+FileChecksum: MD5: 4f0e47b1bc24c92d08ed73872a93cf65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/README
+SPDXID: SPDXRef-item1105005
+FileChecksum: SHA1: 21f12c18e77853a6b92c6e9b7d3e9c68c943d2e5
+FileChecksum: MD5: c3c669c9f2be46bb80e71a40fb92318c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2010/libogg_dynamic.vcxproj
+SPDXID: SPDXRef-item1105008
+FileChecksum: SHA1: c9bef6697018942c95903d1bb0265cc6aaa3b885
+FileChecksum: MD5: 9c6f03777fd37472d159ed8a09359799
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2010/libogg_dynamic.sln
+SPDXID: SPDXRef-item1105009
+FileChecksum: SHA1: 6292ea133da98b65edb7ee92fe56ba6d8d633e41
+FileChecksum: MD5: d18d234323622c253f059d92ffc09bf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2010/libogg_static.sln
+SPDXID: SPDXRef-item1105010
+FileChecksum: SHA1: e8a89fe7c93d208e491a9ab8475592137a41960f
+FileChecksum: MD5: 21fd1494a86d022b1f4c49370e5734ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2010/libogg_static.vcxproj
+SPDXID: SPDXRef-item1105011
+FileChecksum: SHA1: c3f2eda16f6bb95c760fcc8de7812a1445e13c0f
+FileChecksum: MD5: a7b2afe8977ee051d8590af224b02e9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2005/libogg_dynamic.sln
+SPDXID: SPDXRef-item1105013
+FileChecksum: SHA1: c33b84ecd2f7a12cf1672ff8b7b017f80083be2f
+FileChecksum: MD5: c491da14ea64ede8d444353e2801de4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2005/libogg_static.sln
+SPDXID: SPDXRef-item1105014
+FileChecksum: SHA1: 3e8cf5a2ccb152e6e1538480a7b0c210f471ad1f
+FileChecksum: MD5: e88efedbd99eecd9c65609e0d392376a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2005/libogg_static.vcproj
+SPDXID: SPDXRef-item1105015
+FileChecksum: SHA1: 8db34f43b6002f46f9d7669a3e3134d19ae25ad4
+FileChecksum: MD5: fe6359c463bc518cfd17ee92d610bdc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2005/libogg_dynamic.vcproj
+SPDXID: SPDXRef-item1105016
+FileChecksum: SHA1: dbc28da258e7b7244f1299162332e7876a099930
+FileChecksum: MD5: e9216d3d4f87e6d53045957a80fccae7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2003/libogg/libogg.vcproj
+SPDXID: SPDXRef-item1105019
+FileChecksum: SHA1: 4af828efc2f282a47e986fca2b5931ea3dce097d
+FileChecksum: MD5: 7d5b5d11cdcbfbd89b5cdaeb549cfdec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2003/ogg.sln
+SPDXID: SPDXRef-item1105020
+FileChecksum: SHA1: 30d5de1788e3d06733890d32be56be45ade78654
+FileChecksum: MD5: 63503ebf1c99e384bf44dd1411cf8397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS6/ogg_static.dsp
+SPDXID: SPDXRef-item1105022
+FileChecksum: SHA1: b3c853c93f9bb308e38216597f4bd58db0934cbf
+FileChecksum: MD5: b4bb24bd4312cbdd33190354d43662e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS6/build_ogg_dynamic_debug.bat
+SPDXID: SPDXRef-item1105023
+FileChecksum: SHA1: 991bf0c3b4874d44e4edd91217b1c0ca9311cfba
+FileChecksum: MD5: c6b5aee48a7adaadadcd9c73a4f61b74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS6/build_ogg_dynamic.bat
+SPDXID: SPDXRef-item1105024
+FileChecksum: SHA1: 4fdbce3fc07f6bbbeb7fdaa13626c4a32cbf6c90
+FileChecksum: MD5: 89c98592a3c36ec7183cbaf9058350ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS6/ogg_dynamic.dsp
+SPDXID: SPDXRef-item1105025
+FileChecksum: SHA1: d41075fc37850cdb8b26fe941ec029098e46eac6
+FileChecksum: MD5: d5ae1ebc2e76d4747ae5bab9b7a4d907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS6/ogg.dsw
+SPDXID: SPDXRef-item1105026
+FileChecksum: SHA1: 47bce0aa3337ae27840c548840432c9689712e5b
+FileChecksum: MD5: 240eda2d49691cd2331e588da42e26b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS6/build_ogg_static_debug.bat
+SPDXID: SPDXRef-item1105027
+FileChecksum: SHA1: 3803e28d55343c9e8cd5f8b3d9423e98e5167413
+FileChecksum: MD5: 5d5a6afeb079a5ff87be700b94702ce5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS6/build_ogg_static.bat
+SPDXID: SPDXRef-item1105028
+FileChecksum: SHA1: 40f3ee47479318ab7d73615a5cda008435b06e29
+FileChecksum: MD5: 10c7e10b3250f061bce305f0ed32a9b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/ogg.def
+SPDXID: SPDXRef-item1105029
+FileChecksum: SHA1: cd8f7d19f8081446bbe3bdbd89bc0aa09607c7ea
+FileChecksum: MD5: 576136008533f6e3e250976f4b275631
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2008/libogg_dynamic.sln
+SPDXID: SPDXRef-item1105031
+FileChecksum: SHA1: b61b48e2f8f923a685417b67d931954539a38635
+FileChecksum: MD5: a754cf14a321fa18b3d5bb479b3381b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2008/libogg_static.sln
+SPDXID: SPDXRef-item1105032
+FileChecksum: SHA1: cc720d4f4f06922522858bc7a214907eab8e1cee
+FileChecksum: MD5: fd37f51fba13c579f0eb626d9ff97e20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2008/libogg_static.vcproj
+SPDXID: SPDXRef-item1105033
+FileChecksum: SHA1: 52d55d721b31a581a0a354cbff0f429b293a547e
+FileChecksum: MD5: 83e4c4527f8f06eac51ac0cf9f8d7389
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/win32/VS2008/libogg_dynamic.vcproj
+SPDXID: SPDXRef-item1105034
+FileChecksum: SHA1: ef18106b37ca65ddd699373f4653101c24d8db19
+FileChecksum: MD5: 6399f8ae5880e28832d7bb37a525fd13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/ogg.m4
+SPDXID: SPDXRef-item1105035
+FileChecksum: SHA1: b87d387035f37784146e4f3bb7b4458c6383dc35
+FileChecksum: MD5: b7be29763929261d527dc331d2c3b6ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/configure.in
+SPDXID: SPDXRef-item1105036
+FileChecksum: SHA1: 88a12f13eeb7b6bc369e181bc7a1c505ac914915
+FileChecksum: MD5: 635aedc9841de71dbc4711635892cd40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/config.guess
+SPDXID: SPDXRef-item1105037
+FileChecksum: SHA1: 50be04e7fa0ecd9af363483541bd8b0a403b20f5
+FileChecksum: MD5: 9c01fa8c4554cb2c7b92c95dfa0dbfcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/include/Makefile.in
+SPDXID: SPDXRef-item1105039
+FileChecksum: SHA1: 53e3754b8dea5014b3e561cc9ae4982f4e483572
+FileChecksum: MD5: e2a63bd8960c82fee31416869d93fbe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/include/Makefile.am
+SPDXID: SPDXRef-item1105040
+FileChecksum: SHA1: 7c7a1e09b8315c06d9248ba5e5919afcb5f4de5a
+FileChecksum: MD5: a28eee9058c22b4d876f43c86af9052e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/include/ogg/os_types.h
+SPDXID: SPDXRef-item1105042
+FileChecksum: SHA1: b838e2cafc0da8146555cfdf3f063601e4ff3779
+FileChecksum: MD5: ab846a9134675fac25ad67316794002d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/include/ogg/Makefile.in
+SPDXID: SPDXRef-item1105043
+FileChecksum: SHA1: 02a2b90e0dfb39d087308dccdbde63e6def790b0
+FileChecksum: MD5: 2295d4fc1d60facf039506eeb81ba66e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/include/ogg/ogg.h
+SPDXID: SPDXRef-item1105044
+FileChecksum: SHA1: 00536d74744fbd3715c269b65e4c1ed0a7ad5b22
+FileChecksum: MD5: b2359f5f5db629ddbe471f4912eaea36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/include/ogg/Makefile.am
+SPDXID: SPDXRef-item1105045
+FileChecksum: SHA1: aea3eee793b1ca3256203dbc8ad46fdee57b13c4
+FileChecksum: MD5: 6cb86cd6b86367b40af4de4405abf019
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/include/ogg/config_types.h.in
+SPDXID: SPDXRef-item1105046
+FileChecksum: SHA1: 3a7e35597abe70c6e0bac6ab16b686af9e11aa16
+FileChecksum: MD5: f0ad97e32b55cad686a47ad149af8b42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libogg-1.3.2/depcomp
+SPDXID: SPDXRef-item1105047
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-IETF-style
+LicenseName: IETF-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-IETF
+LicenseName: IETF
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

@@ -1,0 +1,3627 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libtheora-1.1.1-r1-patched.tar.gz_1571458759.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:19:19Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libtheora
+PackageVersion: 1.1.1
+PackageFileName: libtheora-1.1.1-r1-patched.tar.gz
+SPDXID: SPDXRef-upload380
+PackageDownloadLocation: http://downloads.xiph.org/releases/theora/libtheora-1.1.1.tar.bz2
+PackageHomePage: http://xiph.org/
+PackageSummary: <text>Theora Video Codec</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libtheora version 1.1.1</text>
+PackageChecksum: SHA1: 0310719fd3169415afffd9c03359309a00152172
+PackageChecksum: MD5: cb0ef577ef67cd3e9fbe19804018c408
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload380
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/libtheora.spec
+SPDXID: SPDXRef-item882796
+FileChecksum: SHA1: ae2a7e53322f98afaaeb65c63b857edc51f0349a
+FileChecksum: MD5: 21ce7b9ed501777908c58e4d50f44c67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/compile
+SPDXID: SPDXRef-item882797
+FileChecksum: SHA1: 13f9666fe96898a9bccdee1ea2d62ee91d795a13
+FileChecksum: MD5: d62ab7d10a79b295897b39e4b8565fd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/SConstruct
+SPDXID: SPDXRef-item882798
+FileChecksum: SHA1: 0d905ecd22ac67650accfe058c289c5d4cafeda3
+FileChecksum: MD5: d2145f340d805ee9777bdd52861a94b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/install-sh
+SPDXID: SPDXRef-item882799
+FileChecksum: SHA1: 118c746ed40d53972ece1d50eb9a05da733ac0dc
+FileChecksum: MD5: e7e174685c6ae852e4b5e7431fddc5c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: NTP
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/mkinstalldirs
+SPDXID: SPDXRef-item882800
+FileChecksum: SHA1: 7735a8f807663c1464e767386b41b293158723c1
+FileChecksum: MD5: ce1fb6b579015b49d94f3b093f4cb332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-ref
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/theoraenc-uninstalled.pc.in
+SPDXID: SPDXRef-item882801
+FileChecksum: SHA1: 6ea07a15550f43d62d7e4e6a99eb3d6c15898c27
+FileChecksum: MD5: fdbcd1f0131391569a42915af8859107
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/aclocal.m4
+SPDXID: SPDXRef-item882802
+FileChecksum: SHA1: 6bdb59cbdfd0660dc330ee9dc969af96bcb2b669
+FileChecksum: MD5: 0c2b36c925a5737ccbded9afcd6d94c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/theoraenc.pc.in
+SPDXID: SPDXRef-item882803
+FileChecksum: SHA1: 236771e7f078afe08dc4c60e4157f66e4bf89a44
+FileChecksum: MD5: 6f53db8487b8436cd8650865eb4e90cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/Makefile.in
+SPDXID: SPDXRef-item882804
+FileChecksum: SHA1: 525ab65e7ea1f455a34c3946ef94ccab42ac8af6
+FileChecksum: MD5: 03a035bfab7b168c1ac0d09384aaa7e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/COPYING
+SPDXID: SPDXRef-item882805
+FileChecksum: SHA1: 5c1d4d8f603100ce87f5dab2182b9641c505bcd1
+FileChecksum: MD5: cf91718f59eb6a83d06dc7bcaf411132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/configure
+SPDXID: SPDXRef-item882806
+FileChecksum: SHA1: c08246eafe134de578158cad28f99c7ea9581835
+FileChecksum: MD5: c70b65ddb90259f5edd7cb726e7a8e7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/ltmain.sh
+SPDXID: SPDXRef-item882807
+FileChecksum: SHA1: 7b99cc1697c2172cbb5b4950603714642754e3f9
+FileChecksum: MD5: 9a141f9af55eb731c36072a0f57104c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/encoder_example.c
+SPDXID: SPDXRef-item882809
+FileChecksum: SHA1: c51a4ccdbf24daa7ae724ab57f1f7728052ff68e
+FileChecksum: MD5: ce65f5ac772fcf15ac79950ff92fb991
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/Makefile.in
+SPDXID: SPDXRef-item882810
+FileChecksum: SHA1: cf33ce7cfc79d8bda9be67c7d4f2ea08b26f0007
+FileChecksum: MD5: 9dd6597602eb1ca13fda2d227722b8a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/png2theora.c
+SPDXID: SPDXRef-item882811
+FileChecksum: SHA1: 0f8ccee707a923eb15360b7a44388902727108ba
+FileChecksum: MD5: 5c004944f78fbc45e74537ae43ae7bff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/dump_psnr.c
+SPDXID: SPDXRef-item882812
+FileChecksum: SHA1: 2e7c63a3d38eaf0f94291afa7c7819af4411e824
+FileChecksum: MD5: 3adbf74c152878a6c4fa07848de3f257
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/Makefile.am
+SPDXID: SPDXRef-item882813
+FileChecksum: SHA1: bcf53200db9de475516e109c4d44c778a2fc10e5
+FileChecksum: MD5: 18888ae45ad3ff7b6e7cec5e8020870f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/getopt.h
+SPDXID: SPDXRef-item882814
+FileChecksum: SHA1: b3439e650abaefdf8641d7d995ea410c2575ddcf
+FileChecksum: MD5: 5a3ad0009de84afcf45622223bb43808
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/dump_video.c
+SPDXID: SPDXRef-item882815
+FileChecksum: SHA1: 2434ce3dc6d29a794407b4059b0576df8c2b0dba
+FileChecksum: MD5: 877e08c029c7f2045df985b276c1dde6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/getopt1.c
+SPDXID: SPDXRef-item882816
+FileChecksum: SHA1: 1f2cad321ad6d9729fc6841d4929cd86f52797da
+FileChecksum: MD5: 505293a1f5d196a46c09cffe85e687f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/getopt.c
+SPDXID: SPDXRef-item882817
+FileChecksum: SHA1: 26c28c45d148f06425300344ca4c711607ad2c2a
+FileChecksum: MD5: 13295a1fd222c764f2228492cd713e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/examples/player_example.c
+SPDXID: SPDXRef-item882818
+FileChecksum: SHA1: 3d8bfe2c1d8f8756315f84342217408a92a6cd46
+FileChecksum: MD5: 7baae381d6ac7ac8021b20a8cd3c7064
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/theora.pc.in
+SPDXID: SPDXRef-item882819
+FileChecksum: SHA1: 08ad7c61424a3b0c715b6d1c3589a8ca6ae43a26
+FileChecksum: MD5: 9834c0f0fc60751a55a1c814e3794742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/symbian/config.h
+SPDXID: SPDXRef-item882821
+FileChecksum: SHA1: 31477f17d17766c8d0fa745d3152d7919c18be25
+FileChecksum: MD5: 1f63ef3c75bfbb096b0169b1d03d9319
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/symbian/theora.mmp
+SPDXID: SPDXRef-item882822
+FileChecksum: SHA1: 2d22347f9bde902b2571e5cd35eabf8eac20df18
+FileChecksum: MD5: 9b975bb582a61e7d47d6b374a90635f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/symbian/bld.inf
+SPDXID: SPDXRef-item882823
+FileChecksum: SHA1: c2e880b9f5dc1cbc01cc9b1ea1e347199a5acfe2
+FileChecksum: MD5: 3e99349c0f3be6fb3a4eb8494b2f895e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/m4/sdl.m4
+SPDXID: SPDXRef-item882825
+FileChecksum: SHA1: 54d3c1e85b64d7f430566a94a9740c943068453c
+FileChecksum: MD5: 1036b22a1812b851c42353f745afd5e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/m4/vorbis.m4
+SPDXID: SPDXRef-item882826
+FileChecksum: SHA1: b30655fa458b0b6db6cc2787322b8ed16eca5558
+FileChecksum: MD5: f950d4a8dc9835d6ca636ddaabb0a5e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/m4/Makefile.in
+SPDXID: SPDXRef-item882827
+FileChecksum: SHA1: 05027c7496cde764c3a52897d17b48f9919a2bcc
+FileChecksum: MD5: 4adb43a82b84215242ecd43464602ebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/m4/as-ac-expand.m4
+SPDXID: SPDXRef-item882828
+FileChecksum: SHA1: d9e18190b9400343c7b5648ba6098a35695786c4
+FileChecksum: MD5: 06b8870c6d4e93116b439eaf75be9329
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/m4/Makefile.am
+SPDXID: SPDXRef-item882829
+FileChecksum: SHA1: c23fbb7081ed58c9bb5a3663f93cef4c08a4a3dc
+FileChecksum: MD5: 827031e4d7e93397b0ace75daca4354f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/m4/ogg.m4
+SPDXID: SPDXRef-item882830
+FileChecksum: SHA1: 286ddaa2f8cc344c5bc4e2381f633b173a4b9b66
+FileChecksum: MD5: 272cde7c1a60ae7cf569c67330edde41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/m4/pkg.m4
+SPDXID: SPDXRef-item882831
+FileChecksum: SHA1: 36ceb1b5014b55df700b79442c04db6755f3c365
+FileChecksum: MD5: 84f4c817d89ea6239ba46654334db49a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/theoraenc.exp
+SPDXID: SPDXRef-item882833
+FileChecksum: SHA1: aea95b06991d88b3d4a09e6c323bd0039f83948e
+FileChecksum: MD5: 2e6fed5284b0ad3fc6a8038b6bbdf958
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/decapiwrapper.c
+SPDXID: SPDXRef-item882834
+FileChecksum: SHA1: b58a02bf3b71eba25a88fa451c3315a87306a40e
+FileChecksum: MD5: 77f63e1b96f6e192466b2d07532e5aed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/encfrag.c
+SPDXID: SPDXRef-item882835
+FileChecksum: SHA1: 0760212b0049f63280ad0818548372afee7fcf19
+FileChecksum: MD5: 99f9a1998879e77e51b815d15a3872bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/dct.h
+SPDXID: SPDXRef-item882836
+FileChecksum: SHA1: 7f60fd2c13fcddb9cef9ab4a4db92d3e66037b37
+FileChecksum: MD5: 9e2b8be23d96714802f93dd28bed4647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/dequant.c
+SPDXID: SPDXRef-item882837
+FileChecksum: SHA1: c7fafe778d542cf8b65fbc34ac384c5d82564c96
+FileChecksum: MD5: 1362822ffdeb3892af9454c9cae85db0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/mathops.c
+SPDXID: SPDXRef-item882838
+FileChecksum: SHA1: edd26a97f739497e2d8a73ed251af6dc43897870
+FileChecksum: MD5: f6bfb0391f5dff41f81a2a692a9f0dcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/encinfo.c
+SPDXID: SPDXRef-item882839
+FileChecksum: SHA1: 6d764109f5fef33eb951a1213f42a98ed3b30089
+FileChecksum: MD5: 937b634a00ff80e2adb5cfb7bbce3772
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/rate.c
+SPDXID: SPDXRef-item882840
+FileChecksum: SHA1: dffba3a695f9b168d6c7669b83570346f65a48d5
+FileChecksum: MD5: e50159626828dbf68978c8e7d69f0b2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/apiwrapper.h
+SPDXID: SPDXRef-item882841
+FileChecksum: SHA1: f9c56803f96567d5aa46459504572278a200af61
+FileChecksum: MD5: 8e35700fc142c7916cbec10c9721710f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/state.c
+SPDXID: SPDXRef-item882842
+FileChecksum: SHA1: e77189e38b266baf3bb24c2caf898cd32086eeaa
+FileChecksum: MD5: 57c6202aaa2d83aa293fb79152050963
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/Version_script-enc
+SPDXID: SPDXRef-item882843
+FileChecksum: SHA1: 6371f64a6e6fcd3c695d2f29ceba94efdb635402
+FileChecksum: MD5: 34630dbdb53f4c9208335e3a0d53fe87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/theoradec.exp
+SPDXID: SPDXRef-item882844
+FileChecksum: SHA1: a0aab83997e74b8710d18b73f59d26cf8ddc8847
+FileChecksum: MD5: 450980b11b0aaf1b8ca0fe682f26e878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/Version_script
+SPDXID: SPDXRef-item882845
+FileChecksum: SHA1: 79547a4f97bf16d2a735b6cf3eff816dc963161b
+FileChecksum: MD5: 473b38e433153c1ac60db267e725b585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/decint.h
+SPDXID: SPDXRef-item882846
+FileChecksum: SHA1: b98b689e756245f7f8f896ca5cdad9f29fc6e3f5
+FileChecksum: MD5: 1df9fffe4d39ae978edb0c6ecf2b1dce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/encoder_disabled.c
+SPDXID: SPDXRef-item882847
+FileChecksum: SHA1: 098856a3a7bbde3762cb9902ffad3480f3f3bdfd
+FileChecksum: MD5: 8e712b9457fe26b784dd24a4d49b17c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/tokenize.c
+SPDXID: SPDXRef-item882848
+FileChecksum: SHA1: 8c4f07ab38c1d726cb4e0f494890953f466ed018
+FileChecksum: MD5: 30c8fb7244081a9ed4926d49d949f57f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/theora.exp
+SPDXID: SPDXRef-item882849
+FileChecksum: SHA1: 4d778d1f9673d5a382596a78f56d2478d7849828
+FileChecksum: MD5: a13abeb9cb319985ac545065b2cba3fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/Makefile.in
+SPDXID: SPDXRef-item882850
+FileChecksum: SHA1: 74993be6e82c479355398e18a5f7aa9ffa23ab95
+FileChecksum: MD5: 089c97ae9b86965dfaaffbb281c2abdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/decinfo.c
+SPDXID: SPDXRef-item882851
+FileChecksum: SHA1: c61f718a573e5edaac006cc87a1e203984232628
+FileChecksum: MD5: c0881508cb83237e7cdb0df6ce9d140e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/bitpack.c
+SPDXID: SPDXRef-item882852
+FileChecksum: SHA1: a812eb966aa9fecaa9ffdb08a21cf4f90778f59f
+FileChecksum: MD5: 3bc07f75d827a379ba8afc77f9ea627a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/huffdec.h
+SPDXID: SPDXRef-item882853
+FileChecksum: SHA1: dd6b0239daba50801fb96a2c99fe9329d513b724
+FileChecksum: MD5: e24e806151e0944f19000aff03058f97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/huffenc.h
+SPDXID: SPDXRef-item882854
+FileChecksum: SHA1: 6367ae8b995f3e8408df82f345801a115adeb435
+FileChecksum: MD5: 8f8e234be524d101461790d5dab9d6cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/encapiwrapper.c
+SPDXID: SPDXRef-item882855
+FileChecksum: SHA1: 76c7a130cc1b3252077ca446cf0bd08969af99b4
+FileChecksum: MD5: 9589a925b130d7868ec28276f3bf542c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/quant.h
+SPDXID: SPDXRef-item882856
+FileChecksum: SHA1: dba29e1f1837ef0457f774703738c105591ca488
+FileChecksum: MD5: 8d5159402f44fba42bff4243875ef2d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/info.c
+SPDXID: SPDXRef-item882857
+FileChecksum: SHA1: 1c6b6d023c661030e5353766636c3cc3824bb7fa
+FileChecksum: MD5: a75ac8c1faafbc8e7ba50a6a4600cbce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/Makefile.am
+SPDXID: SPDXRef-item882858
+FileChecksum: SHA1: 6d9181c293b7932db89bc9b4f908ecb6ee6b1b2c
+FileChecksum: MD5: 6c43c63a58e983701d36cbb2f6850cad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/quant.c
+SPDXID: SPDXRef-item882859
+FileChecksum: SHA1: 59d1598f359316f67be6416fa05bf6a2e9a32e4f
+FileChecksum: MD5: 83267b6d5a0e2d158946fe224b41be4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/modedec.h
+SPDXID: SPDXRef-item882860
+FileChecksum: SHA1: 3db709ff8dd2af3b5a055977f664478b2ca6b106
+FileChecksum: MD5: 1c20bb01e2137eb7ecc9b0fd0b6c7c0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/huffenc.c
+SPDXID: SPDXRef-item882861
+FileChecksum: SHA1: c9fdcbeffd08ce6b2b51a8e835bef9aa39179980
+FileChecksum: MD5: 38170fdad13277874092495ec2c1ff17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/dequant.h
+SPDXID: SPDXRef-item882862
+FileChecksum: SHA1: 87321dfbb553775eb7b9fa61db68bbab541e8161
+FileChecksum: MD5: d6fa757eb2ee4102606707f5c27c8f2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/Version_script-dec
+SPDXID: SPDXRef-item882863
+FileChecksum: SHA1: 4c8d527c3731b1195cfad73e68155e326efb1252
+FileChecksum: MD5: 5d4ffced7639a8f1ec6558db2ee7e62b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/huffman.h
+SPDXID: SPDXRef-item882864
+FileChecksum: SHA1: 756daed99938123ff19d497ab9a005219886c56b
+FileChecksum: MD5: 0f03a006e52e5c63d0e15341eea03ea7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/apiwrapper.c
+SPDXID: SPDXRef-item882865
+FileChecksum: SHA1: aa7ffd84b4c448fa06cec0956a72db2b707927b8
+FileChecksum: MD5: ad85f8065d17cd3be502a163ba414d51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/fragment.c
+SPDXID: SPDXRef-item882866
+FileChecksum: SHA1: cff86cfe318bd2dd208b3a43019bd5a5a7b50a85
+FileChecksum: MD5: 145f955ed1d2ff773e61786937391db6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/encint.h
+SPDXID: SPDXRef-item882867
+FileChecksum: SHA1: 5cd4a3867d4c90d2f61844fa31445f9623e5c186
+FileChecksum: MD5: e7bc7450997f78ecccc7af19ae87cd99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/analyze.c
+SPDXID: SPDXRef-item882868
+FileChecksum: SHA1: 8ed0c13edb473c99ebc1808fc56b42ef3675cbae
+FileChecksum: MD5: 35e4b3d92e57d97e8a76f923138d5b43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/cpu.h
+SPDXID: SPDXRef-item882869
+FileChecksum: SHA1: cd98bc3aa665dbe9fdcf5808e3a89932d8f29f0d
+FileChecksum: MD5: da04fcf7dd4b85e5add9616e3482f8d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/huffdec.c
+SPDXID: SPDXRef-item882870
+FileChecksum: SHA1: 8e7d386fffce91c0262e8b62701da25c77926add
+FileChecksum: MD5: 2251ba707a8239873338968f5f51b078
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/encode.c
+SPDXID: SPDXRef-item882871
+FileChecksum: SHA1: aca958c14007ac689cff7c20d975176a1b299dd2
+FileChecksum: MD5: a4616c0c9d80ebd8f1d7c5e17ae93891
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/bitpack.h
+SPDXID: SPDXRef-item882872
+FileChecksum: SHA1: 8f94b96903b806123fc356c581e18b5c15884050
+FileChecksum: MD5: aea0f7d790095220c7a546c36e65e6d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/ocintrin.h
+SPDXID: SPDXRef-item882873
+FileChecksum: SHA1: cc9f0682dc3b345a35217b8699cef56c8d236b10
+FileChecksum: MD5: aa85264af02266d7010b246f1a7461d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/enquant.c
+SPDXID: SPDXRef-item882874
+FileChecksum: SHA1: 96885289095f3347876cf63d0cc08aeac9d7f1dd
+FileChecksum: MD5: 9c9e796d453152dc68130d458de38338
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/internal.c
+SPDXID: SPDXRef-item882875
+FileChecksum: SHA1: f074fa6949778c171d16642e1a6f8c0e5e5a03b6
+FileChecksum: MD5: 703cfa0a79806db7fbeb8a9d9e3e3455
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/enquant.h
+SPDXID: SPDXRef-item882876
+FileChecksum: SHA1: f13ff0dff7238a23b71349836ce15eeb9144502f
+FileChecksum: MD5: ae81ee29a01f2dabbd2896117fc5f539
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/mmxencfrag.c
+SPDXID: SPDXRef-item882878
+FileChecksum: SHA1: 1d801851e86e3454e3f394b7141aaa85a2b2dbdc
+FileChecksum: MD5: cfed752230d2abd303c1e2187eeb09ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/mmxstate.c
+SPDXID: SPDXRef-item882879
+FileChecksum: SHA1: da069b404cd6e82ec587654a68803886cf767acc
+FileChecksum: MD5: d261684367bda5c5ad3c3e30657574b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/mmxidct.c
+SPDXID: SPDXRef-item882880
+FileChecksum: SHA1: dd8884ccf95076a2144b40d72a2116c8472fc2d6
+FileChecksum: MD5: 74c8b19741af59781a78644dd6bcc8b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/x86enc.h
+SPDXID: SPDXRef-item882881
+FileChecksum: SHA1: 7ecae68b7535664527579dd5d354a7847cf23b60
+FileChecksum: MD5: db1346c338f0dab76b4bbbc6cc820aef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/mmxloop.h
+SPDXID: SPDXRef-item882882
+FileChecksum: SHA1: 7386309f56f658c214b5930a594f5c54d9b2d959
+FileChecksum: MD5: aecde86ca7695f5cb0e94bfb1437e4e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/x86enc.c
+SPDXID: SPDXRef-item882883
+FileChecksum: SHA1: 7dc200a0ad408a7e2d9d79e964b51bd81ad884d4
+FileChecksum: MD5: 0b4ee8d89fd37d9deeb8e64ca2e028a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/mmxfrag.h
+SPDXID: SPDXRef-item882884
+FileChecksum: SHA1: 0b628b252f52e729f2f03f614da7a21f47527972
+FileChecksum: MD5: 1efb97bb81c7274f84ad38612dac399f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/mmxfdct.c
+SPDXID: SPDXRef-item882885
+FileChecksum: SHA1: dcb06a7faf34a1fbec4a4da6004714e5f6af0cdb
+FileChecksum: MD5: f022052ff41fff217b954156a9420686
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/x86int.h
+SPDXID: SPDXRef-item882886
+FileChecksum: SHA1: d4ffe134365ab8e2be49db7364828a9dab26e734
+FileChecksum: MD5: 6f6953db1803c0699f95656a27f33116
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/x86state.c
+SPDXID: SPDXRef-item882887
+FileChecksum: SHA1: e27f9a328ca6b52c9d92f5e2ba7c8e5b744984a3
+FileChecksum: MD5: d0288373dec8a3abfa914f7324180bf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86_vc/mmxfrag.c
+SPDXID: SPDXRef-item882888
+FileChecksum: SHA1: aedeb71afb1db34cfd3cfe659ff3baccf87ae787
+FileChecksum: MD5: 7cb453376852a6e06c129e796081a78d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/idct.c
+SPDXID: SPDXRef-item882889
+FileChecksum: SHA1: ea39dec673ef856221d17de31d027e328128b81c
+FileChecksum: MD5: 775388905aeb9526825970b79ed44f1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/cpu.c
+SPDXID: SPDXRef-item882890
+FileChecksum: SHA1: a7219233fe30bf3e69076d5593eec68018df9653
+FileChecksum: MD5: c5c4b8d8e1158728d1cbeab2c9ccd524
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/decode.c
+SPDXID: SPDXRef-item882891
+FileChecksum: SHA1: aa56a86b31e614d13590559eafe9cec59dd23dcd
+FileChecksum: MD5: 5223eb5d277d48fccc368dc2edba701e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/mmxencfrag.c
+SPDXID: SPDXRef-item882893
+FileChecksum: SHA1: 81f51298cd47529f5da5c044df37b927b019aa53
+FileChecksum: MD5: e0c892304c9e7694a618bfc939c519e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/mmxstate.c
+SPDXID: SPDXRef-item882894
+FileChecksum: SHA1: 441c3e97441effae2c8f06c3ad51bc18ec75b9a9
+FileChecksum: MD5: e718c01f88ce7d91a6031bde4c79cc78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/mmxidct.c
+SPDXID: SPDXRef-item882895
+FileChecksum: SHA1: 3569f2f1f42d5d905034454f2677a3e09ed1f944
+FileChecksum: MD5: 14733438f4b00c43b884b266ab7e3217
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/x86enc.h
+SPDXID: SPDXRef-item882896
+FileChecksum: SHA1: e22a82a5bfb36776f21802ed1eecd38bd1297af5
+FileChecksum: MD5: e7181b2d0ba47433341e9f2c94f38bdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/mmxloop.h
+SPDXID: SPDXRef-item882897
+FileChecksum: SHA1: 00eccb72b4b84dd65d1a5c01b4a18663831c2099
+FileChecksum: MD5: d62761aa6373605f9185a98df717748a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/x86enc.c
+SPDXID: SPDXRef-item882898
+FileChecksum: SHA1: 65c153d140c7bd1d6608bd8bb2eb347d90026c80
+FileChecksum: MD5: 1e2075b26226d95e936b4ca32b94b4ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/mmxfrag.h
+SPDXID: SPDXRef-item882899
+FileChecksum: SHA1: a8dc06ac679f0e52f6513889e752f6f7753f7dfb
+FileChecksum: MD5: b3335b4bc482af23507e2ad8f91f6ae6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/mmxfdct.c
+SPDXID: SPDXRef-item882900
+FileChecksum: SHA1: b027d4d72cf5057a5c74f461973050fd7107b151
+FileChecksum: MD5: 840d5e628f84a1b524af8cc79c99f631
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/x86int.h
+SPDXID: SPDXRef-item882901
+FileChecksum: SHA1: 777de3033ff07762c9f6b0e82a383b49c5028ed8
+FileChecksum: MD5: e1b41e7fb53a8eb7d2953c0e6cc1e8f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/x86state.c
+SPDXID: SPDXRef-item882902
+FileChecksum: SHA1: e27f9a328ca6b52c9d92f5e2ba7c8e5b744984a3
+FileChecksum: MD5: d0288373dec8a3abfa914f7324180bf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/sse2fdct.c
+SPDXID: SPDXRef-item882903
+FileChecksum: SHA1: 2a6628341169999d113e1337900f357daac76695
+FileChecksum: MD5: 6bb98d8a15ebe044e3c2c2e620d714b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/x86/mmxfrag.c
+SPDXID: SPDXRef-item882904
+FileChecksum: SHA1: db12e7b005d2bd992ce6dae32a524de6671bd16a
+FileChecksum: MD5: 48030b8da66644e883397128e7d4474a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/fdct.c
+SPDXID: SPDXRef-item882905
+FileChecksum: SHA1: 25dd14c21cc45fa82e2b7fe8c083e779e6e33706
+FileChecksum: MD5: 75503b026b548ccdc6e788bfee3b61e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/mathops.h
+SPDXID: SPDXRef-item882906
+FileChecksum: SHA1: 71a83c4d1a3ebdc0bb96702263a3dad57548bea7
+FileChecksum: MD5: a4beaaf7dd156de9728975e00a8aeb89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/internal.h
+SPDXID: SPDXRef-item882907
+FileChecksum: SHA1: 57c4500d7ab536946140d1b07fe0f32fa576fc61
+FileChecksum: MD5: d744a0780dada937de6b66121ef1fea2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/lib/mcenc.c
+SPDXID: SPDXRef-item882908
+FileChecksum: SHA1: af77a430cda4aed3dd78f61e935b742920d55fa2
+FileChecksum: MD5: 74778cf19be1005c974a7bc25e6f6dcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/config.h.in
+SPDXID: SPDXRef-item882909
+FileChecksum: SHA1: e88c493b2b3f6a2bc3f2165c3f2aa1335b169c7d
+FileChecksum: MD5: ade6d907b508ac38a0e3b0949282c2c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/Makefile.am
+SPDXID: SPDXRef-item882910
+FileChecksum: SHA1: a4c6153163cac0dea412d3a72b4ed14e57d771db
+FileChecksum: MD5: d92c7d4abb0d0833d3899c659c683927
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/AUTHORS
+SPDXID: SPDXRef-item882911
+FileChecksum: SHA1: 1f5b47e6bc3b77796c87333c1e0e32fc28fd8866
+FileChecksum: MD5: 522b10b2cc94fa18509d55e071b090f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/config.sub
+SPDXID: SPDXRef-item882912
+FileChecksum: SHA1: 3a41324284b6a2960bdc31a72dbce615571c8a97
+FileChecksum: MD5: 2cae972bdd36f215dfa400ecbe91ec16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/theora-uninstalled.pc.in
+SPDXID: SPDXRef-item882913
+FileChecksum: SHA1: 506ff2c1940950491a6e1d216030993167bbf51a
+FileChecksum: MD5: b020cdfcd3d940fbb799ad866eb6ac7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/Makefile.in
+SPDXID: SPDXRef-item882915
+FileChecksum: SHA1: 8ef7f2a302b7c2071ce628428e49b2f95d4c1372
+FileChecksum: MD5: 5b886d38c005a08b5504a16aa204b7fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/noop_theora.c
+SPDXID: SPDXRef-item882916
+FileChecksum: SHA1: 79b703e8214d748244bd7cf607f28963e5738f8e
+FileChecksum: MD5: ce02733dc72767578049d51a081ac190
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/granulepos.c
+SPDXID: SPDXRef-item882917
+FileChecksum: SHA1: fba93fe1e4365b7d57f1163d7338f6c3edbd1773
+FileChecksum: MD5: 51458750ed3d431448bcf87f9e10d5c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/Makefile.am
+SPDXID: SPDXRef-item882918
+FileChecksum: SHA1: 84a0e7cf43c8b8e887a04403ad563da25beb4813
+FileChecksum: MD5: 95d123fc1719938b98749b2aadb9cdb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/tests.h
+SPDXID: SPDXRef-item882919
+FileChecksum: SHA1: 6b908a1ab02459534b44251d3397ff14345064b9
+FileChecksum: MD5: e17e4c8183712cc989a4cc1e4fdda6ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/granulepos_theora.c
+SPDXID: SPDXRef-item882920
+FileChecksum: SHA1: c9479af291cbdf49a4652fc6389d6afaff7b2526
+FileChecksum: MD5: aaccb04d029b5d99b639fb47cdb07489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/comment_theora.c
+SPDXID: SPDXRef-item882921
+FileChecksum: SHA1: cbc88bca46dfaafe8b049a6080477f8191a4eaf4
+FileChecksum: MD5: c767c90fe276d09304c3bf029743984d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/noop.c
+SPDXID: SPDXRef-item882922
+FileChecksum: SHA1: db88c1c86edd9db92f5d70b239f9a8b81b9c8880
+FileChecksum: MD5: 428640450dab6f54a6a2247853af1044
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/tests/comment.c
+SPDXID: SPDXRef-item882923
+FileChecksum: SHA1: 38d247381ac1becd54436b391dc0b7c2c9e2d377
+FileChecksum: MD5: 08bb76b7b440d0cc3b72aab872cd3fdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/Theora.pdf/Theora
+SPDXID: SPDXRef-item882928
+FileChecksum: SHA1: 2852e102b4d53594276db729f49d079f9951a40f
+FileChecksum: MD5: e504da4a26736b20143c9f507e41ef1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/reference-frames.fig
+SPDXID: SPDXRef-item882929
+FileChecksum: SHA1: 1c04244d4c617972d216fe7a2e912e4c295b3fbd
+FileChecksum: MD5: 8ac222d79c19ff3756b59e2e5d6f3576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/pixel422.fig
+SPDXID: SPDXRef-item882930
+FileChecksum: SHA1: e5589f93239665019882197deebad2e60163adb0
+FileChecksum: MD5: 3da9cf68d63d0efc3a1f78ad03765c2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/pic_odd.fig
+SPDXID: SPDXRef-item882931
+FileChecksum: SHA1: 51f5d8504179e6934f06f44cca25334c03d7b535
+FileChecksum: MD5: 0d07d70d35bb814793175be15ee8baba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/lflim.fig
+SPDXID: SPDXRef-item882932
+FileChecksum: SHA1: 7b237296d07d7019bc272739be9c5264b1d85dd9
+FileChecksum: MD5: 42323a6b7cbbe443afe74da1a8375357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/Makefile.in
+SPDXID: SPDXRef-item882933
+FileChecksum: SHA1: 34f5dc5e86a5a06b663097487beb121eff1bc188
+FileChecksum: MD5: 1e706e998c549507f6338f339b8831ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/fdct.fig
+SPDXID: SPDXRef-item882934
+FileChecksum: SHA1: 488ea2d326cd88dcdbe7fe30b668eea6a76f298a
+FileChecksum: MD5: 0ce846977a49916ccb5bfb7c4fe2b621
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/pic_odd_even.fig
+SPDXID: SPDXRef-item882935
+FileChecksum: SHA1: 4d64be4c6aae82be213d5279407d881c684dbc25
+FileChecksum: MD5: 3672ca6da5c26d6a6a94e79b6fae3bf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/ltablex.sty
+SPDXID: SPDXRef-item882936
+FileChecksum: SHA1: 740d3d1ac07a754e9fc092ad601500f6921f6cba
+FileChecksum: MD5: 63114642a66a1095d78435d8dde6d12a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/pic-frame.fig
+SPDXID: SPDXRef-item882937
+FileChecksum: SHA1: 7f7464541e3279f4e820162b6b53d73f8051c13e
+FileChecksum: MD5: deaac58c89df7369f07d728ce05676dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/spec.bib
+SPDXID: SPDXRef-item882938
+FileChecksum: SHA1: 08140297a9b26302bad0b09fc76f9d5a24169de7
+FileChecksum: MD5: ed000537078f87a9d1eddc944b9b90bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/vp3huff.c
+SPDXID: SPDXRef-item882939
+FileChecksum: SHA1: 7602b0d3ac9377415fe43c73f4067a459b9248f0
+FileChecksum: MD5: 9672b06945cb7d57c75ca432774d6727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/Makefile.am
+SPDXID: SPDXRef-item882940
+FileChecksum: SHA1: e997c7792d8377ed75ea103d52fe262e918c6a8d
+FileChecksum: MD5: d8f7d365ef8ab47f8abcd681ebc81e9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/pixel444.fig
+SPDXID: SPDXRef-item882941
+FileChecksum: SHA1: c6351276199254267da14ae1f83a9283968c4ef6
+FileChecksum: MD5: 325bd4be2898fb06f68a3ce699f9ae8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/pixel420.fig
+SPDXID: SPDXRef-item882942
+FileChecksum: SHA1: 78c55670ee5f0578f809bf53e5a58cd07955c664
+FileChecksum: MD5: bc7622f732f94ee91541efac2927b6d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/hilbert-block.fig
+SPDXID: SPDXRef-item882943
+FileChecksum: SHA1: cd7512827368faac556c1ca63a2e9761e17bedac
+FileChecksum: MD5: 26ef1d9012b018d6cfbe4157bc0e3777
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/hilbert-mb.fig
+SPDXID: SPDXRef-item882944
+FileChecksum: SHA1: 18d99ca4e0a0ce5c01e0c099fdee084412c607a7
+FileChecksum: MD5: e759e29f3728b9075d7560b7d56aa6d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/pic_even_odd.fig
+SPDXID: SPDXRef-item882945
+FileChecksum: SHA1: cd86133a2b8cb2df89320bb2dc32b3ecea851c6c
+FileChecksum: MD5: 80c320159ead2aff86a469b4bc463270
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/macroblock.fig
+SPDXID: SPDXRef-item882946
+FileChecksum: SHA1: 01988c2f5968985fb989054097c52aa0be4a25ff
+FileChecksum: MD5: 6e44bf8528cecb4b7ae5e73e47c132b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/superblock.fig
+SPDXID: SPDXRef-item882947
+FileChecksum: SHA1: d53fdee8a19c9c6350d889a1c2647ecc11b36fae
+FileChecksum: MD5: 51641a536c114c25689500ea1354018c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/spec.tex
+SPDXID: SPDXRef-item882948
+FileChecksum: SHA1: 759fea2aefc94d67284d892a5ccad266df8be141
+FileChecksum: MD5: 67685c1ae44ded78445c1e86a34deb0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/pic_even.fig
+SPDXID: SPDXRef-item882949
+FileChecksum: SHA1: dfd29302f230ed7df2ebb19d4ffcb191d299d20b
+FileChecksum: MD5: f31923ccff010653d920207f37ee97dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/xifish.fig
+SPDXID: SPDXRef-item882950
+FileChecksum: SHA1: ebd9dea6b064739feae3a67acc626536ea23819b
+FileChecksum: MD5: 9363fbac686c82b89d24c57e4e9f205c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/idct.fig
+SPDXID: SPDXRef-item882951
+FileChecksum: SHA1: 329ee77f9f3a62c709cc1c1157934b8ba88bc665
+FileChecksum: MD5: dcc19db7b5291f2770418302724c7c7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/spec/raster-block.fig
+SPDXID: SPDXRef-item882952
+FileChecksum: SHA1: e855431d96fdf6ad4e885cea8b80b91a2664ba51
+FileChecksum: MD5: a0a0af5f52eae371a28927c6d0189954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structyuv__buffer.tex
+SPDXID: SPDXRef-item882955
+FileChecksum: SHA1: 1eb488b06be79c3dd16e9abca93b141838f4bfec
+FileChecksum: MD5: 24566f0a0329774a4934c0be9114aba8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/Makefile
+SPDXID: SPDXRef-item882956
+FileChecksum: SHA1: bc3248062e9f8c88bde25244333103f4e0660d09
+FileChecksum: MD5: f7eac7eb57dc29809ff0d739f65e0912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/group__encfuncs.tex
+SPDXID: SPDXRef-item882957
+FileChecksum: SHA1: 9c70ab070791c1a3836a5832fbc56a8b4e12702e
+FileChecksum: MD5: 21956dbbcb8e89aae355cd8d7e7c03ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structtheora__comment.tex
+SPDXID: SPDXRef-item882958
+FileChecksum: SHA1: 0afdc58c1135a96e422654aa8c46cf3685ddc3da
+FileChecksum: MD5: 32afc79d5c376f9e42812fdf4acec469
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/theora_8h.tex
+SPDXID: SPDXRef-item882959
+FileChecksum: SHA1: 19886f160c6ad249885ab7b834ecfc19c3792262
+FileChecksum: MD5: 9b6868e5cef3a998f22f6466da2d449d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structth__quant__info.tex
+SPDXID: SPDXRef-item882960
+FileChecksum: SHA1: 8fc6494833a3919fb2d651c3b4606b78f44ed44f
+FileChecksum: MD5: f857f822cb93d05074ab5f983584d1d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structth__comment.tex
+SPDXID: SPDXRef-item882961
+FileChecksum: SHA1: 1d2ba4c29293282f62088f8c5ee5008e184eec49
+FileChecksum: MD5: 62179456bf8a58a91f21737a9cd26f83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/files.tex
+SPDXID: SPDXRef-item882962
+FileChecksum: SHA1: e30e8b4343091162842e3ec8474986878d2578cd
+FileChecksum: MD5: 6b5cfff16c7886e49822a7357f34f45c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structth__info.tex
+SPDXID: SPDXRef-item882963
+FileChecksum: SHA1: e05e47bf651af91625b407ac038d909e8f08def4
+FileChecksum: MD5: 25f24420bd2e08fff20b29564a7bd76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/group__basefuncs.tex
+SPDXID: SPDXRef-item882964
+FileChecksum: SHA1: 0e8501f17b270911573621e969eecaeb5e43d5fd
+FileChecksum: MD5: b18c18e7874384a8aacde11b6b234ae9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/group__oldfuncs.tex
+SPDXID: SPDXRef-item882965
+FileChecksum: SHA1: dd684329a4524e28709927417bb7109b20fea5e4
+FileChecksum: MD5: 196bd62180db7f7c8cad15fbaef852b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/index.tex
+SPDXID: SPDXRef-item882966
+FileChecksum: SHA1: c940288e033eaf4293568dfeb5ba80154f0c6b65
+FileChecksum: MD5: faa477ebd03c610383505608179cbd90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structth__stripe__callback.tex
+SPDXID: SPDXRef-item882967
+FileChecksum: SHA1: d87050d5c359eaf459b0e7c7661bbf4906bf7e3c
+FileChecksum: MD5: 211266472c3e794fa72c8f6f707205d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/annotated.tex
+SPDXID: SPDXRef-item882968
+FileChecksum: SHA1: a3a9fdcbe08835eea15679dba65a3d1604b0397f
+FileChecksum: MD5: 42eea6db2df6e8f75262a23e0fccb3f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/doxygen.sty
+SPDXID: SPDXRef-item882969
+FileChecksum: SHA1: 2ecc87bba3f15418ac772499fb16ddc943b60ed9
+FileChecksum: MD5: 7afdebfdc9b6e50c5c0b61991ddd3cb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structtheora__info.tex
+SPDXID: SPDXRef-item882970
+FileChecksum: SHA1: fd656b2f45a8fca9cfef7ebc1e8d8b64fad8d706
+FileChecksum: MD5: b1b36ddd3bc533b7f1181f2d7b6d7f9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structth__img__plane.tex
+SPDXID: SPDXRef-item882971
+FileChecksum: SHA1: a408934b08909a5c129fa624e88821c0531047fd
+FileChecksum: MD5: 5d62d655bcd9e489b9556e2f191b6f7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structth__quant__ranges.tex
+SPDXID: SPDXRef-item882972
+FileChecksum: SHA1: 9bdcdec2af38500d741c6d6f6e924af8e2b2b3e7
+FileChecksum: MD5: 7c7d7b15a1fba933fd18d1de75b83119
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/codec_8h.tex
+SPDXID: SPDXRef-item882973
+FileChecksum: SHA1: 29e4795c4db9677433081ec626a7c10bcaea2021
+FileChecksum: MD5: 7ecc15d5028b212fc3740c99fa53cda4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/theoradec_8h.tex
+SPDXID: SPDXRef-item882974
+FileChecksum: SHA1: a71f2b40690475d3863f88a6edf6a60f1d89a8d3
+FileChecksum: MD5: 494f4265939cb1e91eff0fc53c304cb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/group__decfuncs.tex
+SPDXID: SPDXRef-item882975
+FileChecksum: SHA1: 32ced3ff5e55dc49cc8beadb4506cf418cc5b750
+FileChecksum: MD5: 7776d4d5361d6f31fe0d5a5958e1ce4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/refman.tex
+SPDXID: SPDXRef-item882976
+FileChecksum: SHA1: 6383ec9cc6f8eeed3f3727d3d955ae3c07e67b44
+FileChecksum: MD5: 3716b90292369232bc23a4197681cc5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/modules.tex
+SPDXID: SPDXRef-item882977
+FileChecksum: SHA1: d51a81c17957982d81151d2b170b2dfe9d567b44
+FileChecksum: MD5: 070a6fadac4d6daa08d7bcb425fb7dce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structth__huff__code.tex
+SPDXID: SPDXRef-item882978
+FileChecksum: SHA1: c28d929b8605cb6501f8c4e16b49e6ca2642616d
+FileChecksum: MD5: e6541f3b84b0a9868fb7cf555a144305
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/theoraenc_8h.tex
+SPDXID: SPDXRef-item882979
+FileChecksum: SHA1: 971d709920221e562c3d5c2eda67fc6e7f145c88
+FileChecksum: MD5: 549eec670d307f3bea5fc01fa777c934
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/latex/structtheora__state.tex
+SPDXID: SPDXRef-item882980
+FileChecksum: SHA1: da1538886699ffc8b893e76e0436fdc8b1b773d9
+FileChecksum: MD5: 21be65fb782423882d9642a3e4f98f21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/tab_l.gif
+SPDXID: SPDXRef-item882982
+FileChecksum: SHA1: 1f1d13bce3dbc29d8f92a1fec0d708fb6df4a00d
+FileChecksum: MD5: 749f90bcfb2030b4f2c0d274ac3b60ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/globals_defs.html
+SPDXID: SPDXRef-item882983
+FileChecksum: SHA1: 9584009095f6f759ed884178fee300e2372add8a
+FileChecksum: MD5: ca06120210f0b9181839b2731905210d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/doxygen.png
+SPDXID: SPDXRef-item882984
+FileChecksum: SHA1: c51909fc597558ce220542b6d6c6d82be70a3ded
+FileChecksum: MD5: 33f874b8cd0ceafd80ccad649e6e7846
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structtheora__comment.html
+SPDXID: SPDXRef-item882985
+FileChecksum: SHA1: a6cad1216416fe0ac2e2e67119b7dffb4a52a0b9
+FileChecksum: MD5: 52394968b324077b2b76359a9065b367
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/modules.html
+SPDXID: SPDXRef-item882986
+FileChecksum: SHA1: 97cec679572dd1ece58d3a561428d0fb58e57511
+FileChecksum: MD5: 564f06fce3d42db16569fbefd22fe8ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/theoraenc_8h_source.html
+SPDXID: SPDXRef-item882987
+FileChecksum: SHA1: e5e6845b09df05ac6b6df220d360c5b7faa23f85
+FileChecksum: MD5: 942351a257bee2554aa9b1455f87c2f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structtheora__info.html
+SPDXID: SPDXRef-item882988
+FileChecksum: SHA1: eb539108d906bcf389664f00d72953f7ec04495f
+FileChecksum: MD5: 0732509491b31e7d7a99d6782500e65d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/theoraenc_8h.html
+SPDXID: SPDXRef-item882989
+FileChecksum: SHA1: eef4fd4f76046f1a89c62cd3ff7690f723cfbd15
+FileChecksum: MD5: 8501d066858865944059955cdd2f8818
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/globals_vars.html
+SPDXID: SPDXRef-item882990
+FileChecksum: SHA1: c553a52325ac689bcbf85dee7c9e9f3ed29ab2f0
+FileChecksum: MD5: 54c5ef83acd154b805c7d01b001514df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/tab_r.gif
+SPDXID: SPDXRef-item882991
+FileChecksum: SHA1: aa76c97558ed290511ae96e2dc47da6175b45e1a
+FileChecksum: MD5: 9802233fa0b185ac2242b8dce096cb90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/annotated.html
+SPDXID: SPDXRef-item882992
+FileChecksum: SHA1: 50206a129317525080b291a55f8ae9ff0496f124
+FileChecksum: MD5: 601f799a08e0f1d6bc3ac81556bbd8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/group__encfuncs.html
+SPDXID: SPDXRef-item882993
+FileChecksum: SHA1: 9b9d615e666b4f91054ff3d58114dd302bab9199
+FileChecksum: MD5: c791da6b93b73c8cea601fcf3927b4c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/functions_vars.html
+SPDXID: SPDXRef-item882994
+FileChecksum: SHA1: 07c32257b5fd3b81c9ce252c5465b17630119586
+FileChecksum: MD5: bb35aecea76785610081f0e39ee731f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structth__img__plane.html
+SPDXID: SPDXRef-item882995
+FileChecksum: SHA1: 842ffc68442409784ebe6262ee85d5089fba2513
+FileChecksum: MD5: caab890c2b7e7fd9c734049283d1d82b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structth__info.html
+SPDXID: SPDXRef-item882996
+FileChecksum: SHA1: 35a1ecd353acd76b534ac08e5d8393b6f080a7db
+FileChecksum: MD5: 2300ef4f43b650b34d7757bd6ac76e8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/index.html
+SPDXID: SPDXRef-item882997
+FileChecksum: SHA1: d0b3e4b861b245194cebb0e3b4a918e6b84a0dbf
+FileChecksum: MD5: 76384278c6a510b4f3fb08d645cf577f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/tabs.css
+SPDXID: SPDXRef-item882998
+FileChecksum: SHA1: 51b714c6d2b2462ae8d120326c33de0780baf6f9
+FileChecksum: MD5: c1ee53b84ad062b911957f90dc631dd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structyuv__buffer.html
+SPDXID: SPDXRef-item882999
+FileChecksum: SHA1: 0bb2fc75f1c2578c5fe106fd5611c8d051d73afc
+FileChecksum: MD5: fd991efabae0f1acfb44bde8c4ecdf70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structtheora__state.html
+SPDXID: SPDXRef-item883000
+FileChecksum: SHA1: 8e7bf9b9f236b2bc6e3a0cb315023a928e04312b
+FileChecksum: MD5: 5a4e59236c879719e07e5c2812e62b5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/group__decfuncs.html
+SPDXID: SPDXRef-item883001
+FileChecksum: SHA1: f7d94461e707733060d175bc70aa5149eea0417d
+FileChecksum: MD5: 883132647b9e5856969e8863fe69afa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structth__comment.html
+SPDXID: SPDXRef-item883002
+FileChecksum: SHA1: 6be1d5b869183dd646cd71fb8a8c60561c784133
+FileChecksum: MD5: f6760ce44ce54281153323e8ae77ddc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/globals_func.html
+SPDXID: SPDXRef-item883003
+FileChecksum: SHA1: 2bba8701d70456355c5dac7d27df80272d6d81da
+FileChecksum: MD5: 27148e13d5032787d8363f53491f8a4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/theora_8h.html
+SPDXID: SPDXRef-item883004
+FileChecksum: SHA1: 5a0be9bd048a4cf0aff10e229d6ae535bc6f5ea9
+FileChecksum: MD5: c97810da470c4a7836304f967488dd7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/doxygen.css
+SPDXID: SPDXRef-item883005
+FileChecksum: SHA1: 0f7ea93cbcc92e200641761d36d56726255bda1e
+FileChecksum: MD5: 33afa39cec583870a357556efdb9b1c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/globals.html
+SPDXID: SPDXRef-item883006
+FileChecksum: SHA1: fd4b552b3a0e950e527181d90043c0692d3c302f
+FileChecksum: MD5: 0385741b8c5ca501dbf43a01185e598f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/functions.html
+SPDXID: SPDXRef-item883007
+FileChecksum: SHA1: ca54e95707a5c2a041c3e87888f8bdd8d49a014f
+FileChecksum: MD5: 34b2227639b00e7ae74e3542b17506e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/classes.html
+SPDXID: SPDXRef-item883008
+FileChecksum: SHA1: ff99f5366cdfbad5b01779d68f04489dc23b0dd5
+FileChecksum: MD5: b7c4528b69acc7b8eb572f6a791df361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/globals_eval.html
+SPDXID: SPDXRef-item883009
+FileChecksum: SHA1: 9defa784c4471a5d7ac09c7c824632483bea49b2
+FileChecksum: MD5: 89367fe915d0a94f6be1a685ebfffff2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/tab_b.gif
+SPDXID: SPDXRef-item883010
+FileChecksum: SHA1: 67a5543ae4ea2c99cfb2cf2fcca0efc2a3b949b5
+FileChecksum: MD5: a22ef28753006f7a725a9099ade93548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/codec_8h.html
+SPDXID: SPDXRef-item883011
+FileChecksum: SHA1: 78136f4a5b49b57a05e237eee3af6f4eeaebd265
+FileChecksum: MD5: 6dd13ac355308d634ec630895c3920d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/group__oldfuncs.html
+SPDXID: SPDXRef-item883012
+FileChecksum: SHA1: 2dc899ddd361983bc03cc9d413aee45772a8f138
+FileChecksum: MD5: fb7c14dce695ae3fe3e48b8bb37559c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/globals_type.html
+SPDXID: SPDXRef-item883013
+FileChecksum: SHA1: 10ebaf3d4a4201e79c8eb3fead2607d0f8ec85db
+FileChecksum: MD5: c914f3df8b2a829459ebec403d54fee5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/theora_8h_source.html
+SPDXID: SPDXRef-item883014
+FileChecksum: SHA1: e524484e527f7a872b61f6d4a4a245c78112350f
+FileChecksum: MD5: c31076452c502b58c0960a1252ff87cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/theoradec_8h_source.html
+SPDXID: SPDXRef-item883015
+FileChecksum: SHA1: 2e1df9ec71f59c1fb2d7fafbe1d7ab091adf8b08
+FileChecksum: MD5: 31885a7f2c805bce57b2251e484faddd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structth__stripe__callback.html
+SPDXID: SPDXRef-item883016
+FileChecksum: SHA1: 165fdec23d58e6614bad40f2d60de2852e15f8e8
+FileChecksum: MD5: 7af2e9784a526c2b78bb3bd157c1332b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structth__huff__code.html
+SPDXID: SPDXRef-item883017
+FileChecksum: SHA1: 477430a35fa9724533d4e6a8367c7e4699344b32
+FileChecksum: MD5: 097ccc838a81e2754009612b3c2cd74f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/group__basefuncs.html
+SPDXID: SPDXRef-item883018
+FileChecksum: SHA1: 3d4c121ef59f3bf4a53a77f3a626fe5c4b97ac8d
+FileChecksum: MD5: 1877de9fa64577dfbff0c6c194fc0485
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structth__quant__info.html
+SPDXID: SPDXRef-item883019
+FileChecksum: SHA1: 56fb8621bdf6dea72581eb85385fd92b42ef4c3d
+FileChecksum: MD5: 61295de8b62f4bd2eab24a18c0f8ca6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/files.html
+SPDXID: SPDXRef-item883020
+FileChecksum: SHA1: d9122473a9c3ee2095dc537581ee0da1fa5d9710
+FileChecksum: MD5: 9669ccaddd5e320121a4a003832c2392
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/globals_enum.html
+SPDXID: SPDXRef-item883021
+FileChecksum: SHA1: e1bda65b90ccd07994422e5f6d2bbac104d7fa4d
+FileChecksum: MD5: 93955ad1ddce79b42f53696547404c33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/codec_8h_source.html
+SPDXID: SPDXRef-item883022
+FileChecksum: SHA1: 45ee8653d5dd6b1c5fd109aadc95463dd91347d0
+FileChecksum: MD5: ad0f47e30ae08bcf36d8a9f654586dd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/structth__quant__ranges.html
+SPDXID: SPDXRef-item883023
+FileChecksum: SHA1: 8cef7fda78556554d16159ef75e33829fa6c6b55
+FileChecksum: MD5: e5521c24c939978565a1d5a7f4ca58e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/libtheora/html/theoradec_8h.html
+SPDXID: SPDXRef-item883024
+FileChecksum: SHA1: a2dde7cf00b03252c175e3d24b46fd50e78b3ea8
+FileChecksum: MD5: f543e1d1e654a80e50e3f3ecd4560d92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/draft-ietf-avt-rtp-theora-00.txt
+SPDXID: SPDXRef-item883025
+FileChecksum: SHA1: b96b8cf9cb411a97efcf340b5ea6bf29fafce472
+FileChecksum: MD5: ffed35ab5e2e2ef28fc7f456db26c374
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-IETF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/Makefile.in
+SPDXID: SPDXRef-item883026
+FileChecksum: SHA1: f9e0150b212959d23abe337b21cd1b1ed62aa889
+FileChecksum: MD5: 899f47052da9ff19593bee7adf3f2290
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/Doxyfile.in
+SPDXID: SPDXRef-item883027
+FileChecksum: SHA1: 8c8dd3235372c145dde710617c811645ee1e0a8f
+FileChecksum: MD5: 113cad5e5a3bdc23e374478929805e26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/Makefile.am
+SPDXID: SPDXRef-item883028
+FileChecksum: SHA1: b325616c2f9c9a9eb8e9c86bf1c2c00a82215176
+FileChecksum: MD5: 0cf48ab269bc81a0fbdad4307b3304f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/color.html
+SPDXID: SPDXRef-item883029
+FileChecksum: SHA1: 14282261d418ee11ba180c34e493c406b979d240
+FileChecksum: MD5: d9151596151e201dd0923a45cf3eb693
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/vp3-format.txt
+SPDXID: SPDXRef-item883030
+FileChecksum: SHA1: 4392054848d30af662bc846d82faf2cad22ac0e7
+FileChecksum: MD5: 3d5318131dde22b6148e4039084f0249
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/doc/draft-ietf-avt-rtp-theora-00.xml
+SPDXID: SPDXRef-item883031
+FileChecksum: SHA1: ca2b0e7a3bdd206832af02136d206b0d2bbdfb18
+FileChecksum: MD5: 5d504d4a63643c5534ef5ee88f1855c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/theoradec-uninstalled.pc.in
+SPDXID: SPDXRef-item883032
+FileChecksum: SHA1: 93ccd956ab00d3aa8269dd5c0baefd3f700bc5fa
+FileChecksum: MD5: 3b32aaa1d9ab5459cfc9d120b949d249
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/missing
+SPDXID: SPDXRef-item883033
+FileChecksum: SHA1: 3830cf89148a136f4cdb1bc0c32f0a235b1b24bc
+FileChecksum: MD5: 2a8eef1110e32e279e0bbbc228155171
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/macosx/Info.plist
+SPDXID: SPDXRef-item883035
+FileChecksum: SHA1: 07df0f9152fd78b1232cea2a19f4fc5f570e99f9
+FileChecksum: MD5: 73289f39af43d6f971d041dad599bf28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/macosx/Theora.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item883037
+FileChecksum: SHA1: 58aa9ef4d9761e6d84c7b77f238386da76a84b66
+FileChecksum: MD5: 92a1a31ef9fe2a5cb83abc7c08d2edcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/macosx/Theora_Prefix.pch
+SPDXID: SPDXRef-item883038
+FileChecksum: SHA1: 0434ee587d8fd59a887275f2c8cd8199e337560b
+FileChecksum: MD5: f8de60e6c577b032ed2010cba4c5138f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/macosx/English.lproj/InfoPlist.strings
+SPDXID: SPDXRef-item883040
+FileChecksum: SHA1: 5096c4c6f1f3f7d530475a678fd080596ad16140
+FileChecksum: MD5: e4136c3b235b739f98f13958fa0add3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/CHANGES
+SPDXID: SPDXRef-item883041
+FileChecksum: SHA1: 83a1184ac82985b818883eb40f88ba757a7d74eb
+FileChecksum: MD5: c3db527e220c4afa6512f87113bf2e59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/README
+SPDXID: SPDXRef-item883042
+FileChecksum: SHA1: 674cfff8a823093f661953a6f0225828fb876fc0
+FileChecksum: MD5: 1fecb6159e02af64c6e654c88719afcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/libtheora.spec.in
+SPDXID: SPDXRef-item883043
+FileChecksum: SHA1: 46b27c1fcaf0560a74c63e8c8e106a6c217a866a
+FileChecksum: MD5: 8dd2d2dc36c5b2443e53f9aae5928a4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/build_theora_static.bat
+SPDXID: SPDXRef-item883045
+FileChecksum: SHA1: bd932b778499ad5007f17e970b3d5059c81c403e
+FileChecksum: MD5: 0c47c6587b354e136365f3f8e88b3560
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/wincompat/README.txt
+SPDXID: SPDXRef-item883048
+FileChecksum: SHA1: 67a06bdfb440a24e37c87dfec7a64606662cd8f1
+FileChecksum: MD5: 1bd88cc8dfd24e1bf210a0c948fdf4be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/wincompat/getopt_long.c
+SPDXID: SPDXRef-item883049
+FileChecksum: SHA1: 434a72d172f269525592decf78312d2604d354af
+FileChecksum: MD5: eb4436ef3db4007576f4590a5e9f4c95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/wincompat/getopt.h
+SPDXID: SPDXRef-item883050
+FileChecksum: SHA1: beb23c41804f0b0062649aa1f59669831238b01a
+FileChecksum: MD5: 086a03bef541bb5821e769dc51d582cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/wincompat/unistd.h
+SPDXID: SPDXRef-item883051
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/wincompat/getopt.c
+SPDXID: SPDXRef-item883052
+FileChecksum: SHA1: c1744b9ecdaaea574a3842a4be03bd705b473d1d
+FileChecksum: MD5: 07df4e65ab165277a56da9f0aaf25a12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause-UC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/encoderwin/encoderwin.dsp
+SPDXID: SPDXRef-item883054
+FileChecksum: SHA1: cb0c3afd1e95f14f66cdc86f67730b303b5193e2
+FileChecksum: MD5: 32d087e5df25646826ba5d52d482d6e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/encoderwin/ReadMe.txt
+SPDXID: SPDXRef-item883055
+FileChecksum: SHA1: 68fe6aabada017ca42a4a643c879048508e70794
+FileChecksum: MD5: 5b62811fd4df07d44c703720fa388c37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/transcoder/transcoder_example.c
+SPDXID: SPDXRef-item883057
+FileChecksum: SHA1: c369485ff5781dd74ce635239da0959f9fbf8636
+FileChecksum: MD5: bc06a9b67555031a7ecf7ae017fdce26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/transcoder/avi2vp3/avilib.c
+SPDXID: SPDXRef-item883059
+FileChecksum: SHA1: af3191ddf8b793ed972f1ad66a0f381c629dbf38
+FileChecksum: MD5: 6a95251f9d71dd3b2e38b5d7eefe5807
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/transcoder/avi2vp3/vp31.avi
+SPDXID: SPDXRef-item883060
+FileChecksum: SHA1: a6cb04ed2c5108721297e9e39c14a200a5e5d5e3
+FileChecksum: MD5: 9bfd6f30003d211f7f9cd6616d5422bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/transcoder/avi2vp3/outfile.vp3
+SPDXID: SPDXRef-item883061
+FileChecksum: SHA1: 205143b3c32cc835f7a36ce282530178803c0cc5
+FileChecksum: MD5: d731e228762df57e877734a677098ca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/transcoder/avi2vp3/avilib.h
+SPDXID: SPDXRef-item883062
+FileChecksum: SHA1: 62661f34aa880f47801aca32d8dd378ea53b46f4
+FileChecksum: MD5: 96eedfc848a43a84238f56c61fa78ec6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/transcoder/avi2vp3/avi2vp3.c
+SPDXID: SPDXRef-item883063
+FileChecksum: SHA1: 14365d62be4574e2ad94a48a6161cf9b4710c52f
+FileChecksum: MD5: 9c9e19ab0bafd7343acb1c96b9d494bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/transcoder/transcoder.dsp
+SPDXID: SPDXRef-item883064
+FileChecksum: SHA1: 05bf035f80f1136d0dce426a5a0fdda47ec821a2
+FileChecksum: MD5: 0f0a3126685d1bb0a43b281507f3f952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/transcoder/readme.txt
+SPDXID: SPDXRef-item883065
+FileChecksum: SHA1: 6a2e1275bf2a8a1598de5a5ba1c1bc6a6569f3ce
+FileChecksum: MD5: 9c7ecc7870c1e581edef35bffa9adc5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/experimental/dumpvid/dumpvid.dsp
+SPDXID: SPDXRef-item883067
+FileChecksum: SHA1: f51c5245655e9164ef4cbafabc3b1301fcaceabf
+FileChecksum: MD5: 16d363bf86a668fc734965476a6a1438
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/theora_static.dsp
+SPDXID: SPDXRef-item883068
+FileChecksum: SHA1: 09ec9187fa715d32ea7507d5a97c3205c506e200
+FileChecksum: MD5: 125129ce528ce70832145663de32b8cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/build_theora_static_debug.bat
+SPDXID: SPDXRef-item883069
+FileChecksum: SHA1: 990928907b89bbba8a0c50d01e5117771c1d2ae1
+FileChecksum: MD5: 570209b65aa6e61467e8003b6cb54cd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/encoder_example/encoder_example_static.vcproj
+SPDXID: SPDXRef-item883072
+FileChecksum: SHA1: afffdb30a11d7422691954b3dbaa94c861cc04c5
+FileChecksum: MD5: c28e84c01a909dfd52ea222c841d5574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/encoder_example/encoder_example_dynamic.vcproj
+SPDXID: SPDXRef-item883073
+FileChecksum: SHA1: 3beefcd83b494f8e16a862dd6a58656d441c091a
+FileChecksum: MD5: 5c44b1f40466442ca9d72a3595aa46d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/dump_video/dump_video_static.vcproj
+SPDXID: SPDXRef-item883075
+FileChecksum: SHA1: be3318575277dc635bcb83927261079436afefe9
+FileChecksum: MD5: f55fd38182e9d47a31bfdefb09d03211
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/dump_video/dump_video_dynamic.vcproj
+SPDXID: SPDXRef-item883076
+FileChecksum: SHA1: f729d7505f76d03eb13893b2dd057ca06693a94a
+FileChecksum: MD5: 9daabd712e20de93aa28586a6c11b570
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/libtheora_static.sln
+SPDXID: SPDXRef-item883077
+FileChecksum: SHA1: dcb918d27d4280b176c46df6d4538763f325af19
+FileChecksum: MD5: 563d8c9e10062a0cac306ed2fd99be97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/libtheora/libtheora_dynamic.vcproj
+SPDXID: SPDXRef-item883079
+FileChecksum: SHA1: 6dcec4902fa2501c76beeaab462320a894a85873
+FileChecksum: MD5: 0d491cc716dd5f356746f855ff9d992a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/libtheora/libtheora_static.vcproj
+SPDXID: SPDXRef-item883080
+FileChecksum: SHA1: 935745593ed5be97461da2bd2f0632a6aa971eac
+FileChecksum: MD5: 122615a3bb302f5d4c65d3c23d0ca090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/libvorbis.vsprops
+SPDXID: SPDXRef-item883081
+FileChecksum: SHA1: 64d1b84bbf40d8206069887fef1e5fa072a8dcdf
+FileChecksum: MD5: e12a623b3667f42d7d76bdf0b9520e88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/README
+SPDXID: SPDXRef-item883082
+FileChecksum: SHA1: 7b32164fbef7d0c7275fecb37bb172d541628205
+FileChecksum: MD5: ac95e42a3ebacd4c88e5766089f1b7d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/libogg.vsprops
+SPDXID: SPDXRef-item883083
+FileChecksum: SHA1: ab71365875b472cc8e4c46dc1ce2d48d85ab6b1b
+FileChecksum: MD5: 3ae095a3ae39b05c6f3e9a2724036528
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2005/libtheora_dynamic.sln
+SPDXID: SPDXRef-item883084
+FileChecksum: SHA1: a5c70e2e5ee98d1acef0753a3d70084e364ea9ca
+FileChecksum: MD5: fe72f42027f04f97f984bd1c14e2ebd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/Makefile
+SPDXID: SPDXRef-item883086
+FileChecksum: SHA1: 839b31d4195f88c55bda176717380c5bbc993933
+FileChecksum: MD5: 15e7d94db4f9d31a9e2b938442318a32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec71d.rc
+SPDXID: SPDXRef-item883087
+FileChecksum: SHA1: 519ab997296c076d3edaf3501340bdde866fade6
+FileChecksum: MD5: c19c42d3698951a760f3bc858dca04a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec70.rc
+SPDXID: SPDXRef-item883088
+FileChecksum: SHA1: f7e5ee2be853d721ee0f09961577d1067c3ee21b
+FileChecksum: MD5: ed76ffa17a80ac01cbdbc26341e00ee2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc80d.rc
+SPDXID: SPDXRef-item883089
+FileChecksum: SHA1: 60909b2991db356da00ebca86505efd33af491c6
+FileChecksum: MD5: 712a1f8320cf0d1d1187b0b496160c4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradecd.rc
+SPDXID: SPDXRef-item883090
+FileChecksum: SHA1: 6d46ff90fd1c1b0e87fb1c5ef8bcecb0f934a192
+FileChecksum: MD5: bb9c7c97b480c70a5ad757863dd62a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc.rc
+SPDXID: SPDXRef-item883091
+FileChecksum: SHA1: 0a28a06b7c472845733b1947b5d89765f4960cd7
+FileChecksum: MD5: 26372da5d1951acb014df5bfd6e05098
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec80.rc
+SPDXID: SPDXRef-item883092
+FileChecksum: SHA1: b11ba9571a664874a810ca0b4a90a3f730baa989
+FileChecksum: MD5: e9deec50614a241340266622db5f1622
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc70d.rc
+SPDXID: SPDXRef-item883093
+FileChecksum: SHA1: 1561ea3fb42e61f41116c76678dceb22c8b2ad6c
+FileChecksum: MD5: ebd28f482393bfc6fb73788b8ad3b5fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc-all.def
+SPDXID: SPDXRef-item883094
+FileChecksum: SHA1: 6675c59241bad012c0d9c4c77be2baf272a74df6
+FileChecksum: MD5: fd628f8a6425f761fe748d1914708f56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraencd.rc
+SPDXID: SPDXRef-item883095
+FileChecksum: SHA1: 2cb87f68c119975034923acdf73923541dab4e8b
+FileChecksum: MD5: 86e4c793aeaa739bf0cfc20a3022c6c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc-all.rc
+SPDXID: SPDXRef-item883096
+FileChecksum: SHA1: b5627a449ae583cf90e42e91ff2799a95b818ddc
+FileChecksum: MD5: 96af68a9b48512f7919310dd620ad61e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec-all.def
+SPDXID: SPDXRef-item883097
+FileChecksum: SHA1: 85b3a190f4be5d02f429ecaf9ed991624d4ffd90
+FileChecksum: MD5: 948bd9d9019e404e3936d352142ceb68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec-all.rc
+SPDXID: SPDXRef-item883098
+FileChecksum: SHA1: 089fade5b70db2ecefb45d26c2ff8eec03d9e413
+FileChecksum: MD5: 5ba0e215e8b09ae126075e0a0d62a267
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc71d.rc
+SPDXID: SPDXRef-item883099
+FileChecksum: SHA1: 7a81f611f3a7e3e9ac7c847a949b490603770595
+FileChecksum: MD5: 51106d85d00c291749c18f7fdc359628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc80.rc
+SPDXID: SPDXRef-item883100
+FileChecksum: SHA1: b7d2aaab50f3fbd61149b7da6b02964147ff8afb
+FileChecksum: MD5: 54aa369bedd8c185f2d0a441ac08243f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec71.rc
+SPDXID: SPDXRef-item883101
+FileChecksum: SHA1: eda433ec6083575fc2a48ab672e647e2a6dacbc3
+FileChecksum: MD5: bdf4b4615ee9e340058557a79bd1228c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc70.rc
+SPDXID: SPDXRef-item883102
+FileChecksum: SHA1: 058cb84320200bb5b167ee514f787b4238be5481
+FileChecksum: MD5: 369b319fa4a1577a402d2ea46566d930
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec80d.rc
+SPDXID: SPDXRef-item883103
+FileChecksum: SHA1: b8a74ffa377f6857578193c13a367477251b6117
+FileChecksum: MD5: 895d8f789496d06cb6198f03d3244b11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoraenc71.rc
+SPDXID: SPDXRef-item883104
+FileChecksum: SHA1: 2822e7bd0c9b2fbfe8a80486ebc245d18617292e
+FileChecksum: MD5: 75eb579c44c693c930b4412a250439d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec.rc
+SPDXID: SPDXRef-item883105
+FileChecksum: SHA1: fe0367e84aa766c5408ba5b4d9763d495623478f
+FileChecksum: MD5: 65844a8bd00e9779ebcf671b58f917ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/xmingw32/libtheoradec70d.rc
+SPDXID: SPDXRef-item883106
+FileChecksum: SHA1: 3ce9c5bf144af745ff4a56b2ea7c0ffb370ce05e
+FileChecksum: MD5: accea6d3d86592a481f937073477f7f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/getopt_win.h
+SPDXID: SPDXRef-item883107
+FileChecksum: SHA1: e45a594b0352e9c1eb835238c12e2680b71e4379
+FileChecksum: MD5: f2808bcbaa3cba567accc39972127242
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/getopt1.c
+SPDXID: SPDXRef-item883108
+FileChecksum: SHA1: b2fa15de066af4ed18a95f03547397f5dbc5ccc5
+FileChecksum: MD5: befa43e749772ef11f4679e3e1caee09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/getopt.c
+SPDXID: SPDXRef-item883109
+FileChecksum: SHA1: 5285e012936086e8442650a3dbe65163b5d809e9
+FileChecksum: MD5: ea85f66fe5918da93049aace7b7904f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/encoder_example/encoder_example_static.vcproj
+SPDXID: SPDXRef-item883112
+FileChecksum: SHA1: 59503642c4f196bafa067eabeed08db7753fe94b
+FileChecksum: MD5: 4666e760b95b9cdc95307012a776b750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/encoder_example/encoder_example_dynamic.vcproj
+SPDXID: SPDXRef-item883113
+FileChecksum: SHA1: 09eea0f0a66b9c31124f37912258716b3c46ce27
+FileChecksum: MD5: 9c1fc2f0213fd50951b7a06845e7be95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/dump_video/dump_video_static.vcproj
+SPDXID: SPDXRef-item883115
+FileChecksum: SHA1: 497aa48f9c2a69f531e6c550743cbceb4ea1bca4
+FileChecksum: MD5: 241f83dcc24b91d8f8f1d94f64ae13e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/dump_video/dump_video_dynamic.vcproj
+SPDXID: SPDXRef-item883116
+FileChecksum: SHA1: a1eeb81c7ceb78157831e8152a498c6aef32a4ee
+FileChecksum: MD5: 71f59a8bfd137dce1106b9530ee9cfaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/libtheora_static.sln
+SPDXID: SPDXRef-item883117
+FileChecksum: SHA1: e1332389ce9ab0d5b5a8b96d67e145bcfde56be7
+FileChecksum: MD5: f492a4034b7c2754a4ecf3d26c5cb1e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/libtheora/libtheora_dynamic.vcproj
+SPDXID: SPDXRef-item883119
+FileChecksum: SHA1: d42599597a2b1a8122264bd014eb91bafe74d5f0
+FileChecksum: MD5: 0d94d1fbe7abdbf7980366d147416d6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/libtheora/libtheora_static.vcproj
+SPDXID: SPDXRef-item883120
+FileChecksum: SHA1: 1ce847b4db08a65fb5707518330a40c8c6f66aa5
+FileChecksum: MD5: b33bff9c7a5f0081f38ffe884a6adc7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/libvorbis.vsprops
+SPDXID: SPDXRef-item883121
+FileChecksum: SHA1: 01f5d44a0c117a7bf3e3eb137c12494246cdb0a3
+FileChecksum: MD5: f337b08a47d699d67e31360ba6827939
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/README
+SPDXID: SPDXRef-item883122
+FileChecksum: SHA1: 7b32164fbef7d0c7275fecb37bb172d541628205
+FileChecksum: MD5: ac95e42a3ebacd4c88e5766089f1b7d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/libogg.vsprops
+SPDXID: SPDXRef-item883123
+FileChecksum: SHA1: 3a2112d5305bb2d1f65091d6150babb7ef7b9a27
+FileChecksum: MD5: 2d4230bc2ea435183183ea16244c6d5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/win32/VS2008/libtheora_dynamic.sln
+SPDXID: SPDXRef-item883124
+FileChecksum: SHA1: 2e963a3a1a0ffea749e2812173f1de6a1f544520
+FileChecksum: MD5: 9b931ecf5f0b2a15176e0bb1dd13ea91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/.pc/applied-patches
+SPDXID: SPDXRef-item883126
+FileChecksum: SHA1: 6f72ad0453a134a0b4ff3140bb3d28f29ced67a6
+FileChecksum: MD5: a59b0911d7e8b737f09c388c38c68467
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/.pc/.quilt_series
+SPDXID: SPDXRef-item883127
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/.pc/.version
+SPDXID: SPDXRef-item883128
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/.pc/.quilt_patches
+SPDXID: SPDXRef-item883129
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/.pc/no-docs.patch/Makefile.am
+SPDXID: SPDXRef-item883131
+FileChecksum: SHA1: 1f6f921acffc93f853b80b192ce474adbe1ca53d
+FileChecksum: MD5: 65114c3738132d95763aead1aa22a705
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/.pc/no-docs.patch/.timestamp
+SPDXID: SPDXRef-item883132
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/configure.ac
+SPDXID: SPDXRef-item883133
+FileChecksum: SHA1: 8dc4f1ba6baad32f45801b90d55363a6e2170ee3
+FileChecksum: MD5: 59d2c0011e3266d9791c4cbff8935b32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/LICENSE
+SPDXID: SPDXRef-item883134
+FileChecksum: SHA1: 4c559a40df35d250f51f9500520ecd805712f778
+FileChecksum: MD5: 82ccf023e3ce1aa18043edc61f948e2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file.COPYING
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/patches/series
+SPDXID: SPDXRef-item883136
+FileChecksum: SHA1: ea09a42225f32d6e8c257001eb0ba2191784e7d8
+FileChecksum: MD5: d227709c9df6ba2079b579be3378d9cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/config.guess
+SPDXID: SPDXRef-item883138
+FileChecksum: SHA1: 806e20dcca53305a245c7cb5d47cfd5e69a5680e
+FileChecksum: MD5: 9a410124d044b90b8a239012b6b78377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/autogen.sh
+SPDXID: SPDXRef-item883139
+FileChecksum: SHA1: 3a79b73e5bd57089efb243e0531c1635c4cc3d32
+FileChecksum: MD5: 18d0750c84b43a916e93551968192688
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/include/Makefile.in
+SPDXID: SPDXRef-item883141
+FileChecksum: SHA1: b5348b5ae1eb6052bcbcf524a9ef56b37bf0a8d3
+FileChecksum: MD5: 3f20e43413104fd4312ac211e758a121
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/include/Makefile.am
+SPDXID: SPDXRef-item883142
+FileChecksum: SHA1: ba4fa43fbd043848d3b1670ce89dccdb39d5b79a
+FileChecksum: MD5: 68f856f93bd8466b8edc4d6ff1945176
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/include/theora/Makefile.in
+SPDXID: SPDXRef-item883144
+FileChecksum: SHA1: 19b699dc8a564e81dd1c349019c46fd8c62449c6
+FileChecksum: MD5: 9f295c29b9d5c22fe8bbb211777aa12e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/include/theora/theoradec.h
+SPDXID: SPDXRef-item883145
+FileChecksum: SHA1: a379fbc11b776f4a6c27b8967168f948471ca00e
+FileChecksum: MD5: 674e47321083316cee728e08fc659fe8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/include/theora/Makefile.am
+SPDXID: SPDXRef-item883146
+FileChecksum: SHA1: 51e6c4e6ae7d33083745e99cbe60ec4ab818ef85
+FileChecksum: MD5: 3b71d4f9ad015aed039c5173f08b376e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/include/theora/theora.h
+SPDXID: SPDXRef-item883147
+FileChecksum: SHA1: dd26a36a71ee7a982a440ebe1f42cbebcf964176
+FileChecksum: MD5: b1591959c084d5d9402b0f24d8de5153
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/include/theora/codec.h
+SPDXID: SPDXRef-item883148
+FileChecksum: SHA1: 378a3d548b74c85ededdbf79e46e8e44a68ea583
+FileChecksum: MD5: c10b2e73e1eaaf84664d7fd2d3bf0347
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/include/theora/theoraenc.h
+SPDXID: SPDXRef-item883149
+FileChecksum: SHA1: d04aad9555fe07aee2859dae899b018a7cf0be5b
+FileChecksum: MD5: 7a68adcb6a7fe67bf98bebb48c55c993
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/depcomp
+SPDXID: SPDXRef-item883150
+FileChecksum: SHA1: 546de332e7275b4e65ca4ae0e8ce12ba11b3ff68
+FileChecksum: MD5: 0c452634f378895c5304eca13fa46cf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libtheora-1.1.1/theoradec.pc.in
+SPDXID: SPDXRef-item883151
+FileChecksum: SHA1: ec091559e9bb72d0f95355e6b7e319e848991295
+FileChecksum: MD5: 8706ed25f90c60f6154c272f27c82b79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/no-docs.patch
+SPDXID: SPDXRef-item883152
+FileChecksum: SHA1: 372d1b0050158d05acf7a53474adc37426ac3cb2
+FileChecksum: MD5: eac6ca9476bc5712c6431d5825c70072
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-IETF
+LicenseName: IETF
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD-possibility
+LicenseName: BSD-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-See-file.COPYING
+LicenseName: See-file.COPYING
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

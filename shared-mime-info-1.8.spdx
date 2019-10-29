@@ -1,0 +1,1361 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_shared-mime-info-1.8-r0-patched.tar.gz_1571460373.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:46:14Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: shared-mime-info
+PackageVersion: 1.8
+PackageFileName: shared-mime-info-1.8-r0-patched.tar.gz
+SPDXID: SPDXRef-upload422
+PackageDownloadLocation: http://freedesktop.org/~hadess/shared-mime-info-1.8.tar.xz
+PackageHomePage: http://freedesktop.org/wiki/Software/shared-mime-info
+PackageSummary: <text>Shared MIME type database and specification</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>shared-mime-info version 1.8</text>
+PackageChecksum: SHA1: e923a026995206013d0ed180587e74988a1ee884
+PackageChecksum: MD5: e4a5f081609cc9aa401cb55e6fcd13b3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload422
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/install-data-hook.patch
+SPDXID: SPDXRef-item1100922
+FileChecksum: SHA1: 707b4b074254007a49350384d523aa2acaa2baba
+FileChecksum: MD5: 977e6c5b9c544f9446de5db369b4c8b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/NEWS
+SPDXID: SPDXRef-item1100925
+FileChecksum: SHA1: 8d2ca077a21db4325b829652871888f3f218aa1a
+FileChecksum: MD5: b6229534bc428f86175a5a77df576587
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/freedesktop.org.xml
+SPDXID: SPDXRef-item1100926
+FileChecksum: SHA1: ca2fcb9445ba82c7c2aaee61a93050e9aaa4a3cf
+FileChecksum: MD5: 33025e5c82fb1f5fc87e73b0eeed1e02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/compile
+SPDXID: SPDXRef-item1100927
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/install-sh
+SPDXID: SPDXRef-item1100928
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/update-mime-database.1
+SPDXID: SPDXRef-item1100929
+FileChecksum: SHA1: 6dc06f9cc78dba62664a53d4b36cdf47cba1241a
+FileChecksum: MD5: efb00905e09f9927c9704be86e956bed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/aclocal.m4
+SPDXID: SPDXRef-item1100930
+FileChecksum: SHA1: 75bb2557b2b911ca3b751f7208749ca29f1bab0b
+FileChecksum: MD5: c8744b1025b7fb14c87eec3a96176950
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/Makefile.in
+SPDXID: SPDXRef-item1100931
+FileChecksum: SHA1: 0e771b2c2e0c5254c0686afb73f9ea984d22e08b
+FileChecksum: MD5: 10b6e6e955f3eaef16eb0961d51426ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/COPYING
+SPDXID: SPDXRef-item1100932
+FileChecksum: SHA1: 4cc77b90af91e615a64ae04893fdffa7939db84c
+FileChecksum: MD5: b234ee4d69f5fce4486a80fdaf4a4263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/configure
+SPDXID: SPDXRef-item1100933
+FileChecksum: SHA1: 00242b2f3b2331397f95ccdce354484e368fe6b6
+FileChecksum: MD5: 41139ce9a696231a8b4151ac217f7662
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/freedesktop.org.xml.in
+SPDXID: SPDXRef-item1100934
+FileChecksum: SHA1: cea94e9fbe34fbc7cee632b985514cd50d74ee4b
+FileChecksum: MD5: fcbff2461815a32080dacd9ef0297728
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/shared-mime-info-spec.xml
+SPDXID: SPDXRef-item1100935
+FileChecksum: SHA1: 0da1d9aa576f5205887349ad55e7687990e651a9
+FileChecksum: MD5: d3c0db10c07e91ddcabd57b94154ad74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/config.h.in
+SPDXID: SPDXRef-item1100936
+FileChecksum: SHA1: 30e03285f5a63b9fd253b68f1229e957381727be
+FileChecksum: MD5: 5bf1a942ef76800c94fbd13253bcf76c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/gu.po
+SPDXID: SPDXRef-item1100938
+FileChecksum: SHA1: 3b7b4431ebf9076ef1d05137215868c3b1679075
+FileChecksum: MD5: c3e15c65d03d07035963e23e489dee9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/es.po
+SPDXID: SPDXRef-item1100939
+FileChecksum: SHA1: ca39cd643646411372380716d8abda03141f5ba3
+FileChecksum: MD5: 031bc6b6166147ceafaab8de0c328de5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/id.po
+SPDXID: SPDXRef-item1100940
+FileChecksum: SHA1: 49359618a19c3f3dc5d16b80cb1abb018a69008d
+FileChecksum: MD5: 8887c1541b485a30ed93bc0b2f084e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/lt.po
+SPDXID: SPDXRef-item1100941
+FileChecksum: SHA1: 593998d3b5b65ce41155100f0d52092a2ea5500d
+FileChecksum: MD5: a23ae6f637cf64f9072cc74e825aa0a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/sv.po
+SPDXID: SPDXRef-item1100942
+FileChecksum: SHA1: dc94320a387596fd2e8e8b99239ef34ef8c9902f
+FileChecksum: MD5: b788441fe56acd1cd2d90c788f900a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ga.po
+SPDXID: SPDXRef-item1100943
+FileChecksum: SHA1: a672aa10e07c7751631e30aa5b24d5d903864e9e
+FileChecksum: MD5: f4cc44ebda5e2685962883de49dd4f00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/or.po
+SPDXID: SPDXRef-item1100944
+FileChecksum: SHA1: 50bfe009058d4ce8b724c67d2f1c713c2c5dbd31
+FileChecksum: MD5: d87303b9ed586a32f43e678822356c0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/bg.po
+SPDXID: SPDXRef-item1100945
+FileChecksum: SHA1: 118de58bbbb3da1527edabe28dbc8b0370424178
+FileChecksum: MD5: 9c2b2aee86f24394eb0d222282a196c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ar.po
+SPDXID: SPDXRef-item1100946
+FileChecksum: SHA1: 6991a19a1cfe913ffe6de5af080acfb33b877df7
+FileChecksum: MD5: f2b1b67845378b6e2fb261e575a1176b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/sr@latin.po
+SPDXID: SPDXRef-item1100947
+FileChecksum: SHA1: 5df5ba2a967ed10795c50b67bf827d5ba6f51448
+FileChecksum: MD5: 6562fdb9ce31fc993945858fbd291f8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/rw.po
+SPDXID: SPDXRef-item1100948
+FileChecksum: SHA1: 6b1438e979ec6e333a291b08eab196c0c5ad574d
+FileChecksum: MD5: faac72e25459dcda37e1e601c5885b03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/sr.po
+SPDXID: SPDXRef-item1100949
+FileChecksum: SHA1: 936c41a0ef689beb3d009be4150f37909d810a5f
+FileChecksum: MD5: ee980b4a2da8b6fc497b9fb2babce195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/Makefile.in.in
+SPDXID: SPDXRef-item1100950
+FileChecksum: SHA1: 934fc559d8b6c792372d8c7f6f7834db344971a6
+FileChecksum: MD5: a7b3d4e230c47ec28658a010d3b13810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/zh_HK.po
+SPDXID: SPDXRef-item1100951
+FileChecksum: SHA1: a110e44f837d2b91b6abb0d669057bc8c9dc34c2
+FileChecksum: MD5: b1b83fa074f9fa2d56ea5ca2a78df2b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/kk.po
+SPDXID: SPDXRef-item1100952
+FileChecksum: SHA1: 275a9ae859bdff2d62f66a82672f3f21cbe01065
+FileChecksum: MD5: 8f4df7541b8da053bae8ee3ba435476e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ca.po
+SPDXID: SPDXRef-item1100953
+FileChecksum: SHA1: e77038964523eedca5792ed09b86ae1c185c7c15
+FileChecksum: MD5: bd16cbeedb732f9a6acd7c13465e171e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ko.po
+SPDXID: SPDXRef-item1100954
+FileChecksum: SHA1: 699632d74a305ac86fb02a5895b33e53ba9c5cbf
+FileChecksum: MD5: b1f822024cb82392935f67c6c115ac5d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/oc.po
+SPDXID: SPDXRef-item1100955
+FileChecksum: SHA1: 8a6e96d56736c2e385f49ca902383fa0e7592f88
+FileChecksum: MD5: 6d6f61f9ee35979bc95a97f44a1e0c44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/pt_BR.po
+SPDXID: SPDXRef-item1100956
+FileChecksum: SHA1: de51a49dcbf06c22c5461fd61e4c57c507af75b2
+FileChecksum: MD5: 9fe455248d36537591b122cb00059954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/gl.po
+SPDXID: SPDXRef-item1100957
+FileChecksum: SHA1: 3c49eda62c3c7e74f9baf41716bc277db6d3bf61
+FileChecksum: MD5: ea1ae32e2fe7fac16b9d4d0209cb650c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/POTFILES.skip
+SPDXID: SPDXRef-item1100958
+FileChecksum: SHA1: d24beba461d1ac05abf7ddab1c102db509be0346
+FileChecksum: MD5: fcd319f9c011f09cff736cf819d5b911
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ca@valencia.po
+SPDXID: SPDXRef-item1100959
+FileChecksum: SHA1: e6d5ae175f9b803f6b2e4d4f4ba72313aab4b704
+FileChecksum: MD5: 56829084da7bef466781040790c07399
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/cs.po
+SPDXID: SPDXRef-item1100960
+FileChecksum: SHA1: 0cfc65fbc0f23bcc5737d7ede45d1103b70f720a
+FileChecksum: MD5: fce70feae3af1c0295338ccdffc95447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/cy.po
+SPDXID: SPDXRef-item1100961
+FileChecksum: SHA1: 58471eb2709b4b01e18af3151b9d2325fe9cddd1
+FileChecksum: MD5: 408c055839f38d6e85a3e0152961cb6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ka.po
+SPDXID: SPDXRef-item1100962
+FileChecksum: SHA1: 301c294c26edc3ef414996299399d359e51fa06c
+FileChecksum: MD5: 573e67938156134f5f74feaa033d894f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ml.po
+SPDXID: SPDXRef-item1100963
+FileChecksum: SHA1: e45dea839a875d819801dec430123b433b2f5be4
+FileChecksum: MD5: 8c95feb5ca7cdfe8d2e2b8c78d34e820
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/de.po
+SPDXID: SPDXRef-item1100964
+FileChecksum: SHA1: 5f46fc3393e52ced3530d37910ca2bee5bc03e6a
+FileChecksum: MD5: 6772cb96e2904678a36bf744740e409c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ms.po
+SPDXID: SPDXRef-item1100965
+FileChecksum: SHA1: c4212724896a9bb858e27a079e2aaa0dbeda6719
+FileChecksum: MD5: 6682f1ade61f57d3e3fe248626c403a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/az.po
+SPDXID: SPDXRef-item1100966
+FileChecksum: SHA1: a67cc9c7ad0f9f7450f579d6596f526ba5f4e5ca
+FileChecksum: MD5: 6f86ae73d76a071264a5baa44c1bea9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/fr.po
+SPDXID: SPDXRef-item1100967
+FileChecksum: SHA1: 3e6e173ce4e26a89e5707ee60b38bccaae0e74d9
+FileChecksum: MD5: b82375529adf3ab0172b46fb6ee532f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/nb.po
+SPDXID: SPDXRef-item1100968
+FileChecksum: SHA1: 9901ea39b216b266d32ab4354a3b6abb00e09584
+FileChecksum: MD5: cbd034cf69a8199be40d4a9916f8a0fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ru.po
+SPDXID: SPDXRef-item1100969
+FileChecksum: SHA1: ab4579ea4e5cf15f2905f6e90d895ee08b5aa882
+FileChecksum: MD5: 051ebd6f3309c963604637bd91174482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/nn.po
+SPDXID: SPDXRef-item1100970
+FileChecksum: SHA1: 737e861a711eea83771992cdb3d56e97c4176520
+FileChecksum: MD5: b39b824ec27011334936722e8cd768a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/lv.po
+SPDXID: SPDXRef-item1100971
+FileChecksum: SHA1: 1942ed8d298e93afbe61a9eb012ab5750a1c9303
+FileChecksum: MD5: c65c9549abab6a7c6e82613841fbffb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/shared-mime-info.pot
+SPDXID: SPDXRef-item1100972
+FileChecksum: SHA1: 4687704a6de53423ec7a0d8e002847eef2861626
+FileChecksum: MD5: 27836e85d5247ef1ffd9dd70fdcd69c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/he.po
+SPDXID: SPDXRef-item1100973
+FileChecksum: SHA1: e505fd03cad15356842e207ca887175d2e18ea6b
+FileChecksum: MD5: 2a41d436c6b0a8ec25333a0582d68ea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ro.po
+SPDXID: SPDXRef-item1100974
+FileChecksum: SHA1: 7cf5c88c8d8e4d19dac3bdd4d340524035d7260d
+FileChecksum: MD5: 2668149041f916dfc3a08f1ac1379dd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/sk.po
+SPDXID: SPDXRef-item1100975
+FileChecksum: SHA1: 6fd6917039764c004d750ff329cb3987fcfb75a1
+FileChecksum: MD5: 1d5e8f3651cd35fc51d283d31183573a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/wa.po
+SPDXID: SPDXRef-item1100976
+FileChecksum: SHA1: 5e17b53fdaafe0880605ed5606c29bf38fd8b381
+FileChecksum: MD5: 5353c6c1d0ebe350bab0f987fbeba954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/da.po
+SPDXID: SPDXRef-item1100977
+FileChecksum: SHA1: 9b2f254a103c6c846c2565095a5297c220c2fded
+FileChecksum: MD5: 18ddee3e4e0559a9c0a4f4d70cf5da95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/hi.po
+SPDXID: SPDXRef-item1100978
+FileChecksum: SHA1: 3bc122acc4ffc4f81399f5b81ec77d501eae1f87
+FileChecksum: MD5: 8033dd96849b13548e80ccdec4cba7d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/hu.po
+SPDXID: SPDXRef-item1100979
+FileChecksum: SHA1: 9358ab13dc893702acc03f83ba0e32b61009e83f
+FileChecksum: MD5: 3d33344d46100b826414bffa30df5288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ja.po
+SPDXID: SPDXRef-item1100980
+FileChecksum: SHA1: c533e9f2cfceb197cc56d4e518b91dd790ac9467
+FileChecksum: MD5: fb02f28449cd90333c15a5e04a3e8ba4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/be@latin.po
+SPDXID: SPDXRef-item1100981
+FileChecksum: SHA1: 88047dc2f20b7731b72030ed161e5d18ecc4c028
+FileChecksum: MD5: 6f4f7a0cfbacfe0e74507142ff2fb7c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/th.po
+SPDXID: SPDXRef-item1100982
+FileChecksum: SHA1: fa7a62d359ebc4229a109f93e8f96799bc09031e
+FileChecksum: MD5: 51db012e8c3a148b2dfd60d48c10917e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/kn.po
+SPDXID: SPDXRef-item1100983
+FileChecksum: SHA1: 0e425a5e07dee07dd9dd89151ab7e8156f9f800d
+FileChecksum: MD5: 7f79b8b788756f404424bf739cc57a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/pl.po
+SPDXID: SPDXRef-item1100984
+FileChecksum: SHA1: 98cf22b4e95d3d2f2ba5aa6960b707803da72de5
+FileChecksum: MD5: 816d245e7c1fbd75d850afde1381a901
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/fi.po
+SPDXID: SPDXRef-item1100985
+FileChecksum: SHA1: 3123c5b5f2e3f2237e5b3ccb048f5bf72f1c9b18
+FileChecksum: MD5: a2cb591b9b55f2e47c5d7a48f924ecec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/fa.po
+SPDXID: SPDXRef-item1100986
+FileChecksum: SHA1: 4e2aa5373cc386b42195f589534a62308158e408
+FileChecksum: MD5: 08e8a4cc91d854938e575d64239a9767
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/en_GB.po
+SPDXID: SPDXRef-item1100987
+FileChecksum: SHA1: 74f81d6f0a99e6e70e7a5be426bfa6c0c2103627
+FileChecksum: MD5: 7790464855762bf193bf849a32336974
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/zh_TW.po
+SPDXID: SPDXRef-item1100988
+FileChecksum: SHA1: 4e3ce0576ab913cc21811ae6210d2022effd0d57
+FileChecksum: MD5: 08b3db7ace29ba2821f63c46f453735c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/it.po
+SPDXID: SPDXRef-item1100989
+FileChecksum: SHA1: fd4f64b4b3a87cd68f04477512354e588436f65a
+FileChecksum: MD5: b5060e9c3a2d0f7dcae6f431d8ee3b61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ru_RU.po
+SPDXID: SPDXRef-item1100990
+FileChecksum: SHA1: 912541eecae16c8fe556bc3e4e436ab5331e7f21
+FileChecksum: MD5: 03a22994291d6106ce00e4a79594029a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/eu.po
+SPDXID: SPDXRef-item1100991
+FileChecksum: SHA1: fbb516ca1d3bcf59c592b09ea7cb7718ca7ccb17
+FileChecksum: MD5: 001d8dae68a920ef88fa4db550a11ce8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/uk.po
+SPDXID: SPDXRef-item1100992
+FileChecksum: SHA1: 3a78c61a7ebca41a33ff156b2e5a904c0d681993
+FileChecksum: MD5: 16ce604e0221d3f4bd0f446c97932848
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/mr.po
+SPDXID: SPDXRef-item1100993
+FileChecksum: SHA1: 069a863e4f2c926ee5624151ddba937c3cc53685
+FileChecksum: MD5: 3527846bf2890fe525d402cc6d3e7c2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/bn_IN.po
+SPDXID: SPDXRef-item1100994
+FileChecksum: SHA1: 1c40ced763055d5a328bc09187a14bf71b88a54b
+FileChecksum: MD5: 58b39c3d26d52e251d0df9356175d3ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/nl.po
+SPDXID: SPDXRef-item1100995
+FileChecksum: SHA1: a0297ad78500af8945232e8b24b7d8179b9d1026
+FileChecksum: MD5: af460351f81b4952e8648302ee6de583
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/fa_IR.po
+SPDXID: SPDXRef-item1100996
+FileChecksum: SHA1: 2ed8683692ad0704b3c8e63bc60c9b842623c5e9
+FileChecksum: MD5: 2427623c2fcd27c4511513cfb919b12b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/zh_CN.po
+SPDXID: SPDXRef-item1100997
+FileChecksum: SHA1: b901f7f89038a2c00b9986deaff33d6f94b6581b
+FileChecksum: MD5: e04d241b20f9b298d533ee0444f759bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/bg_BG.po
+SPDXID: SPDXRef-item1100998
+FileChecksum: SHA1: 3a70bb784473f29b9f9fe7e59ba0ee270a5fe5c9
+FileChecksum: MD5: bf4ee212cd1bcefc78f4372896fed08b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/te.po
+SPDXID: SPDXRef-item1100999
+FileChecksum: SHA1: bff1e807ae818a37cc333dbb65349b3bcfab4279
+FileChecksum: MD5: 393acbfbfbc114fbd206a78e851fcc7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/fo.po
+SPDXID: SPDXRef-item1101000
+FileChecksum: SHA1: 5bfd0f730b5671261ead1e42d0b5868a9beded31
+FileChecksum: MD5: 743690740945282601949db0d22da040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ia.po
+SPDXID: SPDXRef-item1101001
+FileChecksum: SHA1: c7d89909bdfcbe15e83448e72da4f1c4cf1aa5cb
+FileChecksum: MD5: 0ab5438a65d0a3ca8c345e9289782855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/as.po
+SPDXID: SPDXRef-item1101002
+FileChecksum: SHA1: 93bb6ba72142403ad6a96f0d2eb6bdafe7795949
+FileChecksum: MD5: f8ce4c2d6fbbba8ab0c9ff9e253b4fdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/tr.po
+SPDXID: SPDXRef-item1101003
+FileChecksum: SHA1: 348f6aea777b6f8f4f09d5db288ef3c5a8aee6ae
+FileChecksum: MD5: f03333611cb61851c7f666b4bb6d537a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ta.po
+SPDXID: SPDXRef-item1101004
+FileChecksum: SHA1: 9c5dd71907856f9881c63c95014754a495c13f2e
+FileChecksum: MD5: 8d780c07aab252469b896c2a31ecc598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/pt.po
+SPDXID: SPDXRef-item1101005
+FileChecksum: SHA1: 6cf9342ac0929a698f1d7dc02de86c9b38090b7c
+FileChecksum: MD5: 856a9888cdb024e1d2063b8255f1f806
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/vi.po
+SPDXID: SPDXRef-item1101006
+FileChecksum: SHA1: e0b2e6f032acdf6d89433aec893ca019ecf6b6e4
+FileChecksum: MD5: 7f964edba393be08644ae1fb5921fb74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/hr.po
+SPDXID: SPDXRef-item1101007
+FileChecksum: SHA1: 38eb9ad101d0df336812d4f0d665f91847a6df62
+FileChecksum: MD5: b4659875b76cdea1ce85cd685b42a609
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/et.po
+SPDXID: SPDXRef-item1101008
+FileChecksum: SHA1: c97335483cc60e3b80c420578e52ebf95bb49c25
+FileChecksum: MD5: 7932aa20aba22db959d6117ed00a1c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/POTFILES.in
+SPDXID: SPDXRef-item1101009
+FileChecksum: SHA1: 3fc4b82cad99538040b14c2e03bced5af07482bb
+FileChecksum: MD5: b00ab64b0cf3b7ea70b6a3cd601c2b66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/el.po
+SPDXID: SPDXRef-item1101010
+FileChecksum: SHA1: 56a33fec591f03b45cb5e26f5bb1e2c3b112db0e
+FileChecksum: MD5: 03479299f31611647f7716c362c7a6ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/sq.po
+SPDXID: SPDXRef-item1101011
+FileChecksum: SHA1: 50a368e9b9a2fa8df8013b087289f3ad658007d8
+FileChecksum: MD5: d731523b8d99807c978eb3644aa73599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/sl.po
+SPDXID: SPDXRef-item1101012
+FileChecksum: SHA1: c90c94b4c3ad11139d6a3486f7ea4df30039ceb9
+FileChecksum: MD5: 199f598d97cceaa50982a57b43cde78f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/pa.po
+SPDXID: SPDXRef-item1101013
+FileChecksum: SHA1: 2a833319dc579b0c590d315e860337c78113986e
+FileChecksum: MD5: 7cd915a9b373770feb163537518a1de5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/ChangeLog
+SPDXID: SPDXRef-item1101014
+FileChecksum: SHA1: 1d754c8231a14f0f38cb1079c185fb24bbf5c42f
+FileChecksum: MD5: 99d55ff422729a2f83ac4222a4df0813
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/LINGUAS
+SPDXID: SPDXRef-item1101015
+FileChecksum: SHA1: 07a3802ea80653d7e7ea07bafbd8f8edec95b555
+FileChecksum: MD5: 06f81f3d3399c3c44443117bc2a4277f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/po/eo.po
+SPDXID: SPDXRef-item1101016
+FileChecksum: SHA1: 467537da2b31c2387938557f20cf334cb643a883
+FileChecksum: MD5: 7717cf8f5a779e18fdc7c7b3a77cacf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/Makefile.am
+SPDXID: SPDXRef-item1101017
+FileChecksum: SHA1: 8871d90257c2d382ed8bd41d426074eb6f95afcc
+FileChecksum: MD5: aaaa870b3bae513a56ac769a674eeb3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/test-tree-magic.c
+SPDXID: SPDXRef-item1101018
+FileChecksum: SHA1: d869a2774d365409e01455d037bc917fd5ee0a24
+FileChecksum: MD5: 888c2a15d7b964da19b63eda4cba37f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/missing
+SPDXID: SPDXRef-item1101019
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/HACKING
+SPDXID: SPDXRef-item1101020
+FileChecksum: SHA1: e8c844a7f6fc7e42fd85b2e803e3f6663a6a494f
+FileChecksum: MD5: 6dd0b55b7c60b797587db727a15aad73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/test-subclassing.c
+SPDXID: SPDXRef-item1101021
+FileChecksum: SHA1: 51022a980065e4aaa72cfca2b608617acbec5c85
+FileChecksum: MD5: fcd4aac7b8a4fa889e25d5e9c7ced9d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/shared-mime-info.pc.in
+SPDXID: SPDXRef-item1101022
+FileChecksum: SHA1: 5a93f95a8b4dde56d44b57f997222192cce2f6b6
+FileChecksum: MD5: 3437a379da5d8ebee273f801cf03a67e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/README
+SPDXID: SPDXRef-item1101023
+FileChecksum: SHA1: 9e2075a0b12ec8a3d26e0a065663f97b927bd87a
+FileChecksum: MD5: 8094423e636033492da5f204bfc8166e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/.pc/applied-patches
+SPDXID: SPDXRef-item1101025
+FileChecksum: SHA1: 9b0e464e1fdb9d067fff19625b16545d9d688e8c
+FileChecksum: MD5: 04939c729eea8aa91bb20d3f8a2a50a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/.pc/.quilt_series
+SPDXID: SPDXRef-item1101026
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/.pc/.version
+SPDXID: SPDXRef-item1101027
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/.pc/install-data-hook.patch/Makefile.am
+SPDXID: SPDXRef-item1101029
+FileChecksum: SHA1: e9807e33370eabb5f9f5ff96ee8d2812a1e1723d
+FileChecksum: MD5: 97da244864cd8784a2e9452945de0290
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/.pc/install-data-hook.patch/.timestamp
+SPDXID: SPDXRef-item1101030
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/.pc/.quilt_patches
+SPDXID: SPDXRef-item1101031
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/.pc/parallelmake.patch/Makefile.am
+SPDXID: SPDXRef-item1101033
+FileChecksum: SHA1: f50edf78c4b8a14cbdb0ebf7b7a38cd1ddb9d04b
+FileChecksum: MD5: 0f31b17f69f044f885ce6c04575b62ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/.pc/parallelmake.patch/.timestamp
+SPDXID: SPDXRef-item1101034
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/configure.ac
+SPDXID: SPDXRef-item1101035
+FileChecksum: SHA1: d3ec77bee9bf96d63983756d3c13e3a99dc9de15
+FileChecksum: MD5: ba164ef7bb16ff605d340415708c9517
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/patches/series
+SPDXID: SPDXRef-item1101038
+FileChecksum: SHA1: e82a5b4dc6df14f654073d43c62f01c0abefdae8
+FileChecksum: MD5: 6e551675aa3ea53ced5c48b6eefbf2d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/update-mime-database.c
+SPDXID: SPDXRef-item1101040
+FileChecksum: SHA1: 3f69364ad79b080bc4ce881f6e65052dc3da484c
+FileChecksum: MD5: d8c045dde122a68f447eef17b8c2068f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/depcomp
+SPDXID: SPDXRef-item1101041
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shared-mime-info-1.8/ChangeLog
+SPDXID: SPDXRef-item1101042
+FileChecksum: SHA1: 5c5aec7aa97af80f2be46d0b5a10916d2511068a
+FileChecksum: MD5: 710e44c31b1cded0a3234ad23292c960
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/parallelmake.patch
+SPDXID: SPDXRef-item1101043
+FileChecksum: SHA1: 5929a2a30c54b09fe63126fce86b03abca5d7988
+FileChecksum: MD5: 0ad5c3ae8c0046cc44f1c84265b99701
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-NOT-public-domain
+LicenseName: NOT-public-domain
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Same-license-as
+LicenseName: Same-license-as
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

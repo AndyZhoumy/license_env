@@ -1,0 +1,441 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_si-tools-1_0.2-r0-patched.tar.gz_1571457859.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:04:19Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: si-tools
+PackageVersion: 0.2
+PackageFileName: si-tools-1_0.2-r0-patched.tar.gz
+SPDXID: SPDXRef-upload329
+PackageDownloadLocation: file://si-tools.tar.gz
+PackageHomePage: 
+PackageSummary: <text>Tools for si46xx AM/FM/DAB radio chip</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>si-tools version 0.2</text>
+PackageChecksum: SHA1: 77a52833dd6d3148eb747c4014ac8fe4d75ebc9f
+PackageChecksum: MD5: 4239c5a6ae667f94522a3153885f82d3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload329
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/si46xx_flash_write_typo_fix.patch
+SPDXID: SPDXRef-item848780
+FileChecksum: SHA1: 91e776d9258463d9ad6ef5c631cd22181794b905
+FileChecksum: MD5: b8f53cb1957584d88d3bc5e1a47550ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools-fm-improvements.patch
+SPDXID: SPDXRef-item848782
+FileChecksum: SHA1: 005c52c6ca607228a1c908a2ef9fb1d65c4918dc
+FileChecksum: MD5: 7857c1629f7054105cd55ea098b84276
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/Makefile
+SPDXID: SPDXRef-item848785
+FileChecksum: SHA1: 990d2674088e88f4e84846290f0cad8ee529a2ae
+FileChecksum: MD5: f3b5a2e40b2ce6aec9c392b3d25e24a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/spi.h
+SPDXID: SPDXRef-item848787
+FileChecksum: SHA1: de32c666661857d403a9dde8ab0773cb1b39c21f
+FileChecksum: MD5: fcddbf21b4792564778324e2cef5a4e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/si46xx.h
+SPDXID: SPDXRef-item848789
+FileChecksum: SHA1: dbba2615614360faa39a3cfc46280809ca959d72
+FileChecksum: MD5: 7709ca493538a3b94491e9e2870c3d96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/scripts/si_init
+SPDXID: SPDXRef-item848794
+FileChecksum: SHA1: 9a0dce8e4a5b09980e9c11869cee9aa8def10222
+FileChecksum: MD5: bff2325ed2fa215931e7fe0c46387c72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/scripts/si_firmware_update
+SPDXID: SPDXRef-item848795
+FileChecksum: SHA1: 7a80a11a4e50b3ff3755ce5c8c5e7f8ea71ea311
+FileChecksum: MD5: ab43e60dd98cb6600eaba44004b3d132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/scripts/si_scan
+SPDXID: SPDXRef-item848796
+FileChecksum: SHA1: 0140d01790b9a50e96de729ebcddcdc41b8a18d5
+FileChecksum: MD5: 456b9425f9ee9698af9a7ce38c5daeef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/scripts/si_fm
+SPDXID: SPDXRef-item848798
+FileChecksum: SHA1: 3317ee1e605cd03f8c5b1eb7405e18d68fef97eb
+FileChecksum: MD5: 355c1ab7f8b084a2f15c1fe60594e8d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/scripts/si_preset
+SPDXID: SPDXRef-item848799
+FileChecksum: SHA1: 3a8c5498f960b9099fc60458a46757bfc97bc803
+FileChecksum: MD5: eba5111ec456752a57831cd33d992a65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/si46xx.c
+SPDXID: SPDXRef-item848800
+FileChecksum: SHA1: 1ee80258a0d72bccc2f2214f9c063cc845a8305b
+FileChecksum: MD5: 11dc9a85b923f36ef88052afa00eb104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/i2c.c
+SPDXID: SPDXRef-item848802
+FileChecksum: SHA1: cce01cf4494eceb198c49ac9d7c9b698a0e8e1d0
+FileChecksum: MD5: 0cfacd1860d18c76d8ed4755ebf367a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/i2c.h
+SPDXID: SPDXRef-item848803
+FileChecksum: SHA1: 5e1d01058e016cf8548b754d3796558721c0b3e5
+FileChecksum: MD5: cde3e0883595ecbb38d5b7203c003d0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/version.h
+SPDXID: SPDXRef-item848804
+FileChecksum: SHA1: d4d3e5b91fb5027fdbde4c523474ebec9a440368
+FileChecksum: MD5: fb3296caa2ec6cfcfcef983d70fe3acb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/si_ctl.c
+SPDXID: SPDXRef-item848805
+FileChecksum: SHA1: 4cc803cd99b293a954e07c96ddbfce0ce52a43f0
+FileChecksum: MD5: 6240e58ed585eb2f34d7cb4bc0ef9083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/si_flash.c
+SPDXID: SPDXRef-item848807
+FileChecksum: SHA1: aa3d072a4ba17dbd7dae91c21243d79c1d60af8a
+FileChecksum: MD5: 6a350e2afbeb481084026d75506792e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/si46xx_props.c
+SPDXID: SPDXRef-item848808
+FileChecksum: SHA1: a6595ba3dfb55c057f68fc4e7434377df12015c9
+FileChecksum: MD5: 74356b06a0baa2e9a4e8b7102c103ef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/applied-patches
+SPDXID: SPDXRef-item848810
+FileChecksum: SHA1: c06dc48114a4db0dd7826295668fcfbb726a9b91
+FileChecksum: MD5: a8bc85d4feec5a86a5371745d0913b0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/.quilt_series
+SPDXID: SPDXRef-item848813
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/.version
+SPDXID: SPDXRef-item848815
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/si46xx_flash_write_typo_fix.patch/si46xx.c
+SPDXID: SPDXRef-item848818
+FileChecksum: SHA1: ea0866f2f88ac2beb94f1315c07250b021dce2f8
+FileChecksum: MD5: 4457d6d73937bdc98cb551683262b62f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/si46xx_flash_write_typo_fix.patch/.timestamp
+SPDXID: SPDXRef-item848820
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/si-tools-fm-improvements.patch/si46xx.h
+SPDXID: SPDXRef-item848823
+FileChecksum: SHA1: 87cd95d372b96209574425a7dae39112543b5341
+FileChecksum: MD5: 5d7123d2a43300f524aebb6b3f6850d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/si-tools-fm-improvements.patch/si_ctl.c
+SPDXID: SPDXRef-item848826
+FileChecksum: SHA1: a2bee1cf7254f31f2be25f9a3c0dcbcd92f4089e
+FileChecksum: MD5: 61a2bd08c1b7ba6783705a7e52ea7ba4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/si-tools-fm-improvements.patch/.timestamp
+SPDXID: SPDXRef-item848827
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/.pc/.quilt_patches
+SPDXID: SPDXRef-item848829
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/firmware/dab.bif
+SPDXID: SPDXRef-item848839
+FileChecksum: SHA1: 7262afda17d37338bacd3aec2d5b8a42a1c4c0a8
+FileChecksum: MD5: 315ff9e35f632e5465e933abac0f420e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/firmware/am.bif
+SPDXID: SPDXRef-item848849
+FileChecksum: SHA1: 90187eebee7be6c7281ed3683876c9a3657e8df8
+FileChecksum: MD5: 7437a12f13c6035db0b6b171fc2f09d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/firmware/patch.bin
+SPDXID: SPDXRef-item848852
+FileChecksum: SHA1: 85d051617e0d9cc7d183865ca8c9a7d4cf9a58d2
+FileChecksum: MD5: e39b82f7b7b4a7a4e645f0186486fe71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/firmware/fm.bif
+SPDXID: SPDXRef-item848859
+FileChecksum: SHA1: e7d9cc952426b16ac600d5db78087d8d915e0523
+FileChecksum: MD5: fd9aea000e194bf442a195d1c4c93e75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/spi.c
+SPDXID: SPDXRef-item848862
+FileChecksum: SHA1: 0bc3c6ef269f4660a6f8af9ac761a715fc24567b
+FileChecksum: MD5: b861554803b8b2b03b9641a9c3311b65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/si46xx_props.h
+SPDXID: SPDXRef-item848864
+FileChecksum: SHA1: abc7f1262a07768b80ca4168515487813ea47436
+FileChecksum: MD5: 502ba926b50fcf4cf27f0bfe57e3d775
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/patches/series
+SPDXID: SPDXRef-item848871
+FileChecksum: SHA1: fc337fb62b52d405eff7dcb98c75b768f4abfcb1
+FileChecksum: MD5: 94681d9a388c7c6c12104bde3c56a199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/si-tools/crc32.c
+SPDXID: SPDXRef-item848873
+FileChecksum: SHA1: 382bf9ecaca6df6d2969df5645b28a3f58d34e0e
+FileChecksum: MD5: 76519ea2901b1c7c7dc6a6d9d8a9e63f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

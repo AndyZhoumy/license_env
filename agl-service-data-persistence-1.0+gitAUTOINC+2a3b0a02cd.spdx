@@ -1,0 +1,537 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_agl-service-data-persistence-1.0+gitAUTOINC+2a3b0a02cd-r0-patched.tar.gz_1571458929.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:22:09Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: agl-service-data-persistence
+PackageVersion: 1.0+gitAUTOINC+2a3b0a02cd
+PackageFileName: agl-service-data-persistence-1.0+gitAUTOINC+2a3b0a02cd-r0-patched.tar.gz
+SPDXID: SPDXRef-upload391
+PackageDownloadLocation: gitsm://gerrit.automotivelinux.org/gerrit/apps/agl-service-data-persistence;protocol=https;branch=guppy
+PackageHomePage: https://github.com/iotbzh/agl-identity
+PackageSummary: <text>agl-service-data-persistence version 1.0+gitAUTOINC+2a3b0a02cd-r0</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>agl-service-data-persistence version 1.0+gitAUTOINC+2a3b0a02cd</text>
+PackageChecksum: SHA1: 2aa2f5ff6bc8c19fee1e41ef2de2e1e8207eb62e
+PackageChecksum: MD5: 396e018840dcf01a5a7ed64bc7a57c2a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload391
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/git/autobuild/linux/autobuild
+SPDXID: SPDXRef-item934951
+FileChecksum: SHA1: caa7c4e33df918e4608e495eb72c0ff670fd1305
+FileChecksum: MD5: ab0394e7eb804cf1381fe339dfc8aad4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/autobuild/agl/autobuild
+SPDXID: SPDXRef-item934953
+FileChecksum: SHA1: caa7c4e33df918e4608e495eb72c0ff670fd1305
+FileChecksum: MD5: ab0394e7eb804cf1381fe339dfc8aad4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.gitreview
+SPDXID: SPDXRef-item934954
+FileChecksum: SHA1: 2acab51295788b1ac106c775f328470116e5449d
+FileChecksum: MD5: 8f6bb86a0b020ccd1f6afcd448683c90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/config
+SPDXID: SPDXRef-item934956
+FileChecksum: SHA1: eb347be796bd935cee8e40d957d1c086080fe14b
+FileChecksum: MD5: 6a17b8c2609f23687f141d14dfaad331
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/packed-refs
+SPDXID: SPDXRef-item934958
+FileChecksum: SHA1: a93b14807fda3d72497ac41ae07f8819b9c6a4eb
+FileChecksum: MD5: 652e416da5f9ffa6631fae1c6e6c683c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/guppy
+SPDXID: SPDXRef-item934961
+FileChecksum: SHA1: 29eb9932630f53ec72277db73ec643bf0139b301
+FileChecksum: MD5: 614fa2b0bf42b61329b7bb5d1a236bf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/index
+SPDXID: SPDXRef-item934963
+FileChecksum: SHA1: aa209b206a7e84084aee653b9a352c7a5c827476
+FileChecksum: MD5: 67e093996955f92f987ebf5c1dd18179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/guppy
+SPDXID: SPDXRef-item934967
+FileChecksum: SHA1: 2fd4835685c0f32fece2464130449d2cdcfc809e
+FileChecksum: MD5: 0d3624c996328d3ee1b3cbde092997b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/HEAD
+SPDXID: SPDXRef-item934968
+FileChecksum: SHA1: 711dbb7fab75f4b5eda9f676c7c5c6e19bafe538
+FileChecksum: MD5: 278504466521db93d12974eab6c2a757
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/description
+SPDXID: SPDXRef-item934969
+FileChecksum: SHA1: 9635f1b7e12c045212819dd934d809ef07efa2f4
+FileChecksum: MD5: a0a7c3fff21f2aea3cfa1d0316dd816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/objects/info/alternates
+SPDXID: SPDXRef-item934973
+FileChecksum: SHA1: 49b7da24fe4f0ed608ea2d8bbf62a06549739e3a
+FileChecksum: MD5: 9b35fabb88939497ab1808332fa8858f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/info/exclude
+SPDXID: SPDXRef-item934975
+FileChecksum: SHA1: c879df015d97615050afa7b9641e3352a1e701ac
+FileChecksum: MD5: 036208b4a1ab4a235d75c181e685e5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/commit-msg.sample
+SPDXID: SPDXRef-item934977
+FileChecksum: SHA1: ee1ed5aad98a435f2020b6de35c173b75d9affac
+FileChecksum: MD5: 579a3c1e12a1e74a98169175fb913012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/post-update.sample
+SPDXID: SPDXRef-item934978
+FileChecksum: SHA1: b614c2f63da7dca9f1db2e7ade61ef30448fc96c
+FileChecksum: MD5: 2b7ea5cee3c49ff53d41e00785eb974c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/update.sample
+SPDXID: SPDXRef-item934979
+FileChecksum: SHA1: e729cd61b27c128951d139de8e7c63d1a3758dde
+FileChecksum: MD5: 517f14b9239689dff8bda3022ebd9004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-commit.sample
+SPDXID: SPDXRef-item934980
+FileChecksum: SHA1: 36aed8976dcc08b5076844f0ec645b18bc37758f
+FileChecksum: MD5: 01b1688f97f94776baae85d77b06048b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/prepare-commit-msg.sample
+SPDXID: SPDXRef-item934981
+FileChecksum: SHA1: 2b6275eda365cad50d167fe3a387c9bc9fedd54f
+FileChecksum: MD5: 7dfe15854212a30f346da5255c1d794b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/applypatch-msg.sample
+SPDXID: SPDXRef-item934982
+FileChecksum: SHA1: 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
+FileChecksum: MD5: ce562e08d8098926a3862fc6e7905199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-push.sample
+SPDXID: SPDXRef-item934983
+FileChecksum: SHA1: 5c8518bfd1d1d3d2c1a7194994c0a16d8a313a41
+FileChecksum: MD5: 3c5989301dd4b949dfa1f43738a22819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-applypatch.sample
+SPDXID: SPDXRef-item934984
+FileChecksum: SHA1: f208287c1a92525de9f5462e905a9d31de1e2d75
+FileChecksum: MD5: 054f9ffb8bfe04a599751cc757226dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-rebase.sample
+SPDXID: SPDXRef-item934985
+FileChecksum: SHA1: 18be3eb275c1decd3614e139f5a311b75f1b0ab8
+FileChecksum: MD5: 3ff6ba9cf6d8e5332978e057559b5562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/HEAD
+SPDXID: SPDXRef-item934986
+FileChecksum: SHA1: e51ca2d47fe07bcf67697ae5b6bb9828ddbaafbd
+FileChecksum: MD5: bb971c55ccd418fda0ea83de0ee285c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/persistence/index.html
+SPDXID: SPDXRef-item934989
+FileChecksum: SHA1: 66401b4326a5306c2f3efbe5257091d2dabcd5f2
+FileChecksum: MD5: 28d89007ccdc5d74821a89e9f9cc9647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/persistence/AFB-websock.js
+SPDXID: SPDXRef-item934990
+FileChecksum: SHA1: 68078086f3474f6722b13b30a6e8b7cf9f3a2e24
+FileChecksum: MD5: 16978ee94dbe3fd8cd1e24ca253e5df9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/persistence/persistence-binding.js
+SPDXID: SPDXRef-item934991
+FileChecksum: SHA1: ca58c244fa98b01344624fd3edaa54bc283dc013
+FileChecksum: MD5: 476f85acce59103d6bd38d4de99b935f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/persistence/binding-debug.css
+SPDXID: SPDXRef-item934992
+FileChecksum: SHA1: 04cab3fe65e2f821d15ca130734135c613f402e7
+FileChecksum: MD5: 43668acb7232b1b9f475938604cd513b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/CMakeLists.txt
+SPDXID: SPDXRef-item934993
+FileChecksum: SHA1: b8a2bd250c512c0b3764e7cda332d158b884ad38
+FileChecksum: MD5: 43d5efe8973aac0f7618aaa5792b396e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.gitignore
+SPDXID: SPDXRef-item934994
+FileChecksum: SHA1: 73863c4f69334f95bcdd19fe9b0c970a98b6f27b
+FileChecksum: MD5: 52f28398577b3e9e636cc6f0feada3b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/src/CMakeLists.txt
+SPDXID: SPDXRef-item934996
+FileChecksum: SHA1: b5c056cc6f0e3229cea2ef177176316cedfbe699
+FileChecksum: MD5: 681580f88a3c0209ccbde4d429fdfa56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/src/export.map
+SPDXID: SPDXRef-item934997
+FileChecksum: SHA1: ecb51300df909bc50c546355d57562a697d82ae4
+FileChecksum: MD5: 5d2d0449cb8fad7da5943876a791e59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/src/persistence-binding.c
+SPDXID: SPDXRef-item934998
+FileChecksum: SHA1: 78f4e7657f96fcefd75e71a4f72a08fee23e0e51
+FileChecksum: MD5: 669087219effe07a9d343bded3f8daf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/CMakeLists.txt
+SPDXID: SPDXRef-item935000
+FileChecksum: SHA1: 70c19dd2152a12325d95356859ec04896dd7ab79
+FileChecksum: MD5: 9fbca30093852a79d5c72c19addd12b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/etc/CMakeLists.txt
+SPDXID: SPDXRef-item935002
+FileChecksum: SHA1: ec9f9b5ce8195b795c65f5be702ee7bb41a6e373
+FileChecksum: MD5: 7054274f729d50272c1acb3e8557f3ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/etc/aft-persistence-test.json
+SPDXID: SPDXRef-item935003
+FileChecksum: SHA1: e6bb8b3f2f1a8944340cc9df85b3b60ab4eccd52
+FileChecksum: MD5: e11fa9700c6e8926844d7e49ddc4a1a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/tests/CMakeLists.txt
+SPDXID: SPDXRef-item935005
+FileChecksum: SHA1: 8e211d8de1c78f194a9be7a5cb03be4ef6411449
+FileChecksum: MD5: 76d9ccd647ad6de3d213f123738bf51c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/tests/persistence_APITest.lua
+SPDXID: SPDXRef-item935006
+FileChecksum: SHA1: 909237fdb3aae326298b6f55004bbbfacd829c0e
+FileChecksum: MD5: 5b3343ef26b761a4017e10c2ef452e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/tests/persistence_BasicAPITest.lua
+SPDXID: SPDXRef-item935007
+FileChecksum: SHA1: 16c048d20ff1e626802385bc148b7a995883cfb5
+FileChecksum: MD5: 785ac9c4649cf6a9521415977fb5b60b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENSE
+SPDXID: SPDXRef-item935008
+FileChecksum: SHA1: 49e039d1637d5d1174e4069a9f2adb3fe0954e06
+FileChecksum: MD5: 8089a3c40cff9caffd1b9ba5aa3dfd67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/cmake/FindGDBM.cmake
+SPDXID: SPDXRef-item935011
+FileChecksum: SHA1: 8a06b0076ae96dfeb87ce2d5da5a9d10fbef1a59
+FileChecksum: MD5: 8e985d59679f9b2065841fcbe92c144e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/cmake/FindBerkeleyDB.cmake
+SPDXID: SPDXRef-item935012
+FileChecksum: SHA1: 2f5032bed9218e8ee052d3df7297f7c7b8e9f7d0
+FileChecksum: MD5: e671792e075440d410422d3306ce2f29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/cmake/config.cmake
+SPDXID: SPDXRef-item935013
+FileChecksum: SHA1: ec342a53b3885a961e98339191629c1bfe6a368a
+FileChecksum: MD5: 9c30a3a81f96eab50676c14f452cd590
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/wgt/config.xml.in
+SPDXID: SPDXRef-item935015
+FileChecksum: SHA1: eb78f63bcaf3c0722a12dfecd7f49b22dbdd34a1
+FileChecksum: MD5: 21bb5706531c229a4ea69d0cca1b5c2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/README.md
+SPDXID: SPDXRef-item935016
+FileChecksum: SHA1: aa3131285a3e52981c25845c471edc5c4a1fc17e
+FileChecksum: MD5: eda688d082430d2cb6a2d2e8e8880160
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

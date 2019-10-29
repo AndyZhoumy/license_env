@@ -1,0 +1,883 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libgudev-231-r0-patched.tar.gz_1571458119.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:08:39Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libgudev
+PackageVersion: 231
+PackageFileName: libgudev-231-r0-patched.tar.gz
+SPDXID: SPDXRef-upload349
+PackageDownloadLocation: http://ftp.gnome.org/pub/GNOME/sources/libgudev/231/libgudev-231.tar.xz;name=archive
+PackageHomePage: https://wiki.gnome.org/Projects/libgudev
+PackageSummary: <text>GObject wrapper for libudev</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libgudev version 231</text>
+PackageChecksum: SHA1: e29b3a1a8765dd2fb8db3f8c6539ef6948ac67ed
+PackageChecksum: MD5: 00e24e9dfa42e5753f520e20f52fc247
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload349
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libgudev-231/NEWS
+SPDXID: SPDXRef-item854131
+FileChecksum: SHA1: f7a724b1ea70c2ae14067e1acadf9965ebd93a24
+FileChecksum: MD5: aca0cf1863d93f2b27d6ec95d85ba0b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/libgudev-1.0.sym
+SPDXID: SPDXRef-item854132
+FileChecksum: SHA1: a4d3c36ebab40edc5bebf80e78da720372afe751
+FileChecksum: MD5: 8510158072fb22c5084fa1c1585b6ff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/aclocal.m4
+SPDXID: SPDXRef-item854133
+FileChecksum: SHA1: 61145d83f47e0e6320520c1caf4d844ad3671aea
+FileChecksum: MD5: c46de690ff74241c1037fc284161e977
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gtk-doc.make
+SPDXID: SPDXRef-item854134
+FileChecksum: SHA1: dad07561dac9783dfff20eb0f07c5b6a165022d0
+FileChecksum: MD5: f4d960e9cb95fbfe0e0dabc18a291cec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/Makefile.in
+SPDXID: SPDXRef-item854135
+FileChecksum: SHA1: d721130cbbc7d7a71907346a03b61cc02796fe12
+FileChecksum: MD5: 89a2c9719a7589b207a83e948dafb8c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/COPYING
+SPDXID: SPDXRef-item854136
+FileChecksum: SHA1: 01a6b4bf79aca9b556822601186afab86e8c4fbf
+FileChecksum: MD5: 4fbd65380cdd255951079008b364516c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/configure
+SPDXID: SPDXRef-item854137
+FileChecksum: SHA1: 3c007d1d309264568c6990228e7e5cd3ed631bb6
+FileChecksum: MD5: 5cd33d4a2c5b714e006c264cda307fef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev-1.0.pc.in
+SPDXID: SPDXRef-item854138
+FileChecksum: SHA1: bf5e064e8aa99eaba51cbc3ceff33223d25fbc41
+FileChecksum: MD5: 185bdab476cf091aa1d29b832d7f76ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/scripts/seed-example-enum.js
+SPDXID: SPDXRef-item854140
+FileChecksum: SHA1: 9756a6cf7afe3fab665f3627f5c6a77a7b430da3
+FileChecksum: MD5: 791023e0afe6e4b0c29fdd09e1d0e702
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/scripts/gjs-example.js
+SPDXID: SPDXRef-item854141
+FileChecksum: SHA1: fba9bb485987db1ba0d467555f48cce920ffd330
+FileChecksum: MD5: bd0a74d65e41f5c4b2f489c7b913a460
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/scripts/seed-example.js
+SPDXID: SPDXRef-item854142
+FileChecksum: SHA1: b74a967b393c52e70276f0b1ea67a43422c0f8f1
+FileChecksum: MD5: 3106abdf999b98b32c255041301f6deb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/m4/ltversion.m4
+SPDXID: SPDXRef-item854144
+FileChecksum: SHA1: 3aae847c163fa6cc7c8241a3a49f98705538d55f
+FileChecksum: MD5: d936fd6b2025c9b5322f826117d7f30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/m4/libtool.m4
+SPDXID: SPDXRef-item854145
+FileChecksum: SHA1: de18e464da943e8b69b3f84ecbfd6cdb28b996de
+FileChecksum: MD5: ae989d0c1057c319a5107fed0311632d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/m4/ltoptions.m4
+SPDXID: SPDXRef-item854146
+FileChecksum: SHA1: 9cd35d79da7776af14f21b259c64f130fa1a3536
+FileChecksum: MD5: 064af1799febaa676203302bbf359180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/m4/gtk-doc.m4
+SPDXID: SPDXRef-item854147
+FileChecksum: SHA1: 52b6d85904ca99a2372a180b1db82b2a8592d03d
+FileChecksum: MD5: 8b607f5b1a903f3ba91558561d362623
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/m4/ltsugar.m4
+SPDXID: SPDXRef-item854148
+FileChecksum: SHA1: 2028bffadfd9b989bcc63da90596101fe4ec20b9
+FileChecksum: MD5: fa2891f9060865871cbbaa1c6e2d96f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item854149
+FileChecksum: SHA1: e21f085615f98d3751690c1615923e89160d5783
+FileChecksum: MD5: 22aa295bf5320aec7fba6756ff11058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/Makefile.decl
+SPDXID: SPDXRef-item854150
+FileChecksum: SHA1: f33d7786b674050be18c1d90c47219185235efc6
+FileChecksum: MD5: 1f26111d8aea38687cc3e01e0cc582fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/config.h.in
+SPDXID: SPDXRef-item854151
+FileChecksum: SHA1: 1b6c50b4022eb7bda2abc7b108998be6a4a71ea4
+FileChecksum: MD5: 488031ae5e55e2ad47865ade6d28aa32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/Makefile.am
+SPDXID: SPDXRef-item854152
+FileChecksum: SHA1: 57a9484bec063705131d34ded97a065e6ebe8998
+FileChecksum: MD5: 74cff945fed7386e04957c904f0af0d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevenumerator.c
+SPDXID: SPDXRef-item854154
+FileChecksum: SHA1: dcca03be82f4336e87a7bd31533a66d1ef13dfbc
+FileChecksum: MD5: 2c315f88d2fd06765f8a6914223a9a6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevenumtypes.h
+SPDXID: SPDXRef-item854155
+FileChecksum: SHA1: d68accb9ff4938a6286fd006833baddff081aaf2
+FileChecksum: MD5: 85694c212860b1c7f5b49d1445c0ab8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevdevice.h
+SPDXID: SPDXRef-item854156
+FileChecksum: SHA1: a44d4ef8c3b06c23b3c4678d519dac14d533f654
+FileChecksum: MD5: 194db284a887b525b8950f80b4346e1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevtypes.h
+SPDXID: SPDXRef-item854157
+FileChecksum: SHA1: ac3e3a9d385a3e6626b49f3b6039749660ad7ba7
+FileChecksum: MD5: d2089003853e454930bf7ee3fabffb18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevdevice.c
+SPDXID: SPDXRef-item854158
+FileChecksum: SHA1: e1572382c4c275c1b2ca06243a635ee09a620d37
+FileChecksum: MD5: bff0ce54e01771dc4f4cbdd010ae695b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevenums.h
+SPDXID: SPDXRef-item854159
+FileChecksum: SHA1: af9e2d40d0b02ddaaf1e986908485f0f9dea9dad
+FileChecksum: MD5: a6be26942b867cac981c51e61d9d42cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevenumtypes.c.template
+SPDXID: SPDXRef-item854160
+FileChecksum: SHA1: 8d371f400eb70ebbda2454b7e0615c209d1171ff
+FileChecksum: MD5: b0cf4f00b5893cb9b488884a7ee698e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevclient.h
+SPDXID: SPDXRef-item854161
+FileChecksum: SHA1: a22eb10331444304dc4f523f0ed8d7745885edc2
+FileChecksum: MD5: ebaf6f65cec87c4b95c2b67a4c909198
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevprivate.h
+SPDXID: SPDXRef-item854162
+FileChecksum: SHA1: 29a8db9972f2197b541186c60840ef061b5351df
+FileChecksum: MD5: e608ccc985b8aa4818a921ebf0f42f5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudev.h
+SPDXID: SPDXRef-item854163
+FileChecksum: SHA1: 9981ce9e3eb51938569412fe0a260e795164e159
+FileChecksum: MD5: 8bf7c817e0570cd6c40317c5a46069d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevenumerator.h
+SPDXID: SPDXRef-item854164
+FileChecksum: SHA1: af64d4ea7b124efc621553b7db05875b112b7845
+FileChecksum: MD5: e55c952955fdaf50fad33017b7375929
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevclient.c
+SPDXID: SPDXRef-item854165
+FileChecksum: SHA1: f8075f24480dfc60dad564e90467159cec990d1e
+FileChecksum: MD5: b515d30a8b5d1b80094b1f28718dac1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/gudev/gudevenumtypes.h.template
+SPDXID: SPDXRef-item854166
+FileChecksum: SHA1: bc91b850e17cad0eea09e4bb049d6d835005a9e3
+FileChecksum: MD5: a050554e912d03775faf9bce5f9ceb67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/tests/Makefile.in
+SPDXID: SPDXRef-item854168
+FileChecksum: SHA1: 4609c420ec38ba702c03b05759f3e34b6ae136ca
+FileChecksum: MD5: 01b02e0704627da1d156affff3d56787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/tests/Makefile.am
+SPDXID: SPDXRef-item854169
+FileChecksum: SHA1: ce335bc7480edc912c94908fff14b6996791c830
+FileChecksum: MD5: 3c49f789d9be52a3e944efb003feb042
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/tests/test-enumerator-filter.c
+SPDXID: SPDXRef-item854170
+FileChecksum: SHA1: 629b2255fd10c829837221a225302e676eee33ee
+FileChecksum: MD5: e96bb48126e0b59ef254be57058dbb67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/README
+SPDXID: SPDXRef-item854171
+FileChecksum: SHA1: 4a62e1a0453d7d2529eed8e1415e65915be259db
+FileChecksum: MD5: b77b0b072ba34c73e85e0cf80f760eef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/configure.ac
+SPDXID: SPDXRef-item854172
+FileChecksum: SHA1: 37abf816cf00285218e6e85bb4cae6f162e69cfa
+FileChecksum: MD5: dec16e5a428eb746f2536e1efcf22e74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/build-aux/compile
+SPDXID: SPDXRef-item854174
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/build-aux/install-sh
+SPDXID: SPDXRef-item854175
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/build-aux/ltmain.sh
+SPDXID: SPDXRef-item854176
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/build-aux/config.sub
+SPDXID: SPDXRef-item854177
+FileChecksum: SHA1: 3fdd02cd1ac2db8d98909f8cd6019d9a43f14bcf
+FileChecksum: MD5: 80528c46be7fb63226fce5af083d43e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/build-aux/missing
+SPDXID: SPDXRef-item854178
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/build-aux/config.guess
+SPDXID: SPDXRef-item854179
+FileChecksum: SHA1: 41832fbc82a7fcf9197171554070a6050cf2e5c1
+FileChecksum: MD5: c53118f6682ac1db40935d5705145d5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/build-aux/depcomp
+SPDXID: SPDXRef-item854180
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/gudev-sections.txt
+SPDXID: SPDXRef-item854182
+FileChecksum: SHA1: 00a0600686a5b921dda95dd67aa333666a921c7b
+FileChecksum: MD5: aabff5aee3c0737d76045925e032af14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/version.xml
+SPDXID: SPDXRef-item854183
+FileChecksum: SHA1: 410e1d8586ed8fea897f91f102cfb64c6b709792
+FileChecksum: MD5: fac87b8618ebb0dc9ec3f1b5572840eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/gudev.types
+SPDXID: SPDXRef-item854184
+FileChecksum: SHA1: 3f588940c8b1073b51784349ec539c31da9944d8
+FileChecksum: MD5: 0c98137e2fc52d03bab9adcf4422fec0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/Makefile.in
+SPDXID: SPDXRef-item854185
+FileChecksum: SHA1: ca048193c8110c29004296b30397a334f62f2a31
+FileChecksum: MD5: 6972f44e8f4eb170366132d1b2763089
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/Makefile.am
+SPDXID: SPDXRef-item854186
+FileChecksum: SHA1: dcb99e88bbf1e75a43ec902c9635cc93421ec5ae
+FileChecksum: MD5: c41d60286a1c0e69ffc19ba8c84c4755
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/version.xml.in
+SPDXID: SPDXRef-item854187
+FileChecksum: SHA1: 8cde62e81133bb4bca8a4b01ea0f6c522aaf7192
+FileChecksum: MD5: a6511f09aca15e78a1c74d9c294687d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/gudev-docs.xml
+SPDXID: SPDXRef-item854188
+FileChecksum: SHA1: 1075463cfc152d8a1f383191c49cc5b88f81ddd7
+FileChecksum: MD5: eb75029d3670c732ad394fc92f6f9898
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/left-insensitive.png
+SPDXID: SPDXRef-item854190
+FileChecksum: SHA1: 6484f6847b39a92fb4f0bb92babafa93152f4e8d
+FileChecksum: MD5: b992596e1683a40d89d15dc8dcb58c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/up-insensitive.png
+SPDXID: SPDXRef-item854191
+FileChecksum: SHA1: 092bed6184542cb2e2419399adc4c06d6e3319be
+FileChecksum: MD5: 97c742a19428c428c552a380ad9fde9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/ix02.html
+SPDXID: SPDXRef-item854192
+FileChecksum: SHA1: e50da1fc466dc1e21533d095e65d388f47e8d077
+FileChecksum: MD5: 5641b326c9d4ac28d5c3c729a5d28bc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/annotation-glossary.html
+SPDXID: SPDXRef-item854193
+FileChecksum: SHA1: f7b452cf8d33e38c777b1beff25bef49d3b9fed0
+FileChecksum: MD5: f72495c8ace458efd22033f63a4b82b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/api-index-deprecated.html
+SPDXID: SPDXRef-item854194
+FileChecksum: SHA1: b21f33d36a4e571500279f42436f0a07f91d21c5
+FileChecksum: MD5: b152111abcf020c8df2107666c559036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/gudev-hierarchy.html
+SPDXID: SPDXRef-item854195
+FileChecksum: SHA1: ef9e8d702a42de83668b308098579d5632bd1ae6
+FileChecksum: MD5: 4bfd0cef35b4712ea03017971e8d0892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/index.html
+SPDXID: SPDXRef-item854196
+FileChecksum: SHA1: 9d221672d11890010258b9d32490f91d9710a04b
+FileChecksum: MD5: f66a741e6d136511295d0e2d15bb04b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/style.css
+SPDXID: SPDXRef-item854197
+FileChecksum: SHA1: b4068fc936d1e384da62f3addc8d6a13360db867
+FileChecksum: MD5: 7ecec4d4ad66d1ea924c1a17b492117e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/right-insensitive.png
+SPDXID: SPDXRef-item854198
+FileChecksum: SHA1: 364c83e104dbae3d8a8cf6ef9e5e7e7f9493d3c5
+FileChecksum: MD5: 987cf4ad9491f01e8db264d38098a576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/ref-API.html
+SPDXID: SPDXRef-item854199
+FileChecksum: SHA1: a9119b769c3f2d7a64d2146b2c717973c5858db0
+FileChecksum: MD5: c4fa765cd25cb085ad3aac4b16f3d8c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/home.png
+SPDXID: SPDXRef-item854200
+FileChecksum: SHA1: 7ba720f28018871ab2e8d1452987d9451f653ff2
+FileChecksum: MD5: 83cdd16d5fc01d8d7dfaf97df1120bc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/GUdevDevice.html
+SPDXID: SPDXRef-item854201
+FileChecksum: SHA1: bc21ebe27cb5ee99df71047c33da7da966729261
+FileChecksum: MD5: 5cf288508eb17099e506e39e8a76f1a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/api-index-full.html
+SPDXID: SPDXRef-item854202
+FileChecksum: SHA1: e8ad34ea46926d431d047f884b4362df3b220d68
+FileChecksum: MD5: bd2ee1d13539314bd417d1ca9ae426cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/up.png
+SPDXID: SPDXRef-item854203
+FileChecksum: SHA1: 53d9711aa40ae3ebcb7e22671cd78fed5a039cdf
+FileChecksum: MD5: 81854a03247e9ba6981eed0b909b9c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/gudev.devhelp2
+SPDXID: SPDXRef-item854204
+FileChecksum: SHA1: 608d9acb7d7d6d86bb5ea797dd25780badd477a7
+FileChecksum: MD5: 889a2b3945c3c7223a8c00263c19670e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/left.png
+SPDXID: SPDXRef-item854205
+FileChecksum: SHA1: 5d3c0425673b016477b553030535b3d15202961d
+FileChecksum: MD5: 0cc08008324009bebc947c6af6dd52c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/right.png
+SPDXID: SPDXRef-item854206
+FileChecksum: SHA1: 9894d18a4588f67b782b307bbb001e2c901ebf48
+FileChecksum: MD5: bd51fef29caa82cb560340be392b37a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/GUdevEnumerator.html
+SPDXID: SPDXRef-item854207
+FileChecksum: SHA1: 51fd23ce03ae10d78b5aeda7aa18e97194ffa384
+FileChecksum: MD5: 0a76b974740443d2656b441376219235
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/html/GUdevClient.html
+SPDXID: SPDXRef-item854208
+FileChecksum: SHA1: 36b58cf9bcaca4457a0dd334da272c9b86694a78
+FileChecksum: MD5: 1a556d67c0e6f84c479b7f36bac24742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgudev-231/docs/gudev-overrides.txt
+SPDXID: SPDXRef-item854209
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

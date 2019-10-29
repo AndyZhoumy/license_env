@@ -1,0 +1,809 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_npth-1.5-r0-patched.tar.gz_1571457847.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:04:07Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: npth
+PackageVersion: 1.5
+PackageFileName: npth-1.5-r0-patched.tar.gz
+SPDXID: SPDXRef-upload328
+PackageDownloadLocation: https://www.gnupg.org/ftp/gcrypt/npth/npth-1.5.tar.bz2
+PackageHomePage: http://www.gnupg.org/software/pth/
+PackageSummary: <text>New GNU Portable Threads library</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>npth version 1.5</text>
+PackageChecksum: SHA1: 521e800b8bdf6881f4adec6a4a56ad9c2075a713
+PackageChecksum: MD5: 6ac8f772918b88eff4555fde1ef028c8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload328
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/pkgconfig.patch
+SPDXID: SPDXRef-item845986
+FileChecksum: SHA1: cc489cce64c06b52e1490c20f52d8067b16f83a1
+FileChecksum: MD5: a07163a45f63aae6abfceb9dd2979c6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/NEWS
+SPDXID: SPDXRef-item845989
+FileChecksum: SHA1: 0bbd9b2d8c7bd9dc9ada46abb53c3e1358997e21
+FileChecksum: MD5: 97b821405d78ecaa71765c90101b2d64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-3.0
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/COPYING.LIB
+SPDXID: SPDXRef-item845992
+FileChecksum: SHA1: 2c378b484c6da96db8f05f9bd795fcf5ddad0205
+FileChecksum: MD5: 2caced0b25dfefd4c601d92bd15116de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/aclocal.m4
+SPDXID: SPDXRef-item845994
+FileChecksum: SHA1: 7954c4e431bcaaea8e3f018a0153e99090eed3c1
+FileChecksum: MD5: ccb918129cd0c1d7cbb829239c9c1a51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/Makefile.in
+SPDXID: SPDXRef-item846000
+FileChecksum: SHA1: 5d6ec19ea517d5757a551f02e372d9c8f816239d
+FileChecksum: MD5: c3986ed81879d36530fe56b0c5339315
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/configure
+SPDXID: SPDXRef-item846002
+FileChecksum: SHA1: bbff5290dcf5d3d275d9f49d8f41cf3950a94641
+FileChecksum: MD5: 8b217620d30a9a32bcaa838177c1ced8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/src/npth.pc.in
+SPDXID: SPDXRef-item846007
+FileChecksum: SHA1: 0288ab7443b6b6b59c1226d6e004f7b667a49c37
+FileChecksum: MD5: 4c35b768e6d8e5eb83408db533390cdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/src/npth.h.in
+SPDXID: SPDXRef-item846011
+FileChecksum: SHA1: 5bd467df8a82d916ef2f79ae4458a191a28dd318
+FileChecksum: MD5: 92b8d29ac3f10b24156ef1dbfd08e777
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/src/npth-sigev.c
+SPDXID: SPDXRef-item846013
+FileChecksum: SHA1: 18986d5a4b1a1d861274412416f466fffa378287
+FileChecksum: MD5: 8b622cdefada6102b04e0e9724ca3fae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/src/libnpth.vers
+SPDXID: SPDXRef-item846016
+FileChecksum: SHA1: eb5a89b4900cff304a96861e94ed502b05fa10c0
+FileChecksum: MD5: 4932ffb9b570ab3e4be4d916d0ce166f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/src/Makefile.in
+SPDXID: SPDXRef-item846017
+FileChecksum: SHA1: 50a507ffa98fd89e6353d17779e6a5272f227b0a
+FileChecksum: MD5: fe15b42d5d69f9ead0b64d73be243a64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/src/Makefile.am
+SPDXID: SPDXRef-item846019
+FileChecksum: SHA1: c828462533d2579b8fccb0ae0d727a0f5bd4a2bb
+FileChecksum: MD5: 61b2335d74bd657f1d41284322899687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/src/npth.c
+SPDXID: SPDXRef-item846021
+FileChecksum: SHA1: aa626cc1148de09a9f491339ff69ea1319182d4a
+FileChecksum: MD5: ebd5ebf8898155ad1e1cfb8a06f4a31e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/src/npth.h
+SPDXID: SPDXRef-item846023
+FileChecksum: SHA1: 2bf7dca5efdb389e17428bfd3fee86eb90a4b104
+FileChecksum: MD5: 3745e25f934cdab56ce49e02e16c3bd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/m4/ltversion.m4
+SPDXID: SPDXRef-item846027
+FileChecksum: SHA1: 25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68
+FileChecksum: MD5: 91dd5e1355d100dbdab7d71244ed2625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/m4/libtool.m4
+SPDXID: SPDXRef-item846031
+FileChecksum: SHA1: a9ad2f2c151c4c10351f703ea06bc021f39faef0
+FileChecksum: MD5: 9f0bd22edd683e1972f8f1c663628663
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/m4/ltoptions.m4
+SPDXID: SPDXRef-item846033
+FileChecksum: SHA1: 05ec66892c8b30f20aa5278e1671ae4925a9c063
+FileChecksum: MD5: 67d5ebceaac562ddf0dde4e5cdffbe09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/m4/libsocket.m4
+SPDXID: SPDXRef-item846036
+FileChecksum: SHA1: 9afcb05799878dd130c7c890c1408ed07a16e2f7
+FileChecksum: MD5: fc8a067a4ef589d3afef5a3a5de61347
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/m4/ltsugar.m4
+SPDXID: SPDXRef-item846040
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/m4/sys_socket_h.m4
+SPDXID: SPDXRef-item846041
+FileChecksum: SHA1: 6669e1b2bf2dd799ce59f17afd1d0f3ffe5a87d8
+FileChecksum: MD5: 8dfc0305972386b44a6022bbd292d5b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/m4/socklen.m4
+SPDXID: SPDXRef-item846044
+FileChecksum: SHA1: f4fb0c03e1f558c906f68276a3d490011c28b94b
+FileChecksum: MD5: f07a5889b2bf017b42f5a2ce3d65001e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item846047
+FileChecksum: SHA1: c0c6afe569131b4015d221bc853053cf884b2699
+FileChecksum: MD5: 47d420a13f9ba4e171772c3e3eee3e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/config.h.in
+SPDXID: SPDXRef-item846050
+FileChecksum: SHA1: 86bc5a52f5939c2ff690f7e268275bb057202bc3
+FileChecksum: MD5: 3239cc7c27cc8e0ba7af464497eaed72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/Makefile.am
+SPDXID: SPDXRef-item846052
+FileChecksum: SHA1: 13806ff25e71381caa034aa9873089eb4d6f56bb
+FileChecksum: MD5: 9d19e28b44a665cf5eec82c40d4a80f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/npth.spec
+SPDXID: SPDXRef-item846054
+FileChecksum: SHA1: 6264c6b76e253fc6654c801b65c3f2d2d8d23273
+FileChecksum: MD5: f902319edce90b2c8efd06238c55555b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/VERSION
+SPDXID: SPDXRef-item846055
+FileChecksum: SHA1: b083c2ce12d47834556b6c3259317763aff8ffa8
+FileChecksum: MD5: 1d4d4e6130c517bacccc8b8dd87baf4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/autogen.rc
+SPDXID: SPDXRef-item846059
+FileChecksum: SHA1: 1b5d01ef10915f55b6bab26eb9be657285b7ec08
+FileChecksum: MD5: 57a01708dc4b5b91048c02c3347df5bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/npth.m4
+SPDXID: SPDXRef-item846061
+FileChecksum: SHA1: 630b29df369b2a67831d623a8e47f291ebc9fd6e
+FileChecksum: MD5: 1d983e7a217abd65db4ccbe83e8afce5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/AUTHORS
+SPDXID: SPDXRef-item846064
+FileChecksum: SHA1: e118b40cc8b197beaa53841c9792200e54982905
+FileChecksum: MD5: 6f61843748693f74f6e7e31e513e0b67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/tests/Makefile.in
+SPDXID: SPDXRef-item846068
+FileChecksum: SHA1: 15d023fbaed41beb6d37fb3f9b7ba4fb6bccf84f
+FileChecksum: MD5: bc6d01bd389736cc78ff4f84540be372
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/tests/Makefile.am
+SPDXID: SPDXRef-item846071
+FileChecksum: SHA1: 08dd1e0f38e1b59bddca28d3475077fea35b05e7
+FileChecksum: MD5: 92c14daacdd19e53662c4224f6fc5a35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/tests/t-fork.c
+SPDXID: SPDXRef-item846074
+FileChecksum: SHA1: a12d18420155f155597d88f8099612c149b9577f
+FileChecksum: MD5: f0d8b578bf5a6308d042c66d2f47014f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/tests/t-support.h
+SPDXID: SPDXRef-item846076
+FileChecksum: SHA1: ef67100a159f1aba973e939f48b6d97389e932cd
+FileChecksum: MD5: 2afd2e1966ff64f03d72de619abf0860
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/tests/t-thread.c
+SPDXID: SPDXRef-item846078
+FileChecksum: SHA1: 6f1ee81c4df9070dc2eb0e394924e5879645f3bf
+FileChecksum: MD5: c1713d2464ca11e9b94974e7db767d93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/tests/t-mutex.c
+SPDXID: SPDXRef-item846080
+FileChecksum: SHA1: b4b65cfd3ff5187a4902d9c0c708186576687a68
+FileChecksum: MD5: e6f2d0f3ff5ba2ff748d201da5db369a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/HACKING
+SPDXID: SPDXRef-item846082
+FileChecksum: SHA1: 1cfe5894d09f0d685b918f3ef8145af8d7e66148
+FileChecksum: MD5: 52aa591cab94a44056e2e83d51ebe016
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/w32/Makefile.in
+SPDXID: SPDXRef-item846087
+FileChecksum: SHA1: eb72a3b292422e9c767f23f196dc6f6d255107d3
+FileChecksum: MD5: 76713b9fc6c7cc286a6a6577ddc16b98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/w32/Makefile.am
+SPDXID: SPDXRef-item846090
+FileChecksum: SHA1: 55442a2d53a54b1c1785f07f8378c3ad142869ee
+FileChecksum: MD5: 7f3cc11669cddb55f5f9327d38f4eeb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/w32/npth.def
+SPDXID: SPDXRef-item846093
+FileChecksum: SHA1: bf61cc463b109fd8e297c8e885a3cfd88a8ad84f
+FileChecksum: MD5: 701d65d38cc6f5e863d6d581b1c16050
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/w32/npth.c
+SPDXID: SPDXRef-item846096
+FileChecksum: SHA1: acc9ac3e9b283976c630357587a0a27a3251fe17
+FileChecksum: MD5: 36282a334459581907e64cca358ea0b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/w32/npth.h
+SPDXID: SPDXRef-item846098
+FileChecksum: SHA1: a3a71b17b78f9d498048bfe1c3b0928d2e3d77d6
+FileChecksum: MD5: 5a93ba0422461ae015cfec5f4de5d882
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/README
+SPDXID: SPDXRef-item846101
+FileChecksum: SHA1: 5ff8c835a0af8f32434a6c8eeb6d04fa8b43f322
+FileChecksum: MD5: 0c1a79ad16e0d97f2efc4fc31acd6e6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/.pc/applied-patches
+SPDXID: SPDXRef-item846104
+FileChecksum: SHA1: b50b585cb26cf97878633ed7993953c6fe93811e
+FileChecksum: MD5: bfacfbda41877c56e1df1c71b22a862c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/.pc/pkgconfig.patch/src/npth.pc.in
+SPDXID: SPDXRef-item846107
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/.pc/pkgconfig.patch/src/Makefile.am
+SPDXID: SPDXRef-item846110
+FileChecksum: SHA1: c5ae3b507313b5c8c6dde918175070334f835ca4
+FileChecksum: MD5: 9ee9639707d6d8d5781aa15c690119bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/.pc/pkgconfig.patch/.timestamp
+SPDXID: SPDXRef-item846112
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/.pc/pkgconfig.patch/configure.ac
+SPDXID: SPDXRef-item846115
+FileChecksum: SHA1: 1fae2fd8d2ffe267e2c0d3a9551ee01ef60f6a30
+FileChecksum: MD5: 385e4ddff9bf4d598cbe7bc919d73a1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/.pc/.quilt_series
+SPDXID: SPDXRef-item846117
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/.pc/.version
+SPDXID: SPDXRef-item846119
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/.pc/.quilt_patches
+SPDXID: SPDXRef-item846121
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/npth.spec.in
+SPDXID: SPDXRef-item846123
+FileChecksum: SHA1: ccbd1d3c0aaf67752ded3e727a63b4f3d148cdd7
+FileChecksum: MD5: 2e8dcad7cd7490d9b1e7f8cdec762edf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/configure.ac
+SPDXID: SPDXRef-item846126
+FileChecksum: SHA1: 15a56609e0b9f7819d9641a5355e198ffea453a4
+FileChecksum: MD5: a6d2d10ba134a295ece74a748e8a1afb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/npth-config.in
+SPDXID: SPDXRef-item846128
+FileChecksum: SHA1: a9443e148556401f0813d563ec9a3923f1c18508
+FileChecksum: MD5: 60616a19075ee19db473242b03b3fbb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/build-aux/compile
+SPDXID: SPDXRef-item846130
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/build-aux/install-sh
+SPDXID: SPDXRef-item846132
+FileChecksum: SHA1: d30e962a3de2da09ab0a9a7979bee787922464a1
+FileChecksum: MD5: 0afce91a3daa1fdc32ee36370c1129dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/build-aux/ltmain.sh
+SPDXID: SPDXRef-item846135
+FileChecksum: SHA1: 507d767a1a53cc07e8a911d94adb2e3f69eefc10
+FileChecksum: MD5: 409253a69f7df28fc6603caec95c3a42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/build-aux/config.sub
+SPDXID: SPDXRef-item846137
+FileChecksum: SHA1: de71ef83c06b8148193130313a0a489f7de72560
+FileChecksum: MD5: ab5cdf7080934d24cf4ca0739db766a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/build-aux/missing
+SPDXID: SPDXRef-item846139
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/build-aux/config.guess
+SPDXID: SPDXRef-item846140
+FileChecksum: SHA1: 3f7002a9ccadf22c2e373572b5f5e64964fb75ce
+FileChecksum: MD5: 52f80eee57d1a5dc581fbb1f1c6a7bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/build-aux/depcomp
+SPDXID: SPDXRef-item846141
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/INSTALL
+SPDXID: SPDXRef-item846145
+FileChecksum: SHA1: bbc89f8fc9083ae797f39d0369f1b0ef3788c80a
+FileChecksum: MD5: 974f8ebfb787af664ca683a3cb6b71b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/patches/series
+SPDXID: SPDXRef-item846149
+FileChecksum: SHA1: 162e78edc2bfad4e5a3bf7049ba67cf21df173cc
+FileChecksum: MD5: cd8cdd90be6f450c7aa27b1e6f5e179d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/autogen.sh
+SPDXID: SPDXRef-item846152
+FileChecksum: SHA1: 9dd58cb51e79b6004b5964a218bd04184274dddf
+FileChecksum: MD5: f7844a837bd8118dfbd9e24bf8407b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/npth-1.5/ChangeLog
+SPDXID: SPDXRef-item846155
+FileChecksum: SHA1: aba09e6fea0f4c409943f2541a2f39967bf0d564
+FileChecksum: MD5: ab12d81d70520eb64e67586523567012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

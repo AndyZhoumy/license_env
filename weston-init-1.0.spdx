@@ -1,0 +1,142 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_weston-init-1.0-r0-patched.tar.gz_1571460421.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:47:02Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: weston-init
+PackageVersion: 1.0
+PackageFileName: weston-init-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload426
+PackageDownloadLocation: file://init
+PackageHomePage: 
+PackageSummary: <text>Startup script and systemd unit file for the Weston Wayland compositor</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>weston-init version 1.0</text>
+PackageChecksum: SHA1: e38d8989cbd223624be38e4f08433a5f4c49e14b
+PackageChecksum: MD5: cb0a047821d0c18a8aaefcb6dc0a3381
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload426
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/weston_exp.sh
+SPDXID: SPDXRef-item1101267
+FileChecksum: SHA1: 1141df7580cbf3e452d7df25a192ad632ca0a878
+FileChecksum: MD5: 3cbba3e0365437d8ea8e145f48a51f38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/init
+SPDXID: SPDXRef-item1101268
+FileChecksum: SHA1: 2a3b0c7ce9bbb2d0f832b5d8cc12ba85c4439715
+FileChecksum: MD5: 97796d138521da94687777e153f2e105
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/weston.service.add
+SPDXID: SPDXRef-item1101269
+FileChecksum: SHA1: fc659da1b35865405abb380876768112fea7bfc8
+FileChecksum: MD5: 7c5dedead7819612210735d754633c8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/weston.service
+SPDXID: SPDXRef-item1101270
+FileChecksum: SHA1: 1bad81a7f79bc94fb8e02e0e10fdf54781d9d51e
+FileChecksum: MD5: fcb2627859d9b2d9cac96ef3763d2cc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/weston-start
+SPDXID: SPDXRef-item1101271
+FileChecksum: SHA1: 5d584393e6a8c5d34f5552e30a47cbe704e92acc
+FileChecksum: MD5: 3d71ae8e787da55fdc06af817e189480
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/weston_tmpfiles.conf
+SPDXID: SPDXRef-item1101273
+FileChecksum: SHA1: a810595da615fd24eba8b78c5fb30ff40c35cfe1
+FileChecksum: MD5: a5095ba9524e41a9abd08111658cd650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+

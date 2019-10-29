@@ -1,0 +1,129 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_weston-ini-conf-1.0-r0-patched.tar.gz_1571460397.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:46:37Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: weston-ini-conf
+PackageVersion: 1.0
+PackageFileName: weston-ini-conf-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload423
+PackageDownloadLocation: file://core.cfg
+PackageHomePage: 
+PackageSummary: <text>Startup script and systemd unit file for the Weston Wayland compositor</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>weston-ini-conf version 1.0</text>
+PackageChecksum: SHA1: 746a3a2f12c63dad2a6d1f707f37cd3a8fafd51e
+PackageChecksum: MD5: f40f99557f8b17aa6edbc06be71cdcc6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload423
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/kingfisher_output.cfg
+SPDXID: SPDXRef-item1101049
+FileChecksum: SHA1: 183775507a1454fc9c8ffda2359d5655b7c8d51b
+FileChecksum: MD5: aff8cb3f07ba345199af519f4bc7b745
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/id-agent.cfg
+SPDXID: SPDXRef-item1101050
+FileChecksum: SHA1: e4ba1862dfd00fbef19a6f09761f7dc3a656650b
+FileChecksum: MD5: 27cfce25c408b160ce268bda39910ed5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/ivishell.cfg
+SPDXID: SPDXRef-item1101051
+FileChecksum: SHA1: a13e41a1d9835a0aec01eb9598a90ba83f57d4fb
+FileChecksum: MD5: f8699d03fe7d719baf3e30f84da98473
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/shell.cfg
+SPDXID: SPDXRef-item1101052
+FileChecksum: SHA1: f59accab67ec8fc366bb0165979a5cd1ec79eee3
+FileChecksum: MD5: a487d0dd3f4a26970fc8dd4bc09c12e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/hdmi-a-1-270.cfg
+SPDXID: SPDXRef-item1101053
+FileChecksum: SHA1: 0e4ae1aaa96ec4895c25f4af98e666079ee4dbf5
+FileChecksum: MD5: 7fbcb87f74cc9fb926b29bea61b4e20e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/core.cfg
+SPDXID: SPDXRef-item1101055
+FileChecksum: SHA1: b833c7a0bc527d3d152829e6a8273a59fe29822d
+FileChecksum: MD5: 9444b9ec1c7c6ff5d60cce0f6985a8ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

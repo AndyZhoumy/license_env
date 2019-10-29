@@ -1,0 +1,2041 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_pixman-1_0.34.0-r0-patched.tar.gz_1571458627.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:17:07Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: pixman
+PackageVersion: 0.34.0
+PackageFileName: pixman-1_0.34.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload42
+PackageDownloadLocation: http://xorg.freedesktop.org/releases/individual/lib/pixman-0.34.0.tar.bz2
+PackageHomePage: http://www.x.org
+PackageSummary: <text>Pixman: Pixel Manipulation library</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>pixman version 0.34.0</text>
+PackageChecksum: SHA1: f91f74dae3d3cf95c477f3e880768e9d93e9d6b4
+PackageChecksum: MD5: 70bdb6515308f7680438db19af4b9d03
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload42
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-test-utils-Check-for-FE_INVALID-definition-before-us.patch
+SPDXID: SPDXRef-item117986
+FileChecksum: SHA1: ca99491f84b52249180f3b9547238acb290f6d62
+FileChecksum: MD5: d334a0f1a1f324d84715ca053ccc456a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman-1-uninstalled.pc.in
+SPDXID: SPDXRef-item117989
+FileChecksum: SHA1: 2ba1dad53e2c9e5c6aa21e60b27fd37d15b74108
+FileChecksum: MD5: 37ec16677c8765e8054c89075059d358
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/NEWS
+SPDXID: SPDXRef-item117990
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/compile
+SPDXID: SPDXRef-item117991
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/install-sh
+SPDXID: SPDXRef-item117992
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman-1.pc.in
+SPDXID: SPDXRef-item117993
+FileChecksum: SHA1: 9ec266c155d360f9a8250304627e734483055dbf
+FileChecksum: MD5: 08601472ff028424afcdc15cbde22fc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/aclocal.m4
+SPDXID: SPDXRef-item117994
+FileChecksum: SHA1: 3cc2151c2def5bb8d735aa8f13eafa22e04eaf96
+FileChecksum: MD5: 38184d499c7b592000d1025767bf50be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-utils.c
+SPDXID: SPDXRef-item117996
+FileChecksum: SHA1: be862121957596df80ffbd40b563069a01468a48
+FileChecksum: MD5: 7136c6a87d52d327ae48b9d56d860ee2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-version.h.in
+SPDXID: SPDXRef-item117997
+FileChecksum: SHA1: 683f30589c8841dc7f8cc3c76502b9339d542a9b
+FileChecksum: MD5: 2a3c9acae5f02e112a39b8a69459e746
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-simd.c
+SPDXID: SPDXRef-item117998
+FileChecksum: SHA1: dc6114c9dbda8326001a5fa1083f89e42f464e5d
+FileChecksum: MD5: f74dedc6db49753a90535397b9090fb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-fast-path.c
+SPDXID: SPDXRef-item117999
+FileChecksum: SHA1: 0e5d84a30f5599d14aaa2189cd7effca1a67e13e
+FileChecksum: MD5: 2d90a3e16ac9eb3f4f05e14fa842ea4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-region.c
+SPDXID: SPDXRef-item118000
+FileChecksum: SHA1: 6fefabc9a83e3013d65f64aeb735acb556ff042e
+FileChecksum: MD5: bb162b307cb38e675a550203b0bac780
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-private.h
+SPDXID: SPDXRef-item118001
+FileChecksum: SHA1: 5a86a4e10be516dbc4d399a54d00b8ac03c1ea83
+FileChecksum: MD5: 37bb8af2e161ba36cc1be9a7f2fb96a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman.h
+SPDXID: SPDXRef-item118002
+FileChecksum: SHA1: 2bdce1d43849d8eed4e1f02d8527bdcd544b7867
+FileChecksum: MD5: 186d75ab934bdb5b463af52167cbff27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-simd-asm.h
+SPDXID: SPDXRef-item118003
+FileChecksum: SHA1: 44fe6369f200cb1e2540ba8c925f41c6951d729f
+FileChecksum: MD5: 5ce3850cfca418841b5726c0bb7e1a20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman.c
+SPDXID: SPDXRef-item118004
+FileChecksum: SHA1: 0dec8db4cf0381540f54f27e3c126a8073f67447
+FileChecksum: MD5: 97739d935abaac516b9fc470c5be1af0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-filter.c
+SPDXID: SPDXRef-item118005
+FileChecksum: SHA1: 3f417675a888c3ddac22fefb23c42355c1a78ced
+FileChecksum: MD5: 61206c8a6870c41601b6314c7962e212
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-asm.h
+SPDXID: SPDXRef-item118006
+FileChecksum: SHA1: 4e688fd1680ba204a1a57f844995e3b74922a01b
+FileChecksum: MD5: 990278770ddd07096fcb8e1b31bbdea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/Makefile.sources
+SPDXID: SPDXRef-item118007
+FileChecksum: SHA1: d83d757db44195468831c9302aff68bae4131341
+FileChecksum: MD5: 57e0cf83874721a493e8ede086e20b41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-implementation.c
+SPDXID: SPDXRef-item118008
+FileChecksum: SHA1: 3174d323b6acdb18f5b8f1c03130584a81c90c0e
+FileChecksum: MD5: 42415f46fa519b325d81baaabc795376
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-access-accessors.c
+SPDXID: SPDXRef-item118009
+FileChecksum: SHA1: 34fd3b7748f782aec985ecf31261cfd4a7844e75
+FileChecksum: MD5: c0449b10ccef85bd8287ccfe207e7e94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-simd-asm-scaled.S
+SPDXID: SPDXRef-item118010
+FileChecksum: SHA1: b98a1b12370c7d3b1613f1a50b4f859f1b30fcc1
+FileChecksum: MD5: 81838c9fc673afa8a4d8c662b17fd38e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-radial-gradient.c
+SPDXID: SPDXRef-item118011
+FileChecksum: SHA1: ba0ab88f1803378a587ef2b191ebc09905407604
+FileChecksum: MD5: f5502bb042938738e0be227f7d17de5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-region16.c
+SPDXID: SPDXRef-item118012
+FileChecksum: SHA1: 087bff1965702c2854f2bf05f000866a0894b4ac
+FileChecksum: MD5: eadc863813b432009a01e8992c3f8c59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-inlines.h
+SPDXID: SPDXRef-item118013
+FileChecksum: SHA1: bc1cdf189ce9ac8a0201d6d5c75e6d8e7a828538
+FileChecksum: MD5: f00a2bd461fc5d15ed101ede195b2a58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/Makefile.in
+SPDXID: SPDXRef-item118014
+FileChecksum: SHA1: e7dbfa39b081d794cc37b177c29d5f31c6e8d4cf
+FileChecksum: MD5: 0fb4e02ad818d79f1d0ec555c7f19a39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-accessor.h
+SPDXID: SPDXRef-item118015
+FileChecksum: SHA1: 2b16a52faa5ac0c7008e16540511adec22c5edcd
+FileChecksum: MD5: 0de7f73b5c2aa0f160d732ace8405259
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-timer.c
+SPDXID: SPDXRef-item118016
+FileChecksum: SHA1: a55e94c16d3dca25043fda57fb32f179ba63789e
+FileChecksum: MD5: c777081ca501bfc75452f6844cb6ddce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-neon-asm.h
+SPDXID: SPDXRef-item118017
+FileChecksum: SHA1: fbb1880f462f49f913360ea67617c1d1e568acbf
+FileChecksum: MD5: 5c28493c6a0b0127a1a19e4afe8b3083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-combine32.h
+SPDXID: SPDXRef-item118018
+FileChecksum: SHA1: 75eb888cc72b29ca7168a8f9f55d5403c1a88fad
+FileChecksum: MD5: 18061bac12927dcebd5f9ea9474f41c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-ssse3.c
+SPDXID: SPDXRef-item118019
+FileChecksum: SHA1: 2a0da66b24e384f074736b2002f4ce392e71a5d3
+FileChecksum: MD5: 24c8ef4b6d740260233fa490c96aba82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-x86.c
+SPDXID: SPDXRef-item118020
+FileChecksum: SHA1: 534dff9085c26e8a061de77318b7095cd5147a65
+FileChecksum: MD5: 979ed270d1825b33dfe813bf7ba90c31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-conical-gradient.c
+SPDXID: SPDXRef-item118021
+FileChecksum: SHA1: 4327b5d2b0a086fd92a64fc5cc071ab22e36eb9a
+FileChecksum: MD5: 3df548451e9a05cc53c4eecb67d212ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-simd-asm.S
+SPDXID: SPDXRef-item118022
+FileChecksum: SHA1: 8fb93e06dbe43196b35dd9348d30b28b253e7f0d
+FileChecksum: MD5: 64c2a0b3d7a53264d4f8ce1d8e108f03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-compiler.h
+SPDXID: SPDXRef-item118023
+FileChecksum: SHA1: 886fa0d987bca319a4d292d16a65b5b5598c90cb
+FileChecksum: MD5: 6bc488209c01d6d18b4fbe3517c78c17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-combine-float.c
+SPDXID: SPDXRef-item118024
+FileChecksum: SHA1: 04eff7023c2aae99e7f34d141720fd3d621a9752
+FileChecksum: MD5: 20ca819ea59dd561698108d3bfda5d37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-edge-accessors.c
+SPDXID: SPDXRef-item118025
+FileChecksum: SHA1: 9f1b7ea35200b798ed277991a82d9754f313aadc
+FileChecksum: MD5: a884603b5585efcd4427dc02998dafad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-mips-memcpy-asm.S
+SPDXID: SPDXRef-item118026
+FileChecksum: SHA1: 9e3598afbaf8f4074cbf6416095b36d5074af581
+FileChecksum: MD5: f7a905f742de5148bf119d81dcbed8a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/Makefile.am
+SPDXID: SPDXRef-item118027
+FileChecksum: SHA1: 62bd24ab3428c441c25e463d9982a36073562709
+FileChecksum: MD5: fe73674c6fbfd368e077a728e658910d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-gradient-walker.c
+SPDXID: SPDXRef-item118028
+FileChecksum: SHA1: 28ae3183189c41efabb56a4ae25905a23408e09d
+FileChecksum: MD5: b4eca6e4055ae81031ad22ea104c438b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-solid-fill.c
+SPDXID: SPDXRef-item118029
+FileChecksum: SHA1: 24b472f04ae8c90374430dadfe3a1b664008d787
+FileChecksum: MD5: 9fde7b0923e6989399924b6c99540955
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/Makefile.win32
+SPDXID: SPDXRef-item118030
+FileChecksum: SHA1: 4d5620a11bf088d1bf7393c35216fb4e7a2684ce
+FileChecksum: MD5: 29589ec844afd05df9296f29849317cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-linear-gradient.c
+SPDXID: SPDXRef-item118031
+FileChecksum: SHA1: a56d6af53307d5ee08f10d6fa613981f62168df0
+FileChecksum: MD5: 74f20bb1d2c1071595fa6fe06ed960fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-bits-image.c
+SPDXID: SPDXRef-item118032
+FileChecksum: SHA1: 5120f3b097427108bb24b47468645795c67bdd97
+FileChecksum: MD5: b15532af18e24e820952d0627c3ce82c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-matrix.c
+SPDXID: SPDXRef-item118033
+FileChecksum: SHA1: 21f877feb92d6df3965e6cb9c4361fab86a8f04d
+FileChecksum: MD5: 9c8fcdb5cf358365dff70e72a01213bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-image.c
+SPDXID: SPDXRef-item118034
+FileChecksum: SHA1: 411ddd000736467122c7cd479fc01c669207c96b
+FileChecksum: MD5: c1a15d7859e1e810a93cfab77ab8ac6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-mips-dspr2-asm.h
+SPDXID: SPDXRef-item118035
+FileChecksum: SHA1: c3c1309eefedf4daa723e9dfdfad6f80fcea93ee
+FileChecksum: MD5: 89fae48dce9c70dbf6e265cd1c6beba0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-version.h
+SPDXID: SPDXRef-item118036
+FileChecksum: SHA1: a8cceb55e79f8d66e1dc05c619e53a9ef0ef7bce
+FileChecksum: MD5: 2bd3916b1cf977cf5379d0757fdb0a65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-trap.c
+SPDXID: SPDXRef-item118037
+FileChecksum: SHA1: ded74fd6b229fb59bb0d83d602335383537e15b2
+FileChecksum: MD5: f65db3d9e429712c3c0c44112d09b4cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-region32.c
+SPDXID: SPDXRef-item118038
+FileChecksum: SHA1: 7979f9ce5eab1caa605fefc32022ef9681a9bd81
+FileChecksum: MD5: 0befc0a4621ce92902d10600dcc76cf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-mips-dspr2.h
+SPDXID: SPDXRef-item118039
+FileChecksum: SHA1: a04b26cdf22fa2f0b047f132747d8aa06a79d7d2
+FileChecksum: MD5: 92bf8b4cefd6e8660d041018cbf255fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-neon-asm.S
+SPDXID: SPDXRef-item118040
+FileChecksum: SHA1: 02fe98aff563af136d660b1270e96b95d17c01e6
+FileChecksum: MD5: 5d242ad3c08127a1af65bcbb752fc2f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-general.c
+SPDXID: SPDXRef-item118041
+FileChecksum: SHA1: 470ab88d59aabf28a1fc93b9c1873322172d6f46
+FileChecksum: MD5: ce10d3d2ea077fbb28b805c89e400574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-sse2.c
+SPDXID: SPDXRef-item118042
+FileChecksum: SHA1: 9ba676e994b56cfb1a758c68c8670436b9a0793e
+FileChecksum: MD5: 7d43339b437b2eced9b6e84e201b3452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/solaris-hwcap.mapfile
+SPDXID: SPDXRef-item118043
+FileChecksum: SHA1: 936ee805ce33956da9036751156823d31a08960b
+FileChecksum: MD5: 28711ec3350f0e6941c0b5ea97fb8dc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-mips-dspr2-asm.S
+SPDXID: SPDXRef-item118044
+FileChecksum: SHA1: 6b3625eece932ba93fc2d1dfe3729695f892a1f4
+FileChecksum: MD5: ebd5c815e13053b174504193b5c8ee3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm.c
+SPDXID: SPDXRef-item118045
+FileChecksum: SHA1: d689d6665cc123684176a4d4877699d7c397c844
+FileChecksum: MD5: 9d26c590c8152958690972e1631fb130
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-neon.c
+SPDXID: SPDXRef-item118046
+FileChecksum: SHA1: b806cd0d8c8ddfbec01225d546bd1dff56a9492a
+FileChecksum: MD5: 0252c219a4d0030d2bb7475fbd9af01b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-noop.c
+SPDXID: SPDXRef-item118047
+FileChecksum: SHA1: d5deb46a3dee2727a59ca70fa544eb95ad8757f4
+FileChecksum: MD5: eae7cbeb53a50f9e8f89a11d57aafde8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-edge.c
+SPDXID: SPDXRef-item118048
+FileChecksum: SHA1: e35c1d0c06a85c8c7ef2d704217781c77eaa21cd
+FileChecksum: MD5: 6d7dd6886074b0e47a34094620491101
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-access.c
+SPDXID: SPDXRef-item118049
+FileChecksum: SHA1: 9be68ab58d82e85f053056e1f10f0ecf8a828ddc
+FileChecksum: MD5: 0cf4666d853c16310a05b94bf9cae0a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-neon-asm-bilinear.S
+SPDXID: SPDXRef-item118050
+FileChecksum: SHA1: 456fea27766229128ad07fee643e8909e594d39c
+FileChecksum: MD5: 1623546cb0867b406d7fc9cbe7cb63d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/loongson-mmintrin.h
+SPDXID: SPDXRef-item118051
+FileChecksum: SHA1: 032bcd31b3d9c20bf64f184dfa832df56eac0bbe
+FileChecksum: MD5: 9c55c4f209af646f42fe7b3bb9a06182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-arm-common.h
+SPDXID: SPDXRef-item118052
+FileChecksum: SHA1: 2e277ac87771abebe190343816629d2168196242
+FileChecksum: MD5: 03cacbb4184a5dc8004fada5c5fa6ff4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-mmx.c
+SPDXID: SPDXRef-item118053
+FileChecksum: SHA1: cb8fec926adacfb18a1754978c587f835c109f7e
+FileChecksum: MD5: ca630f17096c93910d905debd7e03aed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-ppc.c
+SPDXID: SPDXRef-item118054
+FileChecksum: SHA1: 7861e5dd546d8ac252a24f6638cb9d0323db7ad9
+FileChecksum: MD5: 4af4b1795a04807fece73ed383d5742e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-mips-dspr2.c
+SPDXID: SPDXRef-item118055
+FileChecksum: SHA1: 73cb11d963961d223604ead303362f2f79b5f12a
+FileChecksum: MD5: ec50f9eaf323afef88342b188bcf1c6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-glyph.c
+SPDXID: SPDXRef-item118056
+FileChecksum: SHA1: c116cd3433a1600c61737426240128dc23db1acb
+FileChecksum: MD5: 99586ade14a120569dadcab849b19a1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-edge-imp.h
+SPDXID: SPDXRef-item118057
+FileChecksum: SHA1: 00b3b3a0b220d6d105189bd9a731ca7987933631
+FileChecksum: MD5: 8781b7faf0529088220112e2fd6b60b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-mips.c
+SPDXID: SPDXRef-item118058
+FileChecksum: SHA1: ebf48ea3eff3c2845e86276db90afcdc48be0233
+FileChecksum: MD5: ff54331a08771258c216856eb3f31ec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-vmx.c
+SPDXID: SPDXRef-item118059
+FileChecksum: SHA1: 3867c52341bdd5b8ff83f8507b94c6a35bc494a1
+FileChecksum: MD5: b28cd06e1716d90785f3436746630c7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/pixman/pixman-combine32.c
+SPDXID: SPDXRef-item118060
+FileChecksum: SHA1: 1af52a34944e12724446b558c1751afb37269fa0
+FileChecksum: MD5: 1d97a0d3e7a6d0163e49fad84d17b82e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NTP
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/Makefile.in
+SPDXID: SPDXRef-item118061
+FileChecksum: SHA1: 6470ed348ae0169daef1ebc543b8f76400431126
+FileChecksum: MD5: 2f0989daa156d37e69c3d3241c94c80c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/COPYING
+SPDXID: SPDXRef-item118062
+FileChecksum: SHA1: 3b90aaf730fa20460f8fe3fd20c16daf3acaba59
+FileChecksum: MD5: 14096c769ae0cbb5fcb94ec468be11b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/configure
+SPDXID: SPDXRef-item118063
+FileChecksum: SHA1: d7c160c2c5b6ea435a064cce35072e99d745f5f3
+FileChecksum: MD5: 3c5c45c710a2cece0cb4db72a4f31436
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/ltmain.sh
+SPDXID: SPDXRef-item118064
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/config.h.in
+SPDXID: SPDXRef-item118065
+FileChecksum: SHA1: ed404f9216972b08408a69bdf5813d789cff33be
+FileChecksum: MD5: 3ab1561c843dc2b12163313ea60ac703
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/Makefile.am
+SPDXID: SPDXRef-item118066
+FileChecksum: SHA1: 8895727e174ed235ae40c4eec1a2e5ff41ff8b8e
+FileChecksum: MD5: d1ea73657ee3b6dd3b3b66e4bab3f150
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/AUTHORS
+SPDXID: SPDXRef-item118067
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/Makefile.win32
+SPDXID: SPDXRef-item118068
+FileChecksum: SHA1: 5e7ecf670342bf15b2c94425f6e4f4c23d5e554c
+FileChecksum: MD5: b5f5dc10a3ef12d37006a3496cb3ebf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/config.sub
+SPDXID: SPDXRef-item118069
+FileChecksum: SHA1: 3fdd02cd1ac2db8d98909f8cd6019d9a43f14bcf
+FileChecksum: MD5: 80528c46be7fb63226fce5af083d43e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/cover-test.c
+SPDXID: SPDXRef-item118071
+FileChecksum: SHA1: be59906adc5196d7bd428dbe7f22576b39d13761
+FileChecksum: MD5: 37a315c4ead41010bef568322032d36f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/affine-test.c
+SPDXID: SPDXRef-item118072
+FileChecksum: SHA1: 1b72ae179c005902886b43aa0439004617532af8
+FileChecksum: MD5: 2d4dd82c048d657ddc222921c6f45574
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/radial-perf-test.c
+SPDXID: SPDXRef-item118073
+FileChecksum: SHA1: a52254251d4cb3cef6e820a02365572448e214f6
+FileChecksum: MD5: 8f8e09423b310fe6e8beebc4c9ba929a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/fetch-test.c
+SPDXID: SPDXRef-item118074
+FileChecksum: SHA1: e460b368208450b7960a3f4278282de7c6be5d3a
+FileChecksum: MD5: b7709bf6460b21e20ee6355886fec0e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/alpha-loop.c
+SPDXID: SPDXRef-item118075
+FileChecksum: SHA1: 832ffb48ed705ff8fa1f8ee9d23152af4aa9571e
+FileChecksum: MD5: 1ad806176dc5f531ebf66917c386fdac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/composite-traps-test.c
+SPDXID: SPDXRef-item118076
+FileChecksum: SHA1: 20b04b5af821e363c94ad47f05599a7176533bfc
+FileChecksum: MD5: 2a932f05779d0cbf8b546ca58020c50f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/Makefile.sources
+SPDXID: SPDXRef-item118077
+FileChecksum: SHA1: 92b1284cc156111074b242e6ecae4ddf87b7f510
+FileChecksum: MD5: 619a95367e4610090cdd9e937533392a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/utils-prng.h
+SPDXID: SPDXRef-item118078
+FileChecksum: SHA1: 1ea21b56ff8899b8590e681d166674589c54f941
+FileChecksum: MD5: 41970548afa718577f4edb81c16e8ca3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/tolerance-test.c
+SPDXID: SPDXRef-item118079
+FileChecksum: SHA1: 99b93e13a88d0ca55edd608d4d3218854c154c23
+FileChecksum: MD5: ea8e8c58f2b84f1f943ddecde54640ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/region-translate-test.c
+SPDXID: SPDXRef-item118080
+FileChecksum: SHA1: 8ef6a5a9f00a45bdabf0580adaa5f39b4dbe845a
+FileChecksum: MD5: c00fa3bb8f52976a1cf19464ba8bd337
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/region-contains-test.c
+SPDXID: SPDXRef-item118081
+FileChecksum: SHA1: 554a65a98416cb06e248f2d07526a82f1e1bcfa8
+FileChecksum: MD5: b28d5b5e351aff89392de0a318761875
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/oob-test.c
+SPDXID: SPDXRef-item118082
+FileChecksum: SHA1: a42a7dd0410cb340ef6c48f14182dae50eaf6cdd
+FileChecksum: MD5: c55cd75ab712e9717c6aa2e6297b1fc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/blitters-test.c
+SPDXID: SPDXRef-item118083
+FileChecksum: SHA1: 3846f04286447600e2683db4d899ddd834035d39
+FileChecksum: MD5: 0c5cfef45ee4a449f58f71d384a1b7fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/Makefile.in
+SPDXID: SPDXRef-item118084
+FileChecksum: SHA1: 9a443f9f96282f7754addcd1f5dcb13ae665e9d5
+FileChecksum: MD5: 82b4ccc835efebf96b5022aa76a98917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/lowlevel-blt-bench.c
+SPDXID: SPDXRef-item118085
+FileChecksum: SHA1: fc963e85e225226a91cba43cacc18afad9b891a8
+FileChecksum: MD5: 4854198eb7df223dff2d2d0442784ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/pdf-op-test.c
+SPDXID: SPDXRef-item118086
+FileChecksum: SHA1: a7fe8375a14013a0748aead24a5ed4bf59d36a2b
+FileChecksum: MD5: 6a4018d7a12b49f026f24977c50d7766
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/a1-trap-test.c
+SPDXID: SPDXRef-item118087
+FileChecksum: SHA1: e153b2ad0d981e44c6e3d5930d34418318ec4ec4
+FileChecksum: MD5: 434294213df8459a6437439e4bf60009
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/pixel-test.c
+SPDXID: SPDXRef-item118088
+FileChecksum: SHA1: 94a747754f88e5d3e7655d53c169628709780eeb
+FileChecksum: MD5: 54009442faa49df8583d1b6088f8e592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/gradient-crash-test.c
+SPDXID: SPDXRef-item118089
+FileChecksum: SHA1: 708a5dc96740f2b83fbfdc72fe7a1f0426bea0ce
+FileChecksum: MD5: 9644fc1cc4157d24f0c68901e67b5165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/rotate-test.c
+SPDXID: SPDXRef-item118090
+FileChecksum: SHA1: bda750004bf73d16980b02dd71cff3fd3dbc2727
+FileChecksum: MD5: d19ad4e1aa066fdcd98bd450d668ec8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/check-formats.c
+SPDXID: SPDXRef-item118091
+FileChecksum: SHA1: 16c2b5780ad7a889d64571fffa9b950cde6f2fcd
+FileChecksum: MD5: fa7c3a07b0fff3b2ec2386d66ae748f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/fence-image-self-test.c
+SPDXID: SPDXRef-item118092
+FileChecksum: SHA1: 108d9344cbc3e0dc8d556f74b87051e71529f814
+FileChecksum: MD5: b114f745d21db8210867f6581cd14c0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/stress-test.c
+SPDXID: SPDXRef-item118093
+FileChecksum: SHA1: cbd06a544ba7e20c354e006531ff9c81282c5a0d
+FileChecksum: MD5: ff38721e86ecaddf50722a188799b8b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/solid-test.c
+SPDXID: SPDXRef-item118094
+FileChecksum: SHA1: bab95b1fc40d7124de5b937ea2d81c9507c68c0d
+FileChecksum: MD5: dfc5b4d331106e1c749f38369ec2b609
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/Makefile.am
+SPDXID: SPDXRef-item118095
+FileChecksum: SHA1: 4979e5cc887a72e0eac05a24a9940d6d0d010cf4
+FileChecksum: MD5: e3b0b50af618e3facfb09510cdf8b317
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/prng-test.c
+SPDXID: SPDXRef-item118096
+FileChecksum: SHA1: c94bcf31e735f3d52c9a6e9fb6c82b9f658dbcdf
+FileChecksum: MD5: aeccbe0c2de94c5910c52ebde9c12a20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/composite.c
+SPDXID: SPDXRef-item118097
+FileChecksum: SHA1: 7cd81c73ad09268b2570cea43c0697e24ec237e8
+FileChecksum: MD5: e59a62fe1d166749bb9ac596f2627575
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/trap-crasher.c
+SPDXID: SPDXRef-item118098
+FileChecksum: SHA1: 37ad6fe1b65a883c642c81b2906616a3be5a03da
+FileChecksum: MD5: d54c0208f081e92bfb6988a77551e599
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/utils.c
+SPDXID: SPDXRef-item118099
+FileChecksum: SHA1: 17b122faab20c3170c8face8de6346bfb48846b9
+FileChecksum: MD5: 14be03b046b3137cec80b2a2ec11953f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/utils-prng.c
+SPDXID: SPDXRef-item118100
+FileChecksum: SHA1: 29c61e362605a183fa5eede6f8460cb752220c15
+FileChecksum: MD5: b3c6b4880e321c3e283a70082e53bdab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/alphamap.c
+SPDXID: SPDXRef-item118101
+FileChecksum: SHA1: 6b7218a154ff04b9b47950c309a2269302d53382
+FileChecksum: MD5: df8d256f72739b48e44cff511e35e80d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/matrix-test.c
+SPDXID: SPDXRef-item118102
+FileChecksum: SHA1: 81da2adc042907794e4bc7b3907b81ccbf01ea80
+FileChecksum: MD5: ec078ee9c5d642106b6c95b035d421d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/scaling-test.c
+SPDXID: SPDXRef-item118103
+FileChecksum: SHA1: fbd66d37ccc1e7cd313bd472eefb97e2e42103fb
+FileChecksum: MD5: 0678b2540803a9701dee5a4dc8e0bf85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/infinite-loop.c
+SPDXID: SPDXRef-item118104
+FileChecksum: SHA1: 870aaa0de9cc15fbcb4cdc1df0a9e60b1f3043c9
+FileChecksum: MD5: 03975bb9533e943578183c775180a739
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/combiner-test.c
+SPDXID: SPDXRef-item118105
+FileChecksum: SHA1: c23e1100fa1fa095ffb9fb275ec5fa53b77c65cd
+FileChecksum: MD5: a597599b31495c6efbc204df7984545c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/glyph-test.c
+SPDXID: SPDXRef-item118106
+FileChecksum: SHA1: c6fa26cdb1a75c3dcb67567d592215c1036fc9fc
+FileChecksum: MD5: bdb8375cc624d5be5a04accfbd16ae73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/utils.h
+SPDXID: SPDXRef-item118107
+FileChecksum: SHA1: 9266133a6bb3c65225ca2581b93cac5f99c9af60
+FileChecksum: MD5: 961a8ece7d040c80aa2acb98d186b164
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/affine-bench.c
+SPDXID: SPDXRef-item118108
+FileChecksum: SHA1: 965eb3cb1fb85ef6e145f3e5235cb3b582a4454c
+FileChecksum: MD5: 1be6ab20f45dc3f5448a777c70430d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/scaling-bench.c
+SPDXID: SPDXRef-item118109
+FileChecksum: SHA1: 1dab902302852cec4241546bf32d8b8a2d379e01
+FileChecksum: MD5: fd1cd95bafc82fd857d5bd13aafde291
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/scaling-helpers-test.c
+SPDXID: SPDXRef-item118110
+FileChecksum: SHA1: cd7866a0de9bb7b47eea950fe0e686920628fbe3
+FileChecksum: MD5: 152db52b67009cf5d029b1cf05076a9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/region-test.c
+SPDXID: SPDXRef-item118111
+FileChecksum: SHA1: c1fe91e432ea650ec78227852a58cc3381f3df8c
+FileChecksum: MD5: 5ad4828cae7104295218036a479f53ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/thread-test.c
+SPDXID: SPDXRef-item118112
+FileChecksum: SHA1: 3b6d16bc0de09bd6111e7a43741efdc460ed3bc9
+FileChecksum: MD5: 4dfeca85158fa9839c941c45915cf4db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/radial-invalid.c
+SPDXID: SPDXRef-item118113
+FileChecksum: SHA1: 24539fb19b22852f259fde99636397d0793fd4d6
+FileChecksum: MD5: 6ec6d99e76eb2615c2cc9a3d3e3310d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test/scaling-crash-test.c
+SPDXID: SPDXRef-item118114
+FileChecksum: SHA1: 080f90a7673b85d9474e6a5230594d3e53a370f9
+FileChecksum: MD5: 957665d8f325293b0075c57e5565c0fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/missing
+SPDXID: SPDXRef-item118115
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/srgb-test.c
+SPDXID: SPDXRef-item118117
+FileChecksum: SHA1: 3eb66e6cbdfd77f956956617c4249b38584a6b65
+FileChecksum: MD5: a22833aea4816ede133ad17dc004a80a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/conical-test.c
+SPDXID: SPDXRef-item118118
+FileChecksum: SHA1: a77d1acfadcb33c533d95f9187c41ae068cf40cd
+FileChecksum: MD5: 64335b9322ad32b30f7568f2045e4a0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/screen-test.c
+SPDXID: SPDXRef-item118119
+FileChecksum: SHA1: 867074ad299b26d8f114ae27e2fcafbb2a67c7e3
+FileChecksum: MD5: 680a0da66bef08d020740164c8391c58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/convolution-test.c
+SPDXID: SPDXRef-item118120
+FileChecksum: SHA1: ba12ec92f2070210864ddbea646d0b2cbd22ec41
+FileChecksum: MD5: 23549361b9636e28c661637ade906ff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/trap-test.c
+SPDXID: SPDXRef-item118121
+FileChecksum: SHA1: 720e6b6af7d80f1ebbd29e0e66c60f47e6c9622a
+FileChecksum: MD5: 5273a70b3c416a615fda8361da4f7ef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/checkerboard.c
+SPDXID: SPDXRef-item118122
+FileChecksum: SHA1: 253c7ac572ec7cb243e211e7896ac4ec3a65d722
+FileChecksum: MD5: 24973391c3cdc0c85187935104db7b31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/Makefile.in
+SPDXID: SPDXRef-item118123
+FileChecksum: SHA1: a10923171a749cb5fc63d9cce82b41948157fe8b
+FileChecksum: MD5: 343c9fc1e6202e96f05ec6997757c5a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/parrot.c
+SPDXID: SPDXRef-item118124
+FileChecksum: SHA1: 1527be3b3989e79da02dfb9aff89a28b827f1a07
+FileChecksum: MD5: 2ef5bda036f7b2b864e5f2adfdc8a3dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/srgb-trap-test.c
+SPDXID: SPDXRef-item118125
+FileChecksum: SHA1: 25c06665ec05d48e40d1787276a71265348628e0
+FileChecksum: MD5: a50e780f40818ab702b6c945c4bc50ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/scale.c
+SPDXID: SPDXRef-item118126
+FileChecksum: SHA1: a324087877afebd27005228f2c2e468aaf6a273a
+FileChecksum: MD5: 99f08dac2069dbc4cbe69148d57850b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/linear-gradient.c
+SPDXID: SPDXRef-item118127
+FileChecksum: SHA1: d875a79571322ec393917116cb07702d05fa2b41
+FileChecksum: MD5: 6f6c0d6e7c63750b8e43c47c56e97f2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/Makefile.am
+SPDXID: SPDXRef-item118128
+FileChecksum: SHA1: 4761c3ba66a47f2105cc07db99a8b68d4050cfe8
+FileChecksum: MD5: fb777221c24219b031eaf1a738781134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/parrot.jpg
+SPDXID: SPDXRef-item118129
+FileChecksum: SHA1: 4d3398cbb24de6a9db6f779c9a369636f111a559
+FileChecksum: MD5: abb4e83345ad3bc3ea221c77e80f6b0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/gradient-test.c
+SPDXID: SPDXRef-item118130
+FileChecksum: SHA1: 92be8e6d4bfb65a892cb7f1855895c729b2a181f
+FileChecksum: MD5: cbd7179a75b587e4d890a25ce78496af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/composite-test.c
+SPDXID: SPDXRef-item118131
+FileChecksum: SHA1: 1c06b3bb2892d87ac894efcc81df995558623dbd
+FileChecksum: MD5: b0f4d8eee8acb1bf363a1d00b9db894e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/gtk-utils.h
+SPDXID: SPDXRef-item118132
+FileChecksum: SHA1: ceb6e504af6afb0bf21a571dc2fd4ac7e48574ee
+FileChecksum: MD5: eee138f325b1e59c0acdefbdbff5fd28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/radial-test.c
+SPDXID: SPDXRef-item118133
+FileChecksum: SHA1: ad09fbb56093cde91d933a07cbc9c130349daaec
+FileChecksum: MD5: 96accaa664c7868c2f8758777df11c15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/scale.ui
+SPDXID: SPDXRef-item118134
+FileChecksum: SHA1: 93f2ff5a9aec16ca7d990d843ab0b7c6b46189a9
+FileChecksum: MD5: 37ac9d7f1e983252c9ac92116e1d9c81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/clip-in.c
+SPDXID: SPDXRef-item118135
+FileChecksum: SHA1: 2d4b9079a4b320638495680a11bbabc9cf647461
+FileChecksum: MD5: 58e54eecd6e9c088ca6b54b347460543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/quad2quad.c
+SPDXID: SPDXRef-item118136
+FileChecksum: SHA1: 38afb73d84d875096f6ebd7aa2fe64b62839d615
+FileChecksum: MD5: 893c6b322c9ced4315a51ca936291885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/alpha-test.c
+SPDXID: SPDXRef-item118137
+FileChecksum: SHA1: a8d064b3753fc35845da19e291cc632052574507
+FileChecksum: MD5: 06053b40f7ed86937e8eebaed4da2831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/tri-test.c
+SPDXID: SPDXRef-item118138
+FileChecksum: SHA1: 6533d3759d4c6a7b5494137a6422b937b418ac56
+FileChecksum: MD5: 21fbd98f5fc5dbcfba01aeee80bbf060
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/gtk-utils.c
+SPDXID: SPDXRef-item118139
+FileChecksum: SHA1: 6e4c28219f1a1109751bb91fc01764782adda5df
+FileChecksum: MD5: 00b3f3e2594c146f9b1c0296a6386778
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/demos/clip-test.c
+SPDXID: SPDXRef-item118140
+FileChecksum: SHA1: 64b378cf523356d0322d846fd07e6a57e4baa5c7
+FileChecksum: MD5: e52ff5c0884674f51fb8edb2c8ab5436
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/README
+SPDXID: SPDXRef-item118141
+FileChecksum: SHA1: 0593d5d9b6b341c4fef50e6df01d723f9f213aec
+FileChecksum: MD5: 1f4a2c033220c021aea936a9f901d335
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/applied-patches
+SPDXID: SPDXRef-item118143
+FileChecksum: SHA1: 59c375e00e38cb56e96dff46ff4203496bef9ad3
+FileChecksum: MD5: 573e1796e053a0b2a3b34badc47966b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/.quilt_series
+SPDXID: SPDXRef-item118144
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/.version
+SPDXID: SPDXRef-item118145
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/0001-test-utils-Check-for-FE_INVALID-definition-before-us.patch/test/utils.c
+SPDXID: SPDXRef-item118148
+FileChecksum: SHA1: fd1df318a68760e570b3cf581ceb20988a41dd14
+FileChecksum: MD5: 8e532b793939793d3577e08407f91633
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/0001-test-utils-Check-for-FE_INVALID-definition-before-us.patch/.timestamp
+SPDXID: SPDXRef-item118149
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/0001-ARM-qemu-related-workarounds-in-cpu-features-detecti.patch/pixman/pixman-arm.c
+SPDXID: SPDXRef-item118152
+FileChecksum: SHA1: b448054ffbd14788b93ac12a05000724c05f973c
+FileChecksum: MD5: 4736affc31d3a92f68ead838275efb3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: HPND
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/0001-ARM-qemu-related-workarounds-in-cpu-features-detecti.patch/.timestamp
+SPDXID: SPDXRef-item118153
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/.quilt_patches
+SPDXID: SPDXRef-item118154
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/asm_include.patch/pixman/pixman-private.h
+SPDXID: SPDXRef-item118157
+FileChecksum: SHA1: f87a0211996f31f49b970597a8feb418675f9039
+FileChecksum: MD5: b71737469846ff37c89d0049cfd7ef0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/.pc/asm_include.patch/.timestamp
+SPDXID: SPDXRef-item118158
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/configure.ac
+SPDXID: SPDXRef-item118159
+FileChecksum: SHA1: d96b1f3ac6ab290d88f79f5115d61b3ec98c154c
+FileChecksum: MD5: ae0dce58a728381a7adb224bc8fb092a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/Makefile.win32.common
+SPDXID: SPDXRef-item118160
+FileChecksum: SHA1: a248a1b71ec2c9018162291d5c7336b128449fa8
+FileChecksum: MD5: 340d651956c4ba8f8d6012380930ddb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/test-driver
+SPDXID: SPDXRef-item118161
+FileChecksum: SHA1: ebabeb373c5af3b8606b510a2494955e34325d8a
+FileChecksum: MD5: 7ce923f582b49637d13847c49fff9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/INSTALL
+SPDXID: SPDXRef-item118162
+FileChecksum: SHA1: b853e474443016921ca2f0c424599387dad55ffd
+FileChecksum: MD5: c59cbaf0df9bcf35feca0d0f1fc01dae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/patches/series
+SPDXID: SPDXRef-item118166
+FileChecksum: SHA1: fd0f0edee714a0abae620b65a84b7235d226c863
+FileChecksum: MD5: 0d73c66eb1c6d91d4fef81caf0fd7b0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/config.guess
+SPDXID: SPDXRef-item118168
+FileChecksum: SHA1: 41832fbc82a7fcf9197171554070a6050cf2e5c1
+FileChecksum: MD5: c53118f6682ac1db40935d5705145d5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/depcomp
+SPDXID: SPDXRef-item118169
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pixman-0.34.0/ChangeLog
+SPDXID: SPDXRef-item118170
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-ARM-qemu-related-workarounds-in-cpu-features-detecti.patch
+SPDXID: SPDXRef-item118171
+FileChecksum: SHA1: 63416039abf8e6e82560544d7a7749c978d86f40
+FileChecksum: MD5: 25769eab01277b4263680ab77bf62d97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/asm_include.patch
+SPDXID: SPDXRef-item118172
+FileChecksum: SHA1: ce28bc491711485969f349a4bc8eb638adcbce9d
+FileChecksum: MD5: a7b0b88f186696bf751ec62994cf48c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain-C-
+LicenseName: Public-domain(C)
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-MIT-CMU-style
+LicenseName: MIT-CMU-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-MIT-style
+LicenseName: MIT-style
+ExtractedText: <text> According to MIT license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

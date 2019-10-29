@@ -1,0 +1,1308 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_python3-pycairo-1.10.0-r2-patched.tar.gz_1571458034.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:07:14Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: python3-pycairo
+PackageVersion: 1.10.0
+PackageFileName: python3-pycairo-1.10.0-r2-patched.tar.gz
+SPDXID: SPDXRef-upload341
+PackageDownloadLocation: http://cairographics.org/releases/pycairo-1.10.0.tar.bz2
+PackageHomePage: http://cairographics.org/pycairo
+PackageSummary: <text>Python bindings for the Cairo canvas library</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>python3-pycairo version 1.10.0</text>
+PackageChecksum: SHA1: e9abf930392b742f509149e8da89b3b175465689
+PackageChecksum: MD5: 7d37d93b94c2cd366a0c89fad3b3f83a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload341
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/NEWS
+SPDXID: SPDXRef-item853110
+FileChecksum: SHA1: 79bfd786324cb7ddc90b051464e21dc50a07bd05
+FileChecksum: MD5: fef9100b0e80c16d56507be4928b7bb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/py3cairo.pc.in
+SPDXID: SPDXRef-item853111
+FileChecksum: SHA1: 06130a9282addac0df2740164ad7fde521e2c710
+FileChecksum: MD5: 28cd98bc5b964b9318c5c44e61d9ea7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/COPYING.LESSER
+SPDXID: SPDXRef-item853112
+FileChecksum: SHA1: f45ee1c765646813b442ca58de72e20a64a7ddba
+FileChecksum: MD5: e6a600fd5e1d9cbde2d983680233ad02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/COPYING
+SPDXID: SPDXRef-item853113
+FileChecksum: SHA1: 8624bcdae55baeef00cd11d5dfcfa60f68710a02
+FileChecksum: MD5: d32239bcb673463ab874e80d47fae504
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/wscript
+SPDXID: SPDXRef-item853114
+FileChecksum: SHA1: fa7ac915e24788babef84868759ab7ae53c19f02
+FileChecksum: MD5: 6581e641cf75a093959cc56e4e0a2700
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/font.c
+SPDXID: SPDXRef-item853116
+FileChecksum: SHA1: 58e944792e41c3b88ce3121ac62fed8c1f3bf252
+FileChecksum: MD5: bba57211a51ecedc021b9dc4a3277f94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/matrix.c
+SPDXID: SPDXRef-item853117
+FileChecksum: SHA1: baa40498b52a2f4c3854480b3bc8db59b8a581ff
+FileChecksum: MD5: 52bcc7205637ff8192e1c8a10b7f9647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/wscript
+SPDXID: SPDXRef-item853118
+FileChecksum: SHA1: 8216fa189855c2c50241904921fa319c548d5bb4
+FileChecksum: MD5: f8e93d4f9e11bd00aa1ff09eb6523f40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/surface.c
+SPDXID: SPDXRef-item853119
+FileChecksum: SHA1: 126ca6b486785947d712831e990e0193c0c3a294
+FileChecksum: MD5: 14a6830cab3456179c4ad1931da2317d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/cairomodule.c
+SPDXID: SPDXRef-item853120
+FileChecksum: SHA1: 8c3b4ffa007e869624913e2392a337223882cb2e
+FileChecksum: MD5: b29add36fc5ade7849085ae41f74b418
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/pattern.c
+SPDXID: SPDXRef-item853121
+FileChecksum: SHA1: 5c935bbdb5ba5bfbbc433ece8c2178af4f19083a
+FileChecksum: MD5: c826341c097314e1ea9a9746950459ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/private.h
+SPDXID: SPDXRef-item853122
+FileChecksum: SHA1: 8de296323de4bb23568a26d2ed0c5f8328aa0dd0
+FileChecksum: MD5: 1bbdcadf2909a0d7078f966cff60dd42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/context.c
+SPDXID: SPDXRef-item853123
+FileChecksum: SHA1: 85eaa5d12c667f3e243219d7ee589031a9b38372
+FileChecksum: MD5: aeba4d0e33d0e8e7e64d4a950d1ae695
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/py3cairo.h
+SPDXID: SPDXRef-item853124
+FileChecksum: SHA1: 51086f02a45eff9307b79aee3e00dd9b3959017c
+FileChecksum: MD5: cf4a072d357a3a601a556d143c211476
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/path.c
+SPDXID: SPDXRef-item853125
+FileChecksum: SHA1: 5d4e33f3e2cda40f47dc520086eaceb07c295f00
+FileChecksum: MD5: 18c69e7d4f14ca83fe1976282c22a20b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/src/__init__.py
+SPDXID: SPDXRef-item853126
+FileChecksum: SHA1: 52e5290e2d7873f52e267fccde1f432626057287
+FileChecksum: MD5: ff67eaa9960cb689faec3a2da64b8df5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/text_extents.py
+SPDXID: SPDXRef-item853130
+FileChecksum: SHA1: 03863a5e50c3a12e2de17e01bc77f34a079461a8
+FileChecksum: MD5: 9e19f63cfff168057d79ff9c05deb51a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/show_glyphs.py
+SPDXID: SPDXRef-item853131
+FileChecksum: SHA1: e5a395130e87033f0876a1b1aed3f4edbee57687
+FileChecksum: MD5: 9192e9edf6f0b2cbfa4306ee894203c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/fill_and_stroke2.py
+SPDXID: SPDXRef-item853132
+FileChecksum: SHA1: 972968dbec34220b4eb45dd52655d70109487b96
+FileChecksum: MD5: 8e4dfa09c46e121eda5e072cb3e8f5f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/glyph_path.py
+SPDXID: SPDXRef-item853133
+FileChecksum: SHA1: 30440b8d4dcf4435547731345ea82ec0931a5b53
+FileChecksum: MD5: 9046dd3e0010d1c9a773c78d43df8f4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/gradient.py
+SPDXID: SPDXRef-item853134
+FileChecksum: SHA1: de530aaf5a3401fa78b9674e5fa1981136d316e6
+FileChecksum: MD5: 6a464e5b1ae7d976a4ac791bac19c121
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/group.py
+SPDXID: SPDXRef-item853135
+FileChecksum: SHA1: 12dcaec99b3791e154ff197ba368f57147799b82
+FileChecksum: MD5: 26bd6451eaf83a30a4695d7447e9afa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/fill_and_stroke.py
+SPDXID: SPDXRef-item853136
+FileChecksum: SHA1: 82108071e1063248092210ecaec90b3c460d79ce
+FileChecksum: MD5: 732a8f8b9131503b07452ab990778299
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/ellipse.py
+SPDXID: SPDXRef-item853137
+FileChecksum: SHA1: b2060cbf4f51ee380f682a67e483afc519f9895d
+FileChecksum: MD5: dc494285afc8f77b8a56a5553aa6415d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/path.py
+SPDXID: SPDXRef-item853138
+FileChecksum: SHA1: c949d8114de8d34dca596e33194d5285009471a2
+FileChecksum: MD5: ab7cc890dc31a33e78fc0f0ac0dded64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/clip.py
+SPDXID: SPDXRef-item853139
+FileChecksum: SHA1: f0d3a5092286cb19045cb6047e0db5aef1adac45
+FileChecksum: MD5: ec8a5d0ebb3c3f7455db81dccadbd9da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/gradient_mask.py
+SPDXID: SPDXRef-item853140
+FileChecksum: SHA1: 34fa7eea2fca93a33843ff2834f9d46b02cc212e
+FileChecksum: MD5: 57d3541eb911b08548c6a558989b8ecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/arc_negative.py
+SPDXID: SPDXRef-item853141
+FileChecksum: SHA1: 0eaf1d406a57cfde53543eb275c5d2c8fd8745e2
+FileChecksum: MD5: ef902d2bf84fe38bf15e7973392c04bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/set_line_join.py
+SPDXID: SPDXRef-item853142
+FileChecksum: SHA1: 6d1ac4e06331a6dc26d47ae5730cd7cebde7ab2f
+FileChecksum: MD5: 51b3c19198a9eb1f287912e4dd6fb29b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/curve_to.py
+SPDXID: SPDXRef-item853143
+FileChecksum: SHA1: b89de93887e0530d2526da22c4fd063a2a725066
+FileChecksum: MD5: 13cc12baaeb354842e7870009b8b1281
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/curve_rectangle.py
+SPDXID: SPDXRef-item853144
+FileChecksum: SHA1: 6962a4a4dd959cd478cafeb1da8cfdaea52e097b
+FileChecksum: MD5: 005c6465b69e5c61031bdb2dfe687729
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/set_line_cap.py
+SPDXID: SPDXRef-item853145
+FileChecksum: SHA1: 680665222f5bd0adf8aeb379d053dff0c22ec7fa
+FileChecksum: MD5: 26f1ce439d683b73ca4241f0cf9ff172
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/arc.py
+SPDXID: SPDXRef-item853146
+FileChecksum: SHA1: ce02617bb63fc23ae92b84ffa91a5b61e86dba3f
+FileChecksum: MD5: e9ed581c09de457da47089c638c17313
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/__init__.py
+SPDXID: SPDXRef-item853147
+FileChecksum: SHA1: 51a54777c0e8050cd77b11dbe29952fdab3e38b8
+FileChecksum: MD5: d4c5920590ed73a7915d6e2bf394f98f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/text_align_center.py
+SPDXID: SPDXRef-item853148
+FileChecksum: SHA1: 0892b9319f207add66f7f01244228405efcea387
+FileChecksum: MD5: 1ffaaf2b61e6011cb77d415573662b50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets/text.py
+SPDXID: SPDXRef-item853149
+FileChecksum: SHA1: 5b07b0e2a692778cbf3248f6923171c053f82b17
+FileChecksum: MD5: a645850dcfab22e6cbb2cd2bdefbff00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets_pdf.py
+SPDXID: SPDXRef-item853150
+FileChecksum: SHA1: b06156da029428369779c28b77e66775012bd761
+FileChecksum: MD5: 0faf95b6302fb02a371532eda09e606f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets_svg.py
+SPDXID: SPDXRef-item853151
+FileChecksum: SHA1: 4876b233b419c4701707cd3b97548ac852f26d9b
+FileChecksum: MD5: da3a072a46f37841981fd121e9739c97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets_png.py
+SPDXID: SPDXRef-item853152
+FileChecksum: SHA1: 1bafa4b268ee73362cb6f6ed357537785886504b
+FileChecksum: MD5: 7ac27c14af4f138983b48f98d56a8d00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets_gtk.py
+SPDXID: SPDXRef-item853153
+FileChecksum: SHA1: ef5c650c1005dae6526b97e6efedf5fb7f5abffb
+FileChecksum: MD5: dec92356dd832fc92e68578a8cd6de9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/cairo_snippets/snippets_ps.py
+SPDXID: SPDXRef-item853154
+FileChecksum: SHA1: b58abdb2ffb3de0c6ed14f6b1a1793a1f191be18
+FileChecksum: MD5: e150d08b3ef510bebab1d9dcad98ed7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/gradient.py
+SPDXID: SPDXRef-item853155
+FileChecksum: SHA1: 10cd7600c61657e33e36a4ebc4aaf7bd69f5a87a
+FileChecksum: MD5: c9115fa1d769be638c6d463a23e9187e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/gtk/lsystem.py
+SPDXID: SPDXRef-item853157
+FileChecksum: SHA1: edf4fe82038468433f3c439a157aa1e5772cac9c
+FileChecksum: MD5: 60ed6981ea7d3fbd08897d873b2fcd2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/gtk/png_view.py
+SPDXID: SPDXRef-item853158
+FileChecksum: SHA1: 50425a0c5bea97885f98ba16758d66089fbadf07
+FileChecksum: MD5: f2cf5089bdc53430303450d0586487bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/gtk/cairo-demo.py
+SPDXID: SPDXRef-item853159
+FileChecksum: SHA1: c1836f0784410d8245355ddf77ad30a28ffec97e
+FileChecksum: MD5: 667a83dcb8043b22b5a98b39286906e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/gtk/hangman.py
+SPDXID: SPDXRef-item853160
+FileChecksum: SHA1: 2e47f9e01f6a7a8c6261b8c1383d5010a3140def
+FileChecksum: MD5: d546cf32278b5c0666ce1af07ea7254c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/gtk/cairo-knockout.py
+SPDXID: SPDXRef-item853161
+FileChecksum: SHA1: 95d4dfc2b769280e9625898e67f107043ecee0d5
+FileChecksum: MD5: 298906af3300eb9a7c8c04487ddad8d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/gtk/text.py
+SPDXID: SPDXRef-item853162
+FileChecksum: SHA1: 4ceaf3f9b6e20037add5c9b0b8be72efe3cea287
+FileChecksum: MD5: d2ab5007d0ff2d2e30de43d8ec348c03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/spiral.py
+SPDXID: SPDXRef-item853163
+FileChecksum: SHA1: 3e248aa7e82f407a8ab393c648fde3bd5afdb097
+FileChecksum: MD5: 36954a13d9d8cea28f1241b50b64e18c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/warpedtext.py
+SPDXID: SPDXRef-item853164
+FileChecksum: SHA1: cdec790733eed5a711de19bf329c6c3f0ac1ec47
+FileChecksum: MD5: c955f529c954060a71b89be8fcb3d53a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/examples/hering.py
+SPDXID: SPDXRef-item853165
+FileChecksum: SHA1: c7b53e94218ccac84b15aea84bc1bcdadefeaf44
+FileChecksum: MD5: a8454fc4ba7419129d7f263cb982aadd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/waf
+SPDXID: SPDXRef-item853166
+FileChecksum: SHA1: 086b197467bec193bedfaed01ed7251a622169b0
+FileChecksum: MD5: 25c0c5b9a01b1b1e12eec1cba1570a75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/AUTHORS
+SPDXID: SPDXRef-item853167
+FileChecksum: SHA1: 8b716809e1e3459113c3f3c1e7085ef67d0120a5
+FileChecksum: MD5: 37d348adf598cdff7463a372bf6cca03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/Makefile
+SPDXID: SPDXRef-item853169
+FileChecksum: SHA1: 9008a3ddbe14df41bdd419c98c5c3559e721af13
+FileChecksum: MD5: d87244ef2353d41d581984dff8d8c761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/index.rst
+SPDXID: SPDXRef-item853170
+FileChecksum: SHA1: f892ec05f1cb4647bf1305fa78a06583d3c4b22f
+FileChecksum: MD5: c506cd55906672347a2d22393e219568
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/surfaces.rst
+SPDXID: SPDXRef-item853172
+FileChecksum: SHA1: 6ef7084c2a14b2511b2e459f03e279df262e16bd
+FileChecksum: MD5: 5a806157038de3985d3fdea4b30864e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/index.rst
+SPDXID: SPDXRef-item853173
+FileChecksum: SHA1: 167a03715240dae0f08f3c2b9182c8942e000d61
+FileChecksum: MD5: f303ecc8eb5360dbdd68fd779e9d958d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/text.rst
+SPDXID: SPDXRef-item853174
+FileChecksum: SHA1: 53d65579e3aa44917067b3f7d4685f42b1b38d0d
+FileChecksum: MD5: cdf464b31c5013c511389008443a4a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/context.rst
+SPDXID: SPDXRef-item853175
+FileChecksum: SHA1: e85458cb77ec149fed4e57ba1a15af38f30c5551
+FileChecksum: MD5: d09304f34522583cd278d8440c5df954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/patterns.rst
+SPDXID: SPDXRef-item853176
+FileChecksum: SHA1: 2d26ab5446827dbb3d04c1df0b7ceb77918f4b9d
+FileChecksum: MD5: 2481d988c4a558d6569a27ee2dbc2268
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/constants.rst
+SPDXID: SPDXRef-item853177
+FileChecksum: SHA1: a13c50a0d6e192dbcffb1eadf987c10310004fdd
+FileChecksum: MD5: a080498ade271ea91588efbf2190c6a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/paths.rst
+SPDXID: SPDXRef-item853178
+FileChecksum: SHA1: 596640ab50190d155d1a74d5c5bc5f437b81d143
+FileChecksum: MD5: 2b7e0b26eb278b9f123d98513b4f8fee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/matrix.rst
+SPDXID: SPDXRef-item853179
+FileChecksum: SHA1: 50eefc393e46fa3461f3146924a43b3078574c39
+FileChecksum: MD5: ec17337894e03a4250756b0cdd895934
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/reference/exceptions.rst
+SPDXID: SPDXRef-item853180
+FileChecksum: SHA1: 99f57026802c9fedbff732264034da906a5e1be5
+FileChecksum: MD5: 258fd46024148c58ab71105c0f20bd64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/faq.rst
+SPDXID: SPDXRef-item853181
+FileChecksum: SHA1: 7d801d8a68b39b361a98fff7a5a202453a4b73d7
+FileChecksum: MD5: 57f1d9cc464c95025c96e29ef596d54d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/conf.py
+SPDXID: SPDXRef-item853182
+FileChecksum: SHA1: 1b2e2a934a23071fe5934fee45a3a9d54b67bf0f
+FileChecksum: MD5: 941750abc12d22841a61aadfb30397b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/README
+SPDXID: SPDXRef-item853183
+FileChecksum: SHA1: 92e8f58623bb8bf090c714ed9b902d7c6e3a6ff4
+FileChecksum: MD5: 5420c42639f73ee791e9b3ca5817fc78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/objects.inv
+SPDXID: SPDXRef-item853186
+FileChecksum: SHA1: 723bf9e45f1122bb13d6012be6d9d439140e15f2
+FileChecksum: MD5: 4cd6a20b7fb06482ca764ca61ebf7a59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/py-modindex.html
+SPDXID: SPDXRef-item853187
+FileChecksum: SHA1: 311417542969869c4fad70490fd80fe0d2fadfac
+FileChecksum: MD5: 80c3d62832b63414a7da8b3fcaf26117
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/faq.html
+SPDXID: SPDXRef-item853188
+FileChecksum: SHA1: a1c79f3f59a94684faf535ba7bbe18e1496cc244
+FileChecksum: MD5: 1491102a6b4696f3b4cf22c09776c430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/surfaces.html
+SPDXID: SPDXRef-item853190
+FileChecksum: SHA1: 09acafd13e557932867fd3ee46ef5119a7cc5394
+FileChecksum: MD5: 490553ed24e49b74635fefb9485d3a87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/paths.html
+SPDXID: SPDXRef-item853191
+FileChecksum: SHA1: 7452a0615ba51ba0fd34015346ae5da3433cd1ce
+FileChecksum: MD5: b3c8c70b4453f95a6a6c4a1a0296d32e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/index.html
+SPDXID: SPDXRef-item853192
+FileChecksum: SHA1: ae9a3783b0bccf805fc4e968f51fef767de5f29b
+FileChecksum: MD5: 5088cf344bae66062513bc6a95c5a5cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/patterns.html
+SPDXID: SPDXRef-item853193
+FileChecksum: SHA1: 007f13f1896514b28d65093fc5e841ed65550e4d
+FileChecksum: MD5: 1e8c2a272749e15b16098fe65e04d907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/text.html
+SPDXID: SPDXRef-item853194
+FileChecksum: SHA1: 636a0092e54384992b43d3964467bd3368da8325
+FileChecksum: MD5: 68f647e0d8ad599b1bfff49823949ae4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/exceptions.html
+SPDXID: SPDXRef-item853195
+FileChecksum: SHA1: b16d0d6fc71b18d32ea969b0204ec78ed709c046
+FileChecksum: MD5: 6be76486be15fb6b7204a3a31748bd19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/matrix.html
+SPDXID: SPDXRef-item853196
+FileChecksum: SHA1: 236d1a36fe1d2ed504361a7cb2cab39350ad7154
+FileChecksum: MD5: e0e7cdf9ff8c4cc3500f61ac8c57065c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/constants.html
+SPDXID: SPDXRef-item853197
+FileChecksum: SHA1: e295a24300786fb130729c60a8f66218375b93a2
+FileChecksum: MD5: e012eb0a2b7e6e961e5f829d2e3864a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/reference/context.html
+SPDXID: SPDXRef-item853198
+FileChecksum: SHA1: 8f76f4d1e5ca74eadc5c8191fe4bd4c2dbfc6314
+FileChecksum: MD5: 1bc73665d0f4205cdb60073115332340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/index.html
+SPDXID: SPDXRef-item853199
+FileChecksum: SHA1: d7a9081b3b657a90c53769000bdf809f77f7a0b0
+FileChecksum: MD5: 9f58177a198c1dd137d94ad74c5da72c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/search.html
+SPDXID: SPDXRef-item853200
+FileChecksum: SHA1: 832a30fd3dc41dc66b1a65cafac76a8a9067a782
+FileChecksum: MD5: 8b3f5d43a1881a1e04e4583310d5d2f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/overview.html
+SPDXID: SPDXRef-item853201
+FileChecksum: SHA1: 98750630acc311735639952c68452570fdf4cd4a
+FileChecksum: MD5: e6f2a5102533a4f66e7ccbb71ab984f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/searchindex.js
+SPDXID: SPDXRef-item853202
+FileChecksum: SHA1: 37e4cfcb578c787ca7eacbe303df4089be319527
+FileChecksum: MD5: 63eab2c85c56e5b7a6d8bc0f9580efb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/_static/basic.css
+SPDXID: SPDXRef-item853204
+FileChecksum: SHA1: 10543cf79d0ff21f13ff4b2b4d052818f83f864d
+FileChecksum: MD5: 95a8ca77a95ac4c7e47120ccb0d58b75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/_static/searchtools.js
+SPDXID: SPDXRef-item853205
+FileChecksum: SHA1: 75c56e15c5280a45dbff61481ca8e789dc7ceb86
+FileChecksum: MD5: 5c7121b03c7f2450b26a2b101bcd2037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/_static/underscore.js
+SPDXID: SPDXRef-item853206
+FileChecksum: SHA1: f6ae0423f0b85a11912e83275cf75219de89d635
+FileChecksum: MD5: 69434bc851c675c6c36c75288817548e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/_static/jquery.js
+SPDXID: SPDXRef-item853207
+FileChecksum: SHA1: 65cbff4e9d95d47a6f31d96ab4ea361c1f538a7b
+FileChecksum: MD5: 10092eee563dec2dca82b77d2cf5a1ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/_static/pygments.css
+SPDXID: SPDXRef-item853208
+FileChecksum: SHA1: 5f1b3227170ec2a605046e3cbd3bef341f78ae6f
+FileChecksum: MD5: d625a0adb949f181bd0d3f1432b0fa7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/_static/sidebar.js
+SPDXID: SPDXRef-item853209
+FileChecksum: SHA1: 44c5f736cef2ef97e6b85d7180eb3b6941961ad9
+FileChecksum: MD5: c83ae4d2891adc3be6a0f16f8e0cdc26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/_static/doctools.js
+SPDXID: SPDXRef-item853210
+FileChecksum: SHA1: 6d1b78c24bda1b59049714f9022e599dc7d87f6a
+FileChecksum: MD5: 8e1cdbc7d58b6fceb98422586904d3f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/_static/default.css
+SPDXID: SPDXRef-item853211
+FileChecksum: SHA1: c930144e493804d1a0a93cf1672c500addf217e7
+FileChecksum: MD5: 9085bb7f0fccc4ffeac4b2aa535ae543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/genindex.html
+SPDXID: SPDXRef-item853212
+FileChecksum: SHA1: 7148cd45f32da4a337263d6818e4b77655ee5ff2
+FileChecksum: MD5: 4ac892a8fba118b61a84f2a25dd947d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/pycairo_c_api.html
+SPDXID: SPDXRef-item853213
+FileChecksum: SHA1: 120dfecc6629290de5a25709dff702401cfc056c
+FileChecksum: MD5: b714d5781baee6bd427b882bb9b20735
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/_build/html/.buildinfo
+SPDXID: SPDXRef-item853214
+FileChecksum: SHA1: 6010ee414cb77471410cb2534e9e286de8dbff2e
+FileChecksum: MD5: 7a21c7a7b83465b930ca38c2f1306f64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/overview.rst
+SPDXID: SPDXRef-item853215
+FileChecksum: SHA1: d1ea93dc336625951983cf9a6195167a040a9fbe
+FileChecksum: MD5: 687e2efaaab1e696f670ab15ac06c040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/make.bat
+SPDXID: SPDXRef-item853216
+FileChecksum: SHA1: af78991a88ae365b528de143fe566628ac27f3cb
+FileChecksum: MD5: 4454def399609b1c51d735a63fdcc93f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/doc/pycairo_c_api.rst
+SPDXID: SPDXRef-item853217
+FileChecksum: SHA1: 2edf24a39f03d39c0d63cd14820e554b3e4a6542
+FileChecksum: MD5: d3f5b2f4082941b7b718135be8aca8b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/isurface_create_for_data2.py
+SPDXID: SPDXRef-item853219
+FileChecksum: SHA1: e3415e7c65d32127ce2deb2eb40cdd05a652e91f
+FileChecksum: MD5: 63e3b1375f7892ee266485eb3543f06b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/isurface_get_data.py
+SPDXID: SPDXRef-item853220
+FileChecksum: SHA1: 75ca1a051dd003abd61aa3670b65375bdcb15834
+FileChecksum: MD5: 8db4ab8d5519d6d95d05b467bfab9a55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/isurface_create_from_png.py
+SPDXID: SPDXRef-item853221
+FileChecksum: SHA1: 2e0ef98268e59e4abfd0c8a3c1bfedf26a51c4c0
+FileChecksum: MD5: 4f9bdf9131959921f130f685c4e23db7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/pygame-test2.py
+SPDXID: SPDXRef-item853222
+FileChecksum: SHA1: fbf89dc4b6ddee1e0bf442ecf50e6583a898bde3
+FileChecksum: MD5: 50f2a4cf2de9be0ddcfb6d11c975970a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/examples_test.py
+SPDXID: SPDXRef-item853223
+FileChecksum: SHA1: 414f68b808187354c171bf06d337eab8ef631c86
+FileChecksum: MD5: ebfd5dad67e5559eee1a12502e735fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/pygame-test1.py
+SPDXID: SPDXRef-item853224
+FileChecksum: SHA1: 821f1600d03889d7b040ce4f8158b139d4be44a4
+FileChecksum: MD5: 028cc16919227719c8df5168c78eb9d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/api_test.py
+SPDXID: SPDXRef-item853225
+FileChecksum: SHA1: 9285728690b2532af97327293101b8be4319fd5a
+FileChecksum: MD5: 18d35a1d61af343c5e30558a9c96c5dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/README
+SPDXID: SPDXRef-item853226
+FileChecksum: SHA1: 44b9455ed03ade3b1d8039bdd1842f62a2bb1740
+FileChecksum: MD5: 95c9787e06844d88af0ee257d57bbc7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/surface_create_for_stream.py
+SPDXID: SPDXRef-item853227
+FileChecksum: SHA1: d263c71fa3310dcce2cfcb629c554db25c804ad3
+FileChecksum: MD5: 8980c731bcb240f0c3869660fc406487
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/isurface_create_for_data1.py
+SPDXID: SPDXRef-item853228
+FileChecksum: SHA1: eb5f916f752b612c1c000e2aaf725e8a9802bf23
+FileChecksum: MD5: 4d2c1e98f9a094787d69e84a8f9dd456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/test/surface_write_to_png.py
+SPDXID: SPDXRef-item853229
+FileChecksum: SHA1: a42bc10fcd13240e08314832c2b21e1ab4cdd187
+FileChecksum: MD5: ef03e3d10e9d9e7868d8ff9f6d672186
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/README
+SPDXID: SPDXRef-item853230
+FileChecksum: SHA1: 0198b35b7b25cc3c36e9da4f9d42540dec1e2c40
+FileChecksum: MD5: b3f72d3814289f89890c891694a18c75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/INSTALL
+SPDXID: SPDXRef-item853231
+FileChecksum: SHA1: 11577e2bfa1b8a3f136729c9d731350262ed8c29
+FileChecksum: MD5: 0c88a82a3291d114640c8f90493e8dfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/pycairo-1.10.0/py3cairo-uninstalled.pc.in
+SPDXID: SPDXRef-item853232
+FileChecksum: SHA1: 06130a9282addac0df2740164ad7fde521e2c710
+FileChecksum: MD5: 28cd98bc5b964b9318c5c44e61d9ea7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-MIT-style
+LicenseName: MIT-style
+ExtractedText: <text> According to MIT license, add some modifications </text>
+

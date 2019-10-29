@@ -1,0 +1,713 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_base-passwd-3.5.29-r0-patched.tar.gz_1571460421.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:47:01Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: base-passwd
+PackageVersion: 3.5.29
+PackageFileName: base-passwd-3.5.29-r0-patched.tar.gz
+SPDXID: SPDXRef-upload424
+PackageDownloadLocation: https://launchpad.net/debian/+archive/primary/+files/base-passwd_3.5.29.tar.gz
+PackageHomePage: 
+PackageSummary: <text>Base system master password/group files</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>base-passwd version 3.5.29</text>
+PackageChecksum: SHA1: 4d77131435a1dd621381b040320e407c2e47a614
+PackageChecksum: MD5: 1c9835d2855531c949ea3a6e97039c9c
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload424
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/nobash.patch
+SPDXID: SPDXRef-item1101062
+FileChecksum: SHA1: 1a4d4d2bef800b9b775d17537bffee25f47ad96a
+FileChecksum: MD5: 19ff373c2961c616dc87fa2e4275938c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/add_shutdown.patch
+SPDXID: SPDXRef-item1101063
+FileChecksum: SHA1: ef39ff2d0bf5035494b3a92d328712734a2cf0a7
+FileChecksum: MD5: 2106112905206c820fcd528e61d60a98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/disable-docs.patch
+SPDXID: SPDXRef-item1101064
+FileChecksum: SHA1: 851766af5cb007179cf7742839d58a169d3e0439
+FileChecksum: MD5: 1847f5f1810ef47ee701115682cc3307
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/noshadow.patch
+SPDXID: SPDXRef-item1101065
+FileChecksum: SHA1: 9bdff051b0e6d2a812badd62593a0a32bbd5743b
+FileChecksum: MD5: b607c7800e360e1f3f789c2256803035
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/input.patch
+SPDXID: SPDXRef-item1101066
+FileChecksum: SHA1: 87f7c42d5f510145f4541221757cd7d323e97239
+FileChecksum: MD5: ccca503220856698f7e5398827df70ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/install-sh
+SPDXID: SPDXRef-item1101068
+FileChecksum: SHA1: 9d4de14ab9fb0facae2f48780b874848cbf2f895
+FileChecksum: MD5: 5afe8eb5573965dfb58378e4e46f3813
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: NTP
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/Makefile.in
+SPDXID: SPDXRef-item1101069
+FileChecksum: SHA1: 27259dc4f6f8844efdd3c35de32b49619a65f8e5
+FileChecksum: MD5: 668a0b25a2c08aa89f0b10502a6ad2ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/COPYING
+SPDXID: SPDXRef-item1101070
+FileChecksum: SHA1: b47456e2c1f38c40346ff00db976a2badf36b5e3
+FileChecksum: MD5: eb723b61539feef013de476e68b5c50a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/configure
+SPDXID: SPDXRef-item1101071
+FileChecksum: SHA1: 86ad0a4d1838e978461c127d1d2628d940be526d
+FileChecksum: MD5: 8b2ff3405335d21e3fe3b6326982256e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/translator_de.add
+SPDXID: SPDXRef-item1101074
+FileChecksum: SHA1: 3e9c608641f3cf952f25725a6ded1a8f950ea20b
+FileChecksum: MD5: ec98a6edf6ec7a3e4774436bcf459bc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/translator_ja.add
+SPDXID: SPDXRef-item1101075
+FileChecksum: SHA1: aff88dc6196ed6b4e4935f89be57cf80067e838a
+FileChecksum: MD5: 5515ebc192677c51914887cdf13929d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/po/es.po
+SPDXID: SPDXRef-item1101077
+FileChecksum: SHA1: 16747e6f076a9f1bd12a802941de8233aaa4c9b4
+FileChecksum: MD5: a1e017507a6064161b807dd571a10598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/po/base-passwd.pot
+SPDXID: SPDXRef-item1101078
+FileChecksum: SHA1: dc8c89429aa700fef28e29360ddbd0fa38e1ef9d
+FileChecksum: MD5: 1dbb03b88277ed11ab8af6dbfa9eb297
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/po/de.po
+SPDXID: SPDXRef-item1101079
+FileChecksum: SHA1: 613777e3a5d8cd73bbe6e93d465a02458910ec8a
+FileChecksum: MD5: db90c1f7b81b8041801a116593d91425
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/po/fr.po
+SPDXID: SPDXRef-item1101080
+FileChecksum: SHA1: ea98378817f53dac8b8936344b97e9b2795ddc9d
+FileChecksum: MD5: cf926788180b12de1be1ec89b73f732e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/po/ru.po
+SPDXID: SPDXRef-item1101081
+FileChecksum: SHA1: 63678ea1f0fca74b0553b866a1b581f0354f4536
+FileChecksum: MD5: b6c94a71e41c000436da14294f8ed296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/po/ja.po
+SPDXID: SPDXRef-item1101082
+FileChecksum: SHA1: c95028bbe9d2556c5f1aa356699a4b9dabcf06e8
+FileChecksum: MD5: 0e03623a4e83249e15cd1754f97bf363
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/po4a.cfg
+SPDXID: SPDXRef-item1101083
+FileChecksum: SHA1: dfa117205720cbed08320602a6e4934990debf46
+FileChecksum: MD5: 241d7a31e7ad6300d721cd1786954ba6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/translator_fr.add
+SPDXID: SPDXRef-item1101084
+FileChecksum: SHA1: e290ecef288bc662f27d66d5656f9f57941b4c2c
+FileChecksum: MD5: ccbe5699c092c403965baf75113a085b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/translator_es.add
+SPDXID: SPDXRef-item1101085
+FileChecksum: SHA1: c32004c025e018e1eb5c8cc34e0f9973576138f7
+FileChecksum: MD5: 42b65fbf96ad6fbca2a6f4eb459b9997
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/po4a/translator_ru.add
+SPDXID: SPDXRef-item1101086
+FileChecksum: SHA1: 12f942cfca79eb831a745c2f03445775ab305a06
+FileChecksum: MD5: bba51816ba1c078476113a5ea7b2056c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/update-passwd.8
+SPDXID: SPDXRef-item1101087
+FileChecksum: SHA1: 1c570da0bb32cfaff351ab8306cecb3c87a2aa1c
+FileChecksum: MD5: c0ab61162c7c1fdb7797ed3c56586715
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/Makefile.in
+SPDXID: SPDXRef-item1101088
+FileChecksum: SHA1: 37843c913c13952b72b05199db645faf2cc35124
+FileChecksum: MD5: bd0b832c714babc671d6378051b92049
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/man/update-passwd.pl.8
+SPDXID: SPDXRef-item1101089
+FileChecksum: SHA1: 9b7889513f7bc7d22af4538618d8347bc4b7b46f
+FileChecksum: MD5: fa3928bd99874c1b4ba0071191bbc9a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/group.master
+SPDXID: SPDXRef-item1101090
+FileChecksum: SHA1: ea830a2187b790b3fbe4884399097f21c90de526
+FileChecksum: MD5: 566af617236e4be514273504d9362703
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/passwd.master
+SPDXID: SPDXRef-item1101091
+FileChecksum: SHA1: 12846813285959ff1e0bd27d518658f6aa3c3f14
+FileChecksum: MD5: be797b0ca959ebb26502a83979385850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/update-passwd.c
+SPDXID: SPDXRef-item1101092
+FileChecksum: SHA1: 199093c6e43d0cac8fe4001fdf89e15c64448cac
+FileChecksum: MD5: a9bba9600ce2d8927150839edd1da9bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/config.h.in
+SPDXID: SPDXRef-item1101093
+FileChecksum: SHA1: 7f3d3368e1de25c5265d75005a66132049750343
+FileChecksum: MD5: 43bf362c24563457fb688fad3e530637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/version.h
+SPDXID: SPDXRef-item1101094
+FileChecksum: SHA1: 861ee8fe5faead353e8be5f6775b0b4191c2520c
+FileChecksum: MD5: 92546d87f8a89fd6dbda813091a96104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/doc/Makefile
+SPDXID: SPDXRef-item1101096
+FileChecksum: SHA1: b939530562cdfc24dec1ad7836fd78d7ffdb8e69
+FileChecksum: MD5: 90636d2363795aa8ff620785be82124a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/doc/users-and-groups.sgml
+SPDXID: SPDXRef-item1101097
+FileChecksum: SHA1: 3a529b421d6283b5df864156d9ef71f14b2dce97
+FileChecksum: MD5: 0562d6e4ce8111b7cd6476d5dbce4458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/README
+SPDXID: SPDXRef-item1101098
+FileChecksum: SHA1: 57992c77132ba51db871c1ebf08fc4c4b05c4e86
+FileChecksum: MD5: 9d98a8fada0224665d4fb88d0a2a91f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/applied-patches
+SPDXID: SPDXRef-item1101100
+FileChecksum: SHA1: ca3c06a5d67bedafc581fdf8f5f9881c658ffe71
+FileChecksum: MD5: 7933be41f1f7646504f789757b5a7f44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/.quilt_series
+SPDXID: SPDXRef-item1101101
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/.version
+SPDXID: SPDXRef-item1101102
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/nobash.patch/passwd.master
+SPDXID: SPDXRef-item1101104
+FileChecksum: SHA1: b51df86fa1382ed3d3a5c0cf03336d52b3bd92a9
+FileChecksum: MD5: c05b865b21853c001e03aca163d62912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/nobash.patch/.timestamp
+SPDXID: SPDXRef-item1101105
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/.quilt_patches
+SPDXID: SPDXRef-item1101106
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/add_shutdown.patch/group.master
+SPDXID: SPDXRef-item1101108
+FileChecksum: SHA1: 845525bcc8c4464b770fbf36690e8ee8e7a25591
+FileChecksum: MD5: eee0dc6a097ceaab6fd938092bc4b86c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/add_shutdown.patch/.timestamp
+SPDXID: SPDXRef-item1101109
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/disable-docs.patch/Makefile.in
+SPDXID: SPDXRef-item1101111
+FileChecksum: SHA1: 370f8df5b5294952618ca061d7bff0f0616b7fcb
+FileChecksum: MD5: b05456ab81df0658d15990742c0c929b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/disable-docs.patch/.timestamp
+SPDXID: SPDXRef-item1101112
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/noshadow.patch/passwd.master
+SPDXID: SPDXRef-item1101114
+FileChecksum: SHA1: bcb4b657798436c8d09c64ebafddd37009c7a985
+FileChecksum: MD5: a7f862541be2b7d3c073111c52cf58e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/noshadow.patch/.timestamp
+SPDXID: SPDXRef-item1101115
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/input.patch/group.master
+SPDXID: SPDXRef-item1101117
+FileChecksum: SHA1: e86536a3c539a8ef89731ff68f167fecedd92a8c
+FileChecksum: MD5: 528aeb4b0e41cf350b5a41544dd4dbb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/.pc/input.patch/.timestamp
+SPDXID: SPDXRef-item1101118
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/configure.ac
+SPDXID: SPDXRef-item1101119
+FileChecksum: SHA1: 3833d810735b17a74ce865422e111f48bc20674f
+FileChecksum: MD5: 4f23a1cf74eb84089d3cf11895962863
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/doc-base
+SPDXID: SPDXRef-item1101121
+FileChecksum: SHA1: 7013bfeff328ba446a0d01306f3264cbe8f908ed
+FileChecksum: MD5: cdac90d3d3ef8d60e4bc0eb73efa68d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/rules
+SPDXID: SPDXRef-item1101122
+FileChecksum: SHA1: b4692561d51c384a86b88a44f4c398a040a5fe78
+FileChecksum: MD5: b6901fb8e70e6e4d50442b12fb69b4fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/control
+SPDXID: SPDXRef-item1101123
+FileChecksum: SHA1: 401a617264ab5f72ba0f50101c3495898bf3c221
+FileChecksum: MD5: f5dfb1c14064b262ccc9f54a8aa0c989
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/install
+SPDXID: SPDXRef-item1101124
+FileChecksum: SHA1: e6c665b3ac3342e9a7b4a0cdd5aa0e3d92c939b7
+FileChecksum: MD5: 2ba0e0d097236d1f3489feb380d629ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/changelog
+SPDXID: SPDXRef-item1101125
+FileChecksum: SHA1: 8f9e9b4bf9f4552eacd4c364a338c5ecaab70af1
+FileChecksum: MD5: e1a103f282b1fe43472b306eeb892659
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/source/format
+SPDXID: SPDXRef-item1101127
+FileChecksum: SHA1: f8738a6566306ae25f93456a019426af51ccc827
+FileChecksum: MD5: c5fc031a250b2d76fe051ac3621620ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/compat
+SPDXID: SPDXRef-item1101128
+FileChecksum: SHA1: b6abd567fa79cbe0196d093a067271361dc6ca8b
+FileChecksum: MD5: 7c5aba41f53293b712fd86d08ed5b36e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/docs
+SPDXID: SPDXRef-item1101129
+FileChecksum: SHA1: 3906fb8cc69fca41000956d430f1c07e3ec546ad
+FileChecksum: MD5: 6a82fd8938548ce3c472cc13ea437fe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/postinst
+SPDXID: SPDXRef-item1101130
+FileChecksum: SHA1: f8b4a3adc0f0e4b00b7237fa257c73f455db0210
+FileChecksum: MD5: 5e9957cd9bf5955f0b12e9c6bb6e993c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/debian/copyright
+SPDXID: SPDXRef-item1101131
+FileChecksum: SHA1: 9828e3f2f706d8640d25786f140227274f559d62
+FileChecksum: MD5: 76b8211297b64b28671dfea99a6d032e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/base-passwd-3.5.29/patches/series
+SPDXID: SPDXRef-item1101134
+FileChecksum: SHA1: a93c7133c91ae8cc972e6863b96b7e6fc2c576ee
+FileChecksum: MD5: 75aa8c575d4bee8255dda7be0581e9f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

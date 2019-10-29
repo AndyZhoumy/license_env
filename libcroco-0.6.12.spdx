@@ -1,0 +1,3426 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libcroco-0.6.12-r0-patched.tar.gz_1571458082.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:08:02Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libcroco
+PackageVersion: 0.6.12
+PackageFileName: libcroco-0.6.12-r0-patched.tar.gz
+SPDXID: SPDXRef-upload345
+PackageDownloadLocation: http://ftp.gnome.org/pub/GNOME/sources/libcroco/0.6/libcroco-0.6.12.tar.xz;name=archive
+PackageHomePage: http://www.gnome.org/
+PackageSummary: <text>Cascading Style Sheet (CSS) parsing and manipulation toolkit</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libcroco version 0.6.12</text>
+PackageChecksum: SHA1: 7df5c6e273a137d99364dac377780c28cd0bdb5f
+PackageChecksum: MD5: d41f34e7662ecc8c146975254fe2f4c1
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload345
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/NEWS
+SPDXID: SPDXRef-item853658
+FileChecksum: SHA1: ba1fdfc5aa12c41ce4a0611460ebdd2645bbd337
+FileChecksum: MD5: 12aadba1ac004c9c53c9758b837741ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/ABOUT-NLS
+SPDXID: SPDXRef-item853659
+FileChecksum: SHA1: f75fc297a70d9adcb94e918bd33c913e8d9c99d2
+FileChecksum: MD5: ef11564ccd2881c65a06c9b0d6f7deec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/compile
+SPDXID: SPDXRef-item853660
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/acinclude.m4
+SPDXID: SPDXRef-item853661
+FileChecksum: SHA1: 35596970b519130dfe68203f7149904535921f4e
+FileChecksum: MD5: 7eccea14de2cffe41e49c81dd4d94fe9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/install-sh
+SPDXID: SPDXRef-item853662
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/COPYING.LIB
+SPDXID: SPDXRef-item853663
+FileChecksum: SHA1: 5fb362ef1680e635fe5fb212b55eef4db9ead48f
+FileChecksum: MD5: 55ca817ccb7d5b5b66355690e9abc605
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/aclocal.m4
+SPDXID: SPDXRef-item853664
+FileChecksum: SHA1: 2240862bb52e531d262ff74e64c5a5a81ea9a027
+FileChecksum: MD5: 9cc4a9fbcab551fe4a6264c34585eea9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/libcroco-0.6.pc
+SPDXID: SPDXRef-item853665
+FileChecksum: SHA1: 098d0cefac209cf7174d0526c3af6d8f23b8827f
+FileChecksum: MD5: 8b9b9d5509625e73ea51ff1bdd6e89b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/gtk-doc.make
+SPDXID: SPDXRef-item853666
+FileChecksum: SHA1: dad07561dac9783dfff20eb0f07c5b6a165022d0
+FileChecksum: MD5: f4d960e9cb95fbfe0e0dabc18a291cec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/Makefile.in
+SPDXID: SPDXRef-item853667
+FileChecksum: SHA1: 05e4c31c0fb20e52c0325eb8a3fc84aedf468dfa
+FileChecksum: MD5: 5e1e06560e546545dcf4c8f319b4e976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/libcroco.spec.in
+SPDXID: SPDXRef-item853668
+FileChecksum: SHA1: 5720452bb93c5860b04c790d5845f7c376493831
+FileChecksum: MD5: e54168bf549a1b1e9a35c6cdc410123e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/COPYING
+SPDXID: SPDXRef-item853669
+FileChecksum: SHA1: 5fb362ef1680e635fe5fb212b55eef4db9ead48f
+FileChecksum: MD5: 55ca817ccb7d5b5b66355690e9abc605
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/configure
+SPDXID: SPDXRef-item853670
+FileChecksum: SHA1: 86da558571d40ee0603aeaf407a7e20ab5d75948
+FileChecksum: MD5: 0b28c5ef9af5556a5b32a3f6076ed2fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/config.h.win32
+SPDXID: SPDXRef-item853671
+FileChecksum: SHA1: a8c185c6ac2f80b458c63b63d9e40223634571bd
+FileChecksum: MD5: 96188e2a585af65838255e8cf03f7e6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/ltmain.sh
+SPDXID: SPDXRef-item853672
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/Doxyfile
+SPDXID: SPDXRef-item853673
+FileChecksum: SHA1: 6cf7d71c429e933b82f1ff168703563c115fce7d
+FileChecksum: MD5: 343a9ad2af5e8792dab11ca752c0f10f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-parsing-location.c
+SPDXID: SPDXRef-item853675
+FileChecksum: SHA1: 45e08c91fb43fc2798c6de8919d33d0953d3b49c
+FileChecksum: MD5: 734033f49e7a9b970a1f7651be9d3b7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-utils.c
+SPDXID: SPDXRef-item853676
+FileChecksum: SHA1: c3105a2428989693822240afaec89eac32496a25
+FileChecksum: MD5: 977d33350b2f23d26074621d8d2495aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-num.c
+SPDXID: SPDXRef-item853677
+FileChecksum: SHA1: ee45309d545ac4001c82b873a3eb448746b7c854
+FileChecksum: MD5: c5d4431735bcc69786f371a7696675bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-enc-handler.c
+SPDXID: SPDXRef-item853678
+FileChecksum: SHA1: 3a3c314e38add6a5a6fa113b1ab7ff48652d98e4
+FileChecksum: MD5: 54a9df0a3c153c6f81b578a5e7461808
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-token.c
+SPDXID: SPDXRef-item853679
+FileChecksum: SHA1: af43fea05b4e5b0f6fcd676cd411cd8ad8e85057
+FileChecksum: MD5: 2d567b1d48ac136f6bb3978c62cdbc08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-term.h
+SPDXID: SPDXRef-item853680
+FileChecksum: SHA1: 6a7f866d8874718103dc9db31621bc47420f8f44
+FileChecksum: MD5: 9efbe5530bd69bc583f659f94053771a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-cascade.c
+SPDXID: SPDXRef-item853681
+FileChecksum: SHA1: 32d39a76810a12ca7515b71aa1450afc5efacd14
+FileChecksum: MD5: 594ec4a9f7dd48053c77b69b9cd5b1b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-fonts.h
+SPDXID: SPDXRef-item853682
+FileChecksum: SHA1: 087f06dd69048cfe6f5bcdbcff2d1f962877549d
+FileChecksum: MD5: 07a802e0ea0b6de40a70a71bfef8b83c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-prop-list.c
+SPDXID: SPDXRef-item853683
+FileChecksum: SHA1: 1b25294c0754b427afd01db687b37852996d1587
+FileChecksum: MD5: 0f45f43266bab2661a3f7cdcb06cc576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-utils.h
+SPDXID: SPDXRef-item853684
+FileChecksum: SHA1: 9ca970c0960c35a4debbb05504a7e45a35081e6f
+FileChecksum: MD5: d915b4d9044e22dbd2fad12a46b80590
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-string.c
+SPDXID: SPDXRef-item853685
+FileChecksum: SHA1: 4fec824374c3638d16d8ecd0a04235f74f2d9a36
+FileChecksum: MD5: 1fd6f9965bf0dcf3e5f4ccc0d1f93b2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-rgb.c
+SPDXID: SPDXRef-item853686
+FileChecksum: SHA1: eed3f510f61bad87744061313657f322b0b6865b
+FileChecksum: MD5: 7ec03d061cb153a15be079b8b9b222e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-rgb.h
+SPDXID: SPDXRef-item853687
+FileChecksum: SHA1: b9b7fd31bbf3c756fd1173f93b200fdf29022a01
+FileChecksum: MD5: 1ad272b4781ce7f284d24d6f995b5ea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-additional-sel.c
+SPDXID: SPDXRef-item853688
+FileChecksum: SHA1: a5fe188a30ea7826aee25530f9acbf1c5c4da4b0
+FileChecksum: MD5: feaa272827354882a150ae81f5810acb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-statement.h
+SPDXID: SPDXRef-item853689
+FileChecksum: SHA1: fc7c66cf971d82c098b977de336ba55dad2e035b
+FileChecksum: MD5: 12b0fe385da23dbffbefbe7487ab0741
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-term.c
+SPDXID: SPDXRef-item853690
+FileChecksum: SHA1: 335ebe3d3a3e4ebfd7306b1baffcbd513fb46917
+FileChecksum: MD5: 4b93b295d418b7924522b493fb2dd083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/Makefile.in
+SPDXID: SPDXRef-item853691
+FileChecksum: SHA1: 7f5b74113e0008b694a73e6c3e4988c3e05638b2
+FileChecksum: MD5: 5f4990eee366913abf7a9b22e95a0a0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-attr-sel.c
+SPDXID: SPDXRef-item853692
+FileChecksum: SHA1: 2e020068dbe62a77cc9d1717c24df74a4bff1c1f
+FileChecksum: MD5: c4212f91d755d9e799c35a1b7a1fbbf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-selector.c
+SPDXID: SPDXRef-item853693
+FileChecksum: SHA1: ea8a424812f808c2f6a03da8c5c87be3f627b078
+FileChecksum: MD5: 87675f7f43c730308baf75aa76613df2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-selector.h
+SPDXID: SPDXRef-item853694
+FileChecksum: SHA1: aaf07cb60cd3ef36be62c29e6faece05a7d33294
+FileChecksum: MD5: 7b49e97a2c31a3c8118d0156c899ea52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-simple-sel.c
+SPDXID: SPDXRef-item853695
+FileChecksum: SHA1: 917c2076c005891695ea2faea2c31147f7ca8997
+FileChecksum: MD5: dc60adb16f37ad99a92ef8926f72bc82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-prop-list.h
+SPDXID: SPDXRef-item853696
+FileChecksum: SHA1: e1709b2977b580710f6b5768c04839e89ed00c2c
+FileChecksum: MD5: 6ff2e65243c4e4323bfb0e715d725df7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-token.h
+SPDXID: SPDXRef-item853697
+FileChecksum: SHA1: 23f775f8737710f2f87e4524dd8f87d93cc7ea5b
+FileChecksum: MD5: 5d9f435cb04959ed7f72610de155d4d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-simple-sel.h
+SPDXID: SPDXRef-item853698
+FileChecksum: SHA1: 40a3d48c12f4e6ad274723c1537f4302c9411ad6
+FileChecksum: MD5: 97f1b8af0182a602bdf79d27535252fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-stylesheet.c
+SPDXID: SPDXRef-item853699
+FileChecksum: SHA1: 14ba58b499fafd8f86b342e138693b0810c40789
+FileChecksum: MD5: 42024c3244fe280fe43ec252bc1d1f68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-statement.c
+SPDXID: SPDXRef-item853700
+FileChecksum: SHA1: be7459791a8545e040a8d5a98b070c503d486d87
+FileChecksum: MD5: 993c368359cb5052208dbf980182e38e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-parsing-location.h
+SPDXID: SPDXRef-item853701
+FileChecksum: SHA1: 274a080e9fdce460a4489669b16b0731f1ad5517
+FileChecksum: MD5: c353b5f19be9d5cd5a8d4dc33d2d4a15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/Makefile.am
+SPDXID: SPDXRef-item853702
+FileChecksum: SHA1: c819bb2eb1ab77c142b6c37c771784d1c0487789
+FileChecksum: MD5: bcdef52018fa22f3ff9c49433a704ae9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-attr-sel.h
+SPDXID: SPDXRef-item853703
+FileChecksum: SHA1: c2e0ff6e9968626e464e6e3bf282752ce16be62a
+FileChecksum: MD5: 035b33f548feb37d001167f1a0dee496
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-cascade.h
+SPDXID: SPDXRef-item853704
+FileChecksum: SHA1: 5ed85c871bbd20d98433237d4005659ebc940785
+FileChecksum: MD5: bf1df2ec3a79a47df33871473d231485
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/libcroco.h
+SPDXID: SPDXRef-item853705
+FileChecksum: SHA1: 0671e704f8e0cb9b2bd53305963a8c24152439f2
+FileChecksum: MD5: a675aaf55c1e937d17d08777ad36023e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-om-parser.c
+SPDXID: SPDXRef-item853706
+FileChecksum: SHA1: 0aff7e7c1cd54f249cf224043833e997350e9b38
+FileChecksum: MD5: e4fc995b9c77f4ce0a3cc93fa8b721e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/libcroco.symbols
+SPDXID: SPDXRef-item853707
+FileChecksum: SHA1: 2594c333d89b812dc0aba30e5be89d6df3af1e72
+FileChecksum: MD5: 805182e04ff1404e76e0d0b206dea67d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-doc-handler.c
+SPDXID: SPDXRef-item853708
+FileChecksum: SHA1: 95ded5b8b419e90cb67b14764bf9f8fbf1045262
+FileChecksum: MD5: a11dabd92be917ebc9858908690074be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-tknzr.c
+SPDXID: SPDXRef-item853709
+FileChecksum: SHA1: acd44db8223db30448bafde34f744dac5a79f9f1
+FileChecksum: MD5: 9301dd4e69444adde5fe47b29bbabd55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-sel-eng.c
+SPDXID: SPDXRef-item853710
+FileChecksum: SHA1: ccb0387b9ebfb9c8f27580505b3720606c7d55bd
+FileChecksum: MD5: 1c39dbe9db38d667bf13ddb104669c3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-style.c
+SPDXID: SPDXRef-item853711
+FileChecksum: SHA1: 3a6f1894ea5df2bfcb0ec0f061f5bce56ec6e581
+FileChecksum: MD5: 5aab82a15c60486e5546e22d2f267e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-stylesheet.h
+SPDXID: SPDXRef-item853712
+FileChecksum: SHA1: c62db978224487bf3b2f199bb5b5ef3445123e49
+FileChecksum: MD5: 71ce1ea9e50664cdfa6a2ceea5e06e3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-sel-eng.h
+SPDXID: SPDXRef-item853713
+FileChecksum: SHA1: 5b839e07fbcf9d8214ee366215a645761ec9f371
+FileChecksum: MD5: 3a8ca9d1df22dbe8165094f51f6c41c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-input.h
+SPDXID: SPDXRef-item853714
+FileChecksum: SHA1: 38a16b339849d483babf039a23df87f3ceff6426
+FileChecksum: MD5: 604bb8bc8b840b9a567a51a5c4f3b4de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/libcroco-config.h
+SPDXID: SPDXRef-item853715
+FileChecksum: SHA1: 360a55d4b20faff08603322ec53e7bb7fd8e354a
+FileChecksum: MD5: c15508f4d52b2af11c007a8fc9ac249e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-pseudo.h
+SPDXID: SPDXRef-item853716
+FileChecksum: SHA1: af563ea6bdcaad32d72c4e45501db6edc96b2bdd
+FileChecksum: MD5: 64754f4f8764dab040e64834cadd551c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-enc-handler.h
+SPDXID: SPDXRef-item853717
+FileChecksum: SHA1: 9b64b2f7f2b2f2e2f76468add540b05687252f37
+FileChecksum: MD5: fb33adca531d3051156dd67170eced77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-parser.c
+SPDXID: SPDXRef-item853718
+FileChecksum: SHA1: 800c074a5b5124dce6fb90e444b82851301d2718
+FileChecksum: MD5: 4a511ac1ca22411d59f7d6a3de8e76e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-doc-handler.h
+SPDXID: SPDXRef-item853719
+FileChecksum: SHA1: dc0a3175695e3f375feec4acd3f72ab686e29b48
+FileChecksum: MD5: ef83a528e2a39402c5dbf2d91c8ca56a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-parser.h
+SPDXID: SPDXRef-item853720
+FileChecksum: SHA1: 6785ef232dc14f5f204d0413218de3d08174a47d
+FileChecksum: MD5: eba3c92a68ae58af0fc61c0d8123563c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/libcroco-config.h.in
+SPDXID: SPDXRef-item853721
+FileChecksum: SHA1: eefab8c0aa925d192eae476c0e8cc38c7f550a78
+FileChecksum: MD5: a4ed8f990485e87511c95dbe2d123068
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-string.h
+SPDXID: SPDXRef-item853722
+FileChecksum: SHA1: 21830cf95134c2ff2b1e90fb95ca23837efa8af4
+FileChecksum: MD5: 05ca17a280751fae825c657e6d707151
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-om-parser.h
+SPDXID: SPDXRef-item853723
+FileChecksum: SHA1: 24d4acb25db2e0a03756f38d6ad419d03854926c
+FileChecksum: MD5: 051f6307de6c39fdcb4f54599a3626cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-num.h
+SPDXID: SPDXRef-item853724
+FileChecksum: SHA1: c285e4807ecafebc3617ba1883808f9b3709bf9d
+FileChecksum: MD5: d6e746a3e142683d9b0fc4428e6ca224
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-declaration.h
+SPDXID: SPDXRef-item853725
+FileChecksum: SHA1: 706fcdaaf0fc408e9844dc5db2806d4b29c93b0a
+FileChecksum: MD5: 475e748762dd8899d658f59f83b34c21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-pseudo.c
+SPDXID: SPDXRef-item853726
+FileChecksum: SHA1: f16dad886ec331acd1c22ee0ef69fbc0c8d6dd73
+FileChecksum: MD5: 3931ed36d927c208a40efef8c86acdba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-fonts.c
+SPDXID: SPDXRef-item853727
+FileChecksum: SHA1: 70cd51ff73df37f2f3bcfaa515d5b228f20c2f76
+FileChecksum: MD5: 56352fb076d792e0a6fcab8026ea07fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-additional-sel.h
+SPDXID: SPDXRef-item853728
+FileChecksum: SHA1: e2146cec538235101d6da7e254eef12f04ac80cb
+FileChecksum: MD5: 47a6dc56e17eec165bf571521a71b9c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-declaration.c
+SPDXID: SPDXRef-item853729
+FileChecksum: SHA1: c0c88548f24a64d3fcbc92aa6ad398ede77d3f77
+FileChecksum: MD5: 08bba357e7e7b8a0ac278adaa272a0ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-input.c
+SPDXID: SPDXRef-item853730
+FileChecksum: SHA1: 7c21d5663b67eb085fd68da0633300f522c5f87c
+FileChecksum: MD5: 3a537edb076e6c2831e9f4be13a45d68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-tknzr.h
+SPDXID: SPDXRef-item853731
+FileChecksum: SHA1: ac81a420215603bc533f1d2dbfa8c84c4aff8d60
+FileChecksum: MD5: 190db221f6395a4573f2e8b23f011be8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/src/cr-style.h
+SPDXID: SPDXRef-item853732
+FileChecksum: SHA1: f2df5a9efb61e17e4df43e67bc8cbe2774b5c696
+FileChecksum: MD5: 9ecf10d4b4511ccf9b25c540d52ce0bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/config.h.win32.in
+SPDXID: SPDXRef-item853733
+FileChecksum: SHA1: 8e31b8e64c22f357b41cb6009a358de8041af4c1
+FileChecksum: MD5: 34609a563edd6c84a945c14a346cfff6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/libcroco.pc.in
+SPDXID: SPDXRef-item853734
+FileChecksum: SHA1: 7ad7eddebe8547843c6937d1248983674fee0111
+FileChecksum: MD5: 7bd153e150fd24ae8218609790ce1594
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/m4/ltversion.m4
+SPDXID: SPDXRef-item853736
+FileChecksum: SHA1: 3aae847c163fa6cc7c8241a3a49f98705538d55f
+FileChecksum: MD5: d936fd6b2025c9b5322f826117d7f30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/m4/libtool.m4
+SPDXID: SPDXRef-item853737
+FileChecksum: SHA1: de18e464da943e8b69b3f84ecbfd6cdb28b996de
+FileChecksum: MD5: ae989d0c1057c319a5107fed0311632d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/m4/ltoptions.m4
+SPDXID: SPDXRef-item853738
+FileChecksum: SHA1: 9cd35d79da7776af14f21b259c64f130fa1a3536
+FileChecksum: MD5: 064af1799febaa676203302bbf359180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/m4/gtk-doc.m4
+SPDXID: SPDXRef-item853739
+FileChecksum: SHA1: 52b6d85904ca99a2372a180b1db82b2a8592d03d
+FileChecksum: MD5: 8b607f5b1a903f3ba91558561d362623
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/m4/ltsugar.m4
+SPDXID: SPDXRef-item853740
+FileChecksum: SHA1: 2028bffadfd9b989bcc63da90596101fe4ec20b9
+FileChecksum: MD5: fa2891f9060865871cbbaa1c6e2d96f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item853741
+FileChecksum: SHA1: e21f085615f98d3751690c1615923e89160d5783
+FileChecksum: MD5: 22aa295bf5320aec7fba6756ff11058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/m4/pkg.m4
+SPDXID: SPDXRef-item853742
+FileChecksum: SHA1: a72f35ead502c437b5e13253e18e8a7a8d69d316
+FileChecksum: MD5: 0999af2cb3a9f333bc68fb64fbcc4ec7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/TODO
+SPDXID: SPDXRef-item853743
+FileChecksum: SHA1: 78dddde75410f23a38a255fda51adb76dfc8dc5e
+FileChecksum: MD5: 8acc206865ae07f5847f5ebf1df56ae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/config.h.in
+SPDXID: SPDXRef-item853744
+FileChecksum: SHA1: b9708850f818640f592d35b925540dd2af043400
+FileChecksum: MD5: 824ecbcc040b2f765aaf8c18c80c443d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/csslint/Makefile.in
+SPDXID: SPDXRef-item853746
+FileChecksum: SHA1: 55a61f0a9f56a7466e6d29d9d55945e4af174aad
+FileChecksum: MD5: d74462133546e001073362e6cdec11c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/csslint/csslint.c
+SPDXID: SPDXRef-item853747
+FileChecksum: SHA1: 929fe9e3e292e0b1c4f3eab89880e0621ca01cc8
+FileChecksum: MD5: fba146f2df3406b69e3e14a9e2df96c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/csslint/Makefile.am
+SPDXID: SPDXRef-item853748
+FileChecksum: SHA1: 8a3918e8bf49366a2b28c4a4e8fd6431c607e869
+FileChecksum: MD5: 95689390ab1557fdbb4140e5e63df893
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/csslint/ChangeLog
+SPDXID: SPDXRef-item853749
+FileChecksum: SHA1: aabc0d928a13204b65f203f7ccfb805372751cbf
+FileChecksum: MD5: 860bae9b7c07e5fd0525723e6013e137
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/Makefile.am
+SPDXID: SPDXRef-item853750
+FileChecksum: SHA1: a9cd80eacc3a50acc4d873481077f191614c1149
+FileChecksum: MD5: 58ad8c8b971a1bd8f6963986bdf03453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/AUTHORS
+SPDXID: SPDXRef-item853751
+FileChecksum: SHA1: c6bfa18d0afd2939df07c0ca77cc4a60e238ac37
+FileChecksum: MD5: d2f2ce7373c39ed9d1845b52f8c6dd6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/libcroco.doap
+SPDXID: SPDXRef-item853752
+FileChecksum: SHA1: 21377a8ea9559273fb79faebad7ce49963594780
+FileChecksum: MD5: 218a980c6c2bef79905a28c7cbc7985e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/config.sub
+SPDXID: SPDXRef-item853753
+FileChecksum: SHA1: 3fdd02cd1ac2db8d98909f8cd6019d9a43f14bcf
+FileChecksum: MD5: 80528c46be7fb63226fce5af083d43e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/cr-test-utils.c
+SPDXID: SPDXRef-item853755
+FileChecksum: SHA1: 988b8003168d964616ebf4be67b7db54b6b1468f
+FileChecksum: MD5: 40067c825ba556a2f2bee24e4f4e7acc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test3.1.css
+SPDXID: SPDXRef-item853757
+FileChecksum: SHA1: f6935ed9515a90c5db2df82cca2ecdc753e6690c
+FileChecksum: MD5: 99b5b742a15edf6f065ae16f270c1c3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test2.2.css
+SPDXID: SPDXRef-item853758
+FileChecksum: SHA1: b654f2135dce6cfc5da2b4f59b1d6dbc94c99ac2
+FileChecksum: MD5: efd773bbcb486fb6354a4ff420e925f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/unknown-at-rule2.css
+SPDXID: SPDXRef-item853759
+FileChecksum: SHA1: ac3a7007196fdc216e2e037e2dfff8e62eac9bea
+FileChecksum: MD5: 5efa08012646e680e98362fe46e0f47c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test2.1.css
+SPDXID: SPDXRef-item853760
+FileChecksum: SHA1: a8b6c03db80feb5f5c807c62f0e60e5c02287165
+FileChecksum: MD5: e6f39fcff1f5b8cfa784a9caad21229b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test3.css
+SPDXID: SPDXRef-item853761
+FileChecksum: SHA1: cab213d896a672cdfcc99e499c6f6d17e0b0635b
+FileChecksum: MD5: 9bb013825e327843fdca311ed0dcbedf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/Makefile.in
+SPDXID: SPDXRef-item853762
+FileChecksum: SHA1: 19fd7bd4f128abdb4ea91cff2d91f03bcc2a5bca
+FileChecksum: MD5: a9d0a3176fbc87df9db34b00c818bac6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test5.1.css
+SPDXID: SPDXRef-item853763
+FileChecksum: SHA1: 2b5cea9ad7d7c0064ec1b10aaa256e81fb7809cf
+FileChecksum: MD5: 2e0639c1cdb38590678ad177a5ed9c96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test4.1.css
+SPDXID: SPDXRef-item853764
+FileChecksum: SHA1: bf5c8f6456a51532be42f19e5d28612c9331ddc9
+FileChecksum: MD5: c2e6d4377868da3aa9a32f4e186dd70f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test0.1.css
+SPDXID: SPDXRef-item853765
+FileChecksum: SHA1: fcf3a744c21ba95f398971d5354faa914b737a59
+FileChecksum: MD5: 3a94341e40019cd60f6b145bab07ccf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/Makefile.am
+SPDXID: SPDXRef-item853766
+FileChecksum: SHA1: 9d6cc9a41f4fab1f99911587c0ac83d755704b77
+FileChecksum: MD5: 710bb364ec27fecedb0d4efe09a9aec8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test4.2.css
+SPDXID: SPDXRef-item853767
+FileChecksum: SHA1: 19040450d817f3a2d439b97dfa67d72fca6a0d36
+FileChecksum: MD5: d3e649865ade47fed21c433ed8cd54b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test3.2.css
+SPDXID: SPDXRef-item853768
+FileChecksum: SHA1: 8a658e868bc6ca8ae5a9a294fdb6e30110c39a98
+FileChecksum: MD5: 61edcfeae41ad15c8059d8167685fca6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test2.css
+SPDXID: SPDXRef-item853769
+FileChecksum: SHA1: cab213d896a672cdfcc99e499c6f6d17e0b0635b
+FileChecksum: MD5: 9bb013825e327843fdca311ed0dcbedf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/test1.css
+SPDXID: SPDXRef-item853770
+FileChecksum: SHA1: 0054b152b4c122a7de3ea027f87efb832ad5c6bd
+FileChecksum: MD5: 8b6babc836df278a34585ea5c33ae901
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/prop-vendor-ident.css
+SPDXID: SPDXRef-item853771
+FileChecksum: SHA1: 10021693da94f92429edbb507143a462318c6afd
+FileChecksum: MD5: e132914e14c14a9b64842feb82c166ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/several-media.css
+SPDXID: SPDXRef-item853772
+FileChecksum: SHA1: b41a659668d5ba69d3780a3445583ebb9ae30217
+FileChecksum: MD5: 1c82c6f97c8ab8be096ee8419aee5df8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-inputs/unknown-at-rule.css
+SPDXID: SPDXRef-item853773
+FileChecksum: SHA1: d45edd139503aef6f25756c1f90b0e298dffa8cd
+FileChecksum: MD5: 7c4ec47f5000013b4d75a9b6049fada1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-unknown-at-rule.sh
+SPDXID: SPDXRef-item853774
+FileChecksum: SHA1: b2d65e1e992350723decba1a771f1dd97207601a
+FileChecksum: MD5: 9b7698e24b2754cd40cc00bdd34413c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test5-main.c
+SPDXID: SPDXRef-item853775
+FileChecksum: SHA1: a07536fd6f37ccbdfdafcf359e0ae579c956600d
+FileChecksum: MD5: bc6eb98ee1dd96e2c8f35e19bbd76169
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-unknown-at-rule2.sh
+SPDXID: SPDXRef-item853776
+FileChecksum: SHA1: bcbf70d178311f4409dacd24bd82c5c4c190aace
+FileChecksum: MD5: 2da8ab750f1ad8811a1a8b116a6435fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/Makefile.in
+SPDXID: SPDXRef-item853777
+FileChecksum: SHA1: 552ad673815c676156a14a72a7cb0a83be208774
+FileChecksum: MD5: 89d954715f81f1bcce3bf15af7a4810e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/testctl
+SPDXID: SPDXRef-item853778
+FileChecksum: SHA1: a0d032079a0bc6acc27b281fae172c9ace1d30ce
+FileChecksum: MD5: 2ab71f66e2d333715379039c04cc5b61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/valgrind-version.sh
+SPDXID: SPDXRef-item853779
+FileChecksum: SHA1: 4946f580f104fce51fc0262c162247ffc1be896b
+FileChecksum: MD5: ff4aca0f20eb7ef8ce81cfe3b04c2063
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test6-main.c
+SPDXID: SPDXRef-item853780
+FileChecksum: SHA1: 10d15aa9189c53c4c01abb81fb61f06c6551f120
+FileChecksum: MD5: 9d602d81d43bc6a1241511dc101ba1bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-several-media.sh
+SPDXID: SPDXRef-item853781
+FileChecksum: SHA1: 0e7474c555f001a8e5d0b21e1e94c0a931ef176e
+FileChecksum: MD5: 9e37d01c797f0405158a0a9ff1728f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/Makefile.am
+SPDXID: SPDXRef-item853782
+FileChecksum: SHA1: 7a34a2e4e32ffe11b9ade830327ab29d1eccf5eb
+FileChecksum: MD5: 8e5b9811e5fe19e19b8951f91078533f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test0-main.c
+SPDXID: SPDXRef-item853783
+FileChecksum: SHA1: 458f1216801d75616436c54979bb3a14ad858dcf
+FileChecksum: MD5: b5b488c278951b48c73bf3ddf22a62cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test3-main.c
+SPDXID: SPDXRef-item853784
+FileChecksum: SHA1: 040f0abc052f0fa84734a2973e4e369bc2d6322e
+FileChecksum: MD5: d89f6e0ec9e2655e9b158798fd226357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test3.2.css.out
+SPDXID: SPDXRef-item853786
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test2.css.out
+SPDXID: SPDXRef-item853787
+FileChecksum: SHA1: dd51bf1eb98eccb6fb5fbbfe0f752cb92f73ef04
+FileChecksum: MD5: 841674a9c674333a34525519a885faca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test4.1.css.out
+SPDXID: SPDXRef-item853788
+FileChecksum: SHA1: 54d6b4698aa501910699715023359d758bc7530c
+FileChecksum: MD5: 2b05322a1ac630e8448bb5e9d8622617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test0.1.css.out
+SPDXID: SPDXRef-item853789
+FileChecksum: SHA1: e50d863fce28cb12db5dee0ae63bc05aec174e6b
+FileChecksum: MD5: 71042169ee27dcea61438d0531578a92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test4.2.css.out
+SPDXID: SPDXRef-item853790
+FileChecksum: SHA1: c27d284e3d90e899dc383bc910dbbd135e8ef27a
+FileChecksum: MD5: 5d34b3c117c6e9f8201220c0c38ed92d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test6.out
+SPDXID: SPDXRef-item853791
+FileChecksum: SHA1: 95363185e65fd3b6f331cd8dd022e59cf3811670
+FileChecksum: MD5: 665caa6c3d5e059806eaa84bc13a8b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/Makefile.in
+SPDXID: SPDXRef-item853792
+FileChecksum: SHA1: f084c06531d80e55de39c003965f9df46410a62d
+FileChecksum: MD5: 86c289472244e359bad41e3afe01a4d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test-unknown-at-rule.out
+SPDXID: SPDXRef-item853793
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test2.2.css.out
+SPDXID: SPDXRef-item853794
+FileChecksum: SHA1: 038685dbba0746141f8bb65133ff894c6b922ca8
+FileChecksum: MD5: 4051390c44ce4332a58d53c2fcd533c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test-prop-ident.out
+SPDXID: SPDXRef-item853795
+FileChecksum: SHA1: 5ecc6e1a31120c02199d0d60b48f33e97a373c48
+FileChecksum: MD5: 5e4690902f46203a69c98c863f9402ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/Makefile.am
+SPDXID: SPDXRef-item853796
+FileChecksum: SHA1: 29cfda077167d69cc2eb00feafed0e5e9f76e8a5
+FileChecksum: MD5: 182321e860c2de5d028fdfb8a2f5b9ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test-unknown-at-rule2.out
+SPDXID: SPDXRef-item853797
+FileChecksum: SHA1: fa16f5eb425cb5bb51fefdd13da1507e19aea9dd
+FileChecksum: MD5: a90da364573d4181677e1575f6798d98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test3.1.css.out
+SPDXID: SPDXRef-item853798
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test3.css.out
+SPDXID: SPDXRef-item853799
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test-several-media.out
+SPDXID: SPDXRef-item853800
+FileChecksum: SHA1: 928cce69424312d3a17ad5e3aa50d9bec8d7ba7b
+FileChecksum: MD5: b2bcf629c11268feba4ea64d7e34f573
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test1.css.out
+SPDXID: SPDXRef-item853801
+FileChecksum: SHA1: 0054b152b4c122a7de3ea027f87efb832ad5c6bd
+FileChecksum: MD5: 8b6babc836df278a34585ea5c33ae901
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test5.1.css.out
+SPDXID: SPDXRef-item853802
+FileChecksum: SHA1: 21d5cc09356b92d1686661b97ee010e47c52960f
+FileChecksum: MD5: 6956dea97c8faa708663c620b1df8d54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-output-refs/test2.1.css.out
+SPDXID: SPDXRef-item853803
+FileChecksum: SHA1: ab7d8b55218bae8fcee66e560fbce3363be25010
+FileChecksum: MD5: 5194bf80c90352b7aa2723dbdab5208a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/cr-test-utils.h
+SPDXID: SPDXRef-item853804
+FileChecksum: SHA1: bbe42379fe55a0e9a03ba8bdc935d401cd94af02
+FileChecksum: MD5: 8b7ef4b07ca414f35dc7acda4cb5b249
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/vg.supp
+SPDXID: SPDXRef-item853805
+FileChecksum: SHA1: 18cdfe2315a973297fa445273100b9558d9e26ff
+FileChecksum: MD5: 104076a4d66e0004f71fb5b4e8ef7fea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test1-main.c
+SPDXID: SPDXRef-item853806
+FileChecksum: SHA1: fd52b76802b65bb3fabe3afbf790a9b7ddbcc387
+FileChecksum: MD5: 52109e5ce8ca22cbfcdc6bd3df62ee62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test-prop-ident.sh
+SPDXID: SPDXRef-item853807
+FileChecksum: SHA1: 76146d2c842b55ce0c0faaacd86e2328c377365a
+FileChecksum: MD5: 2c7524b117b33e995925b55356b513eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/global-vars.sh.in
+SPDXID: SPDXRef-item853808
+FileChecksum: SHA1: 2e8405aa1b84c613a0a8dde8146062a86706f6f4
+FileChecksum: MD5: fc7ccaca07f56c19f577cfeda14d3ba6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test2-main.c
+SPDXID: SPDXRef-item853809
+FileChecksum: SHA1: c19d7a9f948f1200b119a0859f349b9f3f59aebb
+FileChecksum: MD5: 3b502eb11c510e395d3da702d89128ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/tests/test4-main.c
+SPDXID: SPDXRef-item853810
+FileChecksum: SHA1: 8d6f79bc884694b2fa23fb8192309f5a553eb44f
+FileChecksum: MD5: 076334845a67debe91f5f137d68958f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/missing
+SPDXID: SPDXRef-item853811
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/HACKING
+SPDXID: SPDXRef-item853812
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/README
+SPDXID: SPDXRef-item853813
+FileChecksum: SHA1: 026e4131d4ae0fdb91d9e079884d212322636820
+FileChecksum: MD5: af62610315ad8c3d0f1cb935888e17d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/Makefile-newvs.am
+SPDXID: SPDXRef-item853815
+FileChecksum: SHA1: ff279f09898d65162aafd472165187a766193d75
+FileChecksum: MD5: 5e45c60ee748f0fcf60f1c2aed87ed16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/replace.py
+SPDXID: SPDXRef-item853816
+FileChecksum: SHA1: c6c2aa138d7caff338fdda19463afc32eedb38eb
+FileChecksum: MD5: f1b8bb0364c56c7e9ef41526fe949dfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/croco.vcxproj
+SPDXID: SPDXRef-item853818
+FileChecksum: SHA1: c212986f6733943d20a3e827e1c418350493f4aa
+FileChecksum: MD5: 6edd37619757a0e8ee83ab2b2ecd81a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/croco-version-paths.props
+SPDXID: SPDXRef-item853819
+FileChecksum: SHA1: 3962db15c661493e87c59dc4541c3d5a362bb7db
+FileChecksum: MD5: a7d0c6eb2444d71aee8ad566399751a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/croco.vcxproj.filters
+SPDXID: SPDXRef-item853820
+FileChecksum: SHA1: 889d8f275ba1251511c7785be50f08cf872f9bf5
+FileChecksum: MD5: bbddf931b45ef1b86b7090ab7d18f698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/Makefile.in
+SPDXID: SPDXRef-item853821
+FileChecksum: SHA1: e89427eda2d6dacb0bd0614791ae53e9dbe4d2c3
+FileChecksum: MD5: 6c8dc984fcae9209608fe666dfd1a0af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/libcroco.sln
+SPDXID: SPDXRef-item853822
+FileChecksum: SHA1: 0c5e116c5bb20f347b42dee26550ff0d17d5344b
+FileChecksum: MD5: 6c357d4585d9744ad9592c9143c76c25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/croco-install.props
+SPDXID: SPDXRef-item853823
+FileChecksum: SHA1: ba6b1f5387d4eca1ae9ea54052c65034ee01569a
+FileChecksum: MD5: 776934728382f7d4a78e934514970b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/Makefile.am
+SPDXID: SPDXRef-item853824
+FileChecksum: SHA1: 5f5f836d4af107b6eb37668754197468c34523d7
+FileChecksum: MD5: 445d9cc63707abdc04546ec2988d60f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/croco-install.vcxproj.filters
+SPDXID: SPDXRef-item853825
+FileChecksum: SHA1: a363a6d7f37972a6e8622c6a37861c97f9fbf490
+FileChecksum: MD5: 4aae8bd6bc1626f11ef7efe1e83aa2ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/csslint.vcxproj.filters
+SPDXID: SPDXRef-item853826
+FileChecksum: SHA1: 157ebfd282cdccb3cb0e2d69e606c35e37675440
+FileChecksum: MD5: e03ab62657fb0f4e5d7561d5e0cc2cc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/croco-install.vcxproj
+SPDXID: SPDXRef-item853827
+FileChecksum: SHA1: 39bfd629a3afd05c4ed90ab1f6d5c7106c9def4e
+FileChecksum: MD5: 73a37b3a28447fd4d037ac13351c5cfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/croco-gen-srcs.props
+SPDXID: SPDXRef-item853828
+FileChecksum: SHA1: 4ce771c7d07200117519d5aaff532f7b42303fab
+FileChecksum: MD5: 5d3a2903097e8d1ab0ea1ea8dc8e8933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/croco-build-defines.props
+SPDXID: SPDXRef-item853829
+FileChecksum: SHA1: 3217f7bd9f348090939939fa0c7fd2047fc58baa
+FileChecksum: MD5: 3068d14352f54bc6e899c7cf2610be6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs11/csslint.vcxproj
+SPDXID: SPDXRef-item853830
+FileChecksum: SHA1: 8bfa6635385b6f4f834a435248de8b6fcda9bed4
+FileChecksum: MD5: 479c15b5c71c5ad08a2a6c1e2c34cbba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/Makefile.in
+SPDXID: SPDXRef-item853831
+FileChecksum: SHA1: fd002017c4f61518f91f12a552d0375344c6eec6
+FileChecksum: MD5: c7b0f74c53842049940e0b450ccfd63c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/croco.vcxproj
+SPDXID: SPDXRef-item853833
+FileChecksum: SHA1: 2652d92e04f1df56da1e3ebe32339ea10b91f5dc
+FileChecksum: MD5: 70a79b5b0ebfcef54db4f3fa32956437
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/croco-version-paths.props
+SPDXID: SPDXRef-item853834
+FileChecksum: SHA1: b673989290b85a6afd264a235dbb407172d22edd
+FileChecksum: MD5: 548515ee2bae1c9a0562f28d51cb8e74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/croco.vcxproj.filters
+SPDXID: SPDXRef-item853835
+FileChecksum: SHA1: 889d8f275ba1251511c7785be50f08cf872f9bf5
+FileChecksum: MD5: bbddf931b45ef1b86b7090ab7d18f698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/Makefile.in
+SPDXID: SPDXRef-item853836
+FileChecksum: SHA1: 041133cbc4cb6a53bc262c418ce72c542dd9f081
+FileChecksum: MD5: 12a72423ca03c3cd8d34ec09e7887ecf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/libcroco.sln
+SPDXID: SPDXRef-item853837
+FileChecksum: SHA1: 8f1816b17d5ecd5acd96d0a3b69fa581c6b8c5a4
+FileChecksum: MD5: 5c80e5c4bb3f42ea2cb799a5e3650526
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/croco-install.props
+SPDXID: SPDXRef-item853838
+FileChecksum: SHA1: ba6b1f5387d4eca1ae9ea54052c65034ee01569a
+FileChecksum: MD5: 776934728382f7d4a78e934514970b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/Makefile.am
+SPDXID: SPDXRef-item853839
+FileChecksum: SHA1: b074b1fa2ed672297405f2c70bd2c903c1ae54b2
+FileChecksum: MD5: 3a3f58221b0dd32020f5f9f5916af0b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/croco-install.vcxproj.filters
+SPDXID: SPDXRef-item853840
+FileChecksum: SHA1: a363a6d7f37972a6e8622c6a37861c97f9fbf490
+FileChecksum: MD5: 4aae8bd6bc1626f11ef7efe1e83aa2ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/csslint.vcxproj.filters
+SPDXID: SPDXRef-item853841
+FileChecksum: SHA1: 157ebfd282cdccb3cb0e2d69e606c35e37675440
+FileChecksum: MD5: e03ab62657fb0f4e5d7561d5e0cc2cc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/croco-install.vcxproj
+SPDXID: SPDXRef-item853842
+FileChecksum: SHA1: 7c73f4f42e4e4a2552f4c41c4b6ba3e1d635a089
+FileChecksum: MD5: 54f3d4c5799eb91a91599e9a1183116a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/croco-gen-srcs.props
+SPDXID: SPDXRef-item853843
+FileChecksum: SHA1: 4ce771c7d07200117519d5aaff532f7b42303fab
+FileChecksum: MD5: 5d3a2903097e8d1ab0ea1ea8dc8e8933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/croco-build-defines.props
+SPDXID: SPDXRef-item853844
+FileChecksum: SHA1: 3217f7bd9f348090939939fa0c7fd2047fc58baa
+FileChecksum: MD5: 3068d14352f54bc6e899c7cf2610be6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs15/csslint.vcxproj
+SPDXID: SPDXRef-item853845
+FileChecksum: SHA1: 2f8bbceb3d452251f9f14ca8df5ebc3ce70013e5
+FileChecksum: MD5: d0016543e6e72b84ad95564ff294ed92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/Makefile.am
+SPDXID: SPDXRef-item853846
+FileChecksum: SHA1: f56c1cb89ea6f023b2d25c424061786289d80863
+FileChecksum: MD5: f0bb44dfa9ad3d41aacaf217749d205c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/croco.vcxproj
+SPDXID: SPDXRef-item853848
+FileChecksum: SHA1: 2121dc1f101ada2f0b493c0d9aebd0b7c171c03b
+FileChecksum: MD5: c3055d8cd472331e0fed75cf0618f514
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/croco-version-paths.props
+SPDXID: SPDXRef-item853849
+FileChecksum: SHA1: eaecc1b250d7de5f4722d734f8a8f6e690fddc73
+FileChecksum: MD5: 38b6732512e605696ea1cfa6d8251d51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/croco.vcxproj.filters
+SPDXID: SPDXRef-item853850
+FileChecksum: SHA1: 889d8f275ba1251511c7785be50f08cf872f9bf5
+FileChecksum: MD5: bbddf931b45ef1b86b7090ab7d18f698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/Makefile.in
+SPDXID: SPDXRef-item853851
+FileChecksum: SHA1: 93b9df38d4f9e6785c8b1e4d3fcaf335051f53de
+FileChecksum: MD5: 52546153e54838f7b869215585eca660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/libcroco.sln
+SPDXID: SPDXRef-item853852
+FileChecksum: SHA1: 81afcb6370ccadcfe3074ccb5b9980a509486ff1
+FileChecksum: MD5: 06c018411ffe6c95686ce5fde63b28ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/croco-install.props
+SPDXID: SPDXRef-item853853
+FileChecksum: SHA1: ba6b1f5387d4eca1ae9ea54052c65034ee01569a
+FileChecksum: MD5: 776934728382f7d4a78e934514970b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/Makefile.am
+SPDXID: SPDXRef-item853854
+FileChecksum: SHA1: a8f919df96aac9581686921df65bedf62729542a
+FileChecksum: MD5: d5928c370e38dcb62bbc12d653f0b059
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/croco-install.vcxproj.filters
+SPDXID: SPDXRef-item853855
+FileChecksum: SHA1: a363a6d7f37972a6e8622c6a37861c97f9fbf490
+FileChecksum: MD5: 4aae8bd6bc1626f11ef7efe1e83aa2ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/csslint.vcxproj.filters
+SPDXID: SPDXRef-item853856
+FileChecksum: SHA1: 157ebfd282cdccb3cb0e2d69e606c35e37675440
+FileChecksum: MD5: e03ab62657fb0f4e5d7561d5e0cc2cc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/croco-install.vcxproj
+SPDXID: SPDXRef-item853857
+FileChecksum: SHA1: f82a82f5872c1c03db30b9d0a42bfaea48f0d432
+FileChecksum: MD5: efe5c4c2466e4699e26a2a8d2620593a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/croco-gen-srcs.props
+SPDXID: SPDXRef-item853858
+FileChecksum: SHA1: 4ce771c7d07200117519d5aaff532f7b42303fab
+FileChecksum: MD5: 5d3a2903097e8d1ab0ea1ea8dc8e8933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/croco-build-defines.props
+SPDXID: SPDXRef-item853859
+FileChecksum: SHA1: 3217f7bd9f348090939939fa0c7fd2047fc58baa
+FileChecksum: MD5: 3068d14352f54bc6e899c7cf2610be6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs12/csslint.vcxproj
+SPDXID: SPDXRef-item853860
+FileChecksum: SHA1: cbb14200a723d2c1b2c6e6804fd91db98ad2d0c4
+FileChecksum: MD5: 4794d7c6d99eebc164744f2917df09fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/crocopc.py
+SPDXID: SPDXRef-item853861
+FileChecksum: SHA1: fcac8bfbbd16df1ac0ac258bf6b51f42a822e99b
+FileChecksum: MD5: 33c4ce45d24b100b56c7c26d536c2a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco.vcprojin
+SPDXID: SPDXRef-item853863
+FileChecksum: SHA1: d42d029720b7a5bd11316a8817fb1727c413dfeb
+FileChecksum: MD5: bcb1e6be56094bb2acee4bdd9d7965af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco-version-paths.vsprops.in
+SPDXID: SPDXRef-item853864
+FileChecksum: SHA1: 70775fdca32f90a58cce0eb817052bbd3f5878e6
+FileChecksum: MD5: e85c0b67426434cffe56ebb947226426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco-install.vspropsin
+SPDXID: SPDXRef-item853865
+FileChecksum: SHA1: b744776277b799f3b4c0df0e3efe05b58af040aa
+FileChecksum: MD5: 7f65eaff89dbcefde5276ededf79befd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco-gen-srcs.vsprops
+SPDXID: SPDXRef-item853866
+FileChecksum: SHA1: 3853102144d34b9cd7bd9be2e7611acbb3b9efb7
+FileChecksum: MD5: ef39b6a2e0b3a03cc188b2eddbdc60e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/Makefile.in
+SPDXID: SPDXRef-item853867
+FileChecksum: SHA1: c5d5f6d2d50358376535f515ff72badd41e7d169
+FileChecksum: MD5: 732599f1a0137fe02d14e48fd91e39db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/libcroco.sln
+SPDXID: SPDXRef-item853868
+FileChecksum: SHA1: 4388c9170f443938f4930d986ce459ec289500d6
+FileChecksum: MD5: 8ec46fbfd7185ae5ca372af7999d2d00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco-install.vcproj
+SPDXID: SPDXRef-item853869
+FileChecksum: SHA1: 2878661beacf4a5e203e0b006b4b022389b75cd8
+FileChecksum: MD5: 7e24df1e332585a813c823ec3cd958cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco-install.vsprops
+SPDXID: SPDXRef-item853870
+FileChecksum: SHA1: 62ba6331a38afb9632c175aba60230e113ceda91
+FileChecksum: MD5: dbabbda81a649ad6d823f83708a46a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/Makefile.am
+SPDXID: SPDXRef-item853871
+FileChecksum: SHA1: cfe4d69ab024c1ed86c9b5f8a82d3341d4d3a738
+FileChecksum: MD5: 8dbbe4997340a79e696b15a138cade66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco-version-paths.vsprops
+SPDXID: SPDXRef-item853872
+FileChecksum: SHA1: afd40aaccdc4106b614e07233d0a6bbc7187e10e
+FileChecksum: MD5: 3e237484d811290bbafe48e696275a43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/csslint.vcproj
+SPDXID: SPDXRef-item853873
+FileChecksum: SHA1: 2f043862e9ddc2eecba92679a79029c4d8f5ef64
+FileChecksum: MD5: 6568b173788839a81a0cddcbe9b43415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco.vcproj
+SPDXID: SPDXRef-item853874
+FileChecksum: SHA1: c860477474da58fc2d89f16978d5464f10390f75
+FileChecksum: MD5: 08c73c7afb1014315c9e5ca3191dcbd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs9/croco-build-defines.vsprops
+SPDXID: SPDXRef-item853875
+FileChecksum: SHA1: 416e54757caad9e7043fd8fce69ff445de712876
+FileChecksum: MD5: 5d331f4c4fa66607381459071a61c79c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/croco.vcxproj
+SPDXID: SPDXRef-item853877
+FileChecksum: SHA1: 76f222c337dc39085dd42288e5705dedd2603c1a
+FileChecksum: MD5: 506b3c1074508be2e42d73db717cecb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/croco-version-paths.props
+SPDXID: SPDXRef-item853878
+FileChecksum: SHA1: 946b627d8a6be4ecd11be4fa9016bd395337e291
+FileChecksum: MD5: b8f9c48d5063578c729f01724f435455
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/croco.vcxproj.filters
+SPDXID: SPDXRef-item853879
+FileChecksum: SHA1: 889d8f275ba1251511c7785be50f08cf872f9bf5
+FileChecksum: MD5: bbddf931b45ef1b86b7090ab7d18f698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/Makefile.in
+SPDXID: SPDXRef-item853880
+FileChecksum: SHA1: ddfc976d0d01b14d9004b4dbf972b3dc7954eb3a
+FileChecksum: MD5: 1198ad178db3fd23a894f4257fedfd5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/libcroco.sln
+SPDXID: SPDXRef-item853881
+FileChecksum: SHA1: 0bb9f2e837d7b13f7aea0dd1e4646e536dba3ff7
+FileChecksum: MD5: 4068ea107733a464ab96b6a81b40d634
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/croco-install.props
+SPDXID: SPDXRef-item853882
+FileChecksum: SHA1: ba6b1f5387d4eca1ae9ea54052c65034ee01569a
+FileChecksum: MD5: 776934728382f7d4a78e934514970b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/Makefile.am
+SPDXID: SPDXRef-item853883
+FileChecksum: SHA1: 15d2dc6e977ccab9074b0a954e6e4080bab9e74c
+FileChecksum: MD5: bf3941181a40153e9d606a47b23cd583
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/croco-install.vcxproj.filters
+SPDXID: SPDXRef-item853884
+FileChecksum: SHA1: a363a6d7f37972a6e8622c6a37861c97f9fbf490
+FileChecksum: MD5: 4aae8bd6bc1626f11ef7efe1e83aa2ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/csslint.vcxproj.filters
+SPDXID: SPDXRef-item853885
+FileChecksum: SHA1: 157ebfd282cdccb3cb0e2d69e606c35e37675440
+FileChecksum: MD5: e03ab62657fb0f4e5d7561d5e0cc2cc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/croco-install.vcxproj
+SPDXID: SPDXRef-item853886
+FileChecksum: SHA1: 6cca873e615fb79f7460cb098d284308d9505819
+FileChecksum: MD5: df279e8594d59b2a2137f88d6bed8f2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/croco-gen-srcs.props
+SPDXID: SPDXRef-item853887
+FileChecksum: SHA1: 4ce771c7d07200117519d5aaff532f7b42303fab
+FileChecksum: MD5: 5d3a2903097e8d1ab0ea1ea8dc8e8933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/croco-build-defines.props
+SPDXID: SPDXRef-item853888
+FileChecksum: SHA1: 3217f7bd9f348090939939fa0c7fd2047fc58baa
+FileChecksum: MD5: 3068d14352f54bc6e899c7cf2610be6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs14/csslint.vcxproj
+SPDXID: SPDXRef-item853889
+FileChecksum: SHA1: 09fc8385fceae5e53fd8511c5f274aea7cf6f697
+FileChecksum: MD5: 7b59e7a14f79f3207060cf0e0d138124
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/Makefile.msvcproj
+SPDXID: SPDXRef-item853890
+FileChecksum: SHA1: 52a11890537d5da37a3e52a9f84298eca82965fa
+FileChecksum: MD5: c9539ea8686ffcf3b9b9a3563f1aa674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco.vcxproj
+SPDXID: SPDXRef-item853892
+FileChecksum: SHA1: 887c11f0edc1bb826053858b55bbcfc258ab1347
+FileChecksum: MD5: 22c1927683a5650c35a6c03d198a228d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco-version-paths.props
+SPDXID: SPDXRef-item853893
+FileChecksum: SHA1: 6fbf44540e336711e989fe426e70d5b2fdbaca62
+FileChecksum: MD5: 69c9c73b6be936b08e2f8dbb643c6ec4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco.vcxproj.filters
+SPDXID: SPDXRef-item853894
+FileChecksum: SHA1: 889d8f275ba1251511c7785be50f08cf872f9bf5
+FileChecksum: MD5: bbddf931b45ef1b86b7090ab7d18f698
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/Makefile.in
+SPDXID: SPDXRef-item853895
+FileChecksum: SHA1: 95ee24907ad6cbcbd525453cd310183d6271a258
+FileChecksum: MD5: e30264abf953b8427aa70a96b27f559a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/libcroco.sln
+SPDXID: SPDXRef-item853896
+FileChecksum: SHA1: e860d2da72b380bc8b0418c53b7c7587a1a35904
+FileChecksum: MD5: 1ed21e67e98e40fe9f45cb0d3534f5c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco-version-paths.props.in
+SPDXID: SPDXRef-item853897
+FileChecksum: SHA1: c23908e2649dbaf8340aee014746b6e577016d30
+FileChecksum: MD5: b162d4c604a9786291c50fd8fcd85c0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco-install.props
+SPDXID: SPDXRef-item853898
+FileChecksum: SHA1: ba6b1f5387d4eca1ae9ea54052c65034ee01569a
+FileChecksum: MD5: 776934728382f7d4a78e934514970b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/Makefile.am
+SPDXID: SPDXRef-item853899
+FileChecksum: SHA1: d7bd42a18fa5d2d26c001d6283d8921b9d6b1bbf
+FileChecksum: MD5: 18ae8d240674ee357bc48dafc3c2ccfb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco-install.propsin
+SPDXID: SPDXRef-item853900
+FileChecksum: SHA1: 41062dff636d14f0ce105a856649984fa91c25e0
+FileChecksum: MD5: dc05ddc0fb4cc4836335c92032cb54cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco-install.vcxproj.filters
+SPDXID: SPDXRef-item853901
+FileChecksum: SHA1: a363a6d7f37972a6e8622c6a37861c97f9fbf490
+FileChecksum: MD5: 4aae8bd6bc1626f11ef7efe1e83aa2ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/csslint.vcxproj.filters
+SPDXID: SPDXRef-item853902
+FileChecksum: SHA1: 157ebfd282cdccb3cb0e2d69e606c35e37675440
+FileChecksum: MD5: e03ab62657fb0f4e5d7561d5e0cc2cc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco.vcxproj.filtersin
+SPDXID: SPDXRef-item853903
+FileChecksum: SHA1: e8eae57bc54e5dc5e901fa4b420932c843ed5205
+FileChecksum: MD5: 8a09bf3cd3460a7cf2516f57495c3cc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco.vcxprojin
+SPDXID: SPDXRef-item853904
+FileChecksum: SHA1: 0538a08636e73016d6d2050f6e24a224f6235a8f
+FileChecksum: MD5: 1c88a8ee8039095a4e3fea22fb839628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco-install.vcxproj
+SPDXID: SPDXRef-item853905
+FileChecksum: SHA1: 1ebc288862d3e07f4bbf5eee3744ebc1bd1a73fd
+FileChecksum: MD5: e274899391e59b20e84a0efbe3010691
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco-gen-srcs.props
+SPDXID: SPDXRef-item853906
+FileChecksum: SHA1: 4ce771c7d07200117519d5aaff532f7b42303fab
+FileChecksum: MD5: 5d3a2903097e8d1ab0ea1ea8dc8e8933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/croco-build-defines.props
+SPDXID: SPDXRef-item853907
+FileChecksum: SHA1: 3217f7bd9f348090939939fa0c7fd2047fc58baa
+FileChecksum: MD5: 3068d14352f54bc6e899c7cf2610be6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/vs10/csslint.vcxproj
+SPDXID: SPDXRef-item853908
+FileChecksum: SHA1: 0716f408ecd53ecd92c3d26dbac57ce2e0710e6b
+FileChecksum: MD5: b2aaa62ffcc1e2b0ab6853f290e33048
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/win32/pc_base.py
+SPDXID: SPDXRef-item853909
+FileChecksum: SHA1: 24a094dd3f00eaed7e5096880c4fd392ca8c32e2
+FileChecksum: MD5: 2f77135fe2a83a23e434830adffcaa44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/global-test-vars.sh.in
+SPDXID: SPDXRef-item853910
+FileChecksum: SHA1: 9c7adbf09a0c964852e613faed424050c8790359
+FileChecksum: MD5: 63b0d90a2f22f02db24fa99e3171206a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/configure.ac
+SPDXID: SPDXRef-item853911
+FileChecksum: SHA1: 262d6797a317996eda9e7ea868f0552f9c56c6e4
+FileChecksum: MD5: 2912152ab35d72be83c55016310739b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/Makefile.in
+SPDXID: SPDXRef-item853913
+FileChecksum: SHA1: c45ae8f06a2856ca2141ecc400dd52ae60b8d8d2
+FileChecksum: MD5: ed521b52b8376b07f8586beaf394dd70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/libcroco-overrides.txt
+SPDXID: SPDXRef-item853915
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/libcroco-docs.sgml
+SPDXID: SPDXRef-item853916
+FileChecksum: SHA1: ccc158ba8831b96584f1b5fcd506f5b9614d4be3
+FileChecksum: MD5: a1edd5d1c7106a19e2bc9d11446ef919
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/Makefile.in
+SPDXID: SPDXRef-item853917
+FileChecksum: SHA1: 0a951bda58928c6f412fc6a4cfa2c0201bed250f
+FileChecksum: MD5: 4a608fa7441e4a2bf37f302c8e2f07fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/libcroco-sections.txt
+SPDXID: SPDXRef-item853918
+FileChecksum: SHA1: 0481e321502be8eda5515b90496498d7cf5cbf36
+FileChecksum: MD5: 4b7cc098eb5441e86ec2153903d57ec8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/libcroco.types
+SPDXID: SPDXRef-item853919
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/Makefile.am
+SPDXID: SPDXRef-item853920
+FileChecksum: SHA1: 5d28d7d90a232267bd3a98b3c6d8045debce0032
+FileChecksum: MD5: b9360482f4549bebda3c448a6117ab03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-additional-sel.html
+SPDXID: SPDXRef-item853922
+FileChecksum: SHA1: 453014bd32eb3a6fc264c3904a6c8ec3d14c02ae
+FileChecksum: MD5: 5c5fd573b6270ee844c79514588aea76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-token.html
+SPDXID: SPDXRef-item853923
+FileChecksum: SHA1: 44ff46cd47f9f9d21b5e4683fb925241442a8a34
+FileChecksum: MD5: f5a0d40da128d421ea4cc2db0b0661b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/ch01.html
+SPDXID: SPDXRef-item853924
+FileChecksum: SHA1: b87188143fc4b19426535552fa77d3cee81856d7
+FileChecksum: MD5: 9daf31d6c536662365129527b1716bdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/left-insensitive.png
+SPDXID: SPDXRef-item853925
+FileChecksum: SHA1: 6484f6847b39a92fb4f0bb92babafa93152f4e8d
+FileChecksum: MD5: b992596e1683a40d89d15dc8dcb58c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/up-insensitive.png
+SPDXID: SPDXRef-item853926
+FileChecksum: SHA1: 092bed6184542cb2e2419399adc4c06d6e3319be
+FileChecksum: MD5: 97c742a19428c428c552a380ad9fde9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-statement.html
+SPDXID: SPDXRef-item853927
+FileChecksum: SHA1: 970abb35a99c65b79c7e8de78adb2db255392bd7
+FileChecksum: MD5: d886b349984dd1696df7f6c6ee66c91c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-fonts.html
+SPDXID: SPDXRef-item853928
+FileChecksum: SHA1: e4a093aaeb4eb3f758cb3a74b8dad61633bde47e
+FileChecksum: MD5: 471d8e7a6f7562c6926d5fe135c4672b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-doc-handler.html
+SPDXID: SPDXRef-item853929
+FileChecksum: SHA1: c8b8b96489231434a589ab66c5e639b2446c9fa3
+FileChecksum: MD5: 7cdba272139f99cf0177f00c3f2d2012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-parsing-location.html
+SPDXID: SPDXRef-item853930
+FileChecksum: SHA1: 3d066ac1fccde2062f4deae1691e6271d0754032
+FileChecksum: MD5: 255212f4ec1708b5782911639f9fafb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/index.html
+SPDXID: SPDXRef-item853931
+FileChecksum: SHA1: bd829b019e01d1e0c0a103cae62065539b640b63
+FileChecksum: MD5: 12045f004704677e34270d54ddb5da8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-tknzr.html
+SPDXID: SPDXRef-item853932
+FileChecksum: SHA1: dd80ae2462c55e702b3fa34dd047907cfd6a4119
+FileChecksum: MD5: f677a844e7fe4b245cceda027dfc34e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-prop-list.html
+SPDXID: SPDXRef-item853933
+FileChecksum: SHA1: e731bbf8f0362c54ded0417c1e694f6556033592
+FileChecksum: MD5: 82800005c4fe83f0b845470c27369a14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-selector.html
+SPDXID: SPDXRef-item853934
+FileChecksum: SHA1: 4503423db2cbba8cbfad95ab0127d15ec3a41107
+FileChecksum: MD5: 220c3036e9eae98bcf0efc646d051caa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-simple-sel.html
+SPDXID: SPDXRef-item853935
+FileChecksum: SHA1: 568a44256660345dd49454fcd3e25def62df40bc
+FileChecksum: MD5: 1730696cef756f4a083dec6994169d77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-cascade.html
+SPDXID: SPDXRef-item853936
+FileChecksum: SHA1: db76898bf9b069e4fe660eb1832efc2fd5abd754
+FileChecksum: MD5: b64dd09d776057e942eba46f7f3393b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-utils.html
+SPDXID: SPDXRef-item853937
+FileChecksum: SHA1: 8133db7ea19605ff8fb48c9cdc76c885c9871932
+FileChecksum: MD5: 0745f8a1fad7bed0b2424b021e5e0980
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-om-parser.html
+SPDXID: SPDXRef-item853938
+FileChecksum: SHA1: 196963faabd27f6b1a0a498de7bb07d2c318144c
+FileChecksum: MD5: 986be89cf35b51cf8f3d228f1d4994ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-style.html
+SPDXID: SPDXRef-item853939
+FileChecksum: SHA1: 60f2129291734e55b38508a795c76bff38318186
+FileChecksum: MD5: a88630000705afa76cb7033d8701d771
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco.devhelp2
+SPDXID: SPDXRef-item853940
+FileChecksum: SHA1: d55c7e967bef11406461dd4c4b859cc60b8d22e8
+FileChecksum: MD5: 1db96379d14f77f3faab86d76f668931
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/style.css
+SPDXID: SPDXRef-item853941
+FileChecksum: SHA1: b4068fc936d1e384da62f3addc8d6a13360db867
+FileChecksum: MD5: 7ecec4d4ad66d1ea924c1a17b492117e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-declaration.html
+SPDXID: SPDXRef-item853942
+FileChecksum: SHA1: 0b739b0a72300a18dbce1ccc4c509a796e88db4e
+FileChecksum: MD5: 233faae110290d3804a7b1d6e33bc56a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/right-insensitive.png
+SPDXID: SPDXRef-item853943
+FileChecksum: SHA1: 364c83e104dbae3d8a8cf6ef9e5e7e7f9493d3c5
+FileChecksum: MD5: 987cf4ad9491f01e8db264d38098a576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/home.png
+SPDXID: SPDXRef-item853944
+FileChecksum: SHA1: 7ba720f28018871ab2e8d1452987d9451f653ff2
+FileChecksum: MD5: 83cdd16d5fc01d8d7dfaf97df1120bc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-pseudo.html
+SPDXID: SPDXRef-item853945
+FileChecksum: SHA1: 1affcec7afb293268b199595348062a0407e97b6
+FileChecksum: MD5: 9de4d1cfa623678d8033d37326bd24de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-rgb.html
+SPDXID: SPDXRef-item853946
+FileChecksum: SHA1: d3ccfaceb1ceb29e696e43dd6203e450cab29757
+FileChecksum: MD5: 553149d5cacbbda3207440e26705d4fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/up.png
+SPDXID: SPDXRef-item853947
+FileChecksum: SHA1: 53d9711aa40ae3ebcb7e22671cd78fed5a039cdf
+FileChecksum: MD5: 81854a03247e9ba6981eed0b909b9c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-stylesheet.html
+SPDXID: SPDXRef-item853948
+FileChecksum: SHA1: 0e02cc393ec6f1079fab203729e390064c4f0fc8
+FileChecksum: MD5: e8b9ed3577a9b77bf23be7802a894965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-string.html
+SPDXID: SPDXRef-item853949
+FileChecksum: SHA1: 2619494a586ac372d049b9baf53e2a868cb0211c
+FileChecksum: MD5: 8c39274bb967cdd124dc9fe985374a5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/left.png
+SPDXID: SPDXRef-item853950
+FileChecksum: SHA1: 5d3c0425673b016477b553030535b3d15202961d
+FileChecksum: MD5: 0cc08008324009bebc947c6af6dd52c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-enc-handler.html
+SPDXID: SPDXRef-item853951
+FileChecksum: SHA1: 5d3dfb586b2a6797e14c6bda8edd95df3fc919f2
+FileChecksum: MD5: 8ec9fe9625710a2f464de542c9929ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-attr-sel.html
+SPDXID: SPDXRef-item853952
+FileChecksum: SHA1: e55b81082b69f8e4a501289eb3f8d07b7b3d2cc3
+FileChecksum: MD5: 4367eeb6ee29ae82aadea7dd6ed0eb8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-libcroco-config.html
+SPDXID: SPDXRef-item853953
+FileChecksum: SHA1: 41e3372707f9520659657f082e92060c25b2bf64
+FileChecksum: MD5: 3ad8460cf21fa3481e535c2efb514dc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-parser.html
+SPDXID: SPDXRef-item853954
+FileChecksum: SHA1: c824d65266d97afc39fea8d55a6e1a994acb4760
+FileChecksum: MD5: 4535128c2d90a666a6feae32c54670a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/right.png
+SPDXID: SPDXRef-item853955
+FileChecksum: SHA1: 9894d18a4588f67b782b307bbb001e2c901ebf48
+FileChecksum: MD5: bd51fef29caa82cb560340be392b37a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-input.html
+SPDXID: SPDXRef-item853956
+FileChecksum: SHA1: e6c0d20f55974288ceb8c4fe849222a8b88421fb
+FileChecksum: MD5: 5f2f77506c04de854b7227015f5da42f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-num.html
+SPDXID: SPDXRef-item853957
+FileChecksum: SHA1: e2abfc79790ea8f15590af0d273e78c400f1d4fd
+FileChecksum: MD5: a75273457b71deed00b0738cec5018cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-term.html
+SPDXID: SPDXRef-item853958
+FileChecksum: SHA1: 09647fa58f64e21d58114b76ff1e023b02ddeace
+FileChecksum: MD5: 2e1e3894952cc4f841de7b3e5a33b10f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/reference/html/libcroco-cr-sel-eng.html
+SPDXID: SPDXRef-item853959
+FileChecksum: SHA1: 1f378025495d29a50936f35536c73cfbd724c64f
+FileChecksum: MD5: 63ecd8e76ff8d292f02685e05a493c74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/examples/sac-example-2.c
+SPDXID: SPDXRef-item853961
+FileChecksum: SHA1: c645c008b98b973f65f5258baf13e9908e490d91
+FileChecksum: MD5: 2a20bf0194bfd4daad5665d67bee4bf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/examples/Makefile.in
+SPDXID: SPDXRef-item853962
+FileChecksum: SHA1: 63f539ba65584b682efdd34f0d375ff9488a8202
+FileChecksum: MD5: de4ae44fab3ea1439185e7f693a01a56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/examples/Makefile.am
+SPDXID: SPDXRef-item853963
+FileChecksum: SHA1: c5cc6858c4d1b7c815a6bef9634855aa64118c77
+FileChecksum: MD5: 51c92f48cff14636d632bd3b5dc5627a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/examples/cssom-example-1.c
+SPDXID: SPDXRef-item853964
+FileChecksum: SHA1: e4d43de895573f5ac362795dba9f137411190713
+FileChecksum: MD5: 2519f55b68a6ddd59a33d3bf05ee1105
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/examples/sac-example-1.c
+SPDXID: SPDXRef-item853965
+FileChecksum: SHA1: 0cd6d0d723274bf5e7da412f377852aefbebb484
+FileChecksum: MD5: e482266f8dbca111ca779fc3bb50b2bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/Makefile.am
+SPDXID: SPDXRef-item853966
+FileChecksum: SHA1: b58fbaab4711c1abfffa5bd3826006ea65ffb0cd
+FileChecksum: MD5: 6c234e758d9ecba975c88801e75d70c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/docs/usage.txt
+SPDXID: SPDXRef-item853967
+FileChecksum: SHA1: 3de2c06c53bd980d72f44dce908aa5129d166282
+FileChecksum: MD5: bfb7f0634a27ba946bf2e2bc40b01f3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/INSTALL
+SPDXID: SPDXRef-item853968
+FileChecksum: SHA1: d64e64d4c73679323f8d4cde2643331ba6c20af9
+FileChecksum: MD5: d0697e131465c2bdd0af3b07a84d2878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/config.guess
+SPDXID: SPDXRef-item853969
+FileChecksum: SHA1: 41832fbc82a7fcf9197171554070a6050cf2e5c1
+FileChecksum: MD5: c53118f6682ac1db40935d5705145d5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/libcroco.spec
+SPDXID: SPDXRef-item853970
+FileChecksum: SHA1: 68764911de89a26324d683b32c5adbb3b00f9268
+FileChecksum: MD5: 62ec7d25aa264394baa808bf11ee4937
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/autogen.sh
+SPDXID: SPDXRef-item853971
+FileChecksum: SHA1: 5cfd13110c1882655770a02c59edea7a762e397f
+FileChecksum: MD5: b5b957e91f46efa6b6d05b98063ae041
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/libcroco-zip.in
+SPDXID: SPDXRef-item853972
+FileChecksum: SHA1: a88bb751da079f21ca8323c95a80c16589fb94ea
+FileChecksum: MD5: 380289e09178caae29b8b0686e9f6b01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/depcomp
+SPDXID: SPDXRef-item853973
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/ChangeLog
+SPDXID: SPDXRef-item853974
+FileChecksum: SHA1: f660209598c76e3e9cfdb9af6c94df8b57f2b475
+FileChecksum: MD5: 0355b33005ea64b0ea7b078a2daf50eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcroco-0.6.12/croco-config.in
+SPDXID: SPDXRef-item853975
+FileChecksum: SHA1: 3209718decec9274608cbd085b1dfd886eea73ad
+FileChecksum: MD5: a7841c6a80180f51484650f563481c2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

@@ -1,0 +1,4869 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libinput-1.8.1-r0-patched.tar.gz_1571457152.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:52:33Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libinput
+PackageVersion: 1.8.1
+PackageFileName: libinput-1.8.1-r0-patched.tar.gz
+SPDXID: SPDXRef-upload289
+PackageDownloadLocation: http://www.freedesktop.org/software/libinput/libinput-1.8.1.tar.xz
+PackageHomePage: http://www.freedesktop.org/wiki/Software/libinput/
+PackageSummary: <text>Library to handle input devices in Wayland compositors</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libinput version 1.8.1</text>
+PackageChecksum: SHA1: 19e1f35615582e0be88edc500c3238adc92783c6
+PackageChecksum: MD5: d632b1e22b01d5094af2a93fce397662
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload289
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/compile
+SPDXID: SPDXRef-item830421
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/parse_hwdb.py
+SPDXID: SPDXRef-item830423
+FileChecksum: SHA1: beb1fb9fec442c8f86e13a880d80da25f14a3c0c
+FileChecksum: MD5: 37e18a0d9a85909b7f32aa71255d8fcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/libinput-device-group.c
+SPDXID: SPDXRef-item830424
+FileChecksum: SHA1: 9ba6f221bec0e47cda2dff990ac64b7a3b080577
+FileChecksum: MD5: 27d1c39e9edcfc590dd95cb051ee7f69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/90-libinput-model-quirks.rules
+SPDXID: SPDXRef-item830425
+FileChecksum: SHA1: 92eff837c62f449e4845c7d5cb30fb7231abe7b5
+FileChecksum: MD5: a8b390183aa817e0fba721f3cea65b59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/Makefile.in
+SPDXID: SPDXRef-item830426
+FileChecksum: SHA1: cc01517ac2b0bed5ede2bc1318092b97847ed35c
+FileChecksum: MD5: b623126923d153f3dfaa1543fc4571f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/80-libinput-device-groups.rules
+SPDXID: SPDXRef-item830427
+FileChecksum: SHA1: 7b1337e1b7dc0bc4365f5fd417c766a254b646c6
+FileChecksum: MD5: 612edb41c1eaee20b730da893b729750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/80-libinput-test-device.rules
+SPDXID: SPDXRef-item830428
+FileChecksum: SHA1: c5fcc9ce5c89cc57e0d07531e04ee4c6e527f936
+FileChecksum: MD5: acbff66ecd00e00d2968001548f458b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/Makefile.am
+SPDXID: SPDXRef-item830429
+FileChecksum: SHA1: 7b0a2d037f052a16f2ebc3a4730a980edfc7f6f5
+FileChecksum: MD5: 28785007fec9a980a1df0a59e9c8d60a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/80-libinput-device-groups.rules.in
+SPDXID: SPDXRef-item830430
+FileChecksum: SHA1: e3dd80b4424c4481f8ac58c649494fb4e5b3f3d7
+FileChecksum: MD5: 28850ffdffd9ad681ed448400ac26eb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/90-libinput-model-quirks.rules.in
+SPDXID: SPDXRef-item830431
+FileChecksum: SHA1: 073164c9659f7d162eaf4cf6fcb8b00a90a0ec5e
+FileChecksum: MD5: 21c60e972e85aba6e188d084cc944ac2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/libinput-model-quirks.c
+SPDXID: SPDXRef-item830432
+FileChecksum: SHA1: cb4f383038c613b12f2a39e568010d45a6c47100
+FileChecksum: MD5: 085b4125215881ef93ebab7349406850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/udev/90-libinput-model-quirks.hwdb
+SPDXID: SPDXRef-item830433
+FileChecksum: SHA1: 608ac81cbfe1b9dca188baf4e856045d95ea3961
+FileChecksum: MD5: f5d9dcd008f245985f866982c96f851a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/install-sh
+SPDXID: SPDXRef-item830434
+FileChecksum: SHA1: b99fec102eb24bffd53ab61fc30d59e810f116a2
+FileChecksum: MD5: 361482dd6b5b5eb7090fff3986fba68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/aclocal.m4
+SPDXID: SPDXRef-item830435
+FileChecksum: SHA1: 1e2f435b06698b66ab6e4267b304ef9755ffdbc4
+FileChecksum: MD5: 07e0da976559e9b92ba25af4c4818cc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/Makefile.in
+SPDXID: SPDXRef-item830436
+FileChecksum: SHA1: ab7e9074bd61242cff71d07435263894570458a5
+FileChecksum: MD5: 7a1c593c001f6fafac8dcd6c6b5cad30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/COPYING
+SPDXID: SPDXRef-item830437
+FileChecksum: SHA1: fa46dc6bb30647b13b3cefb1fd51f5fa8eab15a5
+FileChecksum: MD5: 2184aef38ff137ed33ce9a63b9d1eb8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/configure
+SPDXID: SPDXRef-item830438
+FileChecksum: SHA1: 09d7ced8a1864bed93627904965d3d206563e2e1
+FileChecksum: MD5: 1b39c482b8c6ce56e4592aa0063cf3b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/ltmain.sh
+SPDXID: SPDXRef-item830439
+FileChecksum: SHA1: 6871957156b07ae46e5f75da9510a56c79b45c76
+FileChecksum: MD5: df0f18e33ba4242ff9dff54fece82d8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput.sym
+SPDXID: SPDXRef-item830441
+FileChecksum: SHA1: 5edb16df3f4b43b80f788ff35b7351ae91ff0b9f
+FileChecksum: MD5: 59ed3e4598c55f9177746220816735ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/path-seat.c
+SPDXID: SPDXRef-item830442
+FileChecksum: SHA1: f8a3b85fbf7fc0b4f560a0e4715fcbad5fd61763
+FileChecksum: MD5: 0bb6bf1980213634d29b7cd90b0ee040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-lid.c
+SPDXID: SPDXRef-item830443
+FileChecksum: SHA1: 7acab4bcec7650719de2e4018a9a5745811d4785
+FileChecksum: MD5: 89b8fb8bb4a69d4b8e654ee62e2262c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput-version.h.in
+SPDXID: SPDXRef-item830444
+FileChecksum: SHA1: 23c8c1053b5f2550ac8321e4eaa28ddcf608fd30
+FileChecksum: MD5: 4910382e61a6f9d0b9c829fc8eff3246
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/timer.c
+SPDXID: SPDXRef-item830445
+FileChecksum: SHA1: 753b24d35ccab5a22ee43cc8fac68e60d1d5056a
+FileChecksum: MD5: 5bf076f41d33aa762ff8f2e6bdac0291
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-mt-touchpad-tap.c
+SPDXID: SPDXRef-item830446
+FileChecksum: SHA1: a5a82caffc08f6d52247d088a3fac5916e0c3a9f
+FileChecksum: MD5: b3b816fce811e21e3a7f70b40062d673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-tablet-pad-leds.c
+SPDXID: SPDXRef-item830447
+FileChecksum: SHA1: 4d895b0305b783cd88d7711fe8c65e23b631b42c
+FileChecksum: MD5: 42df1bdfe6d35eb2fc50ff1017e82594
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev.h
+SPDXID: SPDXRef-item830448
+FileChecksum: SHA1: 3a5d5d7f734399638bcb9f5c140cd7cad180c54f
+FileChecksum: MD5: 0f3e3a22d69b6af7be974fddcd013bdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput.pc.in
+SPDXID: SPDXRef-item830449
+FileChecksum: SHA1: 150bde7a461929f3a6327ec1ee49fc6cbaea4536
+FileChecksum: MD5: 90b117d692fe51c67747baacb11e567e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/Makefile.in
+SPDXID: SPDXRef-item830450
+FileChecksum: SHA1: 16f07877a44eedc9aefb043bcd97f635751a9f3c
+FileChecksum: MD5: 2f5fe55ca7a15a9df8a8244cba2e8ab8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-mt-touchpad.h
+SPDXID: SPDXRef-item830451
+FileChecksum: SHA1: 14b7ff348c296dcf10817813bf814a06d62f7983
+FileChecksum: MD5: 652f127f83f3e2fb455c44cec9ebda42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput-uninstalled.pc.in
+SPDXID: SPDXRef-item830452
+FileChecksum: SHA1: d6a8476323118a96f35d7f777e4fda6ad75ab9b2
+FileChecksum: MD5: 5c7e4479548e7c9690816bb711cb598b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput.c
+SPDXID: SPDXRef-item830453
+FileChecksum: SHA1: 79faa67e1d34f876394df7167cbc476abfc356c2
+FileChecksum: MD5: 2712ed8a0d6d159d46738d2e726dda5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-mt-touchpad.c
+SPDXID: SPDXRef-item830454
+FileChecksum: SHA1: a4cf878d3d1fe3cd1930eb1b2c7b59ec62aaff14
+FileChecksum: MD5: e4d33efa504a9ff8109a62183a316e9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/udev-seat.c
+SPDXID: SPDXRef-item830455
+FileChecksum: SHA1: a465d0305cd5b58654e36c5ab9a9b98f5596790f
+FileChecksum: MD5: 5bf1c508bb1e03af22c2e754fa4b933b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/Makefile.am
+SPDXID: SPDXRef-item830456
+FileChecksum: SHA1: c7223b5b4cbe1520865e8d291af2365df0186421
+FileChecksum: MD5: 70ba757a90f0550cb73d60b4149e8752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/filter.h
+SPDXID: SPDXRef-item830457
+FileChecksum: SHA1: 899a906af1ad5a16bc74e010f8c00dc4ed075ef6
+FileChecksum: MD5: ae297eed230a29a757f09883e4dfce53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput-util.c
+SPDXID: SPDXRef-item830458
+FileChecksum: SHA1: 79d0c79865472ff4285dd90393d7814cb11545d8
+FileChecksum: MD5: 7e3fe931491a49a832b7c6e630ed8ea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-tablet.c
+SPDXID: SPDXRef-item830459
+FileChecksum: SHA1: 78b73a9e381990e29279b21e60a559f34cc9984f
+FileChecksum: MD5: b7d03f0e08acfd9a449ce1e21a2c6db8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-mt-touchpad-gestures.c
+SPDXID: SPDXRef-item830460
+FileChecksum: SHA1: b46f654a173fe906387eab0b3bfc7ead21ea90f2
+FileChecksum: MD5: fec5695d2dd2497a2dd832e0e86567b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput-util.h
+SPDXID: SPDXRef-item830461
+FileChecksum: SHA1: 466638c83eaee0140520fc7859dfefe08a17d3a5
+FileChecksum: MD5: 6d4712b566cce763b454a2cff185dff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-tablet.h
+SPDXID: SPDXRef-item830462
+FileChecksum: SHA1: 5b8ba9a716d448d81919162c603a6a2ff690c99a
+FileChecksum: MD5: 5d0decc62893f03c37bbbe1d549eb52d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/timer.h
+SPDXID: SPDXRef-item830463
+FileChecksum: SHA1: 3a94a4129dbb98751619502540deef12991a3bc4
+FileChecksum: MD5: e2f7567017ef6f56fc243e44b8427f33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/filter-private.h
+SPDXID: SPDXRef-item830464
+FileChecksum: SHA1: f03f1a68ef8d3b3e9087f72c370dd94bee638963
+FileChecksum: MD5: 9d609417386cc98aaa961c34bafb20f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/udev-seat.h
+SPDXID: SPDXRef-item830465
+FileChecksum: SHA1: af198673947b491e8f2314bf889a2fc42c1456d7
+FileChecksum: MD5: c3935623c023eb0d8d9584226926fe27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-mt-touchpad-buttons.c
+SPDXID: SPDXRef-item830466
+FileChecksum: SHA1: fc6dcc62aa4d2aebf90ffb1ccbf7b1f5eeaff2e4
+FileChecksum: MD5: bea4a4e615a24ca956f6927b81b5b5fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-mt-touchpad-edge-scroll.c
+SPDXID: SPDXRef-item830467
+FileChecksum: SHA1: dff32ef3bf82388480647739c7e9e50c82af7cf6
+FileChecksum: MD5: 89520a4d8cf269a7fd14ba26801206cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-tablet-pad.h
+SPDXID: SPDXRef-item830468
+FileChecksum: SHA1: 9a8e37fea0b79406f400966ea1c9242698197505
+FileChecksum: MD5: ea3cc1f576f1e0c4a366738b9ad8e982
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-tablet-pad.c
+SPDXID: SPDXRef-item830469
+FileChecksum: SHA1: 2ebfd38cfa0039df582bc144a92980d0e4256606
+FileChecksum: MD5: 42c2af83f56e09046153a366a7ae1d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput-private.h
+SPDXID: SPDXRef-item830470
+FileChecksum: SHA1: c2c6717a71663d11f1319eb1363a106aeae1927f
+FileChecksum: MD5: b4772b70c7a290ec380af27949044aca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput.h
+SPDXID: SPDXRef-item830471
+FileChecksum: SHA1: 7626fd6816c33d21883bb9ea5371bf4530ab4ca7
+FileChecksum: MD5: c2f5aa3f042a79179965baf05397a170
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/filter.c
+SPDXID: SPDXRef-item830472
+FileChecksum: SHA1: 57964ec2cb4266b6c08750fe17e831bceb21f501
+FileChecksum: MD5: 54c96863d929c9dde28cd0a22b994e2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/libinput-restore-selinux-context.sh
+SPDXID: SPDXRef-item830473
+FileChecksum: SHA1: 2652afd921c527bc080a2aaf2331015ae4e38bb8
+FileChecksum: MD5: 2981298e935e0d2c11dc7158df3ba34c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev.c
+SPDXID: SPDXRef-item830474
+FileChecksum: SHA1: a857414e9efabefb4aa5128665170cc28654a456
+FileChecksum: MD5: 40471c71e2325387a1b12c2ba80dc411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/path-seat.h
+SPDXID: SPDXRef-item830475
+FileChecksum: SHA1: 52ebdd7fef20731c7860279ad7b82bdc4849c9c3
+FileChecksum: MD5: debe54f7a126ab7f7020d88dc735c6ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/src/evdev-middle-button.c
+SPDXID: SPDXRef-item830476
+FileChecksum: SHA1: e87304cc18cff4cc60b8fe6561e61d4da4d95fc5
+FileChecksum: MD5: 4460319dabc3beb2502cea84633b9b76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/m4/ltversion.m4
+SPDXID: SPDXRef-item830478
+FileChecksum: SHA1: 3aae847c163fa6cc7c8241a3a49f98705538d55f
+FileChecksum: MD5: d936fd6b2025c9b5322f826117d7f30c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/m4/libtool.m4
+SPDXID: SPDXRef-item830479
+FileChecksum: SHA1: de18e464da943e8b69b3f84ecbfd6cdb28b996de
+FileChecksum: MD5: ae989d0c1057c319a5107fed0311632d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/m4/ltoptions.m4
+SPDXID: SPDXRef-item830480
+FileChecksum: SHA1: 9cd35d79da7776af14f21b259c64f130fa1a3536
+FileChecksum: MD5: 064af1799febaa676203302bbf359180
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/m4/ltsugar.m4
+SPDXID: SPDXRef-item830481
+FileChecksum: SHA1: 2028bffadfd9b989bcc63da90596101fe4ec20b9
+FileChecksum: MD5: fa2891f9060865871cbbaa1c6e2d96f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item830482
+FileChecksum: SHA1: e21f085615f98d3751690c1615923e89160d5783
+FileChecksum: MD5: 22aa295bf5320aec7fba6756ff11058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/meson.build
+SPDXID: SPDXRef-item830483
+FileChecksum: SHA1: 1ad86f07f9fc09381eb59426d8082d6876f5196d
+FileChecksum: MD5: 6a4126f14895e3bb804f291594c3c223
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/meson_options.txt
+SPDXID: SPDXRef-item830484
+FileChecksum: SHA1: d2cbc9f309951f4b11ee3978ec79685db4d76618
+FileChecksum: MD5: f5dba2436295fb27cb3a38c3530bd604
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/config.h.in
+SPDXID: SPDXRef-item830485
+FileChecksum: SHA1: 2f8d5393c206cd30aacf008eb6f055aaba44de68
+FileChecksum: MD5: 29a59c2a2875cf11312f2d160dd11279
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/Makefile.am
+SPDXID: SPDXRef-item830486
+FileChecksum: SHA1: 3d6e12b9b1b1d8040e0619fce060321cdc380f16
+FileChecksum: MD5: ef3282c76952e8ec53421cd3ac2893c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/config.sub
+SPDXID: SPDXRef-item830487
+FileChecksum: SHA1: c15705cb56948877efbe9558541fbb4940e62155
+FileChecksum: MD5: 8c238eb18a69e902d34b48a1a3702c02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/t440-support.dox
+SPDXID: SPDXRef-item830489
+FileChecksum: SHA1: 2a054e52d12ed1facf12ba87f4b1f7c0f79f9eea
+FileChecksum: MD5: cb6af28f1d77adc3a5beccb190b02343
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/tools.dox
+SPDXID: SPDXRef-item830490
+FileChecksum: SHA1: 83192e079bc525c9b0948071f3dd934940204da0
+FileChecksum: MD5: c84fe29d396f8c3fa1925e5f7094fd18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/scrolling.dox
+SPDXID: SPDXRef-item830491
+FileChecksum: SHA1: 4c73a8afa65f256dacfb5ee712ad0302ecdda5f1
+FileChecksum: MD5: 1c6309ba67e8aeecde1ddc40391a6c32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/touchpad-softbutton-state-machine.svg
+SPDXID: SPDXRef-item830492
+FileChecksum: SHA1: cfe29176e5ff671ffd93d8cc863ecc9da512b6c2
+FileChecksum: MD5: 0e18b5f42c51f0f4d365137bc763c573
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/clickpad-softbuttons.dox
+SPDXID: SPDXRef-item830493
+FileChecksum: SHA1: 0f9ef684d6f4cecaa7c8251a7b51e799c71ea3b3
+FileChecksum: MD5: 706ae29654d5ab6d231296d346c9028f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/libinput.doxygen.in
+SPDXID: SPDXRef-item830494
+FileChecksum: SHA1: 00057509bf6f43733b8c0860c1da2dafc0d0c180
+FileChecksum: MD5: 9d8b84db56de49a412c3e62e755be9ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/timestamps.dox
+SPDXID: SPDXRef-item830495
+FileChecksum: SHA1: fa37af3c44204f6e2c0e4151a5dab0cd39238afc
+FileChecksum: MD5: 458d4d465845c242640223e3dcbd85dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/pointer-acceleration.dox
+SPDXID: SPDXRef-item830496
+FileChecksum: SHA1: 10f551a030802f5144d75af06f1e7cfbd0fd69a1
+FileChecksum: MD5: 1db3eb46a1db9baf28373273e7df3c17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/Makefile.in
+SPDXID: SPDXRef-item830497
+FileChecksum: SHA1: e776bd075c7d2957bfe738e526c8abd2e7aea538
+FileChecksum: MD5: 26ab726d7c74352792113923e4c275a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/reporting-bugs.dox
+SPDXID: SPDXRef-item830498
+FileChecksum: SHA1: b26bed1a4279e28b8fa06634380712dba89b259d
+FileChecksum: MD5: ec1f35e015944d464339c42bd3fd49d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/palm-detection.dox
+SPDXID: SPDXRef-item830499
+FileChecksum: SHA1: 5ba84482d138057bca364355f2484e64189b4f2f
+FileChecksum: MD5: 21a1c46ed2961b6b8db794b5bc769348
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/building.dox
+SPDXID: SPDXRef-item830500
+FileChecksum: SHA1: 9fe8a7aa1bada093b55c2b5fe02788b3a0c5f6d1
+FileChecksum: MD5: b57f75f61df73e2209a6d81ca2efe7a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/tablet-support.dox
+SPDXID: SPDXRef-item830501
+FileChecksum: SHA1: 4821515dfc198d77953bf6c343d044e3f2e8e35a
+FileChecksum: MD5: 8ba621d733f824f92c43bd3d13ce9609
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/gestures.dox
+SPDXID: SPDXRef-item830502
+FileChecksum: SHA1: 2b2d80ad3a9c1faa86ef4c78a4f49d0d293f2d88
+FileChecksum: MD5: 5d360d505a6457f41fb1271e022ae813
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/Makefile.am
+SPDXID: SPDXRef-item830503
+FileChecksum: SHA1: 87c7c65cf8c0fa9dd626349fd14acf69534c03d2
+FileChecksum: MD5: 15f9989b6ba3bf771261a0b437df1568
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/touchpads.dox
+SPDXID: SPDXRef-item830504
+FileChecksum: SHA1: 9a747ce1fc1fb8eba2e06416bd033fe8177e3a63
+FileChecksum: MD5: 611fbc2bc64d259ff28dcce54f562ed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/style/customdoxygen.css
+SPDXID: SPDXRef-item830506
+FileChecksum: SHA1: 341850f10e592f31982e5a732b61c09706484abe
+FileChecksum: MD5: dea31a8271a3cc4d1b2cd04f35504b25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/style/libinputdoxygen.css
+SPDXID: SPDXRef-item830507
+FileChecksum: SHA1: 89fd575ee83bbcb225457f5d217f569244e4744f
+FileChecksum: MD5: 126f242d7caa2328bea4080f7cd7de0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/style/bootstrap.css
+SPDXID: SPDXRef-item830508
+FileChecksum: SHA1: 143dc30edf2cfbe8771ece3d8c645ba21eedec5f
+FileChecksum: MD5: 661d244f8589b341fe024bd0c1f4c9dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/style/header.html
+SPDXID: SPDXRef-item830509
+FileChecksum: SHA1: d637e653ae12a71b0b8d2dbf6fe76ddfd2f50214
+FileChecksum: MD5: 20077f4a80a28e9f5829c98a3b98c861
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/style/footer.html
+SPDXID: SPDXRef-item830510
+FileChecksum: SHA1: ff35739442aa5cacb453f61d117221eba21466da
+FileChecksum: MD5: af336bbfe62c99ba18a20ae215d9504a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/middle-button-emulation.dox
+SPDXID: SPDXRef-item830511
+FileChecksum: SHA1: f2e774b053550a4c57314c84e9220fcdd25714ab
+FileChecksum: MD5: 15fe501d101552b006eb6508a211bd42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/faqs.dox
+SPDXID: SPDXRef-item830512
+FileChecksum: SHA1: 5585a73a85ac66a14f24c56a7b31f71c68b0fb4e
+FileChecksum: MD5: 1602602ee64a35ac641078ef5e52609d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/touchpad-tap-state-machine.svg
+SPDXID: SPDXRef-item830513
+FileChecksum: SHA1: b1961856d2d587eaa9e328de3bb4a2ffca29905b
+FileChecksum: MD5: 04ceef7510f610ac20857e4b5a851ea3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/seats.dox
+SPDXID: SPDXRef-item830514
+FileChecksum: SHA1: ebaf2c19e6b6b7fc2213b3a983e1d51a07b3a8f2
+FileChecksum: MD5: 7d2303c8e9627894de27d342023b27c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/contributing.dox
+SPDXID: SPDXRef-item830515
+FileChecksum: SHA1: 2c67ad3029b2b317817e0c92e613dc44900864eb
+FileChecksum: MD5: ba0bc5c407e48768ea55896eb0aac5a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/absolute-coordinate-ranges.dox
+SPDXID: SPDXRef-item830516
+FileChecksum: SHA1: f67fd710db94a9e76d1b26a1a0da92cb3e847d7e
+FileChecksum: MD5: 68628b6d3e20a3c3b3ff407fa2dbdb71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tapping_8dox.html
+SPDXID: SPDXRef-item830518
+FileChecksum: SHA1: 2b38a0e53e17997f5572e87c8c4fb0e68b3e0956
+FileChecksum: MD5: 3bbf9d27373ae539488d7fdb64980905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/developers.html
+SPDXID: SPDXRef-item830519
+FileChecksum: SHA1: 6be36e76ef59dd23f79f9e6510287fd09131067a
+FileChecksum: MD5: 97153347bbe0d3e6ecc9a7e1323547d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__event__tablet__tool.html
+SPDXID: SPDXRef-item830520
+FileChecksum: SHA1: c4fdbaa91f5afb94947381332d218108777528a6
+FileChecksum: MD5: f8fa75e3bf7ac73f647b37e1d879b8b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/customdoxygen.css
+SPDXID: SPDXRef-item830521
+FileChecksum: SHA1: 341850f10e592f31982e5a732b61c09706484abe
+FileChecksum: MD5: dea31a8271a3cc4d1b2cd04f35504b25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dot_libinput-stack-gnome.png
+SPDXID: SPDXRef-item830522
+FileChecksum: SHA1: b5abf4a5a49fef952ba4a8b4fcb42430b0c71823
+FileChecksum: MD5: 8c8a3dd7a7aa9cd1a30cdfb651e83858
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/globals_defs.html
+SPDXID: SPDXRef-item830523
+FileChecksum: SHA1: d089590c6647eff0f9439f0ac20cb26f5bfbd3fa
+FileChecksum: MD5: 5d2f6808e2ad4eddbbd4778430ca805f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/doxygen.png
+SPDXID: SPDXRef-item830524
+FileChecksum: SHA1: 3f9f7099f963a889bd8bd72237dac63467f3dc43
+FileChecksum: MD5: 4d8b8c8f1a68a4f320da8294a085f251
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/top-software-buttons.svg
+SPDXID: SPDXRef-item830525
+FileChecksum: SHA1: 8c5a2b22b136c2139bae0a5944c9ece6b47ce63c
+FileChecksum: MD5: 2afe798e579a34f0079e96350f2b48e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet-cintiq24hd-modes.svg
+SPDXID: SPDXRef-item830526
+FileChecksum: SHA1: 4bc73719ee3451e496558c4c9e20fdbc83007060
+FileChecksum: MD5: ffadb6893e3909ca3a75232f40094237
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/modules.html
+SPDXID: SPDXRef-item830527
+FileChecksum: SHA1: 83831977847f7ec0747ac8cf4137f750c8ef4157
+FileChecksum: MD5: 140a8ca3e65c593ecc7d741e85e3fb6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/switches.html
+SPDXID: SPDXRef-item830528
+FileChecksum: SHA1: a36ac6d7b2cdc442773fc8de74e4f7a6a99b77b2
+FileChecksum: MD5: ca1ea9eb377042ff337b313a9814678d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet-out-of-bounds.svg
+SPDXID: SPDXRef-item830529
+FileChecksum: SHA1: c9e09ed9beeb483a1870e7200d214c3b474eaf59
+FileChecksum: MD5: 786fbe1b97bc75f65aff7d4b03063ea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__event__touch.html
+SPDXID: SPDXRef-item830530
+FileChecksum: SHA1: 66f1f8f820f4b36881a2552ca9d22234e33561e6
+FileChecksum: MD5: 39a6ee8c87424c3633a153d79d247cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__event.html
+SPDXID: SPDXRef-item830531
+FileChecksum: SHA1: 1abbc53dff0662da28d15bb873919e45bf894058
+FileChecksum: MD5: 87ae400b800186040e1b273d88c6abf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/clickpad-softbuttons_8dox.html
+SPDXID: SPDXRef-item830532
+FileChecksum: SHA1: 40731ba5cda67ce1d01b3ff2e409310f5558f988
+FileChecksum: MD5: fa2b70a7369c7ada49da3aba625322d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/gestures.html
+SPDXID: SPDXRef-item830533
+FileChecksum: SHA1: c55c92de5a07b3c167fd55dc0b5bea65214b2e3a
+FileChecksum: MD5: f1b5f4a2613339952613fa2c1ac53140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/touchpads.html
+SPDXID: SPDXRef-item830534
+FileChecksum: SHA1: c6cabfa4717bb8e57c7febc66590fa7e2f3f77f9
+FileChecksum: MD5: ad2b19686f4705c708708f817ae5b4c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dot_libinput-stack-xorg.png
+SPDXID: SPDXRef-item830535
+FileChecksum: SHA1: f66d9154afae9f1e93c4c61ae5d80cd7a19cc3c4
+FileChecksum: MD5: 65877f07b0d0e59ad576a085f08ca1a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/bug.html
+SPDXID: SPDXRef-item830536
+FileChecksum: SHA1: c7b18c250bfbb12811b2dae65c2f3d26eaa65c15
+FileChecksum: MD5: 8d23dd8ead8fb96c665a348a3a08d652
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dir_68267d1309a1af8e8297ef4c3efbcdba.html
+SPDXID: SPDXRef-item830537
+FileChecksum: SHA1: f0f332206a4f6b04ebdb87578fe8b27d17e1a391
+FileChecksum: MD5: 4b93961bb95e31c3f4d929fd864fce87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/t440-support_8dox.html
+SPDXID: SPDXRef-item830538
+FileChecksum: SHA1: 542e53326d1c814c9d8a081b6f3ea3673a213af3
+FileChecksum: MD5: bcbfa777cfcbcafe50c4d66698b9fb60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__event__switch.html
+SPDXID: SPDXRef-item830539
+FileChecksum: SHA1: a90d60a1333dc8d00806fd9bf72ec66f6fdb5968
+FileChecksum: MD5: 6712317a9d5d8fb1909d6627743b67e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/ptraccel-low-dpi.svg
+SPDXID: SPDXRef-item830540
+FileChecksum: SHA1: dd7c2954071d2b3e76d74f5a5276146d2dcf0576
+FileChecksum: MD5: fcad44fdb8eb02c18358f3302e8879e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/udev_config.html
+SPDXID: SPDXRef-item830541
+FileChecksum: SHA1: adbca03996f7d0af8acb1749722b4b0bf41636b3
+FileChecksum: MD5: c4b85535c96fdf61f4515ac436bfec28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/pointers.html
+SPDXID: SPDXRef-item830542
+FileChecksum: SHA1: 31a5b004c6b26d7b469cfe423d4241796557409b
+FileChecksum: MD5: fa837c3878394207297606c3e743dcca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet-intuos-modes.svg
+SPDXID: SPDXRef-item830543
+FileChecksum: SHA1: 0a854e0c7c805c7454fa73281c41af67fa9ab357
+FileChecksum: MD5: 697452c714ea4c1680033a307e3b6d86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__event__pointer.html
+SPDXID: SPDXRef-item830544
+FileChecksum: SHA1: 518e40d93797271a016356ed0d8b00aa1f839542
+FileChecksum: MD5: 3c0ce12bb271adfdf43d48f5801a3362
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/pinch-gestures.svg
+SPDXID: SPDXRef-item830545
+FileChecksum: SHA1: ae7b844341c1a66bea1fd36dc89cd54ab8c98406
+FileChecksum: MD5: f4a1f98ea5e6c1f8c5446180c98b88a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/libinput_8h_source.html
+SPDXID: SPDXRef-item830546
+FileChecksum: SHA1: c83bc0208b3923c40f20ee245cb23ce9a349bb62
+FileChecksum: MD5: 1739d95140f7cf36c8d6dfb84c0fc76f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/software-buttons.svg
+SPDXID: SPDXRef-item830547
+FileChecksum: SHA1: 30a49c5e8f17d1a1a61257bdbd1cd0986017d1ac
+FileChecksum: MD5: 91b89981a7fcd00e1559139bcf723b7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tab_b.png
+SPDXID: SPDXRef-item830548
+FileChecksum: SHA1: 0e38f362aa804ce5e92add89f05b17fbc5f15d97
+FileChecksum: MD5: c7cd16cfabe8a14b9848f813df53fc2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/folderclosed.png
+SPDXID: SPDXRef-item830549
+FileChecksum: SHA1: 2fde5f1451009b435637b6851167bcad33bd4e05
+FileChecksum: MD5: 0b7046d86103299b2a0306ddf33ec004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/absolute-axes_8dox.html
+SPDXID: SPDXRef-item830550
+FileChecksum: SHA1: 6afd0bd69e592993ee67473a4239f0849bcdfce5
+FileChecksum: MD5: 69d7e253806b369c48412c948940c66e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__event__tablet.html
+SPDXID: SPDXRef-item830551
+FileChecksum: SHA1: c36a86c0c04fda24da5e2de081a96b47812d87a8
+FileChecksum: MD5: 534e0d974e99db261741f409a72832f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/folderopen.png
+SPDXID: SPDXRef-item830552
+FileChecksum: SHA1: a6bc8844f706ea5b9b5cd5a0acc704e4572530c6
+FileChecksum: MD5: 9ff4412a8e93e25320b9e260951c6a04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dot_seats-sketch-libinput.png
+SPDXID: SPDXRef-item830553
+FileChecksum: SHA1: 6f2f7e51b72dbe8e8abc8d34bdb1533ac885e7fa
+FileChecksum: MD5: 637109e771624f0dfb1fdc996cf29caa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/annotated.html
+SPDXID: SPDXRef-item830554
+FileChecksum: SHA1: 23f97887e12c111bb206e29834978806bce1ff3f
+FileChecksum: MD5: 2c501a4a5d85035f907c5a95ff448c6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/general.html
+SPDXID: SPDXRef-item830555
+FileChecksum: SHA1: d622b0cfc28c7579a4cc7fe5bb70cf3739729ecf
+FileChecksum: MD5: 40c9dcd042277e2f06d25edf5d6754c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__event__keyboard.html
+SPDXID: SPDXRef-item830556
+FileChecksum: SHA1: 93b6126cd4a8fc92f60605a2c0c467f836d5c29e
+FileChecksum: MD5: 5ae1c8708c03cd78648fcf9dbb20fdb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/scrolling.html
+SPDXID: SPDXRef-item830557
+FileChecksum: SHA1: 2c5dd8de3bbbce76eeec1cdcab1430e9bbff5cd5
+FileChecksum: MD5: cd5861ea5f4c64efcc8a42c25a1cfd40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/libinputdoxygen.css
+SPDXID: SPDXRef-item830558
+FileChecksum: SHA1: 89fd575ee83bbcb225457f5d217f569244e4744f
+FileChecksum: MD5: 126f242d7caa2328bea4080f7cd7de0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/nav_h.png
+SPDXID: SPDXRef-item830559
+FileChecksum: SHA1: dff8e73424c9ea2e502cd3b92f25c397384abc95
+FileChecksum: MD5: 935f050f10b7fe425509491f207f574f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__tablet__pad__mode__group.html
+SPDXID: SPDXRef-item830560
+FileChecksum: SHA1: 1a80cd51e5b3e84b18a7b6325f8a82e99599a1d4
+FileChecksum: MD5: 0017891af2a914473009861e36e341df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/switches_8dox.html
+SPDXID: SPDXRef-item830561
+FileChecksum: SHA1: dc8323a595fc0f265b1df626ac31c33d9bbc6d8a
+FileChecksum: MD5: 8e6201cb74f2dc61fb33fb1c56971c71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/touchpad_pressure.html
+SPDXID: SPDXRef-item830562
+FileChecksum: SHA1: c4b544a202878e8cd8c70c7f54ba9d4f69586ce1
+FileChecksum: MD5: 635f990e12ed1e1a3f4681e812a1593c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/building_8dox.html
+SPDXID: SPDXRef-item830563
+FileChecksum: SHA1: c6952e77a03dd4766b64b9d00db927c59fa35d12
+FileChecksum: MD5: 565bf288843c112313c5bb3197acbfb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/README_8md.html
+SPDXID: SPDXRef-item830564
+FileChecksum: SHA1: 290a42f924d5c05e9fa32c2e2440a5758d0a76a0
+FileChecksum: MD5: 607f376eb1211b3ed4e669819872bd06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/splitbar.png
+SPDXID: SPDXRef-item830565
+FileChecksum: SHA1: 8e89a71c77d43155f59f74897c370c2dfc409f6c
+FileChecksum: MD5: 8d590f70c25a81e71b99f6c8246b067e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/touchpad_jumping_cursor.html
+SPDXID: SPDXRef-item830566
+FileChecksum: SHA1: e44e26669d0215db1217ce22343b17eda39b1b58
+FileChecksum: MD5: 308cc5ba785d0a46ebb6fafb26d05b79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/edge-scrolling.svg
+SPDXID: SPDXRef-item830567
+FileChecksum: SHA1: 7c32ba97a41ce478e0ec84b9375e5a6b8ce382d1
+FileChecksum: MD5: 9188f03d6fe7d9dc517f220b9454d8e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/faq.html
+SPDXID: SPDXRef-item830568
+FileChecksum: SHA1: 7a625881def78eca8bf53e6405428a1410403709
+FileChecksum: MD5: 2c4584cb9ef2cfa557694a10da0e6b12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__event__tablet__pad.html
+SPDXID: SPDXRef-item830569
+FileChecksum: SHA1: b5cbea8f60d27072c1bbc6002684c98e3380235b
+FileChecksum: MD5: df91244b2aa795f6b33ea37130144475
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__event__tablet__pad.html
+SPDXID: SPDXRef-item830570
+FileChecksum: SHA1: a24870be5dc2ab981f24d23c8ed2565845d72866
+FileChecksum: MD5: 974c4f768e56c16c7f088e9eb1ae97e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dot_libinput-stack-wayland.png
+SPDXID: SPDXRef-item830571
+FileChecksum: SHA1: 1c74f53e3db5da3f74f9ae8cd02a9cedcbfebced
+FileChecksum: MD5: ae26df8c37b4983d7a628ddaeb0b987b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tapping.html
+SPDXID: SPDXRef-item830572
+FileChecksum: SHA1: 9025f3341105030be4a1bdea8d72c559c95984dc
+FileChecksum: MD5: 53cd5f0bcac6599eb3015999d237c007
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/seats.html
+SPDXID: SPDXRef-item830573
+FileChecksum: SHA1: 7f8d9cfaed4d803c34e6b18f1e08c0eb8965408b
+FileChecksum: MD5: 3cc3b3b81554a3683a12e8eb3b096d67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet-support_8dox.html
+SPDXID: SPDXRef-item830574
+FileChecksum: SHA1: 6644fc7c0f64db2abfd8de1cd7b4975b560349e3
+FileChecksum: MD5: 36c7d376a758a4007eb28d044fb4e4ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/touchpads_8dox.html
+SPDXID: SPDXRef-item830575
+FileChecksum: SHA1: 66101e825edc7d6c8fb45b385c9b49480415580f
+FileChecksum: MD5: 2e990e3a3814aee0d7f38f535d8b2bbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/contributing_8dox.html
+SPDXID: SPDXRef-item830576
+FileChecksum: SHA1: a1733f0addb6ca25fbb3dbbc7885e1ff56f7491d
+FileChecksum: MD5: ab04759be10e1cd1b947d192c07ff9e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/functions_vars.html
+SPDXID: SPDXRef-item830577
+FileChecksum: SHA1: d6a2171e3b66e335a0a8417eb76d82e5b806dcbd
+FileChecksum: MD5: ee7f8c79fefab0f57567e5c0079a1a93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/gestures_8dox.html
+SPDXID: SPDXRef-item830578
+FileChecksum: SHA1: 72cfc8afbefa9c0026ea54f6a122198cf8667038
+FileChecksum: MD5: 21ccba38c72e9fb0ac37077adc3a5af8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__tablet__tool.html
+SPDXID: SPDXRef-item830579
+FileChecksum: SHA1: 5541d2271a7a7c6437b4388a77d86afbc89a038f
+FileChecksum: MD5: 9f14b62bd9d69c1ec7f5f93b51916f87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/t440_support.html
+SPDXID: SPDXRef-item830580
+FileChecksum: SHA1: c91fff44a6d442d089c8c398a7e280eb613f9a1d
+FileChecksum: MD5: 5650986203ba9eb035c370c5b980a089
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__event__gesture.html
+SPDXID: SPDXRef-item830581
+FileChecksum: SHA1: 9dc0b0823aee07de6613ca58a4b7b07ecb1f9fe6
+FileChecksum: MD5: 75669ea9aa28bac24848ab1843dacf2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/index.html
+SPDXID: SPDXRef-item830582
+FileChecksum: SHA1: 93a2ec4948db312940f201def06b0e74529d1c06
+FileChecksum: MD5: e1d1e952872ec8a6c1274935f45dcfd4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tabs.css
+SPDXID: SPDXRef-item830583
+FileChecksum: SHA1: fc55540776451dac81ab7c3262cd7cbbacf92469
+FileChecksum: MD5: 5e5f3c33293bfd03386e623b17ef5e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/timestamps_8dox.html
+SPDXID: SPDXRef-item830584
+FileChecksum: SHA1: 300f678ec4c80599deb4521ae6b5285403764b61
+FileChecksum: MD5: 77f3cd8e0240fa582d13fc89c7827adb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__base.html
+SPDXID: SPDXRef-item830585
+FileChecksum: SHA1: 9923414199a6df551bdab551936c50098c69de74
+FileChecksum: MD5: d5fd868d352d1c79356d61338afdc59b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/bootstrap.css
+SPDXID: SPDXRef-item830586
+FileChecksum: SHA1: 143dc30edf2cfbe8771ece3d8c645ba21eedec5f
+FileChecksum: MD5: 661d244f8589b341fe024bd0c1f4c9dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/middle_button_emulation.html
+SPDXID: SPDXRef-item830587
+FileChecksum: SHA1: 6719ef4764e5e326fd8df8b8a60931c3328f84d7
+FileChecksum: MD5: c4264f75a89ba1b830fbf68fd266cbe0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/ptraccel-linear.svg
+SPDXID: SPDXRef-item830588
+FileChecksum: SHA1: 1d44f230854258cb763f5440e1464499f69d4c4f
+FileChecksum: MD5: 7f9c216b4f1217104319888f8e4fe5e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/pointer-acceleration_8dox.html
+SPDXID: SPDXRef-item830589
+FileChecksum: SHA1: 22e2c1b136674de139345c49f52958e88cada56b
+FileChecksum: MD5: bf746c1460ea58e763f791d278a281fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/absolute_coordinate_ranges.html
+SPDXID: SPDXRef-item830590
+FileChecksum: SHA1: 08ca3924da6113066ec80328f5c0035611a8119a
+FileChecksum: MD5: 3d79fc9649c934636f31ed99c0b7a505
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/seats_8dox.html
+SPDXID: SPDXRef-item830591
+FileChecksum: SHA1: 2b4df72b097d90d379f425ada23ab6af5c72e366
+FileChecksum: MD5: 21eb7f9689197fcc7b2a5c32e8871b7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__event__touch.html
+SPDXID: SPDXRef-item830592
+FileChecksum: SHA1: ea5da94f6398073d4090493d1811abf25ca057dc
+FileChecksum: MD5: 7342e9bc3b05f21fc76d87a6dc2aba5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/doc.png
+SPDXID: SPDXRef-item830593
+FileChecksum: SHA1: cd2dc0bb62795177d580d87c3ea3515af286b185
+FileChecksum: MD5: 31ed05886f30a2be256e9df86a25586f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dot_seats-sketch.png
+SPDXID: SPDXRef-item830594
+FileChecksum: SHA1: 150a14e4a46ac15ebf935b13b2d7bf2d8c533514
+FileChecksum: MD5: fa9c06e3a1d0504c6cd0603d69837687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/page-hierarchy_8dox.html
+SPDXID: SPDXRef-item830595
+FileChecksum: SHA1: d0cb4b078b6224755fdcde715630c458db3f9fe8
+FileChecksum: MD5: f59cfdccccb7f39090fb109fb6a0aed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/closed.png
+SPDXID: SPDXRef-item830596
+FileChecksum: SHA1: c6607712f771f03c6d9e440137dbcfd8a373572b
+FileChecksum: MD5: 3fa180a1c853204ee64235708fb8e162
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput.html
+SPDXID: SPDXRef-item830597
+FileChecksum: SHA1: a51cf9eeaa13095ce023004d1c88c9967c13a72a
+FileChecksum: MD5: f9a03a8af71460dc6dcb640e9ce79eb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/pointer-acceleration.html
+SPDXID: SPDXRef-item830598
+FileChecksum: SHA1: 1a352ab9ebb669ff62b99bf1a8a0344b6cd8279c
+FileChecksum: MD5: 3d1aa628c8174d3534154cd89adbe739
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__device__group.html
+SPDXID: SPDXRef-item830599
+FileChecksum: SHA1: 09adde7b9c0822792f9ef55806226d23bdc708a3
+FileChecksum: MD5: 56faa3f3ddce221be144171cb2c1f4f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__event__keyboard.html
+SPDXID: SPDXRef-item830600
+FileChecksum: SHA1: 6635525e7937a18e96065076105511783799776b
+FileChecksum: MD5: dc39d59621cd58ac2aec5c78800b3639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/ptraccel-touchpad.svg
+SPDXID: SPDXRef-item830601
+FileChecksum: SHA1: 4535a09a6a61151fc9de7aa5d3eb06db19414582
+FileChecksum: MD5: e27a01141054c87eebdd65bfbfccdb57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/reporting_bugs.html
+SPDXID: SPDXRef-item830602
+FileChecksum: SHA1: 1ea007c1b40a22a0e595d8de206179d37be446e7
+FileChecksum: MD5: 5ea824a60cfd87f6d6ae530c7f4a9516
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/palm-detection.svg
+SPDXID: SPDXRef-item830603
+FileChecksum: SHA1: 56bd2df052db5cb005bb904360831f9a5c0d6f18
+FileChecksum: MD5: e9b734a805a00ca7779f6696f9554e24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/globals_func.html
+SPDXID: SPDXRef-item830604
+FileChecksum: SHA1: 6462b89dafb3baaa9c9c1fb8286b783c52b8137d
+FileChecksum: MD5: 15ebb72f0815da4f9c54d90ee736712f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/middle-button-emulation_8dox.html
+SPDXID: SPDXRef-item830605
+FileChecksum: SHA1: e22adf9b8354fe63d039f0dd2c16369f6bbedaf4
+FileChecksum: MD5: 9456a632ba4f8e0a7ea3795c386379e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/what-is-libinput_8dox.html
+SPDXID: SPDXRef-item830606
+FileChecksum: SHA1: e34e509888e029bcef77db27a1aebe3ef06afe63
+FileChecksum: MD5: 9d34e6ab942561f6e74a553f7600fa4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/doxygen.css
+SPDXID: SPDXRef-item830607
+FileChecksum: SHA1: c049c2bdb9a9a1f8d5f0ea4235a1078f88420ad5
+FileChecksum: MD5: 3687cc95e3a2655c3a778a9128f90d92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/globals.html
+SPDXID: SPDXRef-item830608
+FileChecksum: SHA1: 7b7f01bb3b5ef056c71172ee7cb7129961932146
+FileChecksum: MD5: 2a160cb2e45e1ae6a06551825f9f921b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet.svg
+SPDXID: SPDXRef-item830609
+FileChecksum: SHA1: bb109cf911efc558aa21a25a5da24ab01114cfc0
+FileChecksum: MD5: 4e0fef65cc21e3b7b7a7b51efadec529
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/menudata.js
+SPDXID: SPDXRef-item830610
+FileChecksum: SHA1: 0e72d3a8701583e607d585129bb5a1deb5605700
+FileChecksum: MD5: c26a4806521109224f66af3a075abca4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/functions.html
+SPDXID: SPDXRef-item830611
+FileChecksum: SHA1: 4c3e8c83c6f56930d4fb4c93b520815e3035a26c
+FileChecksum: MD5: cf464bd1533a923ca390c5e4006a93c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dynsections.js
+SPDXID: SPDXRef-item830612
+FileChecksum: SHA1: 141a6eab1ecb43a0e9f6620b32831199b4fdc027
+FileChecksum: MD5: fbc22f07caf51cf90cbae1412067567c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/timestamps.html
+SPDXID: SPDXRef-item830613
+FileChecksum: SHA1: 60a6d15b5683cc332f82698510320ab66fe45fb7
+FileChecksum: MD5: 9012a11154f4949f885cff0289b36aa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/classes.html
+SPDXID: SPDXRef-item830614
+FileChecksum: SHA1: d6f813e13a8978974d49e01e2a7330757398a33e
+FileChecksum: MD5: 5e1ccd697db35ad1621a2748fd251a1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/globals_eval.html
+SPDXID: SPDXRef-item830615
+FileChecksum: SHA1: dd865553af4a0e5fa918e0dd4eb8bf682b3343d8
+FileChecksum: MD5: eec1ab4b2a83fecda71cb25ff9cdae86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/test-suite.html
+SPDXID: SPDXRef-item830616
+FileChecksum: SHA1: 151412c44ef37fe004e46f8291dacbd4ce2a890a
+FileChecksum: MD5: 02b61854a12ad74f01d5c2f41accb481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/test-suite_8dox.html
+SPDXID: SPDXRef-item830617
+FileChecksum: SHA1: d1ad32cc869bdc16b57ba5a36ef234ed798fbc7a
+FileChecksum: MD5: 59d8055df3e7b27a19f860fb8e149204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__device.html
+SPDXID: SPDXRef-item830618
+FileChecksum: SHA1: e405ed542635845e71653d7acba018ed91c36837
+FileChecksum: MD5: 2a17ac6f7a5c04daf030c5a3a3a1e918
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/misc.html
+SPDXID: SPDXRef-item830619
+FileChecksum: SHA1: c26c013599ec011ef7fd6a82384d079d2c0a9b13
+FileChecksum: MD5: 4bc0851be5bca19cc3f43e4f561de8e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__seat.html
+SPDXID: SPDXRef-item830620
+FileChecksum: SHA1: 217c2d6a3512e8c99de050c58a9c30eb4cc988b2
+FileChecksum: MD5: 9538f4d85f38d81312ce25e71dcf67e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/faqs_8dox.html
+SPDXID: SPDXRef-item830621
+FileChecksum: SHA1: cbdd1534602fbc887b842de2208fa08540f9d3b1
+FileChecksum: MD5: e572112b02b29b0905b8bbc5f45a4e40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/absolute-coordinate-ranges_8dox.html
+SPDXID: SPDXRef-item830622
+FileChecksum: SHA1: 9694b94f5cb193e1d4cc1b773ce03f8a3882e41f
+FileChecksum: MD5: 543bc71890ac7e7514b0e845f5d78907
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dot_evemu.png
+SPDXID: SPDXRef-item830623
+FileChecksum: SHA1: f91e370de85faae4e95ee9eae3e9f5789a93b8ba
+FileChecksum: MD5: 6d3d00057dcc88db70bc0a7d899ed63a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/absolute_axes.html
+SPDXID: SPDXRef-item830624
+FileChecksum: SHA1: f4fabb99f49fe497b8b036ef0fe6c72e89619b41
+FileChecksum: MD5: d1e06d7f9530aecc93ec44d57148ba5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__device.html
+SPDXID: SPDXRef-item830625
+FileChecksum: SHA1: 27b42e49710c75a2b751cd0d93e59829d797472e
+FileChecksum: MD5: 8061f57746185b2c30612223577da082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/touchscreens.html
+SPDXID: SPDXRef-item830626
+FileChecksum: SHA1: 979d943709ee15e9c91a3c2c056951f3306d28ec
+FileChecksum: MD5: fb74968936dfec20d160d801a2ad2a32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/clickfinger.svg
+SPDXID: SPDXRef-item830627
+FileChecksum: SHA1: 8e0970f307423039de5b33e97f085fa3879e341f
+FileChecksum: MD5: a9053b0fa1e97d546c72314183cc9978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/open.png
+SPDXID: SPDXRef-item830628
+FileChecksum: SHA1: 613c816a65952b73a2a697d33a3f5be1b45433e0
+FileChecksum: MD5: 468c228548b4a85dd54d544810bd0edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/nav_f.png
+SPDXID: SPDXRef-item830629
+FileChecksum: SHA1: 09487f92d803cec5e616466c974f4cb9babd3819
+FileChecksum: MD5: 4e4d8be23c6d6bbe0184fd891ff59e00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tools_8dox.html
+SPDXID: SPDXRef-item830630
+FileChecksum: SHA1: 4fa0ef1b1b488eee8f00c6451a34689be8cef9dd
+FileChecksum: MD5: 1d087f9e98caa6b9c365984bf4bb2b14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/thumb-detection.svg
+SPDXID: SPDXRef-item830631
+FileChecksum: SHA1: 93975515daff24dcab9830c6b79543e5746b23dd
+FileChecksum: MD5: 2dba0d9bd1a7e0476cc59e2b46daf7fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tap-n-drag.svg
+SPDXID: SPDXRef-item830632
+FileChecksum: SHA1: 991d3b2fa53e923dfebe0ca5da491192f7fc30fd
+FileChecksum: MD5: 43ff433e35bd2a1098f15b9efdff3f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/bc_s.png
+SPDXID: SPDXRef-item830633
+FileChecksum: SHA1: ace7ca1070475ae99c9ae7647a9640af2ccffce5
+FileChecksum: MD5: ceaaae73746596a7519cfe782d8aa065
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/swipe-gestures.svg
+SPDXID: SPDXRef-item830634
+FileChecksum: SHA1: 3ec643da4244d3e858734230be3590d40fa3eb81
+FileChecksum: MD5: f4d95aa72056d46040c197c5037fc441
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet-left-handed.svg
+SPDXID: SPDXRef-item830635
+FileChecksum: SHA1: e0f036fe6155dc8acfdb07f4e8d048f75be72618
+FileChecksum: MD5: 5ef0e8beadf70300838df6edefb50b7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__event__device__notify.html
+SPDXID: SPDXRef-item830636
+FileChecksum: SHA1: 57f2561fa803dffee21221d2ebeb68eb781a0d0f
+FileChecksum: MD5: 386b6aa55309aa7467247aabf0a722ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet-axes.svg
+SPDXID: SPDXRef-item830637
+FileChecksum: SHA1: 71fd2f5a174e22c809a7057a8cc96f633ec43077
+FileChecksum: MD5: 0a1851ea74df019648cb0b6b6d99d0ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__event.html
+SPDXID: SPDXRef-item830638
+FileChecksum: SHA1: bd5ee0533afe73cbacc2bfaaa79932bf16cb4f2f
+FileChecksum: MD5: 356a9f598b5bafa2d3cdc9144dc42dd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dot_inline_dotgraph_2.png
+SPDXID: SPDXRef-item830639
+FileChecksum: SHA1: 31d414a3750eaf4e1f526a5dc8ae56eb62274ebe
+FileChecksum: MD5: 48e3117e3fedabe675ca384e0da9285c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/libinput_8h.html
+SPDXID: SPDXRef-item830640
+FileChecksum: SHA1: ca06c083dea12f7ee474b621fc72dfc6ebf42633
+FileChecksum: MD5: 9a54212d2e17591eccf73a342dc83392
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/sync_on.png
+SPDXID: SPDXRef-item830641
+FileChecksum: SHA1: c31bec6b7ad1dfe600edfe2fefdc965da46569d0
+FileChecksum: MD5: b1cc394ed471b4ab97be14f1e1a7cefa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/globals_type.html
+SPDXID: SPDXRef-item830642
+FileChecksum: SHA1: 6b0ca098b56a754f1db5bfa0244ab6c72fffa419
+FileChecksum: MD5: 7cfdf8d94a9e785bd105358e1d474c2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/pinch-gestures-softbuttons.svg
+SPDXID: SPDXRef-item830643
+FileChecksum: SHA1: d17e09ceb9a3e01238e7bfe0abb3e77b6aa2ca72
+FileChecksum: MD5: a50f73b9e337ff4aac4b87016fcc3584
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/touchscreen-gestures.svg
+SPDXID: SPDXRef-item830644
+FileChecksum: SHA1: 8c79e584cd38a7b39e1d64f3aef83f2fd7aaba14
+FileChecksum: MD5: 0de7ade46245eeb5e521690a13619747
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tab_a.png
+SPDXID: SPDXRef-item830645
+FileChecksum: SHA1: f91f9b6053909cfde7e952ac86b837241d89c23d
+FileChecksum: MD5: 2a5327b5dfc494fd8688fd887991cdab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/bdwn.png
+SPDXID: SPDXRef-item830646
+FileChecksum: SHA1: 266ec69871aa74ed46448d3688332277114576c2
+FileChecksum: MD5: 6249334b2e7fc28090f26abeb328eb78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/normalization-of-relative-motion_8dox.html
+SPDXID: SPDXRef-item830647
+FileChecksum: SHA1: d85cdb1b2d3f63b5b75e48d05fc7eca7f926afe7
+FileChecksum: MD5: 9d9dada7fd5027ec118360eb1b634d15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/touchpad-pressure_8dox.html
+SPDXID: SPDXRef-item830648
+FileChecksum: SHA1: b022a7a3bc580531a7767be7b012899b05a2568c
+FileChecksum: MD5: f791f6bffae4715c11f2d48e21288887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/gesture-2fg-ambiguity.svg
+SPDXID: SPDXRef-item830649
+FileChecksum: SHA1: 622a5bd8c7f50dab7d30b613a027ac7c857b14f9
+FileChecksum: MD5: 05d04701c724b80fdcaa12295ce286b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/sync_off.png
+SPDXID: SPDXRef-item830650
+FileChecksum: SHA1: f9cdbf5d96a602001c676226b113b43b9b4de559
+FileChecksum: MD5: 12a5e283812e092b5a74b0d47e95e9a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/clickfinger-distance.svg
+SPDXID: SPDXRef-item830651
+FileChecksum: SHA1: dc7682f45c9cf7fda5c24cf3951f525e3b3f55fc
+FileChecksum: MD5: 8eb80167a779f454907b5699b732ac74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tools.html
+SPDXID: SPDXRef-item830652
+FileChecksum: SHA1: 8d4ede05cd5ec9d2a7f19fa778c37cdf76daf88b
+FileChecksum: MD5: 33527cda2d5a8e6c5eb3c3c856f0c731
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__event__pointer.html
+SPDXID: SPDXRef-item830653
+FileChecksum: SHA1: c39aaf662b4c4f2f4b3700fec6debf789d8ef731
+FileChecksum: MD5: 22f4f6e4ae3a7455495c41e64d070036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/nav_g.png
+SPDXID: SPDXRef-item830654
+FileChecksum: SHA1: c6c62128f251c972249ae89836fd39d4fbc0dd7b
+FileChecksum: MD5: 6cf157aabeb91ae637a6d770b07c1011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/jquery.js
+SPDXID: SPDXRef-item830655
+FileChecksum: SHA1: 68d51d82a90fea838b3de38a85a19e0ac0c0bc00
+FileChecksum: MD5: 390dbe00ac8bf9e8ebf1735f291773ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/palm-detection_8dox.html
+SPDXID: SPDXRef-item830656
+FileChecksum: SHA1: 72570c53fba325ac86c3942a3c67f7c17b0eaf5d
+FileChecksum: MD5: 0dc5b50a78effc5b456f9f05cf6013a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__tablet__pad__modes.html
+SPDXID: SPDXRef-item830657
+FileChecksum: SHA1: 04768bec07370f0fc11564400c01cdcf3a923c0e
+FileChecksum: MD5: 4a7f645fbee36dea7941511b77f00b41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/palm_detection.html
+SPDXID: SPDXRef-item830658
+FileChecksum: SHA1: 80635ad4e5dffa307cc7b020fb8738adafde5e15
+FileChecksum: MD5: 751b1a6d73540456ae0c4cdfb0cdd81e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__seat.html
+SPDXID: SPDXRef-item830659
+FileChecksum: SHA1: b47a1053de13ff2025bdd67f8e028022606145ec
+FileChecksum: MD5: 6d224633795488dd5b5dd501666eeebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__event__switch.html
+SPDXID: SPDXRef-item830660
+FileChecksum: SHA1: 34311e7369ac09147ab5915781d392ab6f7be673
+FileChecksum: MD5: 7d32c4663a53fd7e1e7e2f8dcf7c0c62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/scrolling_8dox.html
+SPDXID: SPDXRef-item830661
+FileChecksum: SHA1: d4e2232603414e44d58be922eeeec240ba57acac
+FileChecksum: MD5: 7ec0a8460b617928c8e8ff010fea7537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/device-configuration-via-udev_8dox.html
+SPDXID: SPDXRef-item830662
+FileChecksum: SHA1: 730af9d7be3df197f644d92cc121baf7dcb96bcb
+FileChecksum: MD5: d6454eda7b03a242c4fa06d9c2321685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/menu.js
+SPDXID: SPDXRef-item830663
+FileChecksum: SHA1: 8347a15887cfd9795f8aea2ce4a257de180d6652
+FileChecksum: MD5: 0214be704544abaa89713b78402e44f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablets.html
+SPDXID: SPDXRef-item830664
+FileChecksum: SHA1: 1d98343f77c962044edfc416d99fae7451b03e34
+FileChecksum: MD5: f9d6b794760c7b921d329b861b176704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tab_s.png
+SPDXID: SPDXRef-item830665
+FileChecksum: SHA1: 324f6b03a43af75a7e1a732e7f3df52ccfdd8972
+FileChecksum: MD5: d5a3e094c590d5113232b74cd902f58f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/files.html
+SPDXID: SPDXRef-item830666
+FileChecksum: SHA1: a51454aeafff419d4ea253d426d082015a7f21f6
+FileChecksum: MD5: ff2216af3cb3c53553d9a27fcc3f505c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/what_is_libinput.html
+SPDXID: SPDXRef-item830667
+FileChecksum: SHA1: ab32cd54b6dae8231c85ef3ba825d974400c58f5
+FileChecksum: MD5: 73c36542424e702eee5cdab43f4b0021
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/ptraccel-trackpoint.svg
+SPDXID: SPDXRef-item830668
+FileChecksum: SHA1: 8c3b9fdef71233171b9ddb777acaf7ac1f2783aa
+FileChecksum: MD5: 6ed779ffe27fcf3079ded1b3c040243a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/globals_enum.html
+SPDXID: SPDXRef-item830669
+FileChecksum: SHA1: 40ee6e3a493cd7ed06eb6eb07afac73406555149
+FileChecksum: MD5: 51400113f4db9e8e2e70e4823ba08050
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tab_h.png
+SPDXID: SPDXRef-item830670
+FileChecksum: SHA1: be353a1ff77f646ee0f22c3cc6e2d8bf6824d877
+FileChecksum: MD5: 38c6c507f0ab91770a0ed9a668a03551
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/building_libinput.html
+SPDXID: SPDXRef-item830671
+FileChecksum: SHA1: 97d2611cc1c0186f8acdc725148a55e596a0d88a
+FileChecksum: MD5: 09dbc7c08efc3fb4cb6587007998b11e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/touchpad-jumping-cursors_8dox.html
+SPDXID: SPDXRef-item830672
+FileChecksum: SHA1: 4ec0530d07dfe84d8ed7f48090ab8766a4695268
+FileChecksum: MD5: b7a70b6ee328da867add1170efa7fbd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/twofinger-scrolling.svg
+SPDXID: SPDXRef-item830673
+FileChecksum: SHA1: b9f861e16bdf4b4aa8502d904d9ce1e909c93ce7
+FileChecksum: MD5: 25ab4a7a5e9e482ecce2790c484f1924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet-interfaces.svg
+SPDXID: SPDXRef-item830674
+FileChecksum: SHA1: 2e8f4e92736a9036ff1d9eededf5dd0029491a07
+FileChecksum: MD5: b5bc8a5a5c4a0861542e061dedf93b19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/button-scrolling.svg
+SPDXID: SPDXRef-item830675
+FileChecksum: SHA1: 90172e05443a06864eef80f8424301fb6628bd12
+FileChecksum: MD5: 85bc56d98c809094d3f549b800d7d3ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/dot_inline_dotgraph_1.png
+SPDXID: SPDXRef-item830676
+FileChecksum: SHA1: ad2c2ada3ac16991ed427f1b8a5a0040e1e019ed
+FileChecksum: MD5: 7b55d9e58e8fc481793fb40f9d6efa3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/reporting-bugs_8dox.html
+SPDXID: SPDXRef-item830677
+FileChecksum: SHA1: afba9bb81ce131925141472615f179cc337602ee
+FileChecksum: MD5: 3a2b2ab7e7da0c8cc3099b1b505bae7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/motion_normalization.html
+SPDXID: SPDXRef-item830678
+FileChecksum: SHA1: 43d68211ee05a60c23da473388f0385f611ffe91
+FileChecksum: MD5: 706dd2542680de2d399e3a76f415ee5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/clickpad_softbuttons.html
+SPDXID: SPDXRef-item830679
+FileChecksum: SHA1: 7d6eb305e649bc204f2bd312d27fbf1095fe5bdb
+FileChecksum: MD5: 408a70ba69d33351e6e4cf9f7d570571
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/group__config.html
+SPDXID: SPDXRef-item830680
+FileChecksum: SHA1: 428ad701708e32d54bbe041c82649d0583833e7b
+FileChecksum: MD5: a5132f0ffd3e64ce09e66351f3ada091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/structlibinput__interface.html
+SPDXID: SPDXRef-item830681
+FileChecksum: SHA1: 4896c43773281d622610aa3cb334b2ce21feba49
+FileChecksum: MD5: b2f9029d851c08f567e23494b3a79d6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/pages.html
+SPDXID: SPDXRef-item830682
+FileChecksum: SHA1: c24056365768b0d5409ba8cf529d533ae5186908
+FileChecksum: MD5: c98ae1f25c9d8b0843a6ff898bcb73bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/tablet-support.html
+SPDXID: SPDXRef-item830683
+FileChecksum: SHA1: 129b1911119e3c4c8f7ae79b0ad8e024e3477cb3
+FileChecksum: MD5: 1a422dcca082e9ba9e5e8d79a6d26486
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/html/contributing.html
+SPDXID: SPDXRef-item830684
+FileChecksum: SHA1: aa08879c0c98ed3a993c38b270e4a719f6450306
+FileChecksum: MD5: 83b0ea34c4270f02f4ce0e72868c1ecb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/switches.dox
+SPDXID: SPDXRef-item830685
+FileChecksum: SHA1: ddd2d19b318d46102d63c75adfabf051f5bc82f9
+FileChecksum: MD5: 66a0ec6171bc57600a0a82eb44eeb92c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/test-suite.dox
+SPDXID: SPDXRef-item830686
+FileChecksum: SHA1: e1a79a37458f9f207522f564db89b3a77cae5a4c
+FileChecksum: MD5: 382b412dafccbaba359f3d5cd4582750
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/touchpad-jumping-cursors.dox
+SPDXID: SPDXRef-item830687
+FileChecksum: SHA1: f2ad3aecbfc2734a54b9f5f46b49b5e47d167a48
+FileChecksum: MD5: 0ecd3dba26f48d9ae36daced737e12fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/absolute-axes.dox
+SPDXID: SPDXRef-item830688
+FileChecksum: SHA1: 01870fed1152fb499d3bb244df451fc4f178ab79
+FileChecksum: MD5: a2582c0a58e5af9d4247032f67fb5fd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/middle-button-emulation.svg
+SPDXID: SPDXRef-item830689
+FileChecksum: SHA1: 602fce2ea2e73afc3daef65b16ebd80533a4e982
+FileChecksum: MD5: a1acfeb782b8e6081816d79b8ab32bce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/what-is-libinput.dox
+SPDXID: SPDXRef-item830690
+FileChecksum: SHA1: 77a10706038f0957f1865ca9312ecea71d6452f7
+FileChecksum: MD5: a879ca1f901cb8c0c32e8a5d1d9ad63c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/dot/seats-sketch-libinput.gv
+SPDXID: SPDXRef-item830692
+FileChecksum: SHA1: 4314784936dd4fa2078b5df416961e6b08a3bfc9
+FileChecksum: MD5: 51ea10a99abb90f67fcc7882219a3a62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/dot/libinput-stack-xorg.gv
+SPDXID: SPDXRef-item830693
+FileChecksum: SHA1: a96641921cc3f7e622cb492e5844a49480648084
+FileChecksum: MD5: 1c8592e19350c5b300c2ccccb65eea43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/dot/libinput-stack-wayland.gv
+SPDXID: SPDXRef-item830694
+FileChecksum: SHA1: fd71ab75c5c6c2fd27f8653f6c603fd614d500c6
+FileChecksum: MD5: 85cbfe572abb8531a7a8e0bf6093dd10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/dot/libinput-stack-gnome.gv
+SPDXID: SPDXRef-item830695
+FileChecksum: SHA1: e12f4e5c16bb1e3f0a2ebb735bcfbaecc76b43e3
+FileChecksum: MD5: 7401ef52b84d2847ed4c7ce186f3e458
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/dot/seats-sketch.gv
+SPDXID: SPDXRef-item830696
+FileChecksum: SHA1: b925cc9c330300577596d6112799bbf655f3f3f9
+FileChecksum: MD5: bbda574ec8829c2f98e3d8e419ac5e14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/dot/evemu.gv
+SPDXID: SPDXRef-item830697
+FileChecksum: SHA1: 7e4f4b055338ac9938234e41db6808a18cfe1844
+FileChecksum: MD5: 83a8b59be6dfd3f8b285ed66ee02f2f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/page-hierarchy.dox
+SPDXID: SPDXRef-item830698
+FileChecksum: SHA1: 4c1cf0ead0600986003e92069e035f5524f373ea
+FileChecksum: MD5: 6bde559fd729c0b2de8edce14f952fe2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/tapping.dox
+SPDXID: SPDXRef-item830699
+FileChecksum: SHA1: a9110c90f72a83949c82bfb9fd3d00ad0c83c54a
+FileChecksum: MD5: 45e9584707679f8a838845040fa96094
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/touchpad-pressure.dox
+SPDXID: SPDXRef-item830700
+FileChecksum: SHA1: 0655856481e6a0759d54d59950dd082f282c70a7
+FileChecksum: MD5: 80a5de3b78727c6c29f45d3899456d85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/device-configuration-via-udev.dox
+SPDXID: SPDXRef-item830701
+FileChecksum: SHA1: 2b34a98221bbf2449c109a42c5c9c395353f7a1c
+FileChecksum: MD5: a0cc7c3a8fe9bb20f1b55745c2e6c377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/normalization-of-relative-motion.dox
+SPDXID: SPDXRef-item830702
+FileChecksum: SHA1: 2738adffc503e62830a2391db46dafc1e2e37d4e
+FileChecksum: MD5: 5d561af33e1185517c3b29c6c8d71a05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/top-software-buttons.svg
+SPDXID: SPDXRef-item830704
+FileChecksum: SHA1: 8c5a2b22b136c2139bae0a5944c9ece6b47ce63c
+FileChecksum: MD5: 2afe798e579a34f0079e96350f2b48e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/tablet-cintiq24hd-modes.svg
+SPDXID: SPDXRef-item830705
+FileChecksum: SHA1: 4bc73719ee3451e496558c4c9e20fdbc83007060
+FileChecksum: MD5: ffadb6893e3909ca3a75232f40094237
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/tablet-out-of-bounds.svg
+SPDXID: SPDXRef-item830706
+FileChecksum: SHA1: c9e09ed9beeb483a1870e7200d214c3b474eaf59
+FileChecksum: MD5: 786fbe1b97bc75f65aff7d4b03063ea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/ptraccel-low-dpi.svg
+SPDXID: SPDXRef-item830707
+FileChecksum: SHA1: dd7c2954071d2b3e76d74f5a5276146d2dcf0576
+FileChecksum: MD5: fcad44fdb8eb02c18358f3302e8879e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/tablet-intuos-modes.svg
+SPDXID: SPDXRef-item830708
+FileChecksum: SHA1: 0a854e0c7c805c7454fa73281c41af67fa9ab357
+FileChecksum: MD5: 697452c714ea4c1680033a307e3b6d86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/pinch-gestures.svg
+SPDXID: SPDXRef-item830709
+FileChecksum: SHA1: ae7b844341c1a66bea1fd36dc89cd54ab8c98406
+FileChecksum: MD5: f4a1f98ea5e6c1f8c5446180c98b88a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/software-buttons.svg
+SPDXID: SPDXRef-item830710
+FileChecksum: SHA1: 30a49c5e8f17d1a1a61257bdbd1cd0986017d1ac
+FileChecksum: MD5: 91b89981a7fcd00e1559139bcf723b7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/edge-scrolling.svg
+SPDXID: SPDXRef-item830711
+FileChecksum: SHA1: 7c32ba97a41ce478e0ec84b9375e5a6b8ce382d1
+FileChecksum: MD5: 9188f03d6fe7d9dc517f220b9454d8e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/ptraccel-linear.svg
+SPDXID: SPDXRef-item830712
+FileChecksum: SHA1: 1d44f230854258cb763f5440e1464499f69d4c4f
+FileChecksum: MD5: 7f9c216b4f1217104319888f8e4fe5e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/ptraccel-touchpad.svg
+SPDXID: SPDXRef-item830713
+FileChecksum: SHA1: 4535a09a6a61151fc9de7aa5d3eb06db19414582
+FileChecksum: MD5: e27a01141054c87eebdd65bfbfccdb57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/palm-detection.svg
+SPDXID: SPDXRef-item830714
+FileChecksum: SHA1: 56bd2df052db5cb005bb904360831f9a5c0d6f18
+FileChecksum: MD5: e9b734a805a00ca7779f6696f9554e24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/tablet.svg
+SPDXID: SPDXRef-item830715
+FileChecksum: SHA1: bb109cf911efc558aa21a25a5da24ab01114cfc0
+FileChecksum: MD5: 4e0fef65cc21e3b7b7a7b51efadec529
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/clickfinger.svg
+SPDXID: SPDXRef-item830716
+FileChecksum: SHA1: 8e0970f307423039de5b33e97f085fa3879e341f
+FileChecksum: MD5: a9053b0fa1e97d546c72314183cc9978
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/thumb-detection.svg
+SPDXID: SPDXRef-item830717
+FileChecksum: SHA1: 93975515daff24dcab9830c6b79543e5746b23dd
+FileChecksum: MD5: 2dba0d9bd1a7e0476cc59e2b46daf7fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/tap-n-drag.svg
+SPDXID: SPDXRef-item830718
+FileChecksum: SHA1: 991d3b2fa53e923dfebe0ca5da491192f7fc30fd
+FileChecksum: MD5: 43ff433e35bd2a1098f15b9efdff3f5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/swipe-gestures.svg
+SPDXID: SPDXRef-item830719
+FileChecksum: SHA1: 3ec643da4244d3e858734230be3590d40fa3eb81
+FileChecksum: MD5: f4d95aa72056d46040c197c5037fc441
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/tablet-left-handed.svg
+SPDXID: SPDXRef-item830720
+FileChecksum: SHA1: e0f036fe6155dc8acfdb07f4e8d048f75be72618
+FileChecksum: MD5: 5ef0e8beadf70300838df6edefb50b7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/tablet-axes.svg
+SPDXID: SPDXRef-item830721
+FileChecksum: SHA1: 71fd2f5a174e22c809a7057a8cc96f633ec43077
+FileChecksum: MD5: 0a1851ea74df019648cb0b6b6d99d0ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/pinch-gestures-softbuttons.svg
+SPDXID: SPDXRef-item830722
+FileChecksum: SHA1: d17e09ceb9a3e01238e7bfe0abb3e77b6aa2ca72
+FileChecksum: MD5: a50f73b9e337ff4aac4b87016fcc3584
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/touchscreen-gestures.svg
+SPDXID: SPDXRef-item830723
+FileChecksum: SHA1: 8c79e584cd38a7b39e1d64f3aef83f2fd7aaba14
+FileChecksum: MD5: 0de7ade46245eeb5e521690a13619747
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/gesture-2fg-ambiguity.svg
+SPDXID: SPDXRef-item830724
+FileChecksum: SHA1: 622a5bd8c7f50dab7d30b613a027ac7c857b14f9
+FileChecksum: MD5: 05d04701c724b80fdcaa12295ce286b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/clickfinger-distance.svg
+SPDXID: SPDXRef-item830725
+FileChecksum: SHA1: dc7682f45c9cf7fda5c24cf3951f525e3b3f55fc
+FileChecksum: MD5: 8eb80167a779f454907b5699b732ac74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/ptraccel-trackpoint.svg
+SPDXID: SPDXRef-item830726
+FileChecksum: SHA1: 8c3b9fdef71233171b9ddb777acaf7ac1f2783aa
+FileChecksum: MD5: 6ed779ffe27fcf3079ded1b3c040243a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/twofinger-scrolling.svg
+SPDXID: SPDXRef-item830727
+FileChecksum: SHA1: b9f861e16bdf4b4aa8502d904d9ce1e909c93ce7
+FileChecksum: MD5: 25ab4a7a5e9e482ecce2790c484f1924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/tablet-interfaces.svg
+SPDXID: SPDXRef-item830728
+FileChecksum: SHA1: 2e8f4e92736a9036ff1d9eededf5dd0029491a07
+FileChecksum: MD5: b5bc8a5a5c4a0861542e061dedf93b19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/doc/svg/button-scrolling.svg
+SPDXID: SPDXRef-item830729
+FileChecksum: SHA1: 90172e05443a06864eef80f8424301fb6628bd12
+FileChecksum: MD5: 85bc56d98c809094d3f549b800d7d3ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-synaptics-hover.c
+SPDXID: SPDXRef-item830731
+FileChecksum: SHA1: 686de847df5955274638df27495cc841f1963fff
+FileChecksum: MD5: 1134e0317170bfc7466c966679d2bb8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-protocol-a-touch-screen.c
+SPDXID: SPDXRef-item830732
+FileChecksum: SHA1: c921ee8ca41b93089441c85173358bccd73b8f55
+FileChecksum: MD5: 7135dfd4bfe368f3ce0005faf5cdb549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-int.h
+SPDXID: SPDXRef-item830733
+FileChecksum: SHA1: 609f7420d24a49642c219f44bfd663cec5bfbc74
+FileChecksum: MD5: 5c4f6418247e8977afcd427782bf1ad8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-trackpoint.c
+SPDXID: SPDXRef-item830734
+FileChecksum: SHA1: 57d7776e3470467ea4b3d2a160f22fef5369adf2
+FileChecksum: MD5: 2a5bc4627d022d480bd70c71d4a71379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-synaptics-i2c.c
+SPDXID: SPDXRef-item830735
+FileChecksum: SHA1: 191ea81414e7926595f87cad153c9249c18f65b5
+FileChecksum: MD5: 24bb782efdad5c521f50b2ddfdc7bc66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-logitech-trackball.c
+SPDXID: SPDXRef-item830736
+FileChecksum: SHA1: 9597cd4e09491a9633255280c7c118b22ec460ff
+FileChecksum: MD5: d0aefd7d0fe14f5c9f694a73d8f69a47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-misc.c
+SPDXID: SPDXRef-item830737
+FileChecksum: SHA1: 18e0f01a4c18aef6535d8c49277c349f8160486c
+FileChecksum: MD5: 552ff6a640e2757a665ddaf18aa80c17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-cintiq-13hdt-pen.c
+SPDXID: SPDXRef-item830738
+FileChecksum: SHA1: d57326202c67c77fa3d9e49a50ce8afdd953e66a
+FileChecksum: MD5: 8b8fc24951d89c103b2b0099c106cb86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-intuos5-finger.c
+SPDXID: SPDXRef-item830739
+FileChecksum: SHA1: 945f0bad075fa7517e1bb29fb4c3140a949e7586
+FileChecksum: MD5: aabc09de85de4446f81d7a219e8e330d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-cintiq-24hdt-pad.c
+SPDXID: SPDXRef-item830740
+FileChecksum: SHA1: 08a1e73434f0e2bb8faf6e77dad4dbc97cd18caa
+FileChecksum: MD5: 66a04bb0c1cd9f7014db24183fabc18f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-acer-hawaii-keyboard.c
+SPDXID: SPDXRef-item830741
+FileChecksum: SHA1: d562e588d9e8789cfc1c793dee6b27e9dc920838
+FileChecksum: MD5: 14cda8e4e198fdeaf2634608c41a2d08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/build-cxx.cc
+SPDXID: SPDXRef-item830742
+FileChecksum: SHA1: 42b5b973e0e904a664190d95bf14c1402b93c367
+FileChecksum: MD5: 09f1c01d0ce439d6ced9d6acfe4a86b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-xen-virtual-pointer.c
+SPDXID: SPDXRef-item830743
+FileChecksum: SHA1: 00ce7abfa568e771e9ca05e0c478a359922f2488
+FileChecksum: MD5: f656c70bc4ed91bf2cc91a8b881fad97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest.c
+SPDXID: SPDXRef-item830744
+FileChecksum: SHA1: d96bfe50ce1acd2e3dec10e5a7b84b60849f5baa
+FileChecksum: MD5: 95e4b68dfc5a83a89e880586fab14cf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-intuos5-pen.c
+SPDXID: SPDXRef-item830745
+FileChecksum: SHA1: 613e30b4fd01672fc2e51bc16e4bec87cd080bda
+FileChecksum: MD5: b3e148656ebcae72c283fd6cc8a2f514
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-magic-trackpad.c
+SPDXID: SPDXRef-item830746
+FileChecksum: SHA1: a5a038a47c4fb9dd8b7fd9651ff0c60d9ccc9982
+FileChecksum: MD5: a1f88566837a85a86349f0bdb9176588
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-isdv4-e6-finger.c
+SPDXID: SPDXRef-item830747
+FileChecksum: SHA1: 194fd37e8e705d8b0dd1e6e473ef137b9bd07b30
+FileChecksum: MD5: ca863d1b1714e924954c6c879748e0ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-huion-pentablet.c
+SPDXID: SPDXRef-item830748
+FileChecksum: SHA1: 8185668ae8318a916a8fadd5b9f727b70115c80c
+FileChecksum: MD5: 511fbb10afa86929bb35392eec6c38f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/symbols-leak-test.in
+SPDXID: SPDXRef-item830749
+FileChecksum: SHA1: b79d9982dd08db4880cf73a8789bf203bbc3319c
+FileChecksum: MD5: 2abccce2dfb1a2ee5d7b772914b19a14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-cintiq-13hdt-finger.c
+SPDXID: SPDXRef-item830750
+FileChecksum: SHA1: 755b9143ffa2da4ddc613ef457de27e162bb08c5
+FileChecksum: MD5: 629d07ccab6740f2dd1c419ae9eec6d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-yubikey.c
+SPDXID: SPDXRef-item830751
+FileChecksum: SHA1: ce408115ef7fe33f2cab1950afe4ca303b47fc99
+FileChecksum: MD5: e3ae56a2b0a7443254ee7b65207f321b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-mouse-wheel-click-count.c
+SPDXID: SPDXRef-item830752
+FileChecksum: SHA1: 494b659ef1f44c196d96ec5a4f36888932634ba2
+FileChecksum: MD5: ee6addc13f7b70babf4e0c1f49cffc3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-acer-hawaii-touchpad.c
+SPDXID: SPDXRef-item830753
+FileChecksum: SHA1: 44fe2a5137edfd3c16849b8354cef0cbc030df92
+FileChecksum: MD5: d9071075069de2f7d7629a765369aacf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-lid-switch-surface3.c
+SPDXID: SPDXRef-item830754
+FileChecksum: SHA1: f2dab8ea3c3e59e78a29ddaaccffee75ade74ddb
+FileChecksum: MD5: 5b64f07885f41755fc73260a4929cc8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wheel-only.c
+SPDXID: SPDXRef-item830755
+FileChecksum: SHA1: 5ae10035d60b4b1f53f523ebf9da12e1c6fd14e6
+FileChecksum: MD5: b8c5bfd3b5f73e9ed051fa5cd431770c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-mouse-roccat.c
+SPDXID: SPDXRef-item830756
+FileChecksum: SHA1: 7c95711eae85df1a5e87a696161cf38bd01336bd
+FileChecksum: MD5: a25867c566355ad0a59b070a3d96c528
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-mouse-wheel-tilt.c
+SPDXID: SPDXRef-item830757
+FileChecksum: SHA1: f0346886b4929f0ecb3c89ce1d0216b0a40539e5
+FileChecksum: MD5: e5c23b9236f9a6eff568338bb70d842e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-udev.c
+SPDXID: SPDXRef-item830758
+FileChecksum: SHA1: 389bdd792763677b3c84fd0467d37c78882e7264
+FileChecksum: MD5: 2132180086b77b6dba9439d5030c09c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-synaptics-t440.c
+SPDXID: SPDXRef-item830759
+FileChecksum: SHA1: f0cc3246dd8e85dd5dbf77feb438b0e8f89624d2
+FileChecksum: MD5: 96fabf0788c7960e52a6b2896ce78c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/Makefile.in
+SPDXID: SPDXRef-item830760
+FileChecksum: SHA1: ac0ecd880fe90e1da3c55639f2edeb732336719e
+FileChecksum: MD5: e3bb868a7caa8974098212792c87f265
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-keyboard-razer-blackwidow.c
+SPDXID: SPDXRef-item830761
+FileChecksum: SHA1: b58f14f67808a93c59b963b70a655a7f52eda831
+FileChecksum: MD5: 2cccaea933e3f47c7cb840b1563bc841
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-keyboard-all-codes.c
+SPDXID: SPDXRef-item830762
+FileChecksum: SHA1: 88d6966a12e8d02db173cdd06b0e6c1ed3a0eca5
+FileChecksum: MD5: 349b85c130695d12d21efaa0ff0ca7b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-cyborg-rat-5.c
+SPDXID: SPDXRef-item830763
+FileChecksum: SHA1: 1bcbeb5b58c9cfbb6aa356370b00266d14688326
+FileChecksum: MD5: b030beaf66bbe8d93bb8900c58c23f24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-apple-magicmouse.c
+SPDXID: SPDXRef-item830764
+FileChecksum: SHA1: 36dcb9bd70bc5ff65dfcf30372d05bcd4bd84325
+FileChecksum: MD5: 26483e392ad8fcb4e8f60aed1df7a069
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-atmel-hover.c
+SPDXID: SPDXRef-item830765
+FileChecksum: SHA1: 5f6120e663ade6d51e53a2149cf541e52e1dfe4b
+FileChecksum: MD5: 408e10d2412703b4a98f9eff16bdcd9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-touchscreen-fuzz.c
+SPDXID: SPDXRef-item830766
+FileChecksum: SHA1: 5c220c3223a3aeb8af655ad268c68c625aaeb47f
+FileChecksum: MD5: 13b1dba4e8442e7a50adae52e9f8a10a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-alps-dualpoint.c
+SPDXID: SPDXRef-item830767
+FileChecksum: SHA1: 1088d1633cf60c5c8f88b4e661d2b7554c222aab
+FileChecksum: MD5: 0749c8a383c2edc5652b922c1078bb50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-touch.c
+SPDXID: SPDXRef-item830768
+FileChecksum: SHA1: 4295a8dbaba895ba3c2d4f2f21f1fb5e09808e90
+FileChecksum: MD5: 80bfcfb540be1edbd3ca6e10f49da091
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-anker-mouse-kbd.c
+SPDXID: SPDXRef-item830769
+FileChecksum: SHA1: 62f74cb3ea27c8c69e9e2e32f18407e6a1d53375
+FileChecksum: MD5: ceff73895cc773865b941465e86ca0b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-cintiq-24hd-pen.c
+SPDXID: SPDXRef-item830770
+FileChecksum: SHA1: 67c2d0137f95616114943ffabac6581bb930337d
+FileChecksum: MD5: ca00d7144fec295e2def2ba883e63588
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/build-pedantic.c
+SPDXID: SPDXRef-item830771
+FileChecksum: SHA1: 6f962d23dbff9d44117ed3585677141c827068ef
+FileChecksum: MD5: c7ae4005dc12868ac6a238e513bf3de4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-trackpoint.c
+SPDXID: SPDXRef-item830772
+FileChecksum: SHA1: 807fc0a9e99e973623aaec0d4821f913d7eb26da
+FileChecksum: MD5: e3fc10a0ac884ca1a1a2adecc0a9411f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-tablet.c
+SPDXID: SPDXRef-item830773
+FileChecksum: SHA1: 48b5b8f5102e5e05130df5f0d9d70a862c0806d3
+FileChecksum: MD5: e27fd1b9616db0478c23b777253de593
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-touchpad-buttons.c
+SPDXID: SPDXRef-item830774
+FileChecksum: SHA1: c163ad3cf0f052673e20b658cb83e594062b201c
+FileChecksum: MD5: 4a815e4a2332c5c331425089aec2c5d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-synaptics-rmi4.c
+SPDXID: SPDXRef-item830775
+FileChecksum: SHA1: b27cbf624dde3c46ff95ee80fc228ea82c33ef01
+FileChecksum: MD5: de323b0aebae7ad2d4704f51870cfebe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-synaptics-st.c
+SPDXID: SPDXRef-item830776
+FileChecksum: SHA1: 90bdeb6640503c538b71ffdf4d5e1cf2f3b5dc41
+FileChecksum: MD5: 152f109b316cc0720aef836b0e5f860e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-touchpad.c
+SPDXID: SPDXRef-item830777
+FileChecksum: SHA1: 393ed656418303ebf2f9eae80a58015158e8a5f6
+FileChecksum: MD5: 7aa18b137dbde9d4e53e3b5e67ff6f28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-mouse-low-dpi.c
+SPDXID: SPDXRef-item830778
+FileChecksum: SHA1: 2f93a51334fc588c58c837724d208d52aa2071a0
+FileChecksum: MD5: 53f442ab412f17176f3d7926bb7a6862
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-gestures.c
+SPDXID: SPDXRef-item830779
+FileChecksum: SHA1: 4d676d48560fda35c1038f31f25285e80337d7f7
+FileChecksum: MD5: 67f1a272ea2702eea4f89180f162ccc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/Makefile.am
+SPDXID: SPDXRef-item830780
+FileChecksum: SHA1: bfc2dacaf8179d8f5df34feab7839d88e457e5dc
+FileChecksum: MD5: 66cfe0d9e807d1d7a1c22efa3bc70a31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-synaptics.c
+SPDXID: SPDXRef-item830781
+FileChecksum: SHA1: 1f0dd754410e0fb96081763a6f7a4dbb6e153aa0
+FileChecksum: MD5: ad1ec8da894c84a810cf77926708235f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-trackball.c
+SPDXID: SPDXRef-item830782
+FileChecksum: SHA1: 7d69bef0b7c71a56282c94bd97afd4edc75ff916
+FileChecksum: MD5: 766919b3c6e9f6bce50189f66c725530
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-keyboard.c
+SPDXID: SPDXRef-item830783
+FileChecksum: SHA1: 278b6541b45e4c0f51968a21918614935bd05e73
+FileChecksum: MD5: 1b3c30df69eda2c874b91b632712c554
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-device.c
+SPDXID: SPDXRef-item830784
+FileChecksum: SHA1: ec019ff53d3518d27b45457092d7215eaa82604f
+FileChecksum: MD5: 958ca9f49060dddfa893a3f97c7a1ffd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-log.c
+SPDXID: SPDXRef-item830785
+FileChecksum: SHA1: 1af552c4e7b92e464e3efe4d2996a5f4ef235294
+FileChecksum: MD5: adb276b3e06160e924455fcd50a02a17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-alps-semi-mt.c
+SPDXID: SPDXRef-item830786
+FileChecksum: SHA1: d42323d4e08e5ea2c2d4a335f2dd234e5699f6a5
+FileChecksum: MD5: f9e54b3d69aca1619d829b5adf521b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-intuos5-pad.c
+SPDXID: SPDXRef-item830787
+FileChecksum: SHA1: dc4b6f62018b018852be4f2f6257bcf001bbc1db
+FileChecksum: MD5: 56387ebed84af26417426ec02642d474
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-lid.c
+SPDXID: SPDXRef-item830788
+FileChecksum: SHA1: 4c0588f633306c9193a753aa12d35874d030e780
+FileChecksum: MD5: 35e845c61538db0238344993ee76ece0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-bamboo-16fg-pen.c
+SPDXID: SPDXRef-item830789
+FileChecksum: SHA1: 9984a35509725b142c012bf31ac4636b3b80be00
+FileChecksum: MD5: b7241e765f02a8f946194365f436aed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-pad.c
+SPDXID: SPDXRef-item830790
+FileChecksum: SHA1: 53b837a9325d32e28e2614a5a69119c8f8a213f2
+FileChecksum: MD5: de8b1728b26979ce3af6b875b7798712
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-cintiq-13hdt-pad.c
+SPDXID: SPDXRef-item830791
+FileChecksum: SHA1: d8bec1a3dd14ce43dc9e207f581cc0160432d12a
+FileChecksum: MD5: a3a4a2804fe1a70b8b8c3ce1086a9cd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-touchpad-tap.c
+SPDXID: SPDXRef-item830792
+FileChecksum: SHA1: 04ae4967d11c2f1b3de850f92fc77813d6d75221
+FileChecksum: MD5: 6dac19c9700e342d575972e538cfb81b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-synaptics-x1-carbon-3rd.c
+SPDXID: SPDXRef-item830793
+FileChecksum: SHA1: 778632de0e19aa165077cb9a9b1fd4b0f6bea476
+FileChecksum: MD5: 0fa60325a4f074e744a854ad7bf9529b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-ms-surface-cover.c
+SPDXID: SPDXRef-item830794
+FileChecksum: SHA1: d168771d7a45b986448f29cdee18fec50e72b4a2
+FileChecksum: MD5: ab041c0214c37f6accd66cba6a216ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-bcm5974.c
+SPDXID: SPDXRef-item830795
+FileChecksum: SHA1: a716be4f922db822fb673a27e0226bd89c4fd618
+FileChecksum: MD5: f2fbee488ef0619728d2cef4b6e31080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-qemu-usb-tablet.c
+SPDXID: SPDXRef-item830796
+FileChecksum: SHA1: 2ca2e47d0995b256b7e93e0be488490ab99a5e04
+FileChecksum: MD5: dcbbedd58b7f14e1de4984b4a38a2315
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/valgrind.suppressions
+SPDXID: SPDXRef-item830797
+FileChecksum: SHA1: fb3f108b07ab3728d328619516cdc20b0c7f8885
+FileChecksum: MD5: bcb8fd149f4e13ed47476e38228fc987
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-mouse.c
+SPDXID: SPDXRef-item830798
+FileChecksum: SHA1: 39f579aa712de09dc557e219d0779f129342f195
+FileChecksum: MD5: 8efe7a0d511a8b6247ec9b379779328e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-lid-switch.c
+SPDXID: SPDXRef-item830799
+FileChecksum: SHA1: 61db25212709ab841a5cb81971b5e7ccacd2e943
+FileChecksum: MD5: f9eb85cebc9775784dfcbf488726e5d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-selftest.c
+SPDXID: SPDXRef-item830800
+FileChecksum: SHA1: 2ea97226b17fd441924f0789b896745f7bfbf4ad
+FileChecksum: MD5: 79d189ee072798f5d0a512c8eb9ec463
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-pointer.c
+SPDXID: SPDXRef-item830801
+FileChecksum: SHA1: 593560c7e1a5df87f1486ef06a1e8829c9fa3d91
+FileChecksum: MD5: 4b85d3ab863175686b5d66139543a892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-vmware-virtual-usb-mouse.c
+SPDXID: SPDXRef-item830802
+FileChecksum: SHA1: e4fe6c6879fe25192e8b4bc4b94028dde071c2ba
+FileChecksum: MD5: d09b98a3df2ab48d3402ff7e53d50d14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-apple-internal-keyboard.c
+SPDXID: SPDXRef-item830803
+FileChecksum: SHA1: 48bfdd0698c1121cdc9a55e3ee4f12956aeb026e
+FileChecksum: MD5: 050bfc03b857b5970fa00fb2c4bf9c6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-ekr.c
+SPDXID: SPDXRef-item830804
+FileChecksum: SHA1: 45e3e0b563bc4a8ce2a41a3e9ea33094187c2eb2
+FileChecksum: MD5: d155183e086430bdc2729c206f699d27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-isdv4-e6-pen.c
+SPDXID: SPDXRef-item830805
+FileChecksum: SHA1: 50a6ebeb1b48c69827673a555a90470b362b7fa5
+FileChecksum: MD5: 9f639efb7918ce7d5ffc741c0cc08913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-touch-screen.c
+SPDXID: SPDXRef-item830806
+FileChecksum: SHA1: 6f56bc65352bda5f79817b04cdeeb1565d0edbec
+FileChecksum: MD5: bd4ea0dbce1ec04e36e991dd8b332ca9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-path.c
+SPDXID: SPDXRef-item830807
+FileChecksum: SHA1: 49bb2d815e9470b3a774e6e8ba55dee1961067f0
+FileChecksum: MD5: bf8957fd659c0a1831cafde190959ebb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-cintiq-12wx-pen.c
+SPDXID: SPDXRef-item830808
+FileChecksum: SHA1: 8569ef24acfb89f3b493e327c4b24042d759ed2e
+FileChecksum: MD5: cb5513df41ae32c1b680982bea9c0f19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-generic-singletouch.c
+SPDXID: SPDXRef-item830809
+FileChecksum: SHA1: 2d3a3381470afce04b41f4656220641abe338079
+FileChecksum: MD5: d957f3b710dd6274d014bed12c360332
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/test-keyboard.c
+SPDXID: SPDXRef-item830810
+FileChecksum: SHA1: 9f96597531dd3dccba3753810944c0a49f5fa49d
+FileChecksum: MD5: a86a3a68b20cb0d3022275ee02220361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-elantech-touchpad.c
+SPDXID: SPDXRef-item830811
+FileChecksum: SHA1: b03042856bf5dc01c6967d27b1c123158accd0f3
+FileChecksum: MD5: 9a3a38282864540e3b12dcf342c99545
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest.h
+SPDXID: SPDXRef-item830812
+FileChecksum: SHA1: 84122dcae1409a8ca91017b3a361d3e8afbd3ced
+FileChecksum: MD5: 0c55d658434fb296568387549983c235
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-waltop-tablet.c
+SPDXID: SPDXRef-item830813
+FileChecksum: SHA1: d1044ae4ee3d3238087b408df6c6f24f98075edd
+FileChecksum: MD5: 6d9841b92c36b4d428c0377f4a258a58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-hid4800-pen.c
+SPDXID: SPDXRef-item830814
+FileChecksum: SHA1: 8b156a1d363511039c5027c82b3827b8da4e9657
+FileChecksum: MD5: efb4da476fb0a8d1da2036bca8434b27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-nexus4-touch-screen.c
+SPDXID: SPDXRef-item830815
+FileChecksum: SHA1: 6675c92765f9e3d6f888101515fcf4f5b532dcfb
+FileChecksum: MD5: 876d5741538887d532671cb7107a2bff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-mouse-wheel-click-angle.c
+SPDXID: SPDXRef-item830816
+FileChecksum: SHA1: 993d5e74f6e190b211436cd4ec30b9f0d02825e5
+FileChecksum: MD5: 626eb327f400ac55cf507791385564d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-asus-rog-gladius.c
+SPDXID: SPDXRef-item830817
+FileChecksum: SHA1: 34af87fa00ddcf10fd6e6c1c256122aac6c4a2c2
+FileChecksum: MD5: 61cda20026f9c1e55d81ca43d3b79324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-apple-appletouch.c
+SPDXID: SPDXRef-item830818
+FileChecksum: SHA1: 5fcc400d89d69bae93bbb1d21bd509296457ff3b
+FileChecksum: MD5: 96cb5fce53717d96fba4e830e35201ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-calibrated-touchscreen.c
+SPDXID: SPDXRef-item830819
+FileChecksum: SHA1: dcbad4bc8b046cfb98a762350094ef67f5a39f33
+FileChecksum: MD5: 2f8b4338b2c6d55ce82800036318cc0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test/litest-device-wacom-intuos3-pad.c
+SPDXID: SPDXRef-item830820
+FileChecksum: SHA1: 319580b9d325d90353cc062c1c5c96cafff9b156
+FileChecksum: MD5: 039e2d5a4a3d7020ee921bdaa3d5f672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/missing
+SPDXID: SPDXRef-item830821
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/.pc/applied-patches
+SPDXID: SPDXRef-item830823
+FileChecksum: SHA1: 3e99ddd3e0729796d5b8006a9c637a6053c253a3
+FileChecksum: MD5: e2656ad896504ad4f29464dd9d2811b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/.pc/.quilt_series
+SPDXID: SPDXRef-item830824
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/.pc/.version
+SPDXID: SPDXRef-item830825
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/.pc/.quilt_patches
+SPDXID: SPDXRef-item830826
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/.pc/0001-tools-Fix-race-in-autotools-install.patch/.timestamp
+SPDXID: SPDXRef-item830828
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/.pc/0001-tools-Fix-race-in-autotools-install.patch/tools/Makefile.am
+SPDXID: SPDXRef-item830830
+FileChecksum: SHA1: 023e93c4469ddbb8258c6efc12edaafbb78f3449
+FileChecksum: MD5: a1c969b1bdd1996a931df33454bceaba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/configure.ac
+SPDXID: SPDXRef-item830831
+FileChecksum: SHA1: ed3c9aa6b5fce5cf2d24732a871e6c468abb7e28
+FileChecksum: MD5: c30b92febc9f75ab83c49da8007292f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-list-devices.1
+SPDXID: SPDXRef-item830833
+FileChecksum: SHA1: 57c50ad7bb72ff9f109cd9a3741b0edd9171003a
+FileChecksum: MD5: ae477ef847a934f4807a52ef7dc07d21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/make-ptraccel-graphs.sh
+SPDXID: SPDXRef-item830834
+FileChecksum: SHA1: cb36c1de0b85eb01a096d0194f95108e497d5f23
+FileChecksum: MD5: 46826df631cf32b66cc3bdc412dc387b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-measure.c
+SPDXID: SPDXRef-item830835
+FileChecksum: SHA1: 510c9304f69d1c25ddcb03e1bff6a0eec114bed3
+FileChecksum: MD5: a6e6e0edda17b28a6e2a11d3741155d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-list-devices.man
+SPDXID: SPDXRef-item830836
+FileChecksum: SHA1: 1d77cebbf2586b1e51268623b14abd5617d87467
+FileChecksum: MD5: 093a86033b990afd928da6b3bb20c0f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput.1
+SPDXID: SPDXRef-item830837
+FileChecksum: SHA1: 720337032ff81198750045ba3b45222cef3d4182
+FileChecksum: MD5: 415d121e1b34e591ead0879c19bdf12d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-debug-events.1
+SPDXID: SPDXRef-item830838
+FileChecksum: SHA1: ea4ccae926dd48380b5bdb58de007d045ab764be
+FileChecksum: MD5: 1356db63d1e50c932f2da58a7a41fd27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput.man
+SPDXID: SPDXRef-item830839
+FileChecksum: SHA1: 5eb928188713bae8c9e76faa5cdf97ecc541b920
+FileChecksum: MD5: e919cd44d0a3e04eba3630891b23a96a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/shared.h
+SPDXID: SPDXRef-item830840
+FileChecksum: SHA1: f213dfb1bd221ab55c578458c86263779da9d4ac
+FileChecksum: MD5: 6a98f10b32b5f8070aca911d00d7d915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/Makefile.in
+SPDXID: SPDXRef-item830841
+FileChecksum: SHA1: 5e5b29728f1eb8560f0a928725d9816e0b954221
+FileChecksum: MD5: bc017f39d257d753e147608328bc1a54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-measure-touchpad-tap.1
+SPDXID: SPDXRef-item830842
+FileChecksum: SHA1: c62e99dc018bdea191518570f5507ec84851196e
+FileChecksum: MD5: 386662e8d475a1bdf0675d1d06d23d33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-debug-events.compat
+SPDXID: SPDXRef-item830843
+FileChecksum: SHA1: a9fde43815a08a86e85b3fe953674b1702bcbe44
+FileChecksum: MD5: f9aabad49ae2e88653a03435aa3190d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/shared.c
+SPDXID: SPDXRef-item830844
+FileChecksum: SHA1: 5cb6e463c9a1fed5bc620579e5098a0a0c82827f
+FileChecksum: MD5: b828101b2d5195e50dcdd3dbe93c5fd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-tool.c
+SPDXID: SPDXRef-item830845
+FileChecksum: SHA1: d740bc705c8d24173aa8b9267f227c90b4b44043
+FileChecksum: MD5: a6c5d1e88a427beb0cec9dd1b137c484
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-measure-touchpad-tap.c
+SPDXID: SPDXRef-item830846
+FileChecksum: SHA1: 27668e0c60e3d67fc4161a0caebe251f219d1373
+FileChecksum: MD5: 0db2aa8f40d120b92b0fd04d53f527aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-debug-gui.man
+SPDXID: SPDXRef-item830847
+FileChecksum: SHA1: 3a1590371bd364e9b7ace51fbeb5bad28c255799
+FileChecksum: MD5: 4248634a239a80cc1fedaa181e0bb187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/Makefile.am
+SPDXID: SPDXRef-item830848
+FileChecksum: SHA1: dc551be73880070ed825d3e3627c5b48dbf75be1
+FileChecksum: MD5: 7db7eb90290d2bc910cfa772ece0d74c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-list-devices.c
+SPDXID: SPDXRef-item830849
+FileChecksum: SHA1: 101e5e413edc1937ecbbd2bfaf0ca1a5f5a05656
+FileChecksum: MD5: ebca36a93a6cd1f49c526ca5ed70df06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-measure.man
+SPDXID: SPDXRef-item830850
+FileChecksum: SHA1: 265b5054d35b37e77dffbd636fb14f89f1220aa1
+FileChecksum: MD5: e83a4f0f37af7cc998e0319f913934f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-debug-gui.c
+SPDXID: SPDXRef-item830851
+FileChecksum: SHA1: 14aac51c016b1c37adf0d72a2a4312624b28ca16
+FileChecksum: MD5: 99f0b123ae0d1cb928b14aa8bcce15b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-measure-touchpad-tap.man
+SPDXID: SPDXRef-item830852
+FileChecksum: SHA1: 068596b2caf56eebba09f4ce1fd57da2bb737e1d
+FileChecksum: MD5: e326594c79ae0529ebe57b6781f743ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/install-compat-scripts.sh
+SPDXID: SPDXRef-item830853
+FileChecksum: SHA1: 7733937962f24069a5db89d3fc1f3cd090e0e9b0
+FileChecksum: MD5: 5ea2a2efff8b582e3ff7f395e74d675a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-debug-events.man
+SPDXID: SPDXRef-item830854
+FileChecksum: SHA1: eb66e74cb5424438bb7eacf6329211a24e713e03
+FileChecksum: MD5: e141a0fa99b673042c215d76486c3b29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-debug-gui.1
+SPDXID: SPDXRef-item830855
+FileChecksum: SHA1: 2bc497146a81ca27c3b03186c902ce9e69371bd6
+FileChecksum: MD5: e18c0d9672d869ddd0ffde23037abd0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-measure.1
+SPDXID: SPDXRef-item830856
+FileChecksum: SHA1: 645449fbe6c724e76dee9e498a5902c08736e1b7
+FileChecksum: MD5: 649d046ddcbcaf859dfd99ab2445f948
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-list-devices.compat
+SPDXID: SPDXRef-item830857
+FileChecksum: SHA1: d495ff7c96537958ab5484562b96ecea5a65744b
+FileChecksum: MD5: 502d87075b2ac2b688acdeff5b0dd75b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/ptraccel-debug.c
+SPDXID: SPDXRef-item830858
+FileChecksum: SHA1: c526a19b3f9206e0c4de7f108fe1fc623ba2b239
+FileChecksum: MD5: 99903a5767c99c287cce323af811cf12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/tools/libinput-debug-events.c
+SPDXID: SPDXRef-item830859
+FileChecksum: SHA1: e5d9712c86dcd968d6a5ccaefd4f9432e5d21cbc
+FileChecksum: MD5: 3961e09f0739dd72faf0b102c5ae5f87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/test-driver
+SPDXID: SPDXRef-item830860
+FileChecksum: SHA1: ebabeb373c5af3b8606b510a2494955e34325d8a
+FileChecksum: MD5: 7ce923f582b49637d13847c49fff9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/patches/series
+SPDXID: SPDXRef-item830862
+FileChecksum: SHA1: b9c3ae05774026f1379c407d1c5a4c2f3298307b
+FileChecksum: MD5: 67173964ecdd718383afc2e8f3aff4f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/config.guess
+SPDXID: SPDXRef-item830864
+FileChecksum: SHA1: c6204f8ddf6852969b956c464199b71d7dfe4b7e
+FileChecksum: MD5: e6658e52c79b2c368296c883d90979b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/include/linux/input.h
+SPDXID: SPDXRef-item830867
+FileChecksum: SHA1: d2eb25e1fb992eeee51fa15e3c6010d130301a66
+FileChecksum: MD5: dba53202b627ab4624ff26d28aee6bb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/README.md
+SPDXID: SPDXRef-item830868
+FileChecksum: SHA1: e9cccfa568d116245617f01e42a5fdd1e1366868
+FileChecksum: MD5: 9265cb90ce4aabe34daeef9722de909b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libinput-1.8.1/depcomp
+SPDXID: SPDXRef-item830869
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-tools-Fix-race-in-autotools-install.patch
+SPDXID: SPDXRef-item830870
+FileChecksum: SHA1: eb033b0b748863a68affeee527938ccf0ca529ba
+FileChecksum: MD5: 171c84c0de616724940bac1bb65b7c53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-MIT-style
+LicenseName: MIT-style
+ExtractedText: <text> According to MIT license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

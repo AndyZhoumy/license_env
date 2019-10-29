@@ -1,0 +1,579 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_ttf-dejavu-2.37-r7-patched.tar.gz_1571457182.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:53:02Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: ttf-dejavu
+PackageVersion: 2.37
+PackageFileName: ttf-dejavu-2.37-r7-patched.tar.gz
+SPDXID: SPDXRef-upload291
+PackageDownloadLocation: http://downloads.sourceforge.net/dejavu/dejavu-fonts-ttf-2.37.tar.bz2
+PackageHomePage: http://dejavu.sourceforge.net/wiki/
+PackageSummary: <text>DejaVu font - TTF Edition</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>ttf-dejavu version 2.37</text>
+PackageChecksum: SHA1: 39529c8e3133cb4b81f03319879d3180e19fb78c
+PackageChecksum: MD5: 208370a806d18474184b1af1717f9ffa
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload291
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/30-dejavu-aliases.conf
+SPDXID: SPDXRef-item831199
+FileChecksum: SHA1: 970b8a3896b9d5e57838ae9f7e4009666bc9a01a
+FileChecksum: MD5: 4a0b29049600d56e8e5d9f4e9d5c1203
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/status.txt
+SPDXID: SPDXRef-item831201
+FileChecksum: SHA1: 84ff56d2142ec538558ea07dc19f41da40b6ebfc
+FileChecksum: MD5: b1867fb0d0f243abbaddc3cfba67e55e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/NEWS
+SPDXID: SPDXRef-item831202
+FileChecksum: SHA1: 0f1ddc9a567456015ab9b8a46b106b2a57d570c3
+FileChecksum: MD5: 2deb55496fcaa82862303733dd8aaa28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/BUGS
+SPDXID: SPDXRef-item831203
+FileChecksum: SHA1: d4f2241670bac24b2bfa669327b0f3f8716446cf
+FileChecksum: MD5: dadec2dfb220f8151e1ae41c8b1647f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSans-BoldOblique.ttf
+SPDXID: SPDXRef-item831205
+FileChecksum: SHA1: b0fb9546c7c63931a94029ce7e4059e3515f4c8c
+FileChecksum: MD5: 09bc15096703aad20ee14416610f54e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSans-ExtraLight.ttf
+SPDXID: SPDXRef-item831206
+FileChecksum: SHA1: f4fbdcf033df7ef625a2fb59a7519f04f67e7e70
+FileChecksum: MD5: 0b056a5508f8de1ff166c887082fd7f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSansCondensed-Bold.ttf
+SPDXID: SPDXRef-item831207
+FileChecksum: SHA1: a1bca4c567feb10454cb7ccdcd48b0f5bc6bd59a
+FileChecksum: MD5: 508c9ecbb3a84428184e769218bf698f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSans-Oblique.ttf
+SPDXID: SPDXRef-item831208
+FileChecksum: SHA1: 56f8bf8ef3972274f51a4df57789ca870a2e3a43
+FileChecksum: MD5: 1b64c975f5f80b2ac9a9adbf42646f78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSans.ttf
+SPDXID: SPDXRef-item831209
+FileChecksum: SHA1: bbf4ffb55ff0245a88e185353c010a4edaca80ea
+FileChecksum: MD5: be189a7e2711cdf2a7f6275c60cbc7e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSansMono-Oblique.ttf
+SPDXID: SPDXRef-item831210
+FileChecksum: SHA1: 798caacbcd2d5e19a9d6d99c32c91321f3b63c1a
+FileChecksum: MD5: ebc68b684a448cc84dd1744d01e14340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSansCondensed-BoldOblique.ttf
+SPDXID: SPDXRef-item831211
+FileChecksum: SHA1: 75b0c85d309f849bc356c40ecd25717563d24139
+FileChecksum: MD5: 668aea36fdc98e6906f98c7040ceca58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSansMono.ttf
+SPDXID: SPDXRef-item831212
+FileChecksum: SHA1: 5774146002f0dea11a08b239f5acd0167397e65e
+FileChecksum: MD5: c2356fc49835b1870dcc5b07799b4920
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSerif-Italic.ttf
+SPDXID: SPDXRef-item831213
+FileChecksum: SHA1: 30e506dc9496fdac0b1e8aa7b97d56862250c86e
+FileChecksum: MD5: 4dc5d873af9eaf51bf73c48337803cf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSansMono-Bold.ttf
+SPDXID: SPDXRef-item831214
+FileChecksum: SHA1: 886b45d72d19c4d6f206acf5e73149f5f0051d81
+FileChecksum: MD5: ee45bcafa9fa4ac621e7ce2de5f931db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSerif.ttf
+SPDXID: SPDXRef-item831215
+FileChecksum: SHA1: 0c866a2c48156e29c8745d859decdf79abbc883a
+FileChecksum: MD5: b3800b3cb154775c97dbca08e6e59cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSerif-Bold.ttf
+SPDXID: SPDXRef-item831216
+FileChecksum: SHA1: 4d7c0436747ad282877ebdc907325f645e99243b
+FileChecksum: MD5: 92d3df83f57092ae37e16edd55d04b07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSansMono-BoldOblique.ttf
+SPDXID: SPDXRef-item831217
+FileChecksum: SHA1: aafeb47d71db3887852a97d883635c14f43816c6
+FileChecksum: MD5: 7bbbfedc5560813c2e0d20966360dfdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSansCondensed-Oblique.ttf
+SPDXID: SPDXRef-item831218
+FileChecksum: SHA1: 71d22749de55c8a540a27bc5564ef3b5bfa1284d
+FileChecksum: MD5: ab89bb4422b366a9a38d9291059eafba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuMathTeXGyre.ttf
+SPDXID: SPDXRef-item831219
+FileChecksum: SHA1: 12c8c32bccb00ffa9115554ec9d90fd4ba490e45
+FileChecksum: MD5: cbb215ab5974102cfbf2ddf6cde75b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSans-Bold.ttf
+SPDXID: SPDXRef-item831220
+FileChecksum: SHA1: b423ebfc46f18b2344a39e094b80ad750a2740fc
+FileChecksum: MD5: 132839e7a052c2bc6771b6818aad85bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSerifCondensed-Bold.ttf
+SPDXID: SPDXRef-item831221
+FileChecksum: SHA1: 87fcec62ae63119187565580aaceda4f3e39d1ae
+FileChecksum: MD5: faac62bd6ea042fc79984c912c7a760c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSerifCondensed.ttf
+SPDXID: SPDXRef-item831222
+FileChecksum: SHA1: b0591e3ca53408370428523e13b650e1308603aa
+FileChecksum: MD5: 8e62bb758c10d798061a433cd10e2de5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSerifCondensed-BoldItalic.ttf
+SPDXID: SPDXRef-item831223
+FileChecksum: SHA1: 43e83b09019327c5c397fd719306d6618a039e77
+FileChecksum: MD5: 6932cafd8a8d7572734da3c6a44fd02e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSansCondensed.ttf
+SPDXID: SPDXRef-item831224
+FileChecksum: SHA1: 85bbdf4aec5c52c309931e00516b96afaf37fb6e
+FileChecksum: MD5: 14739540ae31fc252a5f2fba30fbd346
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSerifCondensed-Italic.ttf
+SPDXID: SPDXRef-item831225
+FileChecksum: SHA1: adb62ae35bc5472592f81e48e882c93d661ca206
+FileChecksum: MD5: 2959a95f598a714ec53accd57731d8b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/ttf/DejaVuSerif-BoldItalic.ttf
+SPDXID: SPDXRef-item831226
+FileChecksum: SHA1: 7b61877534c33e8e707492d3b9e84f9b3a7052ac
+FileChecksum: MD5: 5fb85df80ae427ed3f7d0708695ce361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain-C-
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/AUTHORS
+SPDXID: SPDXRef-item831227
+FileChecksum: SHA1: 91839713b3a1bed6bacf5641c466096280b2ced9
+FileChecksum: MD5: 147b1c34c0fd7f4751eabd68e2f636c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/langcover.txt
+SPDXID: SPDXRef-item831228
+FileChecksum: SHA1: 155841657cde3a5a941e30565f4af2ea33f84638
+FileChecksum: MD5: c223d64155facb40fb50e93aa15f92f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/fontconfig/20-unhint-small-dejavu-sans-mono.conf
+SPDXID: SPDXRef-item831230
+FileChecksum: SHA1: 5532044b46a1087ca745ba2855550b64d41bb7df
+FileChecksum: MD5: 0cbf30e4580c5a8570da071ab12c5e4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/fontconfig/57-dejavu-sans.conf
+SPDXID: SPDXRef-item831231
+FileChecksum: SHA1: fc0e6c15869cb0182424884af7d33bfba1daf73a
+FileChecksum: MD5: 29cfe6c581fe2dbc222525ce00097002
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/fontconfig/57-dejavu-serif.conf
+SPDXID: SPDXRef-item831232
+FileChecksum: SHA1: c1172858a47e6b687876885124c0c5fb2abf9fd0
+FileChecksum: MD5: 1dca2f4ec93842e94f3919f7e0c8f7a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/fontconfig/20-unhint-small-dejavu-sans.conf
+SPDXID: SPDXRef-item831233
+FileChecksum: SHA1: 9f41ab25fb669b3426b9cb23d783da0592e3d9f9
+FileChecksum: MD5: f7df7bba810dd953dd78212900f4dcad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/fontconfig/20-unhint-small-dejavu-serif.conf
+SPDXID: SPDXRef-item831234
+FileChecksum: SHA1: ba81bf124a1c01ac8d6571af3d24101145dd5f2d
+FileChecksum: MD5: e90c678d46f49bb9d6ba469b64e80c0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/fontconfig/57-dejavu-sans-mono.conf
+SPDXID: SPDXRef-item831235
+FileChecksum: SHA1: 31652a97843b565679509d91860f9b6bc6722de1
+FileChecksum: MD5: d3e4d007a9ac6c47243b5994f1d195e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/LICENSE
+SPDXID: SPDXRef-item831236
+FileChecksum: SHA1: 2cba132501cc69b943061ac075153ad475c7e72a
+FileChecksum: MD5: 449b2c30bfe5fa897fe87b8b70b16cfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Bitstream
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/unicover.txt
+SPDXID: SPDXRef-item831237
+FileChecksum: SHA1: 2ed014683beecd01cb810c4d6f73dc8ca6d17ac1
+FileChecksum: MD5: ac1880117a877f83415377c899cb7bf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/dejavu-fonts-ttf-2.37/README.md
+SPDXID: SPDXRef-item831238
+FileChecksum: SHA1: 145996bf169c94afce4e9e4c586faa074f6da46c
+FileChecksum: MD5: 650a6988160133ad520effc0b6fe0710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-Public-domain-C-
+LicenseName: Public-domain(C)
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Bitstream
+LicenseName: Bitstream License Agreement
+ExtractedText: <text> Bitstream License Agreement
+
+Bitstream, Inc. Electronic License Agreement
+
+By using or installing this software product, you (or you on behalf of your employer) are agreeing to be bound by the terms of this Agreement. This Agreement constitutes the complete agreement between you and Bitstream (except for Multi-Workstation Products, where another document supplements this one). 
+Bitstream Inc. Dept. ISR 215 First Street Cambridge, MA 02142 USA 
+
+1. License Grant
+
+Number of Users: 
+In consideration for the license fee paid, Bitstream grants to you only, the Licensee, the non-exclusive, nontransferable right to use and display the Bitstream Product purchased through this service. If you are using this product for your work, this agreement applies to your employer. Bitstream software collections consisting of one or more fonts from the Bitstream Typeface Library may be used on up to five (5) CPUs at your site connected to any number of printers or other image producing devices (regardless of resolutions) at your own site.
+
+Multiple Workstations: 
+If you have paid for and executed the Bitstream Multi-Workstation License Agreement, then you may use the Bitstream Product on the number of CPUs stated in that agreement.
+
+Third Parties: 
+You may send a copy of any Bitstream font along with your documents to a commercial printer or other service bureau to enable the editing or printing of your document, provided that such party has informed you that it owns a valid license to use that particular font software. You may also "embed" PC TrueType format fonts within your documents for the viewing, editing, and printing of those documents.
+
+Portable Documents. 
+You may send along with your documents a Portable Font Resource ("PFR") created by Bitstream's TrueDoc(r), for the purpose of allowing any third party to view, edit, or print the document remotely but with the express understanding that such party may not use such PFR to edit or print any other document unless independently licensed to do so. You may also "embed" Bitstream typefaces within PostScript-Language files, .PDF files, and .EVY files for distribution, viewing, and imaging to other parties.
+
+No Modifications. 
+You may not modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Bitstream Product without Bitstream's prior written consent.
+
+Rights Reservation. 
+Bitstream reserves all rights not specifically granted to Licensee.
+
+2. Copyright
+The Bitstream Product and the accompanying materials are copyrighted and contain proprietary information and trade secrets of Bitstream. Unauthorized copying of the Bitstream product even if modified, merged, or included with other software, or of the written materials, is expressly forbidden. You may be held legally responsible for any infringement of Bitstream's intellectual property rights that is caused or encouraged by your failure to abide by the terms of this Agreement, unless you have a Multi-Workstation License Agreement. You may make one (1) copy of the Bitstream Product solely for backup purposes provided the copyright and trademark notices are reproduced in their entirety on the backup copy.
+
+3. Termination
+This Agreement is effective until terminated. This Agreement will terminate automatically without notice from Bitstream if you fail to comply with any provision contained herein. Upon termination, you must destroy the written materials, the Bitstream Product, and all copies of them, in part and in whole, including modified copies, if any.
+
+4. Product Upgrade
+Bitstream may, from time to time, update the Bitstream Product. Bitstream Product upgrade pricing may apply.
+
+5. Disclaimer and Limited Warranty
+Bitstream warrants the Bitstream Product to be free from defects in materials and workmanship under normal use for a period of ninety (90) days from the date of delivery as shown on your invoice. Bitstream's entire liability and your exclusive remedy as to a defective product shall be, at Bitstream's option, either return of purchase price or replacement of any such product that is returned to Bitstream with a copy of the invoice. Bitstream shall have no responsibility to replace the product or refund the purchase price if failure results from accident, abuse or misapplication, or if any product is lost or damaged due to theft, fire, or negligence. Any replacement product will be warranted for the remainder of the original warranty period or thirty (30) days, whichever is longer. This warranty gives you specific legal rights. You may have other rights, which vary from state to state.
+
+EXCEPT AS EXPRESSLY PROVIDED ABOVE, THE BITSTREAM PRODUCT, IS PROVIDED "AS IS". BITSTREAM DOES NOT MAKE ANY WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+The entire risk as to the quality and performance of the Bitstream Product rests upon you. Bitstream does not warrant that the functions contained in the Bitstream Product will meet your requirements or that the operation of the software will be uninterrupted or error free.
+
+BITSTREAM SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FROM LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, AND THE LIKE) ARISING OUT OF THE USE OF OR INABILITY TO USE THE BITSTREAM PRODUCT EVEN IF BITSTREAM HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+
+6. U.S. Government Restricted Rights
+The software product referred to as the Bitstream Product and its related documentation are provided with RESTRICTED RIGHTS. Use, duplication or disclosure by the Government is subject to restrictions as set forth in FAR 52.227-19(c)(2) (May, 1987) when applicable or the applicable provisions of the DOD FAR supplement 252.227-7013 subdivision (a)(15)(April, 1988) or subdivision (a)(17)(April, 1988). Contractor/manufacturer is Bitstream Inc./215 First Street/Cambridge, MA 02142.
+
+Export (Domestic Versions): 
+Regardless of any disclosure made by LICENSEE to Bitstream of an ultimate destination of the Bitstream Product, LICENSEE shall not reexport or transfer, whether directly or indirectly, the Bitstream Product to anyone outside the United States of America without first obtaining a license from the United States Department of Commerce or any other agency or department of the United States Government, as required.
+
+Should you have any questions concerning this Agreement, or if you desire to contact Bitstream for any reason, please contact in writing.
+
+7. Governing Law
+This agreement is governed by the laws of the United States of America and the Commonwealth of Massachusetts. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+

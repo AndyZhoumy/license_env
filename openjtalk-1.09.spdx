@@ -1,0 +1,2577 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_openjtalk-1.09-r0-patched.tar.gz_1571459186.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:26:26Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: openjtalk
+PackageVersion: 1.09
+PackageFileName: openjtalk-1.09-r0-patched.tar.gz
+SPDXID: SPDXRef-upload399
+PackageDownloadLocation: http://downloads.sourceforge.net/open-jtalk/open_jtalk-1.09.tar.gz
+PackageHomePage: http://open-jtalk.sourceforge.net/
+PackageSummary: <text>Open JTalk is a Japanese text-to-speech system.</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>openjtalk version 1.09</text>
+PackageChecksum: SHA1: 90d5132a747bdc836811d6b7a460b49109c5848f
+PackageChecksum: MD5: 6dc54be1f55630ca5647daddda4197fb
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload399
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd/njd.h
+SPDXID: SPDXRef-item938848
+FileChecksum: SHA1: 9c409243b841ebea0b52a8e8a9f6b0c7ff087920
+FileChecksum: MD5: 7dcef7978ae693b8d2694add998fc65a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd/Makefile.in
+SPDXID: SPDXRef-item938849
+FileChecksum: SHA1: 0b1edcd048ec1b613555d6c88a8145d698bc9493
+FileChecksum: MD5: d3573f8138d38e22da02a5e0bed14940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd/Makefile.mak
+SPDXID: SPDXRef-item938850
+FileChecksum: SHA1: 20b42d3f615de7a9b2eb4aa0c71ce528cf8e8f6d
+FileChecksum: MD5: d4de16c69b2fc849349c224ed82f092a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd/Makefile.am
+SPDXID: SPDXRef-item938851
+FileChecksum: SHA1: 78d011abaf211f02ea92957893ac5d9d6030e8c5
+FileChecksum: MD5: e3cab86a5ea3697293b59cb31fbf25ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd/njd.c
+SPDXID: SPDXRef-item938852
+FileChecksum: SHA1: 1257137d47577482509b91fa09676b38f8aa4b7f
+FileChecksum: MD5: e9124f00595dc37bff3f07aa5912a67f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd/njd_node.c
+SPDXID: SPDXRef-item938853
+FileChecksum: SHA1: 0c94f88641b583dd42ee4b24c83f6f8efc239c81
+FileChecksum: MD5: 6a179d794632a4bd0077d70f825ed27b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/config/compile
+SPDXID: SPDXRef-item938855
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/config/install-sh
+SPDXID: SPDXRef-item938856
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/config/config.sub
+SPDXID: SPDXRef-item938857
+FileChecksum: SHA1: a0870c772b786520326abce13b33db131bfb87da
+FileChecksum: MD5: 9e38dc3cc2b4e471ea192c8984fb0cd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/config/missing
+SPDXID: SPDXRef-item938858
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/config/config.guess
+SPDXID: SPDXRef-item938859
+FileChecksum: SHA1: d764d09fee2e6470de16d1fb7a91ea72eec2f364
+FileChecksum: MD5: fa1ff35df7f13f513bfa5e2c05783a10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/config/depcomp
+SPDXID: SPDXRef-item938860
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/NEWS
+SPDXID: SPDXRef-item938861
+FileChecksum: SHA1: 0d4d89528393450750699ad68bad052cbe362622
+FileChecksum: MD5: 604d9e6718162948e65c991a9229954a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/njd_set_digit_rule_euc_jp.h
+SPDXID: SPDXRef-item938863
+FileChecksum: SHA1: 18e942e6305145c9518541c861554f61ba99e63b
+FileChecksum: MD5: 31bf54f9f1e610f2b62e108547d186cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/njd_set_digit_rule_shift_jis.h
+SPDXID: SPDXRef-item938864
+FileChecksum: SHA1: 8ce6ff2196c646597ee50e10d39cb8baf713ef8d
+FileChecksum: MD5: 2cfe454be71e2977a6d163a6c020d8c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/njd_set_digit.h
+SPDXID: SPDXRef-item938865
+FileChecksum: SHA1: bdc361e270fbc60c0d14990308f14e63abf685dd
+FileChecksum: MD5: 692acbfb78181bdd0e209d97fdfab8ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/Makefile.in
+SPDXID: SPDXRef-item938866
+FileChecksum: SHA1: ea29b4f32b28222aefb7d45e0492c640484b90b9
+FileChecksum: MD5: 69fbd25d7c94daff91870373e48c0c5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/Makefile.mak
+SPDXID: SPDXRef-item938867
+FileChecksum: SHA1: 84d1d154caeb652e6911f3eefc2ce8a6f13be825
+FileChecksum: MD5: ac4239ba157fc53e8d2b2476a184f763
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/Makefile.am
+SPDXID: SPDXRef-item938868
+FileChecksum: SHA1: 52e41a4a77af0cc161de8de4fec9fecc11dc7634
+FileChecksum: MD5: d6463c3ba397c8153714dab210c650ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/njd_set_digit_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item938869
+FileChecksum: SHA1: 0bc9b82368b3b62e69a2b5bff33c974363a24d51
+FileChecksum: MD5: dc063eb2548f156e057350a5497a266e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/njd_set_digit.c
+SPDXID: SPDXRef-item938870
+FileChecksum: SHA1: 868f6bb09e749db87343328ac3b255aa50128874
+FileChecksum: MD5: 1127b7f9ad457dc6a5264fc8d6cc29e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/njd_set_digit_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item938871
+FileChecksum: SHA1: ff7c04fb268cec77a85abdbab86c38bc6c0d2cf5
+FileChecksum: MD5: 3cb9b18412c8334e913157eb5a6a75a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/njd_set_digit_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item938872
+FileChecksum: SHA1: 64b71a691f75fd7a3f205a437853b8cd7cda3694
+FileChecksum: MD5: d652b0fb988b85de9c55a44705242c68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_digit/njd_set_digit_rule_utf_8.h
+SPDXID: SPDXRef-item938873
+FileChecksum: SHA1: b12c32212fdcde7a871f60dd1e578c5472c423ee
+FileChecksum: MD5: 772ed009ae8d35f7c9cc03a5cf9bc1a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon.c
+SPDXID: SPDXRef-item938875
+FileChecksum: SHA1: f96761a872c28ff9af98a5cd6aa613c840a12c61
+FileChecksum: MD5: 828e3f408d0f43c2da34521d9774028e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item938876
+FileChecksum: SHA1: 131294c809fdd07d099b26d209c9fd3f38ff75ad
+FileChecksum: MD5: fb71d6faf8aa6ad8161c1e90bb50ac0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/Makefile.in
+SPDXID: SPDXRef-item938877
+FileChecksum: SHA1: 29e5e05ee029e43b5ba5fc5a5e10f816c657055f
+FileChecksum: MD5: 8ab77ae0bc3df0beafa349cc67a1c0ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon_label.c
+SPDXID: SPDXRef-item938878
+FileChecksum: SHA1: 8e9a25296d2970e7e62bc2a8fb89eec6f629c59e
+FileChecksum: MD5: fb62be6baa2c3c922b04774c38917d48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon.h
+SPDXID: SPDXRef-item938879
+FileChecksum: SHA1: 633597b7fc3d2a8432ca7e1bb569182c491592e8
+FileChecksum: MD5: e0ebcb4c041bc7480bd176bfb2973ee3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/Makefile.mak
+SPDXID: SPDXRef-item938880
+FileChecksum: SHA1: 25424fe5bd10ea2ae99c17c5c5b8d26e43cf8f4d
+FileChecksum: MD5: 788b28fe657e19ba3633521a4cbbbaf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item938881
+FileChecksum: SHA1: f3827c9cf2c3b17a733b1200706966df18b00264
+FileChecksum: MD5: 705cdb3b7e9ff311cd4192b3223a8e05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/Makefile.am
+SPDXID: SPDXRef-item938882
+FileChecksum: SHA1: 0211f39944bd7b25606e9ddad84da2333d27adb4
+FileChecksum: MD5: a2ea46ef33c2df51aa44b82cf5f92525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item938883
+FileChecksum: SHA1: 1930e0d0f11fcfcfffb2f0d6c0c39da9d9b07675
+FileChecksum: MD5: 32cb16de5975c0dfb2a85edd53bd0a72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon_node.c
+SPDXID: SPDXRef-item938884
+FileChecksum: SHA1: e3d34c4178d27c80bd124b4c7f5cf5169aea485a
+FileChecksum: MD5: 64a60e3b550177fb706a5961fee0cdf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon_rule_utf_8.h
+SPDXID: SPDXRef-item938885
+FileChecksum: SHA1: 9e0a623484b3972f12de800687a78a2d076202bc
+FileChecksum: MD5: 2d4e1afe0f7f429a56632279759b2567
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon_rule_shift_jis.h
+SPDXID: SPDXRef-item938886
+FileChecksum: SHA1: a2e21310f3b0d4f179a5af455fbcc8885a6fdbc9
+FileChecksum: MD5: 258272cd8a9dd4712bd3154f9840057e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/jpcommon/jpcommon_rule_euc_jp.h
+SPDXID: SPDXRef-item938887
+FileChecksum: SHA1: 3c778dc9e6daa67231b89d58c29738348e5eb5bf
+FileChecksum: MD5: 15110b177d0f4e2fc2c763d920e33ad7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/njd_set_pronunciation_rule_euc_jp.h
+SPDXID: SPDXRef-item938889
+FileChecksum: SHA1: c9679b355ce3188ce36c521172fb74e21025b6cf
+FileChecksum: MD5: 26669f2d743fbb711c1c73a6b4bd6649
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/njd_set_pronunciation.c
+SPDXID: SPDXRef-item938890
+FileChecksum: SHA1: 2804ab7489b341b6ddb5cca70b9f07f0ebf3c86c
+FileChecksum: MD5: 6088e1788b829510433c4535b55450c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/njd_set_pronunciation_rule_shift_jis.h
+SPDXID: SPDXRef-item938891
+FileChecksum: SHA1: 414aaaf2bc4df1d0890dc6f1d7609896765ef1ef
+FileChecksum: MD5: 21d994c37de4827673e3287102ecfc27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/njd_set_pronunciation.h
+SPDXID: SPDXRef-item938892
+FileChecksum: SHA1: f70676cf8729e9e3008d65c75b77af02807f7de0
+FileChecksum: MD5: 4de3743e2ec4238cb28129f0888f231a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/Makefile.in
+SPDXID: SPDXRef-item938893
+FileChecksum: SHA1: 090219efe135907a52e5a6052f4b8fe3f6e89896
+FileChecksum: MD5: 5f669e3ab1a67ef714ec6260b5785f42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/Makefile.mak
+SPDXID: SPDXRef-item938894
+FileChecksum: SHA1: 383a37c29a045e5a9e4fc78919de14b9707bbf2e
+FileChecksum: MD5: 47f88de746cfceb1292678c0d5f21c74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/Makefile.am
+SPDXID: SPDXRef-item938895
+FileChecksum: SHA1: 939c007d53e1d128af888bcee4f9a41ccb290d79
+FileChecksum: MD5: 8327dfc9e3cb9bfc166b6e6277b789ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/njd_set_pronunciation_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item938896
+FileChecksum: SHA1: ec5a06e63640831c8a31cadb361e19a0ef3532f3
+FileChecksum: MD5: f41c30ad2f659f69cf0119826cf75640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/njd_set_pronunciation_rule_utf_8.h
+SPDXID: SPDXRef-item938897
+FileChecksum: SHA1: fa564a23d91454ee69c35eef4e46d91828fa915c
+FileChecksum: MD5: 45ba4d35359210ab2beed0ce79be0011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/njd_set_pronunciation_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item938898
+FileChecksum: SHA1: 7c25f414cef839741bf1ec80c7fe3d50fcb4dee6
+FileChecksum: MD5: a466b864b01cf17998754c3467bec1e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_pronunciation/njd_set_pronunciation_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item938899
+FileChecksum: SHA1: 6c1dc47a836012a3c4691a6ffad148ce464bf3dc
+FileChecksum: MD5: 754d80e8e6582e0e3ba28ff70e8cbb6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/aclocal.m4
+SPDXID: SPDXRef-item938900
+FileChecksum: SHA1: a0ab5539c82dc3768e79f356ed669520188a4b19
+FileChecksum: MD5: 2513b148a753e91c709867ed24eb1dff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/Makefile.in
+SPDXID: SPDXRef-item938901
+FileChecksum: SHA1: 23bd93f12aa7101d6f275c951e88fb8da2f4c248
+FileChecksum: MD5: d076b26db796640205d57ae5a8888b09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/COPYING
+SPDXID: SPDXRef-item938902
+FileChecksum: SHA1: 1e29a5a95bc822dbd9c7b8588a29120283053137
+FileChecksum: MD5: ec9073c0ca40ff7c388b31cfd6a07a9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/configure
+SPDXID: SPDXRef-item938903
+FileChecksum: SHA1: c16f9f63960c4a84b0e5022e0bbd3175b208b2c6
+FileChecksum: MD5: 72ee47ac136a42843cbd7ac7bb94fdad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/njd_set_accent_phrase_rule_utf_8.h
+SPDXID: SPDXRef-item938905
+FileChecksum: SHA1: 537aa0a901b7a74fda469abf7c33787a7c0e9c25
+FileChecksum: MD5: cdf71c4a17af42957daba510341b7d6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/njd_set_accent_phrase_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item938906
+FileChecksum: SHA1: 85883d9d6d4b3f4e3a772784586796f2b3e5bc33
+FileChecksum: MD5: c308e089f541dff6890262e0c5a5cecd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/njd_set_accent_phrase_rule_shift_jis.h
+SPDXID: SPDXRef-item938907
+FileChecksum: SHA1: 7e14799b712b4264355cc8318f9c90eaeba9219b
+FileChecksum: MD5: e248c07691ef0bc714f1dc618e57e1f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/Makefile.in
+SPDXID: SPDXRef-item938908
+FileChecksum: SHA1: 37ea940997469dcbcaab1c6ed3c0c31d621a8015
+FileChecksum: MD5: 218925d9ab19f97cfa0314ce33082bda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/Makefile.mak
+SPDXID: SPDXRef-item938909
+FileChecksum: SHA1: 159b0e6e1d23d884d3b05856869d162ef616c82a
+FileChecksum: MD5: 0c41dba7dd055e55eca52843d7cbceb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/Makefile.am
+SPDXID: SPDXRef-item938910
+FileChecksum: SHA1: 80a70ccebbf15e7496631b82541b47552e0e5f1d
+FileChecksum: MD5: 044387f0cb631d86e4748b0107d1ea9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/njd_set_accent_phrase.c
+SPDXID: SPDXRef-item938911
+FileChecksum: SHA1: 68a313f8c7decc57d776c86b906909df387cd947
+FileChecksum: MD5: a67be39cc7ea5a2f25044c75fcfc2783
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/njd_set_accent_phrase.h
+SPDXID: SPDXRef-item938912
+FileChecksum: SHA1: 5e9f465609b8f942ad5aa780a57c37b57087a59e
+FileChecksum: MD5: e63345d6ab65b68a841b7c03addbca43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/njd_set_accent_phrase_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item938913
+FileChecksum: SHA1: 8614fc7bf6c159c603dc81f9a0f5d713353a19d9
+FileChecksum: MD5: 450a634dee00bea8986e2b751bfbb485
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/njd_set_accent_phrase_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item938914
+FileChecksum: SHA1: fd84527692fe42e829e631f64dc3f902c2b4f769
+FileChecksum: MD5: cfd2c2d07376d8534fbe9b4f45e66177
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_phrase/njd_set_accent_phrase_rule_euc_jp.h
+SPDXID: SPDXRef-item938915
+FileChecksum: SHA1: 80ea55b07161f86a1cf35ebc5f73433427f7535e
+FileChecksum: MD5: 0e481c43ba36bd0329fe6bbac4519982
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/njd_set_unvoiced_vowel_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item938917
+FileChecksum: SHA1: 62c7177995f6c537654446df296f6f85928bb60e
+FileChecksum: MD5: c153992464533cebbfd769d9d1effe48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/njd_set_unvoiced_vowel_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item938918
+FileChecksum: SHA1: fe757d70bd602ddb5a8496974df5b90a78042b07
+FileChecksum: MD5: 2a54514743792fea3a8da26655a7163e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/Makefile.in
+SPDXID: SPDXRef-item938919
+FileChecksum: SHA1: f28feb6be8213ffec523174e161a21b8497ce47a
+FileChecksum: MD5: 7c4c97594cdeba01ef638846f04f8194
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/njd_set_unvoiced_vowel_rule_utf_8.h
+SPDXID: SPDXRef-item938920
+FileChecksum: SHA1: 7afd524ae533027523e79b34837ff70c1d635d1f
+FileChecksum: MD5: fd2ff658c296933ae47518b19b5f875d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/Makefile.mak
+SPDXID: SPDXRef-item938921
+FileChecksum: SHA1: 17b94a943216bc06041f9146d8f60daea7205dc9
+FileChecksum: MD5: 8f8e0cc8b1e6557df3e24dcc9787cd1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/njd_set_unvoiced_vowel.c
+SPDXID: SPDXRef-item938922
+FileChecksum: SHA1: 66b94015f67922ae436153f797899aed12fbae4e
+FileChecksum: MD5: 514b2ca4e4e84f46353c24e1f94b50c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/Makefile.am
+SPDXID: SPDXRef-item938923
+FileChecksum: SHA1: 17b528908f600874462d2f63609d649de7062bd6
+FileChecksum: MD5: ce7bb4d70d3515d344893d4dd35c22fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/njd_set_unvoiced_vowel_rule_euc_jp.h
+SPDXID: SPDXRef-item938924
+FileChecksum: SHA1: db3ca15ae5f71f6ebfb9b44aee388786d3b05a1e
+FileChecksum: MD5: 69e45e3de47d2ff041aad99c0758fca8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/njd_set_unvoiced_vowel_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item938925
+FileChecksum: SHA1: fd3508963069abac0993a92d77a2c1090a26d22c
+FileChecksum: MD5: f7392b67ff0489532a36e68eb2be6329
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/njd_set_unvoiced_vowel.h
+SPDXID: SPDXRef-item938926
+FileChecksum: SHA1: 622db44baba26557259ce8421b2d7e1068666d2d
+FileChecksum: MD5: f5e8f7f0b207a731578fd5ebaa6a6b22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_unvoiced_vowel/njd_set_unvoiced_vowel_rule_shift_jis.h
+SPDXID: SPDXRef-item938927
+FileChecksum: SHA1: e0b399c54fce20a0b13658a6613ec85497d4558f
+FileChecksum: MD5: 20feef49ce85f14f4a250ae359d58912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/Makefile.mak
+SPDXID: SPDXRef-item938928
+FileChecksum: SHA1: d722652487ea8fb4df92aad6031fa3c86b35ae74
+FileChecksum: MD5: 354536291590ee61a7403c15d467bbd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/Makefile.am
+SPDXID: SPDXRef-item938929
+FileChecksum: SHA1: c96f88fa16fa7122e486aa21bd079e81817397da
+FileChecksum: MD5: 281316333c2e9a12943a58983fae7395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/Makefile.in
+SPDXID: SPDXRef-item938931
+FileChecksum: SHA1: f0ba595f1b84afcfb465ff3e02be3a51a2792b1a
+FileChecksum: MD5: 9c5024ac571d53b27cb760c591cea983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/COPYING
+SPDXID: SPDXRef-item938932
+FileChecksum: SHA1: 9dbad2fa224b7b6434f607a00a98da355678caf4
+FileChecksum: MD5: 081503ca010d1e92005124935018ebaf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/eval.cpp
+SPDXID: SPDXRef-item938934
+FileChecksum: SHA1: 84eeafbcc539f9a02f1d1e536afe6e7d940d842d
+FileChecksum: MD5: 71ea558a0face4504a43b0ac96eff447
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/utils.cpp
+SPDXID: SPDXRef-item938935
+FileChecksum: SHA1: b2558712dc2319013a9187af65eda33e726fb739
+FileChecksum: MD5: a29f89b3b474f4d81cd0f7512c9aa30a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/dictionary.cpp
+SPDXID: SPDXRef-item938936
+FileChecksum: SHA1: 86b4e5925e2d2ef5190929d40a420be665947c37
+FileChecksum: MD5: e1be8e1c42038f4dd7365dbf283e681d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/libmecab.cpp
+SPDXID: SPDXRef-item938937
+FileChecksum: SHA1: 7d79ca4e65604260ebf9d5ac29f9db5d1e72e477
+FileChecksum: MD5: 9aee61ec5922fedd3ae8c9cb9349ef13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/learner_node.h
+SPDXID: SPDXRef-item938938
+FileChecksum: SHA1: ae7a8d30c80e9f4fa31e7bc09ee1cb59c86e671f
+FileChecksum: MD5: 362d4e91a7095deb71bfde7c0434c5c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/dictionary_rewriter.h
+SPDXID: SPDXRef-item938939
+FileChecksum: SHA1: 71f1a6005cd17a748de48eb71a0831737a5106ad
+FileChecksum: MD5: 68979b04765db261b53a9fd58df5655c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/iconv_utils.cpp
+SPDXID: SPDXRef-item938940
+FileChecksum: SHA1: 497c98915eed7865501fbda793d102dce6eecc5e
+FileChecksum: MD5: 13a9aa286814895fede793fd1e49656d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/nbest_generator.h
+SPDXID: SPDXRef-item938941
+FileChecksum: SHA1: 98aaf5115dbc627e09fa480e430dc25fda6ff26b
+FileChecksum: MD5: f753c39c8dee478559f6410531794cbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/stream_wrapper.h
+SPDXID: SPDXRef-item938942
+FileChecksum: SHA1: 4e821f3d760ecbf7b78cec0cafed5939c82c753e
+FileChecksum: MD5: 032a0e3eac40e6404272dc10d807fd1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/viterbi.cpp
+SPDXID: SPDXRef-item938943
+FileChecksum: SHA1: 17350e0b07be94e49fad30f33c27fa7c6f851c28
+FileChecksum: MD5: 4fb84d2d17f60205d24e3d02c2706902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/writer.cpp
+SPDXID: SPDXRef-item938944
+FileChecksum: SHA1: 23240209fcd5086105a05d4eb26d3f6501ae6fdf
+FileChecksum: MD5: f2feebdb2f5f28f8fc8ef4beaa937a1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/ucs.h
+SPDXID: SPDXRef-item938945
+FileChecksum: SHA1: c3db95046787309284d3efa8f2cbad32290f2061
+FileChecksum: MD5: 6406ec914a6a20d0d232daf2e01b1927
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/nbest_generator.cpp
+SPDXID: SPDXRef-item938946
+FileChecksum: SHA1: 14efd8a842b31647b7897d2f985255603ebfb455
+FileChecksum: MD5: 19790101d92ec2e90b70d331984a93e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/Makefile.in
+SPDXID: SPDXRef-item938947
+FileChecksum: SHA1: 13bad4e44092b867b6b196107b646c9e7ee2c710
+FileChecksum: MD5: 56d961d34549a4faf03829dabcf08e32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/dictionary_generator.cpp
+SPDXID: SPDXRef-item938948
+FileChecksum: SHA1: bf47be4cc3d32f6b60927c3373557646d5ae26bf
+FileChecksum: MD5: f5e2b1301f7576f5d0375ca93d043158
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/mecab.cpp
+SPDXID: SPDXRef-item938949
+FileChecksum: SHA1: 145d60e557b8e5bbaaf9b761a446be14b57fc0d7
+FileChecksum: MD5: c8de5b00b3f0f4e386e17ba500b7496b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/mecab.h
+SPDXID: SPDXRef-item938950
+FileChecksum: SHA1: 1bd11c117dcf0b7003b9053e0327d4d93e2c8854
+FileChecksum: MD5: 60573b6fdfbd5f220e67a2389982862e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/tokenizer.cpp
+SPDXID: SPDXRef-item938951
+FileChecksum: SHA1: 5da47d813e411e71ee8d41778577c760b9965016
+FileChecksum: MD5: 6578c2a5a4f7aed166c4c79d40b887b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/writer.h
+SPDXID: SPDXRef-item938952
+FileChecksum: SHA1: 9cd09efae2beec2ebff661e10da0272abe20c8d3
+FileChecksum: MD5: b0c72f746a5c4983dbd33aa985c0adee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/Makefile.mak
+SPDXID: SPDXRef-item938953
+FileChecksum: SHA1: 90b45c6ca1a3438d3cc354123ed7ac5008b384b0
+FileChecksum: MD5: 7c35d392e9f831e6f8ec40cde5277dbd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/ucstable.h
+SPDXID: SPDXRef-item938954
+FileChecksum: SHA1: 8f3947eea9adca178c09dda1462a3a4f114686df
+FileChecksum: MD5: 7e98cf505da9a6f77fdf53ebfd59f740
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/param.h
+SPDXID: SPDXRef-item938955
+FileChecksum: SHA1: 3cba7052336b8379150b3c354f6981593125ae44
+FileChecksum: MD5: 1bb2f69ee193114876fc17a0adb41eb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/darts.h
+SPDXID: SPDXRef-item938956
+FileChecksum: SHA1: 741fd295b4cc17cf1472faaaa5aa6d2ece4a79c8
+FileChecksum: MD5: 45fa19b4bee6b210a1ee32dc1da0a6e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/context_id.h
+SPDXID: SPDXRef-item938957
+FileChecksum: SHA1: 074f25d038f08278865f8444e948192331ec0fa6
+FileChecksum: MD5: 2cd806d6548a5737fb7cabaea9cb62a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/context_id.cpp
+SPDXID: SPDXRef-item938958
+FileChecksum: SHA1: 0156bd026890bb7e752b84783f59d94846986a37
+FileChecksum: MD5: dca61a493a787da389e8fce8a48c4947
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/lbfgs.cpp
+SPDXID: SPDXRef-item938959
+FileChecksum: SHA1: 74b26f3a143136ce0df76b8005de4de4ced7ac05
+FileChecksum: MD5: 0b99f2db8371fca19ab71a8f6918b607
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/Makefile.am
+SPDXID: SPDXRef-item938960
+FileChecksum: SHA1: 67b3b7913042406ec2143c2ad37730a4aa804974
+FileChecksum: MD5: e2305022f8ab1025c8c7cab73fc6ad3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/common.h
+SPDXID: SPDXRef-item938961
+FileChecksum: SHA1: 2a0a403031b576e593a2f1bc5a0b31a0011ae55b
+FileChecksum: MD5: 0d7031c1ce5b34af5057bc486d71386a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/string_buffer.cpp
+SPDXID: SPDXRef-item938962
+FileChecksum: SHA1: e52f0f0003238c2c0ef40c78b9db1d0412ef149c
+FileChecksum: MD5: 871f15f1e12ca31a1c9f3f8d5808e10f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/learner_tagger.cpp
+SPDXID: SPDXRef-item938963
+FileChecksum: SHA1: c6a25153d749baddf12e2f2c4712397924fe7761
+FileChecksum: MD5: 5223c83271c9effce7157977cffc67c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/dictionary.h
+SPDXID: SPDXRef-item938964
+FileChecksum: SHA1: e0c6a460083d740aa3f769eac02c86ee7d4c0412
+FileChecksum: MD5: 283788875cbd060ceeb19a87c810612d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/scoped_ptr.h
+SPDXID: SPDXRef-item938965
+FileChecksum: SHA1: 08a9528da1d89e482160755a3e075a8b10084088
+FileChecksum: MD5: 66ca31fb1c8cc4a91e0ed811c707341a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/lbfgs.h
+SPDXID: SPDXRef-item938966
+FileChecksum: SHA1: 8e9b2dfb9a740e7e3f4e32b32f10b03b70d238d5
+FileChecksum: MD5: e065d8797c3c319cf48e6406efacd821
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/dictionary_rewriter.cpp
+SPDXID: SPDXRef-item938967
+FileChecksum: SHA1: 97b3f156e645aca497af2e407211ecc6adcafbe7
+FileChecksum: MD5: 192b2f5bef005d78be548c93bdc3dbc7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/mmap.h
+SPDXID: SPDXRef-item938968
+FileChecksum: SHA1: ab48a3b1edb3f8e7bfa23bdf7823f6e1c864d47d
+FileChecksum: MD5: 612914ca678eb472d61e3446792814a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/mecab-dict-index.cpp
+SPDXID: SPDXRef-item938969
+FileChecksum: SHA1: e6b7388dd29e814809f6bbfa0e684971016d955c
+FileChecksum: MD5: 41afdd651c69e6c66771844175b7145b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/learner.cpp
+SPDXID: SPDXRef-item938970
+FileChecksum: SHA1: 3029fc9290d29c314c97acfcd81e73148309ad12
+FileChecksum: MD5: 0054f5d3c716fd2c38015ed349e9ed2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/iconv_utils.h
+SPDXID: SPDXRef-item938971
+FileChecksum: SHA1: 14d55801768563cf9ede7d44311bd0da8b8d116f
+FileChecksum: MD5: 2a4ab9cd07373fb5a90096a6f2b1082d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/string_buffer.h
+SPDXID: SPDXRef-item938972
+FileChecksum: SHA1: e450f7a32f3d397873d9c33e07411d0ee4ab2c48
+FileChecksum: MD5: 422fc079940f53eca4f95bc090a57d90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/thread.h
+SPDXID: SPDXRef-item938973
+FileChecksum: SHA1: a82e33088609534cc92902a8b8445d64a70c56cb
+FileChecksum: MD5: d57c665cdaffa05f706b3296c2feae50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/char_property.h
+SPDXID: SPDXRef-item938974
+FileChecksum: SHA1: c5b20e26108017a47d6491c11a9811187dd5236f
+FileChecksum: MD5: c39c379194c9add4afc410e2bca93a34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/learner_tagger.h
+SPDXID: SPDXRef-item938975
+FileChecksum: SHA1: 1f8a361115924af500e5a5115f628d2294156d7c
+FileChecksum: MD5: a40480c64baf816c02290b5a992e6d28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/dictionary_compiler.cpp
+SPDXID: SPDXRef-item938976
+FileChecksum: SHA1: 262462345be042c229ee4145f437173869c01165
+FileChecksum: MD5: 6f393313152d5200a6d1b1f1033fbf33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/winmain.h
+SPDXID: SPDXRef-item938977
+FileChecksum: SHA1: f850c233690a5a367648a638e37cb8e2ed01820c
+FileChecksum: MD5: c3f79c72b5578f6162eb64e1432761b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/viterbi.h
+SPDXID: SPDXRef-item938978
+FileChecksum: SHA1: 20b7ea749ea86c82128e9e41bcb7b5c8df432adf
+FileChecksum: MD5: 2cd0a850ea9fff922c1da6ec0adc5941
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/feature_index.h
+SPDXID: SPDXRef-item938979
+FileChecksum: SHA1: dee513d1344d6f62af20a60b02d27b4b99c2b7c6
+FileChecksum: MD5: d176f21aebec6a0dc52a1295fdc0a016
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/char_property.cpp
+SPDXID: SPDXRef-item938980
+FileChecksum: SHA1: 2df9aa6913c0c6bdea4b792234114e1d4f52bf99
+FileChecksum: MD5: 91c2f0d7f10f0abbe1e9863fa16840f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/freelist.h
+SPDXID: SPDXRef-item938981
+FileChecksum: SHA1: 0b836322ea710e1f004a6d47cdda430ed8bc6779
+FileChecksum: MD5: aff5031b52f8b2de8a76cc9d7f8f9c78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/param.cpp
+SPDXID: SPDXRef-item938982
+FileChecksum: SHA1: a8f91408af186a5623e91125cdb01ad6617d8ab6
+FileChecksum: MD5: e3501c73a09ddf1ad6c082f6079e417a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/utils.h
+SPDXID: SPDXRef-item938983
+FileChecksum: SHA1: 7ca7d6d3283465b1ddcff65a46078c7432509ec2
+FileChecksum: MD5: 200b4805c4319426a300f35e94e72f6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/feature_index.cpp
+SPDXID: SPDXRef-item938984
+FileChecksum: SHA1: d10ba358f2ec01e11544fea8a4224386badda3bf
+FileChecksum: MD5: 977309c57e4e96b0814fff166cf94469
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/connector.cpp
+SPDXID: SPDXRef-item938985
+FileChecksum: SHA1: 97a78312f053765a1d0bd174b734e795931d5dfa
+FileChecksum: MD5: e780bf26c88767f0a75de9bd7baa0e66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/tokenizer.h
+SPDXID: SPDXRef-item938986
+FileChecksum: SHA1: d6062a9933c3c936e6c54b32dc0a895f322fb435
+FileChecksum: MD5: 300ed167284463fe5571eedee58ec9e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/connector.h
+SPDXID: SPDXRef-item938987
+FileChecksum: SHA1: f48191e0caaf6f92117b7144d1954c1cdf159098
+FileChecksum: MD5: a05866724f9d586879266b41071589b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/src/tagger.cpp
+SPDXID: SPDXRef-item938988
+FileChecksum: SHA1: c1a992539264004b682630b9f9e0b0795494f655
+FileChecksum: MD5: 61685701c693aa66b5d8255cc2e62628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/Makefile.mak
+SPDXID: SPDXRef-item938989
+FileChecksum: SHA1: 8f5185c558600c2d8dc4d9c0b0d3869c00507989
+FileChecksum: MD5: 7061bfbc9d05376dd03a1847e847fa80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/config.h.in
+SPDXID: SPDXRef-item938990
+FileChecksum: SHA1: 2c375ec19c713d98d9e61f241604821b9885d450
+FileChecksum: MD5: 87b8c335fee93afa9c15749e7f4f6b4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab/Makefile.am
+SPDXID: SPDXRef-item938991
+FileChecksum: SHA1: 0fc093e67c9c8141b12c66e1017e76f12a1128d3
+FileChecksum: MD5: 1d0adcd426bf5e9720d3accf28df32c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/AUTHORS
+SPDXID: SPDXRef-item938992
+FileChecksum: SHA1: 052b3402741b1ef366b0c8ade19bdcd746786aed
+FileChecksum: MD5: 870cf3d1735a5ad7bfad83b92dc8012e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-BSD
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/bin/Makefile.in
+SPDXID: SPDXRef-item938994
+FileChecksum: SHA1: b5edf54bdcb9ca49f49dd3c10275613d4c705c28
+FileChecksum: MD5: 0d2828b6f8ab2959ae9facf55e7e54c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/bin/open_jtalk.c
+SPDXID: SPDXRef-item938995
+FileChecksum: SHA1: ebb93ec843a48ab4328aa03964437850d9dba8df
+FileChecksum: MD5: dc37d6044173ed83596dadd966885b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/bin/Makefile.mak
+SPDXID: SPDXRef-item938996
+FileChecksum: SHA1: 4a826f69dfef3186abe05e6d069a1ad370676299
+FileChecksum: MD5: 2a182d63fd3c1f503ea5a32fdbe169d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/bin/Makefile.am
+SPDXID: SPDXRef-item938997
+FileChecksum: SHA1: 7f942a1d5629d07a334fb05e595df79f7426c255
+FileChecksum: MD5: d351c98ebbb8c3ffc54b05461ff3cb12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/njd_set_long_vowel_rule_euc_jp.h
+SPDXID: SPDXRef-item938999
+FileChecksum: SHA1: 43cb38e4fa60e0e18811c013db6c34a4efd7d7a8
+FileChecksum: MD5: 9865d1ea9a765456af0127e57f8e3c72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/Makefile.in
+SPDXID: SPDXRef-item939000
+FileChecksum: SHA1: 1434cac5987f20b9eb4e336b27bbefd72a68f130
+FileChecksum: MD5: d019bd2ff43cc189936a10bb96193137
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/Makefile.mak
+SPDXID: SPDXRef-item939001
+FileChecksum: SHA1: 2fe53b4c415321cb4b7d6454f70837f82b037334
+FileChecksum: MD5: 6923fbf1fbc3364efca36b686dc946bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/Makefile.am
+SPDXID: SPDXRef-item939002
+FileChecksum: SHA1: a06a00ef0835eb312cad95c33fb47cc24535434f
+FileChecksum: MD5: a783def8742890a3a4c46c0830af0949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/njd_set_long_vowel.h
+SPDXID: SPDXRef-item939003
+FileChecksum: SHA1: 16f72000207293c1d1fc00749e89c9b7004a42fa
+FileChecksum: MD5: 4e05dd6e70201aee1b57b026533d4aca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/njd_set_long_vowel_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item939004
+FileChecksum: SHA1: 7fa3e51acba9b3ca5f0e53b37aa8b730006a2a7a
+FileChecksum: MD5: 29ede82fa01a1d0854f7fb796bac582a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/njd_set_long_vowel_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item939005
+FileChecksum: SHA1: b5d974b8569c36d0ab9d66eee8ae33d7230de279
+FileChecksum: MD5: 0fbe8ee740501e7c8d64934cf3f448d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/njd_set_long_vowel_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item939006
+FileChecksum: SHA1: 7489397e794583b0bd3339fbedadcee1afd0dfdc
+FileChecksum: MD5: 833ae3636053de58a237bde4bf606880
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/njd_set_long_vowel.c
+SPDXID: SPDXRef-item939007
+FileChecksum: SHA1: c3b4f6b98938f15b9db40d3ac11c556f395bc5e2
+FileChecksum: MD5: b802579d34fadaedb2b4820af277f50c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/njd_set_long_vowel_rule_shift_jis.h
+SPDXID: SPDXRef-item939008
+FileChecksum: SHA1: ddea3c00ce6a3511188db88aea848378d0aa8591
+FileChecksum: MD5: 69cc29f24b1a87df2dbe84f87cbcb2f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_long_vowel/njd_set_long_vowel_rule_utf_8.h
+SPDXID: SPDXRef-item939009
+FileChecksum: SHA1: 50ae03f25d48c3f19e959feeba6e6cf69b69b29e
+FileChecksum: MD5: d23030062b38f70dc5d59859fff67b9a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/text2mecab_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item939011
+FileChecksum: SHA1: ee22a7943ce4574dff06ca55c9653c7a9434e76c
+FileChecksum: MD5: 53b3d44af0dbfea0815326588b0448bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/text2mecab_rule_shift_jis.h
+SPDXID: SPDXRef-item939012
+FileChecksum: SHA1: 9c4837a6ef391536a51fe2dd9950f63845e4e39e
+FileChecksum: MD5: 5b07641433fb31b5345e914e32aa5275
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/Makefile.in
+SPDXID: SPDXRef-item939013
+FileChecksum: SHA1: 7c2b0af659af930204aba973cd566cf711b7f948
+FileChecksum: MD5: af991fa4bd68011811eaedd1f1395067
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/text2mecab_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item939014
+FileChecksum: SHA1: de162f3e79331430f2627123dad67c712e6a9906
+FileChecksum: MD5: c34fc954406de0ce44271d124acfacbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/Makefile.mak
+SPDXID: SPDXRef-item939015
+FileChecksum: SHA1: dc0d38c00f9f42504c18f466489bb484774ed55a
+FileChecksum: MD5: 8c3e6312d39c23ac5118507d21ad29fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/text2mecab.h
+SPDXID: SPDXRef-item939016
+FileChecksum: SHA1: 059bbdfc32ed0d69db5f46776a2f848b6a43a7ec
+FileChecksum: MD5: 4a4235e1c6b9bc0d9ea2b72a38c84b67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/text2mecab_rule_utf_8.h
+SPDXID: SPDXRef-item939017
+FileChecksum: SHA1: 91f6cdee2c124fb3f2e70e83e17302e11186b012
+FileChecksum: MD5: 585c48385b8563c4a6642f717fd6f3bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/Makefile.am
+SPDXID: SPDXRef-item939018
+FileChecksum: SHA1: 6fdd340b9b8ffd0dcdba849cf2622b93e3f245ce
+FileChecksum: MD5: fc39fdf54335d75206c71452b1c2f856
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/text2mecab_rule_euc_jp.h
+SPDXID: SPDXRef-item939019
+FileChecksum: SHA1: 2d77fb99904fae1538c8471401a68fc2d9667ee7
+FileChecksum: MD5: 5eed65f39128bf0bf5cec57b141396a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/text2mecab.c
+SPDXID: SPDXRef-item939020
+FileChecksum: SHA1: 6ec863466ddf43e8473190b3a16b6190558bc590
+FileChecksum: MD5: 0bd1dd5c27e38f45ee17cfd47d2307a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/text2mecab/text2mecab_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item939021
+FileChecksum: SHA1: b2bb3588e4bf8baffbc76392fa1d84319ade43f4
+FileChecksum: MD5: a1d13b364d42fd1dd14bb7cd6a613029
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/README
+SPDXID: SPDXRef-item939022
+FileChecksum: SHA1: 84831c9b0587bd9e2d04c5ed643f61bfc47607eb
+FileChecksum: MD5: 8176efcf0d331c3b430c6e56e1620b83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/Makefile.in
+SPDXID: SPDXRef-item939024
+FileChecksum: SHA1: 6e6a62d3f35ef04a44292572cbd15515e720af5f
+FileChecksum: MD5: 5a778bced9097d694d75c18be01cded7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/Makefile.mak
+SPDXID: SPDXRef-item939025
+FileChecksum: SHA1: 9242e53b875849b758ff43a9896d927cc6ca1d2f
+FileChecksum: MD5: 596a0ff889750865f9f058779cce4b40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/njd2jpcommon_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item939026
+FileChecksum: SHA1: 7a5f2a8ffb53c01ffed6a082711980758b14bfc8
+FileChecksum: MD5: fa763c026757ce18ec4c2b55a9092252
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/Makefile.am
+SPDXID: SPDXRef-item939027
+FileChecksum: SHA1: 9ab0190d56edadc9755ce026d23a81ea7456e4d8
+FileChecksum: MD5: 0c1c9835b5802ab0e70be455352c908a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/njd2jpcommon_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item939028
+FileChecksum: SHA1: 16607d0c3dc9db8d5258345a3496067a39d8401f
+FileChecksum: MD5: bb16c4e712e039c10c759fdacf788160
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/njd2jpcommon_rule_utf_8.h
+SPDXID: SPDXRef-item939029
+FileChecksum: SHA1: 49736cfd7f05b53b461eda1f4b54b9fe64efadb2
+FileChecksum: MD5: a8554883d236e26fd86c4683dcba4d4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/njd2jpcommon_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item939030
+FileChecksum: SHA1: 2c23132936884f8a0bfe51c69303b84eaee4ba1f
+FileChecksum: MD5: ce8fadac578d5a1f396682334429701c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/njd2jpcommon_rule_euc_jp.h
+SPDXID: SPDXRef-item939031
+FileChecksum: SHA1: 57013fb4522e98d2a0f7f0396eb3bc2214aba251
+FileChecksum: MD5: a40bd976bf384275bf78183a1d6818da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/njd2jpcommon.h
+SPDXID: SPDXRef-item939032
+FileChecksum: SHA1: 08901fdd9e7133b38993056ab6daf7c244cd20c5
+FileChecksum: MD5: ac050fd4ea39baff0b1ba81cf81f5be4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/njd2jpcommon.c
+SPDXID: SPDXRef-item939033
+FileChecksum: SHA1: 3e24365281884feffe6977d4f9c5a1b5f68a872c
+FileChecksum: MD5: 1c1e18f682d0550c871213dbb7de2894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd2jpcommon/njd2jpcommon_rule_shift_jis.h
+SPDXID: SPDXRef-item939034
+FileChecksum: SHA1: b1f77a2d1758d27b6954d62ffc137352f6590168
+FileChecksum: MD5: eef34385f1522c46a191fadda3c93c0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab2njd/mecab2njd.c
+SPDXID: SPDXRef-item939036
+FileChecksum: SHA1: 4549a81dac2e18c583c0944de16e3a87845557bb
+FileChecksum: MD5: 0b56935978dd07313b9c4b51c01dea55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab2njd/Makefile.in
+SPDXID: SPDXRef-item939037
+FileChecksum: SHA1: 71785c6a47d8694161ea944833e5d38f854ff703
+FileChecksum: MD5: 39424eb2b95dec684b0bda5ab987ade4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab2njd/Makefile.mak
+SPDXID: SPDXRef-item939038
+FileChecksum: SHA1: 29b055b7645c77e7728db301c3445d09d7199f65
+FileChecksum: MD5: 6f89e5c15d2f0e1b06ac86db080e8bca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab2njd/Makefile.am
+SPDXID: SPDXRef-item939039
+FileChecksum: SHA1: 601b33a8d712133e38ab68f8e4436cb90feb1fe0
+FileChecksum: MD5: ff69c87d7edcc857191c9145ebaa69d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab2njd/mecab2njd.h
+SPDXID: SPDXRef-item939040
+FileChecksum: SHA1: 1560a44ad845e55512fc970d751baeea5568783f
+FileChecksum: MD5: 5ed2089a7c1a21dfb84f19092ddc18c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/.pc/applied-patches
+SPDXID: SPDXRef-item939042
+FileChecksum: SHA1: 03acabceb6c957515fccb1805843cc8b75a788ed
+FileChecksum: MD5: cd745a75435b21bebed4b0fdb8fccfe9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/.pc/.quilt_series
+SPDXID: SPDXRef-item939043
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/.pc/.version
+SPDXID: SPDXRef-item939044
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/.pc/.quilt_patches
+SPDXID: SPDXRef-item939045
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/.pc/fix-mecab-tool.patch/.timestamp
+SPDXID: SPDXRef-item939047
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/.pc/fix-mecab-tool.patch/mecab-naist-jdic/Makefile.in
+SPDXID: SPDXRef-item939049
+FileChecksum: SHA1: 8373e4e77da8d8bfedde97eba5c047b28eeaddd3
+FileChecksum: MD5: 5bfd45c5dd80883f4daa23d00280c4a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/.pc/fix-mecab-tool.patch/mecab-naist-jdic/Makefile.am
+SPDXID: SPDXRef-item939050
+FileChecksum: SHA1: dd83709876e1f41273098d3ead79545edaf18cfa
+FileChecksum: MD5: 499ecc6724c96e7d130e232c78254d74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/njd_set_accent_type_rule_utf_8.h
+SPDXID: SPDXRef-item939052
+FileChecksum: SHA1: 8a18be546039831f8a80d4f8da727c127eb076b3
+FileChecksum: MD5: 595972b2824b73dc09948eb04526cc01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/njd_set_accent_type.h
+SPDXID: SPDXRef-item939053
+FileChecksum: SHA1: e9d60283327f58d415f9997508c1d99135d38311
+FileChecksum: MD5: 5b24a2e63b5ad789709b80b702a81a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/njd_set_accent_type_rule_euc_jp.h
+SPDXID: SPDXRef-item939054
+FileChecksum: SHA1: cfc477f1397c035819225664e56184b4c42a9850
+FileChecksum: MD5: 379d45b26f827fed06d2ee40ae0d3413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/Makefile.in
+SPDXID: SPDXRef-item939055
+FileChecksum: SHA1: e19b013259a534c7f5f722ff9f92813516164f23
+FileChecksum: MD5: 110b239c25472b590f5b4e3c74a4249e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/Makefile.mak
+SPDXID: SPDXRef-item939056
+FileChecksum: SHA1: 56fc9f5975305877d67092896966a9aec8a1df33
+FileChecksum: MD5: fb282876f192ad08c2967448d953d639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/njd_set_accent_type_rule_ascii_for_utf_8.h
+SPDXID: SPDXRef-item939057
+FileChecksum: SHA1: 513dc0451a46c6d1c490da50ebc47e438dfa4dd6
+FileChecksum: MD5: 143db367688a2b023e2cf9714d8d1884
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/Makefile.am
+SPDXID: SPDXRef-item939058
+FileChecksum: SHA1: 44ce47f4c22906b9e260814b207e5c796c828e57
+FileChecksum: MD5: 1f87f68b46b239cbf2e46033fddf2f43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/njd_set_accent_type_rule_ascii_for_shift_jis.h
+SPDXID: SPDXRef-item939059
+FileChecksum: SHA1: dd1d2ddae3d3844ef0af9a04dd223336b05d6f1d
+FileChecksum: MD5: c119d00d698a07e31928121cb96988ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/njd_set_accent_type_rule_shift_jis.h
+SPDXID: SPDXRef-item939060
+FileChecksum: SHA1: faacc073e0c74c1d3ac16f3822b1123ac293fd3a
+FileChecksum: MD5: c3f0c32f854ab9b382257e9dd25a0c89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/njd_set_accent_type.c
+SPDXID: SPDXRef-item939061
+FileChecksum: SHA1: a426ce633d2ff07acad257c1f2ecfcc6048381c2
+FileChecksum: MD5: 8a6770cf4c8b346419b97f8ee413289e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/njd_set_accent_type/njd_set_accent_type_rule_ascii_for_euc_jp.h
+SPDXID: SPDXRef-item939062
+FileChecksum: SHA1: f8cca1dcfa95c98f6daa8b4bda7454c1d93d5808
+FileChecksum: MD5: 535dcf8b4a8ac6d49959dc20b4d6198e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/configure.ac
+SPDXID: SPDXRef-item939063
+FileChecksum: SHA1: f29c94b1a2f79e3d1944d30cff40bdda0f1170b8
+FileChecksum: MD5: 8c8ac792d85db340173d53a43e243dd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/naist-jdic.csv
+SPDXID: SPDXRef-item939065
+FileChecksum: SHA1: b11d3e2b07fd2203ca7174510ef5e5122857561d
+FileChecksum: MD5: ed587a5828f813416aef33e2242cf0c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/Makefile.in
+SPDXID: SPDXRef-item939066
+FileChecksum: SHA1: 6578fd7fe88bc4cfa1f104046a0d113e3e962b96
+FileChecksum: MD5: faefb14124b2a6c2f45fe62b453bcdfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/COPYING
+SPDXID: SPDXRef-item939067
+FileChecksum: SHA1: 57eef73510dd05236412fb26a756de12b18817b8
+FileChecksum: MD5: cddc3ec7e4a9dc1129c948b3979df902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/right-id.def
+SPDXID: SPDXRef-item939068
+FileChecksum: SHA1: 657788182bd43f43026930b455406eca9aab608f
+FileChecksum: MD5: 7ba33a78cb5cf40e72ffafe41e901896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/unk.def
+SPDXID: SPDXRef-item939069
+FileChecksum: SHA1: 068cd19927945b342cde45e4b47e716970875a47
+FileChecksum: MD5: 3b50456ad140e38921d08f70e76b1dfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/pos-id.def
+SPDXID: SPDXRef-item939070
+FileChecksum: SHA1: 99fac7850b938e8f2365bdb46736a0fb47c7162f
+FileChecksum: MD5: ffb49cd850d1f88f5a32c58e65e27c09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/matrix.def
+SPDXID: SPDXRef-item939071
+FileChecksum: SHA1: 76603ab58b224f130ce029f2c6bdb1e0bfc1e22a
+FileChecksum: MD5: db55ae6acee2e2eb2efb87ec2c819349
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/Makefile.mak
+SPDXID: SPDXRef-item939072
+FileChecksum: SHA1: 5ed14ef745b7cde6115ae60ae73283d034b60c51
+FileChecksum: MD5: cc6a78e4264c1c0ec00722e3673a285d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/feature.def
+SPDXID: SPDXRef-item939073
+FileChecksum: SHA1: 1b12719fd94888d42a97a7b8c9b6e3628fbf3bac
+FileChecksum: MD5: b18f58cae268181efba0efe3400f408c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/rewrite.def
+SPDXID: SPDXRef-item939074
+FileChecksum: SHA1: 38cbe66f6a4849a639b292c868f0e37df11374ff
+FileChecksum: MD5: 430efa74dfa561e09b6992a01c0900b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/Makefile.am
+SPDXID: SPDXRef-item939075
+FileChecksum: SHA1: b699a97234d02436452f4107ebe296daa792fa3f
+FileChecksum: MD5: 879258c369a83087ea40bcf0c19629b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/char.def
+SPDXID: SPDXRef-item939076
+FileChecksum: SHA1: a6de6e512bc60fac7e3d2ad028bdbc3aa2ec43d0
+FileChecksum: MD5: d72ffec6a68f6daba74d7d5df140e807
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/mecab-naist-jdic/left-id.def
+SPDXID: SPDXRef-item939077
+FileChecksum: SHA1: 657788182bd43f43026930b455406eca9aab608f
+FileChecksum: MD5: 7ba33a78cb5cf40e72ffafe41e901896
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/INSTALL
+SPDXID: SPDXRef-item939078
+FileChecksum: SHA1: daea3f1722417330fee3241a23a1d7c4c7daea69
+FileChecksum: MD5: e7fefe97d244859553255a4cd78da512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/patches/series
+SPDXID: SPDXRef-item939080
+FileChecksum: SHA1: f6d8f956b31c284f81faf7a252b4877c3ccce881
+FileChecksum: MD5: e902728c2825d7d5ccea467834ff8c87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/open_jtalk-1.09/ChangeLog
+SPDXID: SPDXRef-item939082
+FileChecksum: SHA1: 860d415949103df2a11dbf5aa0c0f747581f1480
+FileChecksum: MD5: 91909ee67d29a959bd43d184b93fbf72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/fix-mecab-tool.patch
+SPDXID: SPDXRef-item939083
+FileChecksum: SHA1: d7901b4aeae30144eb9cb67293d3f95fbe95ac5f
+FileChecksum: MD5: 14951326a872873010ff1298db1a6611
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-BSD
+LicenseName: BSD
+ExtractedText: <text> BSD is referenced without a version number. Please look up BSD in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

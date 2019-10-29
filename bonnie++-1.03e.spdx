@@ -1,0 +1,705 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_bonnie++-1.03e-r0-patched.tar.gz_1571458990.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:23:11Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: bonnie++
+PackageVersion: 1.03e
+PackageFileName: bonnie++-1.03e-r0-patched.tar.gz
+SPDXID: SPDXRef-upload394
+PackageDownloadLocation: http://www.coker.com.au/bonnie++/bonnie++-1.03e.tgz
+PackageHomePage: http://www.coker.com.au/bonnie++/
+PackageSummary: <text>Tests large file IO and creation/deletion of small files</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>bonnie++ version 1.03e</text>
+PackageChecksum: SHA1: d4f630d4dd7b55787a9cde237c994be347d74e25
+PackageChecksum: MD5: ffcda21b0ba1d2c4e5a617431cab64ee
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload394
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/Makefile
+SPDXID: SPDXRef-item937267
+FileChecksum: SHA1: 316f4e044152fef217ae693b713e425c98fa943b
+FileChecksum: MD5: 65f0e4fffbc395fe7927104e196d027d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/zcav.cpp
+SPDXID: SPDXRef-item937269
+FileChecksum: SHA1: 611248aad7efb3765b20c154c52c258dfccd16ac
+FileChecksum: MD5: 34ff62abe276e2014c1f6b37f634a1d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/port.h
+SPDXID: SPDXRef-item937270
+FileChecksum: SHA1: 7f658f02c554bd30bbab457c8c63cf4da6b5760b
+FileChecksum: MD5: 207d0e2864877be39080d29fa6017717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/readme.html
+SPDXID: SPDXRef-item937271
+FileChecksum: SHA1: d7e81e767312f4ca04b121a9fa1906ec022da99f
+FileChecksum: MD5: a07b3db1b568801817ab8055e6a4413b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/Makefile.in
+SPDXID: SPDXRef-item937272
+FileChecksum: SHA1: 157073ef0c323a3471a8aad9bd378730acd75f6e
+FileChecksum: MD5: e313bd717dd5e4b8c36b2ced520c5c27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/configure
+SPDXID: SPDXRef-item937273
+FileChecksum: SHA1: 18a256051264aa3f3b75e2fce60990a503c119bb
+FileChecksum: MD5: a892684f9dab1162a8b7e0704269018c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/zcav.8
+SPDXID: SPDXRef-item937274
+FileChecksum: SHA1: 979f4c80516a52d5570f5949ab07befccfef32be
+FileChecksum: MD5: fd37011e1360bc1be76e60d26043f263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/conf.h
+SPDXID: SPDXRef-item937275
+FileChecksum: SHA1: 15adbf4017034906ef25fbde17b8bf77f01be245
+FileChecksum: MD5: 784b86d1aefadf015a3f2f54fb319414
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_csv2txt.in
+SPDXID: SPDXRef-item937276
+FileChecksum: SHA1: 8beb74e5f35a2bdb2728ca6754034dbcb650268e
+FileChecksum: MD5: 8763f323a0fa8b506f96d66c220bf20d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bonnie.8
+SPDXID: SPDXRef-item937277
+FileChecksum: SHA1: df7d621a298c28ed259a060a4d76edca9e9085b4
+FileChecksum: MD5: f0ff6ae0d587db550159ce61a383e35b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/credits.txt
+SPDXID: SPDXRef-item937278
+FileChecksum: SHA1: 1a209c4b8827046ff2afba0d93e6c9cf3cd23015
+FileChecksum: MD5: db61a6e7155cbdb6d197dfa6c2729ccc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/sh.common
+SPDXID: SPDXRef-item937279
+FileChecksum: SHA1: d0e23f967f79e0732a69ca405be2721630e06d9b
+FileChecksum: MD5: 8cd5fdced71d2acb487ca27ad32464b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/sun/Makefile
+SPDXID: SPDXRef-item937281
+FileChecksum: SHA1: c37fbd41f154087f599f6e2a007111e387e1872b
+FileChecksum: MD5: d7061255fc3002d5ae2fb7fff47250ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/sun/pkginfo.in
+SPDXID: SPDXRef-item937282
+FileChecksum: SHA1: 8abdfc4873ae60c8442d5c43d8dc9f4ab096da5c
+FileChecksum: MD5: 6d273cefe6be17229086f2439186360a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/sun/pkginfo
+SPDXID: SPDXRef-item937283
+FileChecksum: SHA1: dc29de445ec10c5082575f373dd4619332cce2c8
+FileChecksum: MD5: d70b662b7728513f973fa5d3c4742da3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/sun/prototype
+SPDXID: SPDXRef-item937284
+FileChecksum: SHA1: 2945c5f00877141183252be2b8fb14ccc829f0e4
+FileChecksum: MD5: b36041d4c5e9030c92174d24c34887a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/semaphore.h
+SPDXID: SPDXRef-item937285
+FileChecksum: SHA1: 26e38fb61a8c7f88b6d53b38df010b966687196d
+FileChecksum: MD5: 07e987d195d02e9d6b25d0f6150e90e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/conf.h.in
+SPDXID: SPDXRef-item937286
+FileChecksum: SHA1: 1faef4cd2025f435af57f549f7f1a7d668f6ab7c
+FileChecksum: MD5: 935bfb7405140380087ddf912de62454
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/forkit.h
+SPDXID: SPDXRef-item937287
+FileChecksum: SHA1: 553bc65f362b19f3c535212e99cbae9b55e61a92
+FileChecksum: MD5: f7e2d94e0ffd64fe5872a6d2fce4c89e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_csv2html.in
+SPDXID: SPDXRef-item937288
+FileChecksum: SHA1: 247a0619ad8c6858cfa27d9bab44c4addd391dca
+FileChecksum: MD5: 1403e2780eec42ad1e88d5524a69d8b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_file.h
+SPDXID: SPDXRef-item937289
+FileChecksum: SHA1: 19fb5b805c598dc0114bcf8a9c117f33927c84e5
+FileChecksum: MD5: 1eec272591a0756660895dc35a343ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_csv2html
+SPDXID: SPDXRef-item937290
+FileChecksum: SHA1: 781864a3d443ea8ec55dff4d60b92351acb2c651
+FileChecksum: MD5: dc780d2c4f1579f4674a28b35ea264af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bonnie++.spec.in
+SPDXID: SPDXRef-item937291
+FileChecksum: SHA1: 74658139080fa0653559730a71afae34336f584a
+FileChecksum: MD5: d9bf53b252592ba6b8eb8ad176c66ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/copyright.txt
+SPDXID: SPDXRef-item937292
+FileChecksum: SHA1: 847f1d84c43f64bd49a0814ba7f453cd6f4d7c4f
+FileChecksum: MD5: cd4dde95a6b9d122f0a9150ae9cc3ee0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_csv2txt.1
+SPDXID: SPDXRef-item937293
+FileChecksum: SHA1: 562af41b9b8be61eef922f5b48abf4f98da12341
+FileChecksum: MD5: 8603c9a4a7b9452e4ef767c8c26ea1f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bonnie.h.in
+SPDXID: SPDXRef-item937294
+FileChecksum: SHA1: ffec41fb6f57d1d9cf3366545144f07f934431f2
+FileChecksum: MD5: 432ae48548c8d178f0238b50a3a81061
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_io.cpp
+SPDXID: SPDXRef-item937295
+FileChecksum: SHA1: 5eaef15c585b159d2bffff0368cb615de37da4a2
+FileChecksum: MD5: 45f4f1c774226028067a9d266f6da243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/forkit.cpp
+SPDXID: SPDXRef-item937296
+FileChecksum: SHA1: 394bd72cc71312fb8b83f987f87732df24acad59
+FileChecksum: MD5: 70ff42c98a072144e80f1886dec230b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/port.h.in
+SPDXID: SPDXRef-item937297
+FileChecksum: SHA1: 09c4f8131ceec4913bd941bfabb4704ea308538e
+FileChecksum: MD5: 6b8b772ef36a334ca7823554be6555f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/.pc/applied-patches
+SPDXID: SPDXRef-item937299
+FileChecksum: SHA1: 7ecef3d9dd0b0f7b926c7da9a5c47bf3b9e29c9d
+FileChecksum: MD5: ae66be2e548aea126df88e34673f875b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/.pc/.quilt_series
+SPDXID: SPDXRef-item937300
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/.pc/.version
+SPDXID: SPDXRef-item937301
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/.pc/.quilt_patches
+SPDXID: SPDXRef-item937302
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/.pc/gcc-4.3-fixes.patch/zcav.cpp
+SPDXID: SPDXRef-item937304
+FileChecksum: SHA1: 09113ffe96ac764aaeb41ae00800ed9591dcd02e
+FileChecksum: MD5: 572bb4b1c7228e43fb9139d528cdcaa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/.pc/gcc-4.3-fixes.patch/.timestamp
+SPDXID: SPDXRef-item937305
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_time.h
+SPDXID: SPDXRef-item937306
+FileChecksum: SHA1: 1642f6297477c9d458ec28f3a900ed6b6ec9762b
+FileChecksum: MD5: f743f608fc98bc03779381777e3257a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bonnie.h
+SPDXID: SPDXRef-item937307
+FileChecksum: SHA1: 2c28bfec625c6b538be66d87514d8b7cb677ef0c
+FileChecksum: MD5: 29e4477bc96fd9235856390c07852feb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/install.sh
+SPDXID: SPDXRef-item937308
+FileChecksum: SHA1: b14da7688ac0ec92764e39d24663ff9fe1d122f5
+FileChecksum: MD5: 3f2b82048b043ab37d0c305ef79c4a25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bonnie++.cpp
+SPDXID: SPDXRef-item937309
+FileChecksum: SHA1: c71a700dbc57b6bc4c7e2846e122d2bd8fef351f
+FileChecksum: MD5: 66cfd6d7f3feb69bb36b34aecf530647
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bonnie++.spec
+SPDXID: SPDXRef-item937310
+FileChecksum: SHA1: e0696e597dcc274a0584971bdffe100e07121fa6
+FileChecksum: MD5: 539b09dd5e94fb8f7d0de25097215f09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/debian/rules
+SPDXID: SPDXRef-item937312
+FileChecksum: SHA1: 3f680e91d8107a34d264fc1cce51169b4a69a85d
+FileChecksum: MD5: 355a41f6f2a8cee49316da0eb9000684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/debian/control
+SPDXID: SPDXRef-item937313
+FileChecksum: SHA1: 1c798b70facecf1c4367f8f6d3b66fad9b098c43
+FileChecksum: MD5: 771f119cbe69832adac8ead7d5cd01b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/debian/changelog
+SPDXID: SPDXRef-item937314
+FileChecksum: SHA1: db6e23ef1af9ccc549a1b288df7cc07cd674c981
+FileChecksum: MD5: 0b45b2858596190d0864850d29dfc91b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/debian/dirs
+SPDXID: SPDXRef-item937315
+FileChecksum: SHA1: 8fbb247270909e455d8813d63ab4ecd872edd394
+FileChecksum: MD5: e81b29f98e1d01ee2ebf4f7987822e28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/debian/docs
+SPDXID: SPDXRef-item937316
+FileChecksum: SHA1: cc991d758d09a4afd2e24dce9853276f1afde1a9
+FileChecksum: MD5: 0bdce6301e85e03d321e270347a4a48b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/debian/copyright
+SPDXID: SPDXRef-item937317
+FileChecksum: SHA1: 2dd1e726c107991e7372ce309771bd91fa26d264
+FileChecksum: MD5: d75ba59eff91926f5c4c3d2a533c383a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_suid.cpp
+SPDXID: SPDXRef-item937318
+FileChecksum: SHA1: ac32d7405a3b7ae8e7624148d5aa71d5022f32f8
+FileChecksum: MD5: 3e0379ae7943140a1be141fc4b2316f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bonnie++.8
+SPDXID: SPDXRef-item937319
+FileChecksum: SHA1: 692470ab014fb5fda8a41e5f807983c8a1733a6b
+FileChecksum: MD5: eeef8db361a41dee168a0a32041f4c27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/configure.in
+SPDXID: SPDXRef-item937320
+FileChecksum: SHA1: f1ff1b005b146eba5d9dc4feec78aa1d5860087b
+FileChecksum: MD5: e75f17d4365b46a7049ce2581453f0a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_time.cpp
+SPDXID: SPDXRef-item937321
+FileChecksum: SHA1: e2fef3b4abc4a7a3011e091cc872ff5e0b11b7c3
+FileChecksum: MD5: 58d227d77a4bc8b4d7469b7c5c1b1e70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/semaphore.cpp
+SPDXID: SPDXRef-item937322
+FileChecksum: SHA1: ca990e6293e8cd949395825ca6c490f4d901040d
+FileChecksum: MD5: 2212758eaf42e54b0408d5215c21c8da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/patches/series
+SPDXID: SPDXRef-item937324
+FileChecksum: SHA1: 38fe2732a2cd49afdf43bbe46175a0083e62d7c7
+FileChecksum: MD5: 6d1d1d2c00de893ae1ad9f2d1c174cfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_file.cpp
+SPDXID: SPDXRef-item937326
+FileChecksum: SHA1: 65f04685f446a712283ad8c6bf399c513c5633e9
+FileChecksum: MD5: 421bd1b1f90afa9a87b296a0e29478f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_csv2html.1
+SPDXID: SPDXRef-item937327
+FileChecksum: SHA1: b8ceded9a471e601bb80c00c6327f839d05469bb
+FileChecksum: MD5: 96cc9b19df9954eb18ce69f7e7261d94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-URL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_io.h
+SPDXID: SPDXRef-item937328
+FileChecksum: SHA1: 2e4e4ac7c80304a18e02f27267759080b54a5a21
+FileChecksum: MD5: 22ce91334996fdc908213f3f94861472
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/bonnie++-1.03e/bon_csv2txt
+SPDXID: SPDXRef-item937329
+FileChecksum: SHA1: 70891cca1ab33ea56898883b880e78c03ca092a1
+FileChecksum: MD5: 8665328fb2ba653a9e23d2fa9aa98965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gcc-4.3-fixes.patch
+SPDXID: SPDXRef-item937330
+FileChecksum: SHA1: 8777740671459dd53986b1b858ceaafacb71e0f0
+FileChecksum: MD5: d93cbae3bccf307b36404c2a8dc4c407
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-See-URL
+LicenseName: See-URL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

@@ -1,0 +1,85 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_weston-ready-1.0-r0-patched.tar.gz_1571457227.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:53:47Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: weston-ready
+PackageVersion: 1.0
+PackageFileName: weston-ready-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload294
+PackageDownloadLocation: file://weston-ready
+PackageHomePage: 
+PackageSummary: <text>Weston readiness checker</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>weston-ready version 1.0</text>
+PackageChecksum: SHA1: 7e194ad2ec5fc93c301b274de957f00b1780e9e9
+PackageChecksum: MD5: c1653b30bfef1cb9b4d706b4f6aacc49
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload294
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/weston-ready.service
+SPDXID: SPDXRef-item834077
+FileChecksum: SHA1: 7ece547694cc7749fd367ab99755afe98d27067e
+FileChecksum: MD5: c56313fe4f23b2d26a92a16e5795d95d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/weston-ready
+SPDXID: SPDXRef-item834078
+FileChecksum: SHA1: b7ce7a3a6fa3fb59fbb2f18907abe8a678655c96
+FileChecksum: MD5: 069ba90a746555f9b9f1893ef90f72a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

@@ -1,0 +1,3957 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libdrm-2.4.85-r0-patched.tar.gz_1571457096.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T03:51:36Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libdrm
+PackageVersion: 2.4.85
+PackageFileName: libdrm-2.4.85-r0-patched.tar.gz
+SPDXID: SPDXRef-upload287
+PackageDownloadLocation: http://dri.freedesktop.org/libdrm/libdrm-2.4.85.tar.bz2
+PackageHomePage: http://dri.freedesktop.org
+PackageSummary: <text>Userspace interface to the kernel DRM services</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libdrm version 2.4.85</text>
+PackageChecksum: SHA1: 2f19f011ca97b734f8cb38c083040418c8c64caf
+PackageChecksum: MD5: fcff77bd8499a89543ef60a0d33c09c8
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload287
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/fix_O_CLOEXEC_undeclared.patch
+SPDXID: SPDXRef-item829931
+FileChecksum: SHA1: a6cae58371ac44ac4b4715a452cc587f6be4761e
+FileChecksum: MD5: 1c7c02425348e58997d5a385c8bf058a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-configure.ac-Allow-explicit-enabling-of-cunit-tests.patch
+SPDXID: SPDXRef-item829933
+FileChecksum: SHA1: 5d1860afb3e107256c8411210fe071faf76e0ddc
+FileChecksum: MD5: 84e0f18c7106352b394d0efbdd1cdf68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drmMode.h
+SPDXID: SPDXRef-item829935
+FileChecksum: SHA1: 326b638cfedc0f21e638cb00d502cd4f5cd243fb
+FileChecksum: MD5: 7e8044166e5a437208d5a75ce11938d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/omap/omap_drm.h
+SPDXID: SPDXRef-item829937
+FileChecksum: SHA1: 590b45bb6e1114f4767daf857e1be9ee9fc37075
+FileChecksum: MD5: d27cf0810a8b3abd9c917c7bf5ae8d98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/omap/omap_drmif.h
+SPDXID: SPDXRef-item829938
+FileChecksum: SHA1: 6f7fd653f7f5d698381b13e706b6bf53b2b2c45c
+FileChecksum: MD5: 66f395e53f40a8fb8d226aac6df0ec3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/omap/Makefile.in
+SPDXID: SPDXRef-item829939
+FileChecksum: SHA1: d8fe43d004659f252ba5d75b303bbae97ef010ca
+FileChecksum: MD5: 610f40a451a6d27edb20d70c0561b75a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/omap/omap_drm.c
+SPDXID: SPDXRef-item829940
+FileChecksum: SHA1: f8637c4f369a964e697940de7e00c9642b630b44
+FileChecksum: MD5: 319248783a6b03a63d1512587d63a41b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/omap/Makefile.am
+SPDXID: SPDXRef-item829941
+FileChecksum: SHA1: 4d92248954421ca32e047e5875e93e92fa08651b
+FileChecksum: MD5: 2712b6b5cf0da2a6025860f149baff81
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/omap/omap-symbol-check
+SPDXID: SPDXRef-item829942
+FileChecksum: SHA1: 4850cb9a54a384ae59608d61a95f92bb337b7261
+FileChecksum: MD5: f307a83e12ac183c0838802ef5d841bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/omap/libdrm_omap.pc.in
+SPDXID: SPDXRef-item829943
+FileChecksum: SHA1: fbc31690090e26cb164169fa18f239331a744a84
+FileChecksum: MD5: 12f93bce2088da119d06bf6438b5c7e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/Makefile.sources
+SPDXID: SPDXRef-item829945
+FileChecksum: SHA1: 65fd94c20c12a52479fb8641c09103db170d8d87
+FileChecksum: MD5: 571155d0f0674a709a117c6245b306ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/libdrm_radeon.pc.in
+SPDXID: SPDXRef-item829946
+FileChecksum: SHA1: cab00e33000f0b903cdbacc3ca8c2f3faf426e2f
+FileChecksum: MD5: 4a5246f9ee66ac6452121700c53a0160
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_cs.c
+SPDXID: SPDXRef-item829947
+FileChecksum: SHA1: 37409dbdd4a0d9e728e514acb3ff87e62e7da481
+FileChecksum: MD5: 58267f9d56e5f0f55bde5bd0a59e2927
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/bof.c
+SPDXID: SPDXRef-item829948
+FileChecksum: SHA1: e5117c3417fad6590d29feed2d996e0ebdc4a00a
+FileChecksum: MD5: 777d950dadc44f422e0f784fec2f5095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_cs_space.c
+SPDXID: SPDXRef-item829949
+FileChecksum: SHA1: 80b6a2d0f477128bba55bfe1bb212f324481e2a2
+FileChecksum: MD5: 923d4bfe3067d5805d6f46147117b708
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/Makefile.in
+SPDXID: SPDXRef-item829950
+FileChecksum: SHA1: dd84c381c345f6277d33f0381df0479fca773a7b
+FileChecksum: MD5: ebf06346bd09b06c9a80bdd312e66c35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/bof.h
+SPDXID: SPDXRef-item829951
+FileChecksum: SHA1: bb5146f52bfb36705cfdfb03a7a225fdc53ad15d
+FileChecksum: MD5: 2f80d59ef72f9704d3ed6d9c8a566e53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_surface.h
+SPDXID: SPDXRef-item829952
+FileChecksum: SHA1: 498ca683205442f7f4cf812fb9ee227140c3d448
+FileChecksum: MD5: 057d528d5cc5eecb6ba8497bd318007a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_bo_gem.h
+SPDXID: SPDXRef-item829953
+FileChecksum: SHA1: 95a1fc5ef1d34abf504842c120d4779efe2b960f
+FileChecksum: MD5: 9146a66281fc24ddc811edb0e98798f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/Makefile.am
+SPDXID: SPDXRef-item829954
+FileChecksum: SHA1: ef4f1e6bae0ae8941dc75f5bf1e97f1e0a7d3fb0
+FileChecksum: MD5: 6c84d8a9f6420d24a924edb1f269ca13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_bo_int.h
+SPDXID: SPDXRef-item829955
+FileChecksum: SHA1: d13ea3fff3ea78c557b33135b2f38d7f6f02047e
+FileChecksum: MD5: 3c0fbfafc637cdce13689eeec7081ad6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_bo_gem.c
+SPDXID: SPDXRef-item829956
+FileChecksum: SHA1: fd2201f6a15139ab2e3358c9d6e415f743063368
+FileChecksum: MD5: 64baf8aa4c2cdd08d9666d7a2e7b9377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon-symbol-check
+SPDXID: SPDXRef-item829957
+FileChecksum: SHA1: 0e718617204b93a84d05a2c1cd909ed88776a142
+FileChecksum: MD5: 61f7441f42235b8105f0841974949834
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_surface.c
+SPDXID: SPDXRef-item829958
+FileChecksum: SHA1: c5194d87621fb1f8fcd437391b7ece4b90c2fa8a
+FileChecksum: MD5: 563130d3a4e872eb4ea507b6c2a3ae41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_bo.h
+SPDXID: SPDXRef-item829959
+FileChecksum: SHA1: cac57976704387cc40ac74b58b9f9bc32bc31483
+FileChecksum: MD5: b222ab92b2e00dcfc60099f14c5e075d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_cs.h
+SPDXID: SPDXRef-item829960
+FileChecksum: SHA1: fe36173dccf259e6d845b2a9d8982b23a05526e4
+FileChecksum: MD5: baacdc202123019a25a2aa6d1718bc15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/r600_pci_ids.h
+SPDXID: SPDXRef-item829961
+FileChecksum: SHA1: 37c28b6ae96c129eb9d830e27c7ccd582c250a42
+FileChecksum: MD5: 448487c35f6c19d507847bef5b2ec592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_cs_int.h
+SPDXID: SPDXRef-item829962
+FileChecksum: SHA1: f43886941660bc0c44e6f0fdaae18778499f40e9
+FileChecksum: MD5: 6a6e534cd4e364bf51931feb04f4cbdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_cs_gem.h
+SPDXID: SPDXRef-item829963
+FileChecksum: SHA1: ec96bedc934a984cffa3af725994afffe63d20c7
+FileChecksum: MD5: 834d0a39daae042b24be9ec4f231b1b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_bo.c
+SPDXID: SPDXRef-item829964
+FileChecksum: SHA1: f865d4573901469151a8301ce9714d9d837777a0
+FileChecksum: MD5: 8593a8cafdacebf6ef40d850ccec2926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/radeon/radeon_cs_gem.c
+SPDXID: SPDXRef-item829965
+FileChecksum: SHA1: c089535e639d4fffb09092b77a975b262e075c3d
+FileChecksum: MD5: 7e764ce9c6e678d84580fee30a41400c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/Makefile.sources
+SPDXID: SPDXRef-item829966
+FileChecksum: SHA1: 04b9411ee55c6c69a73e2cfb8a3557fa05caaee1
+FileChecksum: MD5: db5f0835483efd88d1f3e0d58ca47749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/data/amdgpu.ids
+SPDXID: SPDXRef-item829968
+FileChecksum: SHA1: daf54d947204e3e4fa2cf8a7a0806cdfae1eaf35
+FileChecksum: MD5: 90446e3736e360ddb0078e914c42ff06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/data/Makefile.in
+SPDXID: SPDXRef-item829969
+FileChecksum: SHA1: 52931a513e8a79674a361be61456f57ca150facf
+FileChecksum: MD5: ca1f6cc94fa5e272189fa4a09bc59b74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/data/Makefile.am
+SPDXID: SPDXRef-item829970
+FileChecksum: SHA1: 7e8bb3aeebaf187080196c4ae3fca2aca497dafa
+FileChecksum: MD5: 516af2935f51e9528effa6deedfc2be1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_drmif.h
+SPDXID: SPDXRef-item829972
+FileChecksum: SHA1: 72c9e5dd9a55920df3edcda74b9bc23d8be09091
+FileChecksum: MD5: 60129bb92c030eacb0451951ba74846a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_pipe.c
+SPDXID: SPDXRef-item829973
+FileChecksum: SHA1: 976ea5a140b351a8cf699325256b305ac920480c
+FileChecksum: MD5: 4d0da6a95d72f6e44a3fb34423faeb19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/Makefile.sources
+SPDXID: SPDXRef-item829974
+FileChecksum: SHA1: a36b26bc008bf60b28dfb45d50f1f85e7dbcc221
+FileChecksum: MD5: 8f7af18b6347600c83f20fb4ac8b1017
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_drm.h
+SPDXID: SPDXRef-item829975
+FileChecksum: SHA1: c554389f0a5c6aa973a6dd88b921d5287596509f
+FileChecksum: MD5: 0918073bfa56187861062fc32cff83f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_bo.c
+SPDXID: SPDXRef-item829976
+FileChecksum: SHA1: fa40a8d3f8afe8b8b6d8b399d02ec1ffc0e681ed
+FileChecksum: MD5: a640391b914687f54cb8a8933acf3eb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv-symbol-check
+SPDXID: SPDXRef-item829977
+FileChecksum: SHA1: 9cd7da5e8051060453efd416b5f2d977e62842f8
+FileChecksum: MD5: e8af1b3479a5843af20032308d4679bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/Makefile.in
+SPDXID: SPDXRef-item829978
+FileChecksum: SHA1: b649acf90354183f3cf2cd7aa4e4dd2d8b5a8f08
+FileChecksum: MD5: 140bec1e3d0feb5df5caf73cd13a2fae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/libdrm_etnaviv.pc.in
+SPDXID: SPDXRef-item829979
+FileChecksum: SHA1: 4f617de1ec4e23a84abf9f78000bb796821ee89c
+FileChecksum: MD5: 52df3adf0ee921c68a3b9fe68954901a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_bo_cache.c
+SPDXID: SPDXRef-item829980
+FileChecksum: SHA1: dc22b90b7c5ced32099d4c2fe0fd4e138d9e881e
+FileChecksum: MD5: a2a1b11e1c00322bc507991fca3e3e04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/Makefile.am
+SPDXID: SPDXRef-item829981
+FileChecksum: SHA1: dae96076c2ec244c6cc1f22ef2284a0ad0d0d4ef
+FileChecksum: MD5: 5d5b617e5f240c8617f99b249d3c61ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_gpu.c
+SPDXID: SPDXRef-item829982
+FileChecksum: SHA1: a53dd910b39dce8909b8a62f05f52b09e1db3efa
+FileChecksum: MD5: 12619077c3ba77d4aaea1828d05b1231
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_device.c
+SPDXID: SPDXRef-item829983
+FileChecksum: SHA1: 67679272ce0b74a846ab1bb0fae50d0937298020
+FileChecksum: MD5: aba82d6ef9d802499d3b56af25938a2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_priv.h
+SPDXID: SPDXRef-item829984
+FileChecksum: SHA1: aea963fdb349a46d7ccd33ca0d70e428af39901c
+FileChecksum: MD5: 7c3c39baf9b9f170dd2b1c7bf59ba583
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/etnaviv/etnaviv_cmd_stream.c
+SPDXID: SPDXRef-item829985
+FileChecksum: SHA1: beb410a389b4317e213635d044ce0d527bd93620
+FileChecksum: MD5: 64da806b390a039bf766bf43f254f0f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86atomic.h
+SPDXID: SPDXRef-item829986
+FileChecksum: SHA1: 48018b90b7a37f4882b21f75e6781c5f441d2843
+FileChecksum: MD5: eafd833a9ba472a50e79b0e1161c9eb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu-symbol-check
+SPDXID: SPDXRef-item829988
+FileChecksum: SHA1: cf694dea13d9779b6432b08090d8c9db54f73436
+FileChecksum: MD5: 224b6999a997c4276244dc4e0a715e2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/util_hash.h
+SPDXID: SPDXRef-item829989
+FileChecksum: SHA1: 4d20a395decee3fa018c72c1f2b2b9a84a4d53fc
+FileChecksum: MD5: f179752c4368eed3448a5794126c8fb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu_asic_id.c
+SPDXID: SPDXRef-item829990
+FileChecksum: SHA1: fe66815d3595a20ed032efce794f2a22e098e8c7
+FileChecksum: MD5: b53630bca67f3a075bf9ff5e209ede38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/Makefile.sources
+SPDXID: SPDXRef-item829991
+FileChecksum: SHA1: 7e11e933547ac81b8a87bcfa95cb7d3de90c5f2f
+FileChecksum: MD5: 5944deeec3d660c5c4f70148c66a7785
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/util_hash_table.c
+SPDXID: SPDXRef-item829992
+FileChecksum: SHA1: 094bd4a5645335dd35a64bc715f27026593d4aca
+FileChecksum: MD5: 06c88b0b2720de077b917897668d2e50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu.h
+SPDXID: SPDXRef-item829993
+FileChecksum: SHA1: 85bfbe643e1cc91c50d851939e57370c0ad01b4a
+FileChecksum: MD5: 8fb65893ca67a68a10d58b2923941eca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu_cs.c
+SPDXID: SPDXRef-item829994
+FileChecksum: SHA1: 1755f5ea77a8da32a477f254482ad1163a8758f8
+FileChecksum: MD5: e0ff98d63cb6dcc3014791be5fa0ef77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/Makefile.in
+SPDXID: SPDXRef-item829995
+FileChecksum: SHA1: d12648eaf16633f862f1e7031ce352f073b39c28
+FileChecksum: MD5: fe91a6c3c6f6be19716f8f5d0e8ca326
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu_gpu_info.c
+SPDXID: SPDXRef-item829996
+FileChecksum: SHA1: b276a0f0f0ded8cafa33aa79eb5ca75fc6a03997
+FileChecksum: MD5: 89a25b9d665611f96924193706ba5d80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu_bo.c
+SPDXID: SPDXRef-item829997
+FileChecksum: SHA1: 1c157ba44da2be5b91d07bccc7d8712e6bc2fed6
+FileChecksum: MD5: 6f17cca9ba7fea6c022e65c33f708acf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/libdrm_amdgpu.pc.in
+SPDXID: SPDXRef-item829998
+FileChecksum: SHA1: 172ab4e89f3f769444a93b9540e10acd3821e95b
+FileChecksum: MD5: 7f2bc0378f33ffa7debebb41ffdd7aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu_device.c
+SPDXID: SPDXRef-item829999
+FileChecksum: SHA1: 730e4c82044d7fe86b9e59b206856a2c74859ed8
+FileChecksum: MD5: 1ef5f73ad81f0f6f213e968139793e93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/Makefile.am
+SPDXID: SPDXRef-item830000
+FileChecksum: SHA1: 9c2c81b0e3d134f671d590c7f0cfb4352b955b4f
+FileChecksum: MD5: 811651a7d80a1b3dea23813c321a8ced
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu_vamgr.c
+SPDXID: SPDXRef-item830001
+FileChecksum: SHA1: 436f20ae2f6b7e0b12f28d149e9f63672939ba08
+FileChecksum: MD5: 756bb4b41f9e8f81a6e2d06d5b7433f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/amdgpu_internal.h
+SPDXID: SPDXRef-item830002
+FileChecksum: SHA1: 6ce6e28435b2040278c2c4e14b0e16e42c5e9a57
+FileChecksum: MD5: bcf2ce5f6dc6ef351dd80b8f3293b7d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/util_hash.c
+SPDXID: SPDXRef-item830003
+FileChecksum: SHA1: 2c0a8d70391954286c84c5315482d182eb6ffdab
+FileChecksum: MD5: aa5929a73a42dc116d2aaa707e3f9a25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/amdgpu/util_hash_table.h
+SPDXID: SPDXRef-item830004
+FileChecksum: SHA1: d0b8c5279a1ae3fe38d102870b40c6051511e6de
+FileChecksum: MD5: cfab65c5ceb2945ab3f25089fde9a88c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_bufmgr_priv.h
+SPDXID: SPDXRef-item830006
+FileChecksum: SHA1: 7cd5cabb1c35348ea1b3f89b0f642e05b5763b4e
+FileChecksum: MD5: fb454d82bf2ff3ca09cc61da45e15140
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/test_decode.c
+SPDXID: SPDXRef-item830007
+FileChecksum: SHA1: 25dcb2472da1e3b1ce933b902d3c2dfc03278814
+FileChecksum: MD5: ca2b695aaad96ced0fd595276f4c0c37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/Makefile.sources
+SPDXID: SPDXRef-item830008
+FileChecksum: SHA1: b44fa71eb06fdacda3cd85da3198b0ec88eaec70
+FileChecksum: MD5: 2802be486d423fb24350d12d78a37ccd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/mm.c
+SPDXID: SPDXRef-item830009
+FileChecksum: SHA1: 8ac8ae92ed33befa400805cd79945b37a64b244b
+FileChecksum: MD5: 4ee14848678437ad8515d1f2537b6607
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/Makefile.in
+SPDXID: SPDXRef-item830010
+FileChecksum: SHA1: 6810062f6c1fa86d2414a1f58bd21f0e07ccf442
+FileChecksum: MD5: e857b48b16f31e6bba4e5913b1cb0ef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/uthash.h
+SPDXID: SPDXRef-item830011
+FileChecksum: SHA1: 998e5a58eb6c6f5da6336ad599d6bc38a76a415a
+FileChecksum: MD5: 72de7eae15a381941cbbde73c694f05d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-2-Clause
+LicenseInfoInFile: LicenseRef-BSD-style
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_bufmgr_fake.c
+SPDXID: SPDXRef-item830012
+FileChecksum: SHA1: 67dc27958f4d3b85045facf6d9cba3717a6a293e
+FileChecksum: MD5: 7e1538c0afbdc7f09463b3ca998b013d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_aub.h
+SPDXID: SPDXRef-item830013
+FileChecksum: SHA1: d8b235990e77ecd4f45ba81b537237d26da99896
+FileChecksum: MD5: a95243f010cc28e8038aff568adbdf2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_debug.h
+SPDXID: SPDXRef-item830014
+FileChecksum: SHA1: 27d567c46d9d311385296c82888a5494f9a62c93
+FileChecksum: MD5: 9b52e56d069e5ef41afcb5dffc87ade4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_chipset.h
+SPDXID: SPDXRef-item830015
+FileChecksum: SHA1: 3f14ec538ca20c82e5544135c8239e7d53d5207b
+FileChecksum: MD5: b394df9e0c76b99637446aa4844ba473
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel-symbol-check
+SPDXID: SPDXRef-item830016
+FileChecksum: SHA1: d875f31b7d2e7dcba08919374dece849de351caf
+FileChecksum: MD5: d5652d4efc08782603a05eb253287117
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_decode.c
+SPDXID: SPDXRef-item830017
+FileChecksum: SHA1: 6dc86599f60527e2964be8b9020e6b61176d327f
+FileChecksum: MD5: 970243548c116065228c665f5f87c19a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/Makefile.am
+SPDXID: SPDXRef-item830018
+FileChecksum: SHA1: 7f0df3df7be069f03d95fa0130f645e8a9756628
+FileChecksum: MD5: e969054f42e394e3313352befbba846d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/libdrm_intel.pc.in
+SPDXID: SPDXRef-item830019
+FileChecksum: SHA1: 1de02be5ddf6ba1d08d6cc634deead14aa3572e3
+FileChecksum: MD5: 0f8791f9f14810b50484c3382c35c7d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen7-3d.batch.sh
+SPDXID: SPDXRef-item830021
+FileChecksum: SHA1: c4506c657c302303ddc3624912fe3b8f34289344
+FileChecksum: MD5: 6a5546ab34140b88ade736c873beb296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/test-batch.sh
+SPDXID: SPDXRef-item830022
+FileChecksum: SHA1: c4506c657c302303ddc3624912fe3b8f34289344
+FileChecksum: MD5: 6a5546ab34140b88ade736c873beb296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen7-2d-copy.batch.sh
+SPDXID: SPDXRef-item830023
+FileChecksum: SHA1: c4506c657c302303ddc3624912fe3b8f34289344
+FileChecksum: MD5: 6a5546ab34140b88ade736c873beb296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen5-3d.batch.sh
+SPDXID: SPDXRef-item830024
+FileChecksum: SHA1: c4506c657c302303ddc3624912fe3b8f34289344
+FileChecksum: MD5: 6a5546ab34140b88ade736c873beb296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen7-2d-copy.batch-ref.txt
+SPDXID: SPDXRef-item830025
+FileChecksum: SHA1: 00fa867c91c6c62215ba868d0003a79ff0a64a12
+FileChecksum: MD5: 50fd687d4af749b90fbb6c156be01761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen4-3d.batch
+SPDXID: SPDXRef-item830026
+FileChecksum: SHA1: 11ce81fe1bfb871e94b9119d08452cfcea40c6bc
+FileChecksum: MD5: 45ab20801715595db9cf15693d809119
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen4-3d.batch-ref.txt
+SPDXID: SPDXRef-item830027
+FileChecksum: SHA1: 17a6ebe3902e305d34331f847074886cd6c479c2
+FileChecksum: MD5: 2dbfebbdf6c54efa79e51d7cfbfed658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen4-3d.batch.sh
+SPDXID: SPDXRef-item830028
+FileChecksum: SHA1: c4506c657c302303ddc3624912fe3b8f34289344
+FileChecksum: MD5: 6a5546ab34140b88ade736c873beb296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gm45-3d.batch-ref.txt
+SPDXID: SPDXRef-item830029
+FileChecksum: SHA1: 052f9b9723362c5b189ed652d8558fb24a749434
+FileChecksum: MD5: 55f14fe05a6e4035dd67cf37a1777548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen5-3d.batch-ref.txt
+SPDXID: SPDXRef-item830030
+FileChecksum: SHA1: 77931930a9dd0210435513f31e0bf0ada815abaf
+FileChecksum: MD5: 4d899ab76821929fac5779b955def940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen7-3d.batch-ref.txt
+SPDXID: SPDXRef-item830031
+FileChecksum: SHA1: cddc62d9b6ff89713fda3bd9a3a2483d10539229
+FileChecksum: MD5: 5bf8aa4a3114f88e28b75883a6fa5b0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen6-3d.batch-ref.txt
+SPDXID: SPDXRef-item830032
+FileChecksum: SHA1: 05bea418dd7af919ea59af89280c80b5ec70f09c
+FileChecksum: MD5: 0cd0628025c70f03de4414c469182890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen7-2d-copy.batch
+SPDXID: SPDXRef-item830033
+FileChecksum: SHA1: d5768bcef700f419f4d183ea11065ff95d3e2bd0
+FileChecksum: MD5: cac7ef0cece3293d51058294d24c1794
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen7-3d.batch
+SPDXID: SPDXRef-item830034
+FileChecksum: SHA1: 7ff278263da479895a531423177bbaa1d85e8f69
+FileChecksum: MD5: 48c660052b5771aedb07274082359fd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen5-3d.batch
+SPDXID: SPDXRef-item830035
+FileChecksum: SHA1: a60324358cb3d0ae7a16757b38cf14df9f3f8301
+FileChecksum: MD5: bf23034f2a9f6b538fffe0c7b3889092
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gm45-3d.batch.sh
+SPDXID: SPDXRef-item830036
+FileChecksum: SHA1: c4506c657c302303ddc3624912fe3b8f34289344
+FileChecksum: MD5: 6a5546ab34140b88ade736c873beb296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen6-3d.batch.sh
+SPDXID: SPDXRef-item830037
+FileChecksum: SHA1: c4506c657c302303ddc3624912fe3b8f34289344
+FileChecksum: MD5: 6a5546ab34140b88ade736c873beb296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gm45-3d.batch
+SPDXID: SPDXRef-item830038
+FileChecksum: SHA1: d257bd6c3ba3e40ff9c55a826f230f244f00a788
+FileChecksum: MD5: d96c761c97c3f523b00114fa8ebc24df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/tests/gen6-3d.batch
+SPDXID: SPDXRef-item830039
+FileChecksum: SHA1: 0d28ac9371cb10355c8745d3789754f064232e8b
+FileChecksum: MD5: ab6b469861384fc0315e78af8435e2c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_bufmgr_gem.c
+SPDXID: SPDXRef-item830040
+FileChecksum: SHA1: 2c77ab756c1980475852a665634edb9d7182617c
+FileChecksum: MD5: 4deebd2d30e691e1ca6ade1a2217740d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/mm.h
+SPDXID: SPDXRef-item830041
+FileChecksum: SHA1: 17ca69774fb257d5fdbfe3023ab70d2e63e22f1e
+FileChecksum: MD5: 9cab4f3285f5a2071bd4fbc84246b3e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_bufmgr.h
+SPDXID: SPDXRef-item830042
+FileChecksum: SHA1: e36318de847f9ae5622c0d54b84db05e32cc326a
+FileChecksum: MD5: 606c5d6717b9d388029728c724606f56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/intel/intel_bufmgr.c
+SPDXID: SPDXRef-item830043
+FileChecksum: SHA1: 4e99d75dc48d4a5f1afea09f31a94d3ab3c7c083
+FileChecksum: MD5: fb049261561ff899912ae16a00bc40b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/aclocal.m4
+SPDXID: SPDXRef-item830044
+FileChecksum: SHA1: a21e846c4b248e976a34131c96a40b79fefd40cc
+FileChecksum: MD5: e09d3741264a66bf135294c776eb97eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-GPL-3.0--with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drmRandom.c
+SPDXID: SPDXRef-item830045
+FileChecksum: SHA1: 9b65ede82ca372b8f8467939ed1b86115db4fab7
+FileChecksum: MD5: ce1f04ff81a0755c6a6d1a6cf9bfdb80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/Makefile.in
+SPDXID: SPDXRef-item830046
+FileChecksum: SHA1: 7b0aa879ef020720db7b9b8250c97b830a70632a
+FileChecksum: MD5: 826bb74ea5116b3ff77ebc8d200a278f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/exynos_drm.c
+SPDXID: SPDXRef-item830048
+FileChecksum: SHA1: fe10472210be3dca218708e311c62329aa238d41
+FileChecksum: MD5: 5d19ab5fcb9ec6ecdbb322add8111953
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/exynos_fimg2d.h
+SPDXID: SPDXRef-item830049
+FileChecksum: SHA1: 45fa3dc3b48226c77f15bfb109fa91e3cfe8ec57
+FileChecksum: MD5: 1d49a0f803a841c28340f425f7dde84b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/Makefile.in
+SPDXID: SPDXRef-item830050
+FileChecksum: SHA1: c6a543de2eb15b38588254550fbdc368bd0c0fce
+FileChecksum: MD5: 4ffcd8ad809bcff2b6944704e6721dd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/exynos_drm.h
+SPDXID: SPDXRef-item830051
+FileChecksum: SHA1: 4fa45f4756cb7586f06d29e939f075a91d814ea4
+FileChecksum: MD5: cea62b5061565566df18fd7ca6eed1b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/exynos_drmif.h
+SPDXID: SPDXRef-item830052
+FileChecksum: SHA1: f3541aa72791db2fcd3eb7e596a827f7fae41142
+FileChecksum: MD5: 13d87423f37401b95230626926f6c78b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/Makefile.am
+SPDXID: SPDXRef-item830053
+FileChecksum: SHA1: 0d7b54196f4db6602f39f188fa26abdc08a242e2
+FileChecksum: MD5: f94c59468da3c0dda072a54df184ca46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/exynos_fimg2d.c
+SPDXID: SPDXRef-item830054
+FileChecksum: SHA1: b781a6be5478f1ce369ae202a83e8d8a78e0263f
+FileChecksum: MD5: 58d407c814d415498b4549ebe3ae7c1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/fimg2d_reg.h
+SPDXID: SPDXRef-item830055
+FileChecksum: SHA1: 48031b4b976c7d159e89ee5998762de7e5d498ee
+FileChecksum: MD5: 38278e56720d58ee3b3a8e14e0eb2c5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/libdrm_exynos.pc.in
+SPDXID: SPDXRef-item830056
+FileChecksum: SHA1: 679156d8c72c920aed1c2c21be9b10810ab5aa7b
+FileChecksum: MD5: f8cc1548ce96b56bba568893ffaaa749
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/exynos/exynos-symbol-check
+SPDXID: SPDXRef-item830057
+FileChecksum: SHA1: 4a68c77265588e5cbd7b4297cabcba285cd12521
+FileChecksum: MD5: 0cf86075a188099345da104b2cd8b11f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/configure
+SPDXID: SPDXRef-item830058
+FileChecksum: SHA1: c5cbcfb817a83006e6a6cb6f86a7f634192e865a
+FileChecksum: MD5: 01f6d312cba70fc8c515fdc564cafcb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/man/Makefile.in
+SPDXID: SPDXRef-item830060
+FileChecksum: SHA1: 8f1479b73c6cc26d3894a0b246b019ad1390c4ae
+FileChecksum: MD5: 0ec7fd5de6b8bbe7d9a241a502e1f391
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/man/drmModeGetResources.xml
+SPDXID: SPDXRef-item830061
+FileChecksum: SHA1: b61b233d3d5b8ceac16cc0078cebe0336952e71e
+FileChecksum: MD5: 62bf78eb21adff73955eaa9adc623600
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/man/Makefile.am
+SPDXID: SPDXRef-item830062
+FileChecksum: SHA1: 828b0610808f63406e1eee9282e36c4a5e6d35f4
+FileChecksum: MD5: b0fbf1b7d0707b1c77c932bd82fc9493
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/man/drm-memory.xml
+SPDXID: SPDXRef-item830063
+FileChecksum: SHA1: f48ecf7797c40440247f6c20204679724bae2af3
+FileChecksum: MD5: 90f9291661bdf90fe428f74d3225c393
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/man/drm-kms.xml
+SPDXID: SPDXRef-item830064
+FileChecksum: SHA1: c495cdb94e2fddd7036a1ec391b3c2b18a6eb11e
+FileChecksum: MD5: 33244262eeb450f42b05c7e9ee24ec05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/man/drmAvailable.xml
+SPDXID: SPDXRef-item830065
+FileChecksum: SHA1: c921e4e6de0ede75bd1df444f3196b81419f8f1c
+FileChecksum: MD5: 833dfbe91a1f85909f2df2119a492ad7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/man/drm.xml
+SPDXID: SPDXRef-item830066
+FileChecksum: SHA1: f14d83c8d3b9157d89e1d58f1c0a4d6996a799e1
+FileChecksum: MD5: 22e743e86ee643a39fe44e62d0113ff6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/man/drmHandleEvent.xml
+SPDXID: SPDXRef-item830067
+FileChecksum: SHA1: c611c2dcbdb5e01a101ac4c01a917f1241158813
+FileChecksum: MD5: 102acdf33680bc846199cfbc1ad7dcf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/util_math.h
+SPDXID: SPDXRef-item830068
+FileChecksum: SHA1: 370caea988a53ad733ef0b275dce935c96ce3cf5
+FileChecksum: MD5: 235388b14937198cf391025db5cc09f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drm.c
+SPDXID: SPDXRef-item830069
+FileChecksum: SHA1: b4f04fe6a6a2568a875aa83446faaea19fd28065
+FileChecksum: MD5: f4c0e43866791bec1e97ecafe8f2d4d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libdrm_lists.h
+SPDXID: SPDXRef-item830070
+FileChecksum: SHA1: 4833872bf934a6e1b76a5365af3060a90de98a5e
+FileChecksum: MD5: 59d9dfa3a700c8e4f39f659f98983f2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drmHash.h
+SPDXID: SPDXRef-item830071
+FileChecksum: SHA1: 89d8b9489c9078e7ca161b91866bd5031a3c6c9c
+FileChecksum: MD5: 0103bc8ff7389461afa4b7b2ca123f4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/m4/ltversion.m4
+SPDXID: SPDXRef-item830073
+FileChecksum: SHA1: d1d3e24931395afbc69b448b179ab5737157ee5f
+FileChecksum: MD5: 7fe1d9fcc9b8458bc9bdb4dfcb05961e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/m4/libtool.m4
+SPDXID: SPDXRef-item830074
+FileChecksum: SHA1: adfa5ad19c2d783ec21db430aeed509d65bc4f99
+FileChecksum: MD5: 9a02625c2055aea3f9c8f3b3f655670a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/m4/ltoptions.m4
+SPDXID: SPDXRef-item830075
+FileChecksum: SHA1: fa3635890a5dbc269ef8669dffa43997cdb29cb4
+FileChecksum: MD5: 811967c959c799ee62a802645564eb63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/m4/ltsugar.m4
+SPDXID: SPDXRef-item830076
+FileChecksum: SHA1: 16cb479867f04ce2d8347c863997cc3edffc6e22
+FileChecksum: MD5: 51a691c39e38214060f5d3fa72bcbe2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item830077
+FileChecksum: SHA1: 5d0ab1b6c3cdba9eeceaddbc3509460b2fce2a2b
+FileChecksum: MD5: 6328cb4c29de14fc84d5e8768a783b60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/config.h.in
+SPDXID: SPDXRef-item830078
+FileChecksum: SHA1: d3be3aa41ab3b28e928e8703402aa72d53cbc2ef
+FileChecksum: MD5: 79cb2b8f34df1700f298b00b6ec01ae4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tegra/tegra-symbol-check
+SPDXID: SPDXRef-item830080
+FileChecksum: SHA1: 1981e17564f33903bf03541bfa46ca4ecc852dba
+FileChecksum: MD5: f4d13acb65cf493553000105f6f2a691
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tegra/Makefile.in
+SPDXID: SPDXRef-item830081
+FileChecksum: SHA1: ded14b503bcd5f6b9abd9a29b2a4a0ef61d856c0
+FileChecksum: MD5: b58d833fd9e97660270a008fe175d7d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tegra/Makefile.am
+SPDXID: SPDXRef-item830082
+FileChecksum: SHA1: c8f2a7a0512ec9931f2ff70ba28348c89f5a2be9
+FileChecksum: MD5: 3a0e9b1c48bbab3950d854226d99aed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tegra/private.h
+SPDXID: SPDXRef-item830083
+FileChecksum: SHA1: db0639614d61cbef5c6dea754f5012d5243f8713
+FileChecksum: MD5: b92adde6e4612ec1e31331bb3068deeb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tegra/libdrm_tegra.pc.in
+SPDXID: SPDXRef-item830084
+FileChecksum: SHA1: 4e31b2c59d053d20a5baa682c9e89dd4525e0911
+FileChecksum: MD5: 52370763aae0d7c78066e0fa14020bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tegra/tegra.h
+SPDXID: SPDXRef-item830085
+FileChecksum: SHA1: 8baa480f81cc877a169f173edd91275003e3a761
+FileChecksum: MD5: 2804e33982cd34994eae3e13076d33f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tegra/tegra.c
+SPDXID: SPDXRef-item830086
+FileChecksum: SHA1: 04320a6a25a30ca2fa80ac834a8763e820e86f46
+FileChecksum: MD5: b075cbf4d62e5d065f9b504a393cfd2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/Makefile.am
+SPDXID: SPDXRef-item830087
+FileChecksum: SHA1: 73a64e39a8bab8430187a910431f528cda7b5c30
+FileChecksum: MD5: e8d7aaef510b555787ca0ac03306c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drmMode.c
+SPDXID: SPDXRef-item830088
+FileChecksum: SHA1: 1e1b2fa566286d6530f6875678c35f257a69b496
+FileChecksum: MD5: 09d8b0a248f68d27489fe07689999945
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/vc4/Makefile.sources
+SPDXID: SPDXRef-item830090
+FileChecksum: SHA1: a811fa71ece2555a2a6bb54f51f5086ddc26123b
+FileChecksum: MD5: 18d76f24cd7cdb44ef43db76cfdf90d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/vc4/vc4_packet.h
+SPDXID: SPDXRef-item830091
+FileChecksum: SHA1: 7c6e8fe891b3046c3e8c33991462d0cd6396dcf9
+FileChecksum: MD5: c7b742fc485d14834d55e60a81072cb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/vc4/libdrm_vc4.pc.in
+SPDXID: SPDXRef-item830092
+FileChecksum: SHA1: f8c869c1ceed5527ca2048c385efd234912f324e
+FileChecksum: MD5: 5c1d1971a529fce4241dfce5b87be9f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/vc4/Makefile.in
+SPDXID: SPDXRef-item830093
+FileChecksum: SHA1: 9e122da46ef195f17f6767d61368f7e93e787e8d
+FileChecksum: MD5: 5ae0d8e95f2e07de5cc26ce013f781ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/vc4/Makefile.am
+SPDXID: SPDXRef-item830094
+FileChecksum: SHA1: 08a367b538e69deb6b11e64449277287f4d29a99
+FileChecksum: MD5: 0519b6bed453310b4cbf4050195090bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/vc4/vc4_qpu_defines.h
+SPDXID: SPDXRef-item830095
+FileChecksum: SHA1: 0f49e413111653190baab8f4c4162235d4d57a7f
+FileChecksum: MD5: 3c625f77fb6869816768eca62afe7525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno_drmif.h
+SPDXID: SPDXRef-item830097
+FileChecksum: SHA1: bd3ba202e35dc827ac933b33268a8d1ebf416954
+FileChecksum: MD5: 117a99ba2e9fcaa4027e5ce7b17b4ab0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/Makefile.sources
+SPDXID: SPDXRef-item830098
+FileChecksum: SHA1: a56019d4996bbc9c4c8374ed17c9576e70859266
+FileChecksum: MD5: faccd3d126c603bb2d7b9e0a8f9da2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno-symbol-check
+SPDXID: SPDXRef-item830099
+FileChecksum: SHA1: 2c94c4d23154d04e37746a7f0aeb79609c2b7daf
+FileChecksum: MD5: 5b98feb6efb25cbc0afe4d727244f5f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/libdrm_freedreno.pc.in
+SPDXID: SPDXRef-item830100
+FileChecksum: SHA1: 663446a9e1b9fa0840683ce25533573838706dca
+FileChecksum: MD5: ad82fd0eeb8193cd4623e8c6abfe79ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/Makefile.in
+SPDXID: SPDXRef-item830101
+FileChecksum: SHA1: d6bf54273479e3d59c2a6260cf688c0acd0e9e49
+FileChecksum: MD5: cc7198c26407ce8cb3179fefc37c282a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno_ringbuffer.c
+SPDXID: SPDXRef-item830102
+FileChecksum: SHA1: 2fa56e93bdbc462489e69a7dff3afa0947b6c090
+FileChecksum: MD5: c0017834da086dbc98cc84688cdeccff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno_ringbuffer.h
+SPDXID: SPDXRef-item830103
+FileChecksum: SHA1: 82552a147655db11c9a66aeee7fa6aca2d0b0c5d
+FileChecksum: MD5: 0d6eb063df65474063314294ec36f747
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno_device.c
+SPDXID: SPDXRef-item830104
+FileChecksum: SHA1: 95ff104aca597c62fb47dc9c217a338a29e7666c
+FileChecksum: MD5: 480ce486a91eed9e08af12cb97c1b48a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno_priv.h
+SPDXID: SPDXRef-item830105
+FileChecksum: SHA1: 463713f54aba8139afd98392ed39e28cd98ab2b8
+FileChecksum: MD5: 45ac6fae09366fa01a62b7cb264af7a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/Makefile.am
+SPDXID: SPDXRef-item830106
+FileChecksum: SHA1: 54db37b6793a79d2ecb48cf87fa72ce20d0c14a0
+FileChecksum: MD5: cad605b7d19bb8c545a69a3cac328196
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno_pipe.c
+SPDXID: SPDXRef-item830107
+FileChecksum: SHA1: 51b59147556decc9e4a4890c1536c2370eab12d1
+FileChecksum: MD5: b7207de00c6a6342c60b93ac5bfac416
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/kgsl/kgsl_priv.h
+SPDXID: SPDXRef-item830109
+FileChecksum: SHA1: c8bbf165047b25a85723ea9b76e88af0da4dd1c3
+FileChecksum: MD5: e31fbc448188114521352b6310aa43d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/kgsl/msm_kgsl.h
+SPDXID: SPDXRef-item830110
+FileChecksum: SHA1: b6659f24c586232ac4ad21857b01f0945c19e552
+FileChecksum: MD5: 076bc336c2b54945a93b5d4746dea5aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/kgsl/kgsl_pipe.c
+SPDXID: SPDXRef-item830111
+FileChecksum: SHA1: a7bb048e6f116134ee7d0b7aa2d8a5ffe1859184
+FileChecksum: MD5: f2324a201254e657776f2ceffa2000db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/kgsl/kgsl_device.c
+SPDXID: SPDXRef-item830112
+FileChecksum: SHA1: 17c711539d0567414ba0ab825743b4f8288ff449
+FileChecksum: MD5: 4a4525faf4b5bab584736d330402b0dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/kgsl/kgsl_ringbuffer.c
+SPDXID: SPDXRef-item830113
+FileChecksum: SHA1: 0a56b9d429eaa2bafb1e07389bd865c7db8c1f30
+FileChecksum: MD5: 30cca34536ffc07b9d23b9f08c8e4ec9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/kgsl/kgsl_drm.h
+SPDXID: SPDXRef-item830114
+FileChecksum: SHA1: 1c975658ba210ad723bc977acbdc7531532c7fa2
+FileChecksum: MD5: 505a2812e48e0d1cfacb42dced6dab58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/kgsl/kgsl_bo.c
+SPDXID: SPDXRef-item830115
+FileChecksum: SHA1: 764061c02c4423a582e817f1712b137dc4c5e9c5
+FileChecksum: MD5: b8a305433cea32af9db7d70fc845aa6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/msm/msm_priv.h
+SPDXID: SPDXRef-item830117
+FileChecksum: SHA1: bbfb2da871ce5bda8a3eb6180df4881b3ac9ed9f
+FileChecksum: MD5: ff955ac1f6c4067cfc192ed69649c5b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/msm/msm_drm.h
+SPDXID: SPDXRef-item830118
+FileChecksum: SHA1: 084d5f651ca04f0f9b8bbabce244bded3e9dc078
+FileChecksum: MD5: 8c6388e1895a63a80f50a5841c39b33f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/msm/msm_ringbuffer.c
+SPDXID: SPDXRef-item830119
+FileChecksum: SHA1: a4e4bff6fd4868899e0d5969fa709917cd93699e
+FileChecksum: MD5: faf396c377ec89a74be4963c3f1f3621
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/msm/msm_bo.c
+SPDXID: SPDXRef-item830120
+FileChecksum: SHA1: 7433b4fbd03c2aa7706443681ad7553947a08ad7
+FileChecksum: MD5: 4e4d1965ae8481fa415f23024b252c59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/msm/msm_pipe.c
+SPDXID: SPDXRef-item830121
+FileChecksum: SHA1: 2c8322be9299b6aad91acb81fea9a80bd2498473
+FileChecksum: MD5: 4cf1507b84b4751491fa05fb0dba0c23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/msm/msm_device.c
+SPDXID: SPDXRef-item830122
+FileChecksum: SHA1: c20251599c115c6a343ebfb549f5d86ed132987f
+FileChecksum: MD5: f47119b34aedb1081aab52ad6421c960
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno_bo.c
+SPDXID: SPDXRef-item830123
+FileChecksum: SHA1: fc9c7bcb4f0dd94c28fa5aa2e25a4138a9928f8d
+FileChecksum: MD5: 240d015dc673387d5c3d683725eb3a77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/freedreno/freedreno_bo_cache.c
+SPDXID: SPDXRef-item830124
+FileChecksum: SHA1: 1df576c404b07f909c2682f416cf1924101d613f
+FileChecksum: MD5: 4791f94f77a9b71714c305c0b55b914e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/radeon/rbo.h
+SPDXID: SPDXRef-item830127
+FileChecksum: SHA1: 343c9c0c2873857858649222de1f4860baa4a384
+FileChecksum: MD5: ed8080dcec360e65627612827b90efae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/radeon/Makefile.in
+SPDXID: SPDXRef-item830128
+FileChecksum: SHA1: 821d77f50702c1e055c24a4daa2191477ec0bc3c
+FileChecksum: MD5: 16511bf6e555407b1f130c947614d2f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/radeon/Makefile.am
+SPDXID: SPDXRef-item830129
+FileChecksum: SHA1: 58d2d59f38f7912aa636f974b88e94ae55879ab3
+FileChecksum: MD5: 366e02cfc20a0d493bd5345b4dd42a66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/radeon/radeon_ttm.c
+SPDXID: SPDXRef-item830130
+FileChecksum: SHA1: d0f6995d53b9f4fcb4b9ed3329922129adae565b
+FileChecksum: MD5: beb5fe1c492d05c9a688cb2c99da4e60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/radeon/rbo.c
+SPDXID: SPDXRef-item830131
+FileChecksum: SHA1: ece5dfc85ca635d9d4635a131ef19b8ed7a884d3
+FileChecksum: MD5: fec709d8f4b6b375d82f6797922481e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/etnaviv_cmd_stream_test.c
+SPDXID: SPDXRef-item830133
+FileChecksum: SHA1: 7303e511a1af4436830aad5c6ad5544eb5674259
+FileChecksum: MD5: 227bd3810a1c1bcf8c6706cb531c3653
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/write_bmp.h
+SPDXID: SPDXRef-item830134
+FileChecksum: SHA1: af7b1c4d15dda523025aab656db98fd7b8ff93c6
+FileChecksum: MD5: 744b8a80257213b62e72fa403a9d9c2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/state_2d.xml.h
+SPDXID: SPDXRef-item830135
+FileChecksum: SHA1: 172cdc3ceb4d91fbabcf555673c7a5b0ee2ad915
+FileChecksum: MD5: 1c6c4edf8f576768dce4bda10cb9a207
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/etnaviv_2d_test.c
+SPDXID: SPDXRef-item830136
+FileChecksum: SHA1: d696fe43d43caf18cea02ba1fdf31174a3bb3649
+FileChecksum: MD5: 21499b40c6452e2277d26b4b4e3d22ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/Makefile.in
+SPDXID: SPDXRef-item830137
+FileChecksum: SHA1: f5f1ed6d1a614c6fcfda2b2cf632ed3ed74f6bdb
+FileChecksum: MD5: e11046bb7d1efe0a02af56e6eaf97cc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/Makefile.am
+SPDXID: SPDXRef-item830138
+FileChecksum: SHA1: 9cd4852180869c8dcf0131bfb3d57ff83ef04e0f
+FileChecksum: MD5: 95ce3423e16b6e18ffa72d7d5a362b77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/etnaviv_bo_cache_test.c
+SPDXID: SPDXRef-item830139
+FileChecksum: SHA1: f73c59a67842c483179c521666e8f9e50a1adef1
+FileChecksum: MD5: 466b1ee8fa65127c2a29932b359b9e5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/write_bmp.c
+SPDXID: SPDXRef-item830140
+FileChecksum: SHA1: 1c88d32ddd9fdd63b65db8f023b6971958ff6ce5
+FileChecksum: MD5: ad7bb3eafb01ae2a92108c930d52df44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/cmdstream.xml.h
+SPDXID: SPDXRef-item830141
+FileChecksum: SHA1: 99b2c38febc310475c7d359f7dafd4b2cb284ac0
+FileChecksum: MD5: 36fe75502d78f57b4809a4014cfc8595
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/etnaviv/state.xml.h
+SPDXID: SPDXRef-item830142
+FileChecksum: SHA1: 4710b1ba1ce76e0c06665c60bd586809a177486b
+FileChecksum: MD5: 6fd5577982482cff0d395c90a564aa55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/libkms-test-framebuffer.c
+SPDXID: SPDXRef-item830144
+FileChecksum: SHA1: 14de5901b25155c59246fb3f1293050374dc6970
+FileChecksum: MD5: 76c6dcaaebe7ff218c62699fc2f5164a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/libkms-test-device.c
+SPDXID: SPDXRef-item830145
+FileChecksum: SHA1: 39c70fd4a96301b2f7c1044c6948bb25df19bb6a
+FileChecksum: MD5: e43e39b2ed6a622f2e5572e1163198cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/kms-universal-planes.c
+SPDXID: SPDXRef-item830146
+FileChecksum: SHA1: 7b65df39b5c40a8e980e0394e9ff3a82a961d9d7
+FileChecksum: MD5: b3790bb354eec8ba0a91cec64ced5855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/Makefile.in
+SPDXID: SPDXRef-item830147
+FileChecksum: SHA1: 8a5bcabbce719868f0707d30e9dc508719607da8
+FileChecksum: MD5: f4c8c39e63c7a6c3c345ab00bd3a0cf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/libkms-test-screen.c
+SPDXID: SPDXRef-item830148
+FileChecksum: SHA1: 3babed340e580855efd83843e5a58a35aec3de8a
+FileChecksum: MD5: 475bc8a051c162105b3708300c67b600
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/Makefile.am
+SPDXID: SPDXRef-item830149
+FileChecksum: SHA1: 8ab4f9ccb3c70a5703b852a82dd66648019ab83a
+FileChecksum: MD5: e9d88f77099601d231dfc284ee1e7639
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/libkms-test-plane.c
+SPDXID: SPDXRef-item830150
+FileChecksum: SHA1: 39001b3808f6634bc2ecf05dfe8892b33ff97417
+FileChecksum: MD5: 73f7168a33abeebc630ff850d62121e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/kms-steal-crtc.c
+SPDXID: SPDXRef-item830151
+FileChecksum: SHA1: 8fd3e1eae66f560d6d4c24d19f41caec697cedba
+FileChecksum: MD5: 5490f622bd7c344fb1cf67648bf9a9ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/libkms-test.h
+SPDXID: SPDXRef-item830152
+FileChecksum: SHA1: fbdc393d29495d95dbdb5bb35a6d53b61605574f
+FileChecksum: MD5: 335e0100b6abbca3ce598adeb2f623a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kms/libkms-test-crtc.c
+SPDXID: SPDXRef-item830153
+FileChecksum: SHA1: e3d548163b20e8ed1c6d4dfd733e110c90d2f379
+FileChecksum: MD5: 9ad8a5d5ab03cc4b11873ea65d4c958d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modeprint/modeprint.c
+SPDXID: SPDXRef-item830155
+FileChecksum: SHA1: 6e4a4910b4d53ab077a5cd653a93b6027ed1eaac
+FileChecksum: MD5: 34834a385e0da9919827c3a07dc5b281
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modeprint/Makefile.in
+SPDXID: SPDXRef-item830156
+FileChecksum: SHA1: ef9584a0c77aea884bacbb8182bcb295c2598c9f
+FileChecksum: MD5: 2b80f331ed2dd7aa7604e3ca3d971322
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modeprint/Makefile.am
+SPDXID: SPDXRef-item830157
+FileChecksum: SHA1: 9396230bfb3d5242ed84aa7e539a977270fdabc0
+FileChecksum: MD5: 8f2330b9633ae3f501aa0247e21bcd5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/bo_tests.c
+SPDXID: SPDXRef-item830159
+FileChecksum: SHA1: d9b3bfb2d26b32f2a758ccf990364cfa7b740d9a
+FileChecksum: MD5: e101554d151dec0680e2e13e4efde448
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/deadlock_tests.c
+SPDXID: SPDXRef-item830160
+FileChecksum: SHA1: b5460325d4430557f34b663588b823842f4f0427
+FileChecksum: MD5: 08f48b6fe69be85a4ed3686e5425567b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/decode_messages.h
+SPDXID: SPDXRef-item830161
+FileChecksum: SHA1: 3029440981db5e1e2588de3af19e3e8beb1fa496
+FileChecksum: MD5: 48de4269af44a3303a4003447ac5b2bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/vcn_tests.c
+SPDXID: SPDXRef-item830162
+FileChecksum: SHA1: 85162ab0ed52a168b321d579b6209b89519e29ff
+FileChecksum: MD5: d0584ad5c46467971d13ff2361f54765
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/amdgpu_test.h
+SPDXID: SPDXRef-item830163
+FileChecksum: SHA1: f18d28a05804b9e738cb0ac1ed511eeb3c0d4100
+FileChecksum: MD5: 5a22120bcb0b37eeb19547f9ec7dc16f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/Makefile.in
+SPDXID: SPDXRef-item830164
+FileChecksum: SHA1: f11a88a486762e38a80d373ae35d61ac0355eecb
+FileChecksum: MD5: e72d1efe715ab9419c9507fc560ebe78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/cs_tests.c
+SPDXID: SPDXRef-item830165
+FileChecksum: SHA1: a40b849fe7639d2334561e4b6e905c350b4f6595
+FileChecksum: MD5: efe26918c2d5de54ffad60c888529bd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/basic_tests.c
+SPDXID: SPDXRef-item830166
+FileChecksum: SHA1: 3997b13a3044ae5f553b426f4de36e3a66320191
+FileChecksum: MD5: d4026a94fe67d2cefa285ec9157856d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/uvd_enc_tests.c
+SPDXID: SPDXRef-item830167
+FileChecksum: SHA1: 0dfe7a3a104f3748cc0d0b1f3f84ed2983a205e4
+FileChecksum: MD5: d2158a110bcb2424d451408f82264185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/uve_ib.h
+SPDXID: SPDXRef-item830168
+FileChecksum: SHA1: 22ab6256c47eb16721f7965c7d7a670bb6d68c30
+FileChecksum: MD5: 859f4b3bfcb2fb2fa895241acb82d790
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/Makefile.am
+SPDXID: SPDXRef-item830169
+FileChecksum: SHA1: aee7320032b56601c6e1ba228e95ab90789121a6
+FileChecksum: MD5: 53b55a7371edd8bb006e9caeb4818429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/amdgpu_test.c
+SPDXID: SPDXRef-item830170
+FileChecksum: SHA1: 1e4febbe5604a1f97293a8bc0c600c0c65fe951d
+FileChecksum: MD5: 5c3e8d1f802306ea5b970dcb00031954
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/vce_tests.c
+SPDXID: SPDXRef-item830171
+FileChecksum: SHA1: 2d08134125234b98328677986618f18a483859f4
+FileChecksum: MD5: 40639c97dfbe536490eed3936bddaee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/frame.h
+SPDXID: SPDXRef-item830172
+FileChecksum: SHA1: 1960d9ed8342c02b4608a482e8c2239476b5a31f
+FileChecksum: MD5: 626fd6f2cb523801da6832a69502a7d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/amdgpu/vce_ib.h
+SPDXID: SPDXRef-item830173
+FileChecksum: SHA1: 73cad246f69482933bbca34f4fbfb9af7718cb2e
+FileChecksum: MD5: bc06374d3aa5a5b33fdcb71a07c45c2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/Makefile.in
+SPDXID: SPDXRef-item830174
+FileChecksum: SHA1: 1a055dff2a84428b0f238073aaf3b83c832656b2
+FileChecksum: MD5: 2a99a0f13402533019752c0e5c0a07b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/exynos/exynos_fimg2d_test.c
+SPDXID: SPDXRef-item830176
+FileChecksum: SHA1: 67e3a23784afab0e1ec35845aa5d123e2ab72cf0
+FileChecksum: MD5: 48a90905a054fd20d726e3acfaf90902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/exynos/exynos_fimg2d_event.c
+SPDXID: SPDXRef-item830177
+FileChecksum: SHA1: addd6548470f56aeb2a736dd3b79aff9abf5bc92
+FileChecksum: MD5: 1cc3733677717d7891e81b391aa896f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/exynos/exynos_fimg2d_perf.c
+SPDXID: SPDXRef-item830178
+FileChecksum: SHA1: e8c031050fca9f8edbc5fdbfce169b4eec1ac4a7
+FileChecksum: MD5: ddf89654c14bd515506e66368edf5c16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/exynos/Makefile.in
+SPDXID: SPDXRef-item830179
+FileChecksum: SHA1: 43be42588104420fd0b3c22e231b5eebe3c3427f
+FileChecksum: MD5: 14cddb6fd8fad2e5116b09b6269ef12a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/exynos/Makefile.am
+SPDXID: SPDXRef-item830180
+FileChecksum: SHA1: 5fa188e10ec9b65673658cdb38903e35ba385d1a
+FileChecksum: MD5: aee90c6169085102ba5093ecb1adeb45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/pattern.h
+SPDXID: SPDXRef-item830182
+FileChecksum: SHA1: bbbbb420328ee209cae20d4b07077f492c46e4c8
+FileChecksum: MD5: e43f4182bdb88fb7f5c37fcc38732e51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/Makefile.sources
+SPDXID: SPDXRef-item830183
+FileChecksum: SHA1: efe549308d1a92daa5cebe02fbfa3c10ff13139d
+FileChecksum: MD5: 8cb09a2d48c23e6760754471ffc5fc1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/format.h
+SPDXID: SPDXRef-item830184
+FileChecksum: SHA1: cbc8bca50b4e383edac7da97cd4af1301f078588
+FileChecksum: MD5: 6f66d9b2634f6486331d92e55dbc39ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/kms.h
+SPDXID: SPDXRef-item830185
+FileChecksum: SHA1: 3b31d41373a513ada40a53a13f155da38e080462
+FileChecksum: MD5: a4379a6c973c0c45e09a930f4cbe3d42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/Makefile.in
+SPDXID: SPDXRef-item830186
+FileChecksum: SHA1: b8d92026a788392db9b725d3991d9680c28b88ac
+FileChecksum: MD5: af0115b6fa177df5b5fce14101f79e69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/Makefile.am
+SPDXID: SPDXRef-item830187
+FileChecksum: SHA1: dedd7d8f65183959664038cecac4a1c81f37e95e
+FileChecksum: MD5: edcee5fa3725249bf6d610fe909d6c47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/common.h
+SPDXID: SPDXRef-item830188
+FileChecksum: SHA1: da9c75020b6a4164c88797473036729d99e27ec5
+FileChecksum: MD5: 2389c337178e8393e651dfe61e75e2d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/kms.c
+SPDXID: SPDXRef-item830189
+FileChecksum: SHA1: c94b31c09360c31556d7e275545f80c246cc8704
+FileChecksum: MD5: 078909f1144b03b63de23b8697704420
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/pattern.c
+SPDXID: SPDXRef-item830190
+FileChecksum: SHA1: cef47734b44b2688a7640a510dbae7ad94904136
+FileChecksum: MD5: d371507428eb09b0ee7c58de8453edd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/util/format.c
+SPDXID: SPDXRef-item830191
+FileChecksum: SHA1: 419586e348efa41311a7be81742cb3767b41b9e8
+FileChecksum: MD5: ad99e8ac20733c2c300dd86f4525a82c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/hash.c
+SPDXID: SPDXRef-item830192
+FileChecksum: SHA1: 94f46e38d969301a814ed6125f79075a2f63ae3a
+FileChecksum: MD5: 3b5bb26f8607c735e9478f3069c52b30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modetest/buffers.h
+SPDXID: SPDXRef-item830194
+FileChecksum: SHA1: d5eecd061a62b7ac8c8576feffe17bf4827e3a6e
+FileChecksum: MD5: 4028b4e01b4d2cf479d88fd8619fbae9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modetest/Makefile.sources
+SPDXID: SPDXRef-item830195
+FileChecksum: SHA1: b2772bd10f81c794337a6d9ffbb975ba05bf36e3
+FileChecksum: MD5: 79fd9f47e85cb9af1b31f128f46b6cb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modetest/cursor.c
+SPDXID: SPDXRef-item830196
+FileChecksum: SHA1: 40861902fc3bc2251e3be5bdbc0c80c30d0154cf
+FileChecksum: MD5: 56b7530d00830365c5ac7477f1d17b09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modetest/Makefile.in
+SPDXID: SPDXRef-item830197
+FileChecksum: SHA1: aeba41de86ed5c243545ca91a141154aa5f03cb7
+FileChecksum: MD5: 986011101bc03f573d831c5dec133277
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modetest/modetest.c
+SPDXID: SPDXRef-item830198
+FileChecksum: SHA1: 570a732a44e9ac34ff9f109265c8b11107caa9cc
+FileChecksum: MD5: bfc1f75340b5922c584acb76b69f0628
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modetest/Makefile.am
+SPDXID: SPDXRef-item830199
+FileChecksum: SHA1: 0b7427ca1b7672690f821a82a5d2c88925eb9ae2
+FileChecksum: MD5: 6fb7c0f8b09df6de1c74242d20708c79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modetest/buffers.c
+SPDXID: SPDXRef-item830200
+FileChecksum: SHA1: 09e3c26b4b2ebf46d8b8f113b154a3942ffc0e48
+FileChecksum: MD5: 9682868852022a5bfa06bd21d6990660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/modetest/cursor.h
+SPDXID: SPDXRef-item830201
+FileChecksum: SHA1: 0422014e0b5ffdd1512984d4bc569957840ff7c8
+FileChecksum: MD5: 1bce211bf0664555c1f51e4369702f88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/tegra/Makefile.in
+SPDXID: SPDXRef-item830203
+FileChecksum: SHA1: 6eeb3778500f824cd4dd3d9972bf75e7c76c31b6
+FileChecksum: MD5: cf2d4bdaa15a4c10ebde6d421395405d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/tegra/Makefile.am
+SPDXID: SPDXRef-item830204
+FileChecksum: SHA1: 10c90117af589bc63fdc14ef721ccb7aa8dbef2e
+FileChecksum: MD5: c72380dedecfc8676c868d55427c73c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/tegra/openclose.c
+SPDXID: SPDXRef-item830205
+FileChecksum: SHA1: d18d9be69126ce447ee31d460c8bd492582c5b11
+FileChecksum: MD5: 0bbe981b9cdfb3d26a3ef15c3bb0aa67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/Makefile.am
+SPDXID: SPDXRef-item830206
+FileChecksum: SHA1: 49de6cc04579c6b9a4f20dee4c8604cf9e0ffb27
+FileChecksum: MD5: 0c0b8dfaca2cb4aaf41ceb2498bb3961
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/proptest/proptest.c
+SPDXID: SPDXRef-item830208
+FileChecksum: SHA1: 29417f9a8f972c388cc548e6fc4ffe1a02f16ad4
+FileChecksum: MD5: f63f552216aa3b42cf880277976db88a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/proptest/Makefile.sources
+SPDXID: SPDXRef-item830209
+FileChecksum: SHA1: fa819ac8991bf8bec19d5f7b0945a5ac9417f32b
+FileChecksum: MD5: 6ea2bcbf4ee2e5d7346f969c5f0ca3c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/proptest/Makefile.in
+SPDXID: SPDXRef-item830210
+FileChecksum: SHA1: 4460a94bf2ee94e046adb28b152c30b56a838aa1
+FileChecksum: MD5: 0770036c98830454a511bfcc0c99cea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/proptest/Makefile.am
+SPDXID: SPDXRef-item830211
+FileChecksum: SHA1: af8a37b5c46831b993f7e1dec6bd421e4de64c90
+FileChecksum: MD5: b11d521cefc17b58a92c3670e9c4c335
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/drmsl.c
+SPDXID: SPDXRef-item830212
+FileChecksum: SHA1: 11dc3e99d32d0310a9a0e96d2693fe636db82a7a
+FileChecksum: MD5: 09946e6061d60204bb4c4e3d774e1c9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/nouveau/Makefile.in
+SPDXID: SPDXRef-item830214
+FileChecksum: SHA1: fdfc9ee4360e6a102bbe21f03265c2b9201c53a8
+FileChecksum: MD5: 9bd10e9dd7030ab87f3f99282e1f8056
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/nouveau/Makefile.am
+SPDXID: SPDXRef-item830215
+FileChecksum: SHA1: fc05c7e555649ad1f0d1a54136e421ece15534a9
+FileChecksum: MD5: 12b244d17b6443abcaeaa3233ad555b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/nouveau/threaded.c
+SPDXID: SPDXRef-item830216
+FileChecksum: SHA1: 0414fb3032cdc8079d1327875aa1826ac73b0c49
+FileChecksum: MD5: 81fe8b31af3695f5460fd9c796ed4486
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/random.c
+SPDXID: SPDXRef-item830217
+FileChecksum: SHA1: 6d80d93bb494ef0d914d1551c9eadb24e3cc65fd
+FileChecksum: MD5: 5206b327744fa3c93b962231d794dba5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kmstest/Makefile.in
+SPDXID: SPDXRef-item830219
+FileChecksum: SHA1: fecfaa62a46a09921cf69eeb70d98d7f6bbdaf75
+FileChecksum: MD5: 6589e0036a0ecbc24fff879fb1943588
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kmstest/Makefile.am
+SPDXID: SPDXRef-item830220
+FileChecksum: SHA1: 9e07b279b7f9b7853a15e940b3ef8687abc9abc5
+FileChecksum: MD5: 8b6f6bd0711746b712aec8109660d5ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/kmstest/main.c
+SPDXID: SPDXRef-item830221
+FileChecksum: SHA1: f2f09a03eaecfe8473bfb000265b4c9597720718
+FileChecksum: MD5: 910b2294c92514c4516e8b534ec432ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/vbltest/Makefile.in
+SPDXID: SPDXRef-item830223
+FileChecksum: SHA1: 80e5b6834829c1f7c1bf53369638a3219d79b7bd
+FileChecksum: MD5: 7c8190636c0459e76e12c51a777ade03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/vbltest/vbltest.c
+SPDXID: SPDXRef-item830224
+FileChecksum: SHA1: 0f21991890259f3b571a4d6b72d6fed2ba003cde
+FileChecksum: MD5: e19e5f9109247b0da5cc8aea2b09868f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/vbltest/Makefile.am
+SPDXID: SPDXRef-item830225
+FileChecksum: SHA1: 51967f1fff7269953e87b9e582ecdbcaafa190c6
+FileChecksum: MD5: 1612e60e440cf7779dfd14d7ecb7a9b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/tests/drmdevice.c
+SPDXID: SPDXRef-item830226
+FileChecksum: SHA1: 7a0f9dda59b39fa1f1ea702b38f13701bf8f094d
+FileChecksum: MD5: 931cdec7a03f0d4be560bd3d494f0823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drmRandom.h
+SPDXID: SPDXRef-item830227
+FileChecksum: SHA1: 15518ea48743910c2fac67ef0d875a09657e7f4b
+FileChecksum: MD5: fba25c492627e207068c41cf0af53914
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/Makefile.sources
+SPDXID: SPDXRef-item830229
+FileChecksum: SHA1: 1eb30721ce4424560f786f5c88d76125d10f6a42
+FileChecksum: MD5: 9278adc038a8b26a16ea5d53f29b1629
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nouveau.h
+SPDXID: SPDXRef-item830230
+FileChecksum: SHA1: 220bc984ebc1c320be93c5377592bebae59fb573
+FileChecksum: MD5: ef7bbdd2fd4153be2c9fe0002b534a39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nouveau.c
+SPDXID: SPDXRef-item830231
+FileChecksum: SHA1: 6a546466db058e2f353b19035dd24b26dfca87f4
+FileChecksum: MD5: 2d0d3249e7ea1068e1263649efd8e16f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/Makefile.in
+SPDXID: SPDXRef-item830232
+FileChecksum: SHA1: b509b70862d3092f4c3938ed3d80d29a764fbf76
+FileChecksum: MD5: e53d0b3855461067d247c4ec97c0e617
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/pushbuf.c
+SPDXID: SPDXRef-item830233
+FileChecksum: SHA1: eef2a53f92fcc8b45d2836999a65a1588aacfc1c
+FileChecksum: MD5: 2a8c211d18206a0ce57d1832bbd8b40b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nvif/class.h
+SPDXID: SPDXRef-item830235
+FileChecksum: SHA1: 8a2cba5d49cd812256a4bf248f6cea5deba6b3e9
+FileChecksum: MD5: f473138b162fdd6c63151f388bc06432
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nvif/cl9097.h
+SPDXID: SPDXRef-item830236
+FileChecksum: SHA1: 115224875131028bde7d46825d3c24f57fad93bf
+FileChecksum: MD5: 6508833e93c1e8b6530b865acef8658a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nvif/cl0080.h
+SPDXID: SPDXRef-item830237
+FileChecksum: SHA1: 14ac1e26a146e0f5078052819433c703f9429b4c
+FileChecksum: MD5: 16c386ea8910ea35a123e8c56bda3375
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nvif/unpack.h
+SPDXID: SPDXRef-item830238
+FileChecksum: SHA1: 7858d7989ded6353d8fec98b57eacbac9f1ff88d
+FileChecksum: MD5: abc42e7069aab03805236825b928aabb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nvif/ioctl.h
+SPDXID: SPDXRef-item830239
+FileChecksum: SHA1: 199a19cc6e335b7581a6bf6a7a5514d1d0a5b3a5
+FileChecksum: MD5: 131e8a8fcaef0af0e8ddcf356ebdce3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nvif/if0002.h
+SPDXID: SPDXRef-item830240
+FileChecksum: SHA1: 93d8d77fb9b756250773ee465372518b32e2b9b7
+FileChecksum: MD5: e13fa42934bea4f3bea5f00c4a11fdd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nvif/if0003.h
+SPDXID: SPDXRef-item830241
+FileChecksum: SHA1: 5e2baeb2441b01dd1d2ae450afdf4c2c7574f3f6
+FileChecksum: MD5: b558d23a56606918d7ae9890c15ce6ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/bufctx.c
+SPDXID: SPDXRef-item830242
+FileChecksum: SHA1: 8f5ef277cc6dbfcf37079b66592a332ed654c9bf
+FileChecksum: MD5: 6e621b7d2b57d5633d9dd5ccc1c7a693
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/libdrm_nouveau.pc.in
+SPDXID: SPDXRef-item830243
+FileChecksum: SHA1: 35a3fa1f8d76c7c53bd7c84e1c8ce91f9351e589
+FileChecksum: MD5: 85121575e9f579470584234bf5b48d8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/abi16.c
+SPDXID: SPDXRef-item830244
+FileChecksum: SHA1: 6f66d84414d03b6f75e60800fe95ebf4846b376e
+FileChecksum: MD5: 42e731e2bda1a408ffb9e803abcef823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/Makefile.am
+SPDXID: SPDXRef-item830245
+FileChecksum: SHA1: 3066a4935a6068eae5c23c62f0d4d9f7d39bc5d6
+FileChecksum: MD5: 7127698e34bf907fe52a40247a8581d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/private.h
+SPDXID: SPDXRef-item830246
+FileChecksum: SHA1: c371d7f5dcb07fa59d9e1ec92786c1c03f694c39
+FileChecksum: MD5: 5cdb72d01c6402868011ae4ed05d1ae2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/nouveau/nouveau-symbol-check
+SPDXID: SPDXRef-item830247
+FileChecksum: SHA1: 4c1f0deec8243af36220937e8782904bb67b896a
+FileChecksum: MD5: d6056356b9472685fa074cb42f2e2bc3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drmSL.c
+SPDXID: SPDXRef-item830248
+FileChecksum: SHA1: b529234d9f56c6219c51a525fa8bcafe3b508d78
+FileChecksum: MD5: 17ba733f212c7d932119a6aab87fe674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/README
+SPDXID: SPDXRef-item830249
+FileChecksum: SHA1: 938597c9a7ff5d7f843eeb95fc6aeb89ba58a6ed
+FileChecksum: MD5: 0017b2b41e66c946bece1f5315bef0c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drmHash.c
+SPDXID: SPDXRef-item830250
+FileChecksum: SHA1: 0635912ac4039a9d7952a6011d664ab4e0c5d91a
+FileChecksum: MD5: e610d4213f36b737de9e2a1e20f8d37a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/applied-patches
+SPDXID: SPDXRef-item830252
+FileChecksum: SHA1: cc7bce39b362625bddd4b20bbd907ef1ca0abff0
+FileChecksum: MD5: 68e80f9e1315bc7c01a6eba58e52477b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/.quilt_series
+SPDXID: SPDXRef-item830253
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/.version
+SPDXID: SPDXRef-item830254
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/fix_O_CLOEXEC_undeclared.patch/tests/drmdevice.c
+SPDXID: SPDXRef-item830257
+FileChecksum: SHA1: 8eeec5b67e375552d39a758ee456776a600be492
+FileChecksum: MD5: 29d5b4361ee524266db350aa39a35dd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/fix_O_CLOEXEC_undeclared.patch/.timestamp
+SPDXID: SPDXRef-item830258
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/.quilt_patches
+SPDXID: SPDXRef-item830259
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/0001-configure.ac-Allow-explicit-enabling-of-cunit-tests.patch/.timestamp
+SPDXID: SPDXRef-item830261
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/0001-configure.ac-Allow-explicit-enabling-of-cunit-tests.patch/configure.ac
+SPDXID: SPDXRef-item830262
+FileChecksum: SHA1: 0d91997378b9aa183b39d28d783c6e4a5742a107
+FileChecksum: MD5: e74e7b0b85f1214e2204ae530a601e16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/installtests.patch/tests/Makefile.am
+SPDXID: SPDXRef-item830265
+FileChecksum: SHA1: e68dd9d0f1ea97016dc446f099038a6c12f34e75
+FileChecksum: MD5: 5e20c5121106a9bb444b7ed312850556
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/.pc/installtests.patch/.timestamp
+SPDXID: SPDXRef-item830266
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/configure.ac
+SPDXID: SPDXRef-item830267
+FileChecksum: SHA1: d9d3eff58c99afdb2e491cbb1b68c1a138482636
+FileChecksum: MD5: c304edfcc50ac402ce0eb250ad747b2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libsync.h
+SPDXID: SPDXRef-item830268
+FileChecksum: SHA1: 5289d5d2d16c3edb7744c9af1e7a7455fb77f203
+FileChecksum: MD5: 2a10aebc84e8cfef902481725f1f4ce2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/xf86drm.h
+SPDXID: SPDXRef-item830269
+FileChecksum: SHA1: 29834a8b7528201a0df444cdf5c089523df9d0f8
+FileChecksum: MD5: 2ec7cbc53f44ffa39ba0cea509aac08e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/build-aux/compile
+SPDXID: SPDXRef-item830271
+FileChecksum: SHA1: 03a05e37267c2f1c9fea4f2a6a15f8a7beb91c0d
+FileChecksum: MD5: 500b9244caa7a7ab23ece1db37efa76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/build-aux/install-sh
+SPDXID: SPDXRef-item830272
+FileChecksum: SHA1: 2e3051b2027eaf42b949f495503e7c9090f4113d
+FileChecksum: MD5: b965f98f97ba53fa9e2ed5528caa4efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/build-aux/ltmain.sh
+SPDXID: SPDXRef-item830273
+FileChecksum: SHA1: c108bace54fb9c0c2f3fa14adee26490d7e2f816
+FileChecksum: MD5: 5eba8fabf647b676ac255003f5994748
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/build-aux/config.sub
+SPDXID: SPDXRef-item830274
+FileChecksum: SHA1: 2934b873fe10c796db0e66a3cdfe57baf2372654
+FileChecksum: MD5: b4b24b88055910a6b4dbb0f436af648e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/build-aux/missing
+SPDXID: SPDXRef-item830275
+FileChecksum: SHA1: fced81554799feb0f10fb56e3a06acb92c7ce7b0
+FileChecksum: MD5: 5f2a276ee7b8decec541391229d03591
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/build-aux/test-driver
+SPDXID: SPDXRef-item830276
+FileChecksum: SHA1: ebabeb373c5af3b8606b510a2494955e34325d8a
+FileChecksum: MD5: 7ce923f582b49637d13847c49fff9490
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/build-aux/config.guess
+SPDXID: SPDXRef-item830277
+FileChecksum: SHA1: 3c5110b53f1290fb1e54d566c2dcb7601988e821
+FileChecksum: MD5: f6e12e9ed82ed7af1d4ed44e1ce3649c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/build-aux/depcomp
+SPDXID: SPDXRef-item830278
+FileChecksum: SHA1: 44f711c72acb3fb13ece5b665aaf9d6449ad2574
+FileChecksum: MD5: 386223c42821864f26fd0782d357d513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/patches/series
+SPDXID: SPDXRef-item830281
+FileChecksum: SHA1: b81c0ceceebea8b24ecc5e6f1ad088e6267d84b4
+FileChecksum: MD5: 6e88637605b77b5412e23e76f52272b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libdrm_macros.h
+SPDXID: SPDXRef-item830284
+FileChecksum: SHA1: e42e8bf071b1ad8690e8d113969f92463a0480b8
+FileChecksum: MD5: 03313575f3a1e1fd5eb9352ffc7894a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/nouveau_drm.h
+SPDXID: SPDXRef-item830287
+FileChecksum: SHA1: acc01357281c14a6e96ecf0269959fd1312c6f9b
+FileChecksum: MD5: e7de823b1c53eece566596ac1313e58a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/sis_drm.h
+SPDXID: SPDXRef-item830288
+FileChecksum: SHA1: c14a6cf4f88129978d7904812c81c15a523a9835
+FileChecksum: MD5: 9b077ebd1e0a26f0f4c9c35216d45eb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/vmwgfx_drm.h
+SPDXID: SPDXRef-item830289
+FileChecksum: SHA1: c41686486b10ae0b3ea0e590088dbc213219ba1c
+FileChecksum: MD5: 8b8c52928a85e2b3aa0d8a4b6fc00803
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/drm_mode.h
+SPDXID: SPDXRef-item830290
+FileChecksum: SHA1: 95596acf4ead171b0affd71588d566f29ef7f5e1
+FileChecksum: MD5: db42759f448923ae0667b49f3f92f2a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/r128_drm.h
+SPDXID: SPDXRef-item830291
+FileChecksum: SHA1: c2f869ed9d8ee5550b2da35cc48d03aeb76902a3
+FileChecksum: MD5: 9862ce1e440314d6a73a71410d5b5ea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/via_drm.h
+SPDXID: SPDXRef-item830292
+FileChecksum: SHA1: 86798529b309b8771b0f7ef01f12680377af5350
+FileChecksum: MD5: f0b014136c5ea77c888aaa53734ed59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/mach64_drm.h
+SPDXID: SPDXRef-item830293
+FileChecksum: SHA1: ec24bfc2215c88d3977875b3272b46062ce79fd7
+FileChecksum: MD5: a5a1ddc2aa2d0341dcb0e9e55a1ab00f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/drm_fourcc.h
+SPDXID: SPDXRef-item830294
+FileChecksum: SHA1: 5ebff415f694852513cdaee3c57dfb0dcdeff092
+FileChecksum: MD5: 6e612a8f1e92d390d0ce4b20ba5573f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/vc4_drm.h
+SPDXID: SPDXRef-item830295
+FileChecksum: SHA1: cf31c65350e7cb3cb2f2f0319bb22e707636f51e
+FileChecksum: MD5: ea2870ea0691e062a533e441724e3379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/virtgpu_drm.h
+SPDXID: SPDXRef-item830296
+FileChecksum: SHA1: 147cb88d05b509f1054334d1442e28a7073c4f44
+FileChecksum: MD5: 920439cd2549a16227b2e302c5685024
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/drm_sarea.h
+SPDXID: SPDXRef-item830297
+FileChecksum: SHA1: fa8a17c1e4e2b3c4eac539c617dcdaecb16c030c
+FileChecksum: MD5: 04e861951a4247476209ca2cedcc6762
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/i915_drm.h
+SPDXID: SPDXRef-item830298
+FileChecksum: SHA1: dca87ec8ad06147784a964f5dad429896303bb15
+FileChecksum: MD5: 381b60dfda06571e5eb3c1a1c4926998
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/qxl_drm.h
+SPDXID: SPDXRef-item830299
+FileChecksum: SHA1: 229b39c90c22173909d3bedeef496a79e6b73185
+FileChecksum: MD5: cd12349c7f4796f1d6374c9157722460
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/README
+SPDXID: SPDXRef-item830300
+FileChecksum: SHA1: 32f4270044707b5f9a5fbc0ae4e466dd31509b5e
+FileChecksum: MD5: 630c1b44f17255b400ecab994967b096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/radeon_drm.h
+SPDXID: SPDXRef-item830301
+FileChecksum: SHA1: 286e9dc80102d0cd6c9a79f482bfd4b100b0e7c3
+FileChecksum: MD5: d407d4ca2e525489e8d1e06313a32859
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/savage_drm.h
+SPDXID: SPDXRef-item830302
+FileChecksum: SHA1: 82aeab78deb2a403a92d59db79da8060abb57f15
+FileChecksum: MD5: 8bd5d78bf1b0a9c7140057a9a6359a7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/amdgpu_drm.h
+SPDXID: SPDXRef-item830303
+FileChecksum: SHA1: d3a5187f8e7a96f99231614a79120079fa91a6f0
+FileChecksum: MD5: d51f02ab93800d55ff89c7a12d5d3e60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/drm.h
+SPDXID: SPDXRef-item830304
+FileChecksum: SHA1: 61aea29974a6b6ced59b4cd178837b85aa89c917
+FileChecksum: MD5: ac7c2974e032f20fb445061b6599adf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/tegra_drm.h
+SPDXID: SPDXRef-item830305
+FileChecksum: SHA1: 4878dbf49d50b8c87871deab086375b9d1b22eac
+FileChecksum: MD5: 084b09ec4f44db037e4ef038d78f79ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/include/drm/mga_drm.h
+SPDXID: SPDXRef-item830306
+FileChecksum: SHA1: 552559b577c41bec7d517c73b4b748e3cccb4bfe
+FileChecksum: MD5: 0f66e2cc3b69e8229f1b22e3992ff8c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/libkms.h
+SPDXID: SPDXRef-item830308
+FileChecksum: SHA1: 3bd2eece94f7a1494784c44b88a791d3e4859ebb
+FileChecksum: MD5: c6f92c2d68a155a68ac8944de2b40044
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/dumb.c
+SPDXID: SPDXRef-item830309
+FileChecksum: SHA1: d09ac64bf677ad1ec7a5690b4d2e4d7653f5c97c
+FileChecksum: MD5: 9d67842b9cb650b4572a4bca8f4f6a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/linux.c
+SPDXID: SPDXRef-item830310
+FileChecksum: SHA1: c03482550d7bc9c6fa95074e98f7959fa55cb3fa
+FileChecksum: MD5: 5f634318ae7dc1695d314b3921601a6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/Makefile.sources
+SPDXID: SPDXRef-item830311
+FileChecksum: SHA1: fd5cd70bf6a876429d4fe0846814b69572820afb
+FileChecksum: MD5: a4bb0c3ba85dc077f35f7f9b809d8295
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/nouveau.c
+SPDXID: SPDXRef-item830312
+FileChecksum: SHA1: f5cac2f0833fb10dfef0ed12fb1b88297763c6ea
+FileChecksum: MD5: 9410aef8083ca7d3474e1f57ac380f9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/Makefile.in
+SPDXID: SPDXRef-item830313
+FileChecksum: SHA1: c59cc53dd603c28cf64159718a1304518264b37d
+FileChecksum: MD5: 42d35742d7ce9834c89c77373aadcd00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/radeon.c
+SPDXID: SPDXRef-item830314
+FileChecksum: SHA1: 7d88962d55027ba4aabe961a6a4469f1f118ebc4
+FileChecksum: MD5: 1536e33b363c9a30755fcbc0f281bda7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/vmwgfx.c
+SPDXID: SPDXRef-item830315
+FileChecksum: SHA1: 7d282fc5aaabdd90114b96cd04f57da26b2eba65
+FileChecksum: MD5: 4a9fb275faa230759b30712491916854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/Makefile.am
+SPDXID: SPDXRef-item830316
+FileChecksum: SHA1: 3bc0ef2f187fcbf8cd83c4a5609c72c1b255fae5
+FileChecksum: MD5: 3bc1aa8c108ea299f77682259a01206a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/api.c
+SPDXID: SPDXRef-item830317
+FileChecksum: SHA1: 1c26da2d3c0db3e4987ca24ac538014b0bc229d0
+FileChecksum: MD5: b7a7d7222a057a28b9115c910aebd6e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/libkms.pc.in
+SPDXID: SPDXRef-item830318
+FileChecksum: SHA1: c5ab05dd5f389f4e68107608df6c855932697f34
+FileChecksum: MD5: d1e0de68f2b16be38bf10691a37854a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/intel.c
+SPDXID: SPDXRef-item830319
+FileChecksum: SHA1: 9e70863701f126be94ff42874a612a66b6717b83
+FileChecksum: MD5: f5036b56c7b05ac9f6d48c22ecd4979b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/kms-symbol-check
+SPDXID: SPDXRef-item830320
+FileChecksum: SHA1: 9dde103b236a07e652c154795c31fdb7235e858c
+FileChecksum: MD5: 5b9e33366e4bdd43c0b2dce89fe7ea04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/internal.h
+SPDXID: SPDXRef-item830321
+FileChecksum: SHA1: 91d91405699e59da9cae8528ad18b0590075a9f2
+FileChecksum: MD5: 3868cee93651fb6b54ca77e0dab58bdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libkms/exynos.c
+SPDXID: SPDXRef-item830322
+FileChecksum: SHA1: d4359c556a59d499141c197051a49c5e614ac440
+FileChecksum: MD5: 0c4dadb71339324311928f45d684ab92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/util_double_list.h
+SPDXID: SPDXRef-item830323
+FileChecksum: SHA1: 1e6b7bb2f783c767d990f2b6d94759e5d0af42c6
+FileChecksum: MD5: 49cb41ec970786cdee70696fdea24b1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libdrm-2.4.85/libdrm.pc.in
+SPDXID: SPDXRef-item830324
+FileChecksum: SHA1: 5b5aa5d1080ec55ede01dc28e563b56fb85889ce
+FileChecksum: MD5: 381b5926203d8c0f18c5395284702401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/installtests.patch
+SPDXID: SPDXRef-item830325
+FileChecksum: SHA1: 504cd36efbe2fb3f9b3a49ceac4f0b3ba182a43f
+FileChecksum: MD5: 49bf95396b93731dfd299ff01102e71d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-GPL-3.0--with-autoconf-exception
+LicenseName: GPL-3.0+-with-autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

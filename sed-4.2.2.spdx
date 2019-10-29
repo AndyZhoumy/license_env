@@ -1,0 +1,6772 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_sed-4.2.2-r0-patched.tar.gz_1571458508.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:15:08Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: sed
+PackageVersion: 4.2.2
+PackageFileName: sed-4.2.2-r0-patched.tar.gz
+SPDXID: SPDXRef-upload364
+PackageDownloadLocation: http://ftp.gnu.org/gnu/sed/sed-4.2.2.tar.gz
+PackageHomePage: http://www.gnu.org/software/sed/
+PackageSummary: <text>Stream EDitor (text filtering utility)</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>sed version 4.2.2</text>
+PackageChecksum: SHA1: 6d91cfc6ae4a9db97dc6e45d36f5efb25f595958
+PackageChecksum: MD5: fc441e0ad2b2f8eb04feac7ccdb39abc
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload364
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-Unset-need_charset_alias-when-building-for-musl.patch
+SPDXID: SPDXRef-item876438
+FileChecksum: SHA1: 224af7df68fa6a4fb8c5f81bffb344f5101206ee
+FileChecksum: MD5: 01a79d0af07b87887ef99376f77f0df6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/run-ptest
+SPDXID: SPDXRef-item876441
+FileChecksum: SHA1: ca9ddb69c31fa4971670d793a4d9d091dec86bef
+FileChecksum: MD5: 7c81dbb22869c55511da48b3f691f71e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/NEWS
+SPDXID: SPDXRef-item876449
+FileChecksum: SHA1: bcb8984ac5d2f53a1be8903a480c09b315c55f24
+FileChecksum: MD5: 19679033c8988aba09e8d2222fac5735
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/ABOUT-NLS
+SPDXID: SPDXRef-item876452
+FileChecksum: SHA1: b50287b75a3b098301455e34c8d8e52a09fa8938
+FileChecksum: MD5: b5a080b27b5b4c1a160d2bed1fcfaf9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/BUGS
+SPDXID: SPDXRef-item876455
+FileChecksum: SHA1: d7c226dd0ef7cfcd911d5770401fe9036ddac9f2
+FileChecksum: MD5: f828f95eceee5230618dc7e4f59d9fae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/bootstrap.conf
+SPDXID: SPDXRef-item876457
+FileChecksum: SHA1: e7f65ad5e1a5da1bbfe3d2aa4ff7d1588bfa6936
+FileChecksum: MD5: 6c89d5c6d9ce8e62d7a8e01c50baed74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/aclocal.m4
+SPDXID: SPDXRef-item876459
+FileChecksum: SHA1: dc5d6fba23ff9bd67c1d18ce4debdebe840dafc3
+FileChecksum: MD5: ea2e7dc3ecb63470df4e9bca63961855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/Makefile.in
+SPDXID: SPDXRef-item876465
+FileChecksum: SHA1: f7e2b8b3531a49cef261820058b9ca68a4a7c891
+FileChecksum: MD5: 1ce3e9cb0d98dc6f3eaf0d5fc1e78515
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/COPYING
+SPDXID: SPDXRef-item876468
+FileChecksum: SHA1: 842745cb706f8f2126506f544492f7a80dbe29b3
+FileChecksum: MD5: f27defe1e96c2e1ecd4e0c9be8967949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/configure
+SPDXID: SPDXRef-item876471
+FileChecksum: SHA1: 37b1d373eadbc91777575e4118894a082aef61f0
+FileChecksum: MD5: b696d734d0b1249bdf065b3a2984c2a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/THANKS
+SPDXID: SPDXRef-item876473
+FileChecksum: SHA1: 5a4628b7bab3b93a556ab8e5df1cb9cfd63826a3
+FileChecksum: MD5: 31d48eef29f2e56dc6bde258c746bde0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/strerror.m4
+SPDXID: SPDXRef-item876475
+FileChecksum: SHA1: 43e922f65036cf232968c459a08d6ca4992d06f3
+FileChecksum: MD5: d208a1bd829ab5f43615c2a664059452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/wcrtomb.m4
+SPDXID: SPDXRef-item876477
+FileChecksum: SHA1: 098ad2cb4499b718883522f4d355805ed09553c0
+FileChecksum: MD5: dee6f2b68902dfa1f33f852d1965201c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/version-etc.m4
+SPDXID: SPDXRef-item876479
+FileChecksum: SHA1: b90254bb83f89b43e0bb87c4a0dd6bdff71d9dcb
+FileChecksum: MD5: 3f529aa6b0f4a4a004699c473e3a0241
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/stdlib_h.m4
+SPDXID: SPDXRef-item876480
+FileChecksum: SHA1: b081783175c49d1dd089256fee6c09f7ac6d9db9
+FileChecksum: MD5: 99eceff123c90f7bc599ad99ec33e936
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/lstat.m4
+SPDXID: SPDXRef-item876482
+FileChecksum: SHA1: da812e7c5db24ffe9c18a4c10f85a42511669c9e
+FileChecksum: MD5: 85fbad05fc492b0b7358dde05fcae52c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/sys_time_h.m4
+SPDXID: SPDXRef-item876484
+FileChecksum: SHA1: c67fa1e48aba3c55b142904dfc236f14e2897b5d
+FileChecksum: MD5: 19c2c4f0a7323b9e280ed6e8c6f5c73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/threadlib.m4
+SPDXID: SPDXRef-item876485
+FileChecksum: SHA1: 4cbe9f70b603de958d2b4a2124ea2d01baba1e2e
+FileChecksum: MD5: 69571330b080ebe0c465ed29b6e127e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/stdbool.m4
+SPDXID: SPDXRef-item876486
+FileChecksum: SHA1: 45b1a0da79eb9d5934ee6c48b7a8b42adc643965
+FileChecksum: MD5: 20fcd20e53fd4515fc372bb6a4923106
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/mbstate_t.m4
+SPDXID: SPDXRef-item876487
+FileChecksum: SHA1: 5600c45c5b114e863ea2e1cbf817fe723983c4ab
+FileChecksum: MD5: 102c23a4bcb913a6ce9cbf091dcacf6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/unlocked-io.m4
+SPDXID: SPDXRef-item876488
+FileChecksum: SHA1: 536ccfd31cd8be42ce8ae8f31e27df02b12affdf
+FileChecksum: MD5: c8c391fcea11750a8ea2f2eda709b070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/lib-ld.m4
+SPDXID: SPDXRef-item876489
+FileChecksum: SHA1: 7738f4c7407f414188c8fe651363588b0c3fbcff
+FileChecksum: MD5: c9df309d6ad52cf3156e37838dc09a76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/stdarg.m4
+SPDXID: SPDXRef-item876490
+FileChecksum: SHA1: f3bd3a86c3b6e80a75984b0e6a9200d67c4506d4
+FileChecksum: MD5: cce406b28ce070f58d5f88b43a07cc6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/errno_h.m4
+SPDXID: SPDXRef-item876491
+FileChecksum: SHA1: 42c57033a279bb0c01ee1ebc6155d1167aaac9af
+FileChecksum: MD5: 08497f6d9317370bc07dbde291e69155
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/double-slash-root.m4
+SPDXID: SPDXRef-item876492
+FileChecksum: SHA1: 9447ef2b02f473b50c1752a88885eb79b5955341
+FileChecksum: MD5: a6801abc7a0236618f84867927aa3797
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/fcntl_h.m4
+SPDXID: SPDXRef-item876493
+FileChecksum: SHA1: e16d072158434a1e34c4540a22830bf72cefc651
+FileChecksum: MD5: 82e5e76227536529dd01c21cfc9af565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/localeconv.m4
+SPDXID: SPDXRef-item876494
+FileChecksum: SHA1: d335315ca5dea50a4dcca77296de426e9866559b
+FileChecksum: MD5: df2cdbd116472f194b93623902f0735c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/sys_types_h.m4
+SPDXID: SPDXRef-item876495
+FileChecksum: SHA1: b258609798b870686696235aa05d3d645db7ba0a
+FileChecksum: MD5: 53f0d1d3c35506798ce9585a1f5be094
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/readlink.m4
+SPDXID: SPDXRef-item876496
+FileChecksum: SHA1: 74dd925ffb93f27ec02eff0aef712fa8e66c591e
+FileChecksum: MD5: 47a439046e96d54fa9b28ad97e496c07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/wctomb.m4
+SPDXID: SPDXRef-item876497
+FileChecksum: SHA1: bf60293f9baf5e338c4422feb144c82490947070
+FileChecksum: MD5: b2c97937b0c6c0260839f5fd38d220af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/mbtowc.m4
+SPDXID: SPDXRef-item876498
+FileChecksum: SHA1: 1fc1031aa53da8af53a5b7acf1798c5badbc124a
+FileChecksum: MD5: 8005aea13b4d012fadd9146f05522bd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/malloc.m4
+SPDXID: SPDXRef-item876499
+FileChecksum: SHA1: 86bcf8f48c98f059333f3913532e779068228b70
+FileChecksum: MD5: 20ef7c3a22600545c2bbb1f41f757752
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/selinux-context-h.m4
+SPDXID: SPDXRef-item876500
+FileChecksum: SHA1: aa294e5071b7d557a792f103aad7845f8fd17011
+FileChecksum: MD5: 8f9bd26102b3b742d565dd7f7730c15f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/wchar_h.m4
+SPDXID: SPDXRef-item876501
+FileChecksum: SHA1: acdb32f173d4ad5614b2a980c8a9837a8f06b043
+FileChecksum: MD5: 0fd6c91e9d5d09676ba172e282bd1ddc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/codeset.m4
+SPDXID: SPDXRef-item876502
+FileChecksum: SHA1: bb2808247a47143d5681988a6ef108ed151c404a
+FileChecksum: MD5: 44e4d3e20816e4ede69ef6ecd1e34f7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/stdint.m4
+SPDXID: SPDXRef-item876503
+FileChecksum: SHA1: fc6c2b41b8c8084f26f3430ed01bd5cb3ad8218c
+FileChecksum: MD5: afe6cb217ae4d37611fc31197a49141f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/mbrlen.m4
+SPDXID: SPDXRef-item876504
+FileChecksum: SHA1: dba49fd2e490e81733f2bf5bb71203275b6c627b
+FileChecksum: MD5: 6e544ab1f5891af4dd4c69fff56af0c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/progtest.m4
+SPDXID: SPDXRef-item876505
+FileChecksum: SHA1: 69e583ead4d197b76e3f23f4fcb3840b865dc962
+FileChecksum: MD5: 5c99b20a93cd36c0407d999da9f61bf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/gettimeofday.m4
+SPDXID: SPDXRef-item876506
+FileChecksum: SHA1: 00ac32c9661e2c9c92757264e646c5f77c55cba1
+FileChecksum: MD5: 482183773937197d577ed5df4e9692df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/stdio_h.m4
+SPDXID: SPDXRef-item876507
+FileChecksum: SHA1: 901db8b63a34988ac400d46d8a5ae2cf1b4f24ea
+FileChecksum: MD5: 3d197a2a3278b3fd02ca549dfd7333d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/wctype_h.m4
+SPDXID: SPDXRef-item876508
+FileChecksum: SHA1: dd87ce000ee770b8ed128b8594b92091908454e4
+FileChecksum: MD5: 89f3dfe60ea2912f78c844cdd47baf0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/time_h.m4
+SPDXID: SPDXRef-item876509
+FileChecksum: SHA1: c13928d28a8eeab7cabd84c2f9772ed4e9c98b7a
+FileChecksum: MD5: e30092b5a29a03a2ab10cc3e90fea1cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/gnulib-comp.m4
+SPDXID: SPDXRef-item876510
+FileChecksum: SHA1: e093967ba6e6965eed5f4a4677837a44f3e689fc
+FileChecksum: MD5: ef95fa2ad1b9d774c3d5b6326fd8632b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/mmap-anon.m4
+SPDXID: SPDXRef-item876511
+FileChecksum: SHA1: b4118ad8f3c412196928483492cae7890ac41312
+FileChecksum: MD5: 89f4c4b9d609dc52d87ea9664a5ccfc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/error.m4
+SPDXID: SPDXRef-item876512
+FileChecksum: SHA1: ee03f71a678a98567655ff52d35d211c8b1b547c
+FileChecksum: MD5: b879468a6d53b0b6e17a4b60b9033946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/configmake.m4
+SPDXID: SPDXRef-item876513
+FileChecksum: SHA1: b6509e6be22742025384cc9bb059dc2f5b701549
+FileChecksum: MD5: 72f23bf16c8420fa018b7de50324d61a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/string_h.m4
+SPDXID: SPDXRef-item876514
+FileChecksum: SHA1: 415b92e8c5a32bdd691ebfd11881dcdb294df9e9
+FileChecksum: MD5: 357f2fb047fb386598a35e660ee51b11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/getopt.m4
+SPDXID: SPDXRef-item876515
+FileChecksum: SHA1: 42a26209079f6ab1fe2eb3785474edc30c2bc2b0
+FileChecksum: MD5: c787983dc30a41b936cbc1a2f0253f2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/lib-link.m4
+SPDXID: SPDXRef-item876516
+FileChecksum: SHA1: 97ecd8fe75ae6b4103b35661efde195ef867f283
+FileChecksum: MD5: 45233798e36ba93680b11424db02205b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/ssize_t.m4
+SPDXID: SPDXRef-item876517
+FileChecksum: SHA1: c021b6f5cff4ce05a58f18681b4938c8f5fb14a4
+FileChecksum: MD5: 3bac45563a87f07d06ce5152d1480673
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/alloca.m4
+SPDXID: SPDXRef-item876518
+FileChecksum: SHA1: 42bb85e45332ffbc4f9b987cfe4dfd4d730d0d13
+FileChecksum: MD5: 9cac3a7f313170d7db64c7f31c533d31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/iconv.m4
+SPDXID: SPDXRef-item876519
+FileChecksum: SHA1: 23a762100d7a88622c6022460671f02116d14acc
+FileChecksum: MD5: 5a1f57218c19aabcaefa8cc310be1bff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/pathmax.m4
+SPDXID: SPDXRef-item876520
+FileChecksum: SHA1: 1bfefdd7011fa9ac827ca0f3290e375359b113fc
+FileChecksum: MD5: d90b3cd67c3ad427c140b554e97c8fa5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/locale-zh.m4
+SPDXID: SPDXRef-item876521
+FileChecksum: SHA1: 8a0adfd5afbb75954b6074248dc1778e3280534c
+FileChecksum: MD5: cd90e0e86fc7e44f9eff252a3f86e7d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/fwriting.m4
+SPDXID: SPDXRef-item876522
+FileChecksum: SHA1: b8f30b67dc29459376f864a0b876a571e1ec9c90
+FileChecksum: MD5: d8e65e8bcef74382c23f102f2d9b1667
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/rename.m4
+SPDXID: SPDXRef-item876523
+FileChecksum: SHA1: 6d06e20d4906e123ffd9b48adfa3b3ecbd11d6f4
+FileChecksum: MD5: b9ae3d2ee9ca2a7b52a8ad37bdab636e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/xalloc.m4
+SPDXID: SPDXRef-item876524
+FileChecksum: SHA1: 167f0a5e6aed3bd1a64e303d3185bbe627f3791b
+FileChecksum: MD5: 8a690ac4c71f9464e5f3736fec9243c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/off_t.m4
+SPDXID: SPDXRef-item876525
+FileChecksum: SHA1: 39669668c0fc74960a81cd9c871c16a72c24b6b1
+FileChecksum: MD5: cd8fb8ca5545f0d5987f6e4b869c9b94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/unistd_h.m4
+SPDXID: SPDXRef-item876526
+FileChecksum: SHA1: f358227a706e248692140b08d0df1b6cf9c8f9fe
+FileChecksum: MD5: 48726ae5be94af813de1f06e1ed97c63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/getdelim.m4
+SPDXID: SPDXRef-item876527
+FileChecksum: SHA1: 8de81ddefe569b571288aa3bb622c40f801917ce
+FileChecksum: MD5: bf86a9f2e85b7e836d46a3a43408afb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/locale-fr.m4
+SPDXID: SPDXRef-item876528
+FileChecksum: SHA1: 8b75f48686e130a9296c866b4071fa5c127a4690
+FileChecksum: MD5: 0fa246d1afd71c819225b4351f92cadd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/extensions.m4
+SPDXID: SPDXRef-item876529
+FileChecksum: SHA1: bb2d6d9726150cfd8c3d6380f60411814a18eb33
+FileChecksum: MD5: 1da7a16baf24c3d47bcb917495d51818
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/btowc.m4
+SPDXID: SPDXRef-item876530
+FileChecksum: SHA1: f50747ec681bf67e7c056598bebad0b16f1f40ee
+FileChecksum: MD5: 8a73acd827230e859a9f8c21ae2a8eb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/nl_langinfo.m4
+SPDXID: SPDXRef-item876531
+FileChecksum: SHA1: 0a593d1966665c8706e73c1bed27ed4baf31dc4f
+FileChecksum: MD5: 8e5f2f00cb17a26fdc86fe40776424c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/locale_h.m4
+SPDXID: SPDXRef-item876532
+FileChecksum: SHA1: 6c528539cc768b2094221b3f07838bc67c699a3d
+FileChecksum: MD5: 18b62270fc802d7ecbbb20efe7f83426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/nocrash.m4
+SPDXID: SPDXRef-item876533
+FileChecksum: SHA1: eb64a0e6dc90ee9b308ab1df67128905fde896b9
+FileChecksum: MD5: 5ef76e0b75c8a232f0b2e4934d85f657
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/msvc-inval.m4
+SPDXID: SPDXRef-item876534
+FileChecksum: SHA1: ea28d6ef04cc6f4c9572737686410efa5da900d4
+FileChecksum: MD5: 3b8b404e56545be8cacb35376a8d9a63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/wctob.m4
+SPDXID: SPDXRef-item876535
+FileChecksum: SHA1: 2c9a8280bccefce43f266b710676f7150da65307
+FileChecksum: MD5: 72dc52c478606bfe7106285b53771871
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/malloca.m4
+SPDXID: SPDXRef-item876536
+FileChecksum: SHA1: 3f096fd8e6ff14bd8124fbb0029d01ee110a9dd8
+FileChecksum: MD5: b3867dca2b7a909f48eba70d480ae020
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/largefile.m4
+SPDXID: SPDXRef-item876537
+FileChecksum: SHA1: 041334e79c850458e399c749c495827b448f19e1
+FileChecksum: MD5: e17754c34b4f688bf94314af70e45271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/msvc-nothrow.m4
+SPDXID: SPDXRef-item876538
+FileChecksum: SHA1: 3d5bbccc2a5a243eb7e5e39aaa472003a05f1dc1
+FileChecksum: MD5: 0238518373093197ca844b667b7dd47e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/wint_t.m4
+SPDXID: SPDXRef-item876539
+FileChecksum: SHA1: 03fc1f48a4ba22e77c602b004f4a396aa58d72a7
+FileChecksum: MD5: 05144387efe258c63716402def36a920
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/longlong.m4
+SPDXID: SPDXRef-item876540
+FileChecksum: SHA1: d514f96edfed8fb8bedfbc6aed60c4a54e849763
+FileChecksum: MD5: 02aa9e71068cf3f2f1c078d4bc38f596
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/glibc21.m4
+SPDXID: SPDXRef-item876541
+FileChecksum: SHA1: 11cbec4c9c84d54423bbb2a7f1761cdf4710a063
+FileChecksum: MD5: aec2f86cb9ae0120611bb074fe1aedf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/regex.m4
+SPDXID: SPDXRef-item876542
+FileChecksum: SHA1: faf1250d6867c5d860f3f98a00e013d8c88028a5
+FileChecksum: MD5: 325f357e77476f971269706c2115c225
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/acl.m4
+SPDXID: SPDXRef-item876543
+FileChecksum: SHA1: 14429b2265ca624d8088993b6912ea237bef702c
+FileChecksum: MD5: e7c6d5d9be0dd66f0e036f25fe3c76b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/eealloc.m4
+SPDXID: SPDXRef-item876544
+FileChecksum: SHA1: dee7d30faa3ca7aad29af4a7596ab91fc329ce6b
+FileChecksum: MD5: 74b683bd4b747f15f5ca561ad29fa05e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/memchr.m4
+SPDXID: SPDXRef-item876545
+FileChecksum: SHA1: 91f8e9fc6f359157c03b88e90ba158ad3ae76eb2
+FileChecksum: MD5: 8ed0368562c75d62fe48fe81933eb8e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/po.m4
+SPDXID: SPDXRef-item876546
+FileChecksum: SHA1: fbccd4e823b6f70d0664f4ef430656cc3e0c465a
+FileChecksum: MD5: bfd598228a56ed0790368a759ac34129
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/fstat.m4
+SPDXID: SPDXRef-item876547
+FileChecksum: SHA1: 9d832a6132f056baa3a781a19d2f0d9745ca32ca
+FileChecksum: MD5: c91f67245f7962b66b73d1e804db715a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/dirname.m4
+SPDXID: SPDXRef-item876548
+FileChecksum: SHA1: 7d35759345056cb5e65d709dd4af4e35d26132b0
+FileChecksum: MD5: 675d3a53c1d5c5b8eb12f8714ca264c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/wchar_t.m4
+SPDXID: SPDXRef-item876549
+FileChecksum: SHA1: ee4111f685845072d3f4414c7aacf07d2ccc13f6
+FileChecksum: MD5: da56b205f4209d24fdd88ad067698477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/strverscmp.m4
+SPDXID: SPDXRef-item876550
+FileChecksum: SHA1: 0384132b807ad5e352dd987a52e876fed1193f86
+FileChecksum: MD5: 9cbcc975469ce4d152fff9b1920c0ee5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/langinfo_h.m4
+SPDXID: SPDXRef-item876551
+FileChecksum: SHA1: 6a5132844a9a834433cf1faee5df6ad2d4bc9c04
+FileChecksum: MD5: 2149b2607c78601314536b8414713ca3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/locale-ja.m4
+SPDXID: SPDXRef-item876552
+FileChecksum: SHA1: a3a934bfbacfb5d1be6342ac764042cc5157798c
+FileChecksum: MD5: 46d468c214c1da419edf3d88ec3a262b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/00gnulib.m4
+SPDXID: SPDXRef-item876553
+FileChecksum: SHA1: 6752d2497784e056c91da83d318ec71ca2071eed
+FileChecksum: MD5: f47203041f28e08e677013e187cd4d7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/fcntl-o.m4
+SPDXID: SPDXRef-item876554
+FileChecksum: SHA1: dca17a29f65b5a7fe5557ef7fb880aeb23864f7c
+FileChecksum: MD5: f322fdccab17ea93cdccf0d48168e7c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/nls.m4
+SPDXID: SPDXRef-item876555
+FileChecksum: SHA1: 2b1610a90feefa3ffb4f857d517a7bd3f6ccfb81
+FileChecksum: MD5: c2a90984a3ff2e9bd3fabadfc0bb80e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/mkostemp.m4
+SPDXID: SPDXRef-item876556
+FileChecksum: SHA1: b2f148b51c9563e7a87202228d25870dc6061399
+FileChecksum: MD5: 229099f15113626b109d0d873ff445bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/rmdir.m4
+SPDXID: SPDXRef-item876557
+FileChecksum: SHA1: 5157d8e9b4647cb7b643e1e779bcb8483c2d4ecf
+FileChecksum: MD5: c25d594a7bac42b5206fa2914373b036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/lib-prefix.m4
+SPDXID: SPDXRef-item876558
+FileChecksum: SHA1: f841d1ec2e972a50861d5aeacd31fb0687cc1e0b
+FileChecksum: MD5: 59ea519067e2a1bed76c82972c8701c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/localcharset.m4
+SPDXID: SPDXRef-item876559
+FileChecksum: SHA1: dd4b943730afa3ad7db3b8473e4694b69def22e5
+FileChecksum: MD5: 461e40d856adc3703f010e8ca5115e0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/quote.m4
+SPDXID: SPDXRef-item876560
+FileChecksum: SHA1: 249c83e1baf9552b39f04de88bda2448d366045c
+FileChecksum: MD5: 4e271a8824b9bc6253013be9d73f3373
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/gettext.m4
+SPDXID: SPDXRef-item876561
+FileChecksum: SHA1: f07d3ef8e89e5f2b28105ebb93a28f67fd8ac4f0
+FileChecksum: MD5: 6dddf28f1cc7f80a15cbf75613b4d85b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/sys_socket_h.m4
+SPDXID: SPDXRef-item876562
+FileChecksum: SHA1: 76d76585e05f06f547de4c65b86c70e128c2ac16
+FileChecksum: MD5: c6c4f7e2602d13a11298a968a0a65a91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/gnulib-common.m4
+SPDXID: SPDXRef-item876563
+FileChecksum: SHA1: 5de58b6e6b0683b9897c147f393688a9d1f6c601
+FileChecksum: MD5: b9e527c24e819c4784eceb5159696e96
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/stddef_h.m4
+SPDXID: SPDXRef-item876564
+FileChecksum: SHA1: f6daa516d32c37a00b68aa7b312559649fb9370f
+FileChecksum: MD5: 263711ce3f4faee8204ba3f9affb05b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/include_next.m4
+SPDXID: SPDXRef-item876565
+FileChecksum: SHA1: 2f4f696d71435f7672fd66ece06db38198c341e1
+FileChecksum: MD5: f056ec4e1a4ef7b357ba8c1966c4c6f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/mbrtowc.m4
+SPDXID: SPDXRef-item876566
+FileChecksum: SHA1: 8e9a1ab466f0616f3dce494535a36cc2173e6f4c
+FileChecksum: MD5: 1c253c8e3a286ebd512090e26f75c6e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/realloc.m4
+SPDXID: SPDXRef-item876567
+FileChecksum: SHA1: 33b44b78d3ca597b2f9510d05464acef4beaf7f2
+FileChecksum: MD5: aee102a2dd8c136f60214a70492186af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/warn-on-use.m4
+SPDXID: SPDXRef-item876568
+FileChecksum: SHA1: 7a13ade84a372f5acd536dbb773178a8b45342ff
+FileChecksum: MD5: 13ab2498ab9d32b4868dfc5c542ea690
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/multiarch.m4
+SPDXID: SPDXRef-item876569
+FileChecksum: SHA1: 75470a79027c457ec9b280e94988924a0d868b77
+FileChecksum: MD5: 4f2196ec93490afbe054b2005fae7036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/mbsinit.m4
+SPDXID: SPDXRef-item876570
+FileChecksum: SHA1: fd79cc425fb81fc0880a25975a73c59349c4e857
+FileChecksum: MD5: fc621b23ef2325b1a59a974b8d416cde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/stat.m4
+SPDXID: SPDXRef-item876571
+FileChecksum: SHA1: 4d64b3379136049e672eff5030f32bbfc4b21d67
+FileChecksum: MD5: 11ef424b5621d68f2a0e69dd43ac4050
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/sys_stat_h.m4
+SPDXID: SPDXRef-item876572
+FileChecksum: SHA1: 50d4dd302d45d89cd1a5c29ec0dbf0b5c1aaf1c8
+FileChecksum: MD5: fe2f594b1e2defee421463d694bfc352
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/quotearg.m4
+SPDXID: SPDXRef-item876573
+FileChecksum: SHA1: 59ada8e54acc8f699c13e6b527b9008b8b3fca47
+FileChecksum: MD5: 72dfd7d4fe33afe05b00e2fa0c763317
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/selinux-selinux-h.m4
+SPDXID: SPDXRef-item876574
+FileChecksum: SHA1: 5a21b21e5283407148820f3d45e1487c0ed549f2
+FileChecksum: MD5: 4b0c16754c80de7979fa2550f682782c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/extern-inline.m4
+SPDXID: SPDXRef-item876575
+FileChecksum: SHA1: aa47748ab2ac26249cb5848620688212278e1267
+FileChecksum: MD5: 13f73f4b3cf6716c2822f10a78d624ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/tempname.m4
+SPDXID: SPDXRef-item876576
+FileChecksum: SHA1: e3b015a3d416ff4133017dee2ddb372ccbc30587
+FileChecksum: MD5: 2542ce236930a02b1b5a5122c3c9ff40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/intlmacosx.m4
+SPDXID: SPDXRef-item876577
+FileChecksum: SHA1: b3de94f52dee35dc404ce73ef89ddc0842523c0c
+FileChecksum: MD5: 8baf1fbb61253107131a16b2be850e62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/m4/canonicalize.m4
+SPDXID: SPDXRef-item876578
+FileChecksum: SHA1: f1de6af703e44aded7fb791daa22aa27c449837f
+FileChecksum: MD5: c8a18953e0a9bcf6a72ab1a4a16baa65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/strverscmp.c
+SPDXID: SPDXRef-item876580
+FileChecksum: SHA1: c164224c6be478c95473eb7595e76708bdc01ed4
+FileChecksum: MD5: 0b1203c586206bb31b845787bcaaa2ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stat-macros.h
+SPDXID: SPDXRef-item876581
+FileChecksum: SHA1: 4cb23b59629542a8fcbd45e415274ac38e14a079
+FileChecksum: MD5: 0044536831a5a8b69c06fc908b4fba6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/dirname.h
+SPDXID: SPDXRef-item876582
+FileChecksum: SHA1: 71ca9da1fc4d200c5452aa508ae17d7ba4ae880b
+FileChecksum: MD5: 99b2bc2ba0c2ad2b1d77b962a0ace677
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/version-etc-fsf.c
+SPDXID: SPDXRef-item876583
+FileChecksum: SHA1: 024dd247b5fddeb42c48d55f4755eb2d4ae13450
+FileChecksum: MD5: 93f08175565e849ce4123e25dac2e400
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/c-strncasecmp.c
+SPDXID: SPDXRef-item876584
+FileChecksum: SHA1: 940c40ea5c26377725b82f7fd1ba57ae0099b904
+FileChecksum: MD5: 180662aebe027571bcb1480626772bff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/mbrtowc.c
+SPDXID: SPDXRef-item876585
+FileChecksum: SHA1: ba886869d257fe7715b6190e50559c94636cca76
+FileChecksum: MD5: 4939cdb1edcc1605443575b6600768f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/error.c
+SPDXID: SPDXRef-item876586
+FileChecksum: SHA1: 01ea3b02b7c59e979348d974a23fdedfdfe21b9d
+FileChecksum: MD5: 65b0be761fab85ffb93b0654c53090a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/tempname.h
+SPDXID: SPDXRef-item876587
+FileChecksum: SHA1: fae20e5d6d6e290ff0194b36f3c1eeba64f99b43
+FileChecksum: MD5: ddcb2570e751416fffd6250a00ac977c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/streq.h
+SPDXID: SPDXRef-item876588
+FileChecksum: SHA1: 0ef98f6768c403f7db6eea36b1395bb614e4a676
+FileChecksum: MD5: cd4cefed2cad1e85b8e9f02af303b707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/msvc-nothrow.c
+SPDXID: SPDXRef-item876589
+FileChecksum: SHA1: db15011e55cf0c6deebfa46e871895d7bed26c0c
+FileChecksum: MD5: fbfcd4a1722c1b968dc6d0305f297eae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/readlink.c
+SPDXID: SPDXRef-item876590
+FileChecksum: SHA1: 8513a582173f36b9de9962c10dbe95e8ae482406
+FileChecksum: MD5: 55ba6d377e434c9b35ee3fdbbe781914
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/error.h
+SPDXID: SPDXRef-item876591
+FileChecksum: SHA1: 1b4e6bf4bf58cb25baee28e1802e1f2fe4408507
+FileChecksum: MD5: 84e76bbeff3eba329f2a83bb9cf9419c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/sys_types.in.h
+SPDXID: SPDXRef-item876592
+FileChecksum: SHA1: 6f86263cf1c7a2cbf339caabbb2e75ce8f6dd8d4
+FileChecksum: MD5: 0fdb8889d3141fc50058d9f5eb6add11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/config.charset
+SPDXID: SPDXRef-item876593
+FileChecksum: SHA1: 4ce550ccb66ad0a204e696a5ba2484ce9b9c3c03
+FileChecksum: MD5: 937fa61c33c9be1fb22929622daee850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/regex.h
+SPDXID: SPDXRef-item876594
+FileChecksum: SHA1: 55a161fc1dfd9f0c28cbcfc152da25d074c7c034
+FileChecksum: MD5: 97904b7900f3203f15688eb757796154
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/regex.c
+SPDXID: SPDXRef-item876595
+FileChecksum: SHA1: 5f0c6d087cbd1c31d4014997cea2f15481aa8f16
+FileChecksum: MD5: 6699fb560ab51382eedaa6ccfbedf506
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/nl_langinfo.c
+SPDXID: SPDXRef-item876596
+FileChecksum: SHA1: 4ec6d3ccf23ee70af107794b088ad167b8a083ac
+FileChecksum: MD5: 1971e20a5baccd964740496c096890ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/getdelim.c
+SPDXID: SPDXRef-item876597
+FileChecksum: SHA1: b207794904a1eeed08eefd104ca3dbe8aabc0b69
+FileChecksum: MD5: e008c56935d31f477cd601e1f7b2f1f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stdbool.in.h
+SPDXID: SPDXRef-item876598
+FileChecksum: SHA1: 9c883ac49ddc414bf1b0bc2af878df00e81a9a2e
+FileChecksum: MD5: 4e6181950a36e770e637345e663770a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/strerror-override.c
+SPDXID: SPDXRef-item876599
+FileChecksum: SHA1: 3cbdb5f2dfbe3ae62083938a958a06ff0e4c552e
+FileChecksum: MD5: b2ea706d5ff8d32c72ed1f0bd8de1fb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/basename-lgpl.c
+SPDXID: SPDXRef-item876600
+FileChecksum: SHA1: 08435e8d6902244147ebac055bb58f49a9683eec
+FileChecksum: MD5: e5794b7c9ce8e157c436195a71827bbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/localcharset.c
+SPDXID: SPDXRef-item876601
+FileChecksum: SHA1: 75e9df71d015dfd7525745c5e012b2eb1b067073
+FileChecksum: MD5: c97312208d7ffa420f3cdc659dede71d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/acl.h
+SPDXID: SPDXRef-item876602
+FileChecksum: SHA1: 272175d8b14c683914cae73a30cf5dc70c9cb335
+FileChecksum: MD5: d5637688b53f3a2a637263c0dfd8f13f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/strerror-override.h
+SPDXID: SPDXRef-item876603
+FileChecksum: SHA1: d2e79121e9a1122cdb3e70217f10263c676f20ad
+FileChecksum: MD5: 30bd3a8cbc94ae7b7b12d5a86a3c3518
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/gnulib.mk
+SPDXID: SPDXRef-item876604
+FileChecksum: SHA1: 17e5f432ba3b11ccc89ce0b0b0832f10aa36378b
+FileChecksum: MD5: f2a17b993e812a664bf517d6ca192134
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/wctob.c
+SPDXID: SPDXRef-item876605
+FileChecksum: SHA1: b9401ce70d27009e4f607c8065578299b6cf86f2
+FileChecksum: MD5: 37c268a82c0129db79e39a64b5e46959
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/unlocked-io.h
+SPDXID: SPDXRef-item876606
+FileChecksum: SHA1: 7f0700acf850c0a869c467dad9bcd1312ed65856
+FileChecksum: MD5: 73f63ea13a8598abc16c3c90de57d382
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/msvc-inval.h
+SPDXID: SPDXRef-item876607
+FileChecksum: SHA1: 20f386b805d3d478c75a86ae7d1facf365120fc5
+FileChecksum: MD5: 1b6fb85543b2da73372156b0a3e0a7a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/pathmax.h
+SPDXID: SPDXRef-item876608
+FileChecksum: SHA1: 18ec3923aeb71b08be590393454872b1b0c3c295
+FileChecksum: MD5: 3186568fba2df477c038ed80f6fab28c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stdio.in.h
+SPDXID: SPDXRef-item876609
+FileChecksum: SHA1: 33e7e06d7755e1d1a1d0e1d4f791968febf0481a
+FileChecksum: MD5: 2023824674d39ffbb8204e08693138f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/acl_entries.c
+SPDXID: SPDXRef-item876610
+FileChecksum: SHA1: a16de15adfdb78ad0249b82d8f0901546fd01e47
+FileChecksum: MD5: 729b6a4727d8667dcbd8682da7c309b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/same-inode.h
+SPDXID: SPDXRef-item876611
+FileChecksum: SHA1: 7619ae6e5d564f0a098511571e97ff07eb04505f
+FileChecksum: MD5: 896c1fbccdc166cb67f5845161fa9d66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/version-etc.h
+SPDXID: SPDXRef-item876612
+FileChecksum: SHA1: 9db469996a132b0c6eae4b4c2973b81293d8d38e
+FileChecksum: MD5: cb7bf9a7494ff5af6af07490e9d74fc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/langinfo.in.h
+SPDXID: SPDXRef-item876613
+FileChecksum: SHA1: 80678a53ffb3f3b3de1a3a3478f376c92260a012
+FileChecksum: MD5: 7f4ac6764d134db4e85a7ddb34d01a65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/Makefile.in
+SPDXID: SPDXRef-item876614
+FileChecksum: SHA1: 0741833389938758c3d142b008741add8178f28f
+FileChecksum: MD5: 6a6bda5167be7e4abacccc5a50ad6a12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-GPL-with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/quotearg.h
+SPDXID: SPDXRef-item876615
+FileChecksum: SHA1: 39ce0696f8c53eb97c1b2a8e64233a5ff71d4d44
+FileChecksum: MD5: 88bfb22b8e8abf613412e8fdc70462b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/mbtowc.c
+SPDXID: SPDXRef-item876616
+FileChecksum: SHA1: 51e2c823f73e92701a5fc13a588b8cba5e03d63c
+FileChecksum: MD5: e2a9c8d8ec29a5533bedc716a2532503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/version-etc.c
+SPDXID: SPDXRef-item876617
+FileChecksum: SHA1: 66a7933a41a06fd8ed16d3bea3687ff86a044058
+FileChecksum: MD5: 8718088a5137c69fedc1334e23c2653d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/regcomp.c
+SPDXID: SPDXRef-item876618
+FileChecksum: SHA1: 879e3300746ba120cc25bc47d99ea0679d67b182
+FileChecksum: MD5: a388d7d61fadb5e945fe537005fa6816
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stddef.in.h
+SPDXID: SPDXRef-item876619
+FileChecksum: SHA1: 592ca86775c32366f05802132301879041eb7149
+FileChecksum: MD5: c166f665a216f14dde26c6ee451f16f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/gettext.h
+SPDXID: SPDXRef-item876620
+FileChecksum: SHA1: 36c8e1fcb8146677cf6c60f77810d19c53c4b148
+FileChecksum: MD5: 2ce494384eb5b0240ec229928e0ed20e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/xalloc-oversized.h
+SPDXID: SPDXRef-item876621
+FileChecksum: SHA1: 2aad118cc63689bbec7a59c9b4f1a59154a3f0b3
+FileChecksum: MD5: 1b5a6426b22e151fdd4e183e82ef3191
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/canonicalize-lgpl.c
+SPDXID: SPDXRef-item876622
+FileChecksum: SHA1: dd37e84459e82444a701da5eff04edfe9c787054
+FileChecksum: MD5: 3094051c2b6c607ccf6ce4887d6934c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/memchr.c
+SPDXID: SPDXRef-item876623
+FileChecksum: SHA1: f4216dda3340e816bf4dbe0a6ac6ff08c2923453
+FileChecksum: MD5: 7241fcfeea53eb9078d70b507b2579e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/regex_internal.c
+SPDXID: SPDXRef-item876624
+FileChecksum: SHA1: f3d4ffcc0aeaaab91659640a93ee62a2548b6c6b
+FileChecksum: MD5: 31d0cda974fbed49b22be4601cd46d00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stat.c
+SPDXID: SPDXRef-item876625
+FileChecksum: SHA1: 3ce5dec82a651dc65fcc36cf58445dd1105fb26a
+FileChecksum: MD5: 365a5eb723d3c0145b1292ddfb468f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/dirname-lgpl.c
+SPDXID: SPDXRef-item876626
+FileChecksum: SHA1: dd29d7dae539f2472c126b303fcde746b6d5c88c
+FileChecksum: MD5: d4bf211d2e08c58ffca443a148fdf73e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/c-ctype.c
+SPDXID: SPDXRef-item876627
+FileChecksum: SHA1: b5c49b14dc87aee09abcbe0a196d8db72a39e779
+FileChecksum: MD5: 5e5b1f9ad4fdcd64d79602ca1b662b09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stdio-impl.h
+SPDXID: SPDXRef-item876628
+FileChecksum: SHA1: b17e8ba2061ac233cdb4da679d9ed74e5529f97f
+FileChecksum: MD5: 19b4e66989d3b0adac9aeb02f3ba351d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/tempname.c
+SPDXID: SPDXRef-item876629
+FileChecksum: SHA1: bee710bfce761d1d62d09f2fd442a66abfc6a65f
+FileChecksum: MD5: bfd3bf922ee4f5500698d1d544dc9083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/rmdir.c
+SPDXID: SPDXRef-item876630
+FileChecksum: SHA1: 0ff40f8aeede22d49906b5687f76b4bdb0b14af2
+FileChecksum: MD5: d1908c575029776bc604d97891d30ef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/se-context.c
+SPDXID: SPDXRef-item876631
+FileChecksum: SHA1: a32f486133aee2687c2e4b4a2c49a68f28037eb7
+FileChecksum: MD5: 0580ba4c6700fe9b6a1fa8b72650a79b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/malloca.c
+SPDXID: SPDXRef-item876632
+FileChecksum: SHA1: e3ee38178376aa7a744b0b9888eb824ba080e5eb
+FileChecksum: MD5: 788c0e428ef5b74ba511507189e0a9c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/xmalloc.c
+SPDXID: SPDXRef-item876633
+FileChecksum: SHA1: b890c3d71f3f4006aa95e6a12d51ba39834b60e2
+FileChecksum: MD5: fa0d4f1b99d33e21516013d04b038c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/fwriting.h
+SPDXID: SPDXRef-item876634
+FileChecksum: SHA1: ff33a010127b759ac3568dbea925f8c4dba8040d
+FileChecksum: MD5: 7e24d37aef3312fdc5fca312eb64aa93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stdlib.in.h
+SPDXID: SPDXRef-item876635
+FileChecksum: SHA1: b85251e929d1c5bef91a4156b935fc3fbd88c106
+FileChecksum: MD5: 637f55da5d9e9f734c77f28e4d4ac85d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/msvc-nothrow.h
+SPDXID: SPDXRef-item876636
+FileChecksum: SHA1: 74e389f850a8ed1740f4f278ab496a0080cf470f
+FileChecksum: MD5: af3edd3997158d2185dc587f21e1b9d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/string.in.h
+SPDXID: SPDXRef-item876637
+FileChecksum: SHA1: f4e8acdd6ca3aed86fb66bd8f1d20873226e7dc8
+FileChecksum: MD5: 0e997509946058f6dce6bd8dea1bf18e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/malloc.c
+SPDXID: SPDXRef-item876638
+FileChecksum: SHA1: 6ba50eb42b8d6fda9574ab312448cd1df1e3f5d2
+FileChecksum: MD5: fe3c37fe155da2dd76ae6dc740c06d3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/getopt_int.h
+SPDXID: SPDXRef-item876639
+FileChecksum: SHA1: 26046a860f38f1e671005ba4814fa6c1dfe521fb
+FileChecksum: MD5: 675d72ad5eb2958937d5ea7b01611733
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/fstat.c
+SPDXID: SPDXRef-item876640
+FileChecksum: SHA1: 687eef71b6dc49bda9551bbe3cc44402d844ccb3
+FileChecksum: MD5: 44a1abf94f12878a8e0262fc6d8e63d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/quotearg.c
+SPDXID: SPDXRef-item876641
+FileChecksum: SHA1: 85da462240b4f30024c2ebf94717841e4343edf9
+FileChecksum: MD5: bc8fd99da092711c9e757613019c68ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/mbrlen.c
+SPDXID: SPDXRef-item876642
+FileChecksum: SHA1: 1039accb7517789a855aa06b00a804d46da809e0
+FileChecksum: MD5: 627ba87e2fe3243533360917080154a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/fwriting.c
+SPDXID: SPDXRef-item876643
+FileChecksum: SHA1: 5655e4ab3ba2332c293684ad56358f987738c1af
+FileChecksum: MD5: 50b737afc49ea29ce35f9d3a3305b82a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/rename.c
+SPDXID: SPDXRef-item876644
+FileChecksum: SHA1: d5652f84be0656be44955827c0f8fd3c755abca6
+FileChecksum: MD5: 4380c0b368295ae352a9154ed8c50cc0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/Makefile.am
+SPDXID: SPDXRef-item876645
+FileChecksum: SHA1: 9ed0e62c1f55c78664dd44d039199aa248ba22f4
+FileChecksum: MD5: a0b02efb50e8105e99ed3bf23057e40b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/c-strcasecmp.c
+SPDXID: SPDXRef-item876646
+FileChecksum: SHA1: d18d0691b5ebcbd95e2c04885db04b3384738a8c
+FileChecksum: MD5: 32d7b7b63373873f647a24020a44640d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/malloca.valgrind
+SPDXID: SPDXRef-item876647
+FileChecksum: SHA1: 54e05e503f510275db84c3a7e03b8f1ff8f5adb8
+FileChecksum: MD5: 4afc2077562f87bda203559b54de3d23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/dosname.h
+SPDXID: SPDXRef-item876648
+FileChecksum: SHA1: fa9d9f50b77901d26fd0228419f9bf210f6a82f9
+FileChecksum: MD5: 6b4c12d2ea6ded08174cdaaf8bbf7f25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/ref-add.sin
+SPDXID: SPDXRef-item876649
+FileChecksum: SHA1: 98aefef8b87e5966a4d3fc1e436f1c4d9ef94242
+FileChecksum: MD5: 200f3e454367578962935dc57a0f1bd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/regexec.c
+SPDXID: SPDXRef-item876650
+FileChecksum: SHA1: a295f4b1aef9bb25c574c1c1ae35da1c269a5af5
+FileChecksum: MD5: 738ac4ff10133f07da80175eeefdb310
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/se-context.in.h
+SPDXID: SPDXRef-item876651
+FileChecksum: SHA1: ddd86544d91407dc167879a092d5d51271bcf8ac
+FileChecksum: MD5: f25c9c3eb54dcfca3a44d0a797237f06
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/sys_stat.in.h
+SPDXID: SPDXRef-item876652
+FileChecksum: SHA1: c8534dbebb8ad3388da1f33c1c143a36310f3c32
+FileChecksum: MD5: 8d9fba0184ea37a293fef463a198a8ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/ref-del.sin
+SPDXID: SPDXRef-item876653
+FileChecksum: SHA1: 8908a3d0633d4e94f4ecc421c937cffd6adb0866
+FileChecksum: MD5: 9d41afd60c33bf30a027dae3dc53db8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/wctomb-impl.h
+SPDXID: SPDXRef-item876654
+FileChecksum: SHA1: 5cea5d64223b476a4105a2b9ab5a3ef141ea0691
+FileChecksum: MD5: ac0d4d58185a8de36004ebd8cba9134e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/obstack.c
+SPDXID: SPDXRef-item876655
+FileChecksum: SHA1: cfb9cba3427e0f6f96db47d9ac2b923feaa13593
+FileChecksum: MD5: 587c489d95dded78d914425d0e159f7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/wctype-h.c
+SPDXID: SPDXRef-item876656
+FileChecksum: SHA1: b808c91f1fc32bca0c4db6a094d4878031d03b67
+FileChecksum: MD5: dd1f2c119d494602753afd4bc28ee06c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/c-strcaseeq.h
+SPDXID: SPDXRef-item876657
+FileChecksum: SHA1: 8fbe40777786b7844e65bbdd9f135e746e22d9a3
+FileChecksum: MD5: 61d169310b0109d0891d282ca9d7c8a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/lstat.c
+SPDXID: SPDXRef-item876658
+FileChecksum: SHA1: 363fd77bf4d3b2eb51b05ae3814f55c62fe3538d
+FileChecksum: MD5: dd8534ce83b782755aa3ad3a482b95f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stdint.in.h
+SPDXID: SPDXRef-item876659
+FileChecksum: SHA1: c966e0494cae25175715a5cf6f0b03750ad13b12
+FileChecksum: MD5: 40030ce113a830d634b44b2bb245b60a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/set-mode-acl.c
+SPDXID: SPDXRef-item876660
+FileChecksum: SHA1: 7a59a63f2b3dffa7ed28074bb775b3dc8ca2a8ee
+FileChecksum: MD5: a9cfb9e33c2a6dc9db1cff2af707ec98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/alloca.in.h
+SPDXID: SPDXRef-item876661
+FileChecksum: SHA1: 1217509cf754898d49d4df63f215cfb666858da9
+FileChecksum: MD5: c4d6bf3fdd4061d5033685e212a9e119
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/locale.in.h
+SPDXID: SPDXRef-item876662
+FileChecksum: SHA1: 8d4d80629b64156c72d6a3480dfea3fe37c78632
+FileChecksum: MD5: 170ba141f5a10f6bafe87961814a5dfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stdio.c
+SPDXID: SPDXRef-item876663
+FileChecksum: SHA1: 3d803236e0feab83341b788f1375256bcb33c919
+FileChecksum: MD5: 0dc1859a9ccf9c873f883487261d9d7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/obstack.h
+SPDXID: SPDXRef-item876664
+FileChecksum: SHA1: c23a89dfe5624aa4362077cd605556a140999d77
+FileChecksum: MD5: c2e6876b94f2973060084fbb2b21dd4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/c-ctype.h
+SPDXID: SPDXRef-item876665
+FileChecksum: SHA1: cc2c6348aff261c404cd9774969449e24a418c99
+FileChecksum: MD5: f89f7c3dacfea484cc545104f0e0a2eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/realloc.c
+SPDXID: SPDXRef-item876666
+FileChecksum: SHA1: 8b0a0986b784048f0277d0868970f6315a12fadb
+FileChecksum: MD5: b9c7749ff5e6ca919279b59315f00066
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/mkostemp.c
+SPDXID: SPDXRef-item876667
+FileChecksum: SHA1: 72fff63e1cc94a5354ef34f2c053570008689ffe
+FileChecksum: MD5: ed2ba106c5eacf264e14a778a95fa8bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/gettimeofday.c
+SPDXID: SPDXRef-item876668
+FileChecksum: SHA1: 66730b1d1cd24a02210a9534f0b4855796d4d3ec
+FileChecksum: MD5: 2a239286a79182584a624da71d901121
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/exitfail.h
+SPDXID: SPDXRef-item876669
+FileChecksum: SHA1: ee36a9b00805b61844a0a5de9f1755fe00cb88fc
+FileChecksum: MD5: e1ce71c7321798669248b36720469189
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/unistd.in.h
+SPDXID: SPDXRef-item876670
+FileChecksum: SHA1: eee3fdef537201f6470c941a8c5d4d4eacc9cc8b
+FileChecksum: MD5: 2281646f4b77066efe15a36b75db9e73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/time.in.h
+SPDXID: SPDXRef-item876671
+FileChecksum: SHA1: 253ea54d12f51c5b02cf09aec45dad2e7f9e404c
+FileChecksum: MD5: 1695feaf2bb1a227a46beea6d666997b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/intprops.h
+SPDXID: SPDXRef-item876672
+FileChecksum: SHA1: 20edd5df723d6c1d80097f807c469b7dfa10f2fe
+FileChecksum: MD5: 5e66f3299d591c3f1313e4e86f5d51fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/btowc.c
+SPDXID: SPDXRef-item876673
+FileChecksum: SHA1: 0aae616611f3a090e3124b48e34a580749c130d5
+FileChecksum: MD5: 8e3434f85623430a4a67ac8060af9bbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/memchr.valgrind
+SPDXID: SPDXRef-item876674
+FileChecksum: SHA1: 5a9e580f573bb11c6f248e11c11be572804db88b
+FileChecksum: MD5: ce80de59225450e9de1cff046ec2f0a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/malloca.h
+SPDXID: SPDXRef-item876675
+FileChecksum: SHA1: fcaabcd4744ce466e8a9443fcd926c9630b9f667
+FileChecksum: MD5: f8345c77c22e32c2dd2fe49699252583
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/wcrtomb.c
+SPDXID: SPDXRef-item876676
+FileChecksum: SHA1: 9165038135b77388b35699fb051f05f6a0a98a6c
+FileChecksum: MD5: 20bcb973cc2576f3a54d3f1115b74c75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/mbsinit.c
+SPDXID: SPDXRef-item876677
+FileChecksum: SHA1: ed650b8dd29fee994d5b31267cbdeaf4c1a56a1d
+FileChecksum: MD5: b51d863702f83411c29a87f887e61ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/fcntl.in.h
+SPDXID: SPDXRef-item876678
+FileChecksum: SHA1: 08605d19de47e76447f4dd0c86de2f4927cc7bd8
+FileChecksum: MD5: f85f258fc4a18297a463918b520fd92d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/localeconv.c
+SPDXID: SPDXRef-item876679
+FileChecksum: SHA1: a9d7e70e38dfb762f3ed468c1d260d769c7403fe
+FileChecksum: MD5: 4d73936da641204ffd0dcde80e564015
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/localcharset.h
+SPDXID: SPDXRef-item876680
+FileChecksum: SHA1: b020dd1075bf531979baa00a2918ba7316feca84
+FileChecksum: MD5: 73d998613d3c40280981e29844d31559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/exitfail.c
+SPDXID: SPDXRef-item876681
+FileChecksum: SHA1: 4ee256c80aa947c3f968538874d6a31e9e5b806d
+FileChecksum: MD5: 3c292c21d3d304faaa2627547129a58a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/acl-internal.h
+SPDXID: SPDXRef-item876682
+FileChecksum: SHA1: 992e30d026a75c9dea82c85cebf580f2987c15d2
+FileChecksum: MD5: c14009ec5ffa23ef5a85e7f81d3ee948
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/getopt.in.h
+SPDXID: SPDXRef-item876683
+FileChecksum: SHA1: bdd5e54cd440e6fb05eb83ec3e9c6de38984e368
+FileChecksum: MD5: bbe8d7e1562b853cbca4b59ddbfe640c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/errno.in.h
+SPDXID: SPDXRef-item876684
+FileChecksum: SHA1: 9dc5f9a337b7cb48c18de8890f91ede2f4990068
+FileChecksum: MD5: 608b29f32176f81ae37cb3b637ae9b43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/wctype.in.h
+SPDXID: SPDXRef-item876685
+FileChecksum: SHA1: 7b5e20838557cebb297d795b178de84daee81ae2
+FileChecksum: MD5: 6dd792ea53256e7b81ab95853bd2a717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/alloca.c
+SPDXID: SPDXRef-item876686
+FileChecksum: SHA1: fd357d9de004e2fe409ad962ed97e5f88141c3d8
+FileChecksum: MD5: ccdf375afd8f7530ce7c61117f718c22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-ref
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/wchar.in.h
+SPDXID: SPDXRef-item876687
+FileChecksum: SHA1: d5a2683f030c8b0d0c700917e64071dd05dd0091
+FileChecksum: MD5: 49f00796307fb8d331e3d2de6a371b13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/mbtowc-impl.h
+SPDXID: SPDXRef-item876688
+FileChecksum: SHA1: d2d0fa0f2a1b0f3fb56769e3be6d32516337829f
+FileChecksum: MD5: c1bce1c28d6b316649289a65ad45cd52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/regex_internal.h
+SPDXID: SPDXRef-item876689
+FileChecksum: SHA1: 35a8c32b1166e622a1959d8ca2c3fc88c8bd53be
+FileChecksum: MD5: 91b08fed03fe7ce4f305a3e378867a41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/xalloc.h
+SPDXID: SPDXRef-item876690
+FileChecksum: SHA1: 45aba28700e9b617c4c2ae00508d415b215b18b3
+FileChecksum: MD5: 9dc74f626933af2e570babdce7419af9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/copy-acl.c
+SPDXID: SPDXRef-item876691
+FileChecksum: SHA1: 75c9a403986ecab40279a59f39f0cf8397492f4a
+FileChecksum: MD5: cda518b0db656869f2259f4e8f33ebc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/sys_time.in.h
+SPDXID: SPDXRef-item876692
+FileChecksum: SHA1: febb5027017a017158dafb33785863a4beab9e98
+FileChecksum: MD5: 668e481c7a1582090d409bd5cfbcb35a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stripslash.c
+SPDXID: SPDXRef-item876693
+FileChecksum: SHA1: b67279439e193bd0318365f8b30104ee6ac76c45
+FileChecksum: MD5: d54f33ab813d8643b6d6c12b589a8e35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/se-selinux.in.h
+SPDXID: SPDXRef-item876694
+FileChecksum: SHA1: 30f38015ac58a078b15bba6424e2bb55c8e8516a
+FileChecksum: MD5: dfd0dc5e2bb2b385b19d17579da3794f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/getopt1.c
+SPDXID: SPDXRef-item876695
+FileChecksum: SHA1: aa15e6453ddcc63466de90a0fcf1a9cb6b679d8d
+FileChecksum: MD5: 4334b90bafec3e3b474b62fbd594439a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/quote.h
+SPDXID: SPDXRef-item876696
+FileChecksum: SHA1: 982291649bb262cfc00c495c563a98e3e6930998
+FileChecksum: MD5: 945bdd79c98f42c8ecbdaa7de6d6ee13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/getfilecon.c
+SPDXID: SPDXRef-item876697
+FileChecksum: SHA1: 0e87cae2440f6e53bc23220607d05334dc05f301
+FileChecksum: MD5: 01bcfe2cf8df09767315a1255c676c3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/verify.h
+SPDXID: SPDXRef-item876698
+FileChecksum: SHA1: 23ce9bd300c56c436dbe5a0e7e54ea9aec604f34
+FileChecksum: MD5: 20561a92605422ebf8477b3e81d64e25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/se-selinux.c
+SPDXID: SPDXRef-item876699
+FileChecksum: SHA1: 8b40baef7b6b9ba06cff04d02a83283a5d724177
+FileChecksum: MD5: e685cb6e00cfd634433dd201db06f33f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/unistd.c
+SPDXID: SPDXRef-item876700
+FileChecksum: SHA1: 00e2b5ca424fd61cfb19ce81319ba8a95d2ca12c
+FileChecksum: MD5: 17ef9c8e89e55b4d1e6f617995491b1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/getopt.c
+SPDXID: SPDXRef-item876701
+FileChecksum: SHA1: ca2b1163af89f154952fe6043b53c0b9d11dbb52
+FileChecksum: MD5: 7e268857c4c2c13c4d021fd66aa381f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/strerror.c
+SPDXID: SPDXRef-item876702
+FileChecksum: SHA1: 2efd0370c95ce3ecaea2418ea98264ccc5115197
+FileChecksum: MD5: f9a3526023e47e3e7bdd66e145560e3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/msvc-inval.c
+SPDXID: SPDXRef-item876703
+FileChecksum: SHA1: 44739b5eac02d3fc685875c0253c2ebe55dabc79
+FileChecksum: MD5: d715ffd83493682b6520c25b1a21948a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/c-strcase.h
+SPDXID: SPDXRef-item876704
+FileChecksum: SHA1: dadff50fcdde9888d227b12a443e9a69a141f7c6
+FileChecksum: MD5: 15d8271ec5ca43d30fac2bec365b302a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/file-has-acl.c
+SPDXID: SPDXRef-item876705
+FileChecksum: SHA1: 21387d476eec6aa7a76a047b29c0dfca27d7312c
+FileChecksum: MD5: 01f30336e55abf62b9125ea8f55c655e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/wctomb.c
+SPDXID: SPDXRef-item876706
+FileChecksum: SHA1: e61abb37271ffaa4a9caf1ae13116179df5bce57
+FileChecksum: MD5: 494508ed299098c4f3f000513bd10c86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/stdarg.in.h
+SPDXID: SPDXRef-item876707
+FileChecksum: SHA1: e5af7bf406c58f07db04af549a1d6e3ccf18c1d8
+FileChecksum: MD5: f30aa5938fa6d87a74151c02778bbbb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/lib/xalloc-die.c
+SPDXID: SPDXRef-item876708
+FileChecksum: SHA1: 2fdece630db3d120742ea30debdc46f073908ec8
+FileChecksum: MD5: 6fa1c13f4e390d0e88d7fc777f134ada
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bkslashes.good
+SPDXID: SPDXRef-item876710
+FileChecksum: SHA1: 1360752e72c0b7dcc6c823576053f9ed3888d264
+FileChecksum: MD5: ce75d40ecd977ff3b2894cd7532b5422
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/sep.sed
+SPDXID: SPDXRef-item876711
+FileChecksum: SHA1: b6677227714501cf800e59f5cb3099137bc6ebe4
+FileChecksum: MD5: 70a3bfc89d8016135145b03dbff15912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/noeol.inp
+SPDXID: SPDXRef-item876712
+FileChecksum: SHA1: 88a1dcdb3ae36642fa8ff6cf76db11538a6e79b6
+FileChecksum: MD5: 68f926818c022ecb96613ac2c4032483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/Makefile.tests
+SPDXID: SPDXRef-item876713
+FileChecksum: SHA1: 9419be5dff747bbf411b8bb36051b75b9105e44e
+FileChecksum: MD5: 3b3a612d64ca71212e41d930b4361a1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/binary.sed
+SPDXID: SPDXRef-item876714
+FileChecksum: SHA1: 8eafc6f56b6b8226a3c309828445894fdc52dfda
+FileChecksum: MD5: 52bac70723db6bc6c53c0d6c36895158
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/noeol.sed
+SPDXID: SPDXRef-item876715
+FileChecksum: SHA1: 31362aab2c0224ab90cb8406e6fe5d0e91b8e491
+FileChecksum: MD5: 6e7366ed4db9a113bea5fadfc4d20b3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub2.sed
+SPDXID: SPDXRef-item876716
+FileChecksum: SHA1: 09df18ce8a4d0936ad141fdcea6c3b8f6928bd8c
+FileChecksum: MD5: 7907fc6eb18628aa4dd9645e823b8822
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub.good
+SPDXID: SPDXRef-item876717
+FileChecksum: SHA1: e13d12a4547bffb070b8c200711162822b5aec3d
+FileChecksum: MD5: 896795eeb26553e333810b7ddc991700
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/newjis.good
+SPDXID: SPDXRef-item876718
+FileChecksum: SHA1: b7f721b54c31ba0f3174decb1582de865f0151cd
+FileChecksum: MD5: a9305934fda6734eddae02a22c2fabfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/space.inp
+SPDXID: SPDXRef-item876719
+FileChecksum: SHA1: 1cacc411a21bf114961d452905b96c1cd72c85ec
+FileChecksum: MD5: 9e9741bb361971ad07f6be2b67b07453
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/middle.inp
+SPDXID: SPDXRef-item876720
+FileChecksum: SHA1: 6a58aa6baa760b834e5edaac04735d378ec316b5
+FileChecksum: MD5: f09f313413b747bcbe6b6a4302d3592a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-4.good
+SPDXID: SPDXRef-item876721
+FileChecksum: SHA1: 45e9a64d300a00b8260a386a91d3e6ab9c828172
+FileChecksum: MD5: d6730b74001f1bed4036a48bcf1276e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/uniq.good
+SPDXID: SPDXRef-item876722
+FileChecksum: SHA1: e6faecd4c443b4b16401bb240c92f867df9b221f
+FileChecksum: MD5: a407c52e6a72a85a7d74c20c70d7af7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/allsub.good
+SPDXID: SPDXRef-item876723
+FileChecksum: SHA1: 5e1726608555d2ccb171e95fc8644387c2bedf2c
+FileChecksum: MD5: 7be048b342af72c239df04b7827fbf23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/ptestcases.h
+SPDXID: SPDXRef-item876724
+FileChecksum: SHA1: c5ffc1324cdf9d5baa12367bf7af10a763a46205
+FileChecksum: MD5: 6c8eff8de19f777a7f33da49c5b6ae77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/0range.inp
+SPDXID: SPDXRef-item876725
+FileChecksum: SHA1: 92b50fed282b4cab1935d788bc16532fa0f9310f
+FileChecksum: MD5: 709c930eb5ad1c1f39ecaf3a4d607a39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xbxcx3.inp
+SPDXID: SPDXRef-item876726
+FileChecksum: SHA1: fe6744547f65f6a9ec7aaebe50167ec2dfec1eff
+FileChecksum: MD5: f279881c11fb255794551d13df80a451
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/empty.good
+SPDXID: SPDXRef-item876727
+FileChecksum: SHA1: 0dad9e9d44ef439b59dfde9e2076d90fb789f667
+FileChecksum: MD5: 58461f734cf60727946ce7739acff976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/appquit.sed
+SPDXID: SPDXRef-item876728
+FileChecksum: SHA1: c27e28c810df6c5038623685c204d51b910f9a11
+FileChecksum: MD5: 1aeec7f48bff7ec73814f239f0244a3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/binary.inp
+SPDXID: SPDXRef-item876729
+FileChecksum: SHA1: 71bb37a1eef110efb1ab04ec4bf81cd3e28b4c85
+FileChecksum: MD5: 3b7b5e03a6ec14d1e26b2306157e5dd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/factor.good
+SPDXID: SPDXRef-item876730
+FileChecksum: SHA1: c3959cdec215826604a0ea5134a3f99855002e61
+FileChecksum: MD5: ea9f38724ac56dfb597e03ff83174831
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/madding.sed
+SPDXID: SPDXRef-item876731
+FileChecksum: SHA1: 85dcbf0f44ebbc2b744638fc15ade4b94b1d2387
+FileChecksum: MD5: eafbd3239a37f9c9224b898db81d2237
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bsd.good
+SPDXID: SPDXRef-item876732
+FileChecksum: SHA1: 26ba7a502938ff10d764c97104f93f746cb24caa
+FileChecksum: MD5: 032e508b6fb5e8814640c8ad2ed606e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/amp-escape.good
+SPDXID: SPDXRef-item876733
+FileChecksum: SHA1: f75378830b7fb324c550d340bcbc574a549e199e
+FileChecksum: MD5: 3fc19d2b3c68e5a4ad36a739f7394ab5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/8bit.good
+SPDXID: SPDXRef-item876734
+FileChecksum: SHA1: a5d02d37b4e48768287446f74fecdc482b704987
+FileChecksum: MD5: 4f53fe2e2c0ee43e2bf4b6fdcd636b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/classes.good
+SPDXID: SPDXRef-item876735
+FileChecksum: SHA1: 3163a86ff7a17838b593d1813c5a034bd0e88aa6
+FileChecksum: MD5: b2234dc0bd7a8248fb539dba6598da46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex9.c
+SPDXID: SPDXRef-item876736
+FileChecksum: SHA1: 377c2927fd42039c808d5a48994f59983f348a95
+FileChecksum: MD5: 82cff9664b988322c4f78698b61b0637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/recall2.inp
+SPDXID: SPDXRef-item876737
+FileChecksum: SHA1: 0928e6f426103bdc7ad80b0ad91d131a36c2ce70
+FileChecksum: MD5: cec0cbf840f2e0c993cd60e746fb0657
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/inclib.sed
+SPDXID: SPDXRef-item876738
+FileChecksum: SHA1: 00094ee15cba8925b1e95ccfd75b680ff40ec3b2
+FileChecksum: MD5: c773619c31e918ba87157fb098d27b77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xbxcx.good
+SPDXID: SPDXRef-item876739
+FileChecksum: SHA1: 65feb4f53f32374acc8d74dd0d399c9561a95497
+FileChecksum: MD5: 30d138b771f04d498e3d3c08de991cc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xabcx.good
+SPDXID: SPDXRef-item876740
+FileChecksum: SHA1: 8917277cb5279b1f6d5d332001801a465340ca65
+FileChecksum: MD5: fe1ac626d7d05a277bee8488b3ad6cc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/khadafy.inp
+SPDXID: SPDXRef-item876741
+FileChecksum: SHA1: d79cdd45d0ef951b2a2de7f440539acc8dd36977
+FileChecksum: MD5: 74d0aa8049636716e3016f5c561506df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-2.good
+SPDXID: SPDXRef-item876742
+FileChecksum: SHA1: c17d2d1b0e2865b1d706c8fa1a2ec1f2da34b753
+FileChecksum: MD5: 484a826bf0dc39d5bf16623110ea876e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/0range.sed
+SPDXID: SPDXRef-item876743
+FileChecksum: SHA1: 7cba94f0cef34914f25a0841108539f67b7703f3
+FileChecksum: MD5: 92559fff9ca66f323ed7ee22aed7852e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/binary2.sed
+SPDXID: SPDXRef-item876744
+FileChecksum: SHA1: 7fabb81ce4dc73ae6b6641d9e2bf7b75d6113167
+FileChecksum: MD5: 8e887e727e609487b5522ae825d14462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-4.sed
+SPDXID: SPDXRef-item876745
+FileChecksum: SHA1: ebcf4152c2daff9d1e1835d4a235bce19d8b4bb3
+FileChecksum: MD5: 32eb81a89754a52a2122e1c7e6ac7406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/linecnt.sed
+SPDXID: SPDXRef-item876746
+FileChecksum: SHA1: 9ae22869553bb63a4f4133b33d9b0e315b842f7e
+FileChecksum: MD5: fdc7e1257006fee05fc2bd4a3c913349
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/subwrite.sed
+SPDXID: SPDXRef-item876747
+FileChecksum: SHA1: 2658739700443f51e58a6bfd7e2e4b01269783ae
+FileChecksum: MD5: d2975b9a4eeff7fc35a6a136ec40118e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub2.inp
+SPDXID: SPDXRef-item876748
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/8to7.good
+SPDXID: SPDXRef-item876749
+FileChecksum: SHA1: 46b3afadb89c17eda596247dc19225ccd9589c06
+FileChecksum: MD5: 06211f0a386eeb9cfbe2deb6e07fd57c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/y-bracket.good
+SPDXID: SPDXRef-item876750
+FileChecksum: SHA1: ea7fe308790a69e8bc03ab25abbfd3e4e0a35384
+FileChecksum: MD5: fb94f6dd670cb7d5874199d7d089393e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub4.good
+SPDXID: SPDXRef-item876751
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bkslashes.sed
+SPDXID: SPDXRef-item876752
+FileChecksum: SHA1: 1909d8c9c31e6559d965db0177fc7ace0edabb90
+FileChecksum: MD5: ab186b3dd2372e5d3169405b57019309
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub5.inp
+SPDXID: SPDXRef-item876753
+FileChecksum: SHA1: 3a710d2a84f856bc4e1c0bbb93ca517893c48691
+FileChecksum: MD5: a8a78d0ff555c931f045b6f448129846
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub3.inp
+SPDXID: SPDXRef-item876754
+FileChecksum: SHA1: adc83b19e793491b1c6ea0fd8b46cd9f32e592fc
+FileChecksum: MD5: 68b329da9893e34099c7d8ad5cb9c940
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/writeout.inp
+SPDXID: SPDXRef-item876755
+FileChecksum: SHA1: d71abd34a9fb5bc0c1f5f5aca6fcb9298e1de774
+FileChecksum: MD5: be66ec8ed86753627a8249e7a011bfa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/8bit.sed
+SPDXID: SPDXRef-item876756
+FileChecksum: SHA1: dbed389f645b006f4dde6157790ec5432521a161
+FileChecksum: MD5: 0cacc5fc91d7c00aa4ca908ac6f247c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub4.inp
+SPDXID: SPDXRef-item876757
+FileChecksum: SHA1: 3a710d2a84f856bc4e1c0bbb93ca517893c48691
+FileChecksum: MD5: a8a78d0ff555c931f045b6f448129846
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-1.good
+SPDXID: SPDXRef-item876758
+FileChecksum: SHA1: c17d2d1b0e2865b1d706c8fa1a2ec1f2da34b753
+FileChecksum: MD5: 484a826bf0dc39d5bf16623110ea876e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/enable.sed
+SPDXID: SPDXRef-item876759
+FileChecksum: SHA1: d191bad89678515de5f399dfcf31ad829b09c695
+FileChecksum: MD5: cc4d86c7db32400695bfe6acfcf8aedb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/enable.inp
+SPDXID: SPDXRef-item876760
+FileChecksum: SHA1: 13bba16a256b6031cf0c8cee1c763e9f9272980b
+FileChecksum: MD5: 40e9cb2b3418a413cb803854422cbc5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/dollar.sed
+SPDXID: SPDXRef-item876761
+FileChecksum: SHA1: 315c9f1cfd69d51e0c88df1f2e750ef1006b50aa
+FileChecksum: MD5: 0c439dd37a0f6ee9f01ecd3a1b9e4372
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/newjis.sed
+SPDXID: SPDXRef-item876762
+FileChecksum: SHA1: c72a5922e0eecf532b5979d30f782ca64fdf9165
+FileChecksum: MD5: 922f47acdc291cd6b6e6a007efe33580
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xbxcx3.good
+SPDXID: SPDXRef-item876763
+FileChecksum: SHA1: 288f216528a0edb0f46420e9c7a3e337cb2cae03
+FileChecksum: MD5: 296a535e7fe63de3c73631afa00536b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-2.sed
+SPDXID: SPDXRef-item876764
+FileChecksum: SHA1: 099b33c373fb41c9eba15126dbd3f6e9327e796f
+FileChecksum: MD5: 5440e33c8ed890638ee789328ad22eab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/allsub.inp
+SPDXID: SPDXRef-item876765
+FileChecksum: SHA1: 411f9693eb50758ed09a8e2a8ff06fff4484cb42
+FileChecksum: MD5: 23126517cdff6eeb690222931ffc10c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/wrtout1.good
+SPDXID: SPDXRef-item876766
+FileChecksum: SHA1: d71abd34a9fb5bc0c1f5f5aca6fcb9298e1de774
+FileChecksum: MD5: be66ec8ed86753627a8249e7a011bfa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/Makefile.in
+SPDXID: SPDXRef-item876767
+FileChecksum: SHA1: d18d2c0864ce26d519ec61ce973746fa301a22a6
+FileChecksum: MD5: 556250f2af44bcac9bfc39072a0b70a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xbxcx.sed
+SPDXID: SPDXRef-item876768
+FileChecksum: SHA1: 6dd389e3864419b20f901742dae7c3e55371be69
+FileChecksum: MD5: aee7c0e48a9615320b53c504000ca4a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/8to7.inp
+SPDXID: SPDXRef-item876769
+FileChecksum: SHA1: 3ecff83ed8c662aef4634654ba664d7213ffc271
+FileChecksum: MD5: 64091f6bc09cdc62dd997909955c4b92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/fasts.good
+SPDXID: SPDXRef-item876770
+FileChecksum: SHA1: 491f1ba3adea782a02eaa9b8ae5264d38d90656a
+FileChecksum: MD5: 258b3c8150708425f66328d4ff9a45f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bsd.sh
+SPDXID: SPDXRef-item876771
+FileChecksum: SHA1: 722d979d03681227d1e288016f0bf7baff69399b
+FileChecksum: MD5: 642fb2026bc5456e05e01cfe0a425acf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-4-Clause-UC
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex13.c
+SPDXID: SPDXRef-item876772
+FileChecksum: SHA1: 663936b6b65d89b6955e437c92480a130c2b2d83
+FileChecksum: MD5: fcdc9e45f12f3533bdfc748d4e23d377
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/classes.inp
+SPDXID: SPDXRef-item876773
+FileChecksum: SHA1: 61a28738d550321fec570dabe0cf6b3464e4d93b
+FileChecksum: MD5: 243ec1e96c79bc982c098155616b6911
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/fasts.sed
+SPDXID: SPDXRef-item876774
+FileChecksum: SHA1: ed54de788e137a991c1531109eab1cb9fa7cc60f
+FileChecksum: MD5: ab63e348cb4d4c10f7819de0330b6ade
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/flipcase.inp
+SPDXID: SPDXRef-item876775
+FileChecksum: SHA1: 4efaadb9556670d9bd524ec6ee699bd7a3adcf2a
+FileChecksum: MD5: 48411f9e47a37920ddc73ff11799cf74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/sep.good
+SPDXID: SPDXRef-item876776
+FileChecksum: SHA1: eec770c09403870cc8fca9bf315c723198f50cea
+FileChecksum: MD5: c4e962db3296cd713bcc921485db27dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xbxcx3.sed
+SPDXID: SPDXRef-item876777
+FileChecksum: SHA1: 0c0220120ca19118872c191041be778b66d858de
+FileChecksum: MD5: 5a1144dd577a3b8a926b815f145a2f11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/subwrt2.good
+SPDXID: SPDXRef-item876778
+FileChecksum: SHA1: 863322f4ac6a7535e644d555f5ddddc853127d50
+FileChecksum: MD5: e96a689bcc70e5d68463f5351ff49c80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/noeol.good
+SPDXID: SPDXRef-item876779
+FileChecksum: SHA1: c24a987f2ff62c7b8dcf22e89f7c607c9785f6b3
+FileChecksum: MD5: d4ea1455d23cfb62c6c8d22b6896c829
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/badenc.inp
+SPDXID: SPDXRef-item876780
+FileChecksum: SHA1: 4ada2ddfbffe03edfd228effc1250d65bc87d87b
+FileChecksum: MD5: 216a9c7deda349299613327e3f1afff0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub.inp
+SPDXID: SPDXRef-item876781
+FileChecksum: SHA1: 08b035eab1904f96037443a79b7d81eca5d7436c
+FileChecksum: MD5: 01e267319577bb5ca5eef7f01276d449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/insert.good
+SPDXID: SPDXRef-item876782
+FileChecksum: SHA1: 26de7b279cf8992b4e625d843d07fa843089913c
+FileChecksum: MD5: 5ca3bc0f1c25af259a81d1fa3a78d786
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/newjis.inp
+SPDXID: SPDXRef-item876783
+FileChecksum: SHA1: 580428e30e131b5ebc98e790a93437a475d72f6a
+FileChecksum: MD5: 438554d96583bbebc8de6d874fb0fa1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/y-bracket.inp
+SPDXID: SPDXRef-item876784
+FileChecksum: SHA1: 6d63abfdbbfc88baff973f30bcda793435518554
+FileChecksum: MD5: 903dbf245c270396a10c32379392ecfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/insert.inp
+SPDXID: SPDXRef-item876785
+FileChecksum: SHA1: 928f1abc474008fb586d62bcc3e043c5e3acb2aa
+FileChecksum: MD5: ec3df4034567e59e119fcf87f2d9bad4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/distrib.good
+SPDXID: SPDXRef-item876786
+FileChecksum: SHA1: f79030d53d15ae9552089c5971d5455d55244a86
+FileChecksum: MD5: 2bf16e9c8d3666b68435d79589269432
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/0range.good
+SPDXID: SPDXRef-item876787
+FileChecksum: SHA1: 084d24bbed96773031b898def2a3fb8c46134944
+FileChecksum: MD5: eb4585ad9fe0426781ed7c49252f8225
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/middle.sed
+SPDXID: SPDXRef-item876788
+FileChecksum: SHA1: b4123ebc3aa379259750f363d2bfdb7abb1455bb
+FileChecksum: MD5: 2f442d351e5ef332bacf14e48cad94d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/badenc.good
+SPDXID: SPDXRef-item876789
+FileChecksum: SHA1: 4ada2ddfbffe03edfd228effc1250d65bc87d87b
+FileChecksum: MD5: 216a9c7deda349299613327e3f1afff0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/BOOST.tests
+SPDXID: SPDXRef-item876790
+FileChecksum: SHA1: 1ed75903f788735cfd57d3787534e507f1938627
+FileChecksum: MD5: 1622400b1bd2527a8f7e25d579a370b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSL-1.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/distrib.sed
+SPDXID: SPDXRef-item876791
+FileChecksum: SHA1: 643122ea689cb8f36016079c4c623732ab2c99d8
+FileChecksum: MD5: ac8a6811390bffd180b99bd9e931f2b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xbxcx.inp
+SPDXID: SPDXRef-item876792
+FileChecksum: SHA1: 1beadfbfc9d28c793347525dfbf938de743c0e68
+FileChecksum: MD5: 94a811a7ab716598cc42bcd9f4b1ba6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/dollar.good
+SPDXID: SPDXRef-item876793
+FileChecksum: SHA1: 5ccb449dbe16658d69889791844b8a90ca75c54e
+FileChecksum: MD5: ea58f6b20f908d7d60251163ef704681
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub3.good
+SPDXID: SPDXRef-item876794
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/mac-mf.inp
+SPDXID: SPDXRef-item876795
+FileChecksum: SHA1: d55a3ab3db248c5435e84061df8531960bafb65e
+FileChecksum: MD5: a49d8b1d724c7fda2842e97a4e85b915
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/fasts.inp
+SPDXID: SPDXRef-item876796
+FileChecksum: SHA1: 8bae0679fae4329257276945c82969b2f8a010f6
+FileChecksum: MD5: 32cd75c736877ec6bd0b421e5f32533f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-4.inp
+SPDXID: SPDXRef-item876797
+FileChecksum: SHA1: 3d753f20db97cccd003faac73131f6cf5b28f115
+FileChecksum: MD5: 22b287c1248ca052aad5959160f5b083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/subwrite.inp
+SPDXID: SPDXRef-item876798
+FileChecksum: SHA1: 07e238410cd56e6335c36a9f0c144a44e7dcdea1
+FileChecksum: MD5: 566840491beadbd0e59282026fc66288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/allsub.sed
+SPDXID: SPDXRef-item876799
+FileChecksum: SHA1: 283827d1fd810da76b8db68ef84fe3407a5e0817
+FileChecksum: MD5: cf73f3fa3e80c20992e1fa02b9d66981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-1.inp
+SPDXID: SPDXRef-item876800
+FileChecksum: SHA1: 3d753f20db97cccd003faac73131f6cf5b28f115
+FileChecksum: MD5: 22b287c1248ca052aad5959160f5b083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub.sed
+SPDXID: SPDXRef-item876801
+FileChecksum: SHA1: 522c41f3351d6526cfb1f1c1b54a0fa874f70e1d
+FileChecksum: MD5: 4a9949b9a2c89d7e5f3c09c909a6c50f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/amp-escape.sed
+SPDXID: SPDXRef-item876802
+FileChecksum: SHA1: cac70d2e34b986006c2dcdfbdc950d4d604cd8ae
+FileChecksum: MD5: 313ca1f4386895e43267326bd77b9f9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/Makefile.am
+SPDXID: SPDXRef-item876803
+FileChecksum: SHA1: 2e24f18c1f0355a6b8625c9a8c352b6a10d41ec6
+FileChecksum: MD5: de97d94acb5fe902bc2cd555aa97db0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/y-newline.inp
+SPDXID: SPDXRef-item876804
+FileChecksum: SHA1: 6d63abfdbbfc88baff973f30bcda793435518554
+FileChecksum: MD5: 903dbf245c270396a10c32379392ecfc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/runtest
+SPDXID: SPDXRef-item876805
+FileChecksum: SHA1: 424b01cdd15b681f38d0d586206275f545a6615e
+FileChecksum: MD5: 75c9125a794e149b6d4e068763ed1578
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex15.c
+SPDXID: SPDXRef-item876806
+FileChecksum: SHA1: 63313d119d13dc8d4296d42be3807b2494e42a14
+FileChecksum: MD5: b09df5a9b0f264a713504b9d33acf361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/readin.good
+SPDXID: SPDXRef-item876807
+FileChecksum: SHA1: 238b85e75fecee9d8ff57bade966b370d3b8742f
+FileChecksum: MD5: 08f80d9f806227aaef18fc973d23f71f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/binary3.sed
+SPDXID: SPDXRef-item876808
+FileChecksum: SHA1: 214d9f2b2de94a48e4450a69dd5391922ee99167
+FileChecksum: MD5: 940818c8c2965ef953759c92c710490d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/noeolw.2good
+SPDXID: SPDXRef-item876809
+FileChecksum: SHA1: 88a1dcdb3ae36642fa8ff6cf76db11538a6e79b6
+FileChecksum: MD5: 68f926818c022ecb96613ac2c4032483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/eval.inp
+SPDXID: SPDXRef-item876810
+FileChecksum: SHA1: 29552b23d3d84e29c7a39e64c83ce6c0624e670b
+FileChecksum: MD5: 7c3ef98e48493c677275002a3c117894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/distrib.inp
+SPDXID: SPDXRef-item876811
+FileChecksum: SHA1: b9ed0191e324fd14652930035518d868b46d0c62
+FileChecksum: MD5: 13a4bc61ea208ef542d9aefea1ec1854
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex27.c
+SPDXID: SPDXRef-item876812
+FileChecksum: SHA1: d5258546f923bc7e18189de001b81d2a0cac3f76
+FileChecksum: MD5: 3d1a6f0d7ee48b9b20c3e4fea71d10e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/y-bracket.sed
+SPDXID: SPDXRef-item876813
+FileChecksum: SHA1: e9229e49b32a7aa7c289051f6b37328566f37c96
+FileChecksum: MD5: 4baa49b5800d4eab0b4dbe3db18c896a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/mac-mf.sed
+SPDXID: SPDXRef-item876814
+FileChecksum: SHA1: 8cd668acc95443ea641e4bf411cde51d3a03544b
+FileChecksum: MD5: 9fc70182458920e3a0a49c3b1651ea22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/insert.sed
+SPDXID: SPDXRef-item876815
+FileChecksum: SHA1: da0489cfe689b537b7d7df37e718b79b1434f05c
+FileChecksum: MD5: 374507c52b581fabf575e332d50924b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/appquit.good
+SPDXID: SPDXRef-item876816
+FileChecksum: SHA1: 9a2fbb70af875ab578dc5758f2ef9d93359c6ed6
+FileChecksum: MD5: 5bc8a8382eb9265900d65a4b99b12afe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/madding.good
+SPDXID: SPDXRef-item876817
+FileChecksum: SHA1: 77f49237d0147a34332c69084ecc7d812dcf1bf5
+FileChecksum: MD5: e1244b2faaf1f6155368b00515a1856d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/runtests.c
+SPDXID: SPDXRef-item876818
+FileChecksum: SHA1: 317fc585ee7613fb366f205484a55ab813c962e8
+FileChecksum: MD5: 65179e909a480fa484658779a0b84550
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-MIT-CMU-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub4.sed
+SPDXID: SPDXRef-item876819
+FileChecksum: SHA1: 12b5b2118eb811e6d8ea3f9afe0c9fe8002935e7
+FileChecksum: MD5: 8bcd415a9de55ed7cc8beb8583231c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/sep.inp
+SPDXID: SPDXRef-item876820
+FileChecksum: SHA1: b0d0237db65feaca6f6ad8f772ce590380f4742e
+FileChecksum: MD5: c32aba21cfb2f237e3f0836b4a3993ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/dc.inp
+SPDXID: SPDXRef-item876821
+FileChecksum: SHA1: b78fd49e5286473bf26db3c0e040269dd3267800
+FileChecksum: MD5: 943a85a895d80ce47f1cccb20a7aa22a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/cv-vars.sed
+SPDXID: SPDXRef-item876822
+FileChecksum: SHA1: 0ee1022a7b646840b19a9b01e7945e860185384d
+FileChecksum: MD5: b3afa7159e9c46a5a9904051215bc81d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/tst-regex2.c
+SPDXID: SPDXRef-item876823
+FileChecksum: SHA1: 0820b1750ad37655cd0a7efec24b276fa3b70c31
+FileChecksum: MD5: 77c513e22e063d4c0788795976dc5d04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xemacs.inp
+SPDXID: SPDXRef-item876824
+FileChecksum: SHA1: 45a3acadde890b3b8b150c609bc0568f83fc940c
+FileChecksum: MD5: ac2566cfd2ecfaa112ab665963144c48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-2.inp
+SPDXID: SPDXRef-item876825
+FileChecksum: SHA1: 3d753f20db97cccd003faac73131f6cf5b28f115
+FileChecksum: MD5: 22b287c1248ca052aad5959160f5b083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/tst-rxspencer.c
+SPDXID: SPDXRef-item876826
+FileChecksum: SHA1: 7b31d6816000a7d25b46a593a390b5af6c6a4d45
+FileChecksum: MD5: 718762a165543a4683ec0e12783b4b0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-1.sed
+SPDXID: SPDXRef-item876827
+FileChecksum: SHA1: c89a316c264d4cc250f5b90865b85c0928df88ad
+FileChecksum: MD5: e06868a8dec556d13a4a0240b584bef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/y-newline.good
+SPDXID: SPDXRef-item876828
+FileChecksum: SHA1: c36e5f7ceb2ba494d848570455f7a50927d88343
+FileChecksum: MD5: 9f135cc89fd43ea989094e43d359a562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xabcx.sed
+SPDXID: SPDXRef-item876829
+FileChecksum: SHA1: 62b3ed3a9241664923fbec2340050d239f5d4699
+FileChecksum: MD5: f797a16b17f691832b6253b48fb0f438
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/readin.sed
+SPDXID: SPDXRef-item876830
+FileChecksum: SHA1: a647de78984c332d1dcdd98e0f58de71469f0254
+FileChecksum: MD5: 08ffc46010089bf87b00a4038d28111f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub5.sed
+SPDXID: SPDXRef-item876831
+FileChecksum: SHA1: 3cbc27509833377759385f198323aaface684bbd
+FileChecksum: MD5: c2a6c80f78d07b31c17d1b0b8f3e1b32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/brackets.sed
+SPDXID: SPDXRef-item876832
+FileChecksum: SHA1: da956f211f2f2484521116b814feba05447ab165
+FileChecksum: MD5: 3e18a5777ba1785832bddba833e3df13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/dc.good
+SPDXID: SPDXRef-item876833
+FileChecksum: SHA1: b3396147200b95188c3442e0fcd8ed72389c872a
+FileChecksum: MD5: f26a3c537452d053eaee5557b1c3b254
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/classes.sed
+SPDXID: SPDXRef-item876834
+FileChecksum: SHA1: 5a890604348e9ff432362c3f34495470e84828fc
+FileChecksum: MD5: 02aabe740b50ae1858cdf0197da50073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/SPENCER.tests
+SPDXID: SPDXRef-item876835
+FileChecksum: SHA1: 1208ef45f52d6d0cd5e8cf6c417389da3865bb81
+FileChecksum: MD5: a1d343e27fa9f87ee68dafdda842c876
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/middle.good
+SPDXID: SPDXRef-item876836
+FileChecksum: SHA1: 9e6f63d34767ae879da2cf99f02a4bdf966fecda
+FileChecksum: MD5: cb1516424cab0cddb2c614f65133011e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/noeolw.sed
+SPDXID: SPDXRef-item876837
+FileChecksum: SHA1: 9fb5b1fb8ce25684b26a755e30f6da1f43188a96
+FileChecksum: MD5: 3518b22eb4f1b6cc9c2835b08d3ed3c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/recall.inp
+SPDXID: SPDXRef-item876838
+FileChecksum: SHA1: 5e22d4dfb9e49b98705278205101fad11feb707e
+FileChecksum: MD5: 46b283ef7add174dd8173b0019cfa135
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xemacs.good
+SPDXID: SPDXRef-item876839
+FileChecksum: SHA1: 425e2af293abcd4f9feaefb6f2d00e2724bcfd4a
+FileChecksum: MD5: f76efa84bad6e6d556c21a0d52657af1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/flipcase.sed
+SPDXID: SPDXRef-item876840
+FileChecksum: SHA1: 141aea4ce2261b1776f251d791f14dc643ce8d60
+FileChecksum: MD5: 99c43c26b02860f41bb8a9b7ca6ec311
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/manis.sed
+SPDXID: SPDXRef-item876841
+FileChecksum: SHA1: 7a4036abb037adde145abbcf57454b1a7fde1396
+FileChecksum: MD5: 8da0bd296a1c8738c85a84f956c8c0b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/cv-vars.inp
+SPDXID: SPDXRef-item876842
+FileChecksum: SHA1: 073236fe738a21d4c3396b536e1bd395b40723a5
+FileChecksum: MD5: 7b077fc81f7d278d72db2ab980955291
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/noeolw.good
+SPDXID: SPDXRef-item876843
+FileChecksum: SHA1: 5c96ffb6d4f7ba28c5a600df796ea908b46ce84e
+FileChecksum: MD5: b906c05d124bd0e8f8bc667d3de833c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/writeout.sed
+SPDXID: SPDXRef-item876844
+FileChecksum: SHA1: abb3a19ff2a13330dab36b92b95a0cd684133dad
+FileChecksum: MD5: a341bf9ddabee0936ea9598385ccab65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/amp-escape.inp
+SPDXID: SPDXRef-item876845
+FileChecksum: SHA1: 084d24bbed96773031b898def2a3fb8c46134944
+FileChecksum: MD5: eb4585ad9fe0426781ed7c49252f8225
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/insens.inp
+SPDXID: SPDXRef-item876846
+FileChecksum: SHA1: f7ab78d9128948e98fcae277301008ad2e5e0b9f
+FileChecksum: MD5: e4a7bef3d03a42d9a292e94695030ea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/uniq.sed
+SPDXID: SPDXRef-item876847
+FileChecksum: SHA1: 4e7ad9e6ade851f44dfac6cd445cc5dde1d71fbd
+FileChecksum: MD5: 3270871f5312f7c0c22a54545e36eb31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub3.sed
+SPDXID: SPDXRef-item876848
+FileChecksum: SHA1: 63233d5c600ed86359d58cb1bf6dc139f706a264
+FileChecksum: MD5: 390530419da5ff039d5dfeea029169e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex21.c
+SPDXID: SPDXRef-item876849
+FileChecksum: SHA1: 94e56601e52ab1fde34a7f57de1b6b64cd8b7bcc
+FileChecksum: MD5: 46cde0f254291f245e8e60d24fe460ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex16.c
+SPDXID: SPDXRef-item876850
+FileChecksum: SHA1: ade4d5f045c7306b474197d5dcf8ea10b89c2b4e
+FileChecksum: MD5: f7f5f32bc4ee89f4600900742f8cd689
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/head.inp
+SPDXID: SPDXRef-item876851
+FileChecksum: SHA1: 6a58aa6baa760b834e5edaac04735d378ec316b5
+FileChecksum: MD5: f09f313413b747bcbe6b6a4302d3592a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xabcx.inp
+SPDXID: SPDXRef-item876852
+FileChecksum: SHA1: 89f2272ad511b0e3298dff72e759ba4b7c5ba67e
+FileChecksum: MD5: 70797cc5ce89eba0183b2c4687ad94dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/mac-mf.good
+SPDXID: SPDXRef-item876853
+FileChecksum: SHA1: fa7daf21d57e0343cd5e3440d1342612426ec2b0
+FileChecksum: MD5: 430687b032e4dd89996638db33afc03b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex28.c
+SPDXID: SPDXRef-item876854
+FileChecksum: SHA1: 68cd1263ca268602f526d79e626ce5eca6c82c83
+FileChecksum: MD5: 42766318fb365753d55adaa8ab655baa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/flipcase.good
+SPDXID: SPDXRef-item876855
+FileChecksum: SHA1: 43850fa73ee492ae75d5b171f002615a42bf4d07
+FileChecksum: MD5: a546636d8835730cf5f7513714342736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/space.sed
+SPDXID: SPDXRef-item876856
+FileChecksum: SHA1: 1d1c9e71bc8e91a9abcbe4ad3f611f4ce65dd56c
+FileChecksum: MD5: e8d2c0d628954ce69e3f94f8c2a913c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/uniq.inp
+SPDXID: SPDXRef-item876857
+FileChecksum: SHA1: b77613b0b4f54a1372aa6a68e2d5f377175c9649
+FileChecksum: MD5: 809537e35b2e063d148fb4db2eb75c93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/head.sed
+SPDXID: SPDXRef-item876858
+FileChecksum: SHA1: 998d93efd4f269c7c00c98ede26bad2047b9135a
+FileChecksum: MD5: 6f5822369b7833341a3634ecbb6e1c4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex8.c
+SPDXID: SPDXRef-item876859
+FileChecksum: SHA1: 4cb0803f74fee3ce9389281197a166415f93e110
+FileChecksum: MD5: 364aee381134a41fe280eb1814377565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/manis.good
+SPDXID: SPDXRef-item876860
+FileChecksum: SHA1: 42e1e6eae2da40a2f54e1aa6a66e6d453c1820ed
+FileChecksum: MD5: cc926b73f676c602bd863a577efdf429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub5.good
+SPDXID: SPDXRef-item876861
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/noeolw.1good
+SPDXID: SPDXRef-item876862
+FileChecksum: SHA1: ab60a3fd098a763efc4f585bd23f9dd691405f26
+FileChecksum: MD5: 440bc46528277e575796195db7cc1509
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/empty.sed
+SPDXID: SPDXRef-item876863
+FileChecksum: SHA1: fa0d105f5014d06510716398a18ef7c7822f5a0a
+FileChecksum: MD5: 1bdc3c4f56e4ce3ad41270a062f12f72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/binary.good
+SPDXID: SPDXRef-item876864
+FileChecksum: SHA1: af8b2d29de0fdb0b94620ef394f7317637b6fff9
+FileChecksum: MD5: fa7336397461bea8e4f6b4b6547ee9b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-3.sed
+SPDXID: SPDXRef-item876865
+FileChecksum: SHA1: 28c6683ecdda2056d9be0032d57aa71794e53bcd
+FileChecksum: MD5: 88ea30866f0ac68bad8f74793b9b1a90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex12.c
+SPDXID: SPDXRef-item876866
+FileChecksum: SHA1: 27eba654c5d1441fdafa202dc6784cb246e8dd11
+FileChecksum: MD5: 9fba411bf19e3a1eeaccd8a0ed858f07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/runptests.c
+SPDXID: SPDXRef-item876867
+FileChecksum: SHA1: 0217d95353aa529092a52ce007297c19e64f528d
+FileChecksum: MD5: f29ab3d6ad732dea4a07fb531f91ca9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bkslashes.inp
+SPDXID: SPDXRef-item876868
+FileChecksum: SHA1: 3f786850e387550fdab836ed7e6dc881de23001b
+FileChecksum: MD5: 60b725f10c9c85c70d97880dfe8191b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/numsub2.good
+SPDXID: SPDXRef-item876869
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-3.good
+SPDXID: SPDXRef-item876870
+FileChecksum: SHA1: 5e218aec597586fed13631701ec690495bb28c9a
+FileChecksum: MD5: 31037a925fffa313d3035584cff8e7c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/eval.sed
+SPDXID: SPDXRef-item876871
+FileChecksum: SHA1: 07e7f9b34aa24e2c332c31d3b3ad800d8650fb1c
+FileChecksum: MD5: 360d2278ccf2e35e37d23280f40ca549
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/factor.inp
+SPDXID: SPDXRef-item876872
+FileChecksum: SHA1: ac0c332eabc441d88ff3ccd73dc4c9a8b01d21f7
+FileChecksum: MD5: 9cda3cd09d20b6233bb8d66af8e6a370
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/modulo.good
+SPDXID: SPDXRef-item876873
+FileChecksum: SHA1: 247740bf2cefa5889e7d5a12dd1f8489b5b7b84a
+FileChecksum: MD5: 045730e4c499788ccb429c0fc0f2f931
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/testcases.h
+SPDXID: SPDXRef-item876874
+FileChecksum: SHA1: 446007e9122172f70a6a3214aab7caa42d59629a
+FileChecksum: MD5: f8a1a15b92e8eba1f0747cd986f3c204
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/y-newline.sed
+SPDXID: SPDXRef-item876875
+FileChecksum: SHA1: 7b503fcd1091651c3d47b0f8c4721385a61a7ecb
+FileChecksum: MD5: a9ca9d42227dbd1159f6599b5d7d8af9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex14.c
+SPDXID: SPDXRef-item876876
+FileChecksum: SHA1: 12e9d05d99840d7a0347571da99eeae8d4032fdb
+FileChecksum: MD5: 80e1e2b7e34b2bbf689cec4935e11499
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/PCRE.tests
+SPDXID: SPDXRef-item876877
+FileChecksum: SHA1: b7e97ff6687793ee4ac0f7a8b65921b8de07b1af
+FileChecksum: MD5: 38f5dab5937db41c2470a6923438a364
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Artistic-1.0
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex10.c
+SPDXID: SPDXRef-item876878
+FileChecksum: SHA1: a2b78fe52a4daf1de7795aa0196ccc79e9dd4f29
+FileChecksum: MD5: 073745de5f58b039729418957a259e3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/insens.good
+SPDXID: SPDXRef-item876879
+FileChecksum: SHA1: d52cf46e0205c91011c0be836fb6c3166d7fda41
+FileChecksum: MD5: 2ae0892cf0a984ca1ac966f1250e58ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/brackets.inp
+SPDXID: SPDXRef-item876880
+FileChecksum: SHA1: bb962f15947d8523f3551b2c402529e879bfcf6f
+FileChecksum: MD5: 428d7afcb32baaeaf984171a28940fd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/madding.inp
+SPDXID: SPDXRef-item876881
+FileChecksum: SHA1: 5eb3c29f5dbfc9dd347b9b05a9e40f9ac5dd968f
+FileChecksum: MD5: d5493462462057bdbe2e5397e67bc4a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/inclib.good
+SPDXID: SPDXRef-item876882
+FileChecksum: SHA1: d9090f7529739c970eedf16102e795fb13d8a7b9
+FileChecksum: MD5: 5121fcccd1bf1d33c02ad1fd9057251a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/factor.sed
+SPDXID: SPDXRef-item876883
+FileChecksum: SHA1: e58528bc38b44e935fa8bd9111759232f110fe57
+FileChecksum: MD5: 3e811bf316190eb732ff3f68d972ebe7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/modulo.sed
+SPDXID: SPDXRef-item876884
+FileChecksum: SHA1: 364e6ee47513e61d35799c119769ee4822c0591f
+FileChecksum: MD5: 871091af39af1963e94a3b4dc5fc5586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/empty.inp
+SPDXID: SPDXRef-item876885
+FileChecksum: SHA1: 0dad9e9d44ef439b59dfde9e2076d90fb789f667
+FileChecksum: MD5: 58461f734cf60727946ce7739acff976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/dc.sed
+SPDXID: SPDXRef-item876886
+FileChecksum: SHA1: 8e9b0b64cf5504e951da9b97eb0b06bb97f0fb5a
+FileChecksum: MD5: dad8b4da08a3d734dbc9b744c8ab8bbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/readin.inp
+SPDXID: SPDXRef-item876887
+FileChecksum: SHA1: 02f6ab5540db1518f2469568b413cfafc995adf0
+FileChecksum: MD5: 9462316ae524943f9364096aa758a5e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/tst-boost.c
+SPDXID: SPDXRef-item876888
+FileChecksum: SHA1: 48e0e0abf058f2f9169bc0ed97f7dcb36a178d71
+FileChecksum: MD5: ab8851388f3b46434aa1aa504f82091a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/cv-vars.good
+SPDXID: SPDXRef-item876889
+FileChecksum: SHA1: fef2a6341f402a6e5e99e454e29650b833f97ff6
+FileChecksum: MD5: 4b0a0d0504d792f6c9a1ec7ad85a33d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/modulo.inp
+SPDXID: SPDXRef-item876890
+FileChecksum: SHA1: 42e1e6eae2da40a2f54e1aa6a66e6d453c1820ed
+FileChecksum: MD5: cc926b73f676c602bd863a577efdf429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/enable.good
+SPDXID: SPDXRef-item876891
+FileChecksum: SHA1: 84dc6e9da34e46fa3c8d1888a14b7a44063c1fc7
+FileChecksum: MD5: 2f0f34b2b1a13d4b8087543ecfde621f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex7.c
+SPDXID: SPDXRef-item876892
+FileChecksum: SHA1: f66b9df659e56c1e3cc098726119dea63564c557
+FileChecksum: MD5: edc5f567df7d81d4853dc95036d819fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/inclib.inp
+SPDXID: SPDXRef-item876893
+FileChecksum: SHA1: bd4d02950bcab671bd9b1f311950b28297f8e7dd
+FileChecksum: MD5: 72a039dcf0a20f3ef61d61ff73b10466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/dollar.inp
+SPDXID: SPDXRef-item876894
+FileChecksum: SHA1: 3baa14e43acc56ee4fd1cab9892fea66e64dd958
+FileChecksum: MD5: a492f08c62276ac2d724c37ed108df69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/appquit.inp
+SPDXID: SPDXRef-item876895
+FileChecksum: SHA1: b8969a80956f4ff3a621375e28028d1a6516563f
+FileChecksum: MD5: 1bac597a02bae7775416bcac95f6c84b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/wrtout2.good
+SPDXID: SPDXRef-item876896
+FileChecksum: SHA1: eab6075dc11026e710ac0c148d9fac4fd24a7bdf
+FileChecksum: MD5: 21d7efa6e02945e7a41b63aa1d363db2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/utf8-3.inp
+SPDXID: SPDXRef-item876897
+FileChecksum: SHA1: 3d753f20db97cccd003faac73131f6cf5b28f115
+FileChecksum: MD5: 22b287c1248ca052aad5959160f5b083
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/khadafy.good
+SPDXID: SPDXRef-item876898
+FileChecksum: SHA1: d79cdd45d0ef951b2a2de7f440539acc8dd36977
+FileChecksum: MD5: 74d0aa8049636716e3016f5c561506df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/subwrt1.good
+SPDXID: SPDXRef-item876899
+FileChecksum: SHA1: 6bc92f19e776b171cb427e9596e843b13a02f4c3
+FileChecksum: MD5: f55875659432b3fb751f93f47f9e2d1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/recall2.good
+SPDXID: SPDXRef-item876900
+FileChecksum: SHA1: 83fd66b2d15d1ee86719c8438a728011ce77c6cf
+FileChecksum: MD5: 70b9cbe852f81bdf433c7c4340582edd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/xemacs.sed
+SPDXID: SPDXRef-item876901
+FileChecksum: SHA1: d77175ab8a10154eee5eb508112b2c960b34bbca
+FileChecksum: MD5: 91a0bb795043438f12da34e8852c82c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/khadafy.sed
+SPDXID: SPDXRef-item876902
+FileChecksum: SHA1: bd33342b3f23f603aa362bcd43435bde3626b80f
+FileChecksum: MD5: 3bd7cba8c3db644f1417ebeaa17f3704
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/linecnt.good
+SPDXID: SPDXRef-item876903
+FileChecksum: SHA1: 009d5373af1e91931c3ae13a7c6432399ce14bd0
+FileChecksum: MD5: 4b6d5366627cb86e6ab80dc64820046c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/recall2.sed
+SPDXID: SPDXRef-item876904
+FileChecksum: SHA1: a2fc86c0d9e5edf6f5bc241486bcb79f405dcd7a
+FileChecksum: MD5: 16817ff7b8cc76f118cfbe3da4a242a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/eval.good
+SPDXID: SPDXRef-item876905
+FileChecksum: SHA1: ddfb0e672f30d906294e03275bd0565f7dd556b3
+FileChecksum: MD5: 361d674713bfdb23199779acdde705b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/badenc.sed
+SPDXID: SPDXRef-item876906
+FileChecksum: SHA1: 9caa771a7231ef70a26210527f511f73b4984829
+FileChecksum: MD5: bb48750b46c07eaf1bee2077acc7ac6d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/head.good
+SPDXID: SPDXRef-item876907
+FileChecksum: SHA1: d9c20e3a99335e0a935858afb233d9ae5e959457
+FileChecksum: MD5: dfda0ed46b54ee3ccc8106e3083bfdf6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/brackets.good
+SPDXID: SPDXRef-item876908
+FileChecksum: SHA1: e65cce22857f8dba32eed07c52cd13e78caae57f
+FileChecksum: MD5: 1feacbc5f0041c8ac8ba34cd3fd75a17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/recall.good
+SPDXID: SPDXRef-item876909
+FileChecksum: SHA1: da1dfe05cbbaf40f3dfd4eaaaaeb831041caa391
+FileChecksum: MD5: 56c306786c9008b9c2a4c13fb3022705
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/8bit.inp
+SPDXID: SPDXRef-item876910
+FileChecksum: SHA1: 3ecff83ed8c662aef4634654ba664d7213ffc271
+FileChecksum: MD5: 64091f6bc09cdc62dd997909955c4b92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/linecnt.inp
+SPDXID: SPDXRef-item876911
+FileChecksum: SHA1: 7af9603c5568f5c10e37872213fee2882f2c7b96
+FileChecksum: MD5: 1566874f9290d8cc7168393f45eb600a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/version.gin
+SPDXID: SPDXRef-item876912
+FileChecksum: SHA1: d11bd7eb986d2954a0277d54d99c739feac26052
+FileChecksum: MD5: a3b8bbde77c8d7f0d937ebf9e394dc8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/distrib.sh
+SPDXID: SPDXRef-item876913
+FileChecksum: SHA1: fcc1014151908d642fbda59e3c4a34f97f36b733
+FileChecksum: MD5: 3185ee852043766e511741910ee27ef3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/manis.inp
+SPDXID: SPDXRef-item876914
+FileChecksum: SHA1: 42e1e6eae2da40a2f54e1aa6a66e6d453c1820ed
+FileChecksum: MD5: cc926b73f676c602bd863a577efdf429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/space.good
+SPDXID: SPDXRef-item876915
+FileChecksum: SHA1: b669023875fd26cda9a827adc0987286e4f138f1
+FileChecksum: MD5: e862b4829f2e670fb3b299c6698c95f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/recall.sed
+SPDXID: SPDXRef-item876916
+FileChecksum: SHA1: eb08ebe033c27ae2ba009c89c64b034abd58928e
+FileChecksum: MD5: 8201048a174d8c020e8da912c17e07de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/insens.sed
+SPDXID: SPDXRef-item876917
+FileChecksum: SHA1: 0c7be22c1b4403e9ed703d5468a52d73c6197d81
+FileChecksum: MD5: 2a75dd96c2b760f1bb7ed08c2fff05ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/tst-pcre.c
+SPDXID: SPDXRef-item876918
+FileChecksum: SHA1: 08e4961633881ab0730c4f96960490ce7f57bf24
+FileChecksum: MD5: d1eb70bdae7dcac2a1f60320910c88c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/8to7.sed
+SPDXID: SPDXRef-item876919
+FileChecksum: SHA1: 65337f45926cd831afeaab842765a8a461d99e20
+FileChecksum: MD5: 0c60d98540777440eed368fc2e05c6a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/testsuite/bug-regex11.c
+SPDXID: SPDXRef-item876920
+FileChecksum: SHA1: b18fd6dc01387abce462e74719598789547ceb0f
+FileChecksum: MD5: 4f64405dd1ff85fa865c10c5e3543e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/basicdefs.h
+SPDXID: SPDXRef-item876921
+FileChecksum: SHA1: 4065b0cc5f0b2bb8d254e001f9c1eb843c8a2747
+FileChecksum: MD5: 29c01200fe0d15dfa96731ded2fdc909
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/es.po
+SPDXID: SPDXRef-item876923
+FileChecksum: SHA1: 2fe3ff6e44bd8b97b4a5d44cc1dc49a4ca6e532f
+FileChecksum: MD5: 0bdfc74f67c2c673bb85d69942ed43ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/es.gmo
+SPDXID: SPDXRef-item876924
+FileChecksum: SHA1: b5041413b101250e5237c827eaee4a890836f0da
+FileChecksum: MD5: 6dcd14ee23d9a90ad08ae2a9bb2a18fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/id.po
+SPDXID: SPDXRef-item876925
+FileChecksum: SHA1: b6a0b36589e67fe773737819eb3b2e334f283fe2
+FileChecksum: MD5: cf2fef894f52f0fd1e9bc66223b8940a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sv.gmo
+SPDXID: SPDXRef-item876926
+FileChecksum: SHA1: 1cc341d2d7148bf3c0da305c9c2b015013b803b6
+FileChecksum: MD5: 140f09efb9f84b4f7fc796000cc93bb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sv.po
+SPDXID: SPDXRef-item876927
+FileChecksum: SHA1: 48af40037f116538f5b762b44f106f5a7b031138
+FileChecksum: MD5: bda55258a77eb9acccdddafb4a16a7bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ga.po
+SPDXID: SPDXRef-item876928
+FileChecksum: SHA1: 0e2d4b1e38839fb72d713f3bb54b235a7dd88c48
+FileChecksum: MD5: c3551dec303505e39995a74488bc6452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/stamp-po
+SPDXID: SPDXRef-item876929
+FileChecksum: SHA1: 8e5113f6f47ce34e0437c2105441dbb70f01491a
+FileChecksum: MD5: 1ded054093de910d9786c62bc4fe8cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/tr.gmo
+SPDXID: SPDXRef-item876930
+FileChecksum: SHA1: 7f2115e10dc45915827712aecf27168709d4cec2
+FileChecksum: MD5: f799b52433dd5ee6db7e74f95c03f455
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/gl.gmo
+SPDXID: SPDXRef-item876931
+FileChecksum: SHA1: f381d1101e5163edfc040954c0a52f65a247ec7f
+FileChecksum: MD5: 10210adeb71910c69ccef694fbe46c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/remove-potcdate.sin
+SPDXID: SPDXRef-item876932
+FileChecksum: SHA1: ef998ba108174635906a01ba30fe1ba105728bb8
+FileChecksum: MD5: ae2ad0156895c4461ca32fe0524ef902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/el.gmo
+SPDXID: SPDXRef-item876933
+FileChecksum: SHA1: b1e2667bff754efcce4b996098807961b38b78ef
+FileChecksum: MD5: fbfb9d71cca37e8e117ab67762e1e429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sr.po
+SPDXID: SPDXRef-item876934
+FileChecksum: SHA1: 80c21fa2d55ed29012beaba20911bda89472c1ef
+FileChecksum: MD5: dac1d4473a3c26f6f649fd1d9e68afb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/et.gmo
+SPDXID: SPDXRef-item876935
+FileChecksum: SHA1: ed78207d49183a0f117eef8a199d2b2710071944
+FileChecksum: MD5: 905501882bc4ce71074828a350cb2743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/Makefile.in.in
+SPDXID: SPDXRef-item876936
+FileChecksum: SHA1: e8931078c4c67e6c470afe0ed9570088ca9374bc
+FileChecksum: MD5: 2d3426198af06c408a4c3abffe3df54d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-NOT-public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ko.gmo
+SPDXID: SPDXRef-item876937
+FileChecksum: SHA1: d3f2b8d7798c77ba1ddc419e19880a7a3c05a362
+FileChecksum: MD5: b586ecf36c701779a943d6c3b17e8461
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sl.gmo
+SPDXID: SPDXRef-item876938
+FileChecksum: SHA1: e3a262250f40648986f2a751c28ce526f5120159
+FileChecksum: MD5: 7423a402c7f81776306a0a6276b34d2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/hu.gmo
+SPDXID: SPDXRef-item876939
+FileChecksum: SHA1: b005cecb3b96fc9479ad354b95b438314ff32f00
+FileChecksum: MD5: f1b84904ea86ca6a6c2858a8997d988a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ca.po
+SPDXID: SPDXRef-item876940
+FileChecksum: SHA1: 1722d2519765c5921f276e2c34679f57bf55df5d
+FileChecksum: MD5: 47a5253e320cbdce0de375ffc513a8f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/cs.gmo
+SPDXID: SPDXRef-item876941
+FileChecksum: SHA1: f74ab9f063c7afc38d2340c9e33c1a246135e2b8
+FileChecksum: MD5: 0147befddf48e4448caf1a0d2793cd9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ko.po
+SPDXID: SPDXRef-item876942
+FileChecksum: SHA1: 26d111a9b52de97376ba4b06166992e3ac12d86b
+FileChecksum: MD5: 434ea0eb2fb3acc8518684a671f74bb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ast.gmo
+SPDXID: SPDXRef-item876943
+FileChecksum: SHA1: ef22d61c8ef66b8d47ff592ec8e98de317acd891
+FileChecksum: MD5: 24dbc393087f904513a29fc4757b4cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/da.gmo
+SPDXID: SPDXRef-item876944
+FileChecksum: SHA1: 438e7310e7d509afde0ccfd235a7c91c917a1551
+FileChecksum: MD5: 8015d9956f1a2413838f3e6fc92b115d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ro.gmo
+SPDXID: SPDXRef-item876945
+FileChecksum: SHA1: dc441168e5898c9b5854805e0c886965491d1c7a
+FileChecksum: MD5: 15e746cadcc2ac64775872f05acba4fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/id.gmo
+SPDXID: SPDXRef-item876946
+FileChecksum: SHA1: 5fc15424e5b107657317b0d174e9c5c6b25c905f
+FileChecksum: MD5: 48eb7c7e97aebc80e84d509ce885f8c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/pt_BR.po
+SPDXID: SPDXRef-item876947
+FileChecksum: SHA1: 3852e9bcd2b86cfbfee69d5c66681712c06e9f7f
+FileChecksum: MD5: 881c8ce504379905bba461e5fa27565c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/gl.po
+SPDXID: SPDXRef-item876948
+FileChecksum: SHA1: 9bda4008075d97ae3c50656d46e93169103cac9b
+FileChecksum: MD5: a6cbc31ef9002cf27ef1c31d618cea5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ga.gmo
+SPDXID: SPDXRef-item876949
+FileChecksum: SHA1: bd33f95563381a87e658680f40b5e8322edfec67
+FileChecksum: MD5: 488d09f4cd184b2b3fd8d3915899ea14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/cs.po
+SPDXID: SPDXRef-item876950
+FileChecksum: SHA1: 72930400bd8ebd42bdca297dce72bbb5e3f684d1
+FileChecksum: MD5: 2db3e80517d470640fb380a8fcf8f612
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/fi.gmo
+SPDXID: SPDXRef-item876951
+FileChecksum: SHA1: b5d558b9110a9b3d5ccb5507912558a4a4dfdb6e
+FileChecksum: MD5: 154be92fb1cf3e476e799c62f78f795e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/eu.gmo
+SPDXID: SPDXRef-item876952
+FileChecksum: SHA1: 020204faf540bd7540e3da7984f1d9d5658eaa57
+FileChecksum: MD5: ec259ee71944b8fe3def263eb318ba3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ru.gmo
+SPDXID: SPDXRef-item876953
+FileChecksum: SHA1: c9061429883f8976b29cc23eb9b00308b260e314
+FileChecksum: MD5: c8cefead0084ee981adf277cbe43c5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/de.po
+SPDXID: SPDXRef-item876954
+FileChecksum: SHA1: ac06d96881cb1d50536e06ef2bf850028ff2b8e9
+FileChecksum: MD5: 2835a6a8344d50aa8872b3b43453106d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/vi.gmo
+SPDXID: SPDXRef-item876955
+FileChecksum: SHA1: 583f838a350c485eabf6489159b355eaf82f710b
+FileChecksum: MD5: 19cc80e0f2f70d5250c080b0425380b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/boldquot.sed
+SPDXID: SPDXRef-item876956
+FileChecksum: SHA1: 062e8aaba51d25b7fd72c99a9a40e57a64133696
+FileChecksum: MD5: 9f72ef7fe3e7c7330c158be85dc1bd4c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/eo.gmo
+SPDXID: SPDXRef-item876957
+FileChecksum: SHA1: ecfafca7c1c8edf7a04378033c4886f9c2b2f70f
+FileChecksum: MD5: f90605979ce49557569524fe94240f55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/fr.po
+SPDXID: SPDXRef-item876958
+FileChecksum: SHA1: 4427827772922d9a5db825bd66d079a4c7212a63
+FileChecksum: MD5: 1150fe1b1ef6eeddef06cd7314a90660
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/nb.po
+SPDXID: SPDXRef-item876959
+FileChecksum: SHA1: 21784bff769023019e567c11299a53347801c5fb
+FileChecksum: MD5: dd05c7e30a2077fcabcc7eb77b6f9aac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/fr.gmo
+SPDXID: SPDXRef-item876960
+FileChecksum: SHA1: 63e5f6ee7fcc3a387f545b8a3d5e09badb8c6a31
+FileChecksum: MD5: d81f26cfd7c8953fbc8e49589e13bb02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ru.po
+SPDXID: SPDXRef-item876961
+FileChecksum: SHA1: 8bddcc904e9235cee9b47d63ce91e2c09c139b47
+FileChecksum: MD5: 5afae2a7f6f71fb9105f8d53fe98c8d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sed.pot
+SPDXID: SPDXRef-item876962
+FileChecksum: SHA1: c71f85c2ad0a1a981f0b96e1b0d1bc635f90e7a5
+FileChecksum: MD5: c36e3d1bf868d7028a7995c84c2c7214
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/insert-header.sin
+SPDXID: SPDXRef-item876963
+FileChecksum: SHA1: b056528528249afdf45cc1cec4245578840724ab
+FileChecksum: MD5: b8d349a13678a4e0e18c8ee06c1bebea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/he.po
+SPDXID: SPDXRef-item876964
+FileChecksum: SHA1: 1274f6be834c0887114229b70cf780c26968f94d
+FileChecksum: MD5: 1e1157527e76be211d1328be69e596ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ast.po
+SPDXID: SPDXRef-item876965
+FileChecksum: SHA1: 8775d6d2321ee90c4637ee74c6fc8b2d5c597e7c
+FileChecksum: MD5: 4e9c377cac39640896ac5269f5c9bccc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ro.po
+SPDXID: SPDXRef-item876966
+FileChecksum: SHA1: 557d4583c650624d1e3b5db117c0d33269dad058
+FileChecksum: MD5: 1b157b9fc656ec50d7642f724e9bd35a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sk.po
+SPDXID: SPDXRef-item876967
+FileChecksum: SHA1: 6f218044b44ae502802f696c6b3373f4db8bee4d
+FileChecksum: MD5: 1f5bb6843c76bef4f8fce024d80ef11d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/da.po
+SPDXID: SPDXRef-item876968
+FileChecksum: SHA1: e9ad7510dc0afa0cc955a77044bf0746fddcfecb
+FileChecksum: MD5: 4c38ce5ba61cdcf186df7200a55b27a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/en@boldquot.header
+SPDXID: SPDXRef-item876969
+FileChecksum: SHA1: a3bdad8e8a70840710219749a9bd0786f5de5487
+FileChecksum: MD5: 140858226cbabd8977f21e2f29168bb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/quot.sed
+SPDXID: SPDXRef-item876970
+FileChecksum: SHA1: 7ec5417fc239ef3a2aad760c755d5c84b0d1e333
+FileChecksum: MD5: f652c7cf9496049a47b091513f120a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/hu.po
+SPDXID: SPDXRef-item876971
+FileChecksum: SHA1: aea22c1667cd858e0dcf17e7740ef5f82ff3ea1f
+FileChecksum: MD5: 06de49ab62a263631faa84270c062487
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ja.po
+SPDXID: SPDXRef-item876972
+FileChecksum: SHA1: 071e9ac8723f98f431453d9a431748adf59ffaa5
+FileChecksum: MD5: 71063b5a642ceffc0c95d541935e0ab6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/uk.gmo
+SPDXID: SPDXRef-item876973
+FileChecksum: SHA1: 350dc5544bede105ee26410cea897c56608a0e95
+FileChecksum: MD5: 2bb5a0b5a0391805f9fa7898865f52ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/pl.gmo
+SPDXID: SPDXRef-item876974
+FileChecksum: SHA1: 26733b3a8b7d261d4cde9200426d5ae30cedbe92
+FileChecksum: MD5: 6e4b598cd1c86261b5be2c1e470124cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/af.gmo
+SPDXID: SPDXRef-item876975
+FileChecksum: SHA1: 7fe9bee14abb4fae88b1bf6c8c4fb525c4f14081
+FileChecksum: MD5: 0fbe0052cbe61e2d92e7a3dd497f1104
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/pl.po
+SPDXID: SPDXRef-item876976
+FileChecksum: SHA1: 31a47c1cc4042b05577ae7fc23dc9ac020ae13b3
+FileChecksum: MD5: c28780da765fcb421dc1d9ee32e2c1e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/Makevars
+SPDXID: SPDXRef-item876977
+FileChecksum: SHA1: aff1520caadf0199201339b4f6ff8d65acee8116
+FileChecksum: MD5: 6401c98b02f974e332b06bb3dc405b46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/nl.gmo
+SPDXID: SPDXRef-item876978
+FileChecksum: SHA1: b4bb68368431b019db321e7bc49e6d49972e6efa
+FileChecksum: MD5: 96b903f52483abd16672ba7a488e2503
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/fi.po
+SPDXID: SPDXRef-item876979
+FileChecksum: SHA1: e8390bc7fa5dd94489543d18124aa0c6ca281228
+FileChecksum: MD5: 757af672e0df8844e921326d2fd15564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/he.gmo
+SPDXID: SPDXRef-item876980
+FileChecksum: SHA1: ead2b07af64915cb89e697ff3c975144de0d13b8
+FileChecksum: MD5: 3be5436f0eb94192b58ffd0281975e25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/zh_TW.po
+SPDXID: SPDXRef-item876981
+FileChecksum: SHA1: 2cd206d50fe58c12948117d3e52e087150d75965
+FileChecksum: MD5: 8ac94a2b2c6502f706c80d60a578a76e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/nb.gmo
+SPDXID: SPDXRef-item876982
+FileChecksum: SHA1: 6db1bf28e3dc901ede5c277b7d7e25cd6b6d7fc5
+FileChecksum: MD5: 68963572917ed41129926e64be4d114b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ja.gmo
+SPDXID: SPDXRef-item876983
+FileChecksum: SHA1: 2f4d205d2da627e991de47a84bc000add08fbecd
+FileChecksum: MD5: eaeeb2c11c5f0c4736387b6e1a504c91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/zh_TW.gmo
+SPDXID: SPDXRef-item876984
+FileChecksum: SHA1: a51e9a6bf8b5109ec06a8641de63ea5a8d827085
+FileChecksum: MD5: f0cd2a6c95551e38e30d505289f83acd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/hr.gmo
+SPDXID: SPDXRef-item876985
+FileChecksum: SHA1: 4bb3487d85fabb3a733d62b20a3e1310d9b43be0
+FileChecksum: MD5: 748b570172a059a4b3cf44833eab91fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sr.gmo
+SPDXID: SPDXRef-item876986
+FileChecksum: SHA1: 95e6e0a67141021e2b45076589b8594428547f1f
+FileChecksum: MD5: 98f7953342b87f14154b75ed87ba2eff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/it.po
+SPDXID: SPDXRef-item876987
+FileChecksum: SHA1: 5f23de68a711138b97e5b675ad740fde00f569e1
+FileChecksum: MD5: f7d15c7e32a7c8042acf104d8ab2f74f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/eu.po
+SPDXID: SPDXRef-item876988
+FileChecksum: SHA1: 3293714df7c14b5e6ecf5b4a783c1d24d56789a1
+FileChecksum: MD5: 59dc674109ea5085e96969a61d2a129e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/uk.po
+SPDXID: SPDXRef-item876989
+FileChecksum: SHA1: 42d33d28edd875589d1b810af0dd051f53d6bcba
+FileChecksum: MD5: 444756a4e6959600c4c6b1cd0b7e0b9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sk.gmo
+SPDXID: SPDXRef-item876990
+FileChecksum: SHA1: 835e6c0658fcde6a3422c5984206a42750bbc03c
+FileChecksum: MD5: 899319c1da4ef9a27df9e1a75b5764ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/nl.po
+SPDXID: SPDXRef-item876991
+FileChecksum: SHA1: 009b10a5dec567e7f67eb94087226e924c859be0
+FileChecksum: MD5: 3a607994b4c362964a506bc40c8a4ea6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/zh_CN.gmo
+SPDXID: SPDXRef-item876992
+FileChecksum: SHA1: 63dd641cd75213a27dc4ddb8d489dd893013d7e6
+FileChecksum: MD5: 844e9e39e3da1b7960a7bbf393343f88
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/zh_CN.po
+SPDXID: SPDXRef-item876993
+FileChecksum: SHA1: e2476a61a43f83afa77987732b422727fe96b913
+FileChecksum: MD5: 9ecbb42e3582a00e557e03ae545d4cee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/en@quot.header
+SPDXID: SPDXRef-item876994
+FileChecksum: SHA1: d863e8547486ef608b6ee9277ba02c48b72c7a5b
+FileChecksum: MD5: 4fab037eca87181f2066bda633c7aca7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/pt.gmo
+SPDXID: SPDXRef-item876995
+FileChecksum: SHA1: 14117bf73773f475d43258a09cb0bf62b4acacc9
+FileChecksum: MD5: 12c3d0582ca8b528c03b971df4ffa1cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/Rules-quot
+SPDXID: SPDXRef-item876996
+FileChecksum: SHA1: 6d1f6a58ea4636cecbdbadab4bbdc6a731871103
+FileChecksum: MD5: 6bd69c891f952c0bdc2ac549a06349b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/tr.po
+SPDXID: SPDXRef-item876997
+FileChecksum: SHA1: c57f11867da8f434c0d3591874b2ca38688e2d73
+FileChecksum: MD5: 430f7cc0ef73d1a7516cbbf23637ea86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/pt.po
+SPDXID: SPDXRef-item876998
+FileChecksum: SHA1: 9cc22a5d50cf26562b0e07cfa3ddff86f4103f38
+FileChecksum: MD5: 712d5f4413aac8d7ec0b21f26d911526
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ca.gmo
+SPDXID: SPDXRef-item876999
+FileChecksum: SHA1: f8aa2335f087a10869a25a5519f58a4a8f2f590c
+FileChecksum: MD5: fd0e685b2004b1f584b148397cf3f855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/de.gmo
+SPDXID: SPDXRef-item877000
+FileChecksum: SHA1: d1ce4b15e77d19f2c2698bf4a84dc1cd551b9b81
+FileChecksum: MD5: 2f5666ae056a4f87d1bc452842f61379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/vi.po
+SPDXID: SPDXRef-item877001
+FileChecksum: SHA1: d2aaf3a53cf64de425c039aef62a639925a86fce
+FileChecksum: MD5: b87ada9eb5c83af762370cedbe10171f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/hr.po
+SPDXID: SPDXRef-item877002
+FileChecksum: SHA1: 73e0e5acf1a1e814c088d155ecf0069f3732be81
+FileChecksum: MD5: e6086aed43f3434bd50c0e58f6d981a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/it.gmo
+SPDXID: SPDXRef-item877003
+FileChecksum: SHA1: e6df1696eadfbc13c44bc1166c7002de0fc556c3
+FileChecksum: MD5: 99e5d4441ee78e840e9692e2c1740aaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/et.po
+SPDXID: SPDXRef-item877004
+FileChecksum: SHA1: ac543e5f985bf590254dd5bace420f75a1dcb629
+FileChecksum: MD5: ab9f9a6b6d766203c3647ba3c6eb3582
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/POTFILES.in
+SPDXID: SPDXRef-item877005
+FileChecksum: SHA1: 25ce70f2ec89622a5ea48fc0f6d5bd328914258e
+FileChecksum: MD5: 91b9094a026306a55668f737a09190ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/pt_BR.gmo
+SPDXID: SPDXRef-item877006
+FileChecksum: SHA1: 7c907ca77fa4bc2534e7a858ce1da71047ab662f
+FileChecksum: MD5: 9eea0febc156f2f327eec609917a43d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/el.po
+SPDXID: SPDXRef-item877007
+FileChecksum: SHA1: 0a9c1a5ee9c184d67444bb323932d1dcbb2ebcc2
+FileChecksum: MD5: c09e2ecac3ab3a927cd94878607045ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/sl.po
+SPDXID: SPDXRef-item877008
+FileChecksum: SHA1: 14a1bc4cfbe5d053645ac478a9154e4d5ba97bfc
+FileChecksum: MD5: 1d199282a3a93b7e68952b8ab1b6d735
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/ChangeLog
+SPDXID: SPDXRef-item877009
+FileChecksum: SHA1: 9369c6475fd274da616c315dfb0e59704295419c
+FileChecksum: MD5: f2c9100d85900ff3fc11314b16bdd88d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/af.po
+SPDXID: SPDXRef-item877010
+FileChecksum: SHA1: 30ebcc6f115a74855a89ad21c208022b566a93dd
+FileChecksum: MD5: 219e9f028d327e379c52e72f31db92eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Same-license-as
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/LINGUAS
+SPDXID: SPDXRef-item877011
+FileChecksum: SHA1: 522d1fb2f7715d7bb6900c2a139c0f4aed65a939
+FileChecksum: MD5: c0b5fd87e426f1add5943f4b17d2676c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/po/eo.po
+SPDXID: SPDXRef-item877012
+FileChecksum: SHA1: 26010b5d509ebd5b43971b21dd021ddfe7eb5405
+FileChecksum: MD5: f805f2f286166158641fbbc640576fb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/fmt.c
+SPDXID: SPDXRef-item877014
+FileChecksum: SHA1: cdff5a20a7e4c5f5b1bc8a7fdeac89c48cac4a11
+FileChecksum: MD5: e1605d932f3491d278472d9caaf233a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/Makefile.in
+SPDXID: SPDXRef-item877015
+FileChecksum: SHA1: 58543930f879689818e93507685e5df625c3de88
+FileChecksum: MD5: 3c896a743f2443dea2a39b8f66f78dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/regexp.c
+SPDXID: SPDXRef-item877016
+FileChecksum: SHA1: f4b26d29d76dc306f3547adc0f3502f3c47243ce
+FileChecksum: MD5: 4b3398f584b6385df5b56f353adcc37f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/Makefile.am
+SPDXID: SPDXRef-item877017
+FileChecksum: SHA1: c1037611dc7740526008395d2db94e8a92da96d3
+FileChecksum: MD5: 76e84fef9aa6d6ce3cb4e267a5e67d20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/utils.c
+SPDXID: SPDXRef-item877018
+FileChecksum: SHA1: 9140ddccbe321ca40acc7620bcc7116c1098d468
+FileChecksum: MD5: 7dca298a13fd725555d0314f0fc69d5e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/sed.h
+SPDXID: SPDXRef-item877019
+FileChecksum: SHA1: c0126cb659ae2110117e5a0530b4998f4f7fc4af
+FileChecksum: MD5: e18b8f780a17edb6533414f4ddcdb27b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/mbcs.c
+SPDXID: SPDXRef-item877020
+FileChecksum: SHA1: bbfe9dfe9bb2d13451b72899ec58b812308c05c2
+FileChecksum: MD5: 440fd4373b9205b5db2eeb66190c9e79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/execute.c
+SPDXID: SPDXRef-item877021
+FileChecksum: SHA1: 8548fba4f3de9d5f20988d7814ac10228d2e3eae
+FileChecksum: MD5: 21c3695446f1f7da367079619e853bec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/utils.h
+SPDXID: SPDXRef-item877022
+FileChecksum: SHA1: 000d447289fb47ddc206679d86a432b404a3fbae
+FileChecksum: MD5: fe3543d3b7674cf33d7a3824630fe79a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/compile.c
+SPDXID: SPDXRef-item877023
+FileChecksum: SHA1: 4d054a56a235b34b5bb504c45e2d63c5c5bf9901
+FileChecksum: MD5: de4a086967b7d1b6c7db4ae270503559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/sed/sed.c
+SPDXID: SPDXRef-item877024
+FileChecksum: SHA1: cb9e0999da0e3b53fd4f1bcdbc494d29ea1381d3
+FileChecksum: MD5: b991acbd42951c9a8b3a3ef8ba05abba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/Makefile.am
+SPDXID: SPDXRef-item877025
+FileChecksum: SHA1: 62e6ea3c0d54049a0cfb4c0aa586694f8c21c9ba
+FileChecksum: MD5: 310fec09c693534ae7fe285dc9b750b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/AUTHORS
+SPDXID: SPDXRef-item877026
+FileChecksum: SHA1: 98df57012d9114ff8161c99e736a9afb8d8d35b4
+FileChecksum: MD5: 7357ae38fef6772b8c5e8639769a80e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/stamp-vti
+SPDXID: SPDXRef-item877028
+FileChecksum: SHA1: 76a828f4a9b1e449464be8d07624d1d33ada0f6e
+FileChecksum: MD5: 68d38b5f2007c2c68a53210a401bef28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/config.texi
+SPDXID: SPDXRef-item877029
+FileChecksum: SHA1: 74388f6ff6f3862243f624bb3ed9a7c88779f6ce
+FileChecksum: MD5: 41e5fbb4d889dde5d7d369db7b941392
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/groupify.sed
+SPDXID: SPDXRef-item877030
+FileChecksum: SHA1: 288774ac7a960538a0a11f4a5c47f8596677f263
+FileChecksum: MD5: 126e5271b22e678750d3367be479f282
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/s-texi
+SPDXID: SPDXRef-item877031
+FileChecksum: SHA1: 30c72cc1f29dc013ecbe8b6fbe5abc81b35c3b9c
+FileChecksum: MD5: a7b482d366d6f874f74f9d08cf553c5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/Makefile.in
+SPDXID: SPDXRef-item877032
+FileChecksum: SHA1: cfbee9d5fa6f8b9b884836bcfb2e25c3a7789122
+FileChecksum: MD5: e820b1c037fff3d58441415ee8b8acb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/sed.x
+SPDXID: SPDXRef-item877033
+FileChecksum: SHA1: 842aba102fdd648830588b19b3c0ffe9bf25a76c
+FileChecksum: MD5: e2e85f13a5754a54406683837c255b49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/sed.texi
+SPDXID: SPDXRef-item877034
+FileChecksum: SHA1: d83207bec5b390e869f0ad07513a93ab22c4fef4
+FileChecksum: MD5: 59e9552719e3428229a5137d2950bef2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/sed-in.texi
+SPDXID: SPDXRef-item877035
+FileChecksum: SHA1: 28762f6d942620804ac01cbb6ce58ce43cd90fcb
+FileChecksum: MD5: 4fca22789990c85149b63fad39e06881
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/Makefile.am
+SPDXID: SPDXRef-item877036
+FileChecksum: SHA1: a3eeb882b92551d3790ee159969fb074a0df4e5a
+FileChecksum: MD5: 7a712a1413893ae094b62fa67815f803
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/version.texi
+SPDXID: SPDXRef-item877037
+FileChecksum: SHA1: 76a828f4a9b1e449464be8d07624d1d33ada0f6e
+FileChecksum: MD5: 68d38b5f2007c2c68a53210a401bef28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/sed.1
+SPDXID: SPDXRef-item877038
+FileChecksum: SHA1: c4f9fe1961397f6c65710a59926602403f61463d
+FileChecksum: MD5: 5b4bd585a60a7a01b9433fdc8feec165
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/doc/sed.info
+SPDXID: SPDXRef-item877039
+FileChecksum: SHA1: 31ff81c7c44cf1998de026ce67d99630cc9befb9
+FileChecksum: MD5: 440107d8c3f7002410c96fba7c361788
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/bootstrap
+SPDXID: SPDXRef-item877040
+FileChecksum: SHA1: c146c2c917b6617075332b81c9c674ef344e9b26
+FileChecksum: MD5: 0bec0d0a26eb506dd304bd7bd4c3476a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/README
+SPDXID: SPDXRef-item877041
+FileChecksum: SHA1: 01c1f2bc9921f2fed639fa1bcf445fe7ca79b541
+FileChecksum: MD5: 636f5eeb85a4f99b945849d919b6c38d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/applied-patches
+SPDXID: SPDXRef-item877043
+FileChecksum: SHA1: 104d7890998a08013bbb988aba4577ae6f26cb79
+FileChecksum: MD5: 09bb26243c18496368f4f4954254f5e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/.quilt_series
+SPDXID: SPDXRef-item877044
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/.version
+SPDXID: SPDXRef-item877045
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/0001-Unset-need_charset_alias-when-building-for-musl.patch/lib/gnulib.mk
+SPDXID: SPDXRef-item877048
+FileChecksum: SHA1: 58ad79e7ba5d441671a6332ce9a6efa0a51a1a5f
+FileChecksum: MD5: 4abccb279564aa962287acbf0a86c361
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/0001-Unset-need_charset_alias-when-building-for-musl.patch/.timestamp
+SPDXID: SPDXRef-item877049
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/.quilt_patches
+SPDXID: SPDXRef-item877050
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/sed-add-ptest.patch/testsuite/Makefile.am
+SPDXID: SPDXRef-item877053
+FileChecksum: SHA1: 57c97223626ea1efadf1ffe2f54c329171ce2927
+FileChecksum: MD5: db9bf6e7a55b8c00d892405cda6fee22
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/sed-add-ptest.patch/doc/Makefile.am
+SPDXID: SPDXRef-item877055
+FileChecksum: SHA1: 9ad4b1434a136e26be92840b1094ba7e26960646
+FileChecksum: MD5: ca4c5026ab27939bdb10289a468e28b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/sed-add-ptest.patch/.timestamp
+SPDXID: SPDXRef-item877056
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/.pc/sed-add-ptest.patch/configure.ac
+SPDXID: SPDXRef-item877057
+FileChecksum: SHA1: ba7437aedbb643b1bc483312dd44d1db5644fca3
+FileChecksum: MD5: 9ea0902c70d78c1559a1f2b0d9046654
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/configure.ac
+SPDXID: SPDXRef-item877058
+FileChecksum: SHA1: 0412be42912d769e24a1c5478f50d50bee0bbe13
+FileChecksum: MD5: 66c58ea89c09161cac36bdd24fd96c3c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/compile
+SPDXID: SPDXRef-item877060
+FileChecksum: SHA1: 08e7ff6a0bc9382beae57974c3ac95c9ac565faa
+FileChecksum: MD5: fbac5cdbbd1f2cc5b954b00938c23a86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/install-sh
+SPDXID: SPDXRef-item877061
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/texinfo.tex
+SPDXID: SPDXRef-item877062
+FileChecksum: SHA1: 4293750a20710125780c142ac24f690afe6bc5e6
+FileChecksum: MD5: 73819b3930a3d4be5d6234070d02386a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-TeX-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/snippet/warn-on-use.h
+SPDXID: SPDXRef-item877064
+FileChecksum: SHA1: 50d85819201747979c2ecd440ce9b0c118358cbb
+FileChecksum: MD5: 5191c75ace60622d4ed83dd1da7081af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/snippet/unused-parameter.h
+SPDXID: SPDXRef-item877065
+FileChecksum: SHA1: 408dc7efe861e5db38fbcf85018b5e0e076ca678
+FileChecksum: MD5: b4073ca6838313ff3559a6f888e2d7cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/snippet/arg-nonnull.h
+SPDXID: SPDXRef-item877066
+FileChecksum: SHA1: 80c45c4424901fea1ee8742113bcb071ebe9f563
+FileChecksum: MD5: e4b333e170e48327373d221d9481691e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/snippet/c++defs.h
+SPDXID: SPDXRef-item877067
+FileChecksum: SHA1: 931e860777ec354861c201cbe3724606f68159b6
+FileChecksum: MD5: 51349df0cee22c8bae8b11df5ed7b586
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/snippet/_Noreturn.h
+SPDXID: SPDXRef-item877068
+FileChecksum: SHA1: 1f64b11327ec515b28fa1e0300ec147259a98517
+FileChecksum: MD5: e228064a3c2755b1381df29c0f509c4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/config.sub
+SPDXID: SPDXRef-item877069
+FileChecksum: SHA1: 25901259dd48b5a7be00138c498ed65adb6a8f7a
+FileChecksum: MD5: 0b96c40308f509ba2c0e132c1d2e70e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/missing
+SPDXID: SPDXRef-item877070
+FileChecksum: SHA1: dbdbc7d3c1662c598885b8e7ee942c2e15fd04ee
+FileChecksum: MD5: 0bd4305decaecce85afb63ba0eae6185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/config.rpath
+SPDXID: SPDXRef-item877071
+FileChecksum: SHA1: 0ec08c5146b1d31c728c3ceb7ba90ac45a9f3972
+FileChecksum: MD5: 997e6d6329fdd69c134439110922c96b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/help2man
+SPDXID: SPDXRef-item877072
+FileChecksum: SHA1: 5050b91bb5659bdea1648931b1173592a142d970
+FileChecksum: MD5: 16eab4b117028e27f74dd082d2f68504
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/mdate-sh
+SPDXID: SPDXRef-item877073
+FileChecksum: SHA1: 1b8fab794f120b4260c6fae42f99d8613c1f1630
+FileChecksum: MD5: 28b84d7f4c0c5ec874145d36288faeef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/texi2dvi
+SPDXID: SPDXRef-item877074
+FileChecksum: SHA1: e6ca4d93305aedc5e9c9f06e1295167a89ef8d00
+FileChecksum: MD5: 06b9128d9c1b348e4ec07e7fbc22e7e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/config.guess
+SPDXID: SPDXRef-item877075
+FileChecksum: SHA1: 5042b8cef1feb971984c89c08f439792a36904b1
+FileChecksum: MD5: c3178bdc1506f569388eaebec2026003
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/build-aux/depcomp
+SPDXID: SPDXRef-item877076
+FileChecksum: SHA1: 2f930a1dc16edf9e565ba176e460e01051ffe8d7
+FileChecksum: MD5: 773b3dbf0a8c9838b4bf812039f82da1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/README-alpha
+SPDXID: SPDXRef-item877077
+FileChecksum: SHA1: c61f6dac2f7b08242ce8a1c7d1fc78742bfd010b
+FileChecksum: MD5: 3d3d0a5f6f137f76bc7d9f07a1dc61e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/INSTALL
+SPDXID: SPDXRef-item877078
+FileChecksum: SHA1: be422ce0c7565386deb4018100d597b24717267e
+FileChecksum: MD5: fd3fffde3e364ca1fb46c81b741a766a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/patches/series
+SPDXID: SPDXRef-item877081
+FileChecksum: SHA1: 1ee923edb7ecd3848e4ed67f94d720a4c42ed8d4
+FileChecksum: MD5: 029f6c024b73994d07b0d55ab2f0d5b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/COPYING.DOC
+SPDXID: SPDXRef-item877083
+FileChecksum: SHA1: e1d31e42d2a477d6def889000aa8ffc251f2354c
+FileChecksum: MD5: 10b9de612d532fdeeb7fe8fcd1435cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GFDL-1.3
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/config_h.in
+SPDXID: SPDXRef-item877084
+FileChecksum: SHA1: b29e3ae01a9f17d87037825a7ea1ebb44fca8fec
+FileChecksum: MD5: d7761ba4881ad833c757ee81ca3ac976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-4.2.2/ChangeLog
+SPDXID: SPDXRef-item877085
+FileChecksum: SHA1: f36284eb029d16ec1a85ed311dfe8e30bc511346
+FileChecksum: MD5: 4420dbff19ca4660af09a8e4a3bae97e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/sed-add-ptest.patch
+SPDXID: SPDXRef-item877086
+FileChecksum: SHA1: 55976c03796d13f66727899a72a0e15893d290e9
+FileChecksum: MD5: 2ae0793c1569e7a550dd2d7ede953103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-NOT-public-domain
+LicenseName: NOT-public-domain
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-TeX-exception
+LicenseName: TeX-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-GPL-with-autoconf-exception
+LicenseName: GPL-with-autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GFDL-1.1+
+LicenseName: GFDL-1.1+
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Same-license-as
+LicenseName: Same-license-as
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-MIT-CMU-style
+LicenseName: MIT-CMU-style
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

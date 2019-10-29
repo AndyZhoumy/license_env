@@ -1,0 +1,74 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_hmi-debug-git-r0-patched.tar.gz_1571458898.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:21:38Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: hmi-debug
+PackageVersion: git
+PackageFileName: hmi-debug-git-r0-patched.tar.gz
+SPDXID: SPDXRef-upload390
+PackageDownloadLocation: file://hmi-debug
+PackageHomePage: 
+PackageSummary: <text>hmi-debug version git-r0</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>hmi-debug version git</text>
+PackageChecksum: SHA1: a886a53148cf35c84a64c6bf79119b1304348955
+PackageChecksum: MD5: 7ed8fe5260c93d0e2300d111de430223
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload390
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/hmi-debug
+SPDXID: SPDXRef-item934941
+FileChecksum: SHA1: 9d2d66695082638ce761e7a4131474a527f92889
+FileChecksum: MD5: cfb42278c1713b45cdf92acc63aa1811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

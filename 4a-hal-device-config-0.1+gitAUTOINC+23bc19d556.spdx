@@ -1,0 +1,514 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_4a-hal-device-config-0.1+gitAUTOINC+23bc19d556-r0-patched.tar.gz_1571457896.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:04:56Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: 4a-hal-device-config
+PackageVersion: 0.1+gitAUTOINC+23bc19d556
+PackageFileName: 4a-hal-device-config-0.1+gitAUTOINC+23bc19d556-r0-patched.tar.gz
+SPDXID: SPDXRef-upload332
+PackageDownloadLocation: gitsm://gerrit.automotivelinux.org/gerrit/src/4a-hal-configs;protocol=https;branch=guppy
+PackageHomePage: https://git.automotivelinux.org/src/4a-hal-configs/
+PackageSummary: <text>4A - Generic HAL device configuration</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>4a-hal-device-config version 0.1+gitAUTOINC+23bc19d556</text>
+PackageChecksum: SHA1: d12577879ce0bdcb9c001f5bd8ce3b4edbff884a
+PackageChecksum: MD5: 296db3b377c547d37f60d4d00269ab18
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload332
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/git/.gitreview
+SPDXID: SPDXRef-item851522
+FileChecksum: SHA1: 204ba0fec4d9248e982fe1dbb359e4fa2fda8362
+FileChecksum: MD5: bca34d0d34c87a41efe7f35f3c0210c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/config
+SPDXID: SPDXRef-item851524
+FileChecksum: SHA1: b6a97aff5c4b502505f668804d8b53713f8a23e9
+FileChecksum: MD5: da683bd06d5c4369a5b241d32c0f5ef1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/packed-refs
+SPDXID: SPDXRef-item851526
+FileChecksum: SHA1: 98dd80e2aef2125b70e3404c58d9f23b2f7a567d
+FileChecksum: MD5: ee3c6d1085a2be856c33d3c1eb64619b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/master
+SPDXID: SPDXRef-item851529
+FileChecksum: SHA1: 709055ec2276362ff42afdaadb0286077e4a0f29
+FileChecksum: MD5: facfe756a482ff981f44add9cb10ebee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/guppy
+SPDXID: SPDXRef-item851530
+FileChecksum: SHA1: b47f1acc3acbdd12205d1392cf912766b1cd0761
+FileChecksum: MD5: 978f3c4c12e6213e88b08bdb48c35f0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item851534
+FileChecksum: SHA1: d9427cda09aba1cdde5c69c2b13c905bddb0bc51
+FileChecksum: MD5: 73a00957034783b7b5c8294c54cd3e12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/index
+SPDXID: SPDXRef-item851535
+FileChecksum: SHA1: ba59583364864596cdc3f331aa52600498c54f5c
+FileChecksum: MD5: cf17d6ce7e616f7a3439bcff6eb7eb36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/master
+SPDXID: SPDXRef-item851539
+FileChecksum: SHA1: 36a6b5bb7fdd8374307751633229d054de406971
+FileChecksum: MD5: 7cd026b363147934515630dea8a982b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/guppy
+SPDXID: SPDXRef-item851540
+FileChecksum: SHA1: bac0be6ba4e5c182b978b4001f1da36342286fca
+FileChecksum: MD5: 4ddf83c7d320b4d96d1d83fa383569d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item851543
+FileChecksum: SHA1: 36a6b5bb7fdd8374307751633229d054de406971
+FileChecksum: MD5: 7cd026b363147934515630dea8a982b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/HEAD
+SPDXID: SPDXRef-item851544
+FileChecksum: SHA1: a3b1d48ed72c5194fbb9d4f5c95b26678f794c74
+FileChecksum: MD5: 119517ea5ab28b431e865d0784f7fa91
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/description
+SPDXID: SPDXRef-item851545
+FileChecksum: SHA1: 9635f1b7e12c045212819dd934d809ef07efa2f4
+FileChecksum: MD5: a0a7c3fff21f2aea3cfa1d0316dd816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/objects/info/alternates
+SPDXID: SPDXRef-item851549
+FileChecksum: SHA1: b78bdc6c08a96312fccc16d4285cacb9f845cff3
+FileChecksum: MD5: a04850d55bf00ab6225892dcfa3f3730
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/info/exclude
+SPDXID: SPDXRef-item851551
+FileChecksum: SHA1: c879df015d97615050afa7b9641e3352a1e701ac
+FileChecksum: MD5: 036208b4a1ab4a235d75c181e685e5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/commit-msg.sample
+SPDXID: SPDXRef-item851553
+FileChecksum: SHA1: ee1ed5aad98a435f2020b6de35c173b75d9affac
+FileChecksum: MD5: 579a3c1e12a1e74a98169175fb913012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/post-update.sample
+SPDXID: SPDXRef-item851554
+FileChecksum: SHA1: b614c2f63da7dca9f1db2e7ade61ef30448fc96c
+FileChecksum: MD5: 2b7ea5cee3c49ff53d41e00785eb974c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/update.sample
+SPDXID: SPDXRef-item851555
+FileChecksum: SHA1: e729cd61b27c128951d139de8e7c63d1a3758dde
+FileChecksum: MD5: 517f14b9239689dff8bda3022ebd9004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-commit.sample
+SPDXID: SPDXRef-item851556
+FileChecksum: SHA1: 36aed8976dcc08b5076844f0ec645b18bc37758f
+FileChecksum: MD5: 01b1688f97f94776baae85d77b06048b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/prepare-commit-msg.sample
+SPDXID: SPDXRef-item851557
+FileChecksum: SHA1: 2b6275eda365cad50d167fe3a387c9bc9fedd54f
+FileChecksum: MD5: 7dfe15854212a30f346da5255c1d794b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/applypatch-msg.sample
+SPDXID: SPDXRef-item851558
+FileChecksum: SHA1: 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
+FileChecksum: MD5: ce562e08d8098926a3862fc6e7905199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-push.sample
+SPDXID: SPDXRef-item851559
+FileChecksum: SHA1: 5c8518bfd1d1d3d2c1a7194994c0a16d8a313a41
+FileChecksum: MD5: 3c5989301dd4b949dfa1f43738a22819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-applypatch.sample
+SPDXID: SPDXRef-item851560
+FileChecksum: SHA1: f208287c1a92525de9f5462e905a9d31de1e2d75
+FileChecksum: MD5: 054f9ffb8bfe04a599751cc757226dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-rebase.sample
+SPDXID: SPDXRef-item851561
+FileChecksum: SHA1: 18be3eb275c1decd3614e139f5a311b75f1b0ab8
+FileChecksum: MD5: 3ff6ba9cf6d8e5332978e057559b5562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/HEAD
+SPDXID: SPDXRef-item851562
+FileChecksum: SHA1: e51ca2d47fe07bcf67697ae5b6bb9828ddbaafbd
+FileChecksum: MD5: bb971c55ccd418fda0ea83de0ee285c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/udev/hal-default.rules.in
+SPDXID: SPDXRef-item851564
+FileChecksum: SHA1: 634fd72b15374191a34166914a32ab12e9c5207f
+FileChecksum: MD5: e584d44d1f3fc2fd76ee12ce9a42a9b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/devices/hal-4a-unicens-utp.json
+SPDXID: SPDXRef-item851566
+FileChecksum: SHA1: 444bf97dd49e6c4c77044704a4d2be085d311cea
+FileChecksum: MD5: 4254ffcc17936141509c4baf809a5254
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/devices/hal-4a-greenbox.json
+SPDXID: SPDXRef-item851567
+FileChecksum: SHA1: 33cf222b54d1fbd4dcb06dc7aa2f84e475ddbc9f
+FileChecksum: MD5: aa05b97596bac83933e6ad286a486903
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/devices/hal-4a-unicens-coax.json
+SPDXID: SPDXRef-item851568
+FileChecksum: SHA1: befccbf41cb1a641fa7a4ea9d31e6cfcdcfe76f5
+FileChecksum: MD5: 90379c93a5142e886c4a37a9a6c3c68a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/community-boards/hal-4a-raspberry-pi-3.json
+SPDXID: SPDXRef-item851570
+FileChecksum: SHA1: 0f171b09b9a68679f58d9c323c35fee99fba7731
+FileChecksum: MD5: e35dc3145a6250388e4a4793db5801ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/community-boards/hal-4a-intel-upsquared-hdmi.json
+SPDXID: SPDXRef-item851571
+FileChecksum: SHA1: 74ec83b4cf806fc8ba4a033c038680d49f2f395b
+FileChecksum: MD5: d53a698c2e06eeba5b34df6a1ac5cd25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/community-boards/hal-4a-jabra.json
+SPDXID: SPDXRef-item851572
+FileChecksum: SHA1: 1a3596477d6c5b38615f02599df9ef0581ea2b7c
+FileChecksum: MD5: 26e4108bcfd13f7aacb35b7a4fce952e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/community-boards/hal-4a-2ch-generic-usb.json
+SPDXID: SPDXRef-item851573
+FileChecksum: SHA1: 611c85e0d034d6d02ffffb75a6b4913836b7d4af
+FileChecksum: MD5: e39a52869eb45180595b4c2746d35a7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/community-boards/hal-4a-intel.json
+SPDXID: SPDXRef-item851574
+FileChecksum: SHA1: a6d637c5cde55a0bbb2b14c6b72b5eab249741cd
+FileChecksum: MD5: ac1dcae854d775dbd32551328e890637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/community-boards/hal-4a-csl-cm106-8ch-usb.json
+SPDXID: SPDXRef-item851575
+FileChecksum: SHA1: 9ceb9806eb0c80e38d61bb3b2dcf08be85a1c370
+FileChecksum: MD5: a45a5586aba3624932a0fabecae9188c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/community-boards/hal-4a-ensoniq.json
+SPDXID: SPDXRef-item851576
+FileChecksum: SHA1: ba176b46034da7b888333deaf69a5898ffce3ff4
+FileChecksum: MD5: aeffa48943b9f7f3301ef2f28284d7bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/LICENSE
+SPDXID: SPDXRef-item851577
+FileChecksum: SHA1: 7df059597099bb7dcf25d2a9aedfaf4465f72d8d
+FileChecksum: MD5: 86d3f3a95c324c9479bd8986968f4327
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/reference-boards/hal-4a-rcar-m3kf.json
+SPDXID: SPDXRef-item851579
+FileChecksum: SHA1: 3113e9e6387a72811b8eea4b3a99c5e65cc3846d
+FileChecksum: MD5: 091730ef76fed4129209b0836410eb62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/reference-boards/hal-4a-intel-minnow.json
+SPDXID: SPDXRef-item851580
+FileChecksum: SHA1: 5de7aa7582565514bc5523fda2e7282d12c7cc95
+FileChecksum: MD5: 84f70a54f81191c3af6189131d4d33bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/reference-boards/hal-4a-intel-qemu.json
+SPDXID: SPDXRef-item851581
+FileChecksum: SHA1: 12869e4a274a82de97402d53c7d2b25e77399915
+FileChecksum: MD5: 4f01b60e3bc6269307f0a4599109ae98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/reference-boards/hal-4a-rcar-m3.json
+SPDXID: SPDXRef-item851582
+FileChecksum: SHA1: 8d8d66dc2ff87f6cd70112f047b9089ce5411161
+FileChecksum: MD5: 4867c570a9f1f92122be4d9833a48a04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/README.md
+SPDXID: SPDXRef-item851583
+FileChecksum: SHA1: 343f6585a7d4c9ecb175e42c9e751576a13deee1
+FileChecksum: MD5: c8dbf1a6e8d8a7502e8cb5f5f6cfdc64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

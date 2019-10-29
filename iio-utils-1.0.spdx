@@ -1,0 +1,140 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_iio-utils-1.0-r0-patched.tar.gz_1571457872.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:04:32Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: iio-utils
+PackageVersion: 1.0
+PackageFileName: iio-utils-1.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload330
+PackageDownloadLocation: file://iio-utils.tar.gz
+PackageHomePage: 
+PackageSummary: <text>IIO Utils</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>iio-utils version 1.0</text>
+PackageChecksum: SHA1: 8677867f5e9397acd2ae682959bdee088fb53568
+PackageChecksum: MD5: 9ee01e310ec36d8b615d6acce1bffdda
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload330
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/iio-utils/Makefile
+SPDXID: SPDXRef-item851407
+FileChecksum: SHA1: 030d2dc29a8144f10b53dd889eea08bafba94750
+FileChecksum: MD5: 344af740ed5a51ede012d69244d70394
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iio-utils/iio_utils.c
+SPDXID: SPDXRef-item851408
+FileChecksum: SHA1: 6973a0435c6fdbc0941cfc1dfb6997a5bebcb779
+FileChecksum: MD5: 8ef36bd005b02144c416e328b908e1d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iio-utils/iio_utils.h
+SPDXID: SPDXRef-item851409
+FileChecksum: SHA1: 46e3da0a7e5fc961aebb9d16893ca19c81714965
+FileChecksum: MD5: 35963d288f855f3db92b134e198cb5c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iio-utils/COPYING
+SPDXID: SPDXRef-item851410
+FileChecksum: SHA1: a2e271b1e740382d4da76a0391e2490384209dc8
+FileChecksum: MD5: 574295575bba94ba7980d611516fe3d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iio-utils/iio_event_monitor.c
+SPDXID: SPDXRef-item851411
+FileChecksum: SHA1: a845dae7689fe54a930ad3315e416b294b0fbc7c
+FileChecksum: MD5: bd85d55c1b33b1d436f34bbd8f018aaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iio-utils/iio_generic_buffer.c
+SPDXID: SPDXRef-item851412
+FileChecksum: SHA1: 91b2ca48ea8202d134e8cbec3da5e018450a7127
+FileChecksum: MD5: 37a699f23f7f0941fe23fd5e8918c0ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/iio-utils/lsiio.c
+SPDXID: SPDXRef-item851413
+FileChecksum: SHA1: 561d5fece52049fab0476612d5bb86ba34db3747
+FileChecksum: MD5: 8a6e2ac3ff879eab1ab57d5a37aaa48d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+

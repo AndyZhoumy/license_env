@@ -1,0 +1,2573 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_4a-alsa-core-0.1+gitAUTOINC+985df9fad7-r0-patched.tar.gz_1571458612.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:16:52Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: 4a-alsa-core
+PackageVersion: 0.1+gitAUTOINC+985df9fad7
+PackageFileName: 4a-alsa-core-0.1+gitAUTOINC+985df9fad7-r0-patched.tar.gz
+SPDXID: SPDXRef-upload371
+PackageDownloadLocation: gitsm://gerrit.automotivelinux.org/gerrit/src/4a-alsa-core;protocol=https;branch=guppy
+PackageHomePage: https://git.automotivelinux.org/src/4a-alsa-core/
+PackageSummary: <text>4A - Low Level Alsa Binding</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>4a-alsa-core version 0.1+gitAUTOINC+985df9fad7</text>
+PackageChecksum: SHA1: 80a251bb306f3f905a7f6b8481060ee8fd109800
+PackageChecksum: MD5: 3aa3459251e7348bfb536e1634888322
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload371
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/git/autobuild/linux/autobuild
+SPDXID: SPDXRef-item879297
+FileChecksum: SHA1: e9b59a990422443754a451afc620facd50144910
+FileChecksum: MD5: dcdd876cd4fb85a75cff3616e4281542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/autobuild/agl/autobuild
+SPDXID: SPDXRef-item879299
+FileChecksum: SHA1: e9b59a990422443754a451afc620facd50144910
+FileChecksum: MD5: dcdd876cd4fb85a75cff3616e4281542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.gitreview
+SPDXID: SPDXRef-item879300
+FileChecksum: SHA1: 7d13e1f2f2d22ed893d786c979fe580933ffecd8
+FileChecksum: MD5: 97ca1b5aaf961a58d0b5ecd73018782a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/config
+SPDXID: SPDXRef-item879302
+FileChecksum: SHA1: 2bfe3f1d31036e06f272a5e286848f0ca6076bc1
+FileChecksum: MD5: 6338b857f61602e29edef63962b3a295
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/packed-refs
+SPDXID: SPDXRef-item879304
+FileChecksum: SHA1: c448dcdc76f2083a676c3fc2e6b4ee7d25a16471
+FileChecksum: MD5: 7ce16f7723ba323a9019a75a510c4833
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/master
+SPDXID: SPDXRef-item879307
+FileChecksum: SHA1: b7e5bee0e026fcc8e67641ee4e98d96961e3ef12
+FileChecksum: MD5: 5c2e9dad88ea98dffc51e873f80898ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/heads/guppy
+SPDXID: SPDXRef-item879308
+FileChecksum: SHA1: 5bfb7fbdc9e865c308a28b0033b10e6feef4a5ab
+FileChecksum: MD5: ca393e7708a17999fb956f39b621fd58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item879312
+FileChecksum: SHA1: d9427cda09aba1cdde5c69c2b13c905bddb0bc51
+FileChecksum: MD5: 73a00957034783b7b5c8294c54cd3e12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/index
+SPDXID: SPDXRef-item879313
+FileChecksum: SHA1: 28b2c97576b593b217585ee158cc33f09839ec05
+FileChecksum: MD5: 99282cf68d230c3bcda7194f311da58e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/master
+SPDXID: SPDXRef-item879317
+FileChecksum: SHA1: 50b27462df80213a01c5d0fa282cca702f9654fb
+FileChecksum: MD5: 8d32b3ee35d982c1c2ae4390004f537c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/heads/guppy
+SPDXID: SPDXRef-item879318
+FileChecksum: SHA1: 2625cf1f460fb629329253820ca858fc8dbb9e26
+FileChecksum: MD5: fe3f36ac808a1528f33f8de0ef7801aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/refs/remotes/origin/HEAD
+SPDXID: SPDXRef-item879321
+FileChecksum: SHA1: 50b27462df80213a01c5d0fa282cca702f9654fb
+FileChecksum: MD5: 8d32b3ee35d982c1c2ae4390004f537c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/logs/HEAD
+SPDXID: SPDXRef-item879322
+FileChecksum: SHA1: b74476074edba0e4fa434569d12660e105ca39c5
+FileChecksum: MD5: 1543bbb7fa5683dc75d02b31b1d066b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/description
+SPDXID: SPDXRef-item879323
+FileChecksum: SHA1: 9635f1b7e12c045212819dd934d809ef07efa2f4
+FileChecksum: MD5: a0a7c3fff21f2aea3cfa1d0316dd816c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/objects/info/alternates
+SPDXID: SPDXRef-item879327
+FileChecksum: SHA1: e308e8d5fd9995f3355c53bbc6e774d98c4ca37e
+FileChecksum: MD5: 777efdfa0b2bdbf0039042fcdc2be870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/info/exclude
+SPDXID: SPDXRef-item879329
+FileChecksum: SHA1: c879df015d97615050afa7b9641e3352a1e701ac
+FileChecksum: MD5: 036208b4a1ab4a235d75c181e685e5a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/commit-msg.sample
+SPDXID: SPDXRef-item879331
+FileChecksum: SHA1: ee1ed5aad98a435f2020b6de35c173b75d9affac
+FileChecksum: MD5: 579a3c1e12a1e74a98169175fb913012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/post-update.sample
+SPDXID: SPDXRef-item879332
+FileChecksum: SHA1: b614c2f63da7dca9f1db2e7ade61ef30448fc96c
+FileChecksum: MD5: 2b7ea5cee3c49ff53d41e00785eb974c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/update.sample
+SPDXID: SPDXRef-item879333
+FileChecksum: SHA1: e729cd61b27c128951d139de8e7c63d1a3758dde
+FileChecksum: MD5: 517f14b9239689dff8bda3022ebd9004
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-commit.sample
+SPDXID: SPDXRef-item879334
+FileChecksum: SHA1: 36aed8976dcc08b5076844f0ec645b18bc37758f
+FileChecksum: MD5: 01b1688f97f94776baae85d77b06048b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/prepare-commit-msg.sample
+SPDXID: SPDXRef-item879335
+FileChecksum: SHA1: 2b6275eda365cad50d167fe3a387c9bc9fedd54f
+FileChecksum: MD5: 7dfe15854212a30f346da5255c1d794b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/applypatch-msg.sample
+SPDXID: SPDXRef-item879336
+FileChecksum: SHA1: 4de88eb95a5e93fd27e78b5fb3b5231a8d8917dd
+FileChecksum: MD5: ce562e08d8098926a3862fc6e7905199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-push.sample
+SPDXID: SPDXRef-item879337
+FileChecksum: SHA1: 5c8518bfd1d1d3d2c1a7194994c0a16d8a313a41
+FileChecksum: MD5: 3c5989301dd4b949dfa1f43738a22819
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-applypatch.sample
+SPDXID: SPDXRef-item879338
+FileChecksum: SHA1: f208287c1a92525de9f5462e905a9d31de1e2d75
+FileChecksum: MD5: 054f9ffb8bfe04a599751cc757226dda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/hooks/pre-rebase.sample
+SPDXID: SPDXRef-item879339
+FileChecksum: SHA1: 18be3eb275c1decd3614e139f5a311b75f1b0ab8
+FileChecksum: MD5: 3ff6ba9cf6d8e5332978e057559b5562
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.git/HEAD
+SPDXID: SPDXRef-item879340
+FileChecksum: SHA1: e51ca2d47fe07bcf67697ae5b6bb9828ddbaafbd
+FileChecksum: MD5: bb971c55ccd418fda0ea83de0ee285c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/AudioBinding.css
+SPDXID: SPDXRef-item879342
+FileChecksum: SHA1: 3c946d27dd5137b2418ad873c9259ed440c12079
+FileChecksum: MD5: 377d4d65d64b260fdcafd88c4f3a921d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/CMakeLists.txt
+SPDXID: SPDXRef-item879343
+FileChecksum: SHA1: 58d855ca60f1e6d606bc256aaa82903eba6dd566
+FileChecksum: MD5: 34bc58311639ced71b36fdeb4af2dda1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/index.html
+SPDXID: SPDXRef-item879344
+FileChecksum: SHA1: fbc1d4cba3d64c67b05c040d76e827156d470049
+FileChecksum: MD5: f28bec1028d1bf2a6cb7357ce07b7c61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/AudioBinding.js
+SPDXID: SPDXRef-item879345
+FileChecksum: SHA1: d32b8c02b599747183c62ec8b6b3e5dff481164d
+FileChecksum: MD5: b21c7558f3b8ea726484eaf2d9f45965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/AFB-websock.js
+SPDXID: SPDXRef-item879346
+FileChecksum: SHA1: 357694aeeb4392e0188fcd85eb1f833ba312a3bd
+FileChecksum: MD5: e2650541c9bf620b057a307f17da85ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/docs/AAAA-architecture.odg
+SPDXID: SPDXRef-item879348
+FileChecksum: SHA1: 7f8f47fb2e2dfc6fd9af1392db5415841b9144c5
+FileChecksum: MD5: c72256a3c6b80978ca6872acf06c62b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/docs/AAAA-architecture.pdf/AAAA-architecture
+SPDXID: SPDXRef-item879351
+FileChecksum: SHA1: c29a2aea8532712814b725c4263453cf82059d83
+FileChecksum: MD5: b0291347f6070d8f35acd2e6d57e701f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/htdocs/README.md
+SPDXID: SPDXRef-item879352
+FileChecksum: SHA1: a7327bf71abda06126d5e516e8393fae27a539ae
+FileChecksum: MD5: 6c3ffd79b231002d594cd42302129fd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-binding/Alsa-RegEvt.c
+SPDXID: SPDXRef-item879354
+FileChecksum: SHA1: 36567272170b7a527b3d5e3a4f4281f8d2df9135
+FileChecksum: MD5: 83a0f8e0a14f8a20f6c000f571a5cd66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-binding/Alsa-ApiHat.h
+SPDXID: SPDXRef-item879355
+FileChecksum: SHA1: de1364a057a3aad4183521c02e1172b5ef5b896b
+FileChecksum: MD5: d278e9bcd5d97b482f3cd9ff7bf17ec4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-binding/CMakeLists.txt
+SPDXID: SPDXRef-item879356
+FileChecksum: SHA1: 5f9b400bc366869a8bb79e34926dfea5ce1f6f34
+FileChecksum: MD5: d2ceb0d132181427680fe8c8a8fe6f38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-binding/Alsa-SetGet.c
+SPDXID: SPDXRef-item879357
+FileChecksum: SHA1: fb8d5e164fb29bffcf334cbc5166ce67674f29e4
+FileChecksum: MD5: 6c70e3f90dc005256993ff614953c5d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-binding/Alsa-ApiHat.c
+SPDXID: SPDXRef-item879358
+FileChecksum: SHA1: ef535b02826d635e98c8b3a2820cb0ab13eeb577
+FileChecksum: MD5: d924e37b69364e061fe2e474cbf6f469
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-binding/Alsa-AddCtl.c
+SPDXID: SPDXRef-item879359
+FileChecksum: SHA1: bf898fcde52b65c735021087bb599dafd48dc9f7
+FileChecksum: MD5: 9c1b942c14e6c9ea96a3e07e5641dcf0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-binding/Alsa-Ucm.c
+SPDXID: SPDXRef-item879360
+FileChecksum: SHA1: 220730113f603905d862390829f9f851c765cf2f
+FileChecksum: MD5: 28a2544c9ba73e7643c77f51ab3f6057
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-binding/README.md
+SPDXID: SPDXRef-item879361
+FileChecksum: SHA1: 9808a113967bac4810e0cf1320dc337b86d7c571
+FileChecksum: MD5: 874d47a082eea731f619c1ac2c4eb422
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/CMakeLists.txt
+SPDXID: SPDXRef-item879362
+FileChecksum: SHA1: 5a8d13740ac6f22a58d329d1c6b4a243a1279b9b
+FileChecksum: MD5: fcdeadc2b7443f7acc478129ce171ec6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-hook/CMakeLists.txt
+SPDXID: SPDXRef-item879364
+FileChecksum: SHA1: 4e850b663a464688fc14145a8b4e0aacedce3f6f
+FileChecksum: MD5: dd532b5ea49e009d8b81db0b7e64c337
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-hook/PolicyAlsaHook.c
+SPDXID: SPDXRef-item879365
+FileChecksum: SHA1: c11670659c55fd80a4071997e3d9b6e6abb0c57a
+FileChecksum: MD5: fe930447c5de72925270806d102ec525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/alsa-hook/README.md
+SPDXID: SPDXRef-item879366
+FileChecksum: SHA1: d19441bd58652b02a7de2aa0d6b48056c5020bca
+FileChecksum: MD5: 84d00d45a721db9a594d49683202dee1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/.gitignore
+SPDXID: SPDXRef-item879367
+FileChecksum: SHA1: 18596670eecfa873614a9eb273078d6bd674fef2
+FileChecksum: MD5: 1970625419b81753415e2b566035578d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/CMakeLists.txt
+SPDXID: SPDXRef-item879369
+FileChecksum: SHA1: 26d236386e21894c0ccc52a29118fc065da005f0
+FileChecksum: MD5: bd819532d948afb42cb2cabac5811772
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/afb-test/CMakeLists.txt
+SPDXID: SPDXRef-item879371
+FileChecksum: SHA1: 26d236386e21894c0ccc52a29118fc065da005f0
+FileChecksum: MD5: bd819532d948afb42cb2cabac5811772
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/afb-test/etc/CMakeLists.txt
+SPDXID: SPDXRef-item879373
+FileChecksum: SHA1: 0f234820c12d1fad9eb8fa98c90f3539f181cca3
+FileChecksum: MD5: 9cf879932fa288576f5eb9b95b639b69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/afb-test/etc/aft-4a-alsacore-config.json
+SPDXID: SPDXRef-item879374
+FileChecksum: SHA1: f75c2d83876b46976e20b8dfd7c108228224ead1
+FileChecksum: MD5: 51111f365e5f5f6dfe96f445bca449bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/afb-test/tests/alsacore_BasicAPITest.lua
+SPDXID: SPDXRef-item879376
+FileChecksum: SHA1: 19911acc27335675baa173f7507111e708c3e02c
+FileChecksum: MD5: c1171d5fbd0aebb1d8663b70aaf05c7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/test/afb-test/tests/CMakeLists.txt
+SPDXID: SPDXRef-item879377
+FileChecksum: SHA1: 60dc4cb21bc1e9e7b5b694a67936e63015dbf624
+FileChecksum: MD5: 56952d213c9db3a92b583d24612ec994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/alsa-core.html
+SPDXID: SPDXRef-item879386
+FileChecksum: SHA1: 9c53d3ed81631ab9ba50f6a0c86b550af81e841a
+FileChecksum: MD5: d6892f54a50dbbc94195825e4715da2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/AudioBinding.css
+SPDXID: SPDXRef-item879387
+FileChecksum: SHA1: 3c946d27dd5137b2418ad873c9259ed440c12079
+FileChecksum: MD5: 377d4d65d64b260fdcafd88c4f3a921d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/CMakeLists.txt
+SPDXID: SPDXRef-item879388
+FileChecksum: SHA1: 58d855ca60f1e6d606bc256aaa82903eba6dd566
+FileChecksum: MD5: 34bc58311639ced71b36fdeb4af2dda1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/index.html
+SPDXID: SPDXRef-item879389
+FileChecksum: SHA1: 68e9116a1b3c5b51642b4b9a648696247ee54005
+FileChecksum: MD5: df66de163fe4ceb45178e97a73b98cc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/AudioBinding.js
+SPDXID: SPDXRef-item879390
+FileChecksum: SHA1: d32b8c02b599747183c62ec8b6b3e5dff481164d
+FileChecksum: MD5: b21c7558f3b8ea726484eaf2d9f45965
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/audio-control.html
+SPDXID: SPDXRef-item879391
+FileChecksum: SHA1: 701b93f4856c8e9505e514911781c2d983fcf538
+FileChecksum: MD5: 065b540954a99ff9c626150ef02d2c58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/AFB-websock.js
+SPDXID: SPDXRef-item879392
+FileChecksum: SHA1: 357694aeeb4392e0188fcd85eb1f833ba312a3bd
+FileChecksum: MD5: e2650541c9bf620b057a307f17da85ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/alsa-hal.html
+SPDXID: SPDXRef-item879393
+FileChecksum: SHA1: 26ad5c5015d26fb6e0e36841c2226ca3dbe7bec9
+FileChecksum: MD5: 5ead826375c1c480626edab19b4d8f44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/docs/AAAA-architecture.odg
+SPDXID: SPDXRef-item879395
+FileChecksum: SHA1: 7f8f47fb2e2dfc6fd9af1392db5415841b9144c5
+FileChecksum: MD5: c72256a3c6b80978ca6872acf06c62b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/docs/AAAA-architecture.pdf/AAAA-architecture
+SPDXID: SPDXRef-item879398
+FileChecksum: SHA1: c29a2aea8532712814b725c4263453cf82059d83
+FileChecksum: MD5: b0291347f6070d8f35acd2e6d57e701f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/htdocs/README.md
+SPDXID: SPDXRef-item879399
+FileChecksum: SHA1: a7327bf71abda06126d5e516e8393fae27a539ae
+FileChecksum: MD5: 6c3ffd79b231002d594cd42302129fd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/CMakeLists.txt
+SPDXID: SPDXRef-item879400
+FileChecksum: SHA1: 5a8d13740ac6f22a58d329d1c6b4a243a1279b9b
+FileChecksum: MD5: fcdeadc2b7443f7acc478129ce171ec6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-afb/Alsa-RegEvt.c
+SPDXID: SPDXRef-item879402
+FileChecksum: SHA1: 17ef30634ba23aab52523f73b112ab64a7c48ea2
+FileChecksum: MD5: d51c589c56447458857df21f70cb14d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-afb/Alsa-ApiHat.h
+SPDXID: SPDXRef-item879403
+FileChecksum: SHA1: 7811516481ae82d09d9541ac1f15d179e036e57a
+FileChecksum: MD5: f5c162e705982be84876013b4fd147fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-afb/CMakeLists.txt
+SPDXID: SPDXRef-item879404
+FileChecksum: SHA1: e9e613b0af94a9d9862dd9dde58a7024459898d4
+FileChecksum: MD5: 6d04e7f7ca5ea9420a6d3032cf569f47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-afb/Alsa-SetGet.c
+SPDXID: SPDXRef-item879405
+FileChecksum: SHA1: db6b4b523715565c5ee58ac3c5da39107ce6b305
+FileChecksum: MD5: 23171c080a0423b656dd621a12b8b75d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-afb/Alsa-ApiHat.c
+SPDXID: SPDXRef-item879406
+FileChecksum: SHA1: ebaa040c7679f3f6d27acaf7c19c2a9bfbea137d
+FileChecksum: MD5: 305a13494dc2409aa269d342c483f62e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-afb/Alsa-AddCtl.c
+SPDXID: SPDXRef-item879407
+FileChecksum: SHA1: cbd109171b1a6f5a7591b27f682066c61e232043
+FileChecksum: MD5: 72562b209f667f74d9d7f58d03b8333c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-afb/Alsa-Ucm.c
+SPDXID: SPDXRef-item879408
+FileChecksum: SHA1: 470292d1870ce23e5bff6339f90ae2602550032c
+FileChecksum: MD5: bc7cecf86342a106a1970144ed316f83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-afb/README.md
+SPDXID: SPDXRef-item879409
+FileChecksum: SHA1: 9808a113967bac4810e0cf1320dc337b86d7c571
+FileChecksum: MD5: 874d47a082eea731f619c1ac2c4eb422
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/.gitmodules
+SPDXID: SPDXRef-item879410
+FileChecksum: SHA1: 2d459f5498b22287923b43411329ee29b3603be7
+FileChecksum: MD5: 49f1d312131ff9c757b67e6238576d62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/.gitignore
+SPDXID: SPDXRef-item879411
+FileChecksum: SHA1: d61fd54c2ced39e171c2471bad4e8be47ff74856
+FileChecksum: MD5: 55e6a55bf9313f3a592304645fffc508
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/wrap-json.md
+SPDXID: SPDXRef-item879413
+FileChecksum: SHA1: 1d9635b17e6ca63c7ad9df69a44dc7d9b4a9ec94
+FileChecksum: MD5: 335f0a09207c7066ff28aae73efac548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/CMakeLists.txt
+SPDXID: SPDXRef-item879414
+FileChecksum: SHA1: e7b290d59f61d97919d64560d9259a49b3548e64
+FileChecksum: MD5: 241973607df86edde7698627fb8acb5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/filescan-utils.c
+SPDXID: SPDXRef-item879415
+FileChecksum: SHA1: e44f426145be7c83b16e73fe44bc27ea28927cd7
+FileChecksum: MD5: 661ffedebea4e778c2b500902a4ccfc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/.gitmodules
+SPDXID: SPDXRef-item879416
+FileChecksum: SHA1: d51bad8ab09108cf06518724afa7a90a3a05be17
+FileChecksum: MD5: dab08fcc9f81396dbe261fae505f60ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/.gitignore
+SPDXID: SPDXRef-item879417
+FileChecksum: SHA1: c072a5025f7e884f54e76bf95c9ebbb303e17ee7
+FileChecksum: MD5: fd03b85ba66918e360eecd3776caf187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/wrap-json.c
+SPDXID: SPDXRef-item879418
+FileChecksum: SHA1: 5a43e55beda647e99910c9477c8394572789a705
+FileChecksum: MD5: 89addd15c5fdf5d306194867d619c141
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/LICENSE
+SPDXID: SPDXRef-item879419
+FileChecksum: SHA1: 92170cdc034b2ff819323ff670d3b7266c8bffcd
+FileChecksum: MD5: e3fc50a88d0a364313df4b21ef20c29e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/wrap-json.h
+SPDXID: SPDXRef-item879420
+FileChecksum: SHA1: 9364c33ccfb31288d5d71f662cf8a2dbfeef03b0
+FileChecksum: MD5: 16da50c6bc3af30c97d720f6c4804a58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/README.md
+SPDXID: SPDXRef-item879421
+FileChecksum: SHA1: 32f7953346015113e119c51e0ab44b834cdbcb66
+FileChecksum: MD5: ae407f4c9b00b6b99351bb4a0e3bae97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/afb-utilities/filescan-utils.h
+SPDXID: SPDXRef-item879422
+FileChecksum: SHA1: 34e9f58c47052e5c92868d464ad4b047a69487aa
+FileChecksum: MD5: 8920e485d4a2cd15064738e45ac19ede
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/.vscode/c_cpp_properties.json
+SPDXID: SPDXRef-item879424
+FileChecksum: SHA1: a9ca424d4f86508571591105a873368562979966
+FileChecksum: MD5: b320a125c2047185864ed1a5a0ac4439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Audio-Common/CMakeLists.txt
+SPDXID: SPDXRef-item879426
+FileChecksum: SHA1: ac3e777169cf895d23e51a13ca2cfe7648707b5e
+FileChecksum: MD5: e194fd913c67f7f5082e9445fb625511
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Audio-Common/audio-common.h
+SPDXID: SPDXRef-item879427
+FileChecksum: SHA1: cab74bbe52167526c87bfb0d4f0b76ec99651ba3
+FileChecksum: MD5: 6e5d15054e57a7a55cd9c4b277e97bff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Audio-Common/audio-common.c
+SPDXID: SPDXRef-item879428
+FileChecksum: SHA1: e3dfc47490f1cb6348962400981595bed2f47e2a
+FileChecksum: MD5: 250eb061c83c461b028abf65f7c49dc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/wrap-json.md
+SPDXID: SPDXRef-item879431
+FileChecksum: SHA1: 6e55434950a15dd8f08688af2aa33eb3d7a7e602
+FileChecksum: MD5: 9fbe869562ff1dbf88537be9404ca126
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/wrap_volume.c
+SPDXID: SPDXRef-item879432
+FileChecksum: SHA1: c5573512c6176142db6a2a46f93c4345610ee809
+FileChecksum: MD5: f6e09adb77c21dcf0e34cae35256433e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/CMakeLists.txt
+SPDXID: SPDXRef-item879433
+FileChecksum: SHA1: d0f06784580a951eafb7568545aaab213c9f451a
+FileChecksum: MD5: f614b4ce9258678cbfbbd90f9fdef770
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/hal_most_unicens.c
+SPDXID: SPDXRef-item879434
+FileChecksum: SHA1: 31909d2bb1c2e114295d32201cf9ea073600a761
+FileChecksum: MD5: 309032b3950ac4ac6ac1c6026bff066c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/wrap-json.c
+SPDXID: SPDXRef-item879435
+FileChecksum: SHA1: d87de61ce4fcf453b79bf92555dcdabe4a832f2d
+FileChecksum: MD5: bdac2ba33a74b7d2936cfb5af7da0918
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/CMakeLists.txt
+SPDXID: SPDXRef-item879437
+FileChecksum: SHA1: def2e75acb0d0b853ee371d1260a8e599c1f2366
+FileChecksum: MD5: f7631bbffc845f739aa5fbbb272c2baf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/inc/device_value.h
+SPDXID: SPDXRef-item879439
+FileChecksum: SHA1: ff766e0ec0654b7a7c9a11a7ba8b59ab55d32840
+FileChecksum: MD5: 71fa569ee40dd2feb99658a0299392a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/inc/libmostvolume.h
+SPDXID: SPDXRef-item879440
+FileChecksum: SHA1: ea6d8c434cb372141e4e06a9c7eab227b2361394
+FileChecksum: MD5: 8b9a14a13f62e0ba69f3d0f96a566c44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/inc/device_container.h
+SPDXID: SPDXRef-item879441
+FileChecksum: SHA1: 3f7914846a17d62108d9544482ed674e1b126d51
+FileChecksum: MD5: 803529bb3367335afe5cd427b4ad97a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/inc/setup.h
+SPDXID: SPDXRef-item879442
+FileChecksum: SHA1: 604dc26f7f4b233d097de8bfdbe12cd1c55838be
+FileChecksum: MD5: f56ae233b2f9c1182bee5925c2d4072f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/src/CMakeLists.txt
+SPDXID: SPDXRef-item879444
+FileChecksum: SHA1: e37f105da8705bd59fd1d76ca69fcbbf37f6dbb9
+FileChecksum: MD5: d1403b2b35af9a177356b7881c816966
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/src/libmostvolume.cpp
+SPDXID: SPDXRef-item879445
+FileChecksum: SHA1: f22890f114f780fc3204ab0fd73bee5595d7fd10
+FileChecksum: MD5: be2e8c504d5dee4ea8e003463d373219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/src/setup.cpp
+SPDXID: SPDXRef-item879446
+FileChecksum: SHA1: f02024d1c319b6c9c307e9102234c4955eaa2a2a
+FileChecksum: MD5: 43dd420e1deedea669ca029c0660e3b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/src/device_value.cpp
+SPDXID: SPDXRef-item879447
+FileChecksum: SHA1: 2b15ed83ba795db68aa1d0576b63d32e8b2cde02
+FileChecksum: MD5: 8172e245a85ae52451b2921b013483c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/ucs2-vol/src/device_container.cpp
+SPDXID: SPDXRef-item879448
+FileChecksum: SHA1: 1b601b6bede79c81c88a7a132a320399a336cf26
+FileChecksum: MD5: 5d9b9fbe79849deb95180221e349f7a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/wrap_volume.h
+SPDXID: SPDXRef-item879449
+FileChecksum: SHA1: 4cfa14808a8b98a58215fc083f97a024784ad363
+FileChecksum: MD5: d4b9b6df024ea7f33a0f00a3785b9477
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/wrap_unicens.c
+SPDXID: SPDXRef-item879450
+FileChecksum: SHA1: 67462c7bf129621267d4a889fd06a6a571989083
+FileChecksum: MD5: 2aed6fa85b15d8d6db26cabda9d3a9f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/wrap_unicens.h
+SPDXID: SPDXRef-item879451
+FileChecksum: SHA1: f1d934a422f5c86ae865ea11239014c33cca5764
+FileChecksum: MD5: 1ea4c213d065cdef659fd2a1302cc32f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/wrap-json.h
+SPDXID: SPDXRef-item879452
+FileChecksum: SHA1: daa7100167fa017cd3ebe2ebf8fe3d8a05c4f70d
+FileChecksum: MD5: 0e8ee54418aab8f51c103101ea148335
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL_MOST_UNICENS/README.md
+SPDXID: SPDXRef-item879453
+FileChecksum: SHA1: d6718bf673091a36b6701903c5fdc2e24e1c6cf6
+FileChecksum: MD5: 6c356da0ce0cb5c46fba1b2c638867a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/CMakeLists.txt
+SPDXID: SPDXRef-item879454
+FileChecksum: SHA1: 62adb2f65d25ae6e43f4e855c1676a10b8b0e81f
+FileChecksum: MD5: 7d9d1f8c0d245a6888c5d18cc47308bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/Scarlett-Focusrite/CMakeLists.txt
+SPDXID: SPDXRef-item879456
+FileChecksum: SHA1: d58a770d579dff0a297666382f9888e7d3c411f4
+FileChecksum: MD5: 1bf300c89c1110ba00999d242f8d9929
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/Scarlett-Focusrite/ScarlettUsbHAL.c
+SPDXID: SPDXRef-item879457
+FileChecksum: SHA1: bbd44b6f68713956871a23d206a7516d1a8f1411
+FileChecksum: MD5: 9826b4f311171f82e13f8f946443f3da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL-interface/hal-interface.c
+SPDXID: SPDXRef-item879459
+FileChecksum: SHA1: ee8fdcf418958b229a949182b22976076806d323
+FileChecksum: MD5: d619fb12acc1d3382973dbce08319492
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL-interface/CMakeLists.txt
+SPDXID: SPDXRef-item879460
+FileChecksum: SHA1: 00e950aba477218577b3d29478455e33c359f3dd
+FileChecksum: MD5: 21fc2b2675f19cb6f02a624fe0327e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL-interface/hal-volume.c
+SPDXID: SPDXRef-item879461
+FileChecksum: SHA1: 390a6360f91b56de345bb23ce55cecfeb788e819
+FileChecksum: MD5: 373d11bd7d4dfa005c745e68864ede19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL-interface/hal-volramp.c
+SPDXID: SPDXRef-item879462
+FileChecksum: SHA1: 19c11d4372df1870700415c8f413c9de3480b92a
+FileChecksum: MD5: 99b3c4e5a14c8ac632b2d2bd3f32226b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HAL-interface/hal-interface.h
+SPDXID: SPDXRef-item879463
+FileChecksum: SHA1: ba33e7063de9d42a10f45c2e9168c50050ac1132
+FileChecksum: MD5: 16b70475774614d5bb74e085ebfc095e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HDA-intel/CMakeLists.txt
+SPDXID: SPDXRef-item879465
+FileChecksum: SHA1: 29fb1cfc6ee6b9a5a6c938ad36ee5a1ff24ad8bc
+FileChecksum: MD5: 8d8b2b155b6c0a9b1a131b633eb1fc31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/HDA-intel/IntelHdaHAL.c
+SPDXID: SPDXRef-item879466
+FileChecksum: SHA1: c749179795a8b001e68fba8a41c6260df6366957
+FileChecksum: MD5: 56972087b9a0638676d524c7165fd630
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/Jabra-Solemate/CMakeLists.txt
+SPDXID: SPDXRef-item879468
+FileChecksum: SHA1: 067bf84af9075c4a2f0c1be36826a41b0a09a148
+FileChecksum: MD5: e4d58626590dabf281131178b3b63c6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/HAL-afb/Jabra-Solemate/JabraUsbHAL.c
+SPDXID: SPDXRef-item879469
+FileChecksum: SHA1: ee9b55d52b2f1f06240503b99995644351268855
+FileChecksum: MD5: bcaae1755a21c20381f91fc0dea72b86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/autobuild/linux/autobuild
+SPDXID: SPDXRef-item879473
+FileChecksum: SHA1: 36a0d6f8b844c63be3fbcd058d37f253faadd60a
+FileChecksum: MD5: 20226667c9aabcbab63fa2fd43d111fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/autobuild/agl/autobuild
+SPDXID: SPDXRef-item879475
+FileChecksum: SHA1: 36a0d6f8b844c63be3fbcd058d37f253faadd60a
+FileChecksum: MD5: 20226667c9aabcbab63fa2fd43d111fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/lua.d/CMakeLists.txt
+SPDXID: SPDXRef-item879478
+FileChecksum: SHA1: f47936742ea93258c157d085a9ae50881120c391
+FileChecksum: MD5: b7c6952e9602236ee184be883c4aa914
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/lua.d/onload-aaaa-01-init.lua
+SPDXID: SPDXRef-item879479
+FileChecksum: SHA1: 791dc2cc91885795abdaf4b0616a9b94acd581e5
+FileChecksum: MD5: cfcd19b27fb997686b3992c48ccae050
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/lua.d/netbeans-aaaa-run-config.png
+SPDXID: SPDXRef-item879480
+FileChecksum: SHA1: fa1f323c15e7f923de1ef450b6149ca9168921c1
+FileChecksum: MD5: 3df87ee118440518b9eb730a7e71a35d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/lua.d/onload-aaaa-00-utils.lua
+SPDXID: SPDXRef-item879481
+FileChecksum: SHA1: 804bc9d2117ce30c5cc9c2039bdf9a73c87c4402
+FileChecksum: MD5: 528fc19fb8782b349404ba70727ef06d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/lua.d/onload-aaaa-03-controls.lua
+SPDXID: SPDXRef-item879482
+FileChecksum: SHA1: 3555562cc57b1f0ea047c99b1cf010b42e8bfc90
+FileChecksum: MD5: 4a5b11df5301451d4df9482cec0bb1f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/lua.d/onload-aaaa-10-event.lua
+SPDXID: SPDXRef-item879483
+FileChecksum: SHA1: 6fe6b8c08def2b26e0297d832e5f1177d1a047f4
+FileChecksum: MD5: db8c4ee1dbac6cc05d62ef63537a28ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/lua.d/README.md
+SPDXID: SPDXRef-item879484
+FileChecksum: SHA1: 602b8e82a48fa5b7e161d8a92535773be4a2743f
+FileChecksum: MD5: b06d02ef9b90e7002b2475b2801f3a85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/CMakeLists.txt
+SPDXID: SPDXRef-item879485
+FileChecksum: SHA1: 6da19ed152cc456fc4d4dd14325011920f1f3ac6
+FileChecksum: MD5: 761aeeed18438cd526943bee2539dc05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/json.d/onload-aaaa-sample.json
+SPDXID: SPDXRef-item879487
+FileChecksum: SHA1: 230f4650b2823700ff2f9de88f96df370dc97339
+FileChecksum: MD5: 7107c8f81e3ffcb4bbb9c65a35439219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/json.d/CMakeLists.txt
+SPDXID: SPDXRef-item879488
+FileChecksum: SHA1: f798ba83dff97e5066c4d9efe10e7fdd9508bbaa
+FileChecksum: MD5: baf953d3de04b645420683754ff001f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/json.d/README.md
+SPDXID: SPDXRef-item879489
+FileChecksum: SHA1: 174e7e20dec25c9a7d9e47d39d41198af4c981f4
+FileChecksum: MD5: 5c7f3d24812fb47e1c659e7ff153ecad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/alsa.d/asoundrc.sample
+SPDXID: SPDXRef-item879491
+FileChecksum: SHA1: 58aae2ddb1328d7b89ef249fc3532e55ece412c9
+FileChecksum: MD5: b20702064bbf9a893b485d7af002e4b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/alsa.d/ucm.sample/HiFi.conf
+SPDXID: SPDXRef-item879493
+FileChecksum: SHA1: 4ae255e763f65d3c1c8ea73d4c710c7d1d7b2250
+FileChecksum: MD5: 16eff023bfda542f1cf745f0076cbd41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/alsa.d/ucm.sample/README
+SPDXID: SPDXRef-item879494
+FileChecksum: SHA1: af940606614e5ee7d61fc4f7f4544b9deb296281
+FileChecksum: MD5: 8021d6e4aa8578b83e9ee639ddb57630
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/alsa.d/ucm.sample/HDA Intel PCH.conf
+SPDXID: SPDXRef-item879495
+FileChecksum: SHA1: ccfa66c0459f171116b097718706b2513f859ec5
+FileChecksum: MD5: aa9a1509c41547dcb01c267aead208ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/project/alsa.d/README.md
+SPDXID: SPDXRef-item879496
+FileChecksum: SHA1: 8d0ad3aa36e02bde84a1369c30bc54de72c9dbc5
+FileChecksum: MD5: fdca9fad04a9e04874f2a55c99c7944a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/cmake/config.cmake
+SPDXID: SPDXRef-item879498
+FileChecksum: SHA1: 8dd1fcde0d9129212d2ebf40b7266b9ca4cbfc9e
+FileChecksum: MD5: ec7cf46c2d3e25754711ea51df48c885
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/.gitreview
+SPDXID: SPDXRef-item879500
+FileChecksum: SHA1: a503fb4dea05f31f5b05161c80eb0095522f97c7
+FileChecksum: MD5: af61d323d3104e26a24bee2bcab942d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/samples.d/xds-config.env.sample
+SPDXID: SPDXRef-item879502
+FileChecksum: SHA1: 5d69071d141a3af4344685db0e0d6670e82562d5
+FileChecksum: MD5: b37af8eab554aba6fd734bf0f6ecfdb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/samples.d/config.cmake.sample
+SPDXID: SPDXRef-item879503
+FileChecksum: SHA1: 6e8269987d9a541c72c92b6216e4d23b079db314
+FileChecksum: MD5: e29049ab868d82b313876243c0bbb4ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/samples.d/config.xml.in.sample
+SPDXID: SPDXRef-item879504
+FileChecksum: SHA1: 122c87e14a1f21cbc00d5a1c455038ae039b3265
+FileChecksum: MD5: 4c50abf2f96d38dca27679857c2a5493
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/samples.d/CMakeLists.txt.sample
+SPDXID: SPDXRef-item879505
+FileChecksum: SHA1: 017db7ae43540c924766134335a86f23ff617c0d
+FileChecksum: MD5: 625fc231836db69acc5d58b43da64580
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/.gitignore
+SPDXID: SPDXRef-item879506
+FileChecksum: SHA1: 13cef117036d7c01f10aba46c3bae8ad3a0cde23
+FileChecksum: MD5: 674b5eba71767399a791caf959efda32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/book.json
+SPDXID: SPDXRef-item879507
+FileChecksum: SHA1: a2f14a38536df11242c6d41ea575fb7643975a7f
+FileChecksum: MD5: 420ab988ad3d17516b84579c442a99fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/cmake/common.cmake
+SPDXID: SPDXRef-item879509
+FileChecksum: SHA1: 908686cb0f2feeb0e5b2236617103d0fa1750961
+FileChecksum: MD5: a27ad6d85480eb4c26bbab234dc8f946
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/cmake/export.map
+SPDXID: SPDXRef-item879510
+FileChecksum: SHA1: ecb51300df909bc50c546355d57562a697d82ae4
+FileChecksum: MD5: 5d2d0449cb8fad7da5943876a791e59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/cmake/configure_file.cmake
+SPDXID: SPDXRef-item879511
+FileChecksum: SHA1: f97323ec2e14e9a7eb0a052c8727c2bffd02cb42
+FileChecksum: MD5: 44733f82bfca0b2a2e1a01f65d1ef984
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/cmake/cmake.d/01-build_options.cmake
+SPDXID: SPDXRef-item879513
+FileChecksum: SHA1: 889f25ee88721a79349681f4c9715d9acac5001c
+FileChecksum: MD5: 2bed343e7acc34847b03e0910e3f01ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/cmake/cmake.d/04-extra_targets.cmake
+SPDXID: SPDXRef-item879514
+FileChecksum: SHA1: 497dc49106382d2ec4689fc6c00dc724691b7218
+FileChecksum: MD5: 28473ee719edf45611ea1cb488ba5800
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/cmake/cmake.d/02-variables.cmake
+SPDXID: SPDXRef-item879515
+FileChecksum: SHA1: b13e51752d11c691d4696e3850805387a3729466
+FileChecksum: MD5: 2dd7bb6960f180969f750deff4e836f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/cmake/cmake.d/03-macros.cmake
+SPDXID: SPDXRef-item879516
+FileChecksum: SHA1: 15b1368cd762ae1767002fd85d543b506e967c51
+FileChecksum: MD5: 0a99cde2ffaa3c78442be375ef0dca6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/gendocs.sh
+SPDXID: SPDXRef-item879517
+FileChecksum: SHA1: a11ab74c2699443b6e4ab452c401c1d0cf316e1d
+FileChecksum: MD5: 9f48647d4fba9c9e645f09944a96968d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/autobuild/linux/autobuild.in
+SPDXID: SPDXRef-item879521
+FileChecksum: SHA1: e5e9e8b6f29542076a93f932c3d94fa1d76da48f
+FileChecksum: MD5: 34e6c79f635c339c0fe2a7665190f622
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/autobuild/agl/autobuild.in
+SPDXID: SPDXRef-item879523
+FileChecksum: SHA1: 36a0d6f8b844c63be3fbcd058d37f253faadd60a
+FileChecksum: MD5: 20226667c9aabcbab63fa2fd43d111fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/debian.changelog.in
+SPDXID: SPDXRef-item879524
+FileChecksum: SHA1: 2b0d2f363cce7196d80018c44202522432b4f4dd
+FileChecksum: MD5: 090e034ed21a8b5d6714c78869f189ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/start-on-target.sh.in
+SPDXID: SPDXRef-item879525
+FileChecksum: SHA1: baa999be50af9f3070fdbb273b0bb81f6442ebc5
+FileChecksum: MD5: a2e5d0c09c9a62525bfc801c37d3574a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/config.xml.in
+SPDXID: SPDXRef-item879526
+FileChecksum: SHA1: 889040dec51cae976ba306d951e9fa12bac45037
+FileChecksum: MD5: a4c0be4656f31320689c27bd7daa5804
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/rpm-config.spec.in
+SPDXID: SPDXRef-item879527
+FileChecksum: SHA1: 573e8b36b75aadff680639b23d6ac0324a9cac66
+FileChecksum: MD5: f34795a0a90c972dd8b409cfd3f8823c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/debian.compat.in
+SPDXID: SPDXRef-item879528
+FileChecksum: SHA1: 136571b41aa14adc10c5f3c987d43c02c8f5d498
+FileChecksum: MD5: c30f7472766d25af1dc80b3ffc9a58c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/deb-config.install.in
+SPDXID: SPDXRef-item879529
+FileChecksum: SHA1: 4d7a2baad6841bbad79ce8f535db62a031983932
+FileChecksum: MD5: 2716e712d713de77493b23a8eb3d82b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/debian.rules.in
+SPDXID: SPDXRef-item879530
+FileChecksum: SHA1: f228c55d328c9e6631e019394b4a2c54286feeda
+FileChecksum: MD5: c36ffcfe009e9fefd0fe0a7189b80e19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/xds-project-target.conf.in
+SPDXID: SPDXRef-item879531
+FileChecksum: SHA1: 113a498b6072ed86c6fe85dcf7f395eb08ff3fd2
+FileChecksum: MD5: e16d0459cbfa80f1a02afd19dfa9f4b3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/deb-config.dsc.in
+SPDXID: SPDXRef-item879532
+FileChecksum: SHA1: 6e4ebea883a36d951fcfb4275191522631374564
+FileChecksum: MD5: d3a8707a0612fc52eef4880913e79f6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/debian.control.in
+SPDXID: SPDXRef-item879533
+FileChecksum: SHA1: fcc968c0871c81144e18790c85af4ba2a4367427
+FileChecksum: MD5: 37298868b416d779ca4f2652cc965133
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/install-wgt-on-target.sh.in
+SPDXID: SPDXRef-item879534
+FileChecksum: SHA1: f9e4e66e2ad24db2cbee6e02e4aebd616c601ab2
+FileChecksum: MD5: 1239d139d8d82bb527926f79ef7f47f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/template.d/gdb-on-target.ini.in
+SPDXID: SPDXRef-item879535
+FileChecksum: SHA1: dfec3c59b3d8ad8211f447406a4cb665e37ae152
+FileChecksum: MD5: 6a875a3393105a0aa714850f5b96085f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/wgt/icon-qml.png
+SPDXID: SPDXRef-item879537
+FileChecksum: SHA1: 880697d2060331d5c615170117b481cca7542df2
+FileChecksum: MD5: f71f40918f10cf1099625e253972cc9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/wgt/icon-native.png
+SPDXID: SPDXRef-item879538
+FileChecksum: SHA1: 144f072c3c4b346b4feec42e40c4c2383e3bc07e
+FileChecksum: MD5: 61d0414ea4888cb59c99071279393d02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/wgt/icon-service.png
+SPDXID: SPDXRef-item879539
+FileChecksum: SHA1: 8d3b201c547b70b6c855d7c8c9fd57e3f594b4dc
+FileChecksum: MD5: e377165add6e05916d83325ad4ccd2f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/wgt/icon-html5.png
+SPDXID: SPDXRef-item879540
+FileChecksum: SHA1: 96725afcc786808b7d83b955e2cdff09b9403a7e
+FileChecksum: MD5: e30941872bc8d2f77e18158ed2428307
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/wgt/icon-default.png
+SPDXID: SPDXRef-item879541
+FileChecksum: SHA1: 9eabeb09ea8376c729f6f7c57f1032a36f3dee3e
+FileChecksum: MD5: 0c8ec15f5cb65a046295d58abb40f108
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/LICENSE
+SPDXID: SPDXRef-item879542
+FileChecksum: SHA1: 447b8ace9ccc13e40340b84a6bb7f4f636dc9cf4
+FileChecksum: MD5: 5de84541278ea4e62cacfdc0f890c459
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/cover_small.jpg
+SPDXID: SPDXRef-item879544
+FileChecksum: SHA1: 37ba14884ab61f1918185957ce4bb513a5a49321
+FileChecksum: MD5: b645967a17793356f8ce3b48d7f024d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/SUMMARY.md
+SPDXID: SPDXRef-item879545
+FileChecksum: SHA1: 3dd1bbd318f2782a07c47984bc35220bd68df1c1
+FileChecksum: MD5: 4b056e83176e6f7de7c368f67bcb7b7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/_layouts/layout.html
+SPDXID: SPDXRef-item879547
+FileChecksum: SHA1: 867ddf6a807a2a078f7a8937633f82b02bd31e1a
+FileChecksum: MD5: ccba08bff35bbd8ada0c0984763c596a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/_layouts/ebook/pdf_header.html
+SPDXID: SPDXRef-item879549
+FileChecksum: SHA1: d07f10270c7d6fc646672029156efe74656b3a62
+FileChecksum: MD5: 72c29006a40c4ed90a6647c0b5a1c1fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/_layouts/ebook/pdf_footer.html
+SPDXID: SPDXRef-item879550
+FileChecksum: SHA1: 1a1c2585ecc0f15f957c8a4335dd81590837fe2d
+FileChecksum: MD5: 4e9fbe3b8687b930bd4b2147cd5494ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/_layouts/ebook/summary.html
+SPDXID: SPDXRef-item879551
+FileChecksum: SHA1: a92c3741dbd145a0c38b83baf2445906e240f973
+FileChecksum: MD5: a28ea7db4f0f91bd39b644484e289b69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/_layouts/ebook/page.html
+SPDXID: SPDXRef-item879552
+FileChecksum: SHA1: 77840159a017600c37dda9a8276c77826c566da8
+FileChecksum: MD5: 37f11fb74361382b770fb637e48d39be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/0-Doc-Revisions.md
+SPDXID: SPDXRef-item879553
+FileChecksum: SHA1: 06006293a47afdd408cd274c8f67486609515726
+FileChecksum: MD5: a83ab0a354ac803629da33dccfa3936b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/dev_guide/5_autobuild.md
+SPDXID: SPDXRef-item879555
+FileChecksum: SHA1: aecc46ed91b99900c3c221f0f589bc45e0f83006
+FileChecksum: MD5: 9d340dd8d4fe72fa5f1eb001fde91da7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/dev_guide/3_advanced_usage.md
+SPDXID: SPDXRef-item879556
+FileChecksum: SHA1: 8977b88843f1e914c0f0da6c759101e272279759
+FileChecksum: MD5: 34eaf761611d4acd12606dddea4b0c1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/dev_guide/2_project_architecture.md
+SPDXID: SPDXRef-item879557
+FileChecksum: SHA1: 9002ae6f540e2226708813644329f4ebb0fec2d3
+FileChecksum: MD5: 3dff384b6f45c42e0aff8908867bb341
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/dev_guide/pictures/iotbzh_logo_small.png
+SPDXID: SPDXRef-item879559
+FileChecksum: SHA1: e50759953e79b491b4441ffafbfd34e72a4c6661
+FileChecksum: MD5: 63bc2570abb2cfcedee3d76877feac9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/dev_guide/0_Abstract.md
+SPDXID: SPDXRef-item879560
+FileChecksum: SHA1: 58422587be96a1eb53e3887578cd61cdea6951aa
+FileChecksum: MD5: 33f2cac1497fbd4e90e11c4b6ddd1684
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/dev_guide/4_advanced_customization.md
+SPDXID: SPDXRef-item879561
+FileChecksum: SHA1: 8358abc40303ac527868d56da3f60a6f3d5ee80b
+FileChecksum: MD5: e43d6906b5346ee50ee727b013241fa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/dev_guide/1_Quickstart.md
+SPDXID: SPDXRef-item879562
+FileChecksum: SHA1: 7c46fbcf24b3c7871e5b172a3aaa659b27f81024
+FileChecksum: MD5: f5b7d421398c58a86b1e37b118a591f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/cover.jpg
+SPDXID: SPDXRef-item879563
+FileChecksum: SHA1: 21b45b643859e10eb300f47130e6c3837e7c9010
+FileChecksum: MD5: c9ef398dd69d6dbbc6a45864b92a28d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/resources/cover.svg
+SPDXID: SPDXRef-item879565
+FileChecksum: SHA1: 8c761ab6f7ea7ea60c9933ab43a7a39ff188ce21
+FileChecksum: MD5: 06746921c651ff9519f56d7b7afcb719
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/resources/ebook.css
+SPDXID: SPDXRef-item879566
+FileChecksum: SHA1: df56ca5976c11bc5124f4e81889f5d4ae0eeeed9
+FileChecksum: MD5: 5ca428a2e869842b8b190e180c0e27f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/resources/make_cover.sh
+SPDXID: SPDXRef-item879567
+FileChecksum: SHA1: 779b82ce0ae50e679285b6fc97114d6339594eb4
+FileChecksum: MD5: 146481a80c8ae3ee7be28af22e442305
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/docs/README.md
+SPDXID: SPDXRef-item879568
+FileChecksum: SHA1: 7e322081f7103e4f6c233de81df060e71e81ba7f
+FileChecksum: MD5: 49cd4bcc1520c1064c12abba9ad5b045
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/conf.d/app-templates/README.md
+SPDXID: SPDXRef-item879569
+FileChecksum: SHA1: 1cf2ad75956abb1187a2c58ed2d0d9b15843124c
+FileChecksum: MD5: b940618a25f6011cfc604e1e2a4d04ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/nbproject/project.xml
+SPDXID: SPDXRef-item879571
+FileChecksum: SHA1: 549d4e663182a96923a95ff98ee7314996d249e1
+FileChecksum: MD5: 277965ab2e7e6a3774305571f375111d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/nbproject/configurations.xml
+SPDXID: SPDXRef-item879572
+FileChecksum: SHA1: f72bcd564443943b08c7e217ed60c4258cb5047a
+FileChecksum: MD5: c46ba4de9346d72c70770fe49655630f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/README.md
+SPDXID: SPDXRef-item879573
+FileChecksum: SHA1: f36d8319467e8f5bb859c8291bbd468da7d2ff7e
+FileChecksum: MD5: 086e72b180d389b7138bafe1a93e2443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/CMakeLists.txt
+SPDXID: SPDXRef-item879575
+FileChecksum: SHA1: 0a993b6fcd4bd1363d8178109ff148a086f50803
+FileChecksum: MD5: a1bc99a863ac8430a76d57e5c3765286
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/_Alsa-Hal-plugin/CMakeLists.txt
+SPDXID: SPDXRef-item879577
+FileChecksum: SHA1: 8bedd5d8add43e345175c642b9ce2373bdb10722
+FileChecksum: MD5: f73d40e09809cf7bd855da49a42bf2ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/_Alsa-Hal-plugin/AlsaHalPlugCtl.c
+SPDXID: SPDXRef-item879578
+FileChecksum: SHA1: db78f4d78dca33faf2c27eaaf89082de2ed85a40
+FileChecksum: MD5: 8eb805c9f2e6714055b6d22850d36b39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/_Alsa-Hal-plugin/AlsaHalPlugCb.c
+SPDXID: SPDXRef-item879579
+FileChecksum: SHA1: 64c0a87a2bf9dcc6738b82551fc53ba6f05b76a7
+FileChecksum: MD5: fa7e55ece77fb21f0b9f4ca2f410e401
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/_Alsa-Hal-plugin/AlsaHalPlug.h
+SPDXID: SPDXRef-item879580
+FileChecksum: SHA1: 6d9f652e26eb6021b60f3e99ab05f3bb6d07230e
+FileChecksum: MD5: b4cb0964b4e36aa3c5c3bf7185071bc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/_Alsa-Hal-plugin/README.md
+SPDXID: SPDXRef-item879581
+FileChecksum: SHA1: 4c3e0446e23e15fd0683564962e03943bdcc37a6
+FileChecksum: MD5: 58312bbb5088362f6c2a2fc8a771650f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/Alsa-Policy-Hook/CMakeLists.txt
+SPDXID: SPDXRef-item879583
+FileChecksum: SHA1: dde1ecfae5a3724f05dc6dfc541cfb874cab3344
+FileChecksum: MD5: d3f85d737d102faf34ffd73d658a2291
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/Alsa-Policy-Hook/PolicyHookCb.c
+SPDXID: SPDXRef-item879584
+FileChecksum: SHA1: 92725153a6f2c91c0e8dcb515a3cf600a13917c2
+FileChecksum: MD5: bc4e0e5593b3a693bb4d9a476d6088f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/packaging/agl-afb-aaaa_0.1.orig.tar.gz/agl-afb-aaaa_0.1.orig.tar/agl-afb-aaaa-0.1/Alsa-Plugin/Alsa-Policy-Hook/README.md
+SPDXID: SPDXRef-item879585
+FileChecksum: SHA1: dd4c84f262c03b42fed2b2d2abeed0823f410aab
+FileChecksum: MD5: cae6ab7ce703eb928d92cc92ca62e45f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/lua.d/CMakeLists.txt
+SPDXID: SPDXRef-item879588
+FileChecksum: SHA1: f47936742ea93258c157d085a9ae50881120c391
+FileChecksum: MD5: b7c6952e9602236ee184be883c4aa914
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/lua.d/onload-aaaa-01-init.lua
+SPDXID: SPDXRef-item879589
+FileChecksum: SHA1: 791dc2cc91885795abdaf4b0616a9b94acd581e5
+FileChecksum: MD5: cfcd19b27fb997686b3992c48ccae050
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/lua.d/netbeans-aaaa-run-config.png
+SPDXID: SPDXRef-item879590
+FileChecksum: SHA1: fa1f323c15e7f923de1ef450b6149ca9168921c1
+FileChecksum: MD5: 3df87ee118440518b9eb730a7e71a35d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/lua.d/onload-aaaa-00-utils.lua
+SPDXID: SPDXRef-item879591
+FileChecksum: SHA1: 804bc9d2117ce30c5cc9c2039bdf9a73c87c4402
+FileChecksum: MD5: 528fc19fb8782b349404ba70727ef06d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/lua.d/onload-aaaa-03-controls.lua
+SPDXID: SPDXRef-item879592
+FileChecksum: SHA1: 3555562cc57b1f0ea047c99b1cf010b42e8bfc90
+FileChecksum: MD5: 4a5b11df5301451d4df9482cec0bb1f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/lua.d/onload-aaaa-10-event.lua
+SPDXID: SPDXRef-item879593
+FileChecksum: SHA1: 6fe6b8c08def2b26e0297d832e5f1177d1a047f4
+FileChecksum: MD5: db8c4ee1dbac6cc05d62ef63537a28ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/lua.d/README.md
+SPDXID: SPDXRef-item879594
+FileChecksum: SHA1: 602b8e82a48fa5b7e161d8a92535773be4a2743f
+FileChecksum: MD5: b06d02ef9b90e7002b2475b2801f3a85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/CMakeLists.txt
+SPDXID: SPDXRef-item879595
+FileChecksum: SHA1: 6da19ed152cc456fc4d4dd14325011920f1f3ac6
+FileChecksum: MD5: 761aeeed18438cd526943bee2539dc05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/json.d/onload-aaaa-sample.json
+SPDXID: SPDXRef-item879597
+FileChecksum: SHA1: 230f4650b2823700ff2f9de88f96df370dc97339
+FileChecksum: MD5: 7107c8f81e3ffcb4bbb9c65a35439219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/json.d/CMakeLists.txt
+SPDXID: SPDXRef-item879598
+FileChecksum: SHA1: f798ba83dff97e5066c4d9efe10e7fdd9508bbaa
+FileChecksum: MD5: baf953d3de04b645420683754ff001f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/json.d/README.md
+SPDXID: SPDXRef-item879599
+FileChecksum: SHA1: 174e7e20dec25c9a7d9e47d39d41198af4c981f4
+FileChecksum: MD5: 5c7f3d24812fb47e1c659e7ff153ecad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/alsa.d/asoundrc.sample
+SPDXID: SPDXRef-item879601
+FileChecksum: SHA1: 58aae2ddb1328d7b89ef249fc3532e55ece412c9
+FileChecksum: MD5: b20702064bbf9a893b485d7af002e4b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/alsa.d/ucm.sample/HiFi.conf
+SPDXID: SPDXRef-item879603
+FileChecksum: SHA1: 4ae255e763f65d3c1c8ea73d4c710c7d1d7b2250
+FileChecksum: MD5: 16eff023bfda542f1cf745f0076cbd41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/alsa.d/ucm.sample/README
+SPDXID: SPDXRef-item879604
+FileChecksum: SHA1: af940606614e5ee7d61fc4f7f4544b9deb296281
+FileChecksum: MD5: 8021d6e4aa8578b83e9ee639ddb57630
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/alsa.d/ucm.sample/HDA Intel PCH.conf
+SPDXID: SPDXRef-item879605
+FileChecksum: SHA1: ccfa66c0459f171116b097718706b2513f859ec5
+FileChecksum: MD5: aa9a1509c41547dcb01c267aead208ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/project/alsa.d/README.md
+SPDXID: SPDXRef-item879606
+FileChecksum: SHA1: 8d0ad3aa36e02bde84a1369c30bc54de72c9dbc5
+FileChecksum: MD5: fdca9fad04a9e04874f2a55c99c7944a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/conf.d/cmake/config.cmake
+SPDXID: SPDXRef-item879608
+FileChecksum: SHA1: 7150869aa56d65fb5519f5c657838eea6b67cf90
+FileChecksum: MD5: 6ba1078cea922346a4b73de861f33f68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/README.md
+SPDXID: SPDXRef-item879609
+FileChecksum: SHA1: f36d8319467e8f5bb859c8291bbd468da7d2ff7e
+FileChecksum: MD5: 086e72b180d389b7138bafe1a93e2443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/git/Apache-2.0
+SPDXID: SPDXRef-item879610
+FileChecksum: SHA1: cfe28f95f21f22ee48cc392995e97981245f16a6
+FileChecksum: MD5: 89aea4e17d99a7cacdbeed46a0096b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Apache-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+

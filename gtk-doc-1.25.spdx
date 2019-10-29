@@ -1,0 +1,3121 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_gtk-doc-1.25-r0-patched.tar.gz_1571458085.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:08:05Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: gtk-doc
+PackageVersion: 1.25
+PackageFileName: gtk-doc-1.25-r0-patched.tar.gz
+SPDXID: SPDXRef-upload344
+PackageDownloadLocation: http://ftp.gnome.org/pub/GNOME/sources/gtk-doc/1.25/gtk-doc-1.25.tar.xz;name=archive
+PackageHomePage: http://www.gtk.org/gtk-doc/
+PackageSummary: <text>Documentation generator for glib-based software</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>gtk-doc version 1.25</text>
+PackageChecksum: SHA1: 39cea12e847e8559878fab61c5ad6d4c010a45a3
+PackageChecksum: MD5: 464a336c8ddf867db8def165fcf656b3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload344
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/conditionaltests.patch
+SPDXID: SPDXRef-item853339
+FileChecksum: SHA1: e2000fdb28f09f99a951727f220e075b0089ea6b
+FileChecksum: MD5: 8fe95716f2066fe7e6fd7b398a2f41ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-Do-not-error-out-if-perl-is-not-found-or-its-version.patch
+SPDXID: SPDXRef-item853341
+FileChecksum: SHA1: 3445ce06a210f352a18753cd9c17eb6d4ea7ebfe
+FileChecksum: MD5: a5acc85e4f2919cb27f1eaa90bf44cfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/MAINTAINERS
+SPDXID: SPDXRef-item853343
+FileChecksum: SHA1: e5a313253f30dd677d5c08ab838b4f10f314bace
+FileChecksum: MD5: f9ac74b1c852b94534006a284f762cc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.notmpl-flat.make
+SPDXID: SPDXRef-item853344
+FileChecksum: SHA1: 7c6635c82265a4ee67c9d0e3b153ac9f540b1b8c
+FileChecksum: MD5: 5ead7075eff42de169919610c33e97b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/NEWS
+SPDXID: SPDXRef-item853345
+FileChecksum: SHA1: 3f011879baa86ebb9cf320e31e57ba3b984c4004
+FileChecksum: MD5: a53ab9a1e529fcf575c7874a486a71a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/version-greater-or-equal.xsl
+SPDXID: SPDXRef-item853346
+FileChecksum: SHA1: 4bb47f6f78fd43cee891a72b827ab8a137aa0797
+FileChecksum: MD5: b8134396ed56f5104f90598a0c7e428b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.notmpl.make
+SPDXID: SPDXRef-item853347
+FileChecksum: SHA1: dad07561dac9783dfff20eb0f07c5b6a165022d0
+FileChecksum: MD5: f4d960e9cb95fbfe0e0dabc18a291cec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.dsl.in
+SPDXID: SPDXRef-item853348
+FileChecksum: SHA1: a531e7961f42956e41f9734bdd10097f284c913b
+FileChecksum: MD5: b2b934cb74d4e20e8412383e711977d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-mkpdf.in
+SPDXID: SPDXRef-item853349
+FileChecksum: SHA1: cc1e0907b65cf7cc10d609692e78c6ca3bc2a448
+FileChecksum: MD5: acaa734d1b63089c7dfb2a0e231a57a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.xsl
+SPDXID: SPDXRef-item853350
+FileChecksum: SHA1: ace5343d9bd0bc5b701e30a425ed5adc35a557c7
+FileChecksum: MD5: e552359ab43030ee06eb980cda91447f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/db2man/docbook-to-man.ts
+SPDXID: SPDXRef-item853352
+FileChecksum: SHA1: 48d5d52a4854b15e9b7831d1e21e851ce4fe6908
+FileChecksum: MD5: 5d1a1f4afb6bd0abf9b2bbddb05f18da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/db2man/docbook-to-man
+SPDXID: SPDXRef-item853353
+FileChecksum: SHA1: eb14474a3fb7c5257baa70c5c4c14e0469c4aa78
+FileChecksum: MD5: b091edb925cba0fa4e773623b229c118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/db2man/README
+SPDXID: SPDXRef-item853354
+FileChecksum: SHA1: 42b9acdf337e3ce7d0af71a2ff4aebd7c3278a19
+FileChecksum: MD5: 6ff6b51c108dae58d5131c379be00462
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-scangobj.in
+SPDXID: SPDXRef-item853355
+FileChecksum: SHA1: 419de711b50bf13890fc2851ac083c86fd57cbd2
+FileChecksum: MD5: a075382332368eccbdfd48be99095637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/aclocal.m4
+SPDXID: SPDXRef-item853356
+FileChecksum: SHA1: f61be67970f840711ad7ca83f1d7569f7c69caff
+FileChecksum: MD5: 5c6b119bdc5577474dfafbe1c99c1da9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.dcl
+SPDXID: SPDXRef-item853357
+FileChecksum: SHA1: b6308ca98a2f5d17a9a98521293514dc2bb7cabf
+FileChecksum: MD5: 57c2bcf977ca6857b589da35f1a65d07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-scan.in
+SPDXID: SPDXRef-item853358
+FileChecksum: SHA1: 2cd9aeaab537d80fdf557c5fa3cbe0c64100ba6c
+FileChecksum: MD5: a4e5dfc0a734b9e2a204b45e3982ce85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-mkdb.in
+SPDXID: SPDXRef-item853359
+FileChecksum: SHA1: aa0f21ac8372e42dbd4ef2741ccca5b046d005af
+FileChecksum: MD5: cb22ba53aa44b7579e5ad1129f14823f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.make
+SPDXID: SPDXRef-item853360
+FileChecksum: SHA1: a254eb3b6477e83f413b2d7c0106fdb308254c92
+FileChecksum: MD5: af156ecf7002f2b094e578ebbcb68ace
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/Makefile.in
+SPDXID: SPDXRef-item853361
+FileChecksum: SHA1: b84454f3851eaca51a376b55d323b426b856c45d
+FileChecksum: MD5: f57484594464d6bfa6bd39e034e22925
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/COPYING
+SPDXID: SPDXRef-item853362
+FileChecksum: SHA1: dfac199a7539a404407098a2541b9482279f690d
+FileChecksum: MD5: 94d55d512a9ba36caa9b7df079bae19f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/configure
+SPDXID: SPDXRef-item853363
+FileChecksum: SHA1: 7415d7045954e1e060f66e24ecc560b80298b0a2
+FileChecksum: MD5: 27685549047fb1503dc7bded9a379dba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/devhelp2.xsd
+SPDXID: SPDXRef-item853364
+FileChecksum: SHA1: 8cb71fdceb0bd69736de4a78944a4843e25f66e4
+FileChecksum: MD5: b5747f78054692a6ef76134fc3de222a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc-fo.xsl
+SPDXID: SPDXRef-item853365
+FileChecksum: SHA1: b5df9402dd99224e6691c0461bd9fda90b0f132b
+FileChecksum: MD5: d37b17294850c08c89a057288ca429dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/examples/Makefile.am
+SPDXID: SPDXRef-item853367
+FileChecksum: SHA1: 4f7c82845840229d8704c1aea22ca006df893359
+FileChecksum: MD5: 6326fd083b25fa43d69ea78956782426
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/examples/README
+SPDXID: SPDXRef-item853368
+FileChecksum: SHA1: a04225efa91e9ebbf5bc8fc6f0469a65f1ae5895
+FileChecksum: MD5: 5480a613058f9abd91ba941bc6fcd5f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-fixxref.in
+SPDXID: SPDXRef-item853369
+FileChecksum: SHA1: 40ca4834f152e1ade79c876b15be552592bec383
+FileChecksum: MD5: d8aa25b7633b68c625f7adfc9775634e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/m4/ltversion.m4
+SPDXID: SPDXRef-item853371
+FileChecksum: SHA1: 25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68
+FileChecksum: MD5: 91dd5e1355d100dbdab7d71244ed2625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/m4/libtool.m4
+SPDXID: SPDXRef-item853372
+FileChecksum: SHA1: df1b378e235c9f5df79c68c8fbae6e47a1d219c9
+FileChecksum: MD5: 42a15e936131c8cbcc3c88b839022f8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/m4/ltoptions.m4
+SPDXID: SPDXRef-item853373
+FileChecksum: SHA1: 05ec66892c8b30f20aa5278e1671ae4925a9c063
+FileChecksum: MD5: 67d5ebceaac562ddf0dde4e5cdffbe09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/m4/gtkdoc_jh_check_xml_catalog.m4
+SPDXID: SPDXRef-item853374
+FileChecksum: SHA1: 625e29915f3af1b3094036df191152259082efc5
+FileChecksum: MD5: 99d96466f700a39011059ff322607476
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/m4/ltsugar.m4
+SPDXID: SPDXRef-item853375
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/m4/gtkdoc_jh_path_xml_catalog.m4
+SPDXID: SPDXRef-item853376
+FileChecksum: SHA1: 0404f2c843e6e3c9151e4e8702f0b5b061a8dbb8
+FileChecksum: MD5: 06b52a0766d51d8d7aa0fb978300717b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item853377
+FileChecksum: SHA1: c0c6afe569131b4015d221bc853053cf884b2699
+FileChecksum: MD5: 47d420a13f9ba4e171772c3e3eee3e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/TODO
+SPDXID: SPDXRef-item853378
+FileChecksum: SHA1: 621d086225c383849981ea27c7211dcdd4280ac8
+FileChecksum: MD5: 2090e7bd3b57a4428e0efccc713238fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.spec
+SPDXID: SPDXRef-item853379
+FileChecksum: SHA1: a6782ac8dae593af69f12209e49547d01e92c280
+FileChecksum: MD5: 30f3afd8473cbb7512be3c5ab939c48c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/Makefile.in
+SPDXID: SPDXRef-item853381
+FileChecksum: SHA1: 957c03a25817877505cf653b2da123238b8fe4e1
+FileChecksum: MD5: 16f089e6c096b617694a540219f10b1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/el/fdl-appendix.xml
+SPDXID: SPDXRef-item853384
+FileChecksum: SHA1: 69477f4961381ea6550c4a225342b6b568af0788
+FileChecksum: MD5: 54c11c931cf65ef5394be9c11ff43f09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/el/index.docbook
+SPDXID: SPDXRef-item853385
+FileChecksum: SHA1: 96c7ab114f136b27c094febfc0268f0440cd4e33
+FileChecksum: MD5: 0e7f69c9d172f2c254390dd8af2e705c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/el/el.stamp
+SPDXID: SPDXRef-item853386
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/el/el.po
+SPDXID: SPDXRef-item853387
+FileChecksum: SHA1: cb25775bb55e00b12a1d0d98d8b34c3dccdf0202
+FileChecksum: MD5: 1a20373368cf2b5f6fe0c16d52ece3b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/sv/sv.po
+SPDXID: SPDXRef-item853389
+FileChecksum: SHA1: b44e64049c1a8cef554305aa2a603e3f2127adbb
+FileChecksum: MD5: cf824998f1b1a1decc0b320c87019561
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/sv/fdl-appendix.xml
+SPDXID: SPDXRef-item853390
+FileChecksum: SHA1: 893e68c661952f2f6f73724f03f590055a6f4922
+FileChecksum: MD5: 1d9f011f35489625735faaad2d78db25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/sv/index.docbook
+SPDXID: SPDXRef-item853391
+FileChecksum: SHA1: 1a0b72c25d584a4a01339e2a736509719210b3ed
+FileChecksum: MD5: 380b3f0f62f8a67fb43f95c44b42d9f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/sv/sv.stamp
+SPDXID: SPDXRef-item853392
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/gu/gu.po
+SPDXID: SPDXRef-item853394
+FileChecksum: SHA1: 3adcb7102bdb447c6966734956e697a57681d3e9
+FileChecksum: MD5: 8baa98071409de628e8c99157f821252
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/gu/gu.stamp
+SPDXID: SPDXRef-item853395
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/gu/fdl-appendix.xml
+SPDXID: SPDXRef-item853396
+FileChecksum: SHA1: 3997f0d21a6fe21d85a7a78c75fe3ba3cb449532
+FileChecksum: MD5: 8faafdc6716a379f13abf533121b15b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/gu/index.docbook
+SPDXID: SPDXRef-item853397
+FileChecksum: SHA1: b3219f84c97bcacb7d39c30f1202ff0ab6f67210
+FileChecksum: MD5: 82f49fa995425e6e7d07a98b1d43b240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/gl/gl.stamp
+SPDXID: SPDXRef-item853399
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/gl/gl.po
+SPDXID: SPDXRef-item853400
+FileChecksum: SHA1: e9eb9e20d091aa9a31d0676dbd1b24d811d2ef70
+FileChecksum: MD5: b3a09f55d35123a898651d71d365f4e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/gl/fdl-appendix.xml
+SPDXID: SPDXRef-item853401
+FileChecksum: SHA1: fc196b745b2ce3023b94b3d6b3c82c82e5bfdc97
+FileChecksum: MD5: fd62d3e0809c8951ef212c666c0e31e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/gl/index.docbook
+SPDXID: SPDXRef-item853402
+FileChecksum: SHA1: 182404814ef8065a21348a373eae257195210f06
+FileChecksum: MD5: fdb79bc1f40c169d5fa1928eb6701825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/Makefile.in
+SPDXID: SPDXRef-item853403
+FileChecksum: SHA1: 676f41a5fa3dd7c6532c05f53617dc577ae5af25
+FileChecksum: MD5: d657d6eb18293e3e13e11786b9f87e0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/bn_IN/bn_IN.stamp
+SPDXID: SPDXRef-item853405
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/bn_IN/fdl-appendix.xml
+SPDXID: SPDXRef-item853406
+FileChecksum: SHA1: d50aa410016614bc02a963c3a2c98ebe5c8ee397
+FileChecksum: MD5: f33c632517c9c6e3d206af8cd3910eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/bn_IN/index.docbook
+SPDXID: SPDXRef-item853407
+FileChecksum: SHA1: 5af72a3781322452b85e514a0db2255e1347fae2
+FileChecksum: MD5: 9ffe4ac8e586368450d3af99d899aeec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/bn_IN/bn_IN.po
+SPDXID: SPDXRef-item853408
+FileChecksum: SHA1: 7664a437ce093bcd138822a828a3f6a7e401db45
+FileChecksum: MD5: 223e80fb22924e96d7f0b182de981693
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/sl/sl.stamp
+SPDXID: SPDXRef-item853410
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/sl/fdl-appendix.xml
+SPDXID: SPDXRef-item853411
+FileChecksum: SHA1: d50aa410016614bc02a963c3a2c98ebe5c8ee397
+FileChecksum: MD5: f33c632517c9c6e3d206af8cd3910eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/sl/index.docbook
+SPDXID: SPDXRef-item853412
+FileChecksum: SHA1: 462d3648e65de40f87d793ebb69ba52abd6020c3
+FileChecksum: MD5: 7b13305e36d30ac8a5e34ca2287fd814
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/sl/sl.po
+SPDXID: SPDXRef-item853413
+FileChecksum: SHA1: d49ef4a653c48c895bb38c032bf83291aa7692f3
+FileChecksum: MD5: 7cc4a273a82e5070fe45347955a33ddb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/ta/ta.stamp
+SPDXID: SPDXRef-item853415
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/ta/fdl-appendix.xml
+SPDXID: SPDXRef-item853416
+FileChecksum: SHA1: b5ddc42789f9cd02bf9443e826647c04950899bf
+FileChecksum: MD5: eafedbff7d0f2b6d4c0710002673308a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/ta/index.docbook
+SPDXID: SPDXRef-item853417
+FileChecksum: SHA1: 2ace1df0fec06cea971f7465f9b572867c9cc0ed
+FileChecksum: MD5: 860b81544459f218efde7f68511077d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/ta/ta.po
+SPDXID: SPDXRef-item853418
+FileChecksum: SHA1: 2d8ff430f6df2b3f7ced3cf505fe92352dd5d705
+FileChecksum: MD5: fed5cdd09d6f7975d010b657e597268e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/zh_CN/fdl-appendix.xml
+SPDXID: SPDXRef-item853420
+FileChecksum: SHA1: e02a2a21c5c5dac895e7ee4a7cf7e3962d5391b5
+FileChecksum: MD5: bec396f3e88a9507285b0b2890a5d62c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/zh_CN/zh_CN.stamp
+SPDXID: SPDXRef-item853421
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/zh_CN/index.docbook
+SPDXID: SPDXRef-item853422
+FileChecksum: SHA1: dde4dc4dcd73f8ee88619421c77e47f237b81225
+FileChecksum: MD5: 6411f1588ea98c158c57e5260ea0aff7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/zh_CN/zh_CN.po
+SPDXID: SPDXRef-item853423
+FileChecksum: SHA1: b1f235ba432cc3a7c7b74c3bd53083d21ebc340f
+FileChecksum: MD5: 074c73180252c6a4a08b38f62a5d51fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/te/te.stamp
+SPDXID: SPDXRef-item853425
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/te/fdl-appendix.xml
+SPDXID: SPDXRef-item853426
+FileChecksum: SHA1: d50aa410016614bc02a963c3a2c98ebe5c8ee397
+FileChecksum: MD5: f33c632517c9c6e3d206af8cd3910eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/te/index.docbook
+SPDXID: SPDXRef-item853427
+FileChecksum: SHA1: 8257d45be6f2ffa4308753c871c9d4ec05ebc4e2
+FileChecksum: MD5: 1042996ce9a34ecd81b8d5bea2df3513
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/te/te.po
+SPDXID: SPDXRef-item853428
+FileChecksum: SHA1: dfd23d6bff697b4c05b086fd4b43ac84a8a2994a
+FileChecksum: MD5: 77ff96cbe030f448c46a3ce96197eeb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/Makefile.am
+SPDXID: SPDXRef-item853429
+FileChecksum: SHA1: da9c6fe97673eedb4223611b0e14c5cbac2b9faf
+FileChecksum: MD5: 915d031fadc012dc1429045accb7b75d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/es/es.po
+SPDXID: SPDXRef-item853431
+FileChecksum: SHA1: bad805823cf3a080840c889e1836390cf8edb1f1
+FileChecksum: MD5: 1239d20e0d818497cd0570392bb420ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/es/es.stamp
+SPDXID: SPDXRef-item853432
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/es/fdl-appendix.xml
+SPDXID: SPDXRef-item853433
+FileChecksum: SHA1: 65460af08f50b7fb65ef6fed00ea55a024f77b39
+FileChecksum: MD5: 700e1603073f09da5cafdf68eb4e0945
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/es/index.docbook
+SPDXID: SPDXRef-item853434
+FileChecksum: SHA1: 41d62e7eb5b4a1b946472b4df0bd63b653656d5c
+FileChecksum: MD5: a87e7e2de16d830d96c7d69bc3126697
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/pt_BR/pt_BR.po
+SPDXID: SPDXRef-item853436
+FileChecksum: SHA1: 6675689cae12b740d03adfbb70c1ed8e8fd423ef
+FileChecksum: MD5: 4592049f13ae5d8ce83a3ddde49822a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/pt_BR/fdl-appendix.xml
+SPDXID: SPDXRef-item853437
+FileChecksum: SHA1: ccfbaccd93927a1b1d7d0d5fbeda6a26ccd05d38
+FileChecksum: MD5: 0573541f37509dd5b6613fc2c7b9fe6a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/pt_BR/index.docbook
+SPDXID: SPDXRef-item853438
+FileChecksum: SHA1: 0b197abbcd63e3221581379bfd62eb93df2219f7
+FileChecksum: MD5: b8493609db4ca1d4c3219ea1ad191038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/pt_BR/pt_BR.stamp
+SPDXID: SPDXRef-item853439
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/en_GB/en_GB.stamp
+SPDXID: SPDXRef-item853441
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/en_GB/fdl-appendix.xml
+SPDXID: SPDXRef-item853442
+FileChecksum: SHA1: 502a91badb493bbb0a989bc5b717907abe2ad722
+FileChecksum: MD5: 232abbdc384d2a053c7d04480228021e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/en_GB/en_GB.po
+SPDXID: SPDXRef-item853443
+FileChecksum: SHA1: 101a065c452b0a0eb90b665b2df6df6db5e942ce
+FileChecksum: MD5: d3d05f335fe9f80476c7f855523a00ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/en_GB/index.docbook
+SPDXID: SPDXRef-item853444
+FileChecksum: SHA1: 30da9ffb932131f55a25aae78db07e040c02aa7d
+FileChecksum: MD5: 7f65bea1f798a3882f7b23473db05522
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/C/fdl-appendix.xml
+SPDXID: SPDXRef-item853446
+FileChecksum: SHA1: 6f05b2e4402bdb62168d369655200c33e093e464
+FileChecksum: MD5: b03c22a20952291c018b05339f0e4cdf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Docbook
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/C/index.docbook
+SPDXID: SPDXRef-item853447
+FileChecksum: SHA1: 60d762cfb4936d5ba8e351f85c92552e04f628cb
+FileChecksum: MD5: 4fd317fd0678585262aaf3a3f1e61fad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GFDL-1.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/fr/fr.po
+SPDXID: SPDXRef-item853449
+FileChecksum: SHA1: a0cd872dc02bae8d80b197fc66ee995ebdc84d09
+FileChecksum: MD5: 7cce95afd177d937e7c93c59a56b6884
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/fr/fr.stamp
+SPDXID: SPDXRef-item853450
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/fr/fdl-appendix.xml
+SPDXID: SPDXRef-item853451
+FileChecksum: SHA1: 93624b028899c9ed9d27e69790ca70451ee38a33
+FileChecksum: MD5: 5c398bdca1cd2d2446b608b888bc58fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GFDL-1.1
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/fr/index.docbook
+SPDXID: SPDXRef-item853452
+FileChecksum: SHA1: 7cf0c4e4775ddd42acc73cae1d5372675b469ffb
+FileChecksum: MD5: 382eddf6598e352bff09b381d836be07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GFDL-1.1
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/de/de.po
+SPDXID: SPDXRef-item853454
+FileChecksum: SHA1: 8d60d485e02df1630b09239c49440b51dd66794e
+FileChecksum: MD5: a18f6f04036b1e6e6dc59685c493c65e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-GFDL-1.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/de/fdl-appendix.xml
+SPDXID: SPDXRef-item853455
+FileChecksum: SHA1: 4501ab4a9f3dbf7808ebe2b0e6b1e07d13497204
+FileChecksum: MD5: d95b4d3357f6bf8cc156aebba93492a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GFDL-1.1
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/de/index.docbook
+SPDXID: SPDXRef-item853456
+FileChecksum: SHA1: 30bb34bc7c16f9d333d14e7c56eac22c18d40882
+FileChecksum: MD5: a2236bf4cdd79429c9f89ff9369a9a50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GFDL-1.1
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/de/de.stamp
+SPDXID: SPDXRef-item853457
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/manual/ChangeLog
+SPDXID: SPDXRef-item853458
+FileChecksum: SHA1: a140907c1dba104686ddeffac8ba8008fd3967da
+FileChecksum: MD5: 447b3997094672fc2ea6cc1942228a2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/help/Makefile.am
+SPDXID: SPDXRef-item853459
+FileChecksum: SHA1: 12ab7f89ad88ec7db8a53af4883c968339585c02
+FileChecksum: MD5: bc0159a50a7d6bdfb0032802adff860b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/Makefile.am
+SPDXID: SPDXRef-item853460
+FileChecksum: SHA1: 9046e93dae921dff07bbb8c31baf1f3be05a9c09
+FileChecksum: MD5: 6725e359878d7587dfa222a121fcf87f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-common.pl
+SPDXID: SPDXRef-item853461
+FileChecksum: SHA1: 5ecafb94f3c4b9139c34100c396c8247b74c1fde
+FileChecksum: MD5: 6cff6f676de8069b73b4e5476eecca6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/AUTHORS
+SPDXID: SPDXRef-item853462
+FileChecksum: SHA1: 53254ec67d12ff60e416d2cdd1534ca3fc635f7d
+FileChecksum: MD5: 05e65927496f7e0cfb966a6e4fbc9000
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.m4
+SPDXID: SPDXRef-item853463
+FileChecksum: SHA1: 52b6d85904ca99a2372a180b1db82b2a8592d03d
+FileChecksum: MD5: 8b607f5b1a903f3ba91558561d362623
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.spec.in
+SPDXID: SPDXRef-item853464
+FileChecksum: SHA1: e7f0e48339e52929289b0dbf25ada220274cb765
+FileChecksum: MD5: 44e34c3c578eaa7fd1c5a1052ef1ef6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-check.in
+SPDXID: SPDXRef-item853465
+FileChecksum: SHA1: 35267277fb1ecbf95a36a300e7db31d37e4ae7e9
+FileChecksum: MD5: 953d5ab34a2cc75ebe71825a3da46269
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/style/left-insensitive.png
+SPDXID: SPDXRef-item853467
+FileChecksum: SHA1: 6484f6847b39a92fb4f0bb92babafa93152f4e8d
+FileChecksum: MD5: b992596e1683a40d89d15dc8dcb58c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/style/up-insensitive.png
+SPDXID: SPDXRef-item853468
+FileChecksum: SHA1: 092bed6184542cb2e2419399adc4c06d6e3319be
+FileChecksum: MD5: 97c742a19428c428c552a380ad9fde9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/style/style.css
+SPDXID: SPDXRef-item853469
+FileChecksum: SHA1: b4068fc936d1e384da62f3addc8d6a13360db867
+FileChecksum: MD5: 7ecec4d4ad66d1ea924c1a17b492117e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/style/right-insensitive.png
+SPDXID: SPDXRef-item853470
+FileChecksum: SHA1: 364c83e104dbae3d8a8cf6ef9e5e7e7f9493d3c5
+FileChecksum: MD5: 987cf4ad9491f01e8db264d38098a576
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/style/home.png
+SPDXID: SPDXRef-item853471
+FileChecksum: SHA1: 7ba720f28018871ab2e8d1452987d9451f653ff2
+FileChecksum: MD5: 83cdd16d5fc01d8d7dfaf97df1120bc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/style/up.png
+SPDXID: SPDXRef-item853472
+FileChecksum: SHA1: 53d9711aa40ae3ebcb7e22671cd78fed5a039cdf
+FileChecksum: MD5: 81854a03247e9ba6981eed0b909b9c42
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/style/left.png
+SPDXID: SPDXRef-item853473
+FileChecksum: SHA1: 5d3c0425673b016477b553030535b3d15202961d
+FileChecksum: MD5: 0cc08008324009bebc947c6af6dd52c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/style/right.png
+SPDXID: SPDXRef-item853474
+FileChecksum: SHA1: 9894d18a4588f67b782b307bbb001e2c901ebf48
+FileChecksum: MD5: bd51fef29caa82cb560340be392b37a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-mktmpl.in
+SPDXID: SPDXRef-item853475
+FileChecksum: SHA1: 41669998157e83981a5b5b1b9a88578add34a313
+FileChecksum: MD5: 315d1f468d3a99a1cccab52222cc9bfd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.cat.in
+SPDXID: SPDXRef-item853476
+FileChecksum: SHA1: 2a4360db6c0e413185fabc0260ca029932e5b05e
+FileChecksum: MD5: 254ce63359ea4c2094d4ac7bfdc4cd14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-mkhtml.in
+SPDXID: SPDXRef-item853477
+FileChecksum: SHA1: 577d3aae3c87d9036155eaa951bfd4f099aa5daf
+FileChecksum: MD5: 059a930e1489eb5b53e92a4fa6e5309a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gtkdoc-common.t
+SPDXID: SPDXRef-item853479
+FileChecksum: SHA1: 0fd2b8dd397bea939e175b0f2b6eba2a9c7b5a28
+FileChecksum: MD5: d3bfd964bad9fa94f1402ff7ddbe7dca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gtkdoc-fixxref.t
+SPDXID: SPDXRef-item853480
+FileChecksum: SHA1: dec272ea645d95212198346141e1f71e4d784509
+FileChecksum: MD5: c7002b477200989bc1380ba39faec66b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gtk-doc.notmpl.make
+SPDXID: SPDXRef-item853481
+FileChecksum: SHA1: 50ffb90de9ea73e76d78d8cb6fde5f3ab3e3d84e
+FileChecksum: MD5: dbb1b31a3ca48efe02ffcd8c523fce15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty.sh
+SPDXID: SPDXRef-item853482
+FileChecksum: SHA1: 79ecba1b283139b7cf39068c487b737a1ecd2202
+FileChecksum: MD5: 4ae89a4bdf48a320a8a478bd2b2f629a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gtkdoc-scan.t
+SPDXID: SPDXRef-item853483
+FileChecksum: SHA1: 2f7811ada8ed329ae8568e441763cd349f79ae98
+FileChecksum: MD5: 685e03b82aa85aeb1654c214e1cf1c12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail.sh
+SPDXID: SPDXRef-item853484
+FileChecksum: SHA1: ef7ba9a8d55078d25910326a8fc2b3d4ade0e1f6
+FileChecksum: MD5: 0180c08682edd078a234c0b14cc36e8d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/Makefile.in
+SPDXID: SPDXRef-item853485
+FileChecksum: SHA1: 2a7f38f7ff4c9c13af8bd215d97b8f1b0df4d5a9
+FileChecksum: MD5: 672b565858596afa3532efb014586759
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gtkdoctest.sh
+SPDXID: SPDXRef-item853486
+FileChecksum: SHA1: 655efa56baffd43498cd59690a20783815bf6fd4
+FileChecksum: MD5: 1c077d9a0648b12866b94e599454cdb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/Makefile.in
+SPDXID: SPDXRef-item853488
+FileChecksum: SHA1: da8017b43aad5094f2a985a7af8e6de310f82db9
+FileChecksum: MD5: d6e6e9ec2796b6d94066d8c31fc7332c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/src/Makefile.in
+SPDXID: SPDXRef-item853490
+FileChecksum: SHA1: 4ecd19817b85f0b21f2a303bf2f3005557eca592
+FileChecksum: MD5: 534b2d227cf99e069af1f5979ef6fc01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/src/tester.c
+SPDXID: SPDXRef-item853491
+FileChecksum: SHA1: 1f30f72fd4b44e86f694e0dce538fff11fc27a99
+FileChecksum: MD5: 3bea6302618d00bafc5c1617e4a1e83c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/src/Makefile.am
+SPDXID: SPDXRef-item853492
+FileChecksum: SHA1: ca8b7b36621d994610982e769a9bb30672f9972e
+FileChecksum: MD5: 83021ac8b3dcd7a3862069eb58c053eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/src/tester.h
+SPDXID: SPDXRef-item853493
+FileChecksum: SHA1: 45c974186c5bc8822b833a0d83a7d734cc43d86b
+FileChecksum: MD5: c2e5cea8ccd964963ae243f4501f5a43
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/Makefile.am
+SPDXID: SPDXRef-item853494
+FileChecksum: SHA1: 3849c7621a2027cdbc2981d3b1a0b6a8f5de356b
+FileChecksum: MD5: 6e82d3597117d9134bbf2c345f0775c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/docs/tester-sections.txt
+SPDXID: SPDXRef-item853496
+FileChecksum: SHA1: d6ae40fe82c066f9dc5d9fe2c6730ad1124e8577
+FileChecksum: MD5: 5e36784d5ff97ea2e67e1b7967c2157c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/docs/Makefile.in
+SPDXID: SPDXRef-item853497
+FileChecksum: SHA1: c064000a47795880131b9267aead784fb1d121cf
+FileChecksum: MD5: 9535afe512da4d2a19586e18c0cbeefb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/docs/Makefile.am
+SPDXID: SPDXRef-item853498
+FileChecksum: SHA1: 68691a4d22de2767b3c9f8d830a26f6ca212b55b
+FileChecksum: MD5: 2c9c4a5e4eb4e7e145e211728f659c10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/docs/tester-overrides.txt
+SPDXID: SPDXRef-item853499
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs/docs/tester-docs.xml
+SPDXID: SPDXRef-item853500
+FileChecksum: SHA1: 607b4eb3d70f36598d46b2e5f73f6682252ec0c5
+FileChecksum: MD5: 651ce2f7f4ef18f7178dd7144ad9767c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations.sh
+SPDXID: SPDXRef-item853501
+FileChecksum: SHA1: 3184fd3b7407a515c34e29aae1475a6a95a194af
+FileChecksum: MD5: a473427d0a5df18351153c20dc7a7b40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/bugs.sh
+SPDXID: SPDXRef-item853502
+FileChecksum: SHA1: 8ff6541288754a88adf40ea858857fb599b0190f
+FileChecksum: MD5: 5773fb1729914dbe2152796af5799d77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/Makefile.am
+SPDXID: SPDXRef-item853503
+FileChecksum: SHA1: bce872b398f354bfb6423c7159186cbd0dc03a71
+FileChecksum: MD5: c8788e664124adb61266e3d3996f8f37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/Makefile.in
+SPDXID: SPDXRef-item853505
+FileChecksum: SHA1: eaaf8a77d64888bcff5715f67a78a8ca37d31dc7
+FileChecksum: MD5: e59fca5127bf9d09cbbbc9c914b390d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/src/Makefile.in
+SPDXID: SPDXRef-item853507
+FileChecksum: SHA1: 9b74bd9e015d8ffb2af8f22e3db69f6bd97ef057
+FileChecksum: MD5: 5bc91c19d8b31486625167dbd9a03f7f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/src/tester.c
+SPDXID: SPDXRef-item853508
+FileChecksum: SHA1: 9eb28abc24f96bba3a17c441105e816d2421a2b5
+FileChecksum: MD5: 4ccf531a3ce2f1f288480e83b2c8a815
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/src/Makefile.am
+SPDXID: SPDXRef-item853509
+FileChecksum: SHA1: ca8b7b36621d994610982e769a9bb30672f9972e
+FileChecksum: MD5: 83021ac8b3dcd7a3862069eb58c053eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/src/tester.h
+SPDXID: SPDXRef-item853510
+FileChecksum: SHA1: 391524d454baeb740bbc4db328d0d798e1529f65
+FileChecksum: MD5: 0b3cb9d4a3cd6e4ce434b80972afae14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/Makefile.am
+SPDXID: SPDXRef-item853511
+FileChecksum: SHA1: fd06251a28a35f239a94df8f2a1ad45720b67887
+FileChecksum: MD5: 5283fc366f461effa2775347813ce8b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/docs/tester-sections.txt
+SPDXID: SPDXRef-item853513
+FileChecksum: SHA1: 5a436bbd9c36235886a7036d1b35a449b3ac5630
+FileChecksum: MD5: cba3d4d8b3e9d8abd6aa36676328e869
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/docs/Makefile.in
+SPDXID: SPDXRef-item853514
+FileChecksum: SHA1: 59dfe6b25d07a3850039fc64fcc8fc6d084c5a04
+FileChecksum: MD5: 6aff452d00b1973ea3f35bda7e6e60e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/docs/Makefile.am
+SPDXID: SPDXRef-item853515
+FileChecksum: SHA1: ff708eb130400fa820d32c3c2c06243bc80596a0
+FileChecksum: MD5: df1e1e8bf7c2ca2f179ba080135706a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/docs/tester-overrides.txt
+SPDXID: SPDXRef-item853516
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/annotations/docs/tester-docs.xml
+SPDXID: SPDXRef-item853517
+FileChecksum: SHA1: 74b1d0118bf8f7d84a950009f167bd29aba35a2d
+FileChecksum: MD5: 1b028d5792825d2273b6130303ca5ec2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/tools.sh.in
+SPDXID: SPDXRef-item853518
+FileChecksum: SHA1: 6ffb8f3abadb57967f4d39713919b61fb08fc3cf
+FileChecksum: MD5: 9ced99cc4feae6ff2a5d186229d640e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/Makefile.in
+SPDXID: SPDXRef-item853520
+FileChecksum: SHA1: 1050d8b26f7ab6afc47cd4e97eebea88fbf6638a
+FileChecksum: MD5: 7e2461e8812605f95ef916e59f974717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/gobject.c
+SPDXID: SPDXRef-item853522
+FileChecksum: SHA1: b6adb03e2ec6299b7bb5c8859b5d0c5bce5ba14c
+FileChecksum: MD5: 42d1318e9cacdacb8d92489352a52be1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/giface.c
+SPDXID: SPDXRef-item853523
+FileChecksum: SHA1: 2d61c51bc82729ba38ea9f965401ee22004e5985
+FileChecksum: MD5: d43c1399972e567571f151c8e31528c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/Makefile.in
+SPDXID: SPDXRef-item853524
+FileChecksum: SHA1: 0db225c01dbef45b8316df8dc2ccc6f84dcbf6ba
+FileChecksum: MD5: ec19cb3525164001822e7aff0b9dc1d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/Makefile.am
+SPDXID: SPDXRef-item853525
+FileChecksum: SHA1: 61267371916deb551b578b6b6202e2b1eaeb75bd
+FileChecksum: MD5: 2c15e8f233ccd14d0a686c32284a424c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/giface.h
+SPDXID: SPDXRef-item853526
+FileChecksum: SHA1: dddbb6ac3a8a0a118e402f5bd1617691f78e0719
+FileChecksum: MD5: 6166993dac90f2e43509aeb773e72bb6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/tester.h
+SPDXID: SPDXRef-item853527
+FileChecksum: SHA1: 108ccc0b48a5d251e8026c51820035f4f3e50d63
+FileChecksum: MD5: c5e5a541b37bcb193dce9056308f65cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/gtypes.h
+SPDXID: SPDXRef-item853528
+FileChecksum: SHA1: e1dce6a6fe25dec50491ad955951ba9d85ba43a0
+FileChecksum: MD5: 5ec0d1993e3a497ed6aa612a4f1db038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/gobject.h
+SPDXID: SPDXRef-item853529
+FileChecksum: SHA1: 6c614cbe5cbc17937a09a786193bedcd57a151bd
+FileChecksum: MD5: adf1a8d67fda1845e39c7455bf6b16c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/src/gtypes.c
+SPDXID: SPDXRef-item853530
+FileChecksum: SHA1: 687a483bd72c505a634ee2dd30b653028562feac
+FileChecksum: MD5: a5a1a797e2eb247c2bc4a60340cc9710
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/examples/gobject.c
+SPDXID: SPDXRef-item853532
+FileChecksum: SHA1: b261d8311b2d7d8ff7f323ac3fdec02efac14ed7
+FileChecksum: MD5: 0cbfc03bbe6bde098fc29a35d7508ad1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/Makefile.am
+SPDXID: SPDXRef-item853533
+FileChecksum: SHA1: 4a02389d64853200f94aed3b1d9d3c6ef3c6de35
+FileChecksum: MD5: b83cf2a54eed5e50167acb1fab16e85d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/docs/tester.types
+SPDXID: SPDXRef-item853535
+FileChecksum: SHA1: e82ce4ebba233ac3045ac4a7de0d09746ca842b5
+FileChecksum: MD5: 3068a5c0bc197aeb84966c7192f5f5b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/docs/tester-sections.txt
+SPDXID: SPDXRef-item853536
+FileChecksum: SHA1: 5dc34cf253188a461b108519e6526618fc758393
+FileChecksum: MD5: cdc9cc81e6a3e390ce1374bd9e37505a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/docs/Makefile.in
+SPDXID: SPDXRef-item853537
+FileChecksum: SHA1: e85f7ffc35b1dc4b89a50c4305c2e2e3d0898538
+FileChecksum: MD5: 3a362000ad82ac4095cad8edd129a6d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/docs/Makefile.am
+SPDXID: SPDXRef-item853538
+FileChecksum: SHA1: 38d8e9c6c8d82b779d2ef79a94e25e3982b27a03
+FileChecksum: MD5: b770987b0ad1c7f1f2d7b13db83db7cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/docs/images/object.png
+SPDXID: SPDXRef-item853540
+FileChecksum: SHA1: 6e0042f33c7f05163412d024a82a88257c5aa6c2
+FileChecksum: MD5: cff2f6d27a7864248a4c81def43a4b65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/docs/tester-overrides.txt
+SPDXID: SPDXRef-item853541
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject/docs/tester-docs.xml
+SPDXID: SPDXRef-item853542
+FileChecksum: SHA1: 95a75fea055a8e68d755031a903c36b37a6093b5
+FileChecksum: MD5: c00cc477f68de27830666c7ee985135f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gtkdoc-rebase.t
+SPDXID: SPDXRef-item853543
+FileChecksum: SHA1: 15a4179d1493e4ad98711d3f57f72a9ac22c35f8
+FileChecksum: MD5: 04a6e38feb80fade627881f8751f9ad9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/sanity.sh
+SPDXID: SPDXRef-item853544
+FileChecksum: SHA1: c64d36ef95449e14bd1b14f2c3735c2cadc69c2a
+FileChecksum: MD5: e74dfa4c057aa166858ae419cc0a125f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gobject.sh
+SPDXID: SPDXRef-item853545
+FileChecksum: SHA1: 8d511b7bba8c5adfe4746bedcbc4e5aad3fe905a
+FileChecksum: MD5: 097e3c760ca03f348aca8a6ec1816ab2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/gtkdoc-mkdb.t
+SPDXID: SPDXRef-item853546
+FileChecksum: SHA1: c9cac207503fa8cc6e9de0d0070b1078a57ee1da
+FileChecksum: MD5: ef6edc290ebad2185f924e4a07492b99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/Makefile.in
+SPDXID: SPDXRef-item853548
+FileChecksum: SHA1: 3c896218b04b617fec5071b82c305a59f2c5b05f
+FileChecksum: MD5: 4de4165a7b6d8b237856dba16b5d9fcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/src/Makefile.in
+SPDXID: SPDXRef-item853550
+FileChecksum: SHA1: 6ea432d4151902604cf012db1d31f0b2e8e2e4ca
+FileChecksum: MD5: 34854239f8f17b975c06b61d97d916aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/src/tester.c
+SPDXID: SPDXRef-item853551
+FileChecksum: SHA1: 1aa6e87f709e891f1923c09e6981dd22243219fb
+FileChecksum: MD5: 8c9692c2014cfe49b2ec38118acc3093
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/src/Makefile.am
+SPDXID: SPDXRef-item853552
+FileChecksum: SHA1: ca8b7b36621d994610982e769a9bb30672f9972e
+FileChecksum: MD5: 83021ac8b3dcd7a3862069eb58c053eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/src/tester.h
+SPDXID: SPDXRef-item853553
+FileChecksum: SHA1: bfece7d8f499f5739cebaf30dea3283a4144ca71
+FileChecksum: MD5: 47b8babe06b7fd67cea3e329872c057d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/Makefile.am
+SPDXID: SPDXRef-item853554
+FileChecksum: SHA1: 4549b1344ba38f8bba162ef2b8cd80571acb8695
+FileChecksum: MD5: 5a94585643a238a2d711edd422201798
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/docs/tester-sections.txt
+SPDXID: SPDXRef-item853556
+FileChecksum: SHA1: 00ed6b141f383ec07bfff4e2c90e5853ece79b0a
+FileChecksum: MD5: 467a5d789e87d683d200e49f40844dbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/docs/Makefile.in
+SPDXID: SPDXRef-item853557
+FileChecksum: SHA1: ca2669608985f9d7ae980d08070b72dcd544d897
+FileChecksum: MD5: b92300fc1fba47f28cb08cbce56e93de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/docs/Makefile.am
+SPDXID: SPDXRef-item853558
+FileChecksum: SHA1: 618de9da7e64773be9cddedfb6310074148aebec
+FileChecksum: MD5: 5b6f207b8584e9ab5f34defe5bc9e0f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/docs/tester-overrides.txt
+SPDXID: SPDXRef-item853559
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/empty/docs/tester-docs.xml
+SPDXID: SPDXRef-item853560
+FileChecksum: SHA1: 39b96275566f08e2dd6013941528888e92eb68a5
+FileChecksum: MD5: 24ec19b942a58ff0d642f05b76f1f527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/Makefile.in
+SPDXID: SPDXRef-item853562
+FileChecksum: SHA1: 4e0e065e5e3f0fe140eb55119af71bf5175617c0
+FileChecksum: MD5: 54c3c2174773c67eb9f7a3fb067e835b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/src/Makefile.in
+SPDXID: SPDXRef-item853564
+FileChecksum: SHA1: 40dc0a5ec00e3f6bd1bb6dd318c707045715b19a
+FileChecksum: MD5: 4551820a4991ff36c120e4857c80df6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/src/tester.c
+SPDXID: SPDXRef-item853565
+FileChecksum: SHA1: 1fb836099d76c67ee01badc1a798a2564691aa26
+FileChecksum: MD5: 2a213fc6cc21506038360b36e69c1c66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/src/Makefile.am
+SPDXID: SPDXRef-item853566
+FileChecksum: SHA1: ca8b7b36621d994610982e769a9bb30672f9972e
+FileChecksum: MD5: 83021ac8b3dcd7a3862069eb58c053eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/src/tester.h
+SPDXID: SPDXRef-item853567
+FileChecksum: SHA1: 8eb6a5a4fb44154c079430d1127ed5678761d2d7
+FileChecksum: MD5: 52e23b4d8e02a851ad8be2c4e5d35488
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/Makefile.am
+SPDXID: SPDXRef-item853568
+FileChecksum: SHA1: 3849c7621a2027cdbc2981d3b1a0b6a8f5de356b
+FileChecksum: MD5: 6e82d3597117d9134bbf2c345f0775c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/docs/tester-sections.txt
+SPDXID: SPDXRef-item853570
+FileChecksum: SHA1: 92fdd205580f807b21c83998d5792006b49825c7
+FileChecksum: MD5: 3f79ba27da1b508719cf209384162a97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/docs/Makefile.in
+SPDXID: SPDXRef-item853571
+FileChecksum: SHA1: ef97431d58e0f99a61cf4339116fb8d0bb8e3331
+FileChecksum: MD5: b326d831a70e37e2baf0878d3df03125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/docs/Makefile.am
+SPDXID: SPDXRef-item853572
+FileChecksum: SHA1: c944f6e6a9081c8ddaf26e524245bb4faf2aaeb1
+FileChecksum: MD5: 625994ee578ffac5df9f7c4a53ce4bd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/docs/tester-overrides.txt
+SPDXID: SPDXRef-item853573
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/fail/docs/tester-docs.xml
+SPDXID: SPDXRef-item853574
+FileChecksum: SHA1: 6bf2930a15f7be6fa815aff6150130de962ac4c2
+FileChecksum: MD5: a245bede768a9e443f9efba16c71251b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tests/tools.sh
+SPDXID: SPDXRef-item853575
+FileChecksum: SHA1: 0eabf792c2fdc21e7106eabb30b20cbde03a5900
+FileChecksum: MD5: f78b39eab1914f4d6a1495d078b0d3a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/cmake/GtkDocScanGObjWrapper.cmake
+SPDXID: SPDXRef-item853577
+FileChecksum: SHA1: 483ed86b66ac359806c3e7305439cf7658eeb924
+FileChecksum: MD5: 41dab8e2e6a412f1a4f77b6318a07a97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/cmake/Makefile.in
+SPDXID: SPDXRef-item853578
+FileChecksum: SHA1: cb37f4436329a901323b89556ec0a6a3302ce45d
+FileChecksum: MD5: 23bef4e4adc24614d49fa52a74a69c18
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/cmake/Makefile.am
+SPDXID: SPDXRef-item853579
+FileChecksum: SHA1: 5052f6f768817f715e5d875e6dedb4856b08f395
+FileChecksum: MD5: 62f72508aa452465bc4c267bd84538f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/cmake/GtkDocConfig.cmake.in
+SPDXID: SPDXRef-item853580
+FileChecksum: SHA1: f42d3c80ad75984ee279635ebce60e7fe5577b63
+FileChecksum: MD5: 0aa50911703bcd49fe56bb08fb26f688
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/cmake/GtkDocConfigVersion.cmake.in
+SPDXID: SPDXRef-item853581
+FileChecksum: SHA1: 9b8cb81941ec4ab5e9fc14d19413c6c218a1ccb8
+FileChecksum: MD5: 656375949090e53351d1526f07af7258
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/doc/gnome.txt
+SPDXID: SPDXRef-item853583
+FileChecksum: SHA1: a37e540bd93c1b7172bd1f512469bc1d5986ffd9
+FileChecksum: MD5: f4752d7ef16dd9805e48ba040bece5d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/doc/sections-file.txt
+SPDXID: SPDXRef-item853584
+FileChecksum: SHA1: 797a4a4ca45839905e6e729d52dc87569336f728
+FileChecksum: MD5: 33d64c313db03260894bde4faf9264f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/doc/style-guide.txt
+SPDXID: SPDXRef-item853585
+FileChecksum: SHA1: b9b3b44d1026188ac472376339d64b38883e0b92
+FileChecksum: MD5: e0c5fa50097875cc880b6f73c92e6a36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/doc/setting-up.txt
+SPDXID: SPDXRef-item853586
+FileChecksum: SHA1: 5469a701de4eeb16e11927fd06780369aeac9f29
+FileChecksum: MD5: 01beff69de70fec7b52bee33b4441ff9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/doc/README
+SPDXID: SPDXRef-item853587
+FileChecksum: SHA1: 2dc15c0c9503eda4089ef7a380ac60e22f66ed9f
+FileChecksum: MD5: f533dd9e55e60d109e6980723b1af1fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/doc/authors.txt
+SPDXID: SPDXRef-item853588
+FileChecksum: SHA1: dc3ce238f3a4f6bf03582309de442a17b683a9d5
+FileChecksum: MD5: 376f39dbec054ca5feb3dad7b26e2f32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/devhelp2.xsl
+SPDXID: SPDXRef-item853589
+FileChecksum: SHA1: b9fa8625d50c9150be783f8552e6f35993d74e1e
+FileChecksum: MD5: 97bfe06d13a35971aee5bb216f6e80fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdocize.in
+SPDXID: SPDXRef-item853590
+FileChecksum: SHA1: 125403c432ff7e233572a4436f705e63135ba274
+FileChecksum: MD5: 4ee3e29202296f2d6f683d9b8ceedc71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-common.pl.in
+SPDXID: SPDXRef-item853591
+FileChecksum: SHA1: 5529850b97ce39b97335a82c7348c20eae0d5c7c
+FileChecksum: MD5: 8e11d9566265e0b0b69dd70a2c872f51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/README
+SPDXID: SPDXRef-item853592
+FileChecksum: SHA1: b3160c8ad51ff8470f81ae90e75465307fd7000b
+FileChecksum: MD5: 84e31feea8482b3b125079ecfcf370cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-doc.OTHER
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/COPYING-DOCS
+SPDXID: SPDXRef-item853593
+FileChecksum: SHA1: 5e7b36dfb18c7b8002bb9c41f87b65d280abd2ae
+FileChecksum: MD5: 18ba770020b624031bc7c8a7b055d776
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GFDL-1.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.pc.in
+SPDXID: SPDXRef-item853594
+FileChecksum: SHA1: e9a08250dc06837433e1d82569c1c12827c5f882
+FileChecksum: MD5: 4b7ba0fa771d8231745e60f68b0cf2a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/applied-patches
+SPDXID: SPDXRef-item853596
+FileChecksum: SHA1: 24de7e27387720f5ff1fa9ccbc3cc719b3f0ae55
+FileChecksum: MD5: 3904c9abe5e16590ca3c36373a11fb93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/conditionaltests.patch/.timestamp
+SPDXID: SPDXRef-item853598
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/conditionaltests.patch/configure.ac
+SPDXID: SPDXRef-item853599
+FileChecksum: SHA1: d2fca756ca344c5ffad0e46c2ca2101536f56a3b
+FileChecksum: MD5: 40179d6108a312aea00cf38703799443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/.quilt_series
+SPDXID: SPDXRef-item853600
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/.version
+SPDXID: SPDXRef-item853601
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/.quilt_patches
+SPDXID: SPDXRef-item853602
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-error-out-if-perl-is-not-found-or-its-version.patch/.timestamp
+SPDXID: SPDXRef-item853604
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-error-out-if-perl-is-not-found-or-its-version.patch/configure.ac
+SPDXID: SPDXRef-item853605
+FileChecksum: SHA1: a0ae9a796d0ce0572429e8c9410c4443a8290891
+FileChecksum: MD5: 21bea1648b930320009094977fd126f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-scangobj.in
+SPDXID: SPDXRef-item853607
+FileChecksum: SHA1: 249129d1812cee8462a77cacdc75e574ccc30023
+FileChecksum: MD5: 9dad23434070bccf62083be0ce6bdcff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-scan.in
+SPDXID: SPDXRef-item853608
+FileChecksum: SHA1: 20c0478a400010dc6510c6cfc8d226145b60e37b
+FileChecksum: MD5: 72950348a3b2d5bc5cb48dd2a2422a66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-mkdb.in
+SPDXID: SPDXRef-item853609
+FileChecksum: SHA1: 791d6eca2b0a5763b2e95350eecf16e5abcab33f
+FileChecksum: MD5: 5dd763f2b30398297cd8ba1cba54e68b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-fixxref.in
+SPDXID: SPDXRef-item853610
+FileChecksum: SHA1: 58554015a4648b729f27d803fbb745554f3dfb24
+FileChecksum: MD5: b3a27d547c79fe10356f8464ca98ff8c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-check.in
+SPDXID: SPDXRef-item853611
+FileChecksum: SHA1: 670d74eb008e59d4ca42950939ee885f9cde42d8
+FileChecksum: MD5: 6e48c016428959089d32cd07f6955483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-mktmpl.in
+SPDXID: SPDXRef-item853612
+FileChecksum: SHA1: ae31afd7d19dbdbbfc92628d0a60533b8a015a13
+FileChecksum: MD5: 6f22c9fc4d7d5455661c16ed6004b32d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/tests/tools.sh.in
+SPDXID: SPDXRef-item853614
+FileChecksum: SHA1: 82fcb4771f3333f2e44bbddfc3d77b0cca9d3782
+FileChecksum: MD5: 46298c7e3be39c740e68c6990cfc5921
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-common.pl.in
+SPDXID: SPDXRef-item853615
+FileChecksum: SHA1: 2774c8ca1c5098fc59f3ac26090b048646ebb1e8
+FileChecksum: MD5: b509497c0ce1da10ec2d29a12c80ea73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/.timestamp
+SPDXID: SPDXRef-item853616
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-rebase.in
+SPDXID: SPDXRef-item853617
+FileChecksum: SHA1: 829d77893180af5cebeba58e2170a0d1954e2034
+FileChecksum: MD5: 840738d3fe067bb2da49beff81354f5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch/gtkdoc-depscan.in
+SPDXID: SPDXRef-item853618
+FileChecksum: SHA1: aaab580ef67bb7b358876cb6fc504d6c31b3c91c
+FileChecksum: MD5: 023b213d67e70f3da5576c18c6653f35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-error-out-if-xsltproc-is-not-found.patch/.timestamp
+SPDXID: SPDXRef-item853620
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/.pc/0001-Do-not-error-out-if-xsltproc-is-not-found.patch/configure.ac
+SPDXID: SPDXRef-item853621
+FileChecksum: SHA1: b0dca518b17db62a6bad1dd07ea031f9389d7f99
+FileChecksum: MD5: e2bf78e220b8a5e33a92840ebfccb9ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/configure.ac
+SPDXID: SPDXRef-item853622
+FileChecksum: SHA1: d5127c2fb94bdd9d5c92f947fd5cdd3228c1fddb
+FileChecksum: MD5: 062c88ca2e505aa8d797330e9c4f8b48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tools/gtk-doc.el
+SPDXID: SPDXRef-item853624
+FileChecksum: SHA1: bb1428759b5442826758408f2eaa4790de6fbdac
+FileChecksum: MD5: 0f8f6296d192c2ae7b1def8b9548432d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/tools/docpercentages.pl
+SPDXID: SPDXRef-item853625
+FileChecksum: SHA1: cf08116a7d67ada02dfad4edf8b34ba300984e42
+FileChecksum: MD5: cb4541fc944cde3aa97d72e1613c45e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.flat.make
+SPDXID: SPDXRef-item853626
+FileChecksum: SHA1: cef8faf78b761bd12b773d04f0010dd47097e0d3
+FileChecksum: MD5: 55bb3955a3f50cbe066f1de891dda602
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/build-aux/compile
+SPDXID: SPDXRef-item853628
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/build-aux/install-sh
+SPDXID: SPDXRef-item853629
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/build-aux/ltmain.sh
+SPDXID: SPDXRef-item853630
+FileChecksum: SHA1: 0d6d5f492aad83f47fc575e9d26f2e4d0f5f93fa
+FileChecksum: MD5: c95ea69f1e4f13b7ccf3768e28a4bcb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/build-aux/config.sub
+SPDXID: SPDXRef-item853631
+FileChecksum: SHA1: 1b3b27c94812820968ac46dbffbdcca3a5f46e62
+FileChecksum: MD5: 8a6c9da335b8fdce655cc2f944ff224b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/build-aux/missing
+SPDXID: SPDXRef-item853632
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/build-aux/test-driver
+SPDXID: SPDXRef-item853633
+FileChecksum: SHA1: 600352bb662a6f2b00834f77b7bf465daf46a9bf
+FileChecksum: MD5: 00f8b556839965233eb3912d24620a2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/build-aux/config.guess
+SPDXID: SPDXRef-item853634
+FileChecksum: SHA1: b35a5c3fd2b1a5a55a3320c7cd12f17c2c8224b7
+FileChecksum: MD5: eea34cf893bb060ee20189e256a8065a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/build-aux/depcomp
+SPDXID: SPDXRef-item853635
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.doap
+SPDXID: SPDXRef-item853636
+FileChecksum: SHA1: 89a1164cb5251cbe17e92d35d74e908da0603b73
+FileChecksum: MD5: 70c8dc509e1089c70a36beb85b3ae1b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/INSTALL
+SPDXID: SPDXRef-item853637
+FileChecksum: SHA1: d64e64d4c73679323f8d4cde2643331ba6c20af9
+FileChecksum: MD5: d0697e131465c2bdd0af3b07a84d2878
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Freeware
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/patches/series
+SPDXID: SPDXRef-item853640
+FileChecksum: SHA1: 62c21f1db1fd697b30adbd83986070c603962a63
+FileChecksum: MD5: e947f49446820754f77c4e0e0e6819ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-rebase.in
+SPDXID: SPDXRef-item853644
+FileChecksum: SHA1: 8b9a31705ec39a5acc8b38e566e5562be1af6791
+FileChecksum: MD5: cb9f97ec78233dba72e0d3b608a89c49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-depscan.in
+SPDXID: SPDXRef-item853645
+FileChecksum: SHA1: 73eaf2e331339565c091b7900f15e2245bf46d0c
+FileChecksum: MD5: 43c48fc67ed81984bce2cc0fc60dc781
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtkdoc-mkman.in
+SPDXID: SPDXRef-item853646
+FileChecksum: SHA1: c9a93e6b01e467afbee0f689fcbe10c3461dfa9d
+FileChecksum: MD5: 4ab1c1ad77da5bfa46d4e3bb0f722ccf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/gtk-doc.dsl
+SPDXID: SPDXRef-item853647
+FileChecksum: SHA1: a531e7961f42956e41f9734bdd10097f284c913b
+FileChecksum: MD5: b2b934cb74d4e20e8412383e711977d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/gtk-doc-1.25/ChangeLog
+SPDXID: SPDXRef-item853648
+FileChecksum: SHA1: 8df0ffbe2f0a72b9cdd5e2f1de0f0dcc522f8692
+FileChecksum: MD5: 1d1ec14980a2449a85eae3f58f3a914c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Perl-possibility
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-Do-not-hardocode-paths-to-perl-python-in-scripts.patch
+SPDXID: SPDXRef-item853649
+FileChecksum: SHA1: c3f8a28cbbf779106024d5113b6d158f97d4374a
+FileChecksum: MD5: a65827473abd17df749f828e5fccee01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-Do-not-error-out-if-xsltproc-is-not-found.patch
+SPDXID: SPDXRef-item853650
+FileChecksum: SHA1: 24def157d156069db30e5af9e017a0df41847d78
+FileChecksum: MD5: dc0590a67797693262f3486d57967a2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Freeware
+LicenseName: freeware
+ExtractedText: <text> Software classified as freeware is licensed at no cost and is either fully functional for an unlimited time; or has only basic functions enabled with a fully functional version available commercially or as shareware.[8] In contrast to free software, the author usually restricts one or more rights of the user, including the rights to use, copy, distribute, modify and make derivative works of the software or extract the source code.[1][2][9][10] The software license may impose various additional restrictions on the type of use, e.g. only for personal use, private use, individual use, non-profit use, non-commercial use, academic use, educational use, use in charity or humanitarian organizations, non-military use, use by public authorities or various other combinations of these type of restrictions.[11] For instance, the license may be "free for private, non-commercial use". The software license may also impose various other restrictions, such as restricted use over a network, restricted use on a server, restricted use in a combination with some types of other software or with some hardware devices, prohibited distribution over the Internet other than linking to author's website, restricted distribution without author's consent, restricted number of copies, etc. </text>
+
+LicenseID: LicenseRef-See-doc.OTHER
+LicenseName: See-doc.OTHER
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-Perl-possibility
+LicenseName: Perl-possibility
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GFDL-1.1+
+LicenseName: GFDL-1.1+
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Docbook
+LicenseName: GNU Free Documentation License 1.1
+ExtractedText: <text> GNU Free Documentation License
+
+Version 1.1, March 2000
+
+Copyright (C) 2000 Free Software Foundation, Inc. 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+PREAMBLE
+
+The purpose of this License is to make a manual, textbook, or other written document "free" in the sense of freedom: to assure everyone the effective freedom to copy and redistribute it, with or without modifying it, either commercially or noncommercially. Secondarily, this License preserves for the author and publisher a way to get credit for their work, while not being considered responsible for modifications made by others.
+
+This License is a kind of "copyleft", which means that derivative works of the document must themselves be free in the same sense. It complements the GNU General Public License, which is a copyleft license designed for free software.
+
+We have designed this License in order to use it for manuals for free software, because free software needs free documentation: a free program should come with manuals providing the same freedoms that the software does. But this License is not limited to software manuals; it can be used for any textual work, regardless of subject matter or whether it is published as a printed book. We recommend this License principally for works whose purpose is instruction or reference.
+
+APPLICABILITY AND DEFINITIONS
+
+This License applies to any manual or other work that contains a notice placed by the copyright holder saying it can be distributed under the terms of this License. The "Document", below, refers to any such manual or work. Any member of the public is a licensee, and is addressed as "you".
+
+A "Modified Version" of the Document means any work containing the Document or a portion of it, either copied verbatim, or with modifications and/or translated into another language.
+
+A "Secondary Section" is a named appendix or a front-matter section of the Document that deals exclusively with the relationship of the publishers or authors of the Document to the Document's overall subject (or to related matters) and contains nothing that could fall directly within that overall subject. (For example, if the Document is in part a textbook of mathematics, a Secondary Section may not explain any mathematics.) The relationship could be a matter of historical connection with the subject or with related matters, or of legal, commercial, philosophical, ethical or political position regarding them.
+
+The "Invariant Sections" are certain Secondary Sections whose titles are designated, as being those of Invariant Sections, in the notice that says that the Document is released under this License.
+
+The "Cover Texts" are certain short passages of text that are listed, as Front-Cover Texts or Back-Cover Texts, in the notice that says that the Document is released under this License.
+
+A "Transparent" copy of the Document means a machine-readable copy, represented in a format whose specification is available to the general public, whose contents can be viewed and edited directly and straightforwardly with generic text editors or (for images composed of pixels) generic paint programs or (for drawings) some widely available drawing editor, and that is suitable for input to text formatters or for automatic translation to a variety of formats suitable for input to text formatters. A copy made in an otherwise Transparent file format whose markup has been designed to thwart or discourage subsequent modification by readers is not Transparent. A copy that is not "Transparent" is called "Opaque".
+
+Examples of suitable formats for Transparent copies include plain ASCII without markup, Texinfo input format, LaTeX input format, SGML or XML using a publicly available DTD, and standard-conforming simple HTML designed for human modification. Opaque formats include PostScript, PDF, proprietary formats that can be read and edited only by proprietary word processors, SGML or XML for which the DTD and/or processing tools are not generally available, and the machine-generated HTML produced by some word processors for output purposes only.
+
+The "Title Page" means, for a printed book, the title page itself, plus such following pages as are needed to hold, legibly, the material this License requires to appear in the title page. For works in formats which do not have any title page as such, "Title Page" means the text near the most prominent appearance of the work's title, preceding the beginning of the body of the text.
+
+VERBATIM COPYING
+
+You may copy and distribute the Document in any medium, either commercially or noncommercially, provided that this License, the copyright notices, and the license notice saying this License applies to the Document are reproduced in all copies, and that you add no other conditions whatsoever to those of this License. You may not use technical measures to obstruct or control the reading or further copying of the copies you make or distribute. However, you may accept compensation in exchange for copies. If you distribute a large enough number of copies you must also follow the conditions in section 3.
+
+You may also lend copies, under the same conditions stated above, and you may publicly display copies.
+
+COPYING IN QUANTITY
+
+If you publish printed copies of the Document numbering more than 100, and the Document's license notice requires Cover Texts, you must enclose the copies in covers that carry, clearly and legibly, all these Cover Texts: Front-Cover Texts on the front cover, and Back-Cover Texts on the back cover. Both covers must also clearly and legibly identify you as the publisher of these copies. The front cover must present the full title with all words of the title equally prominent and visible. You may add other material on the covers in addition. Copying with changes limited to the covers, as long as they preserve the title of the Document and satisfy these conditions, can be treated as verbatim copying in other respects.
+
+If the required texts for either cover are too voluminous to fit legibly, you should put the first ones listed (as many as fit reasonably) on the actual cover, and continue the rest onto adjacent pages.
+
+If you publish or distribute Opaque copies of the Document numbering more than 100, you must either include a machine-readable Transparent copy along with each Opaque copy, or state in or with each Opaque copy a publicly-accessible computer-network location containing a complete Transparent copy of the Document, free of added material, which the general network-using public has access to download anonymously at no charge using public-standard network protocols. If you use the latter option, you must take reasonably prudent steps, when you begin distribution of Opaque copies in quantity, to ensure that this Transparent copy will remain thus accessible at the stated location until at least one year after the last time you distribute an Opaque copy (directly or through your agents or retailers) of that edition to the public.
+
+It is requested, but not required, that you contact the authors of the Document well before redistributing any large number of copies, to give them a chance to provide you with an updated version of the Document.
+
+MODIFICATIONS
+
+You may copy and distribute a Modified Version of the Document under the conditions of sections 2 and 3 above, provided that you release the Modified Version under precisely this License, with the Modified Version filling the role of the Document, thus licensing distribution and modification of the Modified Version to whoever possesses a copy of it. In addition, you must do these things in the Modified Version:
+
+Use in the Title Page (and on the covers, if any) a title distinct from that of the Document, and from those of previous versions (which should, if there were any, be listed in the History section of the Document). You may use the same title as a previous version if the original publisher of that version gives permission.
+
+List on the Title Page, as authors, one or more persons or entities responsible for authorship of the modifications in the Modified Version, together with at least five of the principal authors of the Document (all of its principal authors, if it has less than five).
+
+State on the Title page the name of the publisher of the Modified Version, as the publisher.
+
+Preserve all the copyright notices of the Document.
+
+Add an appropriate copyright notice for your modifications adjacent to the other copyright notices.
+
+Include, immediately after the copyright notices, a license notice giving the public permission to use the Modified Version under the terms of this License, in the form shown in the Addendum below.
+
+Preserve in that license notice the full lists of Invariant Sections and required Cover Texts given in the Document's license notice.
+
+Include an unaltered copy of this License.
+
+Preserve the section entitled "History", and its title, and add to it an item stating at least the title, year, new authors, and publisher of the Modified Version as given on the Title Page. If there is no section entitled "History" in the Document, create one stating the title, year, authors, and publisher of the Document as given on its Title Page, then add an item describing the Modified Version as stated in the previous sentence.
+
+Preserve the network location, if any, given in the Document for public access to a Transparent copy of the Document, and likewise the network locations given in the Document for previous versions it was based on. These may be placed in the "History" section. You may omit a network location for a work that was published at least four years before the Document itself, or if the original publisher of the version it refers to gives permission.
+
+In any section entitled "Acknowledgements" or "Dedications", preserve the section's title, and preserve in the section all the substance and tone of each of the contributor acknowledgements and/or dedications given therein.
+
+Preserve all the Invariant Sections of the Document, unaltered in their text and in their titles. Section numbers or the equivalent are not considered part of the section titles.
+
+Delete any section entitled "Endorsements". Such a section may not be included in the Modified Version.
+
+Do not retitle any existing section as "Endorsements" or to conflict in title with any Invariant Section.
+
+If the Modified Version includes new front-matter sections or appendices that qualify as Secondary Sections and contain no material copied from the Document, you may at your option designate some or all of these sections as invariant. To do this, add their titles to the list of Invariant Sections in the Modified Version's license notice. These titles must be distinct from any other section titles.
+
+You may add a section entitled "Endorsements", provided it contains nothing but endorsements of your Modified Version by various parties--for example, statements of peer review or that the text has been approved by an organization as the authoritative definition of a standard.
+
+You may add a passage of up to five words as a Front-Cover Text, and a passage of up to 25 words as a Back-Cover Text, to the end of the list of Cover Texts in the Modified Version. Only one passage of Front-Cover Text and one of Back-Cover Text may be added by (or through arrangements made by) any one entity. If the Document already includes a cover text for the same cover, previously added by you or by arrangement made by the same entity you are acting on behalf of, you may not add another; but you may replace the old one, on explicit permission from the previous publisher that added the old one.
+
+The author(s) and publisher(s) of the Document do not by this License give permission to use their names for publicity for or to assert or imply endorsement of any Modified Version.
+
+COMBINING DOCUMENTS
+
+You may combine the Document with other documents released under this License, under the terms defined in section 4 above for modified versions, provided that you include in the combination all of the Invariant Sections of all of the original documents, unmodified, and list them all as Invariant Sections of your combined work in its license notice.
+
+The combined work need only contain one copy of this License, and multiple identical Invariant Sections may be replaced with a single copy. If there are multiple Invariant Sections with the same name but different contents, make the title of each such section unique by adding at the end of it, in parentheses, the name of the original author or publisher of that section if known, or else a unique number. Make the same adjustment to the section titles in the list of Invariant Sections in the license notice of the combined work.
+
+In the combination, you must combine any sections entitled "History" in the various original documents, forming one section entitled "History"; likewise combine any sections entitled "Acknowledgements", and any sections entitled "Dedications". You must delete all sections entitled "Endorsements."
+
+COLLECTIONS OF DOCUMENTS
+
+You may make a collection consisting of the Document and other documents released under this License, and replace the individual copies of this License in the various documents with a single copy that is included in the collection, provided that you follow the rules of this License for verbatim copying of each of the documents in all other respects.
+
+You may extract a single document from such a collection, and distribute it individually under this License, provided you insert a copy of this License into the extracted document, and follow this License in all other respects regarding verbatim copying of that document.
+
+AGGREGATION WITH INDEPENDENT WORKS
+
+A compilation of the Document or its derivatives with other separate and independent documents or works, in or on a volume of a storage or distribution medium, does not as a whole count as a Modified Version of the Document, provided no compilation copyright is claimed for the compilation. Such a compilation is called an "aggregate", and this License does not apply to the other self-contained works thus compiled with the Document, on account of their being thus compiled, if they are not themselves derivative works of the Document.
+
+If the Cover Text requirement of section 3 is applicable to these copies of the Document, then if the Document is less than one quarter of the entire aggregate, the Document's Cover Texts may be placed on covers that surround only the Document within the aggregate. Otherwise they must appear on covers around the whole aggregate.
+
+TRANSLATION
+
+Translation is considered a kind of modification, so you may distribute translations of the Document under the terms of section 4. Replacing Invariant Sections with translations requires special permission from their copyright holders, but you may include translations of some or all Invariant Sections in addition to the original versions of these Invariant Sections. You may include a translation of this License provided that you also include the original English version of this License. In case of a disagreement between the translation and the original English version of this License, the original English version will prevail.
+
+TERMINATION
+
+You may not copy, modify, sublicense, or distribute the Document except as expressly provided for under this License. Any other attempt to copy, modify, sublicense or distribute the Document is void, and will automatically terminate your rights under this License. However, parties who have received copies, or rights, from you under this License will not have their licenses terminated so long as such parties remain in full compliance.
+
+FUTURE REVISIONS OF THIS LICENSE
+
+The Free Software Foundation may publish new, revised versions of the GNU Free Documentation License from time to time. Such new versions will be similar in spirit to the present version, but may differ in detail to address new problems or concerns. See http://www.gnu.org/copyleft/.
+
+Each version of the License is given a distinguishing version number. If the Document specifies that a particular numbered version of this License "or any later version" applies to it, you have the option of following the terms and conditions either of that specified version or of any later version that has been published (not as a draft) by the Free Software Foundation. If the Document does not specify a version number of this License, you may choose any version ever published (not as a draft) by the Free Software Foundation.
+
+How to use this License for your documents
+
+To use this License in a document you have written, include a copy of the License in the document and put the following copyright and license notices just after the title page:
+
+Copyright (c) YEAR YOUR NAME. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.1 or any later version published by the Free Software Foundation; with the Invariant Sections being LIST THEIR TITLES, with the Front-Cover Texts being LIST, and with the Back-Cover Texts being LIST. A copy of the license is included in the section entitled "GNU Free Documentation License".
+
+If you have no Invariant Sections, write "with no Invariant Sections" instead of saying which ones are invariant. If you have no Front-Cover Texts, write "no Front-Cover Texts" instead of "Front-Cover Texts being LIST"; likewise for Back-Cover Texts.
+
+If your document contains nontrivial examples of program code, we recommend releasing these examples in parallel under your choice of free software license, such as the GNU General Public License, to permit their use in free software. </text>
+
+LicenseID: LicenseRef-GFDL
+LicenseName: GFDL
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

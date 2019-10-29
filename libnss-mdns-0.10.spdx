@@ -1,0 +1,608 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libnss-mdns-0.10-r7-patched.tar.gz_1571457620.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:00:20Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libnss-mdns
+PackageVersion: 0.10
+PackageFileName: libnss-mdns-0.10-r7-patched.tar.gz
+SPDXID: SPDXRef-upload317
+PackageDownloadLocation: http://0pointer.de/lennart/projects/nss-mdns/nss-mdns-0.10.tar.gz
+PackageHomePage: http://0pointer.de/lennart/projects/nss-mdns/
+PackageSummary: <text>Name Service Switch module for Multicast DNS (zeroconf) name resolution</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libnss-mdns version 0.10</text>
+PackageChecksum: SHA1: 20ef11b3bf9eaa630972a8f7cdd62f5a8b5ff086
+PackageChecksum: MD5: 981d23109e9d34bd0ec116c1b486df3a
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload317
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-check-for-nss.h.patch
+SPDXID: SPDXRef-item840555
+FileChecksum: SHA1: cf104a50f3a7c6a69bf5964d6048b1f2085e587b
+FileChecksum: MD5: dc01f08c36aa960bfbaf88e2775a45bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/compile
+SPDXID: SPDXRef-item840558
+FileChecksum: SHA1: 145aa633e53a7394638253baab84013bbd01013a
+FileChecksum: MD5: a7ecc032b527a0d578545f19d3418073
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/install-sh
+SPDXID: SPDXRef-item840559
+FileChecksum: SHA1: ba17f20280f7db97c929854f067cc2fa4ed420b3
+FileChecksum: MD5: 92067666ddce97609bd0ec67d36460cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/aclocal.m4
+SPDXID: SPDXRef-item840560
+FileChecksum: SHA1: 74fcb325a14d564664c1dc3091ce917c38922540
+FileChecksum: MD5: d42d6b4ea2120a6c5375e91127e20e77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/Makefile.in
+SPDXID: SPDXRef-item840561
+FileChecksum: SHA1: aba14b33ce73a509c5dd947c03ef159fae3a3e2d
+FileChecksum: MD5: 19a3876d956732b0c20f4f1b129b9b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/configure
+SPDXID: SPDXRef-item840562
+FileChecksum: SHA1: 726dac2c9c015b88015af6c1a511685a338baedd
+FileChecksum: MD5: e5d80bd7937bc9aa93989bed86c3be3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/ltmain.sh
+SPDXID: SPDXRef-item840563
+FileChecksum: SHA1: 6ad6640a3d7f6818c52b998447488d8a63886187
+FileChecksum: MD5: 5ae4a0fc5ed24b004e83cb665f72c986
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/dns.c
+SPDXID: SPDXRef-item840565
+FileChecksum: SHA1: 62e013aae694a1947aa00accaa40139550ab57fd
+FileChecksum: MD5: 3acf03ce2e3084dd364b193db9d0703b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/avahi-test.c
+SPDXID: SPDXRef-item840566
+FileChecksum: SHA1: b3998fbd41fcee381bfe5b6e31b5ecc562b4b16b
+FileChecksum: MD5: d776356db44deeb91eb2319083210d1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/bsdnss.c
+SPDXID: SPDXRef-item840567
+FileChecksum: SHA1: 8ce92f222546bdb0e797ecc3a239499025999c8d
+FileChecksum: MD5: 6f766b5f08d453c74379a8699a46bfcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/query.h
+SPDXID: SPDXRef-item840568
+FileChecksum: SHA1: 4cccd6e77b611937683762123447af2e2f254876
+FileChecksum: MD5: 1a83382ddf69e78e113aee262b19b439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/query.c
+SPDXID: SPDXRef-item840569
+FileChecksum: SHA1: 40413c8b5d5e695f4aa209974995acbf0b88d13f
+FileChecksum: MD5: efa8ec33337f6cfdadf6c18128750714
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/Makefile.in
+SPDXID: SPDXRef-item840570
+FileChecksum: SHA1: 0a80a95aaeafa6db63ba87b3b146a770aaa2fe9b
+FileChecksum: MD5: 4de78187c0af944aebd758c523d63e6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/avahi.h
+SPDXID: SPDXRef-item840571
+FileChecksum: SHA1: 6b650e4829da8cba442191ebc0d3d46665ab8574
+FileChecksum: MD5: c8fea8e4bcc6805560c6374e929ee9f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/dns.h
+SPDXID: SPDXRef-item840572
+FileChecksum: SHA1: 9706c6be2fc6cd8a6782c0700ae01ea54a425417
+FileChecksum: MD5: 92bc06db87b92eb9e468842a815a10d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/Makefile.am
+SPDXID: SPDXRef-item840573
+FileChecksum: SHA1: e1beba160ab12858af24febf784ca0f72739fdd6
+FileChecksum: MD5: 16a81b0a9837c24eeefaf3c8034af928
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/nss-test.c
+SPDXID: SPDXRef-item840574
+FileChecksum: SHA1: 0d43b8faea587f7b58793fe79eb40620129f2981
+FileChecksum: MD5: da62b779bdd1ccb8074a4d9fef60462b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/map-file
+SPDXID: SPDXRef-item840575
+FileChecksum: SHA1: b3986241416c14fd2d0d7b0d451e5f3a4a0bcdd0
+FileChecksum: MD5: 259e28fe447617bcfa6b49c0882c5552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/nss.c
+SPDXID: SPDXRef-item840576
+FileChecksum: SHA1: 8dfb2585b3284440ebd3a536e47a0b286ddaecfc
+FileChecksum: MD5: e31212bb2d520a90d632574d8bffaa7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/util.c
+SPDXID: SPDXRef-item840577
+FileChecksum: SHA1: bc1a0aab14e1c0810a07792c6b1831182bfc8890
+FileChecksum: MD5: 03c22b5c13315f59b1f60d34f4ffcc03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/util.h
+SPDXID: SPDXRef-item840578
+FileChecksum: SHA1: 5b9dcded12761326bbc65c3ec8b3ac30d8528f31
+FileChecksum: MD5: c1ab7ce8df8dcce814432b18ad6297b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/mdns-test.c
+SPDXID: SPDXRef-item840579
+FileChecksum: SHA1: 630eaea44ad8aa468e4269d2ebc3dbeb0ac43109
+FileChecksum: MD5: ac1e32e7098094065bc8ed5e55c8dc67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/src/avahi.c
+SPDXID: SPDXRef-item840580
+FileChecksum: SHA1: a89fb2c374f9de4e1a64ce19eea41c293404fa17
+FileChecksum: MD5: eeace85288afec345d9c264517b8f94b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/config.h.in
+SPDXID: SPDXRef-item840581
+FileChecksum: SHA1: 82c72501a38a41849545e59e81c6565450073d5b
+FileChecksum: MD5: e52615393f3b4823289a39ab06e73da6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/Makefile.am
+SPDXID: SPDXRef-item840582
+FileChecksum: SHA1: 06216c6069ff29c69afa543ad1f7a03b9a1b36a9
+FileChecksum: MD5: b25e91bd76fe7694870f025aeb439c83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/config.sub
+SPDXID: SPDXRef-item840583
+FileChecksum: SHA1: 112d52a34017b224e733f8cd699c7c377a51327d
+FileChecksum: MD5: 82f626c674bfcec0181cc218136336f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/bootstrap.sh
+SPDXID: SPDXRef-item840584
+FileChecksum: SHA1: 81a1b4b4d16243033947a92ac2354d6b3b297cab
+FileChecksum: MD5: 37a3da638d8a7b1d8cbbe222f0e71a00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/doc/Makefile.in
+SPDXID: SPDXRef-item840586
+FileChecksum: SHA1: 0453b5a211bb9b2bc76bf14b4ed2fab75a2a42e4
+FileChecksum: MD5: cd377b7d972c2b6996fde6152c1ee58c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/doc/Makefile.am
+SPDXID: SPDXRef-item840587
+FileChecksum: SHA1: 407b88a25da6ee53347560d4e3ae99858888481b
+FileChecksum: MD5: 779cce363c406430e6933b24e4cdefb8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/doc/style.css
+SPDXID: SPDXRef-item840588
+FileChecksum: SHA1: 649a4e88d3d5feb11cdedaccde864f93821dbdb6
+FileChecksum: MD5: 8a90c4577b8e37202aea4bc99dfe41a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/doc/README.html.in
+SPDXID: SPDXRef-item840589
+FileChecksum: SHA1: 3ca05167e82a63a6181fe6937292ecb89d7980be
+FileChecksum: MD5: f92bda8a7b8e5c9096561dff56e80b2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/doc/README
+SPDXID: SPDXRef-item840590
+FileChecksum: SHA1: 7ae5dfe871d5d1f0eff153cae7420066533514bf
+FileChecksum: MD5: c0fadf839f044f3944939da528520013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/doc/README.html
+SPDXID: SPDXRef-item840591
+FileChecksum: SHA1: 93a76b3063220de828557e07fea3df62a8ba5d0e
+FileChecksum: MD5: 899020b902cd8351f77ccdb1e9df604d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/missing
+SPDXID: SPDXRef-item840592
+FileChecksum: SHA1: 9a8ff4e997e3d6b12143e52f743ff64d2c9b5efe
+FileChecksum: MD5: fd5dd60aa8cefab9462677280ea74a61
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/README
+SPDXID: SPDXRef-item840593
+FileChecksum: SHA1: 7ae5dfe871d5d1f0eff153cae7420066533514bf
+FileChecksum: MD5: c0fadf839f044f3944939da528520013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/.pc/applied-patches
+SPDXID: SPDXRef-item840595
+FileChecksum: SHA1: 524bc12ed6bef0a76b96292d2e603b57e3e82fc2
+FileChecksum: MD5: e4bed96a046d5dd06ba53b12398893b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/.pc/.quilt_series
+SPDXID: SPDXRef-item840596
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/.pc/.version
+SPDXID: SPDXRef-item840597
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/.pc/0001-check-for-nss.h.patch/src/nss.c
+SPDXID: SPDXRef-item840600
+FileChecksum: SHA1: 4c0f759a661549e5010983980020f1843cc03a91
+FileChecksum: MD5: 2a0359d29daf8edcf64c4e4e37aa6b51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/.pc/0001-check-for-nss.h.patch/.timestamp
+SPDXID: SPDXRef-item840601
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/.pc/0001-check-for-nss.h.patch/configure.ac
+SPDXID: SPDXRef-item840602
+FileChecksum: SHA1: 0ab68aaad19cb3d3747e95b26e1518a64ebca6bc
+FileChecksum: MD5: 014ac08fcf994c5d82f70c75f09a5c16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/.pc/.quilt_patches
+SPDXID: SPDXRef-item840603
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/configure.ac
+SPDXID: SPDXRef-item840604
+FileChecksum: SHA1: 1803a6713fd7bad146033fc3b946aeb6aa504b29
+FileChecksum: MD5: e9e7a38adc5233bd3590af5d8c88a9fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/LICENSE
+SPDXID: SPDXRef-item840605
+FileChecksum: SHA1: 9a1929f4700d2407c70b507b3b2aaf6226a9543c
+FileChecksum: MD5: 2d5025d4aa3495befef8f17206a5b0a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/patches/series
+SPDXID: SPDXRef-item840608
+FileChecksum: SHA1: 1ffae19f824ba2811efb16967d99de57c0e30c28
+FileChecksum: MD5: b45a73fdcaf9f4cf8a15a670287d4598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/config.guess
+SPDXID: SPDXRef-item840609
+FileChecksum: SHA1: 3b6dfd958655b214885abe967c01777538026953
+FileChecksum: MD5: 3e47cb5e8b78144a240bd27a1468d23b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/nss-mdns-0.10/depcomp
+SPDXID: SPDXRef-item840610
+FileChecksum: SHA1: 5d7425a9c08a66c3177f1e31286fa40986ffc996
+FileChecksum: MD5: e181e2c8720c60522c4c4c981108e367
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

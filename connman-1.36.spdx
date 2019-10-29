@@ -1,0 +1,4061 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_connman-1.36-r0-patched.tar.gz_1571457699.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:01:40Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: connman
+PackageVersion: 1.36
+PackageFileName: connman-1.36-r0-patched.tar.gz
+SPDXID: SPDXRef-upload323
+PackageDownloadLocation: http://cdn.kernel.org/pub/linux/network/connman/connman-1.36.tar.xz
+PackageHomePage: http://connman.net/
+PackageSummary: <text>A daemon for managing internet connections within embedded devices</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>connman version 1.36</text>
+PackageChecksum: SHA1: 36ec212b1cc771c6db56e29dc5fd3585605ad21d
+PackageChecksum: MD5: 398b627976be0fa947790ee4fe96eacc
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload323
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-disable-when-booting-over-nfs.patch
+SPDXID: SPDXRef-item843405
+FileChecksum: SHA1: 0e6700a104551c90c1d5928b11d49567833990d6
+FileChecksum: MD5: dad2c158b24e000341ef595f884e519d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman
+SPDXID: SPDXRef-item843406
+FileChecksum: SHA1: b861f2eb4600c1e1595c25a9cef42ee2d31483d5
+FileChecksum: MD5: cba424e3b19e438226738fb11e32ebcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/main.conf
+SPDXID: SPDXRef-item843408
+FileChecksum: SHA1: 727aebdad985c1c61031eb127dabc6301249be32
+FileChecksum: MD5: 233fc39e0995cc4411776b191ece3cef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/connman.pc.in
+SPDXID: SPDXRef-item843410
+FileChecksum: SHA1: 37d54b307c6cb9693f47b7ccdfc521cb883c11a1
+FileChecksum: MD5: ab75bb2a29ba01fa3d05d1043c8a3107
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/unit/test-ippool.c
+SPDXID: SPDXRef-item843412
+FileChecksum: SHA1: 9b420238ab6de01f4a9e413d83174d082deca250
+FileChecksum: MD5: b57b499294858a67ff229fc27b556016
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/NEWS
+SPDXID: SPDXRef-item843413
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/compile
+SPDXID: SPDXRef-item843414
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/vpnconnections.h
+SPDXID: SPDXRef-item843416
+FileChecksum: SHA1: 44c0876c903d7929c8b6e97c34200a804c7797d7
+FileChecksum: MD5: b424063431cd5de966ecc057eeba42c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/peers.c
+SPDXID: SPDXRef-item843417
+FileChecksum: SHA1: b9e8f01c625acd379d58e50c634961317d27a7af
+FileChecksum: MD5: f489548a060944d54afec32739e368f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/dbus_helpers.h
+SPDXID: SPDXRef-item843418
+FileChecksum: SHA1: 0c41181343296ea6e6fa933429ada024fc950abc
+FileChecksum: MD5: 3b8a2359c5fe21c53d4e646bf4ee9243
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/input.h
+SPDXID: SPDXRef-item843419
+FileChecksum: SHA1: c6b62b3cf1f63c9f742f03e16403b529688fc476
+FileChecksum: MD5: c9cd2ed105e6c2d19e88ebb7a9a85f4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/input.c
+SPDXID: SPDXRef-item843420
+FileChecksum: SHA1: 17bc5dfc05199ad542e2cab05c588dbfb33f1747
+FileChecksum: MD5: 32a2c03265030b33aa81b95fa59d23a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/services.c
+SPDXID: SPDXRef-item843421
+FileChecksum: SHA1: 75c146e0905053e28c509f06a4e61021caf87afe
+FileChecksum: MD5: cd40c936126a73f2af23778edc8fcf49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/agent.h
+SPDXID: SPDXRef-item843422
+FileChecksum: SHA1: 1b51a85fd749df1eaf55c4ca357589570c22cd45
+FileChecksum: MD5: 77beb6e424eec82c59ee22447ad517a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/vpnconnections.c
+SPDXID: SPDXRef-item843423
+FileChecksum: SHA1: df7135cedf9d19d4d89acb49c6bcc2f053cde467
+FileChecksum: MD5: b39d69ab628bde732fed517ae0008a08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/agent.c
+SPDXID: SPDXRef-item843424
+FileChecksum: SHA1: 5a43af1be6171dc070d4d3b2365002b3b55b8ed6
+FileChecksum: MD5: 57e5bc3726baf2f35e4c9bbe3dbc0af8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/main.c
+SPDXID: SPDXRef-item843425
+FileChecksum: SHA1: 2d869544ffd0a18fad0a0a1c6faf57378096b0ac
+FileChecksum: MD5: d8b50fbd1d92d01189b47fae6f4291e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/services.h
+SPDXID: SPDXRef-item843426
+FileChecksum: SHA1: 4c0abd5ab4b3d017e6d46e6df85159f1696292bb
+FileChecksum: MD5: cd57b0ad608e9c037487f46b6e5d9b35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/commands.h
+SPDXID: SPDXRef-item843427
+FileChecksum: SHA1: affa0e0e465da53484755b183867a33b03999385
+FileChecksum: MD5: 0c3334f64a441a2e5d031e47ac780730
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/dbus_helpers.c
+SPDXID: SPDXRef-item843428
+FileChecksum: SHA1: a3886b0f7ab892baf4ec2037f4957b438118241e
+FileChecksum: MD5: 7e302a71af71abc7c7857e96469a1497
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/commands.c
+SPDXID: SPDXRef-item843429
+FileChecksum: SHA1: 4d7fa7c3b31ad26c67ed6d22b6fdb0dba4f918cd
+FileChecksum: MD5: 2e9dcf7d973ffd469dee0721d2cef793
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/client/peers.h
+SPDXID: SPDXRef-item843430
+FileChecksum: SHA1: 9bbf9392d952f4df4a48f8631dfa1ef5a397bbf0
+FileChecksum: MD5: a6f3eaddd004050404c90aadeae29056
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/acinclude.m4
+SPDXID: SPDXRef-item843431
+FileChecksum: SHA1: 7e3efc4adfcb6fee72f4b9aaa79b12f0f987e8dc
+FileChecksum: MD5: 8e1857634b5375dcab0e6c33bdca02b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/install-sh
+SPDXID: SPDXRef-item843432
+FileChecksum: SHA1: c96d6ddd03a67e92b7b65f60536ee9ead7776f38
+FileChecksum: MD5: 9b60d7de7f41139c95d07b93214bdea4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/aclocal.m4
+SPDXID: SPDXRef-item843433
+FileChecksum: SHA1: 2c38cc25195aa88a248a3a7ab1e6b441e573f47f
+FileChecksum: MD5: eef2811d37f9b33ea4cc6c12116bd527
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/Makefile.in
+SPDXID: SPDXRef-item843434
+FileChecksum: SHA1: fa14e36a27d1bdfe53fc774a56f140ffa25fa6e3
+FileChecksum: MD5: 7a12c468c6129cf593fa0cfc1e46c6b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/COPYING
+SPDXID: SPDXRef-item843435
+FileChecksum: SHA1: a7a897a4bde987e597c04f16a9c28f6d3f57916d
+FileChecksum: MD5: 12f884d2ae1ff87c09e5b7ccc2c4ca7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/configure
+SPDXID: SPDXRef-item843436
+FileChecksum: SHA1: ae1f41e9ea2e94647e6af1b0565d0f0a91385ad4
+FileChecksum: MD5: 05a7b173b04ace8d22b5ef19d8016862
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdbus/object.c
+SPDXID: SPDXRef-item843438
+FileChecksum: SHA1: 15dc1f5a1fdd249454c20db534161248973f6543
+FileChecksum: MD5: 42cfe18c9896f6c0df18102d9a6f39c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdbus/polkit.c
+SPDXID: SPDXRef-item843439
+FileChecksum: SHA1: 48d1dd0aaed0415140dee1f64f8c405a5642ed1c
+FileChecksum: MD5: 5586106a6ca3070b7b2657a5e0b9f4d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdbus/gdbus.h
+SPDXID: SPDXRef-item843440
+FileChecksum: SHA1: 3c7cb4cfd9fa35cdadc660be192fb441ec120655
+FileChecksum: MD5: 62216501ee290ed7d3717dbdb6b34926
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdbus/client.c
+SPDXID: SPDXRef-item843441
+FileChecksum: SHA1: 08409b0e9c58de0f7badbda176d9709a497c1eb2
+FileChecksum: MD5: bac4373b326b9e7b9b169bc9d02d5741
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdbus/watch.c
+SPDXID: SPDXRef-item843442
+FileChecksum: SHA1: e555f7bd44cb064b783f646ef26491a23e6da41e
+FileChecksum: MD5: 76321faf13b5ca8a8adf687358d151b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdbus/mainloop.c
+SPDXID: SPDXRef-item843443
+FileChecksum: SHA1: 8d2ca0922ae49ac5d6d3798e2348867095fa6be4
+FileChecksum: MD5: a29d21283f68d98420cb810f03455102
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/ltmain.sh
+SPDXID: SPDXRef-item843444
+FileChecksum: SHA1: 620f6a05a1d39a036ba737baeb77d77de7d73aea
+FileChecksum: MD5: 832690b77a34eb54a35f3876d947796a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/ntp.c
+SPDXID: SPDXRef-item843446
+FileChecksum: SHA1: 147556a7c543813b2da11d27f86a58bf9e2acd39
+FileChecksum: MD5: eb0a99711775c8ab84bc3d7395706d2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/log.c
+SPDXID: SPDXRef-item843447
+FileChecksum: SHA1: 9cd46af9c19fe71b3d9dec186096a708c529a8ea
+FileChecksum: MD5: 540c3ae9178cb6b2317029ed2db73555
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/error.c
+SPDXID: SPDXRef-item843448
+FileChecksum: SHA1: ece133082ef2042550a010882361eab982c2128e
+FileChecksum: MD5: 8a00268d3e07b94ccd0aeb0bdc8a077b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/ipaddress.c
+SPDXID: SPDXRef-item843449
+FileChecksum: SHA1: 04c6776febc1014f7f15d307643e1cd61f828dea
+FileChecksum: MD5: a62b3166c14638169be5c72da83b10ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/machine.c
+SPDXID: SPDXRef-item843450
+FileChecksum: SHA1: 1a00e8977746f71d1eead24a4323586b63dbd9ab
+FileChecksum: MD5: 8c3da083258612c88f3c2e309a067b10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/connman.ver
+SPDXID: SPDXRef-item843451
+FileChecksum: SHA1: 3b76660531d6e3e734d5fac0f3665950a8d46f50
+FileChecksum: MD5: 5eff5cb8c759c2cc14dd001aa752800e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/backtrace.c
+SPDXID: SPDXRef-item843452
+FileChecksum: SHA1: c39cea86fd39c0ee34de6f1cfb59f89e60b0bd05
+FileChecksum: MD5: bf7f63063aa6642b183b6e7d23ff4475
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/nat.c
+SPDXID: SPDXRef-item843453
+FileChecksum: SHA1: cd3f03b03456ae30470d4223f2ae0449fb3fb2fd
+FileChecksum: MD5: ba988cb962660135b780d1c870bb1bd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/plugin.c
+SPDXID: SPDXRef-item843454
+FileChecksum: SHA1: 5f06cf7168b0a6f3934582774b7ea74a509dd222
+FileChecksum: MD5: ac58bc22f57bc07e082718452024a13f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/clock.c
+SPDXID: SPDXRef-item843455
+FileChecksum: SHA1: 322c078f62421f0fcf84d245d6b0ec46d12fa183
+FileChecksum: MD5: 0a5a51e621a10843caf51d5ab22d11ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/detect.c
+SPDXID: SPDXRef-item843456
+FileChecksum: SHA1: 1e53e1f8748f194df777bc72eae64b89bda1e7a3
+FileChecksum: MD5: 976693903ff8c77adcdb5aaa6bbdb82c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/wpad.c
+SPDXID: SPDXRef-item843457
+FileChecksum: SHA1: ac86924e9fa10713cd7a7ffe4f2fd7453fd8f5a2
+FileChecksum: MD5: 9308be4cc743c9c8dcc48e0a02200d6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/proxy.c
+SPDXID: SPDXRef-item843458
+FileChecksum: SHA1: dda780e0b17e660ee793cd647b304bf88e438509
+FileChecksum: MD5: c53fade78d9961cb9cddb0e595107c44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/bridge.c
+SPDXID: SPDXRef-item843459
+FileChecksum: SHA1: 0ab96e117bf3a405e1d2f370784db9e7d538c915
+FileChecksum: MD5: e41169c6091f04c62798aa7378a2bf82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/resolver.c
+SPDXID: SPDXRef-item843460
+FileChecksum: SHA1: ffd0bfb9e50dbff922e7cd25fa8bbe99ae47f723
+FileChecksum: MD5: d710837e866c3d9226549235abb636d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/peer_service.c
+SPDXID: SPDXRef-item843461
+FileChecksum: SHA1: 3311b69f3cd6c98d1bde0828c0ac22868fc50b4c
+FileChecksum: MD5: e9a445d79bf5d2c66942881dcb2cff50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/connman.service.in
+SPDXID: SPDXRef-item843462
+FileChecksum: SHA1: 19efab04afa85f7d66714a841c0e0a8f9d740f63
+FileChecksum: MD5: 7b80b7546cbcdf9ba110ed4a67013219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/connman-dbus.conf
+SPDXID: SPDXRef-item843463
+FileChecksum: SHA1: be6732e4ac438460573e164af023b7feaa58f134
+FileChecksum: MD5: b752f3cb36c83a775ace4bdc9d76b31e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/rfkill.c
+SPDXID: SPDXRef-item843464
+FileChecksum: SHA1: 1d1d7a5a59c7103fe5ad8a24e5bdeafcb9432ab5
+FileChecksum: MD5: 8b18c8be7c3e8fafa180ae976adfc7d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/dns-systemd-resolved.c
+SPDXID: SPDXRef-item843465
+FileChecksum: SHA1: 4ac2c7e2e42d3de1fedb1bcea217625de2559955
+FileChecksum: MD5: 1c9b6673bdd9d51bd56a63b059fbf76d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/device.c
+SPDXID: SPDXRef-item843466
+FileChecksum: SHA1: cf5ffe82d97368141317c7b64d5f3d0e6a188a83
+FileChecksum: MD5: 357e740469e4cd244bba1094d5964dcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/network.c
+SPDXID: SPDXRef-item843467
+FileChecksum: SHA1: 52723ca50e2bcd2d804837f3d388dcb8943de0ca
+FileChecksum: MD5: 9332271aec92dbe12fe749f0dba7e2f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/utsname.c
+SPDXID: SPDXRef-item843468
+FileChecksum: SHA1: 9c79ded3b883e2fedff2c0eb4b6bc39ca923da37
+FileChecksum: MD5: 17ef4c3d91edf23adbeb6a6e7c03ae69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/counter.c
+SPDXID: SPDXRef-item843469
+FileChecksum: SHA1: 86e0d0fea40a3094134233de12dae086598a33f4
+FileChecksum: MD5: 5b8ce25bafbcbc70222d0546f0e59fb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/dhcp.c
+SPDXID: SPDXRef-item843470
+FileChecksum: SHA1: fa10c7878c332958a17505be0391e6623a5a1dfd
+FileChecksum: MD5: 5e92f8f58867622aa7dac5ef81cf8fb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/firewall-nftables.c
+SPDXID: SPDXRef-item843471
+FileChecksum: SHA1: 129fc5d35d1c30f21be9f7583d215ae047231223
+FileChecksum: MD5: f1a229616a833e447d11dd32af332521
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/dbus.c
+SPDXID: SPDXRef-item843472
+FileChecksum: SHA1: f95a5a69e4740668db1786b6ca576ab1d60d206d
+FileChecksum: MD5: bf1963921bf2b87a12853d74cfa1ae29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/iptables.c
+SPDXID: SPDXRef-item843473
+FileChecksum: SHA1: f76767f84a5a4e2bf70d3484d8fd9c391350ab5c
+FileChecksum: MD5: fcaf69ca3e4b45994d90b5d197328185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/notifier.c
+SPDXID: SPDXRef-item843474
+FileChecksum: SHA1: 0fa27041b155bee999f651f0ac893e29f383b3ed
+FileChecksum: MD5: b3c00ced04d3ad3a3b8e72f0669dfdb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/storage.c
+SPDXID: SPDXRef-item843475
+FileChecksum: SHA1: 2a9a06fcd7e7ca4aeba1d01e9dfd31c52bad1286
+FileChecksum: MD5: 209bbdc1f6a0ceb716bb930301c2ebd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/eduroam.config
+SPDXID: SPDXRef-item843476
+FileChecksum: SHA1: b7689cc0ecdd0765cb015e28f9009e6bedd40698
+FileChecksum: MD5: b06d0b2c036ebcec6baba952ee15d51e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/session.c
+SPDXID: SPDXRef-item843477
+FileChecksum: SHA1: f6d736ab96d2af23c42216b01bb71f386ad04b52
+FileChecksum: MD5: bba5624ae50054e533e16f9850157aa0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/connection.c
+SPDXID: SPDXRef-item843478
+FileChecksum: SHA1: 9977974b5c4d1f0ab04b4cf316d96b1868e5564c
+FileChecksum: MD5: fe0fbee3d5f6fd8201794c5c17ee6182
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/config.c
+SPDXID: SPDXRef-item843479
+FileChecksum: SHA1: 93ab15b92b6014eb03695b999606098f3826ee4e
+FileChecksum: MD5: 85d0a9c76f89d945a47f2bd7a3b76cb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/firewall-iptables.c
+SPDXID: SPDXRef-item843480
+FileChecksum: SHA1: 377056a38aa349ba3b3f87b46be4ed5ad851b815
+FileChecksum: MD5: 7cc32a70dc4c5544d585f1b15287ff2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/shared/netlink.c
+SPDXID: SPDXRef-item843482
+FileChecksum: SHA1: ce9a0c1847fb25e30ec82bc7f750e4245a280a3c
+FileChecksum: MD5: 967e3343ca78c511db323d783cb8a848
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/shared/util.c
+SPDXID: SPDXRef-item843483
+FileChecksum: SHA1: a9b67e14d33aa71fab16db177df1ce9ffec89f04
+FileChecksum: MD5: 19df7105cd96f2af316fe0293f3b3c11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/shared/netlink.h
+SPDXID: SPDXRef-item843484
+FileChecksum: SHA1: aeee2c8b0da138c3579aa5848e99251290e881ff
+FileChecksum: MD5: 5297f91ffd37e36002e44d906b00c734
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/shared/util.h
+SPDXID: SPDXRef-item843485
+FileChecksum: SHA1: e37bd557051c643aefd21f73d8988cccbda6485d
+FileChecksum: MD5: 43b6175e9e915c8c37fe35b7249f20fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/connman.h
+SPDXID: SPDXRef-item843486
+FileChecksum: SHA1: 99406624bce57a4ac79a76cab30e1ae32d872682
+FileChecksum: MD5: 14664fe76218e7eb626f18b2f2c98ed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/ipv6pd.c
+SPDXID: SPDXRef-item843487
+FileChecksum: SHA1: 7b4c9e6a6b2785b0651d929b7a99e129b07be9c4
+FileChecksum: MD5: 160234736c47fae6b66d8131e80599e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/task.c
+SPDXID: SPDXRef-item843488
+FileChecksum: SHA1: 68aa658f96cd4ee6c91714450a84e961ac46343d
+FileChecksum: MD5: d679ff906f0e77cdbfd50c943de2a82f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/agent.c
+SPDXID: SPDXRef-item843489
+FileChecksum: SHA1: 020e96304086585569ee184890ba4332dab83285
+FileChecksum: MD5: 5ac23a9991b093f819387d0652cfd27f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/main.conf
+SPDXID: SPDXRef-item843490
+FileChecksum: SHA1: eb2b3b29d5a23e3072be662a7148c138a234a523
+FileChecksum: MD5: 8f247a67139025c384952c3daf74aaef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/ippool.c
+SPDXID: SPDXRef-item843491
+FileChecksum: SHA1: d3240eb4eaec6740f11150c1af456ce9c852e682
+FileChecksum: MD5: f64f56b632b0b2b6bc4d0042e23f2bbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/main.c
+SPDXID: SPDXRef-item843492
+FileChecksum: SHA1: 0ed5238e785badab1e60017e3100144e4abc9700
+FileChecksum: MD5: be1384b4ab3941260183ce7fe3ac6308
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/stats.c
+SPDXID: SPDXRef-item843493
+FileChecksum: SHA1: 38ed1a29c80272942c04e36f366d17dcdd2fec5c
+FileChecksum: MD5: b0f24089893ffd537154e61389c8e249
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/connman-polkit.conf
+SPDXID: SPDXRef-item843494
+FileChecksum: SHA1: b6e60851d222a206a32f51f3c02787dbb67fb44d
+FileChecksum: MD5: b0bd3aceea07b4b39d08f4050c549975
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/inet.c
+SPDXID: SPDXRef-item843495
+FileChecksum: SHA1: c32cb23175bae55cfb7f009857ca0fc258027989
+FileChecksum: MD5: 3b21b1cd0444c91d9c0ee377cb46a080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/util.c
+SPDXID: SPDXRef-item843496
+FileChecksum: SHA1: 6076ac2c9725ee2c8447560e6ed517661d57c654
+FileChecksum: MD5: b72f0e0e53168f77adb10b3c58d1b89d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/connman-wait-online.service.in
+SPDXID: SPDXRef-item843497
+FileChecksum: SHA1: 0ef04e1a6a196d8b559e0dcca785abe7ba6efa1e
+FileChecksum: MD5: 036b7665d82f9d906d0783e8191b7411
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/inotify.c
+SPDXID: SPDXRef-item843498
+FileChecksum: SHA1: c8cb965e012bd7f28d6f036cf5a5eeb076c73e1e
+FileChecksum: MD5: d38b2ca43ac14cafc3aad8cbe901a320
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/peer.c
+SPDXID: SPDXRef-item843499
+FileChecksum: SHA1: 6df2d321ee21872cc1f96e0d485f6381679c301e
+FileChecksum: MD5: 5cefd59d03d4bbd7f7a3dd23c5ef6378
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/rtnl.c
+SPDXID: SPDXRef-item843500
+FileChecksum: SHA1: 06f9b8e717d7b0cfc055abbe00f3479823251088
+FileChecksum: MD5: 66e70aff8c364e662e1b13ada8430295
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/agent-connman.c
+SPDXID: SPDXRef-item843501
+FileChecksum: SHA1: 4c07995efd1e3da5d207c1449d884cdc4ec1acd9
+FileChecksum: MD5: 3e42d554b8e438bf05383fa17e70f6d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/technology.c
+SPDXID: SPDXRef-item843502
+FileChecksum: SHA1: 63fbb26efe782a048b37ff01de32c95613d94298
+FileChecksum: MD5: f81c2f3b37a77b61411740ef35dfd5d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/net.connman.service.in
+SPDXID: SPDXRef-item843503
+FileChecksum: SHA1: 10c4041ac57d747ab9ab364f494f29da94f220fc
+FileChecksum: MD5: acd65989ea676c92ba6cdc8d9775b612
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/manager.c
+SPDXID: SPDXRef-item843504
+FileChecksum: SHA1: 5dd2657c7341bf08f4848d880b023f8e868d7836
+FileChecksum: MD5: 7659f13e37828b2b791fcbf39078f3b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/dhcpv6.c
+SPDXID: SPDXRef-item843505
+FileChecksum: SHA1: d7e91aa1ba39b2c966f39c3512297e79b877270b
+FileChecksum: MD5: 59d129f107f4f4269c47f04208e65f3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/nostats.c
+SPDXID: SPDXRef-item843506
+FileChecksum: SHA1: bd8ae3c80cbce9b63ffef82d341e9e834c4ee9a6
+FileChecksum: MD5: 9f7c8693380417e1ed909fbeafff5b30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/genbuiltin
+SPDXID: SPDXRef-item843507
+FileChecksum: SHA1: 255dd3eaff9368cf2e7fda6d921f6a44a26436c2
+FileChecksum: MD5: dbafcdc4e39985216468d5f2b8876a97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/timeserver.c
+SPDXID: SPDXRef-item843508
+FileChecksum: SHA1: f0246304dc42e04256c30f021105b6141e8a4529
+FileChecksum: MD5: 2b0bce43ad7cabf9f5275df7066ac127
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/timezone.c
+SPDXID: SPDXRef-item843509
+FileChecksum: SHA1: 1dd9a66a8b29c7b74b4249e4ca0a60b01c9dda51
+FileChecksum: MD5: 98a09e63c35b17ce836c1dd42b18a964
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/dnsproxy.c
+SPDXID: SPDXRef-item843510
+FileChecksum: SHA1: 32c667f5b03fbde6d3001adcdc376ee83fdacf89
+FileChecksum: MD5: 9b0b7ec1fea5af8a1a962d03edbf99bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/service.c
+SPDXID: SPDXRef-item843511
+FileChecksum: SHA1: 7823f65ae623c690d1d4c008428fa178a2adaadf
+FileChecksum: MD5: cec6d6a2e908e82de16c4c3044ffab1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/wispr.c
+SPDXID: SPDXRef-item843512
+FileChecksum: SHA1: 8e96c6073bfd7882c01a8e7852486164efcb54c0
+FileChecksum: MD5: 2a637801bb6cbba6d71c0f04d2d3fcd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/connmand-wait-online.c
+SPDXID: SPDXRef-item843513
+FileChecksum: SHA1: cc85f42e6f9eece644321d6f3b829b2d408136fa
+FileChecksum: MD5: 7e825a3776a537993101e17392e0144a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/tethering.c
+SPDXID: SPDXRef-item843514
+FileChecksum: SHA1: 900f720b0ac054edc32a4c779e98429d76a2a034
+FileChecksum: MD5: c10f40abde7fb3194ae79e7e9b7ddf53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/provider.c
+SPDXID: SPDXRef-item843515
+FileChecksum: SHA1: 4a803580dde0245d04186fea0b2f9bd5192b0e92
+FileChecksum: MD5: 3304eafaa9dbaefb7455702f5af96821
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/6to4.c
+SPDXID: SPDXRef-item843516
+FileChecksum: SHA1: d094966f7c30df8f734d14aea0ee79d90ace18cc
+FileChecksum: MD5: c3f61beff0f0bc1433db82d60b7f7df4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/src/ipconfig.c
+SPDXID: SPDXRef-item843517
+FileChecksum: SHA1: 055c5b25a1dff5838c0a6ddc0e48479d6c8306ae
+FileChecksum: MD5: b7a8379a16309450595853ce2cfce6db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/iwd.c
+SPDXID: SPDXRef-item843519
+FileChecksum: SHA1: 0696bfaece2e5300eb0f99c2889e75bb0de6537d
+FileChecksum: MD5: 996668a0304f2faed50066b2cbb94941
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/neard.c
+SPDXID: SPDXRef-item843520
+FileChecksum: SHA1: 878f9dc82b485004df42b3f823db777a68e4e79f
+FileChecksum: MD5: ea2323ffe9d4ac0b3da69b27e84ef543
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/iospm.c
+SPDXID: SPDXRef-item843521
+FileChecksum: SHA1: 6b83cfb6e4becc62114f16f1b96abcff54c26c26
+FileChecksum: MD5: c027dc11fdaaa1ad0f48ad51b48613f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/pacrunner.c
+SPDXID: SPDXRef-item843522
+FileChecksum: SHA1: 094b370c35971907136c200eb9d6006ea7e3274c
+FileChecksum: MD5: 7d1a3d7a9a16dc954bffdcc86519de34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/hh2serial-gps.c
+SPDXID: SPDXRef-item843523
+FileChecksum: SHA1: a412cb101b86ef22440f18c85c24e7380deb24ca
+FileChecksum: MD5: aad7b757c0ac4f45026a8777eaefec48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/vpn.c
+SPDXID: SPDXRef-item843524
+FileChecksum: SHA1: 44114f96b4eff107811b1699d0ffe04fa54f00e7
+FileChecksum: MD5: 2800b58d111dfb8a03d973ae14086905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/nmcompat.c
+SPDXID: SPDXRef-item843525
+FileChecksum: SHA1: bae38690db54ab46e44e486767a0cd0baa2459c1
+FileChecksum: MD5: e220afef345eaf67f692dd7aca1f76de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/dundee.c
+SPDXID: SPDXRef-item843526
+FileChecksum: SHA1: 69c27c6486cc7bc2c1c50cbfb1a571846a3ea947
+FileChecksum: MD5: 0aa974bf8386bd22118cd31a7ba126cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/connman-nmcompat.conf
+SPDXID: SPDXRef-item843527
+FileChecksum: SHA1: 520f7b4caee345d7e6bed0dbf636a295f89c7b89
+FileChecksum: MD5: f7e56ae08c803038921f37c82a88ac38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/polkit.policy
+SPDXID: SPDXRef-item843528
+FileChecksum: SHA1: bcf8d0423b304df5e3dc1cd329e0c58e3aeb261e
+FileChecksum: MD5: a4e8e6075b3a52b7cac7b3b7560b3b4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/loopback.c
+SPDXID: SPDXRef-item843529
+FileChecksum: SHA1: c1905db5cb6569cc20c52e4fb19809bc9cc6e7ce
+FileChecksum: MD5: 38b88198ec6133a60eba70b14d33252d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/bluetooth.c
+SPDXID: SPDXRef-item843530
+FileChecksum: SHA1: 7ab6c19028532a8a00c2e6edb5754dd44e98a93a
+FileChecksum: MD5: 163f8cbb2c64b4334c6f343e425bc9dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/ofono.c
+SPDXID: SPDXRef-item843531
+FileChecksum: SHA1: 63563a793ec05fa3c5fbc87f2fbc9d4711f6d3f2
+FileChecksum: MD5: 3bc65dfbf641cc24ad2bd7d90d2d0026
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/polkit.c
+SPDXID: SPDXRef-item843532
+FileChecksum: SHA1: f912d1f11d43d9558776b2a51143025fd3661519
+FileChecksum: MD5: b7eeeb245725f3abaaaf8c67b0efc428
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/session_policy_local.c
+SPDXID: SPDXRef-item843533
+FileChecksum: SHA1: f73afb2d42c08baa01f970cb9a022f35a8d5496e
+FileChecksum: MD5: 887fb0b69b8e2426fae83fc18e22d66c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/mcc.h
+SPDXID: SPDXRef-item843534
+FileChecksum: SHA1: a03e0b8f5ca5d017447d38c38d98ededc4428bae
+FileChecksum: MD5: 6268b03a9d6677a2c2c0cfc3ef669449
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/tist.c
+SPDXID: SPDXRef-item843535
+FileChecksum: SHA1: 37024ce1a03db9ee187e0f40108138b6e309342b
+FileChecksum: MD5: 5861ee861fbcc5200008d1dec6deec0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/wifi.c
+SPDXID: SPDXRef-item843536
+FileChecksum: SHA1: f3f0ad236445e0aee095fc759cb5a455a7425555
+FileChecksum: MD5: d67a9305b459c6471d5150b36bb2887b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/gadget.c
+SPDXID: SPDXRef-item843537
+FileChecksum: SHA1: 67ca61a7702dc6a37be8be9ebc7facf6e0b0a826
+FileChecksum: MD5: a8df4bcf82608cedcf4e04218db4f9c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/plugins/ethernet.c
+SPDXID: SPDXRef-item843538
+FileChecksum: SHA1: 830537126c394fd7e053431e2a0ea7e174c95093
+FileChecksum: MD5: 6ec4558db94b8d6be5c8727b61d0a47e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/scripts/connman_resolvconf.conf.in
+SPDXID: SPDXRef-item843540
+FileChecksum: SHA1: 6536884dcc0c9976ee31cbe8d6c1f2bb8649e4a7
+FileChecksum: MD5: 9c51048e82033c366f84dbf78fd17f10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/scripts/connman.in
+SPDXID: SPDXRef-item843541
+FileChecksum: SHA1: cc11853184dc3b49ee9aa86a0e25fe788fe64dab
+FileChecksum: MD5: cfc5d21d7b64509d0a01203bd8c00653
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/scripts/libppp-plugin.c
+SPDXID: SPDXRef-item843542
+FileChecksum: SHA1: 003445c2addadc37879ff15296cbd4f7611bc90f
+FileChecksum: MD5: 74a8e1f5b9676a91308ebe03f67cd70a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/scripts/openconnect-script.c
+SPDXID: SPDXRef-item843543
+FileChecksum: SHA1: 038094411a37e596865589164501d72358652900
+FileChecksum: MD5: bece2c126ee7d022c9d4921b892d565b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/scripts/openvpn-script.c
+SPDXID: SPDXRef-item843544
+FileChecksum: SHA1: 082b5f4a3cd3b0116659fb6c48ef13675d15ba49
+FileChecksum: MD5: 2b9ba180e5205e49dfa95c277e63e6bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/m4/ltversion.m4
+SPDXID: SPDXRef-item843546
+FileChecksum: SHA1: 25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68
+FileChecksum: MD5: 91dd5e1355d100dbdab7d71244ed2625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/m4/libtool.m4
+SPDXID: SPDXRef-item843547
+FileChecksum: SHA1: df1b378e235c9f5df79c68c8fbae6e47a1d219c9
+FileChecksum: MD5: 42a15e936131c8cbcc3c88b839022f8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/m4/ltoptions.m4
+SPDXID: SPDXRef-item843548
+FileChecksum: SHA1: 05ec66892c8b30f20aa5278e1671ae4925a9c063
+FileChecksum: MD5: 67d5ebceaac562ddf0dde4e5cdffbe09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/m4/configmake.m4
+SPDXID: SPDXRef-item843549
+FileChecksum: SHA1: 81c222e7e7af68c20f3c6f137552cdfe0b02f4fb
+FileChecksum: MD5: 031482789c6d09e16a7ab631ecf04998
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/m4/ltsugar.m4
+SPDXID: SPDXRef-item843550
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item843551
+FileChecksum: SHA1: c0c6afe569131b4015d221bc853053cf884b2699
+FileChecksum: MD5: 47d420a13f9ba4e171772c3e3eee3e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/TODO
+SPDXID: SPDXRef-item843552
+FileChecksum: SHA1: 54fc30203af6a3335a5dda9a290336ff11d14e24
+FileChecksum: MD5: bc4511db2650282ec3eb92bba887de05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/config.h.in
+SPDXID: SPDXRef-item843553
+FileChecksum: SHA1: 01148623e8af1fff7c6ca9cbcc648d2bfe06bceb
+FileChecksum: MD5: f65791d7a6a6707f044871175518368b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/Makefile.am
+SPDXID: SPDXRef-item843554
+FileChecksum: SHA1: 7d6c867380a1508878cadea620959474b33c1c49
+FileChecksum: MD5: e376d8d8df5002b8e7622c969351493e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdhcp/ipv4ll.h
+SPDXID: SPDXRef-item843556
+FileChecksum: SHA1: ff680c2a374ddb726306acab086cd4004203a179
+FileChecksum: MD5: 9296d632ef545af28662b2079908d12d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdhcp/common.h
+SPDXID: SPDXRef-item843557
+FileChecksum: SHA1: 44cf5bab9da49adfe79b7c72e65cd7a0535482f0
+FileChecksum: MD5: 62678ce6dbd79ae07d695040d2279fd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdhcp/unaligned.h
+SPDXID: SPDXRef-item843558
+FileChecksum: SHA1: 5a49d8b7faedc909adc88d2f53728ba3d64c7cd4
+FileChecksum: MD5: 0ce7b75abf5ecc284f3558f6da3f2324
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdhcp/client.c
+SPDXID: SPDXRef-item843559
+FileChecksum: SHA1: 1f16f13f8dd016f065f3a4be6b6774d79e39b163
+FileChecksum: MD5: 4ea78e309cc4dca660cd19f0d592a203
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdhcp/common.c
+SPDXID: SPDXRef-item843560
+FileChecksum: SHA1: 1b4a1839c87ca441a9832d176125d93f26ae695d
+FileChecksum: MD5: 2a1bdf58f0faa661ac3ed7f0ee290fcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdhcp/server.c
+SPDXID: SPDXRef-item843561
+FileChecksum: SHA1: f6497bf4caa64c1488d4d099c73e0ae68bc6aee5
+FileChecksum: MD5: f9a2ec7bebb9e38a2d77d0769f0d54bf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdhcp/gdhcp.h
+SPDXID: SPDXRef-item843562
+FileChecksum: SHA1: acc1f0be1fb962e5f49dabf0abd05fdb34db22f8
+FileChecksum: MD5: 89e48ae8bedca2ddfc3ca4cf23109717
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gdhcp/ipv4ll.c
+SPDXID: SPDXRef-item843563
+FileChecksum: SHA1: 5622763cfa8020374e51c049af71085aa82e165f
+FileChecksum: MD5: f63f31991a1b7c1747c092be155c7b14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/AUTHORS
+SPDXID: SPDXRef-item843564
+FileChecksum: SHA1: 25f7d920083205e2856316e820261923b470d7ca
+FileChecksum: MD5: 5ef2adb72d0618a192209f2c19c1cd83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/config.sub
+SPDXID: SPDXRef-item843565
+FileChecksum: SHA1: b10de7366ff00474959a2c0ca5de18c5ce7ccc7d
+FileChecksum: MD5: 6277d71b2125f2bd6390226a906f0b0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/connman.8.in
+SPDXID: SPDXRef-item843567
+FileChecksum: SHA1: cc0556e33d3849f51c93b2da3e2814ff921d81b3
+FileChecksum: MD5: 568acd1dcca2e1fe28761b976cce2f23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/coding-style.txt
+SPDXID: SPDXRef-item843568
+FileChecksum: SHA1: 3c69cb78e3c90874afb81883a1ef2c768c678aa1
+FileChecksum: MD5: 81be84bd3d7c72d3b10e35ac88c090bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/clock-api.txt
+SPDXID: SPDXRef-item843569
+FileChecksum: SHA1: 417e2bfde855e1a2c9333b76888f733531cb0dae
+FileChecksum: MD5: 9430adfd5ab703096f59c11a2c3619df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/connmanctl.1.in
+SPDXID: SPDXRef-item843570
+FileChecksum: SHA1: 7986fc5bdca71bae62fa5887909c11d7371906ac
+FileChecksum: MD5: 6ed2214dbc5a22e534ca21e4c3ebd103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/plugin-api.txt
+SPDXID: SPDXRef-item843571
+FileChecksum: SHA1: 1ee8edc62bf445b010f86f7111eea29f4c948556
+FileChecksum: MD5: 196ef41949de7b1045d87fc0544e0d4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/vpn-connection-api.txt
+SPDXID: SPDXRef-item843572
+FileChecksum: SHA1: 5fb664a463f59fac80062f788e657ba57dc80593
+FileChecksum: MD5: f7ed3f9522808abc548d5ff310c685b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/manager-api.txt
+SPDXID: SPDXRef-item843573
+FileChecksum: SHA1: 8643cfc84e5451920f9b3335c6d4090ed0206e3c
+FileChecksum: MD5: a7c0f5a296428fecf0406c2706a83855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/session-api.txt
+SPDXID: SPDXRef-item843574
+FileChecksum: SHA1: d4f942b53b71017a9d5f1039d657b8a7e684714d
+FileChecksum: MD5: 47a800f0cd71d422fe8c60ec7e7fd9ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/advanced-configuration.txt
+SPDXID: SPDXRef-item843575
+FileChecksum: SHA1: c5535a2cc4e1fb5f2066199d6aeca07b1541450a
+FileChecksum: MD5: ddb605d29228a55ae3c2c4849be7687a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/vpn-manager-api.txt
+SPDXID: SPDXRef-item843576
+FileChecksum: SHA1: 50517416c2653ab7341cd4b18c7174e17fb83407
+FileChecksum: MD5: 8e1e852eacd5907b66c73c4445bfc8b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/agent-api.txt
+SPDXID: SPDXRef-item843577
+FileChecksum: SHA1: 52ea4abbc06729382bc57ee924e18af3a10f0e89
+FileChecksum: MD5: f2627d71ebebc4371d1363554aad9e2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/vpn-config-format.txt
+SPDXID: SPDXRef-item843578
+FileChecksum: SHA1: 0b22e2f175c8295323c237664377af16dea452dd
+FileChecksum: MD5: e9dfac18baf0aa337b206c0c5663c406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/vpn-overview.txt
+SPDXID: SPDXRef-item843579
+FileChecksum: SHA1: 22b9b56bccaa20aab550afd48f5fc6769c1e3f9c
+FileChecksum: MD5: fb5040853fc8a030bc2609438734b10b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/technology-api.txt
+SPDXID: SPDXRef-item843580
+FileChecksum: SHA1: d2e2773f969f46a68cab5f984b8bd34063b680d8
+FileChecksum: MD5: b11caff17b7c096187acf368d911aee5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/peer-api.txt
+SPDXID: SPDXRef-item843581
+FileChecksum: SHA1: 849792920c72176d7b033b12dbd2e6a6cb0899f2
+FileChecksum: MD5: 1f7f44c508fd947ca690e9ad6e13a380
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/connman-vpn-provider.config.5.in
+SPDXID: SPDXRef-item843582
+FileChecksum: SHA1: d2327db62e965fd504ecb5ac902bde6927a27241
+FileChecksum: MD5: df08e504ed0966c3a33497d32d3e290b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/connman-service.config.5.in
+SPDXID: SPDXRef-item843583
+FileChecksum: SHA1: 4d039a7a62789bcb3605d07d1668293b7ac9a7a1
+FileChecksum: MD5: 7cb6ffd8d23a326e78a43d41f35d6ee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/vpn-agent-api.txt
+SPDXID: SPDXRef-item843584
+FileChecksum: SHA1: 167a044050036a75eb59d969a068ed290e4683b6
+FileChecksum: MD5: 402019b5c16b6fe27f065eba00e82f66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/connman-vpn.8.in
+SPDXID: SPDXRef-item843585
+FileChecksum: SHA1: 7675d6e80c93a3f7201813b9a2cf16de847ce24c
+FileChecksum: MD5: bf153ed2e04fabd89b4de3562f6ada0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/session-policy-format.txt
+SPDXID: SPDXRef-item843586
+FileChecksum: SHA1: 24bd8e352c4db26e7dd4b94a5d522a55837be7b7
+FileChecksum: MD5: 0ae01abd61e0ef5345e36bc75369fff0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/session-overview.txt
+SPDXID: SPDXRef-item843587
+FileChecksum: SHA1: fa03e1572555b77c2b776825b9c9d949765d2ef4
+FileChecksum: MD5: faae4c9ae7db3bea951567a1ba37c75c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/overview-api.txt
+SPDXID: SPDXRef-item843588
+FileChecksum: SHA1: 563848af2c09da3436c51663dad98f4252732bcb
+FileChecksum: MD5: f7b7e0eb36781f263b4bf171ed92da12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/counter-api.txt
+SPDXID: SPDXRef-item843589
+FileChecksum: SHA1: 82a317ad51080ea969db593dbdd698ecfdb53e29
+FileChecksum: MD5: cdd22d1d9bc206befdcb00679b56c4b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/connman.conf.5.in
+SPDXID: SPDXRef-item843590
+FileChecksum: SHA1: 8534df29a9f00ea4ebd88f4306d95cf296c225f2
+FileChecksum: MD5: d17abd6903f691ddea4bc148d08f7619
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/service-api.txt
+SPDXID: SPDXRef-item843591
+FileChecksum: SHA1: 60ef6b1b883a909af5f21757e10afee515925911
+FileChecksum: MD5: 6b4bd5d6e96dfa23b01dd8500c6c2542
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/ipconfig-api.txt
+SPDXID: SPDXRef-item843592
+FileChecksum: SHA1: a373b6ddc7478a06199e00e0cebb46332a2fcd41
+FileChecksum: MD5: d325f30df8af68f2f2d88f916b6837f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/wifi-p2p-overview.txt
+SPDXID: SPDXRef-item843593
+FileChecksum: SHA1: 31ab6375e692ce28b5a05c1752499edfa806ed8a
+FileChecksum: MD5: 3e0c2f75015e5c223615b5aba69762df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/behavior-api.txt
+SPDXID: SPDXRef-item843594
+FileChecksum: SHA1: 9b9ac8e12343b0ba251eafbb4de011dbdaa4f072
+FileChecksum: MD5: a6cb129e5c93d7ccd09641e0a8374637
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/backtrace.txt
+SPDXID: SPDXRef-item843595
+FileChecksum: SHA1: 5583789d60b96e8a464ccda0a45bf2cd60cc189e
+FileChecksum: MD5: 1d76fbf4db1069c5457fcc86cbab6b3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/connman-vpn.conf.5.in
+SPDXID: SPDXRef-item843596
+FileChecksum: SHA1: a2edf4a4e1f9cf8b529317372037ff249edc3b58
+FileChecksum: MD5: b2b851f762e1f5a3bf9c64e23d70aa48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/doc/config-format.txt
+SPDXID: SPDXRef-item843597
+FileChecksum: SHA1: d425d5c29085668425d8932aab98fa84ed9a2b62
+FileChecksum: MD5: e446e0b4d15b1839b75f865b77f5ec62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/get-state
+SPDXID: SPDXRef-item843599
+FileChecksum: SHA1: 43e39c30440bbf3ad2f66c47a9e2e12dd3aa0747
+FileChecksum: MD5: 3d85d792530376edbe8e77076adfebde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/test-new-supplicant
+SPDXID: SPDXRef-item843600
+FileChecksum: SHA1: 9b2cc61e54ccc5d72ef04fcdc8f54bed7f9856a0
+FileChecksum: MD5: 58dec526e7fff8c215d1fe3ce2954df9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/test-counter
+SPDXID: SPDXRef-item843601
+FileChecksum: SHA1: d18342bac3a4bba5aeb923f555302a7a5a791612
+FileChecksum: MD5: 2695fe7feb784500de025f785df9fb4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/connect-provider
+SPDXID: SPDXRef-item843602
+FileChecksum: SHA1: ac058a36e2409b29464a32974006d95bd931eb18
+FileChecksum: MD5: 6b85062de0c27a2920643fa635181d6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/test-clock
+SPDXID: SPDXRef-item843603
+FileChecksum: SHA1: 5bddc1b4030b18e516f7e6a4e85073d01d6fd6e0
+FileChecksum: MD5: 1bce22872616e3ec89544b2ffda353da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/simple-agent
+SPDXID: SPDXRef-item843604
+FileChecksum: SHA1: e274f632fc0242721f0e0b1702d95514a097891c
+FileChecksum: MD5: 098a4c90b6d3297ab211abcfe50cd041
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/get-services
+SPDXID: SPDXRef-item843605
+FileChecksum: SHA1: c775ed41e8a36f5186581a60179a4b66200a82ba
+FileChecksum: MD5: ff92a197d6f71bb4497de7fe5d089208
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/vpn-property
+SPDXID: SPDXRef-item843606
+FileChecksum: SHA1: 3b393f11297a211400e126e3fa11c0f8847d2b05
+FileChecksum: MD5: 6ce525aa1a7095a383ef2f3df50aba30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/vpn-connect
+SPDXID: SPDXRef-item843607
+FileChecksum: SHA1: 93f2eebe8fcda6f943b087d7036e4d7370e35a3e
+FileChecksum: MD5: 0481b6938c447b19723be57eda1a000e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/backtrace
+SPDXID: SPDXRef-item843608
+FileChecksum: SHA1: 9eec68a612771632e20faafd02872692b6570285
+FileChecksum: MD5: 2d61ab13e86bd95c7189833ff1064993
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/disable-tethering
+SPDXID: SPDXRef-item843609
+FileChecksum: SHA1: 7cd6f83fdcc4e73de1a120df4e967aa3e52ef095
+FileChecksum: MD5: 52983ed9c673cb1e18dbe9b94d5fc78b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/test-session
+SPDXID: SPDXRef-item843610
+FileChecksum: SHA1: 59fee1390a1dc24d9455921199c9d04705621760
+FileChecksum: MD5: bac0dc2169dbfe73c736a6394aad0f83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/set-domains
+SPDXID: SPDXRef-item843611
+FileChecksum: SHA1: 58ed44cba04165fb6230d3b77e0ff0f2b15b6c54
+FileChecksum: MD5: e73983a88a8ac5900ed1e582e0c6e8f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/set-ipv4-method
+SPDXID: SPDXRef-item843612
+FileChecksum: SHA1: bc350c93f38ab6ca7c22c810d714ee32fa8b419c
+FileChecksum: MD5: bc8d6dd67be9070f8cc6da769453596b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/service-move-before
+SPDXID: SPDXRef-item843613
+FileChecksum: SHA1: a77964258731ec209d18fe246682a3808f71f9c9
+FileChecksum: MD5: 2c390a1290fc72fb88368455ac731146
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/set-proxy
+SPDXID: SPDXRef-item843614
+FileChecksum: SHA1: f1caaee54e0ed7087ab9a83e6b2d2f551bf0cbe0
+FileChecksum: MD5: fb17832c9ba06989e57fa7605cba7da8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/p2p-on-supplicant
+SPDXID: SPDXRef-item843615
+FileChecksum: SHA1: be21a959605544aea69395f84ce4fb0ed1f7a4f0
+FileChecksum: MD5: c7348c2731890f2043ca7cd8cd391cba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/get-global-timeservers
+SPDXID: SPDXRef-item843616
+FileChecksum: SHA1: 9fb41fda283fa7c5642204335650944362e43e0a
+FileChecksum: MD5: 355af0c213ad60f8303dfbac29af7271
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/test-manager
+SPDXID: SPDXRef-item843617
+FileChecksum: SHA1: 52a8fa40006379b1bd42e83b321b46f826a206c5
+FileChecksum: MD5: 3630d98a0daba589de4bc2c25822fa31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/monitor-vpn
+SPDXID: SPDXRef-item843618
+FileChecksum: SHA1: 098ad2bcbf87caaf42f2a3702326463caf2d2c1e
+FileChecksum: MD5: b375217fa10a5ffeba52c6c125595972
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/show-introspection
+SPDXID: SPDXRef-item843619
+FileChecksum: SHA1: 14522f2d092e90c5a3c950dea0993875aeaadfc0
+FileChecksum: MD5: 25c2f04c05542047f9048729af06a4ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/set-nameservers
+SPDXID: SPDXRef-item843620
+FileChecksum: SHA1: 41f5333d55df85929bf9e45e9f5c2274800bd478
+FileChecksum: MD5: fe5b6f61cd0463ceeee82eccc1a10090
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/set-global-timeservers
+SPDXID: SPDXRef-item843621
+FileChecksum: SHA1: 3caf52a039fa18031e902b388ad852022243bbfa
+FileChecksum: MD5: 4b7ee353b1cdc2d6b56e42601147ebec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/test-connman
+SPDXID: SPDXRef-item843622
+FileChecksum: SHA1: 4c36026c09c9af29f3c9da6c9de23d3fdb195c91
+FileChecksum: MD5: 6f05818160471cda5ca0328946834036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/get-proxy-autoconfig
+SPDXID: SPDXRef-item843623
+FileChecksum: SHA1: 9df02dd0ad73f56cc8d965e35c966dfd200a17dc
+FileChecksum: MD5: ca526645dee9e4774b7d31968e9620ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/set-clock
+SPDXID: SPDXRef-item843624
+FileChecksum: SHA1: b42c5c6adcc08bf0828a5dd55d39f96bf971306e
+FileChecksum: MD5: 8ffb108277ba1c09c5e10dd4424b9861
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/set-timeservers
+SPDXID: SPDXRef-item843625
+FileChecksum: SHA1: 3e3209796b985cdfee2863c2f87ff4dce862fc23
+FileChecksum: MD5: 044eebe66ec504a1603ccbd2ab49d299
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/set-ipv6-method
+SPDXID: SPDXRef-item843626
+FileChecksum: SHA1: 8b92997e047c84292eed5a3b968aec24191665b0
+FileChecksum: MD5: 663d64d523ea423ab001d32bd08e0dcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/monitor-connman
+SPDXID: SPDXRef-item843627
+FileChecksum: SHA1: c94d4d9ffe6b1be9e131dbc73b45ca5e35cc3e10
+FileChecksum: MD5: f10f5a646f075cce6080de2d432dfe0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/remove-provider
+SPDXID: SPDXRef-item843628
+FileChecksum: SHA1: e4e19a03fc6582c6de41e956ea6b2b2c372c98f4
+FileChecksum: MD5: 3bbda8399baed2e313fae87fdb0c0c2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/list-services
+SPDXID: SPDXRef-item843629
+FileChecksum: SHA1: fadeba7a0d2674cdaf6362e773fb38a99ac60e94
+FileChecksum: MD5: 8a716953f51835904346ef31da362e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/vpn-get
+SPDXID: SPDXRef-item843630
+FileChecksum: SHA1: ecddd84ab745c2bc75e067a71b99da910dbfd394
+FileChecksum: MD5: 641392bfe01fc465fcd80719fb35e9b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/enable-tethering
+SPDXID: SPDXRef-item843631
+FileChecksum: SHA1: cb90a7043a62b16ae22db6d80e10b9b3b5d0b6be
+FileChecksum: MD5: 0deb72bee657ec4c4664dc38e98c624f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/monitor-services
+SPDXID: SPDXRef-item843632
+FileChecksum: SHA1: 678d4fcc19f3e44c8a9b00f0cb0641e598dc7e4e
+FileChecksum: MD5: 7578a30665685b4c658baa658c483075
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/vpn-disconnect
+SPDXID: SPDXRef-item843633
+FileChecksum: SHA1: 3326bcc72ed8614008507889595c919fea776239
+FileChecksum: MD5: ba2cad47704bbc8a7de37ac1a8841f1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test/test-compat
+SPDXID: SPDXRef-item843634
+FileChecksum: SHA1: c69b7c4934f57f9b4dccbc2b30f2385033449210
+FileChecksum: MD5: fbe6eb5c957704757dc35e35e1d3dd12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/missing
+SPDXID: SPDXRef-item843635
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/README
+SPDXID: SPDXRef-item843636
+FileChecksum: SHA1: 2f06f3deeda3aab1c387aa97d2b0385af4760898
+FileChecksum: MD5: 51abdc8e8bc1bd03ede29ac470e50f0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-dbus.conf
+SPDXID: SPDXRef-item843638
+FileChecksum: SHA1: ddca5b89f6b9cb62fe64766cb6876a5b63412c18
+FileChecksum: MD5: a261fb90ed6411f47e7549bab47dc932
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-polkit.policy
+SPDXID: SPDXRef-item843639
+FileChecksum: SHA1: bba16e8241ac6d82602b149f737919d1cd27de41
+FileChecksum: MD5: 5e9400ea3fe7b1cbce6173df234ac6ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-config.c
+SPDXID: SPDXRef-item843640
+FileChecksum: SHA1: abfdffe675b9166c6513d315903ba0adfa993374
+FileChecksum: MD5: a647efb6d043143eb8b32945f127f443
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-manager.c
+SPDXID: SPDXRef-item843641
+FileChecksum: SHA1: 9147ac3b5a4018f481e82644f20a4967a3b8cfa8
+FileChecksum: MD5: b94188bb6f470147a687be023b47b036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/connman-vpn.service.in
+SPDXID: SPDXRef-item843642
+FileChecksum: SHA1: 88b3cfc2cb25cfcec9ca962d653f83878c1ea38e
+FileChecksum: MD5: 94d085d650d3ab9d52a8d6dc974bfb31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-rtnl.h
+SPDXID: SPDXRef-item843643
+FileChecksum: SHA1: 795fabe932ca2cd01c6a9384b439d37e4383d21d
+FileChecksum: MD5: ddc67f3ec0f422d4c26beb10930269cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/connman-task.te
+SPDXID: SPDXRef-item843644
+FileChecksum: SHA1: b5f4bd2692e08cf9f50519c3836e98886e867a99
+FileChecksum: MD5: ec8f18b70976efae83d9c31a98229dc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/plugins/l2tp.c
+SPDXID: SPDXRef-item843646
+FileChecksum: SHA1: 9f960e472c7af8837b76d18fd3fa5bfc8150944f
+FileChecksum: MD5: c40ccac82a1a97e979c08f8485cf710d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/plugins/vpn.c
+SPDXID: SPDXRef-item843647
+FileChecksum: SHA1: 27e9fc80179f69635fe2d2b9c52ff4d1e465fa6f
+FileChecksum: MD5: 09efc5fb3f124b822c40f3c920c255df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/plugins/openconnect.c
+SPDXID: SPDXRef-item843648
+FileChecksum: SHA1: 1ab4127074adc3e70af0427e6cd814a5beefe4f9
+FileChecksum: MD5: 2848b0e24cd47741013168b7a04802f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/plugins/openvpn.c
+SPDXID: SPDXRef-item843649
+FileChecksum: SHA1: 0be3fc42fdb5466069765cf7e8e4daea5a7f0fc8
+FileChecksum: MD5: 5aab7b91c7cfda48b6965802f5417082
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/plugins/pptp.c
+SPDXID: SPDXRef-item843650
+FileChecksum: SHA1: e835592f634ec4c7fd3abc214a1f7c944613a903
+FileChecksum: MD5: a3c54a4025dcfe342577fbd0326c435a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/plugins/vpn.h
+SPDXID: SPDXRef-item843651
+FileChecksum: SHA1: eb7ea67fbc61acb9789bfe317e2da3667a0aafdb
+FileChecksum: MD5: 000ea1d94dc2ab5e3ee58b9f9f16150d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/plugins/vpnc.c
+SPDXID: SPDXRef-item843652
+FileChecksum: SHA1: 07d731ad39e29032bcf1289866b125dcc4ec6dc8
+FileChecksum: MD5: 78544a51b620a242655057f510729c7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-provider.h
+SPDXID: SPDXRef-item843653
+FileChecksum: SHA1: 23ee88bbea87594dcc4a99cb6fcf2c948bd112b6
+FileChecksum: MD5: d7250ed0e9ec3998afaa0863a4281c45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-agent.h
+SPDXID: SPDXRef-item843654
+FileChecksum: SHA1: 466919630c74a3ed3b2208598cd86ea314637459
+FileChecksum: MD5: 5e4521e8dc1ed80b747ca052fa575211
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/main.c
+SPDXID: SPDXRef-item843655
+FileChecksum: SHA1: 2b71d78be67f1618236f44a550b42799041d6b7d
+FileChecksum: MD5: bb07db6579aabd029ae3b269ed7913f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-polkit.conf
+SPDXID: SPDXRef-item843656
+FileChecksum: SHA1: 722d5416f1578b8f94fa055a9955d8d1333a26b4
+FileChecksum: MD5: a622b673bfc7e322eaa8cfac379f3e71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/net.connman.vpn.service.in
+SPDXID: SPDXRef-item843657
+FileChecksum: SHA1: 363ff575c32b4d021db997c4e6e8c08c5b54803f
+FileChecksum: MD5: e5f9d267e21a479c4105bbf604d1bb37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-ipconfig.c
+SPDXID: SPDXRef-item843658
+FileChecksum: SHA1: dea2ee3362b3f6dc790a62914115a1d395466b10
+FileChecksum: MD5: 7e22f008edc0c4f3667da71f7174715d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn.h
+SPDXID: SPDXRef-item843659
+FileChecksum: SHA1: 62c1578be4bb36a54c5c4ae5fafe6321d79c3cd4
+FileChecksum: MD5: 7f38b350d1627e4d49c0161d91315c76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-rtnl.c
+SPDXID: SPDXRef-item843660
+FileChecksum: SHA1: f0bc27abc8947c5c2c2645418b5a9b6ba4567a3f
+FileChecksum: MD5: e3069ccffaeacfce2f4b43552d4853e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-provider.c
+SPDXID: SPDXRef-item843661
+FileChecksum: SHA1: 39ad66720b17e9d8a3ec3e0586bfb3770bdb0b94
+FileChecksum: MD5: 4face8d10a2773f3cd185bf267370839
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn.ver
+SPDXID: SPDXRef-item843662
+FileChecksum: SHA1: 8f1c1f8c93764d0e173a8cc97405295b3370d72c
+FileChecksum: MD5: 62c2b90bfa62759231daafac746d0a95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/vpn/vpn-agent.c
+SPDXID: SPDXRef-item843663
+FileChecksum: SHA1: 24ececee3bdaf5cd44cfe825fb683ea836a8ef33
+FileChecksum: MD5: a02f8f930a13ccc5c08fbb6c99e33e68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/applied-patches
+SPDXID: SPDXRef-item843665
+FileChecksum: SHA1: 2beec4c80df8e7c1e68a6a2b0937e171c6c7a59b
+FileChecksum: MD5: 11f4235c21113d9dba454f2b38b09ed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/.quilt_series
+SPDXID: SPDXRef-item843666
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/.version
+SPDXID: SPDXRef-item843667
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-disable-when-booting-over-nfs.patch/src/connman.service.in
+SPDXID: SPDXRef-item843670
+FileChecksum: SHA1: 1d54db9d60545e2493a8f5588f7d0c4232604006
+FileChecksum: MD5: f824172786b62997e20406a4fdbdccdb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-disable-when-booting-over-nfs.patch/.timestamp
+SPDXID: SPDXRef-item843671
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/.quilt_patches
+SPDXID: SPDXRef-item843672
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/no-version-scripts.patch/Makefile.am
+SPDXID: SPDXRef-item843674
+FileChecksum: SHA1: e2a3982f5543bc4eebf25c383a7ee98602b6355b
+FileChecksum: MD5: 57179f52b9adea814433cd630f1c13ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/no-version-scripts.patch/.timestamp
+SPDXID: SPDXRef-item843675
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-connman.service-stop-systemd-resolved-when-we-use-co.patch/src/connman.service.in
+SPDXID: SPDXRef-item843678
+FileChecksum: SHA1: 5841c5086b2e9371e8254aa8807bbfeb669ac407
+FileChecksum: MD5: b55d27b7ca6f4a2540758bda40d2ff0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-connman.service-stop-systemd-resolved-when-we-use-co.patch/.timestamp
+SPDXID: SPDXRef-item843679
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/ntp.c
+SPDXID: SPDXRef-item843682
+FileChecksum: SHA1: 39037da646f2e18fbc5024f94201656b3c992d07
+FileChecksum: MD5: 945427a282d5ca6ab9d878ef528c97c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/log.c
+SPDXID: SPDXRef-item843683
+FileChecksum: SHA1: e4b8c32b5b670433411c58efdd067cc1e4c8f53c
+FileChecksum: MD5: d3bb27be1404c8c8ade562ac25f9ef1c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/backtrace.c
+SPDXID: SPDXRef-item843684
+FileChecksum: SHA1: fc02909da4f933c8a9a3d0067adfba75c10b839f
+FileChecksum: MD5: 4b4677bbb1b1b7dc70e13abfb0b1d2e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/resolver.c
+SPDXID: SPDXRef-item843685
+FileChecksum: SHA1: 0ebf3d02d8607369842816359a751df62e1bef53
+FileChecksum: MD5: 02ead2ca0d4ca10e5528aaa8f96f0e0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/rfkill.c
+SPDXID: SPDXRef-item843686
+FileChecksum: SHA1: 8db781dd385d4fb675c532304a8d4023fbd1934c
+FileChecksum: MD5: 7851cee9d80930745296a72e8098f949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/iptables.c
+SPDXID: SPDXRef-item843687
+FileChecksum: SHA1: 72b725a15fefa98b16a665ea7a9abd6990229c48
+FileChecksum: MD5: 9db59de8edfcc78de4aab1203d6d0379
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/ippool.c
+SPDXID: SPDXRef-item843688
+FileChecksum: SHA1: b0a27b7b5b823e65dd958bbe7d6bb9fc1cfca74d
+FileChecksum: MD5: ecd1d103fdd5ba20ff6e9b7c3fdf2a05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/stats.c
+SPDXID: SPDXRef-item843689
+FileChecksum: SHA1: 0e30c3757088bb3f896dc664ebcc58e8d0c6bba9
+FileChecksum: MD5: ed892cd77423a59ca97d6b08ec53405a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/inet.c
+SPDXID: SPDXRef-item843690
+FileChecksum: SHA1: c7f95b0fc3be2955c2a24dd79228cb833d5c0018
+FileChecksum: MD5: 5be753402efdf80b183f180a5f66d49b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/timezone.c
+SPDXID: SPDXRef-item843691
+FileChecksum: SHA1: c419066e3a7c113a08a45c2a5d69f089d278b4ce
+FileChecksum: MD5: f917bbc9a3169792d778c858e9091d74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/src/tethering.c
+SPDXID: SPDXRef-item843692
+FileChecksum: SHA1: cc2c548bdd9940294fd7c099915b4315e13e1751
+FileChecksum: MD5: bf4e0a91b92a6c6bf74a130f170ff534
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/plugins/tist.c
+SPDXID: SPDXRef-item843694
+FileChecksum: SHA1: a56a25fb97cc309c19196f49051b0c481c827600
+FileChecksum: MD5: 86deb3368622a7c8db4dbddc12c5e9d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/plugins/wifi.c
+SPDXID: SPDXRef-item843695
+FileChecksum: SHA1: 0691780fe2fe25d98e5a44d7ed003288eacb38ab
+FileChecksum: MD5: 1748b8241181c8dbea0dfa3ec3221489
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/gdhcp/common.h
+SPDXID: SPDXRef-item843697
+FileChecksum: SHA1: a6aa241c3f2a49fcee3a171c8165b6f977f99c42
+FileChecksum: MD5: 5cb152919fa651250138d3aa8f266641
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/gdhcp/client.c
+SPDXID: SPDXRef-item843698
+FileChecksum: SHA1: 5e812f5e4a97c69614e12c6c384e2ea6347171d3
+FileChecksum: MD5: fde1a9cc1722e092b4316c3b4dce468f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/vpn/plugins/vpn.c
+SPDXID: SPDXRef-item843701
+FileChecksum: SHA1: 749756cf3ccf927ac8f9d35cc350b57134c2ed66
+FileChecksum: MD5: b2b6766c56c57d7354d5571ff4891216
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/.timestamp
+SPDXID: SPDXRef-item843702
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/configure.ac
+SPDXID: SPDXRef-item843703
+FileChecksum: SHA1: 9a98eca206c5d7abc9afe85164a09b768a77255a
+FileChecksum: MD5: 842dc6f21670c4cb4e15acb5a1ede253
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/tools/tap-test.c
+SPDXID: SPDXRef-item843705
+FileChecksum: SHA1: bc3ddad8e304902e76d16fe721bf1f70a9c8010f
+FileChecksum: MD5: 04668df34cb4c688c18e69e17081e8c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/tools/dhcp-test.c
+SPDXID: SPDXRef-item843706
+FileChecksum: SHA1: 292d1559e6c98dfbff8c51be0bd24c812b2fe645
+FileChecksum: MD5: 2cd1546d4e34a42af504d287736835fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/tools/dnsproxy-test.c
+SPDXID: SPDXRef-item843707
+FileChecksum: SHA1: d1e730fffe9044934e9d3ba51cce07322ad10ae8
+FileChecksum: MD5: c181437533baa59edba01b876e77996a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/tools/stats-tool.c
+SPDXID: SPDXRef-item843708
+FileChecksum: SHA1: 8dfd702a267440b1c3135a506153247627f5b8a2
+FileChecksum: MD5: b962525256fc519373c481d9d475b835
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/tools/private-network-test.c
+SPDXID: SPDXRef-item843709
+FileChecksum: SHA1: 53569ad6444c72f09ac5c53f1ea6ef20b5301a94
+FileChecksum: MD5: 34aea56106a3ae28fe540e10fa94ee24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/tools/wispr.c
+SPDXID: SPDXRef-item843710
+FileChecksum: SHA1: fbf3b2487e83a1df9701dd432c1c4797d6521f54
+FileChecksum: MD5: fd4b077327c929ae61b7c0c83f0e4990
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-Fix-various-issues-which-cause-problems-under-musl.patch/gweb/gresolv.c
+SPDXID: SPDXRef-item843712
+FileChecksum: SHA1: 83e664b509d58781db789f69bd96ee379f881564
+FileChecksum: MD5: d162da6574e206920da52a1935879df6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-plugin.h-Change-visibility-to-default-for-debug-symb.patch/.timestamp
+SPDXID: SPDXRef-item843714
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/.pc/0001-plugin.h-Change-visibility-to-default-for-debug-symb.patch/include/plugin.h
+SPDXID: SPDXRef-item843716
+FileChecksum: SHA1: 834db8027819e27b3bb180aef59367588c57c498
+FileChecksum: MD5: 75e6b84208ab10bbe4cc9179e22dcdc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/configure.ac
+SPDXID: SPDXRef-item843717
+FileChecksum: SHA1: 7536fa9861d97dfd64e97964c80102967e06b2f9
+FileChecksum: MD5: 1ef9fc17fdaad2eccabd36b548747cc4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/dbus-test.c
+SPDXID: SPDXRef-item843719
+FileChecksum: SHA1: c4263d9b2d2e23ec4bb4f3d6301f6cc45319e6d5
+FileChecksum: MD5: 313198c9b17fd57822b71d88830dfc8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/tap-test.c
+SPDXID: SPDXRef-item843720
+FileChecksum: SHA1: fd501d0c16e849531888244d64a93ad98c51dbe3
+FileChecksum: MD5: 4359e696b0b2346f155ed8cdc078d6a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/supplicant.c
+SPDXID: SPDXRef-item843721
+FileChecksum: SHA1: 103b76dadf2a8d9d5c8d4ac52751a4c636112944
+FileChecksum: MD5: 9692ef3b9a966bd092354d4e1e1290a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/manager-api.c
+SPDXID: SPDXRef-item843722
+FileChecksum: SHA1: bea47fd1d279227d6dd208dd9b9c1624af53451b
+FileChecksum: MD5: c9314608b56ab966cc38c6d5a654d42a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/netlink-test.c
+SPDXID: SPDXRef-item843723
+FileChecksum: SHA1: 427b4595701b64082a58a6a9e701a02b103c3980
+FileChecksum: MD5: b1ae1e7bc6c2f31e5d9f27d5eee67ddf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/dhcp-test.c
+SPDXID: SPDXRef-item843724
+FileChecksum: SHA1: 2282cce79c74c3ff1e6f556db5d7199954b83284
+FileChecksum: MD5: 0245baebc1dbad3507954148adda12df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/web-test.c
+SPDXID: SPDXRef-item843725
+FileChecksum: SHA1: 52c8643101070c5c111ae1eb35dd42d9c00556fa
+FileChecksum: MD5: b8ce7d7f037370d80dccb057576a90cd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/addr-test.c
+SPDXID: SPDXRef-item843726
+FileChecksum: SHA1: 9d7111839e60ccac1d2e5d47295d9783f7607c94
+FileChecksum: MD5: 20ccfd0505d59a2d4b93a5e0bcceaf66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/dnsproxy-test.c
+SPDXID: SPDXRef-item843727
+FileChecksum: SHA1: 3dc357ad41a659b6dcae84c71e022f516f0586b3
+FileChecksum: MD5: c9b5c72268eb8538e19e8934743235fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/polkit-test.c
+SPDXID: SPDXRef-item843728
+FileChecksum: SHA1: f5977bbbea9c4e46c32cb5e3b9f9dd5c78a87bd1
+FileChecksum: MD5: 690ef2a4af8b6816c30ac894d218a8f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/session-api.c
+SPDXID: SPDXRef-item843729
+FileChecksum: SHA1: 515f310585c847722c95436d8e7e97578af0ed0c
+FileChecksum: MD5: 6726bb0c901d2e679172c2e784837cc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/stats-tool.c
+SPDXID: SPDXRef-item843730
+FileChecksum: SHA1: 9f89da284807d24f0052ab510e3611fe45e3141d
+FileChecksum: MD5: aa3c1b8af026ed73fca4c306f0ddea94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/dhcp-server-test.c
+SPDXID: SPDXRef-item843731
+FileChecksum: SHA1: 53bf89849b6148aace14f7e58cf4a47768be6039
+FileChecksum: MD5: 7737d755286884abd0cedf33b88ccdbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/session-test.c
+SPDXID: SPDXRef-item843732
+FileChecksum: SHA1: 538c37531c34cf4b4e748f4c64f7c503f5dd0fc0
+FileChecksum: MD5: e539265dc62fff2b926ed06faf51a8fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/session-utils.c
+SPDXID: SPDXRef-item843733
+FileChecksum: SHA1: 28b61eeac5bf3b53ec3192d22e9c83aa2c859346
+FileChecksum: MD5: 398f2a85ed4ef12e17910896db47b841
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/private-network-test.c
+SPDXID: SPDXRef-item843734
+FileChecksum: SHA1: e2e09087831860dc964910ffda620d39a3463fcd
+FileChecksum: MD5: 887cfdc38b79e5a0899684da4fd7cba0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/supplicant-dbus.c
+SPDXID: SPDXRef-item843735
+FileChecksum: SHA1: de015d3727700462c9ca99f1b1ed8ac2c2f7dffa
+FileChecksum: MD5: 1c8e6c17151bf9aa09cc93c5fef3d0a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/wispr.c
+SPDXID: SPDXRef-item843736
+FileChecksum: SHA1: 2d7f91838486f26b22c8459868be2ec97e8d7ecb
+FileChecksum: MD5: b701e1cafe22d12f1799ee19e4859bee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/iptables-test.c
+SPDXID: SPDXRef-item843737
+FileChecksum: SHA1: 4267380c72abb91fca65cc78128bd352e5d39904
+FileChecksum: MD5: dd9d98ae8693c5071e68ce1c61891027
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/session-test.h
+SPDXID: SPDXRef-item843738
+FileChecksum: SHA1: 331d81cb798ba7e4c06de6f7bb6f85fc881630e5
+FileChecksum: MD5: d8eb2a00870d3d2aecdd9dfa2bd33d79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/supplicant-dbus.h
+SPDXID: SPDXRef-item843739
+FileChecksum: SHA1: 4837106f731fd6173b20972b65f44c8705858559
+FileChecksum: MD5: f50eb98fec592a964ed209812bd3b22d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/wpad-test.c
+SPDXID: SPDXRef-item843740
+FileChecksum: SHA1: 084fd0a6cf9e330f48bf8afb61b169a2db8efe39
+FileChecksum: MD5: fda6417279fa874c69d62d46d734fda3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/supplicant-test.c
+SPDXID: SPDXRef-item843741
+FileChecksum: SHA1: 1beadd2efd55cfcd592f3a0b770b39aab2a009fc
+FileChecksum: MD5: 36d4999f05db50bfcfb04400be785b50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/supplicant.h
+SPDXID: SPDXRef-item843742
+FileChecksum: SHA1: 86bfaa1f393815aaad4160b6458094b1c93b5327
+FileChecksum: MD5: 828cb0024839bc7841717f6dd141ac47
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/resolv-test.c
+SPDXID: SPDXRef-item843743
+FileChecksum: SHA1: 7ef2f724b22d0dcf5868a7dfa3c37b1ab3a4bdf3
+FileChecksum: MD5: 45280a3aeea92da9eae00c2382dc8bb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/tools/iptables-unit.c
+SPDXID: SPDXRef-item843744
+FileChecksum: SHA1: 105de7b57d0c257efe9e12aff9de2ec9b1c2acc5
+FileChecksum: MD5: fa8ec828fb38603e07a027adc10f7b5a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gsupplicant/supplicant.c
+SPDXID: SPDXRef-item843746
+FileChecksum: SHA1: 8146de68c08e73bc812ae14e79076ecbc3dc43d1
+FileChecksum: MD5: 33d2e63bcb7cf4ee646e06473fadc405
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gsupplicant/dbus.h
+SPDXID: SPDXRef-item843747
+FileChecksum: SHA1: 30a4494d6e384ef3cc974977ba664f8f67083778
+FileChecksum: MD5: 9ecb4d0b6c215ce7a4da4d9df6bb2fbe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gsupplicant/gsupplicant.h
+SPDXID: SPDXRef-item843748
+FileChecksum: SHA1: 864cf442754ec882b92edb32541eae7a5c30d2f9
+FileChecksum: MD5: 0f91496dab88cdf2a6b5ba1900306bde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gsupplicant/dbus.c
+SPDXID: SPDXRef-item843749
+FileChecksum: SHA1: b7f71819b9962acb2ee2d6f23e6216f1ec94a441
+FileChecksum: MD5: 8a5ec7de19566077cc9bdd163ee53c94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/test-driver
+SPDXID: SPDXRef-item843750
+FileChecksum: SHA1: 600352bb662a6f2b00834f77b7bf465daf46a9bf
+FileChecksum: MD5: 00f8b556839965233eb3912d24620a2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/INSTALL
+SPDXID: SPDXRef-item843751
+FileChecksum: SHA1: aa7aadc343319437b8cf0a71345506d2d3e8cc43
+FileChecksum: MD5: 82f1c865a4e12f5ed1d744473c878a29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/Makefile.plugins
+SPDXID: SPDXRef-item843752
+FileChecksum: SHA1: 14acdced9bd570959eb8c104c1a3f9bb0dc4912d
+FileChecksum: MD5: 84b6cae0c5d21b07c2bc2e914a454db6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/patches/series
+SPDXID: SPDXRef-item843755
+FileChecksum: SHA1: 40906add4dd0125333ab57a8c74ca56a311a430b
+FileChecksum: MD5: 74dcfa45ddab06c0572d37f5887bc93d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/config.guess
+SPDXID: SPDXRef-item843760
+FileChecksum: SHA1: 3646b015d9a91423feaf2bac86fd2df7ab3564f6
+FileChecksum: MD5: 0fb81517303511f05a01b14f41cec2cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gweb/gweb.h
+SPDXID: SPDXRef-item843762
+FileChecksum: SHA1: df1dbef1544c2298dd98e2310dc98ee643cf0705
+FileChecksum: MD5: 437b8bacc4951d4e79649b3b3b188079
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gweb/gresolv.h
+SPDXID: SPDXRef-item843763
+FileChecksum: SHA1: 7e70a20b45553c78816602fc47495f9065d2a224
+FileChecksum: MD5: e38c69c6b6a5cd2a7ab050ffdf34115b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gweb/giognutls.h
+SPDXID: SPDXRef-item843764
+FileChecksum: SHA1: ef8a843a423e6c851933668794387ec4c1f602fc
+FileChecksum: MD5: af1cdbac98bf7eead55fc9b1c66f77f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gweb/gionotls.c
+SPDXID: SPDXRef-item843765
+FileChecksum: SHA1: 74efd9a47df04fadf3f8b01ad52f0033154420c4
+FileChecksum: MD5: a7a4431c06646fe9eec4373411830128
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gweb/gresolv.c
+SPDXID: SPDXRef-item843766
+FileChecksum: SHA1: 024a10e59c9bb2a3dca3476a17c52d7778e3100b
+FileChecksum: MD5: 8a47564ad2c811daa9142cdfb45fe84f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gweb/giognutls.c
+SPDXID: SPDXRef-item843767
+FileChecksum: SHA1: 74f2cf2a1d0b91308a604f932aa641f1802f2175
+FileChecksum: MD5: f0b6240acda64c6207b75093d046c97b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/gweb/gweb.c
+SPDXID: SPDXRef-item843768
+FileChecksum: SHA1: 25054ec44fb95434a4341afd73d6061990e60e34
+FileChecksum: MD5: 5b87cb9e68d689796b917d8b18d9d6e7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/rtnl.h
+SPDXID: SPDXRef-item843770
+FileChecksum: SHA1: 1d73271e8b25e4d6f548aeb7b7b4096dbdf2b4c9
+FileChecksum: MD5: b9b6beec54e3726319d82bd82b6710a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/version.h.in
+SPDXID: SPDXRef-item843771
+FileChecksum: SHA1: 8011984857cae1e4b9b18445caf45033b01b44e5
+FileChecksum: MD5: 36fd184eaa4665c663b53f22b4feecae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/storage.h
+SPDXID: SPDXRef-item843772
+FileChecksum: SHA1: 79950a576122cb50a679dbad271fb019cf6adfde
+FileChecksum: MD5: 2f317b683d2303cbb8176f43e144a9f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/network.h
+SPDXID: SPDXRef-item843773
+FileChecksum: SHA1: f7c2016b3c29eeb9e469b0d6b02daf54d516d7ac
+FileChecksum: MD5: 422da618e6f9eb53b6e4bb8bfb5dc343
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/dbus.h
+SPDXID: SPDXRef-item843774
+FileChecksum: SHA1: 811d4412369f95908eb339a4fa3b931cada735ac
+FileChecksum: MD5: 3b4e395c228fba1dd938197309368e3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/notifier.h
+SPDXID: SPDXRef-item843775
+FileChecksum: SHA1: d518eddce825d15e3b22ffbc7af72172c6233024
+FileChecksum: MD5: 1faad6b4112faa0b4a3278577300d6d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/task.h
+SPDXID: SPDXRef-item843776
+FileChecksum: SHA1: 3a88ddeed1ae73f1824affe67b9e08add841222a
+FileChecksum: MD5: ccda1792ea7ad2df964964da4eb25e48
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/provision.h
+SPDXID: SPDXRef-item843777
+FileChecksum: SHA1: ae81d9b7d3d070fa10441b98df8ce889cc0cb28a
+FileChecksum: MD5: c2c72d4e400d89335f3ab537e5e04eef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/setting.h
+SPDXID: SPDXRef-item843778
+FileChecksum: SHA1: c856fa143f3f8d7a3eb44b87db681f80ab665af3
+FileChecksum: MD5: e4f52fef04696bcf0ff2bd0288242380
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/vpn-dbus.h
+SPDXID: SPDXRef-item843779
+FileChecksum: SHA1: 567a2cee1c8ed8b0e1ff0c8edd985447fb6c9019
+FileChecksum: MD5: e0d72f1a5076eb46ca08c061bdbc489f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/log.h
+SPDXID: SPDXRef-item843780
+FileChecksum: SHA1: c9b2af6a1a3120927c5f817fc2fd6fe32b76f6df
+FileChecksum: MD5: 1f7de55cce13641cfb342e7801949c93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/plugin.h
+SPDXID: SPDXRef-item843781
+FileChecksum: SHA1: f43dad41923166b81dd5d4163f0ffd801f3c26c4
+FileChecksum: MD5: 0a9dabdd725669ac405ea8635672ed40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/inet.h
+SPDXID: SPDXRef-item843782
+FileChecksum: SHA1: 986454fa1ac996097fb8339cf1a6265bf817c99e
+FileChecksum: MD5: 44063e20cf13d0b081830d68e1dc2245
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/provider.h
+SPDXID: SPDXRef-item843783
+FileChecksum: SHA1: 6878cb1403933498e2c09beb1f7e9bee89769f13
+FileChecksum: MD5: efb7ef869e99cf7af375690ccddd0483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/timeserver.h
+SPDXID: SPDXRef-item843784
+FileChecksum: SHA1: 3f714c0bb65575485b4b625e5252a832c8187a4c
+FileChecksum: MD5: 9fa39508d1a0e4106b789de29d72f364
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/option.h
+SPDXID: SPDXRef-item843785
+FileChecksum: SHA1: 8e0c976557571345f50a72cd19d43c0a7cabe378
+FileChecksum: MD5: 04e3899d32cc9cf541da20cf82419b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/ipconfig.h
+SPDXID: SPDXRef-item843786
+FileChecksum: SHA1: a06c6b95ff563ba4aed72573ac1bdf4b0bba1abd
+FileChecksum: MD5: 91e57e6e8d49197746025b3aa939246c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/agent.h
+SPDXID: SPDXRef-item843787
+FileChecksum: SHA1: 6838418a81238379cc6a2cbaf08e9a7abbb74c0b
+FileChecksum: MD5: dba349ad684248cd56035136e88d8674
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/session.h
+SPDXID: SPDXRef-item843788
+FileChecksum: SHA1: 6e2bca2cd59afedf4f9b9057bbca9f7c3e138480
+FileChecksum: MD5: e41fe767e1c90bf5b1d3da64cf4eed0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/resolver.h
+SPDXID: SPDXRef-item843789
+FileChecksum: SHA1: 750dc00e31897a35cef683a263bda3300bafe695
+FileChecksum: MD5: b00d46a7d0c6d6e216c8ed82b4431466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/device.h
+SPDXID: SPDXRef-item843790
+FileChecksum: SHA1: 3552988c7a639bb4720b528c12f9f98f7146e87f
+FileChecksum: MD5: 746efe75d71aedcc0c65d851c4baf338
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/proxy.h
+SPDXID: SPDXRef-item843791
+FileChecksum: SHA1: 8ad2f8379f1fcf7b126b90fe7a84fefb2fc5a2a8
+FileChecksum: MD5: f221fd20bc4a06a44cc9b8b23faedb26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/service.h
+SPDXID: SPDXRef-item843792
+FileChecksum: SHA1: 3f7cb802d9fb6381708ce15c37c86fb30a9a5329
+FileChecksum: MD5: b54567d2a410a759b04afd51e8ac3f70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/peer.h
+SPDXID: SPDXRef-item843793
+FileChecksum: SHA1: 56a6f37d4a57f7f98bb503a5634ef79b91ab1712
+FileChecksum: MD5: 8a52b3ac71e351c3e93b9cabf5fe6981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/utsname.h
+SPDXID: SPDXRef-item843794
+FileChecksum: SHA1: 68b87fb78e82f0e4b55a7cdd39bec9412d562ae2
+FileChecksum: MD5: a4ef26f784b36199846daec433c31b1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/machine.h
+SPDXID: SPDXRef-item843795
+FileChecksum: SHA1: c5c697728139c3eb87590bf7031b957402fcd7d6
+FileChecksum: MD5: d0756c061e61de112a66bae003e3ae2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/ipaddress.h
+SPDXID: SPDXRef-item843796
+FileChecksum: SHA1: 4176f294961736d9d2cb3843e1ba213d8b15d5b1
+FileChecksum: MD5: 1f5265433b2998b1fd845f51a92281be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/technology.h
+SPDXID: SPDXRef-item843797
+FileChecksum: SHA1: e44f6f3d15e9865423ce4401a3b40c784ffa215a
+FileChecksum: MD5: 72f99c0b287c2f1293d52dea314e1f41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/backtrace.h
+SPDXID: SPDXRef-item843798
+FileChecksum: SHA1: 6d061d2910b9640ae4629c9fbb0c8107dfa4546c
+FileChecksum: MD5: b3cac0cb9dbeecedcf09c801afe3acf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/include/inotify.h
+SPDXID: SPDXRef-item843799
+FileChecksum: SHA1: e93a2f137d302c63cb035f21022d4fc675443374
+FileChecksum: MD5: a94e468532077b860ca8506b0eae4f2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/depcomp
+SPDXID: SPDXRef-item843800
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman-1.36/ChangeLog
+SPDXID: SPDXRef-item843801
+FileChecksum: SHA1: 8b18fb1e42427f8419d68315418e6ea00a6f7128
+FileChecksum: MD5: 2015c20803e5cd45978cfa9c40207e9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/no-version-scripts.patch
+SPDXID: SPDXRef-item843802
+FileChecksum: SHA1: d1c2512c4b42306e6039ec0c5ce1c5975317489e
+FileChecksum: MD5: 1d4869888049fa8508cda3277c655fe9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-connman.service-stop-systemd-resolved-when-we-use-co.patch
+SPDXID: SPDXRef-item843803
+FileChecksum: SHA1: 50633843f5f524eaf28047db1cc91f933e6a294d
+FileChecksum: MD5: 5cdcb60decfc2fd25971ddb00eb2f608
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-Fix-various-issues-which-cause-problems-under-musl.patch
+SPDXID: SPDXRef-item843804
+FileChecksum: SHA1: 999ea4b55bcfcb4b92604a8b5f54d862a620b5f4
+FileChecksum: MD5: cb24ed4cdc71254498355b4f23297531
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/connman.service.conf
+SPDXID: SPDXRef-item843805
+FileChecksum: SHA1: 38f8cf37baf5e2c319bb8daf216e623779bfe65f
+FileChecksum: MD5: 0c8d6fc9aee1044d134175a5d9175094
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-plugin.h-Change-visibility-to-default-for-debug-symb.patch
+SPDXID: SPDXRef-item843806
+FileChecksum: SHA1: d4bd6c4e2c619c08037f38ff29eae4c08aad1015
+FileChecksum: MD5: b48e2bb9549396dfba62d4730d478ba4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

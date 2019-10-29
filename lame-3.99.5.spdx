@@ -1,0 +1,3760 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_lame-3.99.5-r1-patched.tar.gz_1571459035.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:23:55Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: lame
+PackageVersion: 3.99.5
+PackageFileName: lame-3.99.5-r1-patched.tar.gz
+SPDXID: SPDXRef-upload395
+PackageDownloadLocation: http://downloads.sourceforge.net/lame/lame-3.99.5.tar.gz
+PackageHomePage: http://lame.sourceforge.net/
+PackageSummary: <text>High quality MP3 audio encoder</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>lame version 3.99.5</text>
+PackageChecksum: SHA1: 81c1af41d7554729a6b127bbdb0e7c169e426a18
+PackageChecksum: MD5: b34cb26f29d62a21fc782f401c1db08c
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload395
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/lame.spec.in
+SPDXID: SPDXRef-item937338
+FileChecksum: SHA1: ec1aedfc57f148b8b4998b131463e8231e64170b
+FileChecksum: MD5: c08b5612c004996404f0b08bda6c9ed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/arch_sse2.vsprops
+SPDXID: SPDXRef-item937340
+FileChecksum: SHA1: 4d798e255924db18838bf273fdde0ba1ac723913
+FileChecksum: MD5: 16780c1d22fc0aede9795801a9179fdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_nasm.rules
+SPDXID: SPDXRef-item937341
+FileChecksum: SHA1: 3f1db33d47217b01613fdf991d9ba659220df533
+FileChecksum: MD5: 444255567cb5232cace08ebd3258b5bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_acm_tinyxml.vcproj
+SPDXID: SPDXRef-item937342
+FileChecksum: SHA1: 5c24b8545adc592ea256b2d33f3beaf20e4131b1
+FileChecksum: MD5: 658f22897e9b5886c7ac7a3147974790
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_libmp3lame_dll.vcproj
+SPDXID: SPDXRef-item937343
+FileChecksum: SHA1: 3f653172c57f65e915b553215f8efea4cbb877ce
+FileChecksum: MD5: aec48f1ba56522e44c890f28be5a7828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_mp3x.vcproj
+SPDXID: SPDXRef-item937344
+FileChecksum: SHA1: 6b4b75e5af5b44ef947b8c44395cd244361c756b
+FileChecksum: MD5: b16ef5a6c01631ac4a5537b12a24307c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/arch_x87.vsprops
+SPDXID: SPDXRef-item937345
+FileChecksum: SHA1: 7e24087580e15973675201a9f0f71da999de98d7
+FileChecksum: MD5: 8382c25029d41ecfb99f26bf3e051415
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/Makefile.in
+SPDXID: SPDXRef-item937346
+FileChecksum: SHA1: 887a5a25437eb7de68c644e8960e194cd3cd5d84
+FileChecksum: MD5: 92bd61aa42c95c19ae1ea87c1974bcd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_dshow.vcproj
+SPDXID: SPDXRef-item937347
+FileChecksum: SHA1: a93b1fabc96ed7bcb2da3db1bc402f383e60ed06
+FileChecksum: MD5: 80df667fcdeab6337a0e98640dc35aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_libmp3lame.vcproj
+SPDXID: SPDXRef-item937348
+FileChecksum: SHA1: d89c6c03ef84ef3a3a22b0f371eae1970f675411
+FileChecksum: MD5: f8e1afddce319e46b7dc30c25c6127ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame.sln
+SPDXID: SPDXRef-item937349
+FileChecksum: SHA1: a8d39794f235c9a566b5a0ec12f345f9c48fa4ea
+FileChecksum: MD5: 2c5633b1999ab14cd1eb66bbe301bdd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/Makefile.am
+SPDXID: SPDXRef-item937350
+FileChecksum: SHA1: 23e88fca36248d71de15c7e98655bf4540885a8d
+FileChecksum: MD5: 9136d1443e39a188481fd993a4daef66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_mpglib.vcproj
+SPDXID: SPDXRef-item937351
+FileChecksum: SHA1: bdfc1725d9e7ab7052cb906fb83079a678b25b72
+FileChecksum: MD5: ea68416d7b22ce033a4ea0f806ba8a85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_mp3rtp.vcproj
+SPDXID: SPDXRef-item937352
+FileChecksum: SHA1: cf0c01723701792ee79e7255ebcbf426f50a07ce
+FileChecksum: MD5: b3df4f0fbbd61711fe24c60b983055d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_dll.vcproj
+SPDXID: SPDXRef-item937353
+FileChecksum: SHA1: 7024b9635b8d4e39e343c17cd434b607322f6686
+FileChecksum: MD5: 45c931057610573fa321629a07d74900
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_acm_adbg.vcproj
+SPDXID: SPDXRef-item937354
+FileChecksum: SHA1: ccce8591d530876aaf67a2f61cd147482dbe4ea8
+FileChecksum: MD5: d273e2e5e080f3492ad7c2a9b88bdba1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_test.vcproj
+SPDXID: SPDXRef-item937355
+FileChecksum: SHA1: 1c45b5e83567c277f1534167af208edf172e9f98
+FileChecksum: MD5: 5ec4f99494daa71d87856b349b57af04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/arch_nasm.vsprops
+SPDXID: SPDXRef-item937356
+FileChecksum: SHA1: eeafb544f2484ed659dc52b424f2b28aac0cf38a
+FileChecksum: MD5: 57972e2ea966b1d77503402471eaedc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_dll_example.vcproj
+SPDXID: SPDXRef-item937357
+FileChecksum: SHA1: c4c4b523f9df976682bd5262e6c234c9fb5b3c2e
+FileChecksum: MD5: 6198e00a1a96f0a415d9b8210d9ef456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_acm.vcproj
+SPDXID: SPDXRef-item937358
+FileChecksum: SHA1: d9ded391d11771d9a29a57e4be816bd49d079ce3
+FileChecksum: MD5: c907e8eabb32c028ad3d1e87640fee23
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_config.vsprops
+SPDXID: SPDXRef-item937359
+FileChecksum: SHA1: a33368415dbe37795a572bca9c96d8d912e935cb
+FileChecksum: MD5: f8e988fad51f002c45d2f4a07ae3041f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_lame.vcproj
+SPDXID: SPDXRef-item937360
+FileChecksum: SHA1: 0e4aff2ed0a287803647958dcffb0438acd01484
+FileChecksum: MD5: 3879c1d313e59a4f4395a42fe41dc912
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/vc_solution/vc9_lame_clients.sln
+SPDXID: SPDXRef-item937361
+FileChecksum: SHA1: ddf1c84b49623d8dbc51d321123986b959cb787b
+FileChecksum: MD5: 4c002954606af10cc9cfd47b3c6df028
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/USAGE
+SPDXID: SPDXRef-item937362
+FileChecksum: SHA1: 8dabfe3a285a8463e7f840a4fe10a36c66d1a7d3
+FileChecksum: MD5: 9c75052187555f2821bea6ace1d950f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/acinclude.m4
+SPDXID: SPDXRef-item937363
+FileChecksum: SHA1: 22fa1f7cfda9b8dacd0b5211f33e62c0a5179962
+FileChecksum: MD5: 84a2e0f15a1ec86f240feeeb51950877
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/elogo.ico
+SPDXID: SPDXRef-item937365
+FileChecksum: SHA1: b66ff314b5b86cf54631b05535f2669f2cd28977
+FileChecksum: MD5: 3d3417dd0a70d9d6c3a02c819b728bd1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/resource.h
+SPDXID: SPDXRef-item937366
+FileChecksum: SHA1: 23a7819cea2d9ddb4c13fec0d33635a89091ef1e
+FileChecksum: MD5: 9f1706acb01226542559ab02eccea894
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/aboutprp.cpp
+SPDXID: SPDXRef-item937367
+FileChecksum: SHA1: 4c919848c1df3ee3bc182cccd6ff571a27e5bdf3
+FileChecksum: MD5: 13642df52c15a6d9cb9fefac7d004287
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/iaudioprops.h
+SPDXID: SPDXRef-item937368
+FileChecksum: SHA1: b75f8798448da58f224707b1d82a0e049f924496
+FileChecksum: MD5: ce82ea64c6a813cf2d48e10223faa5d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/Mpegac.cpp
+SPDXID: SPDXRef-item937369
+FileChecksum: SHA1: c9d966e5f022ec08839b326dda56da671bd1ba30
+FileChecksum: MD5: 18b081882b0c358c04fc91dd064a1232
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/PropPage.cpp
+SPDXID: SPDXRef-item937370
+FileChecksum: SHA1: b98f1c40fa755de821f18930e3790e3d827876c3
+FileChecksum: MD5: c0fe06bc3c8d221b8a6264ce95305d68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/Mpegac.h
+SPDXID: SPDXRef-item937371
+FileChecksum: SHA1: ce745752687d4290bee891baed25cb57949ff286
+FileChecksum: MD5: ab84ac96abfdabbd19b5a14d36a057c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/Makefile.in
+SPDXID: SPDXRef-item937372
+FileChecksum: SHA1: 2cf57aa346a81867754274688ff6abab54be69dc
+FileChecksum: MD5: 0e1c39f397d70849648edb9e6b5abaff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/REG.CPP
+SPDXID: SPDXRef-item937373
+FileChecksum: SHA1: 514ae177cedea872bd5cba9e622157a7245f627a
+FileChecksum: MD5: c370bb593df8213a7b706a861b779052
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/PropPage.h
+SPDXID: SPDXRef-item937374
+FileChecksum: SHA1: 139382e010f7f7565e8a62b906ec7efcd6283da9
+FileChecksum: MD5: 06d4687f676eecaac4a5391a7231474b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/PropPage_adv.h
+SPDXID: SPDXRef-item937375
+FileChecksum: SHA1: adb44e4f6b4dc81dbf64a4dbcf46fe05187764f5
+FileChecksum: MD5: 95d442b2efd03075bcea830c8c757213
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/Encoder.h
+SPDXID: SPDXRef-item937376
+FileChecksum: SHA1: 49fd902ce78d46e2624e8229c852df7f92c76490
+FileChecksum: MD5: 662887428046439e889f97ca94da1472
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/Property.rc
+SPDXID: SPDXRef-item937377
+FileChecksum: SHA1: cccf31de5c4ac226b2f0fdb3824b6c64dd0a893d
+FileChecksum: MD5: df9850ff75ee9b0b3da57ab95419b73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/Encoder.cpp
+SPDXID: SPDXRef-item937378
+FileChecksum: SHA1: c64d0338f60e895ea840afdc392e9f565a98a8c8
+FileChecksum: MD5: 7f788904c2762c3aa70f239688ec0a64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/Makefile.am
+SPDXID: SPDXRef-item937379
+FileChecksum: SHA1: b527a522a8791c032a4e72f90a4ae738e10089c5
+FileChecksum: MD5: 5a283f4e5a2f650e41bf2a003007ef0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/aboutprp.h
+SPDXID: SPDXRef-item937380
+FileChecksum: SHA1: 36464ac18d280ba11833e5137bca2ac86a5012e5
+FileChecksum: MD5: 89414e16f05f80e8f6a4068e75905345
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/PropPage_adv.cpp
+SPDXID: SPDXRef-item937381
+FileChecksum: SHA1: 05eb232afedcf44549422848abab3aee7a269771
+FileChecksum: MD5: 58ffd407614505d499606c688664692c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/README
+SPDXID: SPDXRef-item937382
+FileChecksum: SHA1: cfe06cb898b404478ceb94801db9673903af9503
+FileChecksum: MD5: 6bc5604bb3105fe3462b14d8dbd3bead
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/REG.H
+SPDXID: SPDXRef-item937383
+FileChecksum: SHA1: d504dc19938780fa1e9608510e5bc931c8c219a3
+FileChecksum: MD5: 1d882a8f318f738a581e17510c77fc65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/UIDS.H
+SPDXID: SPDXRef-item937384
+FileChecksum: SHA1: de87d323ed745e6ee3afa3380517de724bc94852
+FileChecksum: MD5: 06704f205dea679a8a11a31eb65a17b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/dshow/Mpegac.def
+SPDXID: SPDXRef-item937385
+FileChecksum: SHA1: 8ff482451c2c593585e57f213b4e2a77e15179e0
+FileChecksum: MD5: 8242bc3fa5c415e012f2c145b116f2c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/install-sh
+SPDXID: SPDXRef-item937386
+FileChecksum: SHA1: d30e962a3de2da09ab0a9a7979bee787922464a1
+FileChecksum: MD5: 0afce91a3daa1fdc32ee36370c1129dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/mp3rtp.c
+SPDXID: SPDXRef-item937388
+FileChecksum: SHA1: fe22d9555e3b922228e3dc1ce6720aa5933de8de
+FileChecksum: MD5: ca637b17ba18e2bb64f787c4b384e598
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/gtkanal.h
+SPDXID: SPDXRef-item937389
+FileChecksum: SHA1: b11cacf7e6000a84b760b17913260491f3a1f7dd
+FileChecksum: MD5: 7b99791ecbcf4300231402f33af40993
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/console.c
+SPDXID: SPDXRef-item937390
+FileChecksum: SHA1: 2bbffd48876374165cd2b6975c8bd6e1e8ae4703
+FileChecksum: MD5: 6b2a0e7776ad56008fb917dbccc1eade
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/get_audio.c
+SPDXID: SPDXRef-item937391
+FileChecksum: SHA1: 1658c4f853b9b777535ae1d34f7ff3d75a63e61a
+FileChecksum: MD5: 1cc7bc9f6011cf0e47abf9bcd994b81b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/get_audio.h
+SPDXID: SPDXRef-item937392
+FileChecksum: SHA1: ba515c2676e0375de5c2e75da723d41cbcafd391
+FileChecksum: MD5: 9b8fc2e11b7bf4e7d43f63dfcae21a26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/Makefile.in
+SPDXID: SPDXRef-item937393
+FileChecksum: SHA1: f1bc366b226b727ec14e4b9a3fecd98219c6f6f5
+FileChecksum: MD5: 7445a69d022db856bbf722ea76317933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/gtkanal.c
+SPDXID: SPDXRef-item937394
+FileChecksum: SHA1: ab47ec38ffdd82856f8bef767759710d44dfaef0
+FileChecksum: MD5: 0ff185dc1e6c97f498caa6ea9acf45f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/lametime.h
+SPDXID: SPDXRef-item937395
+FileChecksum: SHA1: e8e41db6c4017c7a46b093691265e09d5cf4de0d
+FileChecksum: MD5: 8a9d5f74ccf1347e9ab26b97462779f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/gpkplotting.c
+SPDXID: SPDXRef-item937396
+FileChecksum: SHA1: e5a9bb65fb5db3c4d3ddfab6e36b525a9605f365
+FileChecksum: MD5: 556cfda45f73e1791910f3a3908ae706
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/rtp.c
+SPDXID: SPDXRef-item937397
+FileChecksum: SHA1: e254409965351e95d345b3c9af4935d5d6005e30
+FileChecksum: MD5: 444955920c6afdd1c8c513a6138f33ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/Makefile.am
+SPDXID: SPDXRef-item937398
+FileChecksum: SHA1: f0bf50b5317bd0f534f9919802d567c2739e0940
+FileChecksum: MD5: 461aa7be114672f6a169cc87a12e50b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/brhist.h
+SPDXID: SPDXRef-item937399
+FileChecksum: SHA1: cdb9403895126f274e0dcf820ef216fb3494ac58
+FileChecksum: MD5: b24bfcdaf3e245206aff721124b773fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/gpkplotting.h
+SPDXID: SPDXRef-item937400
+FileChecksum: SHA1: 14df5dbb73bb7f6614581777cc12f772a86d2408
+FileChecksum: MD5: 618bb92b5f4b37e8b394d22613c0d8c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/main.c
+SPDXID: SPDXRef-item937401
+FileChecksum: SHA1: 0c07d0a77bedebe7bab4b16a0a5c420a4acf7315
+FileChecksum: MD5: 4ca06d9e3bba0ef2ed5fb9f0a5f46423
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/brhist.c
+SPDXID: SPDXRef-item937402
+FileChecksum: SHA1: 4eedbced01c89eee122f96c219d7f60a52971b78
+FileChecksum: MD5: 4ef6ea7168465050874e0c34cd945263
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/parse.h
+SPDXID: SPDXRef-item937403
+FileChecksum: SHA1: c5f15fd84461cb531bf7054b50da2eec068dfd08
+FileChecksum: MD5: 8fe2717fe483e1d07c4d13bfa6c9c537
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/console.h
+SPDXID: SPDXRef-item937404
+FileChecksum: SHA1: ddc60216656802da4d3e876d8ed0514b60f34525
+FileChecksum: MD5: 83e40111282ab0c1950b2718fb7de746
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/lame_main.c
+SPDXID: SPDXRef-item937405
+FileChecksum: SHA1: a7358aa400ce610ce28c0537ce0e143f8ad2bf76
+FileChecksum: MD5: 78e1d3cc8ff341209dfc3136bbaadfa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/timestatus.c
+SPDXID: SPDXRef-item937406
+FileChecksum: SHA1: 9db5a25739f4eb87268f43dd0b32e6ded63fed12
+FileChecksum: MD5: 271f92af7b624d4e114ce73e19568545
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/mp3x.c
+SPDXID: SPDXRef-item937407
+FileChecksum: SHA1: fc85b147f953f1b355b1ca00d87781a2289d39a9
+FileChecksum: MD5: b10eaa88c135661ea7ba067d339c374c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/amiga_mpega.c
+SPDXID: SPDXRef-item937408
+FileChecksum: SHA1: 08743b70b940193653b20dd487f7140c4ead60bd
+FileChecksum: MD5: 394a04616a7e3b3ddb6ac8d64589c0dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/main.h
+SPDXID: SPDXRef-item937409
+FileChecksum: SHA1: e9b0fdba5b7d8f5fe7f0121b254a550e7a11affa
+FileChecksum: MD5: a7af00f0ceedc86d281eb348b0a6aa14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/parse.c
+SPDXID: SPDXRef-item937410
+FileChecksum: SHA1: ca644803bdb48d880a75cc4f87a0de596d363a8b
+FileChecksum: MD5: a97525f3893b6f296028e68f00fae5e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/lametime.c
+SPDXID: SPDXRef-item937411
+FileChecksum: SHA1: e02d63b335118f359c023b20f8021e9aa5eccd22
+FileChecksum: MD5: ed8635715f7dac7c597ebd3953a8571b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/rtp.h
+SPDXID: SPDXRef-item937412
+FileChecksum: SHA1: 7dd9804c607c1eebb1c313acc34109fbc2d5a97b
+FileChecksum: MD5: 91d64da301861e51b9a3a8d4642662ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/timestatus.h
+SPDXID: SPDXRef-item937413
+FileChecksum: SHA1: 7d00d969bf286ed8337dd28e2fbf3e2901d49f7c
+FileChecksum: MD5: e6ff92679c6e70018a90ac6f75d2b728
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/frontend/depcomp
+SPDXID: SPDXRef-item937414
+FileChecksum: SHA1: 6749a6b5ab2b3edd45d38ac560759c641cd50200
+FileChecksum: MD5: 21504de31981a67b5b93b265029d1865
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/LAME.mcp
+SPDXID: SPDXRef-item937416
+FileChecksum: SHA1: 6cea80fa3a3a7b0f866e12b74bdc5918b22cbf40
+FileChecksum: MD5: 0b42159d1ddfc2cbbab4e28d1e628118
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/LAME_Carbon_Debug.pch
+SPDXID: SPDXRef-item937417
+FileChecksum: SHA1: b336550e8d3b8bd9b9058dab0919e728071bb890
+FileChecksum: MD5: 6f8a9f3cd4713288a0d930714c6be3d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/Precompile_Common.h
+SPDXID: SPDXRef-item937418
+FileChecksum: SHA1: c5c7aa12f8bf2d77cf41e92b0d4c61a6000d9f40
+FileChecksum: MD5: b91fb804daa00f006f02dce0fea48e41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/MacDLLMain.c
+SPDXID: SPDXRef-item937419
+FileChecksum: SHA1: fa51124745f29d292a5e4f25a2786ec63be2bfdd
+FileChecksum: MD5: 50474baabc6cedcd16fc98453b0eaada
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/Makefile.in
+SPDXID: SPDXRef-item937420
+FileChecksum: SHA1: 27fdbbd3e222b824bf98d713999d2b63e2aa538b
+FileChecksum: MD5: 096c6d7fc9926e663acff41fef070643
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/LAME_Classic_Final.pch
+SPDXID: SPDXRef-item937421
+FileChecksum: SHA1: 7d687cf73f6815e3bf06a297b138f27ab4592b25
+FileChecksum: MD5: b797bb049940594a15561f0ad5a67ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/LAME_Classic_Debug.pch
+SPDXID: SPDXRef-item937422
+FileChecksum: SHA1: 597835c703dfeb15556a7b58afa9c6d38fe69e10
+FileChecksum: MD5: b08bb8560c5ffbf862d3fed7f595e75a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/.DS_Store
+SPDXID: SPDXRef-item937423
+FileChecksum: SHA1: 544778b96e640021c9ec51a15bb8c31b3de2caab
+FileChecksum: MD5: e49e6fa735e7ea7906746965da370031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/Makefile.am
+SPDXID: SPDXRef-item937424
+FileChecksum: SHA1: 9f24ae5080ea799d6f2a327b0d0b5a459e82163e
+FileChecksum: MD5: 4766c36004fc9fcb2be7d01a0767d6c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mac/LAME_Carbon_Final.pch
+SPDXID: SPDXRef-item937425
+FileChecksum: SHA1: 7fbd2dd7688e7a32641e6ab79c06c6d15ccf9c31
+FileChecksum: MD5: 375649d3f16c71cd77e39fed38f7cd8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/aclocal.m4
+SPDXID: SPDXRef-item937426
+FileChecksum: SHA1: 05ffdadd9c9ea7955aaedc58ecae7a874dabc8e2
+FileChecksum: MD5: 54098804196fae5dc3811f9716a5206e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/lame.spec
+SPDXID: SPDXRef-item937427
+FileChecksum: SHA1: 14b0b47926fcb9835540f6cb9f782f43c91e10b6
+FileChecksum: MD5: 4678bdb288ca07ebaef6cbbaac5323e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Makefile.unix
+SPDXID: SPDXRef-item937428
+FileChecksum: SHA1: 5c1b6de1ec065aa53702e626a1f0175534f1530d
+FileChecksum: MD5: ff576337da95a141e200b05342bce3be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/dct64_i386.h
+SPDXID: SPDXRef-item937430
+FileChecksum: SHA1: 92a1a38ffa497b4e681097175b38b6150e6d46bf
+FileChecksum: MD5: 4cd86db250044de8c21ded7734d0d9fd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/decode_i386.c
+SPDXID: SPDXRef-item937431
+FileChecksum: SHA1: 6acfc9ef3c4a42b113df8474a5901d44c172f490
+FileChecksum: MD5: 3fbc720649ccefa0a2e18f5401bc8db4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/Makefile.in
+SPDXID: SPDXRef-item937432
+FileChecksum: SHA1: 9ca927d8cba8f9dabcb9030f54171fddc05f42ba
+FileChecksum: MD5: 9fbc742564a8c9f98977c9f363fdef29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/tabinit.c
+SPDXID: SPDXRef-item937433
+FileChecksum: SHA1: c90de39f6c453787d847e79b93807b1a4d84f051
+FileChecksum: MD5: a3b5102dcc97febb44a45b13323a7a11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/tabinit.h
+SPDXID: SPDXRef-item937434
+FileChecksum: SHA1: 3b9758350691400d461c0f80bf472cdfef0b68c8
+FileChecksum: MD5: 9a0ca72af850fad8cc10b3ece8c18b34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/mpg123.h
+SPDXID: SPDXRef-item937435
+FileChecksum: SHA1: 42b32e26f4b7930e53dc03d82b5bb8f6e1c76d0b
+FileChecksum: MD5: 16c11127a0152c419cb9681291dae023
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/interface.c
+SPDXID: SPDXRef-item937436
+FileChecksum: SHA1: d891cdc5a14b8bc33db3fbd12e18ce6eb86d9417
+FileChecksum: MD5: 1c239314aca786f559747e665e4d17ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/Makefile.am
+SPDXID: SPDXRef-item937437
+FileChecksum: SHA1: 033de855370e5108b6f1802f70b2830c614f5393
+FileChecksum: MD5: 937879152d89762191c0afaa7ecc8ebc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/common.h
+SPDXID: SPDXRef-item937438
+FileChecksum: SHA1: 478bd5875cc387f5a89711f22a45bd12191f1a70
+FileChecksum: MD5: 99224f4f7ae9c48583c1421091fc5619
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/layer3.h
+SPDXID: SPDXRef-item937439
+FileChecksum: SHA1: a1d7947bbe63fec08fe4565b5a8ace0288e7eff9
+FileChecksum: MD5: 194f1f35b4dcae81800f69daeb930a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/AUTHORS
+SPDXID: SPDXRef-item937440
+FileChecksum: SHA1: 8d34e77de683e24453375029160d3296ac09c242
+FileChecksum: MD5: 9c0373a18d66a5977d097c801e2cdb76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/huffman.h
+SPDXID: SPDXRef-item937441
+FileChecksum: SHA1: 76a179206e9f2019d77d0895e2e21f827210e3f8
+FileChecksum: MD5: 2e09ae791de78fe871e107c5ab0f9dcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/layer1.h
+SPDXID: SPDXRef-item937442
+FileChecksum: SHA1: 278f66dc85b723ed4c671d29bce862d4cd7661e7
+FileChecksum: MD5: 84aa72601ee008f7c86a92370de3286c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/README
+SPDXID: SPDXRef-item937443
+FileChecksum: SHA1: 2ffac8e0674efd8a0014cafa4e3e22d56ee7e5ee
+FileChecksum: MD5: 241e95ab21534c5df3d3b056768fbc8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/dct64_i386.c
+SPDXID: SPDXRef-item937444
+FileChecksum: SHA1: 59ef4c50f599f3e8bc328dafd26187a286c85df7
+FileChecksum: MD5: 23734148e0e6923dfef935596fe5b77f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/l2tables.h
+SPDXID: SPDXRef-item937445
+FileChecksum: SHA1: db456f4bbe3e0741c16ae83ab76eab29bfb4ef84
+FileChecksum: MD5: 2a5195207fb430f2c229882082a83d6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/layer1.c
+SPDXID: SPDXRef-item937446
+FileChecksum: SHA1: c24a1b0927a70672f6dadd73951dbaf585f2a95b
+FileChecksum: MD5: f78d890243849b4f89914cb678d9645d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/layer3.c
+SPDXID: SPDXRef-item937447
+FileChecksum: SHA1: 96fc51f814f38be36f96ee05448c0a38b521161c
+FileChecksum: MD5: d7d1d6af4e69e6df4646565273f4ff0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/common.c
+SPDXID: SPDXRef-item937448
+FileChecksum: SHA1: 4a262cd75e2fb7aa8abf19711cd662e626c61784
+FileChecksum: MD5: aa08a5eea11e58a6bd401b33423bcd87
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/decode_i386.h
+SPDXID: SPDXRef-item937449
+FileChecksum: SHA1: cd93f8b1e6166c88d91fe23241426dee5ecdc792
+FileChecksum: MD5: 5e7b0febdab0aa0553a14765dca4ec04
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/mpglib.h
+SPDXID: SPDXRef-item937450
+FileChecksum: SHA1: a7e0b7329bc75ff741a0fd9bfe8c1aa150da6055
+FileChecksum: MD5: bc2d61056d4699eee06a3b4725e0648f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/layer2.h
+SPDXID: SPDXRef-item937451
+FileChecksum: SHA1: 1f0fe27c7bbc66c42dc9f64848903f60f7b4bd3a
+FileChecksum: MD5: ab33810064b22d2e1799180e1233d13b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/layer2.c
+SPDXID: SPDXRef-item937452
+FileChecksum: SHA1: 2ffff0d951f1dfe1f858f309b0a5268193ec452b
+FileChecksum: MD5: 00ea28b3378b796d2ab085e1a0d22531
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/depcomp
+SPDXID: SPDXRef-item937453
+FileChecksum: SHA1: 6749a6b5ab2b3edd45d38ac560759c641cd50200
+FileChecksum: MD5: 21504de31981a67b5b93b265029d1865
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/mpglib/interface.h
+SPDXID: SPDXRef-item937454
+FileChecksum: SHA1: dd70a1462ba8c1eea186f41cb40c266c17d0edf4
+FileChecksum: MD5: 2e1407595ccdfa57a81663b0875394f0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Makefile.in
+SPDXID: SPDXRef-item937455
+FileChecksum: SHA1: 4080fa6c0391f66620ade7b4604611e83f45ec34
+FileChecksum: MD5: ea477fac3ce958e7ffbc731596c07651
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/COPYING
+SPDXID: SPDXRef-item937456
+FileChecksum: SHA1: 1679b0cb5406c6e4624f779c02e32985497f7aa7
+FileChecksum: MD5: c46bda00ffbb0ba1dac22f8d087f54d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/configure
+SPDXID: SPDXRef-item937457
+FileChecksum: SHA1: bcedec8ad2f5054acd07e41cf1c55a1f7f6d6288
+FileChecksum: MD5: dc69a8d2737abd5bdc9ef3c13e79691d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Makefile.am.global
+SPDXID: SPDXRef-item937458
+FileChecksum: SHA1: fea86925c3add4714d438d2860a2eb052f658bc0
+FileChecksum: MD5: 8c73b469105012b6d56ca1088e255b5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ltmain.sh
+SPDXID: SPDXRef-item937459
+FileChecksum: SHA1: 312fb5b90d34810a107cbcfc2e024dd1008826c9
+FileChecksum: MD5: 63ad4201f502adff6f1ba8ab775d7231
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/BladeMP3EncDLL.c
+SPDXID: SPDXRef-item937461
+FileChecksum: SHA1: 0c196938a6a8c973eecdc10e2d4ab2bd2cc4e8c2
+FileChecksum: MD5: a01945faa40b3b22f8d2d52a1c135066
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/Makefile.in
+SPDXID: SPDXRef-item937462
+FileChecksum: SHA1: dcb73f8df1f0468489464cdba630cedc0678cbe4
+FileChecksum: MD5: 042205237a014c25b7f7ee3c497c501c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/LameDLLInterface.htm
+SPDXID: SPDXRef-item937463
+FileChecksum: SHA1: 97fbec0d32d068d5e676616fb49cb3cdf14a485f
+FileChecksum: MD5: 3105b56cc4d2a64c38903e5d1ea64f45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/MP3export.pas
+SPDXID: SPDXRef-item937464
+FileChecksum: SHA1: 3e3ff4fbef73a13ddfe29d471aa4f34e40a19755
+FileChecksum: MD5: c266aaa7ac9332d1f7c71b57958f3070
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/Makefile.am
+SPDXID: SPDXRef-item937465
+FileChecksum: SHA1: 110eaaa0250a994ea0549c39e1355353d94c38d2
+FileChecksum: MD5: 64286d5f42e2ebf9b1d13e4087ec01d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/Makefile.mingw32
+SPDXID: SPDXRef-item937466
+FileChecksum: SHA1: 79b3673f3871b2797d34dacc874c741488f4cf22
+FileChecksum: MD5: 852762d7f47432551f2d70f3a1845ed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/BladeMP3EncDLL.h
+SPDXID: SPDXRef-item937467
+FileChecksum: SHA1: 55ac1615d308348b6506285a1d2bb859354dbfcb
+FileChecksum: MD5: 8ddde14e06cf2deaba373fc05970a222
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/README
+SPDXID: SPDXRef-item937468
+FileChecksum: SHA1: 53f6a05079077a4c7e8c7289cad5db759fa12a21
+FileChecksum: MD5: 7410188cf884c65c5d6abcb192ae1994
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/BladeMP3EncDLL.def
+SPDXID: SPDXRef-item937469
+FileChecksum: SHA1: 6798ece7f55f4ccf879528e5ca780a9b4c5032bc
+FileChecksum: MD5: e5be590bd522781d70f5df345eaff825
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Dll/Example.cpp
+SPDXID: SPDXRef-item937470
+FileChecksum: SHA1: f92e57889d98b38b2071fe943863e4c1d9738900
+FileChecksum: MD5: ab2a44a412380ec2799b8b496373e2ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/lame.ico
+SPDXID: SPDXRef-item937472
+FileChecksum: SHA1: f07459fabea7cae770c32a59731523efd706fd1f
+FileChecksum: MD5: 257e9a326dfe69772d0bccf6a6476ae3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/resource.h
+SPDXID: SPDXRef-item937473
+FileChecksum: SHA1: b6021a9af623a3b27e182b3d7bc704ccf2924489
+FileChecksum: MD5: c2daa11e91e201d9066d72e1541f6e21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/DecodeStream.cpp
+SPDXID: SPDXRef-item937474
+FileChecksum: SHA1: 0d86c029bec9eba6587d8723915e9c97811f786e
+FileChecksum: MD5: 1f1be8a0626175f062c9718bc7c47a12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/DecodeStream.h
+SPDXID: SPDXRef-item937475
+FileChecksum: SHA1: 328a49ac33121edce522f346a58189823458fdc8
+FileChecksum: MD5: a19a6eca31cdb9dbbe9425ede5ad4b67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/tinyxml.h
+SPDXID: SPDXRef-item937477
+FileChecksum: SHA1: a2541b9290585c057ec77a0312f58adc2006fcdf
+FileChecksum: MD5: 9978c5ba4e35a723fc561f43d1d9e656
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/tinyxmlerror.cpp
+SPDXID: SPDXRef-item937478
+FileChecksum: SHA1: 23f5efa437bf64e35a75b8f82dd9a1233466a343
+FileChecksum: MD5: 8b9a820da1ec44f146f0683f40f6d4d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/changes.txt
+SPDXID: SPDXRef-item937479
+FileChecksum: SHA1: a50bba08443f67c6caeab6a4c0803b5494b5b2b4
+FileChecksum: MD5: 30eb3f579366e09c4c8e7c1ce289ad40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/Makefile.tinyxml
+SPDXID: SPDXRef-item937480
+FileChecksum: SHA1: 9137db889f9aa1bc53b615ee01ca54127794b551
+FileChecksum: MD5: 33a0599e3c4fda830b30998f9d867ed4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/Makefile.in
+SPDXID: SPDXRef-item937481
+FileChecksum: SHA1: da79522dc8f358e7cc469f759ede8251c8493405
+FileChecksum: MD5: 4a9b590ecd8acbf26ae5b009b53c94d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/makedistlinux
+SPDXID: SPDXRef-item937482
+FileChecksum: SHA1: 58499310332b8c09f5c5b56da14df23ec93fdcda
+FileChecksum: MD5: 07ba26436ecb7203bca9e049b67e8753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/xmltest.cpp
+SPDXID: SPDXRef-item937483
+FileChecksum: SHA1: b9e35726f0f8479921e14ae57b330093597c845d
+FileChecksum: MD5: 3551a401165fd207e70d7c150799c99e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/readme.txt
+SPDXID: SPDXRef-item937484
+FileChecksum: SHA1: e5da5f45ff7f6eb12c7353dd935378775fd68181
+FileChecksum: MD5: 34fb954a853b4d08e2b41b026ae4f727
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/Makefile.am
+SPDXID: SPDXRef-item937485
+FileChecksum: SHA1: 8fc99f8f0e0aca37fae637656b91dd3734351679
+FileChecksum: MD5: 0dddb4858de15b7ad7b45e0c9926bf20
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/tinyxmlparser.cpp
+SPDXID: SPDXRef-item937486
+FileChecksum: SHA1: f4bc9431be820acb804d78cde532be318e66b487
+FileChecksum: MD5: 4c2362e052bc6e8756dfea8dceea4e3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/dox
+SPDXID: SPDXRef-item937487
+FileChecksum: SHA1: b42000b8e6d413fc07859e5bffc335943a368760
+FileChecksum: MD5: ab13fa1d0ec366e50ed271044d2f089d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/makedistwin.bat
+SPDXID: SPDXRef-item937488
+FileChecksum: SHA1: e1b94184be2c55227405c236441307df49e814de
+FileChecksum: MD5: a8765790faae00616a934102898410eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/tinyxml/tinyxml.cpp
+SPDXID: SPDXRef-item937489
+FileChecksum: SHA1: 214f9616fca38410409ee5475fd9cf1db519b7a1
+FileChecksum: MD5: 18de94a3ee3d91967663f1218835168c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: Zlib
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ACMStream.h
+SPDXID: SPDXRef-item937490
+FileChecksum: SHA1: b355f697bfdd3a0b2d994e3cb00614fd48f88704
+FileChecksum: MD5: 68d05d048371a5e57bca17363e1924ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/lameACM.def
+SPDXID: SPDXRef-item937491
+FileChecksum: SHA1: b701d34805135dc62662f5c842f204f2a1706db8
+FileChecksum: MD5: 672859a8e871c07068277b6af4447970
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ACM.h
+SPDXID: SPDXRef-item937492
+FileChecksum: SHA1: 9745fc90a6996412037e00a053d46f7962eff04d
+FileChecksum: MD5: 09e2656ac8d405ce5d0301a33c0a34aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ACM.cpp
+SPDXID: SPDXRef-item937493
+FileChecksum: SHA1: ea548aa64acaecfb059d173fc2aac374c95ce937
+FileChecksum: MD5: 716a44279d16b9297b7e0ef4f9e287cf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/Makefile.in
+SPDXID: SPDXRef-item937494
+FileChecksum: SHA1: 6ec8def5a42972b03ad76068ad1ac82dc1060ff8
+FileChecksum: MD5: 27577a1b91137ed0d0200a90e7c30ea8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/adebug.h
+SPDXID: SPDXRef-item937495
+FileChecksum: SHA1: ca3e2af15a0524afb779bb7ca6751ba8ef5e31ed
+FileChecksum: MD5: 8755c3b0f0b2081debcf4d2ed7b4d640
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/acm.rc
+SPDXID: SPDXRef-item937496
+FileChecksum: SHA1: 936cc519243273622322e5b81be8bba27fcee201
+FileChecksum: MD5: d30a423b12b6b8023ed7246a98266919
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ACMStream.cpp
+SPDXID: SPDXRef-item937497
+FileChecksum: SHA1: f29865b015b1db0dbea9ec764df2a04c4fdd3c91
+FileChecksum: MD5: 3e2c8c78d38b73ba1242d9a0bbf30da0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/TODO
+SPDXID: SPDXRef-item937498
+FileChecksum: SHA1: 041481c42c89bec4315c822cf55aae739da4142d
+FileChecksum: MD5: b056064ecff5f72b23c16db8411f4288
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/readme.txt
+SPDXID: SPDXRef-item937499
+FileChecksum: SHA1: 1def8324402256e03f58c473e33b2772cafc5221
+FileChecksum: MD5: 44ebb9e6d4ca02f0faf549a5df91fbb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/Makefile.am
+SPDXID: SPDXRef-item937500
+FileChecksum: SHA1: 7f111570c3ae815878b1ed43d1f811a049e144c4
+FileChecksum: MD5: 6b54e0a6e775963098867f36908a5a1a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/LameACM.inf
+SPDXID: SPDXRef-item937501
+FileChecksum: SHA1: 7605efdbdd44fcd8b4662826e38681d0ccc21bf9
+FileChecksum: MD5: 0dc28e55c1893c9fff2228f58b68a5f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/main.cpp
+SPDXID: SPDXRef-item937502
+FileChecksum: SHA1: e67ab2996a7f9d82cbf35e240a418b97b5e3e57a
+FileChecksum: MD5: ca8d9c6624864432580dfd2d655b9a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ADbg/Makefile.in
+SPDXID: SPDXRef-item937504
+FileChecksum: SHA1: dc010d440504f718bed1994f979cc1046466d2af
+FileChecksum: MD5: 24cddc867a6322331083d52ab1916024
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ADbg/Makefile.am
+SPDXID: SPDXRef-item937505
+FileChecksum: SHA1: 7ab2eacc100104692a37c81c270b9c4f5de8b309
+FileChecksum: MD5: de3882096a8a22cf982fff8c537b970e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ADbg/ADbg.h
+SPDXID: SPDXRef-item937506
+FileChecksum: SHA1: 6c7a955eab5df6b7c0b6d8d974fa6413e61ee0c4
+FileChecksum: MD5: 9b00cc73695785cc97264d69dd47fd35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ADbg/ADbg.cpp
+SPDXID: SPDXRef-item937507
+FileChecksum: SHA1: ded5074a7723892b8990bd1e5dd838d4c4f3978e
+FileChecksum: MD5: 1acf82738767b9ee7203152ea4af7221
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/AEncodeProperties.cpp
+SPDXID: SPDXRef-item937508
+FileChecksum: SHA1: 2494cb9f5d427088ae5d0b831badad4c89164280
+FileChecksum: MD5: 77461ce2b33862f351aa4949487a429f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ddk/msacmdrv.h
+SPDXID: SPDXRef-item937510
+FileChecksum: SHA1: b4a0d124508130a5e74c43632c6cbb6aa9bb494c
+FileChecksum: MD5: c4ffa9fc53b5a067d41b0fee0fff05fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ddk/Makefile.in
+SPDXID: SPDXRef-item937511
+FileChecksum: SHA1: f5e6c1dcb55a67c9c3b7b97eb86155f60cb8aede
+FileChecksum: MD5: 692418479a78919c9a7e87731c8714fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/ddk/Makefile.am
+SPDXID: SPDXRef-item937512
+FileChecksum: SHA1: 6e4ef174100e22edc844ecdafcd0c03c037e1a0b
+FileChecksum: MD5: 4503ccd84c766e6e1302967d3b516d29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/lame_acm.xml
+SPDXID: SPDXRef-item937513
+FileChecksum: SHA1: 52f447838456dc82d2b9072088d33c63db43cd41
+FileChecksum: MD5: ad0424a9efcd133d470f1f6e4319fbe9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ACM/AEncodeProperties.h
+SPDXID: SPDXRef-item937514
+FileChecksum: SHA1: f58cd384375f254dd208f6779701e0f23c1de547
+FileChecksum: MD5: 11264c29ca1fc60b0ac6952a08d6727f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/id3tag.h
+SPDXID: SPDXRef-item937516
+FileChecksum: SHA1: 55fd2b6ba7ebbc1b185f573c3e2141acab2adffa
+FileChecksum: MD5: 63a5034788620fea2ff08bec403e3612
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/presets.c
+SPDXID: SPDXRef-item937517
+FileChecksum: SHA1: 467c7472c03db56936a27d0271aed7e26d1a79a0
+FileChecksum: MD5: 2bbf129eda1bd60a2ad45dec1b4e6905
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/psymodel.h
+SPDXID: SPDXRef-item937518
+FileChecksum: SHA1: 714db419078232e66845d8a48f2059fb55450c0c
+FileChecksum: MD5: 358a367d2498c67935c83f7a523a9902
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/bitstream.h
+SPDXID: SPDXRef-item937519
+FileChecksum: SHA1: f421072f377c7e8e20ce2366e615397789d4158b
+FileChecksum: MD5: 23d92aafb85a0f88208a8378b778d1f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/newmdct.h
+SPDXID: SPDXRef-item937520
+FileChecksum: SHA1: 77ebd9d62fac8ad91134bcbb2b0043069b534b1e
+FileChecksum: MD5: 8eea80c68577b3aeb12f1a649a168a3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/id3tag.c
+SPDXID: SPDXRef-item937521
+FileChecksum: SHA1: 576aff42d7f64c7450d93cc94f8cf34b90f27cba
+FileChecksum: MD5: f240fa094157eb5476b12e013642b736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/quantize_pvt.h
+SPDXID: SPDXRef-item937522
+FileChecksum: SHA1: 14ee046a7c6efd58016ec857b8ce69595661d429
+FileChecksum: MD5: 63bf46268ae6bb5952668f53fe306350
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/vbrquantize.c
+SPDXID: SPDXRef-item937523
+FileChecksum: SHA1: 6986b0a3e9213e844dbd988d9e35829359c2bfee
+FileChecksum: MD5: e05060a53cf167058c7d5e94e516f9db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/gain_analysis.c
+SPDXID: SPDXRef-item937524
+FileChecksum: SHA1: 0b4cec034d6d41a3fd9e0e593353527d29081f56
+FileChecksum: MD5: 054ca305fca1b6a7d3a013a0f9a54bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/quantize.h
+SPDXID: SPDXRef-item937525
+FileChecksum: SHA1: 052109cbed3eba46280f3b5b582517f538d928c4
+FileChecksum: MD5: 1a0c13493ead131a36d2212c98a35c27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/tables.c
+SPDXID: SPDXRef-item937526
+FileChecksum: SHA1: 89b922ab0c8b3faf1e3142802ced1db393cd481a
+FileChecksum: MD5: adbf37b73cefac0019b0672957d09e2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/version.c
+SPDXID: SPDXRef-item937527
+FileChecksum: SHA1: f48e63941e2aadd6d70fac5b64e9556820082e0d
+FileChecksum: MD5: e11f4336738ef4fce58a6a9bed4a8979
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/Makefile.in
+SPDXID: SPDXRef-item937528
+FileChecksum: SHA1: c0dd54a6810684562d7984f92c91eefb8dd32716
+FileChecksum: MD5: 1eded76ed8018d431c32f7941210a1b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/bitstream.c
+SPDXID: SPDXRef-item937529
+FileChecksum: SHA1: f0b3c3de2bb1c1b7cd03ba18653bd22e25a01baa
+FileChecksum: MD5: e6597166b01d16d421ec6d4bcfb72a60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/mpglib_interface.c
+SPDXID: SPDXRef-item937530
+FileChecksum: SHA1: 7b913df383234ffbc8b984b9b430f43913924830
+FileChecksum: MD5: deba6b5edfb03cb4977d1cb270ecdcf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/VbrTag.c
+SPDXID: SPDXRef-item937531
+FileChecksum: SHA1: 6d53f5479b6855dfdf2221275133a3b2d11e1a05
+FileChecksum: MD5: 5a715f53e607446fcbd9c2ac71009430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/psymodel.c
+SPDXID: SPDXRef-item937532
+FileChecksum: SHA1: a556b8fb87d27e05eb18cacaa413d8016d900a5b
+FileChecksum: MD5: 1df76112ae14834902b24f04aa037a7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/fft.h
+SPDXID: SPDXRef-item937533
+FileChecksum: SHA1: d0bf3aa2b72824be3af25cf50dd4615bb167301a
+FileChecksum: MD5: 44ae91f3a8033043a0b204ab003046ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/lame-analysis.h
+SPDXID: SPDXRef-item937534
+FileChecksum: SHA1: a47819489a32a367c47ec31eb8092ecd830569ba
+FileChecksum: MD5: 7093436cf00cb614d2ac41c4df1b640e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/Makefile.am
+SPDXID: SPDXRef-item937535
+FileChecksum: SHA1: 41bdca74b0d9c1174bc4c85d18555f069a1980dc
+FileChecksum: MD5: 23eb4b554d2b32ff787acacce70ed852
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/version.h
+SPDXID: SPDXRef-item937536
+FileChecksum: SHA1: 335e7b9c1652fa8c1d7bd44e4141064499953460
+FileChecksum: MD5: 2d439c744fb4b755875b80ffbdcc798d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/encoder.c
+SPDXID: SPDXRef-item937537
+FileChecksum: SHA1: eb47b04ba71d22dbf2504e2abe824fe867b17380
+FileChecksum: MD5: 1fd4c0b4e5814a297c7df357f88995ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/newmdct.c
+SPDXID: SPDXRef-item937538
+FileChecksum: SHA1: badee9967d46417e34e603c404a4b89fdcf287e8
+FileChecksum: MD5: 6c63fa2f3530f6d143adff77b95f728a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/l3side.h
+SPDXID: SPDXRef-item937539
+FileChecksum: SHA1: ddb67df68c79c5416a7d3ff87d1c6607ccfe5001
+FileChecksum: MD5: 37353a98bc121b4bd63cdfd1e7bf4037
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/fft.c
+SPDXID: SPDXRef-item937540
+FileChecksum: SHA1: 7e7d3f7541a357388a225eb9387d65768bc462a8
+FileChecksum: MD5: 209d1dfe2342f62435df1b313cb26521
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/lame.rc
+SPDXID: SPDXRef-item937541
+FileChecksum: SHA1: a2eef49c638621273f3a5023c658691e952be125
+FileChecksum: MD5: 110de6b4d5dc20066a1cf9d7f06b7be7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/takehiro.c
+SPDXID: SPDXRef-item937542
+FileChecksum: SHA1: 0615ed92550224f872de98e8c0759f7e2d2d77c9
+FileChecksum: MD5: c86562cb6036e1ff0f1431d20cefa148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/lame_global_flags.h
+SPDXID: SPDXRef-item937543
+FileChecksum: SHA1: 7248c78638e6cd6ded33fff871f0b4302d2b8e42
+FileChecksum: MD5: 32b7a5b85e8a9e49603926d0d92d889a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/vbrquantize.h
+SPDXID: SPDXRef-item937544
+FileChecksum: SHA1: 9c00684ddb5da6368f0fe9c07c280eaee2f50b95
+FileChecksum: MD5: 193ea9313f9891e5713b81b5ea672f67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/tables.h
+SPDXID: SPDXRef-item937545
+FileChecksum: SHA1: 1e95b74e9f1bd217428c5a4016f0fdf68588624e
+FileChecksum: MD5: e8f9a31d3ca85dfd74617e30a1bbfe72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/scalar.nas
+SPDXID: SPDXRef-item937547
+FileChecksum: SHA1: 4b4d582c7bff694f855290533e3939d47b1a7339
+FileChecksum: MD5: a077a60ef97c6362de990a3006c77823
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/ffttbl.nas
+SPDXID: SPDXRef-item937548
+FileChecksum: SHA1: 07908b1404236a5988b012fe151e0acb245acb25
+FileChecksum: MD5: 8938e0d1ddaaf997e6f64d75857dd7d5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/Makefile.in
+SPDXID: SPDXRef-item937549
+FileChecksum: SHA1: f7be0d5739970a560ebf48241a0ed44fd4f0424e
+FileChecksum: MD5: db3d675d41b6b6b549c95ab94b8bc7bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/fftsse.nas
+SPDXID: SPDXRef-item937550
+FileChecksum: SHA1: 14c7ccf41c0df74f24b6e54f31226447ab26f7e4
+FileChecksum: MD5: 72ee97030dd6f6d8e103eb14041ac291
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/fft3dn.nas
+SPDXID: SPDXRef-item937551
+FileChecksum: SHA1: 075d5fe4276314c617fdefd7a4185653e9be6943
+FileChecksum: MD5: bafea9cf4655a9453282955a3f42f6a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/Makefile.am
+SPDXID: SPDXRef-item937552
+FileChecksum: SHA1: 7d35dac4ed1000d7a65ffd6aca99c995108ba169
+FileChecksum: MD5: 4c4b5115001f4c88c55398c9f80fda1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/nasm.h
+SPDXID: SPDXRef-item937553
+FileChecksum: SHA1: 889828cf538bb65ba2b6c9a1f24910fb7dd858ba
+FileChecksum: MD5: 9996920ea967642fb21ebd5b255c36f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/fft.nas
+SPDXID: SPDXRef-item937554
+FileChecksum: SHA1: 8d5bd4310f717deee7e5c57cfb478f6eedf765b7
+FileChecksum: MD5: f1ea59bbd9fb74adecbd9bf64c1b11a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/cpu_feat.nas
+SPDXID: SPDXRef-item937555
+FileChecksum: SHA1: be3a373b034760b6fc8a487052ab04c93211d793
+FileChecksum: MD5: 5479573882c4657c5e84769a21ed795b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/fftfpu.nas
+SPDXID: SPDXRef-item937556
+FileChecksum: SHA1: 29c5b40c4b9a761ac898186a39db677f462b3665
+FileChecksum: MD5: 914890b0c4dd5d31663ace1e94d3889f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/i386/choose_table.nas
+SPDXID: SPDXRef-item937557
+FileChecksum: SHA1: 276a8ad77c3696235fe33297e53ad27a397b9585
+FileChecksum: MD5: 3dee079b4adafe473621176246d58d7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/reservoir.h
+SPDXID: SPDXRef-item937558
+FileChecksum: SHA1: 8c4f37d2b5afa918c2a10369786574fb1224a4e3
+FileChecksum: MD5: 1d6a70c0b940b1a3248b0dfe9307b4fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/lame.c
+SPDXID: SPDXRef-item937559
+FileChecksum: SHA1: 05346fdb28eff94ac11e0c7dbba4ac89c7ade409
+FileChecksum: MD5: e1c485f491a60f9aecad1b88d1682ef5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/util.c
+SPDXID: SPDXRef-item937560
+FileChecksum: SHA1: ee07a0ca09dee3ec384b46795a6c56a4d305e553
+FileChecksum: MD5: 67f21a1d720123f2dae555632d84f88a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/vector/xmm_quantize_sub.c
+SPDXID: SPDXRef-item937562
+FileChecksum: SHA1: f24fee3ac33838fa4761c86a4137864466ab2daa
+FileChecksum: MD5: 9c12b89891ced15efb0834de03aa9a32
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/vector/Makefile.in
+SPDXID: SPDXRef-item937563
+FileChecksum: SHA1: a6730175dab302fe7de97b2a0588f1dc83211869
+FileChecksum: MD5: ad511350ef450d73617a3379532d2fab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/vector/Makefile.am
+SPDXID: SPDXRef-item937564
+FileChecksum: SHA1: 4dcdffa3a03333a8121c2e74c54522fb55ec983b
+FileChecksum: MD5: a4be58d770dac8381a3716ec9b328fb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/vector/lame_intrin.h
+SPDXID: SPDXRef-item937565
+FileChecksum: SHA1: 23509fcd59fc5e38e71ab08a810c7ada5b6c887d
+FileChecksum: MD5: e39f08409a74d275094951c00aa3c14f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/util.h
+SPDXID: SPDXRef-item937566
+FileChecksum: SHA1: 7fe4b4eece34ec8e176542be1ac72a572840b1c1
+FileChecksum: MD5: 13ef41ed59934e9d921d288f569c68d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/set_get.h
+SPDXID: SPDXRef-item937567
+FileChecksum: SHA1: e7f743cffcabaa55fd5a82a94b18489410110835
+FileChecksum: MD5: 4cd3a104e09eeed6c8503e59a5707dc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/encoder.h
+SPDXID: SPDXRef-item937568
+FileChecksum: SHA1: 440a8049188a63eb379ba483afae705e4b6c6750
+FileChecksum: MD5: f803b15b025407f04b6d7f333556998f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/gain_analysis.h
+SPDXID: SPDXRef-item937569
+FileChecksum: SHA1: 74f488d0dfcd1d37ac3e8884934e66de9052da0a
+FileChecksum: MD5: 37ed410030806b7f4ea7cbc3d206a07a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/machine.h
+SPDXID: SPDXRef-item937570
+FileChecksum: SHA1: 16fe495fc0f88fd3a1a53613dde076dec66c3df3
+FileChecksum: MD5: 9da8994bac955c445f4632df6b2721ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/logoe.ico
+SPDXID: SPDXRef-item937571
+FileChecksum: SHA1: 6f1590419751e07f24b6db8928c3e57857a54bff
+FileChecksum: MD5: 72790468f7846ddf3a8a3423bb05280c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/VbrTag.h
+SPDXID: SPDXRef-item937572
+FileChecksum: SHA1: 8a4400e7deedd6bafc019b20b247b343ac0ededb
+FileChecksum: MD5: acef6b1c9ae941f6f654fc60e4e74340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/quantize_pvt.c
+SPDXID: SPDXRef-item937573
+FileChecksum: SHA1: 46c02c59f9811d145139a3c7666603aedbfbff7d
+FileChecksum: MD5: bac9fee446adde1791db7e36752c6ffe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/set_get.c
+SPDXID: SPDXRef-item937574
+FileChecksum: SHA1: daf360272a18eb4b60903eea019790288dce3130
+FileChecksum: MD5: b0ab531f84ce95b1ab9aa09061fb4179
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/lameerror.h
+SPDXID: SPDXRef-item937575
+FileChecksum: SHA1: 377c0c7e340585988be1e04d811021b17ab2a870
+FileChecksum: MD5: 5d4df12f7efe2548a91e58939b05e055
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/reservoir.c
+SPDXID: SPDXRef-item937576
+FileChecksum: SHA1: 48dac3f9ee63d6e0f0f2efb80300723793ea22cd
+FileChecksum: MD5: 8041725dc585c88ef4172ed5dc32d5c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/depcomp
+SPDXID: SPDXRef-item937577
+FileChecksum: SHA1: 6749a6b5ab2b3edd45d38ac560759c641cd50200
+FileChecksum: MD5: 21504de31981a67b5b93b265029d1865
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/libmp3lame/quantize.c
+SPDXID: SPDXRef-item937578
+FileChecksum: SHA1: 653951767916dca4ec0aed4f4c406999a4a93e1b
+FileChecksum: MD5: 945ec02bea68e04ea5284613babb8c13
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/TODO
+SPDXID: SPDXRef-item937579
+FileChecksum: SHA1: fbd41116ddc8740be93a3a0b2a5afed59b8112da
+FileChecksum: MD5: 90b4ed0acbf35e45fe52736780e24578
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/config.h.in
+SPDXID: SPDXRef-item937580
+FileChecksum: SHA1: bf0a1de368d68961bc545a99535f330d15fe9396
+FileChecksum: MD5: 23dc8b9bfadf6bedc5fdc2a2ba0f4241
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/DEFINES
+SPDXID: SPDXRef-item937581
+FileChecksum: SHA1: 27ba9af82b7d267654ae1c7b618597a61fc4a02b
+FileChecksum: MD5: ca886a6357f84aa8d175e3aa40a14f36
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Makefile.am
+SPDXID: SPDXRef-item937582
+FileChecksum: SHA1: 8de65c0bdd99761747c30a17436e12eb99d958b1
+FileChecksum: MD5: bca5a202e2a22922353cd5f8f279ab52
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/testcase.wav
+SPDXID: SPDXRef-item937583
+FileChecksum: SHA1: 8f21c7d5e9901d42c96fa491faa1dd5a4c0ee91f
+FileChecksum: MD5: f50499fded70a74c810dbcadb3f28062
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/README.WINGTK
+SPDXID: SPDXRef-item937584
+FileChecksum: SHA1: c20efede037158550941349fe2f8deca3402b17b
+FileChecksum: MD5: 9358db28c558a083a197aeb246857b3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/config.sub
+SPDXID: SPDXRef-item937585
+FileChecksum: SHA1: b388538b43ae62c5f9df2d48e845e96ab7fc2d93
+FileChecksum: MD5: b1b08ce880350a495f673f07442d707c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/Makefile.in
+SPDXID: SPDXRef-item937587
+FileChecksum: SHA1: 8886a8a3ea2ecccd917b77c0d9a25ae7feeea2ff
+FileChecksum: MD5: e304990cfa4f3150267762988297646d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/man/lame.1
+SPDXID: SPDXRef-item937589
+FileChecksum: SHA1: d49bb6c03ebe303a77ac453c7fa0884fd8cbef28
+FileChecksum: MD5: 59fe1a5f1f833aadd18aff276e8c27c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/man/Makefile.in
+SPDXID: SPDXRef-item937590
+FileChecksum: SHA1: d9a750fcebfcfdfc3ed14c0bbe6ae9ce23e40af6
+FileChecksum: MD5: 5342c5fc9437111393023faf0c27f592
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/man/Makefile.am
+SPDXID: SPDXRef-item937591
+FileChecksum: SHA1: 53fb6c31c335d5cb01158341cb290ba17bc329a7
+FileChecksum: MD5: 3889dc99801682e5daf2ee17ba1fdf64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/Makefile.am
+SPDXID: SPDXRef-item937592
+FileChecksum: SHA1: 8fd9577d56c2448aba21812ce31b047305270a17
+FileChecksum: MD5: 56534802d9e3a8bd687b574efcf5d33d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/detailed.html
+SPDXID: SPDXRef-item937594
+FileChecksum: SHA1: a7042a7920c7ba761b4d28d4f4caeadaef3b51e9
+FileChecksum: MD5: c745a805f8b47e99a80b1ff59ae73b40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/abr.html
+SPDXID: SPDXRef-item937595
+FileChecksum: SHA1: 499917cbf05a17e5d71caa720fb942647b69cf6e
+FileChecksum: MD5: ee0555d7cc33ba5b1c37fd94b2540148
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/contributors.html
+SPDXID: SPDXRef-item937596
+FileChecksum: SHA1: 926cde76efabced1e00696ecba3f5ea6224687ed
+FileChecksum: MD5: 62bd69f8882cf5251dcb61c306a32756
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/Makefile.in
+SPDXID: SPDXRef-item937597
+FileChecksum: SHA1: 451b88b87e7e27d3a7ad228ee55b9fcb3e6a51f3
+FileChecksum: MD5: cfe5f7af62d39fd9d909b63f9f207158
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/history.html
+SPDXID: SPDXRef-item937598
+FileChecksum: SHA1: e81d990b51343f9bc55f106fe6e13e3f13db4ad7
+FileChecksum: MD5: e0cc106b86f1cb2f4572caeb56b915c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/links.html
+SPDXID: SPDXRef-item937599
+FileChecksum: SHA1: d3688f97812c23e49b227c7fb560986c8a00c667
+FileChecksum: MD5: b4cca71fcb6261d90fee90c807b61fcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/index.html
+SPDXID: SPDXRef-item937600
+FileChecksum: SHA1: 0dcecc8fbe192b837c83dc5f2d85e1e4bb8bd0f2
+FileChecksum: MD5: 18fc38ba036506d088d7d480b48cd59d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/cbr.html
+SPDXID: SPDXRef-item937601
+FileChecksum: SHA1: e32589166a88884f3afdb34225cca1c5097bfe67
+FileChecksum: MD5: 847c16727a607a642dac1fffc3d50a3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/vbr.html
+SPDXID: SPDXRef-item937602
+FileChecksum: SHA1: a6a60006e7e06bb901d5036faaf939fe3f38154c
+FileChecksum: MD5: d826ca039e35da26435a92d5a37a6b37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/introduction.html
+SPDXID: SPDXRef-item937603
+FileChecksum: SHA1: e5afcce97c8c1f3ac8c376317a496c5e4b00d7bc
+FileChecksum: MD5: 15269e035ffce6d3e9ab4235e945546f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/about.html
+SPDXID: SPDXRef-item937604
+FileChecksum: SHA1: 1991cad1aa126b45051af24cb74b640ba1f3aa14
+FileChecksum: MD5: f2b965e69effd63b26d65dc2f449cd79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/contact.html
+SPDXID: SPDXRef-item937605
+FileChecksum: SHA1: fea94f097b58f54d21cb1686102cc7f890487ab3
+FileChecksum: MD5: 68c1320452511d14b01161df1a0b70f6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/Makefile.am
+SPDXID: SPDXRef-item937606
+FileChecksum: SHA1: e1f6ae00d2b02610c7cbd174493da1b7897f4ddc
+FileChecksum: MD5: de3a6ae618419fa91f82563feb0bd6f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/list.html
+SPDXID: SPDXRef-item937607
+FileChecksum: SHA1: aa2eb720733abcc2ea3aa4062812bf7606801c3c
+FileChecksum: MD5: 68c1a2cd800ec6431f12c32378cffa0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/ms_stereo.html
+SPDXID: SPDXRef-item937608
+FileChecksum: SHA1: 9be995f78614d7d2cf648bd8d6f535975661c2bc
+FileChecksum: MD5: e76409dbfd0d53c02ee6478b85d8118d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/doc/html/usage.html
+SPDXID: SPDXRef-item937609
+FileChecksum: SHA1: d3058a1a355889e9376e14c91d8a702ab82d40db
+FileChecksum: MD5: a1cbdbfd4ff0b845acefd452770d84ce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/missing
+SPDXID: SPDXRef-item937610
+FileChecksum: SHA1: aeef20c1028a7ac4b904dd51b4c40376eba21350
+FileChecksum: MD5: 9d9668fb32d0542b712be2c34ca79bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/HACKING
+SPDXID: SPDXRef-item937611
+FileChecksum: SHA1: f24ff23eb013f0999cc0dbb63be33d605a0f836c
+FileChecksum: MD5: fc9edec524b9bf045c68419c77da8f55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/INSTALL.configure
+SPDXID: SPDXRef-item937612
+FileChecksum: SHA1: d54a666a1684e465ca2fd929cfbedc79be19580a
+FileChecksum: MD5: 5622c25036db5080cae7b5bf50512aed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/LAME.xcodeproj/project.pbxproj
+SPDXID: SPDXRef-item937615
+FileChecksum: SHA1: 6659bc0efcd86029b29bd86fe4804e0be7d0dcb6
+FileChecksum: MD5: 5021cb3797366a2275900750e2e18ab3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/LAME.xcodeproj/Makefile.in
+SPDXID: SPDXRef-item937616
+FileChecksum: SHA1: caa7a14512a304deb24b714552caea8cc7ed5291
+FileChecksum: MD5: 8661e0dc3b398ccf5cca941b5dca7b82
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/LAME.xcodeproj/Makefile.am
+SPDXID: SPDXRef-item937617
+FileChecksum: SHA1: 8970e6c49687fc577567d04fe1919f5ad3fbbf98
+FileChecksum: MD5: acc76a38917032faf322776c5afaa334
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/Makefile.in
+SPDXID: SPDXRef-item937618
+FileChecksum: SHA1: 016f1a645567b6f5d0e62ca66c01f8139a67c300
+FileChecksum: MD5: 49ef4cef508d3e3e3c412402eef62b2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/Info.plist
+SPDXID: SPDXRef-item937619
+FileChecksum: SHA1: 0145469f8941bfc81e0defeb80713759548b6a96
+FileChecksum: MD5: 693354b7f572a547be2709ca33357c9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/Makefile.am
+SPDXID: SPDXRef-item937620
+FileChecksum: SHA1: b43438b842ec2a319ced43fab90c9117d18a238c
+FileChecksum: MD5: 6622b7b4f4ee1a3b591520afa6361cfe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/LAME_Prefix.pch
+SPDXID: SPDXRef-item937621
+FileChecksum: SHA1: eb35b00304f9fac81fb8f8db080506bfd78c3b04
+FileChecksum: MD5: 6942011b06c4599910463ec9d89ba778
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/English.lproj/InfoPlist.strings
+SPDXID: SPDXRef-item937623
+FileChecksum: SHA1: 9b90e9e66505042fb2aed565d82dd3304a5a5b76
+FileChecksum: MD5: d7b481ef4db4114580ead68bbba14b31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/English.lproj/Makefile.in
+SPDXID: SPDXRef-item937624
+FileChecksum: SHA1: c954be1290b8e1dbd1171ec467a4330101062b40
+FileChecksum: MD5: ddc326435603be6f72fd0dfe864ff754
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/macosx/English.lproj/Makefile.am
+SPDXID: SPDXRef-item937625
+FileChecksum: SHA1: 77b01a669a4643eaa53589d898a2ff93233cefac
+FileChecksum: MD5: 4480899b7f88d4ddad538cfd7c2ad213
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/README
+SPDXID: SPDXRef-item937626
+FileChecksum: SHA1: 25b89ba5db8e252f9532555a4cafbf2782c6f37f
+FileChecksum: MD5: 6dfcc216117291ca8400188d95e0b826
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/config.rpath
+SPDXID: SPDXRef-item937627
+FileChecksum: SHA1: 159afc4166df694acd1c4d77395ff484ffd1421f
+FileChecksum: MD5: 60170db35bfab5387e2309d5e78f1132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/lame.bat
+SPDXID: SPDXRef-item937628
+FileChecksum: SHA1: 8b4434b04a9aeb480a614b0f67aab889c7e7320e
+FileChecksum: MD5: 2ca7610488ff76ddea3c99f3a7f31fd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/Makefile.MSVC
+SPDXID: SPDXRef-item937629
+FileChecksum: SHA1: abeb84c8e260d88ec5ea2a1cb69e93ab327411b4
+FileChecksum: MD5: bce1a7ab73e8c8b929956c02c29af04f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/applied-patches
+SPDXID: SPDXRef-item937631
+FileChecksum: SHA1: d1184e8483c9a3f54eceb7298978393f643118b6
+FileChecksum: MD5: 2454277bd24b97712334288e7acfa5e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/.quilt_series
+SPDXID: SPDXRef-item937632
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/.version
+SPDXID: SPDXRef-item937633
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/.quilt_patches
+SPDXID: SPDXRef-item937634
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/no-gtk1.patch/.timestamp
+SPDXID: SPDXRef-item937636
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/no-gtk1.patch/configure.in
+SPDXID: SPDXRef-item937637
+FileChecksum: SHA1: d0c13808b0b7c6b104c1b447cbbcadec1bf5303a
+FileChecksum: MD5: e28ed8cd9a38b93263f30e91ad960fd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/lame-3.99.5_fix_for_automake-1.12.x.patch/libmp3lame/i386/Makefile.am
+SPDXID: SPDXRef-item937641
+FileChecksum: SHA1: 7f94cdf5846524fcbdf2f6d204d1da2bc3d398aa
+FileChecksum: MD5: 82faa328863ea70da416fb6f6a21ab93
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/lame-3.99.5_fix_for_automake-1.12.x.patch/doc/man/Makefile.am
+SPDXID: SPDXRef-item937644
+FileChecksum: SHA1: 1c43360e8bb9722cfcf25ca6cb578116cfe5cec5
+FileChecksum: MD5: c49c052562c3bbece2b021dbeb5552d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/lame-3.99.5_fix_for_automake-1.12.x.patch/doc/html/Makefile.am
+SPDXID: SPDXRef-item937646
+FileChecksum: SHA1: 90776658a3d8a13dc6d87f403f3b0b1aa61da21d
+FileChecksum: MD5: 1719026c356fe41fbbf55b1a0698cbbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/lame-3.99.5_fix_for_automake-1.12.x.patch/.timestamp
+SPDXID: SPDXRef-item937647
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/.pc/lame-3.99.5_fix_for_automake-1.12.x.patch/configure.in
+SPDXID: SPDXRef-item937648
+FileChecksum: SHA1: 09d6eaf0066303dcc18893e7f186943bf6769734
+FileChecksum: MD5: 47464177b8656e3c0341ff727871b658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/Lame.vbs
+SPDXID: SPDXRef-item937650
+FileChecksum: SHA1: 335d0cc91373c2c14f36437d0feef6efc8cfac80
+FileChecksum: MD5: 29bd7550041452d601637908021fb0c4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/Makefile.in
+SPDXID: SPDXRef-item937651
+FileChecksum: SHA1: 2d189a22b13a3fc9e252a6d10c8783b9f16464d8
+FileChecksum: MD5: 75cd35e3050e5d480716dac711a87564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/mk_mp3.sh
+SPDXID: SPDXRef-item937652
+FileChecksum: SHA1: e396d0f3a7513e0fb9393a344564890a9cba620e
+FileChecksum: MD5: 744248188c2df492c29538a47a991bf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/mugeco.sh
+SPDXID: SPDXRef-item937653
+FileChecksum: SHA1: afda4c5aef01b0465f7bd3bba8b749143b08a826
+FileChecksum: MD5: d9ce6dccb70a525ae19ec7b99f9b65ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/lame4dos.bat
+SPDXID: SPDXRef-item937654
+FileChecksum: SHA1: be17a0f2bffa28e8c2274f4483b41fde54a3375c
+FileChecksum: MD5: 0ff3c00940f8920882c624d9cdcc88f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/Makefile.am
+SPDXID: SPDXRef-item937655
+FileChecksum: SHA1: 0b9664f5c88f818d323d37018f979701f26e4942
+FileChecksum: MD5: bd215227ae4b6245f6146aea3e19584c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/abx.c
+SPDXID: SPDXRef-item937656
+FileChecksum: SHA1: 58ff860980fbd1fb4342cf974db1b3063c4b38a1
+FileChecksum: MD5: 08729aa83bfb2bde160b187c97c4c5b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/auenc
+SPDXID: SPDXRef-item937657
+FileChecksum: SHA1: 2b041843ccbbc17da9c79c7ca27c5641422de625
+FileChecksum: MD5: 03eabe23db70033017bd369577f253af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/scalartest.c
+SPDXID: SPDXRef-item937658
+FileChecksum: SHA1: 7c3d5efb14832a62e671b7f0d5fa2223c034098c
+FileChecksum: MD5: b84fbf04a3dc68abe0562f829d1196ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/ath.c
+SPDXID: SPDXRef-item937659
+FileChecksum: SHA1: f90c2c33fa3d662f6c457d289d9671a24c4bc27d
+FileChecksum: MD5: e58d940591546756b0e83a3afcfd0656
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/mlame
+SPDXID: SPDXRef-item937660
+FileChecksum: SHA1: 5c82d5bd977792527e7616bf987650b7602f5fab
+FileChecksum: MD5: 83663c4c08154efacec518e74e8c97c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/lameid3.pl
+SPDXID: SPDXRef-item937661
+FileChecksum: SHA1: d204e189d0ac434761276f4465a9d0cb63e62a75
+FileChecksum: MD5: d606db0df13d0774902414a3bbeb3658
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/mlame_corr.c
+SPDXID: SPDXRef-item937662
+FileChecksum: SHA1: ccc7b2c75f0aa0e63970c306951f770deacb08f9
+FileChecksum: MD5: 5e68fc2e45ce4783a1a8a1cf204625c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/lameGUI.html
+SPDXID: SPDXRef-item937663
+FileChecksum: SHA1: e490173ce3f369d13d0b1c8de7318743196f8211
+FileChecksum: MD5: 674f31aca9795f0d3be8e1b9d4b22ebf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/misc/depcomp
+SPDXID: SPDXRef-item937664
+FileChecksum: SHA1: 6749a6b5ab2b3edd45d38ac560759c641cd50200
+FileChecksum: MD5: 21504de31981a67b5b93b265029d1865
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/STYLEGUIDE
+SPDXID: SPDXRef-item937665
+FileChecksum: SHA1: 0ab6b2f8426354a7d055bd8ba6749f3b79fdd7ff
+FileChecksum: MD5: 4877022558909d8cda8c5242499468c6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/rules
+SPDXID: SPDXRef-item937667
+FileChecksum: SHA1: 9d7cadb249f220d790a41c058b9bdd4fef4f1e34
+FileChecksum: MD5: 35523bbf533c5656875da680b32a2b4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/control
+SPDXID: SPDXRef-item937668
+FileChecksum: SHA1: 76851675c0def853c5568081b37cc4d10f795ee7
+FileChecksum: MD5: db6da40ea3568c18c236d9e258a6acfa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/Makefile.in
+SPDXID: SPDXRef-item937669
+FileChecksum: SHA1: 9278d1f6c10c254c163dec1bba9e63423b3a7e14
+FileChecksum: MD5: a249aaa4c7848a50372fc764c5e92eec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/changelog
+SPDXID: SPDXRef-item937670
+FileChecksum: SHA1: e5b3ebb50c2f4bbebd167151fd8808b88054d8ed
+FileChecksum: MD5: e45d654ef12dbf4a905cbe2ed23e669d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/libmp3lame0.install
+SPDXID: SPDXRef-item937671
+FileChecksum: SHA1: d603602d53589a97e9020d708a464ead500c38a9
+FileChecksum: MD5: ecb4d3a16e14552d3695ad28f6bd98e9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/compat
+SPDXID: SPDXRef-item937672
+FileChecksum: SHA1: d3964f9dad9f60363c81b688324d95b4ec7c8038
+FileChecksum: MD5: 84bc3da1b3e33a18e8d5e1bdd7a18d7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/lame.docs
+SPDXID: SPDXRef-item937673
+FileChecksum: SHA1: 9691aa14b98cc3240951f00ea0fae72769afd260
+FileChecksum: MD5: 30b32a201f0449c31592e9171eb3a91f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/Makefile.am
+SPDXID: SPDXRef-item937674
+FileChecksum: SHA1: 891c0ae9bc41bc44fdf57a281c2e0b76c15425da
+FileChecksum: MD5: 3cc0554835d203bd8a989edb31375eb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/libmp3lame-dev.install
+SPDXID: SPDXRef-item937675
+FileChecksum: SHA1: 64b6be6788f9d167eb3a82342e654afa8257ac64
+FileChecksum: MD5: 8b794ddd6086430e19f221f9562b83d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/copyright
+SPDXID: SPDXRef-item937676
+FileChecksum: SHA1: b132aff6fa001d903afe9730cb5738f97b167010
+FileChecksum: MD5: d82682f75979f8cda49b7211a8e184b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/lame.manpages
+SPDXID: SPDXRef-item937677
+FileChecksum: SHA1: dbc4f30a6af0215e400930ed560cb5d572308ff4
+FileChecksum: MD5: f92ae787a4bedffe95489dc007e7bb49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/lame.install
+SPDXID: SPDXRef-item937678
+FileChecksum: SHA1: e12f2ce04d645ee5d1d69807fb5a030826b9f165
+FileChecksum: MD5: cec83efb6537ec7b5e4d04ecabed58a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/debian/watch
+SPDXID: SPDXRef-item937679
+FileChecksum: SHA1: 684f4bf914f1c40d16ed4b9201aa6ec3475cf807
+FileChecksum: MD5: 82ba2ad4260e53263e9d92af99effd39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/LICENSE
+SPDXID: SPDXRef-item937680
+FileChecksum: SHA1: 7fc98a5602d2ec57c338ed3f477d48eeccd50f45
+FileChecksum: MD5: 1389aa9c3b928edf12c55a51650be1d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/configure.in
+SPDXID: SPDXRef-item937681
+FileChecksum: SHA1: 8b3a7abc8cc40939e18334daae7caa0b07786240
+FileChecksum: MD5: fdb8e34cd24bf6b468d86c6d11246cb5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/INSTALL
+SPDXID: SPDXRef-item937682
+FileChecksum: SHA1: 93c8f91b192ca7bfb8e7314b57c05622625a0359
+FileChecksum: MD5: 6fb64458d2432bfa31432bc01e469113
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-See-file
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/testcase.mp3
+SPDXID: SPDXRef-item937683
+FileChecksum: SHA1: 9557dc24003bcbd304a1c25d593654d2d8217f5b
+FileChecksum: MD5: 8aa172f7b7cedaa6838a28a35ed6b3bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/API
+SPDXID: SPDXRef-item937684
+FileChecksum: SHA1: a183e68812cd9adb7da6c9b482412ae7c70ff31a
+FileChecksum: MD5: 454bc7b298f9337e20cb203a32f771fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/patches/series
+SPDXID: SPDXRef-item937686
+FileChecksum: SHA1: 3436529289926410b7c63022fed1009f63d3ad73
+FileChecksum: MD5: 606bf44096a0a9c090ec8b58809f2d73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/config.guess
+SPDXID: SPDXRef-item937689
+FileChecksum: SHA1: a7dc02d9b08c200b00c8e6cd9b205431440dd3ea
+FileChecksum: MD5: 510429fd06b6d6ed70295881a9f7a811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/include/Makefile.in
+SPDXID: SPDXRef-item937691
+FileChecksum: SHA1: 97cd17565530e04f0437a40cbd6586074ac1524a
+FileChecksum: MD5: 4fd3b4f1890c63ae9b54aac53830eb14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/include/lame.def
+SPDXID: SPDXRef-item937692
+FileChecksum: SHA1: 53fb320868a115c898e3f97ce159c8b054965a56
+FileChecksum: MD5: d8a0af7e78999a962dfe92ea3efd9795
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/include/Makefile.am
+SPDXID: SPDXRef-item937693
+FileChecksum: SHA1: 4150f97c01114cfaa3bc17ab855210a6fa62f173
+FileChecksum: MD5: a1f46b69b1ce600e1072f6a88da941ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/include/libmp3lame.sym
+SPDXID: SPDXRef-item937694
+FileChecksum: SHA1: 01ad3565c08028728c83a3ac8c2b5ef6a032c47e
+FileChecksum: MD5: 2e757615740710f6b12d0e7e11af84e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/include/lame.h
+SPDXID: SPDXRef-item937695
+FileChecksum: SHA1: ba29f89eead9ced51545ed3a18dad75d240167c3
+FileChecksum: MD5: d2a8e116ae26cfa65510d26ae8b9c10b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/depcomp
+SPDXID: SPDXRef-item937696
+FileChecksum: SHA1: 6749a6b5ab2b3edd45d38ac560759c641cd50200
+FileChecksum: MD5: 21504de31981a67b5b93b265029d1865
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/ChangeLog
+SPDXID: SPDXRef-item937697
+FileChecksum: SHA1: 7f95544dae30a0a4cf1c50a2349579015d4b186a
+FileChecksum: MD5: 03d346780e3a94eee6fbe4a94b7ed687
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5/configMS.h
+SPDXID: SPDXRef-item937698
+FileChecksum: SHA1: 887d3abf99d6e8a8bc07f565abd072240a5efdca
+FileChecksum: MD5: 144d586d9965cd14c8d39e69ffa677dc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/no-gtk1.patch
+SPDXID: SPDXRef-item937699
+FileChecksum: SHA1: 0cf6659d445ae5978efc170ad036b99d2900ca9e
+FileChecksum: MD5: 1b86e90a0dd25401249ced0dfe520230
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/lame-3.99.5_fix_for_automake-1.12.x.patch
+SPDXID: SPDXRef-item937700
+FileChecksum: SHA1: 5d435ef5bf96b7df5d09f683d57d9d402cd90a3d
+FileChecksum: MD5: 67af47579ea9d3bb299c07df01c89fc1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-See-file
+LicenseName: See-file
+ExtractedText: <text> This license means that you can get copyright or license information through a reference file.
+
+one example below:
+/* 
+ * Copyright (C) 2007  Olli Salonen &lt;oasalonen@gmail.com&gt;
+ * see btnx.c for detailed license information
+ * 
+ * revoco.c is under a different copyright. See that file for details.
+ * 
+ */ </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

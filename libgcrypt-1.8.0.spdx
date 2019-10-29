@@ -1,0 +1,6009 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libgcrypt-1.8.0-r0-patched.tar.gz_1571458324.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:12:05Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libgcrypt
+PackageVersion: 1.8.0
+PackageFileName: libgcrypt-1.8.0-r0-patched.tar.gz
+SPDXID: SPDXRef-upload356
+PackageDownloadLocation: https://www.gnupg.org/ftp/gcrypt/libgcrypt/libgcrypt-1.8.0.tar.gz
+PackageHomePage: http://directory.fsf.org/project/libgcrypt/
+PackageSummary: <text>General purpose cryptographic library based on the code from GnuPG</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libgcrypt version 1.8.0</text>
+PackageChecksum: SHA1: 473f47c346a01ba00e93abbce123b5ade1aab62b
+PackageChecksum: MD5: 8a8ab7630f94639df63a7098c100062e
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload356
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/NEWS
+SPDXID: SPDXRef-item858768
+FileChecksum: SHA1: ec58f3be7d3be165782341167ae794251e3d7703
+FileChecksum: MD5: a3673e777c54752f43f4191af01c3726
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/acinclude.m4
+SPDXID: SPDXRef-item858770
+FileChecksum: SHA1: df98139a6c66fe95b6c31dcc9231162f0b2da765
+FileChecksum: MD5: ba30a53bb1345a4d9b4ea81c4271fdf1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/keccak-armv7-neon.S
+SPDXID: SPDXRef-item858773
+FileChecksum: SHA1: e4ef42b93dc9d5f0318acf3b7aa1b22a8dc44053
+FileChecksum: MD5: d8cf8b5815f7f72ca0b94a5d41b7aa03
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/chacha20.c
+SPDXID: SPDXRef-item858775
+FileChecksum: SHA1: aa8cce1b556a7ca1a054338a2b81e188f88c07b7
+FileChecksum: MD5: e14fede35607b183ebcb4f06aaf69f79
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/serpent-armv7-neon.S
+SPDXID: SPDXRef-item858777
+FileChecksum: SHA1: ab9c612f49ef7ac4c624d1011d56664de85d3fac
+FileChecksum: MD5: d70a22c842f9e14418734e9acb089804
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha256-armv8-aarch32-ce.S
+SPDXID: SPDXRef-item858779
+FileChecksum: SHA1: b262fdba29d30d8130fd7bf8c775b28b8c0cf420
+FileChecksum: MD5: 9346d2610e2bf91bd169a131dfb6b3a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/md5.c
+SPDXID: SPDXRef-item858781
+FileChecksum: SHA1: 406ab8ba2061aaa185efe876b4ebee4e2f1b9379
+FileChecksum: MD5: 84dce44297a8fec6ade1dc607ccb6f54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/gostr3411-94.c
+SPDXID: SPDXRef-item858783
+FileChecksum: SHA1: 6615c83dcef3a653ff2a7ed72b409d6530752082
+FileChecksum: MD5: 6871b619924274689d8d4489954b23f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha1-armv7-neon.S
+SPDXID: SPDXRef-item858785
+FileChecksum: SHA1: b49e1d7d23a2dc24f9b5da2ffbac44d8d00ac460
+FileChecksum: MD5: 48deccb7451c7b374f2fee27b265822b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha256.c
+SPDXID: SPDXRef-item858786
+FileChecksum: SHA1: 2511d7409cd3095589e8bb0f0ed168a68198b6c5
+FileChecksum: MD5: 9dbce00fb74e3ac02c8ffbe8286f0dcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-gcm-armv8-aarch64-ce.S
+SPDXID: SPDXRef-item858788
+FileChecksum: SHA1: 0f8746d12564fcde6ba66a011ed8f46ba3d3719e
+FileChecksum: MD5: f29c7e1947789521211c72bf3bcb505d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/dsa-common.c
+SPDXID: SPDXRef-item858789
+FileChecksum: SHA1: 62c3b4e207686ff86e575905f898097f12a4b97c
+FileChecksum: MD5: 17fa0db4762a71b333aa24265b2baff3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-ccm.c
+SPDXID: SPDXRef-item858791
+FileChecksum: SHA1: 1e54f8349cdf4f39f2123f1dfeb89dda0029678b
+FileChecksum: MD5: 291c400ac2e3e419e0d658c457b668fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael.c
+SPDXID: SPDXRef-item858793
+FileChecksum: SHA1: e219e92faaf019b3ff90b9e98761ea7911071387
+FileChecksum: MD5: d1a6a43cf4d3c9d9f1ea1a0a6a873d11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/blake2.c
+SPDXID: SPDXRef-item858795
+FileChecksum: SHA1: 9d2629d11c145ed3c488f733d8a0ff5b7add09c2
+FileChecksum: MD5: e2afa9d870e3af976f58f5f2ae75ab10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-internal.h
+SPDXID: SPDXRef-item858797
+FileChecksum: SHA1: 906b7be1d760cfd390a9ab430c874ca5249b7470
+FileChecksum: MD5: 481150935c4b0329d7c493b7b2de126d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-ctr.c
+SPDXID: SPDXRef-item858798
+FileChecksum: SHA1: 68b0da0b37d9d16a3c6ffd49fcb4fd01d392422d
+FileChecksum: MD5: 2b5f8b91c7286577d47726d910d5345c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/ecc-ecdsa.c
+SPDXID: SPDXRef-item858800
+FileChecksum: SHA1: f45d0e9ce35e90293a56d3723d0d1b82528054e8
+FileChecksum: MD5: 60ea07edd8d788028962c0d4bd293f2e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/seed.c
+SPDXID: SPDXRef-item858802
+FileChecksum: SHA1: 6e24fe19c27ca6387de6721269c05c60b87ff441
+FileChecksum: MD5: 24fe4d7fe0adba28d0a008c6d57e3af9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha1-ssse3-amd64.S
+SPDXID: SPDXRef-item858803
+FileChecksum: SHA1: 51e3b346d57954f05463dd0fca19726b3fe9d7cf
+FileChecksum: MD5: f598634ed53644769ee849cd83673f80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha256-avx2-bmi2-amd64.S
+SPDXID: SPDXRef-item858805
+FileChecksum: SHA1: 8727143d66e086690d76b088c800fb3ecaa8f916
+FileChecksum: MD5: 6de5e12b45507dfe3de0dfa7cb79aeaa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-selftest.h
+SPDXID: SPDXRef-item858806
+FileChecksum: SHA1: 9aa3a9d01f9c7cd686675efd3fa6cb3fe993114f
+FileChecksum: MD5: a07a5af6cdf8c7ad8ecac88de47df629
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-selftest.c
+SPDXID: SPDXRef-item858808
+FileChecksum: SHA1: 8a8c5c562780f857450997bc9d0e4ef80f497b08
+FileChecksum: MD5: cb34b0e8eb9c9c1f0b9c4b55675d4ce7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/elgamal.c
+SPDXID: SPDXRef-item858810
+FileChecksum: SHA1: af45be53c70c470bb49c084aaf47ebde74830e67
+FileChecksum: MD5: 64f8f68ab82f4a55f7c5fb7ef85b269c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/hmac-tests.c
+SPDXID: SPDXRef-item858811
+FileChecksum: SHA1: 90a01280cf802574da371ce90de2495b8b04e7a4
+FileChecksum: MD5: d6a857cbe8db6099f31c7f2254169bf3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/hash-common.h
+SPDXID: SPDXRef-item858813
+FileChecksum: SHA1: 3b1d3e00043bbfb4b0e703f0a2d71ff671233dc8
+FileChecksum: MD5: f2dd4e3d971774d3452c0032b9fc0e68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-armv8-aarch32-ce.S
+SPDXID: SPDXRef-item858815
+FileChecksum: SHA1: d421a8512ba219cd7078248c6f215f8cb60b11d0
+FileChecksum: MD5: 08048b23c1b8cd3114f4aa9f4fd2a348
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/keccak.c
+SPDXID: SPDXRef-item858817
+FileChecksum: SHA1: 075cd5473904601a8e680f5bdfbbad60bb8deda4
+FileChecksum: MD5: 252857d7f53d7939bcb8ab1758f44770
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/dsa.c
+SPDXID: SPDXRef-item858818
+FileChecksum: SHA1: 28ec31cc3e4bba79fdd7268be3e5e04177a80856
+FileChecksum: MD5: 55d2c3274d6d8fc7d88b630a57a5c83b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-cmac.c
+SPDXID: SPDXRef-item858819
+FileChecksum: SHA1: ff84bd65b601699f1ace73b703ba9d48bbe28fa2
+FileChecksum: MD5: cbad819bd0933405829317948dea1e02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-ssse3-amd64-asm.S
+SPDXID: SPDXRef-item858820
+FileChecksum: SHA1: 4f3ef0fa119b969b47dc037d8bbd9c06ffe17d76
+FileChecksum: MD5: 9552db7fec8218d73fe24e338f9d61f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/mac-poly1305.c
+SPDXID: SPDXRef-item858822
+FileChecksum: SHA1: 8555ae667e890798f56ddffa4e85697619a0080a
+FileChecksum: MD5: ec8f4495a0715046123fb088d85bea4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/serpent-avx2-amd64.S
+SPDXID: SPDXRef-item858823
+FileChecksum: SHA1: f17c11c69df50ab03e1f2fbe8aea667652e2b14c
+FileChecksum: MD5: 0d570f9349fb16de509a99c7e8996036
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha512-avx2-bmi2-amd64.S
+SPDXID: SPDXRef-item858824
+FileChecksum: SHA1: fa1650ff0147537880353be4b1a51c77ef2e219f
+FileChecksum: MD5: 2d977e045aa77b703faf5c6b0b01ffbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-aarch64.S
+SPDXID: SPDXRef-item858826
+FileChecksum: SHA1: 310ddd5be24afff97706c284eaca7d3ef3d211c7
+FileChecksum: MD5: 8333ec6755711a303c9087b4bf09eaa6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/blowfish.c
+SPDXID: SPDXRef-item858827
+FileChecksum: SHA1: 709028130b9001edc45d53a410a5dad6a8798b95
+FileChecksum: MD5: e0b588accbd90153a09c0b04825c42a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-internal.h
+SPDXID: SPDXRef-item858829
+FileChecksum: SHA1: 514f8a41ddf84bbaf535008d8727dabfd9eaab3b
+FileChecksum: MD5: 3f82219e6989920db2e65f891af0fbdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha1.h
+SPDXID: SPDXRef-item858830
+FileChecksum: SHA1: 37575852bb7a8a6837af3f0098baa9f47987ec5c
+FileChecksum: MD5: 15deec1ccf198228b7c032f483c98a89
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/poly1305-armv7-neon.S
+SPDXID: SPDXRef-item858832
+FileChecksum: SHA1: 5aaacc2a25a8d46105eabe7804f71532b2b05758
+FileChecksum: MD5: 4cc1326df3e653ff65141587f8dd11c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/Makefile.in
+SPDXID: SPDXRef-item858834
+FileChecksum: SHA1: bc4a2fb7db85e66dac80116fb4de9cfab79dac9b
+FileChecksum: MD5: d409b28de1cb75814b35911c61dedbb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha1-avx-amd64.S
+SPDXID: SPDXRef-item858836
+FileChecksum: SHA1: e0b31d764960c303c9cd17d90678767901f596ca
+FileChecksum: MD5: 6d503466f36eeabc0e46334b0b129899
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cast5-arm.S
+SPDXID: SPDXRef-item858837
+FileChecksum: SHA1: 2d18d3aaaf77979f68234370baac054caf29e895
+FileChecksum: MD5: 57249a172bc2559c0ff775f689363fc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/crc-intel-pclmul.c
+SPDXID: SPDXRef-item858839
+FileChecksum: SHA1: 77fe63357b8a5187487cdfc7d6623b4da24e9a8c
+FileChecksum: MD5: aae53ccddba56b55fa84d61a2e01d429
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/mac-gmac.c
+SPDXID: SPDXRef-item858840
+FileChecksum: SHA1: f1b3f4fee4b31b553f8e384153b41c174781ea29
+FileChecksum: MD5: d51e3e8cb50cca905fafb4fa892ddfc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-aesni.c
+SPDXID: SPDXRef-item858842
+FileChecksum: SHA1: 927f8028b9487af7313a4b29f09ceccc92f19f7a
+FileChecksum: MD5: b86228da5d661b907b5dec330af07f11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/md.c
+SPDXID: SPDXRef-item858844
+FileChecksum: SHA1: c01121efe933ce9c8fcba5284162492d9b84f54c
+FileChecksum: MD5: 9ec710ba5e019d47ddaabf59efc7e413
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-ssse3-amd64.c
+SPDXID: SPDXRef-item858847
+FileChecksum: SHA1: 57605a547cdf1fb1e7482b7114bc2d2b3a3bc269
+FileChecksum: MD5: 96c32e1e486cf079c87e0f7252231f40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha256-ssse3-amd64.S
+SPDXID: SPDXRef-item858848
+FileChecksum: SHA1: 37e110289df9bcd63824087b585ba5c985da7ecc
+FileChecksum: MD5: 80c09ae79bc25190d0c88f9d0ae7b53c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-arm.S
+SPDXID: SPDXRef-item858850
+FileChecksum: SHA1: f05591f74be3acb93c9f8d5774033aee67689c9e
+FileChecksum: MD5: 06535f79af953d8f1367ecd8ee51d201
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/salsa20.c
+SPDXID: SPDXRef-item858852
+FileChecksum: SHA1: fe53ce3181a0c4f99dee4d4252a14aef0be55fdd
+FileChecksum: MD5: 972aac369fcda52c5c5e116f47887bcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha512-arm.S
+SPDXID: SPDXRef-item858854
+FileChecksum: SHA1: e3a8cc87f0f65233fec1759132eb2195dc08cbda
+FileChecksum: MD5: 4661c467b53c28ff42eb3da23c99f129
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha512.c
+SPDXID: SPDXRef-item858856
+FileChecksum: SHA1: 449c8a30cc7fc253f1685976b6499153978b7c6e
+FileChecksum: MD5: 8535758dca90c917452fabc8ec79af39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/keccak_permute_32.h
+SPDXID: SPDXRef-item858858
+FileChecksum: SHA1: f92b696b12a3c1665f11cff7802c77d82ae41f5c
+FileChecksum: MD5: ceaf6e98bc89105d6069d21fe5cc2c78
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-gcm.c
+SPDXID: SPDXRef-item858860
+FileChecksum: SHA1: f796282d9aa096f2d925b7596abd9b7e12de9ed2
+FileChecksum: MD5: 6174fe9e0ca287da2224c3ea3cb5fd09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/ChangeLog-2011
+SPDXID: SPDXRef-item858863
+FileChecksum: SHA1: 16582eb36882c9b1c39a2a7cecbf629f69e1fedd
+FileChecksum: MD5: 18b349907d3a14bcf6ab515062604983
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/mac-hmac.c
+SPDXID: SPDXRef-item858865
+FileChecksum: SHA1: e3063a46cfed535ed7bcd50f22d74b82b1596c00
+FileChecksum: MD5: 927d18a1319ea306c33154fef23718ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/chacha20-armv7-neon.S
+SPDXID: SPDXRef-item858866
+FileChecksum: SHA1: 759857cc16f5d0929958b08e2fb5b073d42b6754
+FileChecksum: MD5: 8939b1d9a6f62b4c463c1b058bbbe395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/whirlpool-sse2-amd64.S
+SPDXID: SPDXRef-item858868
+FileChecksum: SHA1: 0f0a1cf67677e7f610f7e787aab47e095ac31623
+FileChecksum: MD5: 0686df675e7b108c21ad781282489bbb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/scrypt.c
+SPDXID: SPDXRef-item858870
+FileChecksum: SHA1: 7925f41e7eef34b5568942629f25b99dc1b9b248
+FileChecksum: MD5: 7ed23bda66035a73461b3366179d9051
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/serpent.c
+SPDXID: SPDXRef-item858871
+FileChecksum: SHA1: b7ea1f5eb72d5bd7976383579a76c700c8542d85
+FileChecksum: MD5: 2359e0071ae3bbabf0fe7646d8713be6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rsa-common.c
+SPDXID: SPDXRef-item858874
+FileChecksum: SHA1: 30f7c80f7770d5f889c51b7088c9832ccd0d2c98
+FileChecksum: MD5: ec153b4ece280bc91dae35df5cd919c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/serpent-sse2-amd64.S
+SPDXID: SPDXRef-item858875
+FileChecksum: SHA1: 0787e015ab5387e2e1c3ed150b0fb278295767a1
+FileChecksum: MD5: 9589de7212e7627cddd3a93f0fcb00ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-xts.c
+SPDXID: SPDXRef-item858877
+FileChecksum: SHA1: 2e79704152b2f5b8cceeaa36327d8a4631622f68
+FileChecksum: MD5: 01edc0a7c7d0a9858ab56e8c4bb84b55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/chacha20-ssse3-amd64.S
+SPDXID: SPDXRef-item858879
+FileChecksum: SHA1: b78efa3a75819a7cfed54a2292bca2ea42a7164f
+FileChecksum: MD5: 0114f02854fd06977b21b40b6ca9b406
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/chacha20-avx2-amd64.S
+SPDXID: SPDXRef-item858881
+FileChecksum: SHA1: 04b86630b2c7f502f5cec893d47b2d0907426f91
+FileChecksum: MD5: c172965225012a273c07171672496fbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha1-avx-bmi2-amd64.S
+SPDXID: SPDXRef-item858882
+FileChecksum: SHA1: c8d2b8766147c73526429733cf4f1d0d8b10e337
+FileChecksum: MD5: 9ffedfe0937225a67dde6ce9bbce1a39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/gost-s-box.c
+SPDXID: SPDXRef-item858884
+FileChecksum: SHA1: be7c348821bcebcc60fced3fbeaa12cefe7ac7b1
+FileChecksum: MD5: fcbf782c6e8fb9031a72c1c35a8a772b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/primegen.c
+SPDXID: SPDXRef-item858886
+FileChecksum: SHA1: 42c0525edc362406c3623760721711410fa76eb8
+FileChecksum: MD5: b326229a8bc82f50b84b7e822cf77efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/stribog.c
+SPDXID: SPDXRef-item858888
+FileChecksum: SHA1: 6733c0d1fccae75a3fab2dd6c3fcdc8444911f42
+FileChecksum: MD5: 85cde5f5425a9b841a1dcd7386288b7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha1.c
+SPDXID: SPDXRef-item858890
+FileChecksum: SHA1: feb88d3de6093789a21b7685beb9c8d5c724c9d5
+FileChecksum: MD5: a62b3d24ecbe7968c04c1a7c209f9874
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-cbc.c
+SPDXID: SPDXRef-item858892
+FileChecksum: SHA1: 3d9739d8d72ae30840270568332039d40602083b
+FileChecksum: MD5: 5e2b0604c5e65475413afc3fb5fb33ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/Makefile.am
+SPDXID: SPDXRef-item858894
+FileChecksum: SHA1: 66ec213d0e4dbb257d1137d1cd04a4da3f0fb3a1
+FileChecksum: MD5: d72e40679539d3843becbcf9695b854e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/salsa20-armv7-neon.S
+SPDXID: SPDXRef-item858896
+FileChecksum: SHA1: b08ab2454b6df31a52aa606c79f92585ce72bafb
+FileChecksum: MD5: fb59a5fd4a5eb04f51f2150fa3a15483
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/camellia-aarch64.S
+SPDXID: SPDXRef-item858898
+FileChecksum: SHA1: 6119ecf9d9e0f838ebe7b49c18bc519c28411e4a
+FileChecksum: MD5: 50b21c41b65a3b1a0fe7a7d2b18ae0b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/kdf.c
+SPDXID: SPDXRef-item858900
+FileChecksum: SHA1: ef396745afbafbb440b4b74f25655699426b79fa
+FileChecksum: MD5: e9d3f9062354c87690ff95f323956240
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-poly1305.c
+SPDXID: SPDXRef-item858902
+FileChecksum: SHA1: 815f97e247492c5c37acbd14d6bfa8afee70fde5
+FileChecksum: MD5: 0b942a854b8f64f572495a27307b7cf4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/ecc-gost.c
+SPDXID: SPDXRef-item858904
+FileChecksum: SHA1: 41b59a43692eb723bfd55a10ae62f06f85ddd4a4
+FileChecksum: MD5: 6593f98d2e1b5f3bc3684da8c1e09e21
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rsa.c
+SPDXID: SPDXRef-item858906
+FileChecksum: SHA1: 44137ebad2063341169af7775774582e20cd2b1d
+FileChecksum: MD5: d1f7ecec435368372b81f6d9c2b2c09d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/kdf-internal.h
+SPDXID: SPDXRef-item858907
+FileChecksum: SHA1: a984befa0502ff53613e496bfa96d2bcf5cedd39
+FileChecksum: MD5: 037c5ab593f5b7f0efa1a304b268ee55
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/pubkey-util.c
+SPDXID: SPDXRef-item858910
+FileChecksum: SHA1: 1ea0659e57e47ab3d368c81d90e7dea966a14541
+FileChecksum: MD5: e8a6e08d0a174ba17adc9c2b0ac860b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/chacha20-sse2-amd64.S
+SPDXID: SPDXRef-item858911
+FileChecksum: SHA1: 97387603cdc0b611e6333f8d64110351f58b16fe
+FileChecksum: MD5: bbeb161ce83ca30b8303ad5076bb303a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher.c
+SPDXID: SPDXRef-item858913
+FileChecksum: SHA1: f9652a6f6f5af8beb3b3f7aa541728e8e1f76566
+FileChecksum: MD5: ccf6e4d6743b536f0218722352d85ceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/ecc-curves.c
+SPDXID: SPDXRef-item858916
+FileChecksum: SHA1: 7ed90686674eb8d2c12e18b559b1af4b4a463c85
+FileChecksum: MD5: 337db59b0db2c2dfc6066149d685062a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/des.c
+SPDXID: SPDXRef-item858918
+FileChecksum: SHA1: a833aea0a25485efee75ee89dd487c1c3bde80a4
+FileChecksum: MD5: 995a14c1a3a3cc3d1066c0ecc72d33eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-amd64.S
+SPDXID: SPDXRef-item858920
+FileChecksum: SHA1: 48c033c063fb710f4dd08872d7457245a1f7d736
+FileChecksum: MD5: 192745db24ba9089417392e6a5fd5aec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/md4.c
+SPDXID: SPDXRef-item858921
+FileChecksum: SHA1: 8a7258bc2e96ccb46bfeb588629a2cc66fee61eb
+FileChecksum: MD5: 6fbd7e702a422cca3c243a04e80b8b8b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/camellia-aesni-avx2-amd64.S
+SPDXID: SPDXRef-item858923
+FileChecksum: SHA1: f3696cf5298a526b5f0fc3d3c103cdb7ce3dacd1
+FileChecksum: MD5: 0f5aa8791c9fc5b02f76b3e1a7295a0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha256-armv8-aarch64-ce.S
+SPDXID: SPDXRef-item858925
+FileChecksum: SHA1: 4e5d5025d11327703d0a66484d947b69dbf17d22
+FileChecksum: MD5: eb0d34f3683fdd557fda7d0afad7e88d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha512-avx-amd64.S
+SPDXID: SPDXRef-item858927
+FileChecksum: SHA1: 84bf71ebd87f8982c745c1b87ed70f1f2cb1e337
+FileChecksum: MD5: 34fab9c0d8305263789111400de7bbee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha256-avx-amd64.S
+SPDXID: SPDXRef-item858929
+FileChecksum: SHA1: 9d591ca9d8d04acca6bacc1332bce9269df933d9
+FileChecksum: MD5: 33156d14a6be8370390ef5e5c783e85e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/crc.c
+SPDXID: SPDXRef-item858931
+FileChecksum: SHA1: e7b4864f230b5874047dd5eeb292e8b732b1be41
+FileChecksum: MD5: 10fbee7846ccdcfee619000ac9350768
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/camellia.c
+SPDXID: SPDXRef-item858933
+FileChecksum: SHA1: 7836a73477b84eaf28e334c7f803dcf41f05b262
+FileChecksum: MD5: 4592c0821de033f78817ef4209d0f8ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/pubkey.c
+SPDXID: SPDXRef-item858935
+FileChecksum: SHA1: 25f42364faccdb134583e0ab0cad49eca5ad9cea
+FileChecksum: MD5: eabb7963b071d2b9feb682ec816a8af9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/camellia.h
+SPDXID: SPDXRef-item858937
+FileChecksum: SHA1: 0b0a021b4aa7b239838a972d2464e028fb78c2c0
+FileChecksum: MD5: 7de8d01bea214810897c7943b9c5f222
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/ecc-common.h
+SPDXID: SPDXRef-item858939
+FileChecksum: SHA1: 17cf16a8c0860e5c8f649ab6b573cf78d399f9d6
+FileChecksum: MD5: 8c84532ee99edebe47868ad6b20ff787
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-gcm-intel-pclmul.c
+SPDXID: SPDXRef-item858941
+FileChecksum: SHA1: 8b115c710294ca89493edbccc984ea9209d4e4b4
+FileChecksum: MD5: 7da2578f828d30cc91edc85562e2a384
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/arcfour-amd64.S
+SPDXID: SPDXRef-item858942
+FileChecksum: SHA1: e83e7387c8ecbda40afd9470bc96e955a5d11d43
+FileChecksum: MD5: 822dd713293151703fde82a274222466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rmd160.c
+SPDXID: SPDXRef-item858944
+FileChecksum: SHA1: 0971eb2388919ea6e2fd29db5b8ac3726ca1a2fc
+FileChecksum: MD5: b921cd58bb6ea7f0aaad3b064e6f86c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/mac-internal.h
+SPDXID: SPDXRef-item858946
+FileChecksum: SHA1: a87e7309ae2ff9c95335b776dfa4b97fbe089374
+FileChecksum: MD5: 64023fb3b4edad367af44dd1dc79b40d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/hash-common.c
+SPDXID: SPDXRef-item858948
+FileChecksum: SHA1: e56a85976190501c12b998aea59bec15f1de3328
+FileChecksum: MD5: 5df9e3440b1b93e97e2c78e5a39e24db
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/mac-cmac.c
+SPDXID: SPDXRef-item858950
+FileChecksum: SHA1: 923c2c7b59cd425f4d03c7f9db12117d238e2825
+FileChecksum: MD5: 1025beecb6e251d618c0939365e74f28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-armv8-aarch64-ce.S
+SPDXID: SPDXRef-item858952
+FileChecksum: SHA1: 5743b699939dd961b3fec7f19072704c2b8b9a1c
+FileChecksum: MD5: 14c7a5f692944e8fde420318af1f1d01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/ecc-eddsa.c
+SPDXID: SPDXRef-item858954
+FileChecksum: SHA1: 644a1076bfc61cff41dc12463a0e18e3696d9a84
+FileChecksum: MD5: d5f5c6132030261a359b7ff963bfc8eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-tables.h
+SPDXID: SPDXRef-item858957
+FileChecksum: SHA1: 1a6b71663dfc30be39213beb629052ffd3b13ecd
+FileChecksum: MD5: 4334fac4debc85fe60050799d5243d16
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-aeswrap.c
+SPDXID: SPDXRef-item858958
+FileChecksum: SHA1: 5d7824aa2025ad2ce45c3338f0c8728415d9f4fc
+FileChecksum: MD5: e39493e8027341607aa45b15d2adb146
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-gcm-armv8-aarch32-ce.S
+SPDXID: SPDXRef-item858960
+FileChecksum: SHA1: 64971de42a387a8e51a526d15dbd6fbe0c8a9cf3
+FileChecksum: MD5: a347931857b183428a346d3b2a9ab047
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-cfb.c
+SPDXID: SPDXRef-item858962
+FileChecksum: SHA1: 31a79af11011e75c533a75c3eaa7d56788dd48df
+FileChecksum: MD5: 0c42c28fced6c7fe9b157d7e3761a1f7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/poly1305-internal.h
+SPDXID: SPDXRef-item858964
+FileChecksum: SHA1: b9e343feb5dfd65835907775e194f5b1738cf707
+FileChecksum: MD5: 2d38598d6ab2b9e2b809341321899195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/twofish-aarch64.S
+SPDXID: SPDXRef-item858967
+FileChecksum: SHA1: 7c16a793cf32d791d357d66f36c56d5492bfdc26
+FileChecksum: MD5: b3998b0c631e4202cee5fe90167ff538
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/twofish-amd64.S
+SPDXID: SPDXRef-item858969
+FileChecksum: SHA1: 803115519aaa9384891d93015d30bf3c2c08e307
+FileChecksum: MD5: 0a062cdb5eb8e60a1204289663190655
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/arcfour.c
+SPDXID: SPDXRef-item858970
+FileChecksum: SHA1: 2a939168c65aba30e6a1a313dc8250783f8feeaa
+FileChecksum: MD5: 861af5bab603bb7b4da9f762e3bd0f77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/twofish-arm.S
+SPDXID: SPDXRef-item858972
+FileChecksum: SHA1: 377222196ff5ef16ab73558d62990dbfb71e313c
+FileChecksum: MD5: bcdae8b4d586b0525ebbf173833e7067
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/bithelp.h
+SPDXID: SPDXRef-item858974
+FileChecksum: SHA1: 4e95d993373225b326e85ed6ad81363e4cb30230
+FileChecksum: MD5: 2c5f4be4adad66da13aecf3e2bee0e19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/twofish-avx2-amd64.S
+SPDXID: SPDXRef-item858976
+FileChecksum: SHA1: 12ac25ec8420d09479079a97fc2d04e7aa8e891f
+FileChecksum: MD5: 1aa49dc6ce50a9a39802bdfccf7e4bbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rfc2268.c
+SPDXID: SPDXRef-item858978
+FileChecksum: SHA1: a75146155fc4c9748c9cf8ac187cf40832de67db
+FileChecksum: MD5: a7140b1d96cd1ff78818857451559dc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/poly1305.c
+SPDXID: SPDXRef-item858980
+FileChecksum: SHA1: 825d8e3056ed7ff07a5f7d78d312dc7870d99781
+FileChecksum: MD5: eb806ae40026d6b1bd9c4b4ad89dc962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha512-ssse3-amd64.S
+SPDXID: SPDXRef-item858982
+FileChecksum: SHA1: f98a4591f10f4ba013ded2144a21a855ebc8365d
+FileChecksum: MD5: ab11777a779d091b8c7931569dccb28d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/keccak_permute_64.h
+SPDXID: SPDXRef-item858984
+FileChecksum: SHA1: f8d7aa29dfbba4f97955f3d3e0468fa0fb6b774b
+FileChecksum: MD5: abc6e3dddde1da24851dd9dfbacf30a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/camellia-glue.c
+SPDXID: SPDXRef-item858987
+FileChecksum: SHA1: 8d4124632ec3c18b55699f64fdf12f2a914c1f3d
+FileChecksum: MD5: ad0b36a6c894bcbf9dcb11e22e6a81ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-ofb.c
+SPDXID: SPDXRef-item858989
+FileChecksum: SHA1: 49431cdcd78c9bdcf0c24c38a391abe45bd9716f
+FileChecksum: MD5: de91b20845a7716288260e487bc46c85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha1-armv8-aarch64-ce.S
+SPDXID: SPDXRef-item858991
+FileChecksum: SHA1: 283ce0c9bf6107d42f1bf1bec37f2e04fc93c111
+FileChecksum: MD5: a1c6311843e247217e0a4d15a38ebb5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/blowfish-amd64.S
+SPDXID: SPDXRef-item858992
+FileChecksum: SHA1: f13ed18b712a3ded4883b5806621d3babf7b7e25
+FileChecksum: MD5: 57049f128893c5da7e92bf29913d6c3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-armv8-ce.c
+SPDXID: SPDXRef-item858994
+FileChecksum: SHA1: 22bf9dcd6ac247ae609679603071a3186f7c9a56
+FileChecksum: MD5: 7d6e7c98b5c7d986b083b8e9dbb48258
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/salsa20-amd64.S
+SPDXID: SPDXRef-item858996
+FileChecksum: SHA1: 8208eed7f38374f6596e1121a53e5043c2440ea6
+FileChecksum: MD5: 78156929f323b8711bd91ab824e09a2b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cast5-amd64.S
+SPDXID: SPDXRef-item858998
+FileChecksum: SHA1: 8fb5186c04e9efa6d5137d1dab56805150c63dde
+FileChecksum: MD5: 347cb08ce1e2f2a621e9660039a28fbf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/gost28147.c
+SPDXID: SPDXRef-item858999
+FileChecksum: SHA1: 43622f13cfc8c7281eb96e603ccb0c773b4c5e1a
+FileChecksum: MD5: ab23d4f1ce8493487b5110a9cd75176f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/idea.c
+SPDXID: SPDXRef-item859001
+FileChecksum: SHA1: a68f3f78ea54dd75a1f1ec89c1d88815e2510063
+FileChecksum: MD5: 8a29a53b4dca01cdf02b2ea0d9a7faee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/des-amd64.S
+SPDXID: SPDXRef-item859003
+FileChecksum: SHA1: 9562565632606f6cba3776e78af65e3e7a8d4282
+FileChecksum: MD5: 5fd4e7efebff62145f113aa0f1b66924
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha512-armv7-neon.S
+SPDXID: SPDXRef-item859004
+FileChecksum: SHA1: 87b7e9e3f7d13dd70fb07ef9c5fcaa4e043b7f13
+FileChecksum: MD5: 41024ec55f270e5102813ab0d819a396
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cast5.c
+SPDXID: SPDXRef-item859007
+FileChecksum: SHA1: 894179b90626c5330ad32a70b86c2c2a62641643
+FileChecksum: MD5: a06730f9cc9b2a96fd903e4b881ec1c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/pubkey-internal.h
+SPDXID: SPDXRef-item859008
+FileChecksum: SHA1: c57a93f4a42d1c1e7558e9a0e6683d9593607020
+FileChecksum: MD5: 79fa754670a311a5321fe64872490baf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/bufhelp.h
+SPDXID: SPDXRef-item859010
+FileChecksum: SHA1: 142f34de922e48994a3f3db200fc475514fed726
+FileChecksum: MD5: df61ca4e803024a3e8ff8916992695d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/tiger.c
+SPDXID: SPDXRef-item859012
+FileChecksum: SHA1: ed53b0610383bed3f8c57a3562f3e5b1d5e2a2bb
+FileChecksum: MD5: 5748b239c02dfa95b6cf76a2095a63e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/camellia-arm.S
+SPDXID: SPDXRef-item859013
+FileChecksum: SHA1: 5164390aa8fa35a01a96d1d25fdc139f7974a50c
+FileChecksum: MD5: 22fb3408e0873e5e713212e375479c5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/mac.c
+SPDXID: SPDXRef-item859016
+FileChecksum: SHA1: 56d0948731de4b991f3260653cf6948df78829ad
+FileChecksum: MD5: c8e7400997b0598936f61c9d96e2090b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/ecc-misc.c
+SPDXID: SPDXRef-item859018
+FileChecksum: SHA1: 14e3ebad3a984663d766968ba289070374a5c617
+FileChecksum: MD5: e694abaa4d5b183ff41cc795cd1d5f62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/rijndael-padlock.c
+SPDXID: SPDXRef-item859019
+FileChecksum: SHA1: 00df7265dde765ad1e81c8a6d5d8fe2d26f328eb
+FileChecksum: MD5: 4fe39a6d46071eaae3780a22d1c81903
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/poly1305-avx2-amd64.S
+SPDXID: SPDXRef-item859021
+FileChecksum: SHA1: 1f30ab31660e2da4e693ac9ae3b9012bcc4a46a2
+FileChecksum: MD5: ddc3e3666d04fb9744c55f59dc229095
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/gost.h
+SPDXID: SPDXRef-item859023
+FileChecksum: SHA1: 27991d5f472c72798faf92d000446973f3cd4e8f
+FileChecksum: MD5: 90af80049c939e499b2695a3db4c282c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/twofish.c
+SPDXID: SPDXRef-item859026
+FileChecksum: SHA1: b3f8286f4de264ef8e3084e680aaa98b49670326
+FileChecksum: MD5: 335a4e93ceeb1c1625dc0f5c975744e4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/whirlpool.c
+SPDXID: SPDXRef-item859028
+FileChecksum: SHA1: edc59586f2e472b694743816253723a50500c293
+FileChecksum: MD5: b533247464ebdd79573447722ad48c01
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/cipher-ocb.c
+SPDXID: SPDXRef-item859030
+FileChecksum: SHA1: 720ae2fe35eb4ea3aa3a3e242507456b957b28ae
+FileChecksum: MD5: 23834511c74c037c290658025a5f8293
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/blowfish-arm.S
+SPDXID: SPDXRef-item859032
+FileChecksum: SHA1: f20af0ebd59967ad96b24c84eddd67fe44daca75
+FileChecksum: MD5: 013316745eda370ba5ee364a63b25383
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/sha1-armv8-aarch32-ce.S
+SPDXID: SPDXRef-item859033
+FileChecksum: SHA1: cf12f1d219291767473df1ecc069f813c121d39d
+FileChecksum: MD5: db86faaa99ccb2fbc230169883b75397
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/poly1305-sse2-amd64.S
+SPDXID: SPDXRef-item859035
+FileChecksum: SHA1: 67c2e293054f60fd12579dc8fc6667e0a1ac4f1f
+FileChecksum: MD5: 9b94213e7e633f278b2da5202e153609
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/ecc.c
+SPDXID: SPDXRef-item859038
+FileChecksum: SHA1: c537272888facb96089f3178ddf620c5c001a602
+FileChecksum: MD5: c87846db545e910326d879a86ab7e881
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/cipher/camellia-aesni-avx-amd64.S
+SPDXID: SPDXRef-item859041
+FileChecksum: SHA1: 3a67611da21745714dcf070691285192a6733d24
+FileChecksum: MD5: 3ea6538dcecff02d2948fa6c884b157e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/random-daemon.c
+SPDXID: SPDXRef-item859046
+FileChecksum: SHA1: 88c1ee74bd3c0ccd33bd68c9354654b99be95e4b
+FileChecksum: MD5: 2d5ec46f7aa92f54102ef49f69402561
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/jitterentropy-base.c
+SPDXID: SPDXRef-item859048
+FileChecksum: SHA1: 22bc01ceba2a46f05d4fdf26d8a7a22077c5219e
+FileChecksum: MD5: f3285a5fd1c22dc8d85e09c5710f9005
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/random.h
+SPDXID: SPDXRef-item859049
+FileChecksum: SHA1: 2ed072db6b7899e2bc19c81eb603d0775deca49b
+FileChecksum: MD5: 393abfdb378b76c47678b9d55ffdc565
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/rndunix.c
+SPDXID: SPDXRef-item859051
+FileChecksum: SHA1: 4430a5bd6aed7bb25e2a27efeac2d0dcb18d080c
+FileChecksum: MD5: fcc381975b93ad57ee3015aa69d2adb1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/rndegd.c
+SPDXID: SPDXRef-item859054
+FileChecksum: SHA1: 5b84f4ccde9192110725b1a90741fa1f5c7b0861
+FileChecksum: MD5: 24b5c1cdd7a5ef39926856e20f520136
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/Makefile.in
+SPDXID: SPDXRef-item859057
+FileChecksum: SHA1: 7488158718f9390b2716a331b912818f135ca571
+FileChecksum: MD5: b99c83fe997904bf7cc28fb30fa7706e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/jitterentropy.h
+SPDXID: SPDXRef-item859059
+FileChecksum: SHA1: fa669e67c2689c2087a00ebbc49686cc0a134fd9
+FileChecksum: MD5: a26b9ce3d23ae561a678ba99e73d87ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/random-drbg.c
+SPDXID: SPDXRef-item859060
+FileChecksum: SHA1: 3086ba4769bc36696950f039fa99677074bbbcb1
+FileChecksum: MD5: 2efd74bcb71d03936609551eceb5f125
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/ChangeLog-2011
+SPDXID: SPDXRef-item859062
+FileChecksum: SHA1: b03d985be4f97f98bf4dd09c7b1972958d3470f9
+FileChecksum: MD5: 3df91e23b2808bcd3cf65238db1c103f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/rndlinux.c
+SPDXID: SPDXRef-item859065
+FileChecksum: SHA1: 0f1994e4bb4bf9fc450c06eabb92f5c9fed22b9c
+FileChecksum: MD5: 1cced5ff0cc8eccc00a1a87ec5d90ad1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/random-system.c
+SPDXID: SPDXRef-item859066
+FileChecksum: SHA1: 28f05a97f71a7ce09a5161166a65e6c2cd6a05f7
+FileChecksum: MD5: 15f56eed8f4e27372894df7930347f0b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/rndw32ce.c
+SPDXID: SPDXRef-item859068
+FileChecksum: SHA1: fc118450de4b8ee51585626f1ab605d8f4278d8c
+FileChecksum: MD5: 79f266296a21214bc43051378e4d47ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/Makefile.am
+SPDXID: SPDXRef-item859071
+FileChecksum: SHA1: 233beb34875e7035bb34d0869ec56b0fd7a3f3b3
+FileChecksum: MD5: 4d85f03bb760178f8f61af9791d94b3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/random.c
+SPDXID: SPDXRef-item859073
+FileChecksum: SHA1: 6250e1139f4c90228f9a9c97830d74d7dea60400
+FileChecksum: MD5: f71ef397f0238f5fb4d470ab894cd82f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/rndjent.c
+SPDXID: SPDXRef-item859075
+FileChecksum: SHA1: 1376feed04c24a41273de3c7e3758d0862cc77ee
+FileChecksum: MD5: 6b41cd821a4bfe8f72f0e7a5a8288f58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/jitterentropy-base-user.h
+SPDXID: SPDXRef-item859076
+FileChecksum: SHA1: 87102ef200de3baff3fdff5076aea6558f3cd93e
+FileChecksum: MD5: b205bbf920dc1bb41b23704aa8ae2333
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/rand-internal.h
+SPDXID: SPDXRef-item859078
+FileChecksum: SHA1: 9ad82b9f2e67b704bbb061c20722c13a0ab7e55c
+FileChecksum: MD5: da160e634014e9a5917c9d5b737545e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/rndhw.c
+SPDXID: SPDXRef-item859080
+FileChecksum: SHA1: 6436cb495f7e40eb529906b97f6c52378a994b8e
+FileChecksum: MD5: 70e8929eca5c6c8ddfc25e4cdf9fb67d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/rndw32.c
+SPDXID: SPDXRef-item859082
+FileChecksum: SHA1: 84a49b840f087060b7ed467b9401fba95383f5d7
+FileChecksum: MD5: 525a7eb23903f51cb07052503139fe08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/random/random-csprng.c
+SPDXID: SPDXRef-item859085
+FileChecksum: SHA1: ba5e0a2cde1038671bcafb069895161d51a240b1
+FileChecksum: MD5: c6415ea96995a84651fd76aaa6356e80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mkinstalldirs
+SPDXID: SPDXRef-item859087
+FileChecksum: SHA1: 895141cd08169e25df42271b3359588b24712549
+FileChecksum: MD5: 5b95d954f46f66d92fc7709818525427
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-ref
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/COPYING.LIB
+SPDXID: SPDXRef-item859089
+FileChecksum: SHA1: 0bf81afbc585fd8fa3a9267d33498831f5a5c9c2
+FileChecksum: MD5: bbb461211a33b134d42ed5ee802b37ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/aclocal.m4
+SPDXID: SPDXRef-item859091
+FileChecksum: SHA1: 4becfb5c2c37e1f39b8edd0176be03800629e9ad
+FileChecksum: MD5: 9a00591935d62c95f02b18894de810e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/Makefile.in
+SPDXID: SPDXRef-item859094
+FileChecksum: SHA1: b53180db62ba6661bcdff2cae51238463c1c4390
+FileChecksum: MD5: 392413237c2d56467b0f1e3130ba8653
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/COPYING
+SPDXID: SPDXRef-item859096
+FileChecksum: SHA1: dfac199a7539a404407098a2541b9482279f690d
+FileChecksum: MD5: 94d55d512a9ba36caa9b7df079bae19f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/configure
+SPDXID: SPDXRef-item859097
+FileChecksum: SHA1: ddb2d2560d538b95dbc6157a5666c55e25818cbb
+FileChecksum: MD5: 00d8641a21b336e7f1ee4e47f65d9ae4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/LICENSES
+SPDXID: SPDXRef-item859099
+FileChecksum: SHA1: 7d3dbb318476dbd696485279e2aa0e9538ad3a0a
+FileChecksum: MD5: 840e3bcb754e5046ffeda7619034cbd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: LicenseRef-GPL
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-LGPL
+LicenseInfoInFile: LicenseRef-WebM
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/context.h
+SPDXID: SPDXRef-item859101
+FileChecksum: SHA1: a489c45d985f9ebcfc62dba5632a6d5d4738ddb0
+FileChecksum: MD5: 8771e681998a022a82826dcdd85cfd83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/hwfeatures.c
+SPDXID: SPDXRef-item859102
+FileChecksum: SHA1: 654951014c4f63f8565351473200b6b00a132651
+FileChecksum: MD5: ac6e5fe1363a2d65e826f3621c1d2ee0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/libgcrypt.m4
+SPDXID: SPDXRef-item859103
+FileChecksum: SHA1: 59832fbdd6e9c36095274950a6740c38380bae5a
+FileChecksum: MD5: 60e68795d7e089caeb9ebf3a98a4e892
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/secmem.c
+SPDXID: SPDXRef-item859105
+FileChecksum: SHA1: 9799a719cf71f50ec49969415c17854a2b7add79
+FileChecksum: MD5: c8dff50dc454ad28c38452f078848e24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/versioninfo.rc.in
+SPDXID: SPDXRef-item859107
+FileChecksum: SHA1: 5ea08fd320ef46513fe66c699355e4d90992866e
+FileChecksum: MD5: ffb6d4d59084e777ff5213233989748f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/hmac256.c
+SPDXID: SPDXRef-item859110
+FileChecksum: SHA1: 51418b12f7795364facb2b0de29d13a065ddc849
+FileChecksum: MD5: 3fe021e451017adae526279ba2227d24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/hwf-arm.c
+SPDXID: SPDXRef-item859111
+FileChecksum: SHA1: f8b977396c6b89f6071d48356d7e345cee973b41
+FileChecksum: MD5: 3c8538c67566d167fc52d15af8e60c11
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/gcryptrnd.c
+SPDXID: SPDXRef-item859114
+FileChecksum: SHA1: 0e3be389891a87f87b4e8e45a581531e5e2b00e1
+FileChecksum: MD5: 1c2bfe012cfd57eb324e9467ad1f90d8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/gcrypt-int.h
+SPDXID: SPDXRef-item859116
+FileChecksum: SHA1: f4257bf772acfd7c3424a9b3c2d132e09f61ea2f
+FileChecksum: MD5: 3c0f71e00ad066aa29100dae6f3872fe
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/getrandom.c
+SPDXID: SPDXRef-item859117
+FileChecksum: SHA1: 417acb0cf25363daab982cbea7fb3c85356019cb
+FileChecksum: MD5: d94f915ce0eb9cc872e2cbf9e87cf14f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/secmem.h
+SPDXID: SPDXRef-item859119
+FileChecksum: SHA1: d87e8d51868d989756f0d017ac470a97437e8601
+FileChecksum: MD5: 108e49bde34c0efa366f1d0daec9b696
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/visibility.h
+SPDXID: SPDXRef-item859121
+FileChecksum: SHA1: 11e12d4756ff9dc8a9d4b9baab7c922715b02a33
+FileChecksum: MD5: 7f17b79249ba4f2743ad5cfb3340b73c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/Makefile.in
+SPDXID: SPDXRef-item859124
+FileChecksum: SHA1: 6605b0bf8d4683bad46b8a0d3393480babfc6a13
+FileChecksum: MD5: ddd37ffd718f0cd9f4d66361d767ac51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/fips.c
+SPDXID: SPDXRef-item859126
+FileChecksum: SHA1: d15fcc8842a22cec293abe2d769692921ef991ca
+FileChecksum: MD5: 3e1b2daff3ffbd970782a9e1e6a0f9b1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/sexp.c
+SPDXID: SPDXRef-item859128
+FileChecksum: SHA1: 538f09828d894c5bbfe40a52e56e55c419d22c67
+FileChecksum: MD5: 3a824d293eb8c3668e085919e635e5ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/libgcrypt.def
+SPDXID: SPDXRef-item859131
+FileChecksum: SHA1: b725be2657a3a963e3470decd5cfed82e3ae9634
+FileChecksum: MD5: 725509ad000688abe72646e2f6486259
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/cipher-proto.h
+SPDXID: SPDXRef-item859133
+FileChecksum: SHA1: ed0023866fd6f756d2640fd76f0eedf1d4f54190
+FileChecksum: MD5: a8aa336c090a99978b988d254ccc79b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/cipher.h
+SPDXID: SPDXRef-item859135
+FileChecksum: SHA1: 385a768e67bb81b69c364833813427ae91fa874b
+FileChecksum: MD5: ae5f176e3662ed87f39f3b548498baee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/libgcrypt.vers
+SPDXID: SPDXRef-item859137
+FileChecksum: SHA1: 5fd7d07ca97b7083c7b08b60a7a429591cf90cf1
+FileChecksum: MD5: 61d1c6e726f18ef2698d812990af0ee0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/ChangeLog-2011
+SPDXID: SPDXRef-item859140
+FileChecksum: SHA1: ed21190510fac439c31aacf9307a390258fd4b6f
+FileChecksum: MD5: 8ead1af24081c7bb7eba51be56834f7c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/libgcrypt.pc.in
+SPDXID: SPDXRef-item859142
+FileChecksum: SHA1: d4414ee783ea53565f69e808c844528b18043641
+FileChecksum: MD5: ec9186a1b5a2f614a972fb6ec3dd56c0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/dumpsexp.c
+SPDXID: SPDXRef-item859144
+FileChecksum: SHA1: fd84708179b8d83d7a4f1a5c4ee779592bec36ba
+FileChecksum: MD5: c392e62bfce0d672e91c760431986edf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/Makefile.am
+SPDXID: SPDXRef-item859146
+FileChecksum: SHA1: ab8f65ea409698940e11533bd6321a2b861f82be
+FileChecksum: MD5: eaa70829582fb67e7c0dafc1b269d199
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/gcrypt.h.in
+SPDXID: SPDXRef-item859148
+FileChecksum: SHA1: 72b328be6174a262aec71f69537c54cb727435c7
+FileChecksum: MD5: 6fa24ff1d35ac7c07a334458bd597f26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/hwf-common.h
+SPDXID: SPDXRef-item859150
+FileChecksum: SHA1: efec4ffc2363b1e28bf01112ef267374b54bc3e0
+FileChecksum: MD5: 50a245022e011a83d977a6fba44ff685
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/gcrypt-testapi.h
+SPDXID: SPDXRef-item859151
+FileChecksum: SHA1: d6906a0bf5b524b88c6ccc90ff7f1757fd274d66
+FileChecksum: MD5: 20f4cfe1c419860d00be229c04b08850
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/libgcrypt-config.in
+SPDXID: SPDXRef-item859152
+FileChecksum: SHA1: 7998a7a7a00dbefe0cf2e7205ad44fdced04d5b3
+FileChecksum: MD5: 10fb462ede3166adcd48b3fc9457c933
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/mpicalc.c
+SPDXID: SPDXRef-item859153
+FileChecksum: SHA1: e9bc0180140d032fe669169ddcf1a935a97a58fc
+FileChecksum: MD5: 7988dd28ec29d915030ecfed181dd5b2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/hmac256.h
+SPDXID: SPDXRef-item859155
+FileChecksum: SHA1: bb764af9155df1e08f2da2a10d7afdf3890c40c7
+FileChecksum: MD5: 1d0b27b36c828e65c6423934e149d9f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/visibility.c
+SPDXID: SPDXRef-item859156
+FileChecksum: SHA1: 94515b6d72db5b18489e8a8127c114e74d9b4ef1
+FileChecksum: MD5: d126cfb9e813dfd25c8b43c4c7a6ae94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/ec-context.h
+SPDXID: SPDXRef-item859160
+FileChecksum: SHA1: c1231aad2427860d95bf9555228612eb1f134cdc
+FileChecksum: MD5: 26bdeb2ee2c7e15eafe724fd46c12754
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/stdmem.h
+SPDXID: SPDXRef-item859161
+FileChecksum: SHA1: 723a70927bfc0fc44e18458617532b2711e4863f
+FileChecksum: MD5: f01aa916262d3e36eb9a9f68b23e1772
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/missing-string.c
+SPDXID: SPDXRef-item859164
+FileChecksum: SHA1: 30e78861430fcc51d93ebbaa42ab4a23fd4f67d2
+FileChecksum: MD5: d1a30398dc7211c5fcdb9a960a759525
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/context.c
+SPDXID: SPDXRef-item859166
+FileChecksum: SHA1: 2e199cfded97ceb21e0c68b614379ecdb9463efa
+FileChecksum: MD5: 35fdf6144718cfc3726f42ac0fc45665
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/stdmem.c
+SPDXID: SPDXRef-item859167
+FileChecksum: SHA1: 1b12baad19b925c2c0167c943fd71faea69ed648
+FileChecksum: MD5: 1a81779ababe6ccd3a6a38a7039200d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/g10lib.h
+SPDXID: SPDXRef-item859169
+FileChecksum: SHA1: 58c3b9756e1d4256120071e1b7506b6a597f94dd
+FileChecksum: MD5: 1bdcb85f82bbacb91531b6b8a71434ed
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/global.c
+SPDXID: SPDXRef-item859171
+FileChecksum: SHA1: d751033f395bec480abe42faf31a1efa8e50981b
+FileChecksum: MD5: 1d044e815de9bb9d43c5e5136aa4943c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/hwf-x86.c
+SPDXID: SPDXRef-item859173
+FileChecksum: SHA1: 447fa36eec546bd7991cec4e0802c5cd392cb88f
+FileChecksum: MD5: fdf50afe9dbe158c714bd768f2b30f68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/types.h
+SPDXID: SPDXRef-item859175
+FileChecksum: SHA1: b6f34e08170742f1680c0830bd72d884c22d02c1
+FileChecksum: MD5: 9713e214b09d5d0f654eb43b3f40540f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/mpi.h
+SPDXID: SPDXRef-item859177
+FileChecksum: SHA1: 237de22939dcea652c9e5fcc73d204d33291d11c
+FileChecksum: MD5: ee9f0f604e7f2dac17808b1b1279b78a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/src/misc.c
+SPDXID: SPDXRef-item859178
+FileChecksum: SHA1: 94b2e67a81efb1d203cc0b1295a54b123210dc76
+FileChecksum: MD5: cb96e5246aab121d45866c874855d486
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/compat/clock.c
+SPDXID: SPDXRef-item859182
+FileChecksum: SHA1: c451455882f37b6357e3d968ad95b3df21374a24
+FileChecksum: MD5: 692d9230e42da0eb685d06f85daac2e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/compat/libcompat.h
+SPDXID: SPDXRef-item859183
+FileChecksum: SHA1: 43c0a36a94a93c7cb631fec3548e2ae4412d32b6
+FileChecksum: MD5: d036622cde2f054987535bab2ac468a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/compat/Makefile.in
+SPDXID: SPDXRef-item859186
+FileChecksum: SHA1: 10ec09cb723d8602ae878ff06fd754bbc1fbb8b2
+FileChecksum: MD5: d0abfedc39385cbd777dd64e81c74c46
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/compat/getpid.c
+SPDXID: SPDXRef-item859188
+FileChecksum: SHA1: ff1e132b5dfd5230e5bc5e2e2ae4d6e1164444a6
+FileChecksum: MD5: aca67d4f04afc1f1496c43dfa86c5a15
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/compat/Makefile.am
+SPDXID: SPDXRef-item859189
+FileChecksum: SHA1: e825b90adb3b6556ec02700fc82d46a296636ffb
+FileChecksum: MD5: 048cfd693b4043301cbe5a9f624f4a74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/compat/compat.c
+SPDXID: SPDXRef-item859191
+FileChecksum: SHA1: 3ec1e7e3f1bf2b842878be6215deee870d062064
+FileChecksum: MD5: 6243fee892156ecb10be5f63b75b9d80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/ChangeLog-2011
+SPDXID: SPDXRef-item859193
+FileChecksum: SHA1: d86c60b5f74a949de43f9700158fde1bbdd58eb8
+FileChecksum: MD5: fb7fc0157adb4452665cf29e25af7b0e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/THANKS
+SPDXID: SPDXRef-item859195
+FileChecksum: SHA1: 92fdae2cffef6c21a26eaaaa8565e8e317274d42
+FileChecksum: MD5: 4ddaca64550b291c48562ddb8640a516
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/ltversion.m4
+SPDXID: SPDXRef-item859197
+FileChecksum: SHA1: 25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68
+FileChecksum: MD5: 91dd5e1355d100dbdab7d71244ed2625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/libtool.m4
+SPDXID: SPDXRef-item859200
+FileChecksum: SHA1: 1a7ebcd38892f8ea08cda5ce30de742688c5d154
+FileChecksum: MD5: 3079202979d986eaa5b37dd3a0c7359d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/ltoptions.m4
+SPDXID: SPDXRef-item859201
+FileChecksum: SHA1: 05ec66892c8b30f20aa5278e1671ae4925a9c063
+FileChecksum: MD5: 67d5ebceaac562ddf0dde4e5cdffbe09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/gpg-error.m4
+SPDXID: SPDXRef-item859203
+FileChecksum: SHA1: 16aacbd02ec78e4e6c646f7354bf2151b5528ec9
+FileChecksum: MD5: 5f6d92631dafe0746085dcb59f47a4c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/Makefile.in
+SPDXID: SPDXRef-item859206
+FileChecksum: SHA1: f2fc37401c15448f3000139561f8b1cd47091ddd
+FileChecksum: MD5: ab12aed0d6a6a33d0c89b93956448ac5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/ChangeLog-2011
+SPDXID: SPDXRef-item859208
+FileChecksum: SHA1: 68d9f8ce5990c3171b5fe8da798d24ae08acd533
+FileChecksum: MD5: eb678e221fedd2d7627ae477413ec12a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/Makefile.am
+SPDXID: SPDXRef-item859209
+FileChecksum: SHA1: 473ffa06e41568b39301f1c65326e32880465bce
+FileChecksum: MD5: 583ff36abcffbfac8d47fd67c667af08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/onceonly.m4
+SPDXID: SPDXRef-item859211
+FileChecksum: SHA1: 9260618c61892b8e4eea34ed2ab9ecaa779e4aa2
+FileChecksum: MD5: 48ad71a15c9d034cca3560675dbe8296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/ltsugar.m4
+SPDXID: SPDXRef-item859213
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/sys_socket_h.m4
+SPDXID: SPDXRef-item859214
+FileChecksum: SHA1: 6669e1b2bf2dd799ce59f17afd1d0f3ffe5a87d8
+FileChecksum: MD5: 8dfc0305972386b44a6022bbd292d5b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/socklen.m4
+SPDXID: SPDXRef-item859215
+FileChecksum: SHA1: f4fb0c03e1f558c906f68276a3d490011c28b94b
+FileChecksum: MD5: f07a5889b2bf017b42f5a2ce3d65001e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item859217
+FileChecksum: SHA1: c0c6afe569131b4015d221bc853053cf884b2699
+FileChecksum: MD5: 47d420a13f9ba4e171772c3e3eee3e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/m4/noexecstack.m4
+SPDXID: SPDXRef-item859218
+FileChecksum: SHA1: b6a92d4eb16cfc7f43cb0d5c40d535946d39c6a4
+FileChecksum: MD5: 093d53c8f8583f88818bd6f0fa933a6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/TODO
+SPDXID: SPDXRef-item859221
+FileChecksum: SHA1: 08cdeb93291ff007baac89d2bde5a30ca2dbaf14
+FileChecksum: MD5: 3b9caac25c0537cc28049263c3a4d2f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/config.h.in
+SPDXID: SPDXRef-item859223
+FileChecksum: SHA1: 67a3cddb18c700f1703ee2c894ba41bad50cf812
+FileChecksum: MD5: 5387b031a6db85bd0e544306db97cb94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/Makefile.am
+SPDXID: SPDXRef-item859224
+FileChecksum: SHA1: 6ce9e4a274de9a663c8169b320f84c7eee8f522c
+FileChecksum: MD5: 5ccd95ed8acfe489414bd5370ab32764
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/VERSION
+SPDXID: SPDXRef-item859226
+FileChecksum: SHA1: 7ae59bbb6827b8a95d0f661846b3b929ef692556
+FileChecksum: MD5: 709edc8586242d571564a7723b189790
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/autogen.rc
+SPDXID: SPDXRef-item859228
+FileChecksum: SHA1: 9fc8cdd55b5fdb3433423a30363db83f4b9fdc90
+FileChecksum: MD5: 634b81f16ff4d4848f5ba3c0cb7d504c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/AUTHORS
+SPDXID: SPDXRef-item859230
+FileChecksum: SHA1: 831e5661b4bcbcc23fc1e30fdcfb9f366e6cb15b
+FileChecksum: MD5: cc1d5820a7c26be3895554731e263da0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/fipsdrv.c
+SPDXID: SPDXRef-item859234
+FileChecksum: SHA1: f2372a5e1b9b591f7081ec8953762fb37e60df4a
+FileChecksum: MD5: 46c89bed13833b616b16aca0826e02b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-ed25519.inp
+SPDXID: SPDXRef-item859237
+FileChecksum: SHA1: 4069b82b6e01e2eafa49ac50705deb4b2f512d72
+FileChecksum: MD5: 85054b9f90ab1794a5aef4306852415e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-lock.c
+SPDXID: SPDXRef-item859239
+FileChecksum: SHA1: bd87a0bb3466d38fb5620a9fc4a0da3da06dd1c4
+FileChecksum: MD5: 2a1ac50e8ad137f6af13403a66a1889e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/keygen.c
+SPDXID: SPDXRef-item859240
+FileChecksum: SHA1: 8fcbb00d08072521a9d5ec68a47cc02eb58dd18c
+FileChecksum: MD5: 585f4387ad527b7b123d1f2441c8fec5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/hashtest-256g.in
+SPDXID: SPDXRef-item859241
+FileChecksum: SHA1: 6fd58e3429df87a6640ac731aef1e93b03d72379
+FileChecksum: MD5: f1ec1599f21b9b18eaa92baf570e68ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/pkcs1v2-pss.h
+SPDXID: SPDXRef-item859243
+FileChecksum: SHA1: 25123b877e283f43c9e19d26b660e7d6a2eb463f
+FileChecksum: MD5: 2d0be091a9adf0e9e10119f26489a013
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-convert.c
+SPDXID: SPDXRef-item859245
+FileChecksum: SHA1: 9b38906ff8f8b6f002566f46ab09385a73374e2c
+FileChecksum: MD5: eb5cc95fc6dee55edbbf8d87bf5e4734
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/prime.c
+SPDXID: SPDXRef-item859246
+FileChecksum: SHA1: 612d3b2cec22f4b326ea47f7ce14012c49516d43
+FileChecksum: MD5: 704aec920e2f2dee715133876d5b6225
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/sha3-256.h
+SPDXID: SPDXRef-item859249
+FileChecksum: SHA1: 8e1d782e1f5691eb9e6d34ca0dbd774d55697192
+FileChecksum: MD5: a28e061a299c97d3f63d7c8b0f3ff466
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/pkcs1v2-v15c.h
+SPDXID: SPDXRef-item859253
+FileChecksum: SHA1: e74306ceb57985108155a3ed8b03967d7dd34f35
+FileChecksum: MD5: dd241b9da2c6e48bbbdb0afa98cd98a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/hmac.c
+SPDXID: SPDXRef-item859256
+FileChecksum: SHA1: b363887b532e5f7d26aeadc236234a8f2d053eaf
+FileChecksum: MD5: 5a735bc7a8cc5a6d56f527ab75ebcdcf
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-cv25519.c
+SPDXID: SPDXRef-item859258
+FileChecksum: SHA1: ebef0a17e0f8cf05cbb16cf985ecd936962b3740
+FileChecksum: MD5: 991caea829a568cb93d0a7bbf9efbf35
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/curves.c
+SPDXID: SPDXRef-item859260
+FileChecksum: SHA1: 44577726cd5db202e80fcdab85d4205fe015a090
+FileChecksum: MD5: 15afc865fba1bdacc4cbb9ceb5b8b1b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/benchmark.c
+SPDXID: SPDXRef-item859263
+FileChecksum: SHA1: ed498ebd58b35b7cfcd3cd029c1d6e90a4838df5
+FileChecksum: MD5: fc547f76aa47d7253aa6db720b96bd2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/version.c
+SPDXID: SPDXRef-item859266
+FileChecksum: SHA1: 9f76318cb7074b414505e7ce388c51bff46a8e02
+FileChecksum: MD5: 01f4ac3892876a0008e41c070034efd2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-mpi-point.c
+SPDXID: SPDXRef-item859270
+FileChecksum: SHA1: a42eaa361c365b83d70a4f3b9d89cbe7ac5e5ffc
+FileChecksum: MD5: cabf9183332cf1b113ef7bd068933059
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/Makefile.in
+SPDXID: SPDXRef-item859273
+FileChecksum: SHA1: 6de9f47a8819b442a8866c073d41484bf05c2f15
+FileChecksum: MD5: e782e2bda4eabd6e7773b63403d566da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/rsacvt.c
+SPDXID: SPDXRef-item859274
+FileChecksum: SHA1: bc68c94f038e78f2774334afb7776e566897c927
+FileChecksum: MD5: f8e6dfee45fd0400614f514f0c6a4408
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-kdf.c
+SPDXID: SPDXRef-item859276
+FileChecksum: SHA1: 6951d27f4960db0e83865d00f056a53a89ea054d
+FileChecksum: MD5: c081e66fa297008cf3e83b767fb2ef4f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/basic.c
+SPDXID: SPDXRef-item859277
+FileChecksum: SHA1: 518870cf42edee20ba96cf037602155e5f31b316
+FileChecksum: MD5: 8b5e54ab368b18eafe0889f2a07bb269
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/cavs_tests.sh
+SPDXID: SPDXRef-item859278
+FileChecksum: SHA1: ae58bab615b0e4d217511c2fdadf047031162fc6
+FileChecksum: MD5: b4597aaf5bf6f5c2cf99852f180da03f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-ed25519.c
+SPDXID: SPDXRef-item859280
+FileChecksum: SHA1: ed55eeaa95459ba2dac59a36537545150f21e870
+FileChecksum: MD5: c8df7a68bc01ac06f3faf6e979cadcd0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/ChangeLog-2011
+SPDXID: SPDXRef-item859281
+FileChecksum: SHA1: 79ab947cea99c376d3f037bd517c1f4d7bc849db
+FileChecksum: MD5: a4924bde2e1b23e52546bbd188370b6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/rsa-16k.key
+SPDXID: SPDXRef-item859282
+FileChecksum: SHA1: cb9bdefeadd6c6e1b219f8affc093f5cd65aa462
+FileChecksum: MD5: 71997f59dbfe3d6e43b0fc0199f3f8fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/sha3-384.h
+SPDXID: SPDXRef-item859284
+FileChecksum: SHA1: a3771b587316251cc5f13280b0b451736dc3d99e
+FileChecksum: MD5: 00fc4d8f337608899ad829a1491db8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-secmem.c
+SPDXID: SPDXRef-item859285
+FileChecksum: SHA1: 283a6f8e63980a9c0e5ddd427d4db22150606d92
+FileChecksum: MD5: 42ef7bba8e63c3041960f0c796034c76
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/Makefile.am
+SPDXID: SPDXRef-item859286
+FileChecksum: SHA1: 0d808e5d9923250ff0165dc9520689502904b208
+FileChecksum: MD5: f6283c3d38749d2c580e575dbbd6874b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/stopwatch.h
+SPDXID: SPDXRef-item859288
+FileChecksum: SHA1: 6d1fe423c582bed6d81b1e1239679f30d155d314
+FileChecksum: MD5: 6f474e8d28d43904ba26aea3b1b1fc86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/keygrip.c
+SPDXID: SPDXRef-item859289
+FileChecksum: SHA1: 05865d61ea68002d6efe9eb8b4c1ca275b86eb39
+FileChecksum: MD5: 289ba9c1f2ee35f227906f4138662ca0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/dsa-rfc6979.c
+SPDXID: SPDXRef-item859290
+FileChecksum: SHA1: b9e85490d645bb077e28c16328f651d76078b8c1
+FileChecksum: MD5: e2dc9eac9ce950a8facf4fbdc718b1c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/fips186-dsa.c
+SPDXID: SPDXRef-item859292
+FileChecksum: SHA1: 452cf2e1cc9f40f3f1ffb33d353bd40690d7625f
+FileChecksum: MD5: 3f7e4125927839a302e58542e2383661
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/hashtest.c
+SPDXID: SPDXRef-item859293
+FileChecksum: SHA1: f7563c51cc08990c0089c70556e118ee4e79f59a
+FileChecksum: MD5: f7026f1dd619cbfb45c96a66b10df69d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/cavs_driver.pl
+SPDXID: SPDXRef-item859294
+FileChecksum: SHA1: 49a5a920195b411c9a5f1730ff1a0197649c5974
+FileChecksum: MD5: 1e6fa6db6bbf82160a1c0764aa0c4482
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/gchash.c
+SPDXID: SPDXRef-item859296
+FileChecksum: SHA1: 2ca5df3b77c61572efc107248c767ed615503397
+FileChecksum: MD5: f7d669f4b126b8c1ced03cc997f9ef3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-common.h
+SPDXID: SPDXRef-item859297
+FileChecksum: SHA1: 6f596204219f47b74606a122caf267b07d9c5246
+FileChecksum: MD5: 4f113147394bdac9224f8d2262e3c1bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/sha3-224.h
+SPDXID: SPDXRef-item859300
+FileChecksum: SHA1: c393a08b3c2f8e0c139d43ee840837dde611fbfc
+FileChecksum: MD5: 77b4a333ea8192cac01198400b858fa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-mpi-bit.c
+SPDXID: SPDXRef-item859302
+FileChecksum: SHA1: d31f9eb63d3af8db750a62efee225310d8b2666a
+FileChecksum: MD5: d2e0808320aa56ea3bbb7a2ecee05779
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/pkbench.c
+SPDXID: SPDXRef-item859304
+FileChecksum: SHA1: ce25554145a271a3b7726e3a7879a16fbb6dbc4d
+FileChecksum: MD5: 30e04a424ec1d3dac71feb26329e6a3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/pkcs1v2-v15s.h
+SPDXID: SPDXRef-item859305
+FileChecksum: SHA1: dead661c5b2907a9ad000425748541ea6b69a5eb
+FileChecksum: MD5: f909779fae03fd24251ee470cc82b774
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/pubkey.c
+SPDXID: SPDXRef-item859307
+FileChecksum: SHA1: bdbefa98275b0e11eebe82031fba14bfd34b2544
+FileChecksum: MD5: a01a36db9a8eb666f218f6ae7796fdf9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/mpitests.c
+SPDXID: SPDXRef-item859308
+FileChecksum: SHA1: 482242e6d52122dd30b7a8ef8549a7f24935749b
+FileChecksum: MD5: b881fa935f73ece4ea0ef756fbee488f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/genhashdata.c
+SPDXID: SPDXRef-item859309
+FileChecksum: SHA1: f4213e68b9ef3d5ac8bd8f786c97901625f6754d
+FileChecksum: MD5: 93786fed6e6bd5d2a24126773ec21b2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/t-sexp.c
+SPDXID: SPDXRef-item859311
+FileChecksum: SHA1: 2bdb871a202b836afa6537946a135741a10d849c
+FileChecksum: MD5: 9c614ea643a56e889623cb8b343ffbd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/random.c
+SPDXID: SPDXRef-item859312
+FileChecksum: SHA1: 0134c0179c9db5667daeeafefd333867885809a7
+FileChecksum: MD5: 6f5adeead41dae044162ea584060706e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/README
+SPDXID: SPDXRef-item859313
+FileChecksum: SHA1: 786e296ea1c63c61b04dfbc105c6172f62d61f26
+FileChecksum: MD5: fb4cee8d615824c6db05f62cd011497c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/basic-disable-all-hwf.in
+SPDXID: SPDXRef-item859314
+FileChecksum: SHA1: 81ea3aab7904370234c85b9251f25be99d4bcfcb
+FileChecksum: MD5: c6c6c28c6de764c73500559b40317295
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/blake2b.h
+SPDXID: SPDXRef-item859315
+FileChecksum: SHA1: 4f086140ab6f79da9897098fae6517941208213a
+FileChecksum: MD5: e20838babd3240094cecaf20e3e6bc99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/blake2s.h
+SPDXID: SPDXRef-item859317
+FileChecksum: SHA1: cf20f2509ffa7ffdf5ce4601e658243b05946fcc
+FileChecksum: MD5: 9f54bec6fd984ca5c83905df7519dd2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/bench-slope.c
+SPDXID: SPDXRef-item859319
+FileChecksum: SHA1: e3cb039b48412905360d0c48ce3a24b97ab178de
+FileChecksum: MD5: 56c917a8162bac54ae28ce6710def167
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/aeswrap.c
+SPDXID: SPDXRef-item859322
+FileChecksum: SHA1: b5cb60293117e9464c9a089aa547d18a2c9df0df
+FileChecksum: MD5: 4076386522315aa49df79b0b5be1a8b8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/sha3-512.h
+SPDXID: SPDXRef-item859324
+FileChecksum: SHA1: fffd503e0c0bfc0a79371a3154936e1356431173
+FileChecksum: MD5: bc86242669a1b16db096ecf7e9b7879d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/pkcs1v2.c
+SPDXID: SPDXRef-item859326
+FileChecksum: SHA1: dceaa3dff4dd9883a2e8754790d6506e1f957215
+FileChecksum: MD5: 5b4828be32c3b84d598b1927cd5d6fd6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/pkcs1v2-oaep.h
+SPDXID: SPDXRef-item859327
+FileChecksum: SHA1: 46337fb6273e4052136404cbf426f873066bf7c8
+FileChecksum: MD5: 7301faf37d8cca2c482e63d65d31c17a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/tests/testapi.c
+SPDXID: SPDXRef-item859328
+FileChecksum: SHA1: 4220843ee2a9595411359ef2a363aa3aa6082e35
+FileChecksum: MD5: 0813a96157a812ee098be3d3ac27e572
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/README.GIT
+SPDXID: SPDXRef-item859332
+FileChecksum: SHA1: b05f185d3d62e554cbb5e3ba3cab738eac933982
+FileChecksum: MD5: c50a068cba6d05a6ebe722bd6942d8f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/stamp-vti
+SPDXID: SPDXRef-item859334
+FileChecksum: SHA1: 0c9070ecabaf98dfb5d4f915a7bc187c8536456f
+FileChecksum: MD5: 5fcf9b4e5dd7527713092020529a9ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/libgcrypt-modules.png
+SPDXID: SPDXRef-item859335
+FileChecksum: SHA1: 16237ca3e956165174b53193c1478ebe366f4d1f
+FileChecksum: MD5: abea6056fbb56e80f6ba2c7df864417e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/fips-fsm.fig
+SPDXID: SPDXRef-item859337
+FileChecksum: SHA1: 15fd4a672d54b7ad2aecd6751d1d97a1d5998ef6
+FileChecksum: MD5: 23f75fc43578c4a11a51cc2279e56bd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/lgpl.texi
+SPDXID: SPDXRef-item859340
+FileChecksum: SHA1: d91b718cb70d2b4b5b6c78403356818fc4ddd307
+FileChecksum: MD5: f2b9b7717f7807b877ec1962442f3fae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/Makefile.in
+SPDXID: SPDXRef-item859343
+FileChecksum: SHA1: 42a00d48cfe2b16aa5e7c5ef906de014210d7934
+FileChecksum: MD5: c06f6a49fd6c8b1bd39d70c88f131cb9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/fips-fsm.png
+SPDXID: SPDXRef-item859344
+FileChecksum: SHA1: f35de119d78ed4c57a995ee623f1d0ebe9433364
+FileChecksum: MD5: 4b8731058e352794c7723a78f9b8cbc6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/ChangeLog-2011
+SPDXID: SPDXRef-item859346
+FileChecksum: SHA1: 61b2dd86787ecaa4c994aca4fc4fc19f29b8ac75
+FileChecksum: MD5: 716a9c75b7c62a71c1b7c7274501431a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/fips-fsm.eps
+SPDXID: SPDXRef-item859347
+FileChecksum: SHA1: e046c4af48cf5ff75fecc2b361c4bb8fa9de001b
+FileChecksum: MD5: ff3a1f6bec4cd7fa24163361434d6169
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/gcrypt.texi
+SPDXID: SPDXRef-item859349
+FileChecksum: SHA1: f32da2da95e297f9325b1b2dbf2b2e51f1d893fe
+FileChecksum: MD5: 8c2125168b1a3fb8a80f888dba743670
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/Makefile.am
+SPDXID: SPDXRef-item859351
+FileChecksum: SHA1: 3a9d044c8636e4b2e05bc15e3043bba8323b3817
+FileChecksum: MD5: bab5a84aedd510b9ccc405c1aa7c4dcd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/DCO
+SPDXID: SPDXRef-item859353
+FileChecksum: SHA1: cc07000b27ea88c95d4982c7f6894e2bf07f8acc
+FileChecksum: MD5: e22a8429a1d7805efb8abb3814a8c781
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/fips-fsm.pdf/fips-fsm
+SPDXID: SPDXRef-item859365
+FileChecksum: SHA1: 763e1f3ce1a254b76e0d445c0d980d9bf59402f1
+FileChecksum: MD5: 56694566802a3e0aa69d40b666dbbffb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/libgcrypt-modules.pdf/libgcrypt-modules
+SPDXID: SPDXRef-item859373
+FileChecksum: SHA1: 050c3dfcbe6e150991658e9944d60a1243015715
+FileChecksum: MD5: 1dfb9e94367ca8657fcf4ada20daa55f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/README.apichanges
+SPDXID: SPDXRef-item859374
+FileChecksum: SHA1: eb5b6a0949b4205b8b3aa1122ac6ca568fe30f32
+FileChecksum: MD5: 2613b277866b5f7500ccf3b6e5943939
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/libgcrypt-modules.fig
+SPDXID: SPDXRef-item859376
+FileChecksum: SHA1: 4b487727551e805418b5c0d630308b79b8c07a2e
+FileChecksum: MD5: cb064c9e542965565526117a38549da5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/HACKING
+SPDXID: SPDXRef-item859378
+FileChecksum: SHA1: 798ef53de3e4bbb401441e5e493aa8d9f1a5a605
+FileChecksum: MD5: 2a9ea1d49f275036c2f97dea6411d8d6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/yat2m.c
+SPDXID: SPDXRef-item859380
+FileChecksum: SHA1: 8807c59a490d148cbea863e591a06edd09976de8
+FileChecksum: MD5: 316aec4fd7d55a831738999a761f6d3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/version.texi
+SPDXID: SPDXRef-item859381
+FileChecksum: SHA1: 0c9070ecabaf98dfb5d4f915a7bc187c8536456f
+FileChecksum: MD5: 5fcf9b4e5dd7527713092020529a9ac3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/libgcrypt-modules.eps
+SPDXID: SPDXRef-item859383
+FileChecksum: SHA1: 0c433ce0b934bb50d2702ddaae6dcb7d079169d9
+FileChecksum: MD5: 54b35dae3c475008ebb47ad6f703fca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/gcrypt.info
+SPDXID: SPDXRef-item859388
+FileChecksum: SHA1: 5639d6bbf46bd9451852ebaf909b96ce54768d34
+FileChecksum: MD5: e14ec510a0abba77ae7f409f7a92bc0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/doc/gpl.texi
+SPDXID: SPDXRef-item859389
+FileChecksum: SHA1: 592d3d87ea4c951fb79c05422f3189c2f5f2d64a
+FileChecksum: MD5: 1acf3e92215eebd5cf7feecec4146308
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/README
+SPDXID: SPDXRef-item859391
+FileChecksum: SHA1: 4f24ed118b4059347c890c82b680fbe894248120
+FileChecksum: MD5: 587fc6cca4ce8ee34e76a10777fd5b0a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/mmx/distfiles
+SPDXID: SPDXRef-item859396
+FileChecksum: SHA1: 013e26d73953451b3b5afe90dec7d3292a8a4ed1
+FileChecksum: MD5: 5343ca1b7592ff0f1767e9b268ba756e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/mmx/mpih-rshift.S
+SPDXID: SPDXRef-item859397
+FileChecksum: SHA1: 3c63614bdc325b5fe6de371374f90444eb966f5a
+FileChecksum: MD5: c76ce0ac669bc3a864224035975fc63a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/mmx/mpih-lshift.S
+SPDXID: SPDXRef-item859399
+FileChecksum: SHA1: 17cce75f5f53382030f0dec290a7b92cbd37f237
+FileChecksum: MD5: f2bbb55781c41d9889d0a6966fbe3d12
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/sse2/distfiles
+SPDXID: SPDXRef-item859402
+FileChecksum: SHA1: 89680de5b91c00668d3f6b53f6f57eb93ed83710
+FileChecksum: MD5: 55c301429c3ad0ba59f80a7c7abadb8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/sse2/mpih-mul2.S
+SPDXID: SPDXRef-item859403
+FileChecksum: SHA1: 950baed913c57bb3440bd25b61a0f6b9ab3cae4c
+FileChecksum: MD5: 16f05cb7b4330b5b03b92cb0d6a26736
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/sse2/mpih-sub1.S
+SPDXID: SPDXRef-item859404
+FileChecksum: SHA1: f269a54191f3df45d4643283ba841eeb046519de
+FileChecksum: MD5: 022ef3513a23e1d60fd6efe709484a30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/sse2/mpih-mul1.S
+SPDXID: SPDXRef-item859406
+FileChecksum: SHA1: b5c17d667cf579e406c9a96b1f9576e2903fbec8
+FileChecksum: MD5: 398fc9d215f4ae8eb1dd1aeeb07852b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/sse2/mpih-mul3.S
+SPDXID: SPDXRef-item859408
+FileChecksum: SHA1: d9d389b7f911665e90c322cc507bae223004e16b
+FileChecksum: MD5: 4bd86ab02f776ac42df81c112102e212
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/sse2/mpih-add1.S
+SPDXID: SPDXRef-item859409
+FileChecksum: SHA1: 72d3496a637df3753d8b2c5059fff0bb1c2a3160
+FileChecksum: MD5: 0238aff3983f0ae042e44ae2902d0fce
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/distfiles
+SPDXID: SPDXRef-item859411
+FileChecksum: SHA1: f5a793094206ceebdd66308a523b2e334f25c59c
+FileChecksum: MD5: 82d9e2e0ca8d2b980703af34f9ccd7a9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pentium4/README
+SPDXID: SPDXRef-item859413
+FileChecksum: SHA1: 6bd2d05b13699ffadada03671861adbab906e9bc
+FileChecksum: MD5: cfc284887fc9ff0e6853cb52f4911b67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-inline.h
+SPDXID: SPDXRef-item859415
+FileChecksum: SHA1: 94c77f547049998448611d0f30514f34d31509bb
+FileChecksum: MD5: 7a228bf5b8e71c46954a32d548fbc006
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-internal.h
+SPDXID: SPDXRef-item859416
+FileChecksum: SHA1: 5ca1cec8f8ab93c1b96e05c24d95dba3704de22e
+FileChecksum: MD5: 51656868534ff836e232a9af80615085
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-pow.c
+SPDXID: SPDXRef-item859418
+FileChecksum: SHA1: fa122284cdb4dfe0812791b17abea81dfc8552b0
+FileChecksum: MD5: a93cc79593420b498d9d8713d1236054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-scan.c
+SPDXID: SPDXRef-item859420
+FileChecksum: SHA1: 7478660db17e31593c7f55658cf7bdb2cd08b5dd
+FileChecksum: MD5: aa4d1f043f516096de47a2dc16dce5a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pa7100/distfiles
+SPDXID: SPDXRef-item859423
+FileChecksum: SHA1: 443194ec4278afba27e0598774d171bc7a089b6f
+FileChecksum: MD5: fe6c8e8bafa30c6fcd961a233c5bc3a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pa7100/mpih-rshift.S
+SPDXID: SPDXRef-item859425
+FileChecksum: SHA1: b7d48670f40b3373259bc4f0763ff1b3da343bf4
+FileChecksum: MD5: 08464bd3beca057bb7d4420733c67792
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/pa7100/mpih-lshift.S
+SPDXID: SPDXRef-item859426
+FileChecksum: SHA1: f51c3a5545eae3dce84384f980f327c944287eeb
+FileChecksum: MD5: 0b4791488087e8a633f7859b6d9fc913
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/distfiles
+SPDXID: SPDXRef-item859429
+FileChecksum: SHA1: 19dbc136e5dbeab7696421826ec25b01b67b45d6
+FileChecksum: MD5: ae871137cfef67b09bec4f43d5759548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/mpih-rshift.S
+SPDXID: SPDXRef-item859431
+FileChecksum: SHA1: 5cccc9c0eb05798f9fc547bb35d8e18c43e30918
+FileChecksum: MD5: 654eb773f499a303855842b99679b585
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/mpih-mul2.S
+SPDXID: SPDXRef-item859432
+FileChecksum: SHA1: 7ad8c4e955e8615c5c67d09594515c2b7afce091
+FileChecksum: MD5: 9ef9110aee614426af211c411745a779
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/mpih-lshift.S
+SPDXID: SPDXRef-item859435
+FileChecksum: SHA1: 47cfb9a9ad5a5f2ef49aee5e4990ab218f0661dd
+FileChecksum: MD5: 05f208b7f4397e2cdb04a9c832904ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/mpih-sub1.S
+SPDXID: SPDXRef-item859437
+FileChecksum: SHA1: 77728f59fd537cfcdc940ca8eee94ec2e6e4e16b
+FileChecksum: MD5: 1392e4750e5deb722b6bdf1a4ec1c35c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/mpih-mul1.S
+SPDXID: SPDXRef-item859439
+FileChecksum: SHA1: d0a03f67ca325027e7bb0686dfa3784fbbbb103e
+FileChecksum: MD5: 1112ed03bfc799ec7538208dd6961bba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/syntax.h
+SPDXID: SPDXRef-item859444
+FileChecksum: SHA1: d5c1f3c52bff49faca7b561a3271e58537ef5406
+FileChecksum: MD5: 3056a242056649f74d03d2153e3834bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/mpih-mul3.S
+SPDXID: SPDXRef-item859445
+FileChecksum: SHA1: c133895e73933a084f210c373292cfbc3f71246c
+FileChecksum: MD5: ceb7fa1baca2e524b0017644882c0353
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc32/mpih-add1.S
+SPDXID: SPDXRef-item859447
+FileChecksum: SHA1: f459e45c492fc50f1970829730016a315bf1d5e5
+FileChecksum: MD5: c37de54d5cd5c7753d90f5b549ffd439
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/mpih-mul1.c
+SPDXID: SPDXRef-item859450
+FileChecksum: SHA1: 5c5507621bb8e50d0da411f45f6d5e0c60cb41a1
+FileChecksum: MD5: 498b1e549bd083b05a91b7cc15c9cb94
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/udiv-w-sdiv.c
+SPDXID: SPDXRef-item859451
+FileChecksum: SHA1: 25011a9178fac6099feb8ac3c60e5cb739714e9b
+FileChecksum: MD5: 6412a4ef5239572c99e063260cc09b9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/mpih-lshift.c
+SPDXID: SPDXRef-item859453
+FileChecksum: SHA1: 1c3d7cfd652a8c09aeb779fbac64f3e5cde4b1a3
+FileChecksum: MD5: 2c43c430f85634bbb98c725230e30633
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/mpih-add1.c
+SPDXID: SPDXRef-item859454
+FileChecksum: SHA1: eded478dcc00045048b85f7abdf6ce62ee7286c4
+FileChecksum: MD5: 44d6d86d46c39a7e3e58f2fbbcfed917
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/distfiles
+SPDXID: SPDXRef-item859456
+FileChecksum: SHA1: 1128a8f6e408c9638f7e05dde7503d07d148a38c
+FileChecksum: MD5: 89207b1ee3b3e99c6791992f539877e6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/mpi-asm-defs.h
+SPDXID: SPDXRef-item859457
+FileChecksum: SHA1: 21dda4dd4ccb2464df197f37d0380bc233ce8cd0
+FileChecksum: MD5: 2f602f9b89393d7e15e7a789926d89e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/mpih-rshift.c
+SPDXID: SPDXRef-item859459
+FileChecksum: SHA1: cfeefa7994e9a83c7f70a2b3cea525eaf67fe44c
+FileChecksum: MD5: c398b5623313d91fe8fbf1b6ea68c89d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/mpih-mul2.c
+SPDXID: SPDXRef-item859460
+FileChecksum: SHA1: e1317e033aafb759761585818b6970d0d9a40126
+FileChecksum: MD5: 6e8ef2b8f3cca65312fb4f39c2b0f2d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/mpih-mul3.c
+SPDXID: SPDXRef-item859462
+FileChecksum: SHA1: 2cf9cfe7520105346739ba99403e416cdc99b01a
+FileChecksum: MD5: ee5f2da61fad4becbddf52cb2d227afc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/generic/mpih-sub1.c
+SPDXID: SPDXRef-item859464
+FileChecksum: SHA1: 66ed01cd0931fce5f2e79cd85e5504fbe61ce9e8
+FileChecksum: MD5: 4c22e42ff1e7d177329537775fb4419d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/ec.c
+SPDXID: SPDXRef-item859466
+FileChecksum: SHA1: 6b852ca15c8609158d7b19ebcaeecc0345b4f818
+FileChecksum: MD5: 0d3b88b458169d77292ea10f96287616
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-div.c
+SPDXID: SPDXRef-item859468
+FileChecksum: SHA1: 5a07ff19a094aa4b93fd92fda66fe9c2bf3d1fc3
+FileChecksum: MD5: cd0813971400c12baa7b16ecd9e7a760
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpih-div.c
+SPDXID: SPDXRef-item859470
+FileChecksum: SHA1: f4ac4f37b26e8252d8b84d4d33f6e80a554ad513
+FileChecksum: MD5: 6be58a5e5980e0289d4f8d442ab0cd60
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/ec-ed25519.c
+SPDXID: SPDXRef-item859471
+FileChecksum: SHA1: d375a056f48c5e683818f9c9d72e946dec59c6e4
+FileChecksum: MD5: cccd690418a10f9e0b35cb498373881a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-mpow.c
+SPDXID: SPDXRef-item859473
+FileChecksum: SHA1: 7a5e5711293ab28b29741b74d794a4be76ed5a51
+FileChecksum: MD5: 59c118ccf841bbb34397f7d60653fc56
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-bit.c
+SPDXID: SPDXRef-item859475
+FileChecksum: SHA1: e1e4a450294c9083a08c384823a18317d5406671
+FileChecksum: MD5: 494553f45e61cd86ab5b1771c0c0c92b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-add.c
+SPDXID: SPDXRef-item859477
+FileChecksum: SHA1: 2c84b2a87ed3deb8f22d5e7ea8f89802be526fe1
+FileChecksum: MD5: d39803b5419e25b6b0df45a8a1e84318
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/longlong.h
+SPDXID: SPDXRef-item859479
+FileChecksum: SHA1: 613e58c1cf422ff05280a694ccd56fa375bd68de
+FileChecksum: MD5: 5899687f44bfc4f113e20382e660cbb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/distfiles
+SPDXID: SPDXRef-item859481
+FileChecksum: SHA1: 8898b52ef121107fb7542ccfcaec7028e5190565
+FileChecksum: MD5: f009b70ae6f00c1607cd92d67a675d70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/mpih-rshift.S
+SPDXID: SPDXRef-item859483
+FileChecksum: SHA1: dd3eec88c9bf355eae2057746abaafe107593519
+FileChecksum: MD5: 41b179046aab676b8543d2abb7a26f64
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/mpi-asm-defs.h
+SPDXID: SPDXRef-item859485
+FileChecksum: SHA1: 19c40834ed77f664343e6cd0c6f0110eed1bfc87
+FileChecksum: MD5: 44703bd9db8ed05a92fa10bbf2a32e40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/mpih-mul2.S
+SPDXID: SPDXRef-item859486
+FileChecksum: SHA1: f4a7794dbdb82e7fcb9b3589d586420517f007d8
+FileChecksum: MD5: 4f046c01f214f1147910e732720c56c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/mpih-lshift.S
+SPDXID: SPDXRef-item859488
+FileChecksum: SHA1: 62862f4e956af0bf03c1017f9811742c79df083e
+FileChecksum: MD5: c9f1a00a79d7e1915c99d17d3d2a3ef6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/mpih-sub1.S
+SPDXID: SPDXRef-item859489
+FileChecksum: SHA1: 14f843b05c44c5aff4152fc6254ef3a5077001ab
+FileChecksum: MD5: 9d2dd3e7157cb394b6ea6bcb3adb14c9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/mpih-mul1.S
+SPDXID: SPDXRef-item859491
+FileChecksum: SHA1: 79ea3d94c32cd2e398310b3a7d08e9a427a7c729
+FileChecksum: MD5: fed8a7e59353241dc8176e0a844ca675
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/func_abi.h
+SPDXID: SPDXRef-item859492
+FileChecksum: SHA1: 9c32dd6e0cc494c7459a7da550167701f583a3d6
+FileChecksum: MD5: 04a1d53ca00700c5b8797fa93ee01ea0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/mpih-mul3.S
+SPDXID: SPDXRef-item859494
+FileChecksum: SHA1: 369c7c23e995ea9ab64c5cc45d270d35568411f5
+FileChecksum: MD5: ec329651382a9cffa2e34eba51d5be1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/amd64/mpih-add1.S
+SPDXID: SPDXRef-item859495
+FileChecksum: SHA1: e83619f77db2ed54e4e109096b7686c30779519a
+FileChecksum: MD5: e056d61801cd5be073ac0c07429d88c1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/Makefile.in
+SPDXID: SPDXRef-item859498
+FileChecksum: SHA1: 88f0d9e9c18c59cdc826c8517cb5267675f65bee
+FileChecksum: MD5: 0e96fc41d76d68895b503c00998b875b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-inline.c
+SPDXID: SPDXRef-item859499
+FileChecksum: SHA1: ab5703cd99fb7e2a4fd34e73cd8ec589f86e474d
+FileChecksum: MD5: a6d2d6fc7ac188abd4369e122130724a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpicoder.c
+SPDXID: SPDXRef-item859501
+FileChecksum: SHA1: 6b06991bd9456db6d3255e806b6f28dd7220beb0
+FileChecksum: MD5: 62cd23b871c07ea9555e1d2616e16eda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/ChangeLog-2011
+SPDXID: SPDXRef-item859503
+FileChecksum: SHA1: e060c106528e2350fe0e81bc5d4853c99e417c05
+FileChecksum: MD5: c71661b2ece8b4461070161dfa5cfaf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/distfiles
+SPDXID: SPDXRef-item859506
+FileChecksum: SHA1: fa6fc6e4b36d8e122f5698993db4759a33783e43
+FileChecksum: MD5: 0cc3a4b90f4e12ae2f3d198be39b3bd8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/mpih-rshift.S
+SPDXID: SPDXRef-item859508
+FileChecksum: SHA1: bb904751217789ac93f987cf71b14363fc179bb5
+FileChecksum: MD5: 50fd1e194b40313d16dce72603cf5a37
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/mpi-asm-defs.h
+SPDXID: SPDXRef-item859509
+FileChecksum: SHA1: 104dec7fc9a680ec7856ebfd576afab7c3c3be8e
+FileChecksum: MD5: e6219d1b61d8a152465c2635affbd16c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/mpih-mul2.S
+SPDXID: SPDXRef-item859512
+FileChecksum: SHA1: 8dc5ace352d3e95986d4d67ace3920688606972f
+FileChecksum: MD5: 46b8501fe54013a46007c3869da771d3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/mpih-lshift.S
+SPDXID: SPDXRef-item859513
+FileChecksum: SHA1: 797697185d421d8fb3bde517a927342a312d9ad9
+FileChecksum: MD5: a360f069cc437bbbd234453c37f6198b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/mpih-sub1.S
+SPDXID: SPDXRef-item859515
+FileChecksum: SHA1: ddef140b35a8aa2ad86e3210b29660da986a4946
+FileChecksum: MD5: 36c4eadaccc655f8a0bdd2d38dd19054
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/README
+SPDXID: SPDXRef-item859517
+FileChecksum: SHA1: e3005097470761d16f622292a0e7dcd9e7fc2a44
+FileChecksum: MD5: 95b756d77abbb85815de360328629512
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/mpih-mul1.S
+SPDXID: SPDXRef-item859519
+FileChecksum: SHA1: 98c687ee93f5c2c9d43487ea5023b18d34fdf335
+FileChecksum: MD5: d93872843f6e8b33d50fb987a940dcb3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/mpih-mul3.S
+SPDXID: SPDXRef-item859521
+FileChecksum: SHA1: 87db85f01eebe1460d41354eb1103aa2b6b26c34
+FileChecksum: MD5: 6e1876c268239044228e647fe0e41c1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mips3/mpih-add1.S
+SPDXID: SPDXRef-item859523
+FileChecksum: SHA1: 5b4fb2cd6dbf5252d77456d75395a9871c00960b
+FileChecksum: MD5: 7057aa9587da53fcf2d6606587c539ab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-inv.c
+SPDXID: SPDXRef-item859525
+FileChecksum: SHA1: 595c5bca9cdc9be4e64ce5dfd05986afabcfc8b2
+FileChecksum: MD5: 2c27698b3cf14b055aa202e8208d4715
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/distfiles
+SPDXID: SPDXRef-item859528
+FileChecksum: SHA1: 6bb54579ee7d5cac99fae0ce112f0f6fe1f1305e
+FileChecksum: MD5: 7f5ef41808d96438d0091695b4581890
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/mpih-rshift.S
+SPDXID: SPDXRef-item859529
+FileChecksum: SHA1: 407bce29264fedd8d6f96afc9662ddd0b7cf515d
+FileChecksum: MD5: 1f44d72c643ac158f62d37217ad3350b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/mpih-mul2.S
+SPDXID: SPDXRef-item859531
+FileChecksum: SHA1: a487d1b5f44fb74715df6ce1233c75e4826cd6b1
+FileChecksum: MD5: 969de071817b96bd9db09b13b5b936bc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/mpih-lshift.S
+SPDXID: SPDXRef-item859533
+FileChecksum: SHA1: 17d21fb333a27e6bbc1a0b16613b7837118053f5
+FileChecksum: MD5: 30ab6ca0fe8d4c196682b86f24e1338d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/mpih-sub1.S
+SPDXID: SPDXRef-item859534
+FileChecksum: SHA1: 43a82b03808207075a1327d8b6e3d9bfa641865b
+FileChecksum: MD5: 5ac0ee2d0905e2ef6424f4e0a9e24e3e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/README
+SPDXID: SPDXRef-item859536
+FileChecksum: SHA1: 36207c54881dd46d7f87cc17e0dbfa7315a1a90e
+FileChecksum: MD5: 4f397604a33b4a538feefdf8406dc2a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/mpih-mul1.S
+SPDXID: SPDXRef-item859537
+FileChecksum: SHA1: 4f23198a8bac0f94dad7b465a441805c8790c748
+FileChecksum: MD5: 080c683f6be214ad7badd37a4fd9e65c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/mpih-mul3.S
+SPDXID: SPDXRef-item859539
+FileChecksum: SHA1: b6057a292f57f5a740f9340fc02ee3cd40763ca6
+FileChecksum: MD5: cfd081a8d0b6a2d57dc748ce31cab501
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i586/mpih-add1.S
+SPDXID: SPDXRef-item859541
+FileChecksum: SHA1: f0625cddc5cbc5e4c0985d4da7cd2037da76146a
+FileChecksum: MD5: 4501f2755ca95543fd2a5f0e7c87883c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/power/distfiles
+SPDXID: SPDXRef-item859543
+FileChecksum: SHA1: e2c0c7d2bfa1f8e91c90ed4fca2516d03d1c07c9
+FileChecksum: MD5: f9a046b8cc5696e14578f1635ae1fc30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/power/mpih-rshift.S
+SPDXID: SPDXRef-item859545
+FileChecksum: SHA1: c46e89549d6ee23dcabae7cec6ea16d30244c6db
+FileChecksum: MD5: f2cd794ea044610e2d2b342f3f6b9b85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/power/mpih-mul2.S
+SPDXID: SPDXRef-item859547
+FileChecksum: SHA1: 101248ba326cd4d9a8778122e937afbf1f3bd038
+FileChecksum: MD5: b247618eea06ce33d46f66173e9e9bf5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/power/mpih-lshift.S
+SPDXID: SPDXRef-item859549
+FileChecksum: SHA1: d453aa5f81e872435b251c21bb07994ad641e9e0
+FileChecksum: MD5: 413f05badb73124fb94145369643b2af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/power/mpih-sub1.S
+SPDXID: SPDXRef-item859550
+FileChecksum: SHA1: a6ac9eac883d3f60840e5a3d9b01d51e0d461e27
+FileChecksum: MD5: feea08e09c41be733d11084f47f4ffc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/power/mpih-mul1.S
+SPDXID: SPDXRef-item859552
+FileChecksum: SHA1: 6c4b8b1821d8f205a1416b570c0ad36af54e640c
+FileChecksum: MD5: 3cd52618ba7ecbe8521ea6852d7b320b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/power/mpih-mul3.S
+SPDXID: SPDXRef-item859554
+FileChecksum: SHA1: 80aeb89b087c5d9c2e44796a9c421e6b317d1a42
+FileChecksum: MD5: 5c53555f42b91f91f8be4e7f033a6cb0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/power/mpih-add1.S
+SPDXID: SPDXRef-item859556
+FileChecksum: SHA1: c72ba2a1588dc0be9c56b637aad072f089e5adac
+FileChecksum: MD5: 2304a7e04dbab27c939f81c66c202143
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/Makefile.am
+SPDXID: SPDXRef-item859558
+FileChecksum: SHA1: 4f1d4fbadd1119b0abf6f4a633efb7f4d6a5f3a5
+FileChecksum: MD5: 7945bdc36d03747e36af8ed19cad9c59
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/distfiles
+SPDXID: SPDXRef-item859562
+FileChecksum: SHA1: 25924fcccb900d4bff9f99b37cb5f2f86b549fc9
+FileChecksum: MD5: d9f2189ac435b89779580dc9339dbf54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/mpih-rshift.S
+SPDXID: SPDXRef-item859563
+FileChecksum: SHA1: b49d8d43d7af11c81af92ee8ea6a6b99e2175f00
+FileChecksum: MD5: c06a4ad8a9103ec76aa3e1dbb068c456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/mpih-mul2.S
+SPDXID: SPDXRef-item859565
+FileChecksum: SHA1: 2e0139fbbb3f599c4a780cf8de29468316b736a9
+FileChecksum: MD5: 17d68ccbc7ec8f5c58dab201f9d4a56a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/mpih-lshift.S
+SPDXID: SPDXRef-item859568
+FileChecksum: SHA1: cab6a00e3a4c0d031e816272627274fc2eca743d
+FileChecksum: MD5: 07fb09d231f20a11ba37246930e250df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/mpih-sub1.S
+SPDXID: SPDXRef-item859569
+FileChecksum: SHA1: 295692ce9077022558ff6ddfb31a22de0a0c1bb4
+FileChecksum: MD5: bc2794539e54ecd1d136d0c126f12011
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/README
+SPDXID: SPDXRef-item859571
+FileChecksum: SHA1: 091a83c72e4926586cd4b4e026d0d56901b687ca
+FileChecksum: MD5: 2c3fb3e65c77d54a38fec9ac6f11a8ef
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/mpih-mul1.S
+SPDXID: SPDXRef-item859572
+FileChecksum: SHA1: 57e17f4ab5755c9c66f3da30dab8cb8962c35a92
+FileChecksum: MD5: 5b07ab7387b3b3bf2211d338a5143a0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/udiv-qrnnd.S
+SPDXID: SPDXRef-item859574
+FileChecksum: SHA1: 5084f5d25a08bdf27e73b7f7192bab79aecbc0fd
+FileChecksum: MD5: 8404eee04ad50c5b5d390674d364c58b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/mpih-mul3.S
+SPDXID: SPDXRef-item859576
+FileChecksum: SHA1: a30e3ae231c42df8e123a01127a9e31f01d880be
+FileChecksum: MD5: d621bddbc839bbec2ce6af5bc9b89ba1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/alpha/mpih-add1.S
+SPDXID: SPDXRef-item859578
+FileChecksum: SHA1: c07f6dd2ef56723e56f6d1f8793945faa0ef4edf
+FileChecksum: MD5: ddf1235598f84c0a805b4335efb8ba80
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpih-mul.c
+SPDXID: SPDXRef-item859580
+FileChecksum: SHA1: 4933d7153fba622af695a6ee695ec85d75683740
+FileChecksum: MD5: ad30a4edbe96cf26717206f8512a3f25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32v8/distfiles
+SPDXID: SPDXRef-item859583
+FileChecksum: SHA1: f3512a6ca871a860f20c9757c0c64333b6d775de
+FileChecksum: MD5: 192918be658e2c51c4ceafaf84b92aff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32v8/mpih-mul2.S
+SPDXID: SPDXRef-item859585
+FileChecksum: SHA1: aafc643e5e923e3691aac6cb96bdfd942df4a35f
+FileChecksum: MD5: f97ba4f326b3edf7d2134a94bc01f0d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32v8/mpih-mul1.S
+SPDXID: SPDXRef-item859586
+FileChecksum: SHA1: 4b9170b7c623ee672c9984d978e9c2b123677ea7
+FileChecksum: MD5: a0a19a4f188765c0d9c5e10458664440
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32v8/mpih-mul3.S
+SPDXID: SPDXRef-item859588
+FileChecksum: SHA1: afcd0f07dbc65546478bed28e81277390b16a713
+FileChecksum: MD5: 124514f6eab7be21aa98939521e40530
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/powerpc64/distfiles
+SPDXID: SPDXRef-item859592
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-cmp.c
+SPDXID: SPDXRef-item859594
+FileChecksum: SHA1: 287beb2567c2650b5e6a1f926da48182490cef30
+FileChecksum: MD5: ced9ac957bc1b1448ebf1b61d330f755
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/supersparc/distfiles
+SPDXID: SPDXRef-item859597
+FileChecksum: SHA1: 02cdb23a6c12bdd8e8fd82e453c71fa9091245df
+FileChecksum: MD5: 63acba214bd5bfc627f36546b84c1dff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/supersparc/udiv.S
+SPDXID: SPDXRef-item859599
+FileChecksum: SHA1: 3ad4d20730222c7f703015ff0a71d1cf40161043
+FileChecksum: MD5: 38c3135a83291e09cb28d893d1784ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/distfiles
+SPDXID: SPDXRef-item859601
+FileChecksum: SHA1: ba2fb6900f6bdb34bf675c5edb0ac089d0183a73
+FileChecksum: MD5: d11deab0012a175f16ba40405524fe51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/mpih-rshift.S
+SPDXID: SPDXRef-item859603
+FileChecksum: SHA1: f311bd64a323437cbbaf528699f7eb544280ad94
+FileChecksum: MD5: 41be1a6e7ec43668b0f9f98d65805a38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/mpih-mul2.S
+SPDXID: SPDXRef-item859605
+FileChecksum: SHA1: adb4ffd9db230bbd59c28d1a74139390580dddb2
+FileChecksum: MD5: a66ffeaada7e18e9e410934414b76558
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/mpih-lshift.S
+SPDXID: SPDXRef-item859607
+FileChecksum: SHA1: 1a7367827b9d998e8fbc7cf01509a69529e6ad53
+FileChecksum: MD5: 6b72417cd648bae9596670272867f77a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/mpih-sub1.S
+SPDXID: SPDXRef-item859608
+FileChecksum: SHA1: fdb9766bd50c51f3f3a7479844029ba6c75d7f3d
+FileChecksum: MD5: a6d2a61ff962daeb9f47c3922b592c7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/mpih-mul1.S
+SPDXID: SPDXRef-item859610
+FileChecksum: SHA1: fe3746034a06f130e73a0cd4d44e5b399a15ac52
+FileChecksum: MD5: af7beb44e59ffee417cce69fdfc7374e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/syntax.h
+SPDXID: SPDXRef-item859611
+FileChecksum: SHA1: 57d7d4ddf5e1b66b9b7f115406cb18a1df6da11d
+FileChecksum: MD5: f35e2f199775aa2c71bd570ad6dea215
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/mpih-mul3.S
+SPDXID: SPDXRef-item859613
+FileChecksum: SHA1: a9589a2b8543a46bac055758662fa710d9ceec27
+FileChecksum: MD5: f0f427135c5e757375b4bca1b9acdc97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/i386/mpih-add1.S
+SPDXID: SPDXRef-item859615
+FileChecksum: SHA1: 9a72f8df4ea06df7ad9d9dd228dca5e99593ba70
+FileChecksum: MD5: e470c1ef1920b47724f80061d6d3804f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpiutil.c
+SPDXID: SPDXRef-item859617
+FileChecksum: SHA1: 437104e4999591d4268f71580eeb6b2adeac350f
+FileChecksum: MD5: 67d34c4d63e10ea0de0616290e75b327
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/distfiles
+SPDXID: SPDXRef-item859620
+FileChecksum: SHA1: e258b8f2573134da542f0ad0a202b61c313b83e1
+FileChecksum: MD5: 1cd9fa6addef991d7a899f8d4149822c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/mpih-rshift.S
+SPDXID: SPDXRef-item859622
+FileChecksum: SHA1: 68e4dbfd04c6009f93ec0c51a63ceb0a6fffd87c
+FileChecksum: MD5: 680f7f28cf54056ae4d3ec87a5dc7187
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/mpih-lshift.S
+SPDXID: SPDXRef-item859624
+FileChecksum: SHA1: 1b0e37691022b8f0dbe622ab8de46d4c265c1f25
+FileChecksum: MD5: 065c8e06638108f19415561d7b5585e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/mpih-sub1.S
+SPDXID: SPDXRef-item859626
+FileChecksum: SHA1: 84859bd433275f63d205ca19701078f58170e762
+FileChecksum: MD5: 9d36adceff4f508d9c451dbe969c2fa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/syntax.h
+SPDXID: SPDXRef-item859627
+FileChecksum: SHA1: 4d482ef0fd2ffa5a49612703e4bda483f5fe2548
+FileChecksum: MD5: af09e69edfa4db3c667676df51bcdea3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/mpih-add1.S
+SPDXID: SPDXRef-item859629
+FileChecksum: SHA1: 63795bc7ecfa0419ba13ffcf5a0dc03a1ade6ec0
+FileChecksum: MD5: b81e8e56573c2ee6a60c27f51b1fb48a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/mc68020/distfiles
+SPDXID: SPDXRef-item859632
+FileChecksum: SHA1: cb2e5350978799e8a61d265aaf06190373a4b0f6
+FileChecksum: MD5: 35037cd02162bbee8949f1323c385c3b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/mc68020/mpih-mul2.S
+SPDXID: SPDXRef-item859634
+FileChecksum: SHA1: 0a39a06d0953359b0c20be700874927a63ce2634
+FileChecksum: MD5: c9f3cdbca877861cd84a3de0ca866456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/mc68020/mpih-mul1.S
+SPDXID: SPDXRef-item859635
+FileChecksum: SHA1: 36969df498660b20640915eb2d242fc8f5b2c0d8
+FileChecksum: MD5: fc77a7374ab06e9b3941175bf2126456
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/m68k/mc68020/mpih-mul3.S
+SPDXID: SPDXRef-item859637
+FileChecksum: SHA1: ba6fa802861fe2cdfec7ea3dc3821d758f7f884c
+FileChecksum: MD5: db3b78e4741debe1944481426201053e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/config.links
+SPDXID: SPDXRef-item859642
+FileChecksum: SHA1: 967ecf32c0d13e49401a3cca642832e357a00a5d
+FileChecksum: MD5: c1d127949336e45263748384a93201d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-mul.c
+SPDXID: SPDXRef-item859643
+FileChecksum: SHA1: 01efb0980df8f733aa8fa927f44396ccc910659d
+FileChecksum: MD5: 033773aff579ab157ccfe3055f21da41
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa/distfiles
+SPDXID: SPDXRef-item859646
+FileChecksum: SHA1: 75bb491b5713a6adf52572678ba07c863c92d2b7
+FileChecksum: MD5: 527211085632fc6c37e42c14417dfa51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa/mpih-rshift.S
+SPDXID: SPDXRef-item859648
+FileChecksum: SHA1: 89ff20e9c27da72d941e49b037b7823d7aa270a2
+FileChecksum: MD5: 1cda2afd6ded25463c04846f1dec7de6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa/mpih-lshift.S
+SPDXID: SPDXRef-item859650
+FileChecksum: SHA1: 522bcc97b6af05e4b77a38cfa049335cd20f6506
+FileChecksum: MD5: edcedb725fd01c9755f32d102cf76bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa/mpih-sub1.S
+SPDXID: SPDXRef-item859652
+FileChecksum: SHA1: 674d42fda580b1283295272e8a4eb91821cbf6aa
+FileChecksum: MD5: de40400f921ab8f6de6b4096f5f4c1d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa/README
+SPDXID: SPDXRef-item859653
+FileChecksum: SHA1: d1409d4cdd56350f7a26dfeb688dcdfb853ce865
+FileChecksum: MD5: 858423ecb9ac0ec7bc81e000c0c1b25e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa/udiv-qrnnd.S
+SPDXID: SPDXRef-item859654
+FileChecksum: SHA1: 86b9b7f8d7a5a09513cedb94ade8761b4add33cc
+FileChecksum: MD5: e2faa1c658a74eaa4ede66bec8900100
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa/mpih-add1.S
+SPDXID: SPDXRef-item859655
+FileChecksum: SHA1: 4c53f6addfa2b94ac226ff42dd37eb3e418bb7a9
+FileChecksum: MD5: 8adf3800695a24299dcf4161b9042b29
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/arm/distfiles
+SPDXID: SPDXRef-item859658
+FileChecksum: SHA1: aef8c6523fac170c13d4c519694a8a10a1c2a97f
+FileChecksum: MD5: 6e95f51c3bf743bdaae55dd759b7b529
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/arm/mpi-asm-defs.h
+SPDXID: SPDXRef-item859660
+FileChecksum: SHA1: b7f6651de2f00941edf2b6dcda53acb905a7dc64
+FileChecksum: MD5: 3533f0f66bc1c6295c961ecc265a388f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/arm/mpih-mul2.S
+SPDXID: SPDXRef-item859661
+FileChecksum: SHA1: 2fa77b53c6c272996eb3d6f35698530edd9dec03
+FileChecksum: MD5: 8ed25773b6b87cf2999a61400996441d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/arm/mpih-sub1.S
+SPDXID: SPDXRef-item859662
+FileChecksum: SHA1: b01c576f7adcb644a3faf1144075f9b218bac18b
+FileChecksum: MD5: 8ed870a45ad8fe2999988cc89aa89d24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/arm/mpih-mul1.S
+SPDXID: SPDXRef-item859663
+FileChecksum: SHA1: eb2732cb24a814e13c0a9fb861284826430fca6f
+FileChecksum: MD5: b282ba3a132dd1759dc036cc984815de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/arm/mpih-mul3.S
+SPDXID: SPDXRef-item859664
+FileChecksum: SHA1: b5a8213a509010d82d043d0967c2cf2e4cf9e273
+FileChecksum: MD5: 5d423cb37eb71eac9e7b1ca98a9c3491
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/arm/mpih-add1.S
+SPDXID: SPDXRef-item859665
+FileChecksum: SHA1: 7ced0fb583ea3a0804d31d45beedf9c3ff0ee4e6
+FileChecksum: MD5: a19818c548d105fc45a2e5542b9cbd10
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/aarch64/distfiles
+SPDXID: SPDXRef-item859669
+FileChecksum: SHA1: de5bc3a307a405043adf460ca2b1f1b60712b85b
+FileChecksum: MD5: 04d69fe27593843436d31ed81a6f0e1f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/aarch64/mpi-asm-defs.h
+SPDXID: SPDXRef-item859671
+FileChecksum: SHA1: 19c40834ed77f664343e6cd0c6f0110eed1bfc87
+FileChecksum: MD5: 44703bd9db8ed05a92fa10bbf2a32e40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/aarch64/mpih-mul2.S
+SPDXID: SPDXRef-item859672
+FileChecksum: SHA1: 2783400a2d2b15f818bed070e5fe566a0a6ba4af
+FileChecksum: MD5: e4e1f9a395521853c49e3940fbe05e1e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/aarch64/mpih-sub1.S
+SPDXID: SPDXRef-item859673
+FileChecksum: SHA1: 828408d0b426580471525ff3372d62a9f6596dfe
+FileChecksum: MD5: 1ae3fb21ed3923cf31390886f7ca0bb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/aarch64/mpih-mul1.S
+SPDXID: SPDXRef-item859675
+FileChecksum: SHA1: 02aa6570ff9244b782ca61d87eaa89fc95f0a856
+FileChecksum: MD5: c55d89327f801ac79b5f527f6abfbbec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/aarch64/mpih-mul3.S
+SPDXID: SPDXRef-item859676
+FileChecksum: SHA1: 38af74537f2a90cf450d2c37d24e151c50f0d107
+FileChecksum: MD5: 78c726707d00a4c83c11f5b8a456e080
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/aarch64/mpih-add1.S
+SPDXID: SPDXRef-item859678
+FileChecksum: SHA1: b36cb52fb38bc74e0f2b06001647918ed0cf5847
+FileChecksum: MD5: 868553022653a316746a3b0977b25ef0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/ec-internal.h
+SPDXID: SPDXRef-item859682
+FileChecksum: SHA1: 9b330d9c6c96ecf34992aea4bc4f911c88fa61fa
+FileChecksum: MD5: 35e52a609f7b546977778e638731f473
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-mod.c
+SPDXID: SPDXRef-item859684
+FileChecksum: SHA1: ff0a86f8dbdfbff8f4383b26c42c94dea9ff386d
+FileChecksum: MD5: 8bc46bc65019a7b349ca59c452019d3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa1.1/distfiles
+SPDXID: SPDXRef-item859686
+FileChecksum: SHA1: 693d9645852cd86e713cde5b7232b52a6e01ae08
+FileChecksum: MD5: 16a537c175b2cfba75f13f4008a116dd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa1.1/mpih-mul2.S
+SPDXID: SPDXRef-item859687
+FileChecksum: SHA1: b0f14f76559830ec458a2b58df22799e3b2107d9
+FileChecksum: MD5: 48430c2e3bd086fd66452264ed05f68e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa1.1/mpih-mul1.S
+SPDXID: SPDXRef-item859690
+FileChecksum: SHA1: b926f4377ed35b79a46418440c4dd3e988835cf5
+FileChecksum: MD5: e25a1d2090ccf84880d1f7422f2d3796
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa1.1/udiv-qrnnd.S
+SPDXID: SPDXRef-item859692
+FileChecksum: SHA1: 3d4f6b15a424d56090765b19783c8ac1efccb960
+FileChecksum: MD5: 2cee1e41586d617fd96695d55e5c7096
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/hppa1.1/mpih-mul3.S
+SPDXID: SPDXRef-item859698
+FileChecksum: SHA1: b7285732b1c2311e3a28098ea7fc62f91f778f85
+FileChecksum: MD5: 08db7b2c254f7327dae392ef0b9b7c50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32/distfiles
+SPDXID: SPDXRef-item859701
+FileChecksum: SHA1: 04eb2792ba635495db0ac63b4ceafc94f81fbce3
+FileChecksum: MD5: 1bbdec49dc2622dd140b76496e020b8f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32/mpih-rshift.S
+SPDXID: SPDXRef-item859703
+FileChecksum: SHA1: 7a727bb3561d1aa42ea16af29f8a8d4229634ccb
+FileChecksum: MD5: 9ae5e864ddabd7588c078288b15ed8e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32/mpih-lshift.S
+SPDXID: SPDXRef-item859704
+FileChecksum: SHA1: cb12b7b981c47109ab8a2c3f8bdabca4f431ded7
+FileChecksum: MD5: 15e4ca0c9f7bfa89ac64564cdc9c2f33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32/udiv.S
+SPDXID: SPDXRef-item859706
+FileChecksum: SHA1: 11edf2dc034de636acab3aad2360e0b027dbca8a
+FileChecksum: MD5: 77461a1e61f55387b3fe1059b83c3ee2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/sparc32/mpih-add1.S
+SPDXID: SPDXRef-item859710
+FileChecksum: SHA1: cef48df7e87c48e3a425f3099e101cc2a878f867
+FileChecksum: MD5: 764479903195c8be880af849fc27eb4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/mpi/mpi-gcd.c
+SPDXID: SPDXRef-item859712
+FileChecksum: SHA1: b2985f433f25cbfd03b4a539dcc145de7fb40917
+FileChecksum: MD5: 8b615b98fe275b600abb7807205c03d2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/applied-patches
+SPDXID: SPDXRef-item859717
+FileChecksum: SHA1: dc89adc8ad5228de7c534b9740d5749d3e130361
+FileChecksum: MD5: 4056883da3444a5f6939f6d8acf27bae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/.quilt_series
+SPDXID: SPDXRef-item859718
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/.version
+SPDXID: SPDXRef-item859719
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0001-Add-and-use-pkg-config-for-libgcrypt-instead-of-conf.patch/src/libgcrypt.m4
+SPDXID: SPDXRef-item859726
+FileChecksum: SHA1: d9c68b9672648151345b2319fb45fc9d9898065f
+FileChecksum: MD5: ea6348e5b1f8e7db68adb91622d40840
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0001-Add-and-use-pkg-config-for-libgcrypt-instead-of-conf.patch/src/libgcrypt.pc.in
+SPDXID: SPDXRef-item859727
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0001-Add-and-use-pkg-config-for-libgcrypt-instead-of-conf.patch/.timestamp
+SPDXID: SPDXRef-item859728
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0001-Add-and-use-pkg-config-for-libgcrypt-instead-of-conf.patch/configure.ac
+SPDXID: SPDXRef-item859734
+FileChecksum: SHA1: 867ab16f080fc8ba4405cca43cfc036d694ae5f3
+FileChecksum: MD5: ef8cd55c2b7842218212c69a82591db3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0003-tests-bench-slope.c-workaround-ICE-failure-on-mips-w.patch/tests/bench-slope.c
+SPDXID: SPDXRef-item859739
+FileChecksum: SHA1: 30d8f43b3d3305f36819df55a041d896ff0678b7
+FileChecksum: MD5: a77898f8ae189824fb0ca7f5cf20307d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0003-tests-bench-slope.c-workaround-ICE-failure-on-mips-w.patch/.timestamp
+SPDXID: SPDXRef-item859740
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/.quilt_patches
+SPDXID: SPDXRef-item859741
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0005-ecc-Add-input-validation-for-X25519.patch/cipher/ecc.c
+SPDXID: SPDXRef-item859744
+FileChecksum: SHA1: b1c8130cf565ebebca79e3f5592e974a7d1158f4
+FileChecksum: MD5: 92cd2935edaf8aafd1e880a2ce9225bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0005-ecc-Add-input-validation-for-X25519.patch/src/mpi.h
+SPDXID: SPDXRef-item859749
+FileChecksum: SHA1: 6ccea7858be8ba09d9489f19e9439bbe7f68edfd
+FileChecksum: MD5: 8d600a5ca3ce7b183ac369d2f9820c77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0005-ecc-Add-input-validation-for-X25519.patch/mpi/ec.c
+SPDXID: SPDXRef-item859753
+FileChecksum: SHA1: fc9148f5f16bbd9e5d777faeb41545587770acb7
+FileChecksum: MD5: bc0e8514957e2bcd56467382d7052742
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0005-ecc-Add-input-validation-for-X25519.patch/.timestamp
+SPDXID: SPDXRef-item859755
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0004-tests-Makefile.am-fix-undefined-reference-to-pthread.patch/tests/Makefile.am
+SPDXID: SPDXRef-item859761
+FileChecksum: SHA1: 0fa0f86bc2ec5b208c449213e5de8420d7fb0ea6
+FileChecksum: MD5: 1f31dbbf2718841b55b665b9464e8f8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0004-tests-Makefile.am-fix-undefined-reference-to-pthread.patch/.timestamp
+SPDXID: SPDXRef-item859763
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0006-Fix-building-AArch32-CE-implementations-when-target-.patch/cipher/sha256-armv8-aarch32-ce.S
+SPDXID: SPDXRef-item859768
+FileChecksum: SHA1: ecbda15f074f0a34a4b67eb4723c25a8b31bb8d4
+FileChecksum: MD5: 448806408b63096efb5733fcb55dd189
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0006-Fix-building-AArch32-CE-implementations-when-target-.patch/cipher/rijndael-armv8-aarch32-ce.S
+SPDXID: SPDXRef-item859770
+FileChecksum: SHA1: d75e8d112d89823fcdd8ea7d79e10969d83e27af
+FileChecksum: MD5: ddf5073b9d0248eb8aa4ecbb5e2be07c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0006-Fix-building-AArch32-CE-implementations-when-target-.patch/cipher/cipher-gcm-armv8-aarch32-ce.S
+SPDXID: SPDXRef-item859772
+FileChecksum: SHA1: f995af0983f8e2816de84807784e4d2575c248a8
+FileChecksum: MD5: b234f58a9dcc8586c1a47da00d89313d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0006-Fix-building-AArch32-CE-implementations-when-target-.patch/cipher/sha1-armv8-aarch32-ce.S
+SPDXID: SPDXRef-item859774
+FileChecksum: SHA1: 02590254e8573d73675f8888e833cdbc89a82cf0
+FileChecksum: MD5: a5b7d85df2c9d52395de53c7ea35ded8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0006-Fix-building-AArch32-CE-implementations-when-target-.patch/.timestamp
+SPDXID: SPDXRef-item859776
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0006-Fix-building-AArch32-CE-implementations-when-target-.patch/configure.ac
+SPDXID: SPDXRef-item859780
+FileChecksum: SHA1: 20ac6f558fd847fdb7d909f35cf6906c30a0e0db
+FileChecksum: MD5: 5704c96f27e95ad221b31ae4769cce71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0002-libgcrypt-fix-building-error-with-O2-in-sysroot-path.patch/cipher/Makefile.am
+SPDXID: SPDXRef-item859787
+FileChecksum: SHA1: cd7f8e20e8bc6f85ef90b3bc7a4edf6a1b9fa7a1
+FileChecksum: MD5: 30641b11282dfbbeb7fbfb06741c42f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/.pc/0002-libgcrypt-fix-building-error-with-O2-in-sysroot-path.patch/.timestamp
+SPDXID: SPDXRef-item859789
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/configure.ac
+SPDXID: SPDXRef-item859795
+FileChecksum: SHA1: e282a8f89952f08947d59782ba9c20c233b805a7
+FileChecksum: MD5: d098ee131a89d5b5f5a963c70e730672
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/git-log-footer
+SPDXID: SPDXRef-item859797
+FileChecksum: SHA1: 8a4a281f27bcc8db0850e2e783eb02e89b1ad7ee
+FileChecksum: MD5: b9f610b8b00f4034e5a8271bdbe4c4da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/compile
+SPDXID: SPDXRef-item859798
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/install-sh
+SPDXID: SPDXRef-item859799
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/git-log-fix
+SPDXID: SPDXRef-item859801
+FileChecksum: SHA1: fced54a76789e672f837883c882274dff1f3b11f
+FileChecksum: MD5: 16e5e2f4033c3b6876439fe72a17ccec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/texinfo.tex
+SPDXID: SPDXRef-item859803
+FileChecksum: SHA1: 7174f4cc9ed2ab8fc14a025fdef77857cd63ae4c
+FileChecksum: MD5: 470dcf6eeb18970eb20f94234ee44d40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-TeX-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/ltmain.sh
+SPDXID: SPDXRef-item859806
+FileChecksum: SHA1: 70afa2ae66ba26b1e28ac88c227caa2c009c921c
+FileChecksum: MD5: 0e00770f78ed91dcde90eae9ddd54412
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/ChangeLog-2011
+SPDXID: SPDXRef-item859808
+FileChecksum: SHA1: 38d1e2dc22f9bc1175c02b554a822105c2362c93
+FileChecksum: MD5: b4918dd462aff9a9bd784825684f312b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/config.sub
+SPDXID: SPDXRef-item859809
+FileChecksum: SHA1: de71ef83c06b8148193130313a0a489f7de72560
+FileChecksum: MD5: ab5cdf7080934d24cf4ca0739db766a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/missing
+SPDXID: SPDXRef-item859810
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/config.rpath
+SPDXID: SPDXRef-item859811
+FileChecksum: SHA1: c532386fab0554d2137994fac8b00c651542f660
+FileChecksum: MD5: 2547eb44589484b1ab6ce9e20686643d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/mdate-sh
+SPDXID: SPDXRef-item859812
+FileChecksum: SHA1: 71caaceae43e41885e200e609b63913c0cd5f7c7
+FileChecksum: MD5: cb6ad6c68a6629108307afb28985c040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/config.guess
+SPDXID: SPDXRef-item859813
+FileChecksum: SHA1: 3f7002a9ccadf22c2e373572b5f5e64964fb75ce
+FileChecksum: MD5: 52f80eee57d1a5dc581fbb1f1c6a7bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/build-aux/depcomp
+SPDXID: SPDXRef-item859817
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/INSTALL
+SPDXID: SPDXRef-item859823
+FileChecksum: SHA1: b853e474443016921ca2f0c424599387dad55ffd
+FileChecksum: MD5: c59cbaf0df9bcf35feca0d0f1fc01dae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/patches/series
+SPDXID: SPDXRef-item859828
+FileChecksum: SHA1: 5f3897f7f6149787658865b607cda2fba12d1545
+FileChecksum: MD5: 67c0096e104c003cf9574807ff9a0ca3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/autogen.sh
+SPDXID: SPDXRef-item859834
+FileChecksum: SHA1: 9dd58cb51e79b6004b5964a218bd04184274dddf
+FileChecksum: MD5: f7844a837bd8118dfbd9e24bf8407b84
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libgcrypt-1.8.0/ChangeLog
+SPDXID: SPDXRef-item859839
+FileChecksum: SHA1: 8c3bfb04a0c3ccebf6c9866c72263ba059b118f7
+FileChecksum: MD5: b4ab5fe7cf3d160ee08ec61640f5d29b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-Add-and-use-pkg-config-for-libgcrypt-instead-of-conf.patch
+SPDXID: SPDXRef-item859842
+FileChecksum: SHA1: 5f0e24b6da895bbb69db349c38b2c9f6eeebee1a
+FileChecksum: MD5: e3558631399281537d5a068f20348c4a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0003-tests-bench-slope.c-workaround-ICE-failure-on-mips-w.patch
+SPDXID: SPDXRef-item859845
+FileChecksum: SHA1: d563f80588efb300dfa42a325adfb6c3f82ebe78
+FileChecksum: MD5: b04b77b957fd5b2d9e999284c31f746e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0005-ecc-Add-input-validation-for-X25519.patch
+SPDXID: SPDXRef-item859847
+FileChecksum: SHA1: b21860793b83c14b4afc319088276f87ff449198
+FileChecksum: MD5: 48d75b66bdf9d2888fe458b3a4c284bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0004-tests-Makefile.am-fix-undefined-reference-to-pthread.patch
+SPDXID: SPDXRef-item859849
+FileChecksum: SHA1: 50582b5a5781368926bb36d999759fdc6f6280f5
+FileChecksum: MD5: 0700b34f54ef145f32ae680b877deb51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0006-Fix-building-AArch32-CE-implementations-when-target-.patch
+SPDXID: SPDXRef-item859850
+FileChecksum: SHA1: ea8582b4bf04a520c2d2cfb4a43fd26a1f7a568e
+FileChecksum: MD5: 555e012aec51d0ddbce2ac118f458e7b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0002-libgcrypt-fix-building-error-with-O2-in-sysroot-path.patch
+SPDXID: SPDXRef-item859852
+FileChecksum: SHA1: 0e0738f3a2c71f9fa0fea104cb49aaf6ce448a5d
+FileChecksum: MD5: 61941ece36fb367f104d885e699083cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-TeX-exception
+LicenseName: TeX-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-WebM
+LicenseName: WebM Software License
+ExtractedText: <text> Software License
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of Google nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS “AS IS” AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+

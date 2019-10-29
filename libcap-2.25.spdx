@@ -1,0 +1,1136 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libcap-2.25-r0-patched.tar.gz_1571460514.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:48:34Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libcap
+PackageVersion: 2.25
+PackageFileName: libcap-2.25-r0-patched.tar.gz
+SPDXID: SPDXRef-upload434
+PackageDownloadLocation: http://cdn.kernel.org/pub/linux/libs/security/linux-privs/libcap2/libcap-2.25.tar.xz
+PackageHomePage: http://sites.google.com/site/fullycapable/
+PackageSummary: <text>Library for getting/setting POSIX.1e capabilities</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libcap version 2.25</text>
+PackageChecksum: SHA1: a7127869e8265b4accfa43a616fda7f4428e90ba
+PackageChecksum: MD5: dfb29e74aa2e8041e49fae986c0472a3
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload434
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/0001-ensure-the-XATTR_NAME_CAPS-is-defined-when-it-is-use.patch
+SPDXID: SPDXRef-item1105053
+FileChecksum: SHA1: a4f4837bc0e60f60a8ecb0a6b465ce389c1a61f6
+FileChecksum: MD5: 78a81b41c6180151604eb546e9b41ea1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/0001-Fix-build-with-gperf-3.1.patch
+SPDXID: SPDXRef-item1105054
+FileChecksum: SHA1: 56622465841b039b4e2e6bda790f930cd57760da
+FileChecksum: MD5: 3162d00979f15fe227ea466f01e8553f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/cap_file.c
+SPDXID: SPDXRef-item1105057
+FileChecksum: SHA1: 936f5e692883ab48fb4e5da75f0aaeb0ec739104
+FileChecksum: MD5: 4d521a3d9d612988a277efbfa959a0da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/Makefile
+SPDXID: SPDXRef-item1105058
+FileChecksum: SHA1: 53c604570c6066343824cca4f0fbf3544663fc99
+FileChecksum: MD5: b19ca64092a531c00dbd01d60a4f992c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/.gitignore
+SPDXID: SPDXRef-item1105059
+FileChecksum: SHA1: 6f398cadb22cc97d597d64b05ea29311fd8d99ef
+FileChecksum: MD5: 906a7bc3a698cedef967bc80a3ec3521
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/libcap.h
+SPDXID: SPDXRef-item1105060
+FileChecksum: SHA1: 2c06db3083d209e562d39418705e967b077d5bfb
+FileChecksum: MD5: f3434f1959a065c035c0d7d349c4dd86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/_makenames.c
+SPDXID: SPDXRef-item1105061
+FileChecksum: SHA1: adff69a0fe6404dea77dfd119272e9177071f59e
+FileChecksum: MD5: acad0278795edf5943afdea64761bef4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/cap_flag.c
+SPDXID: SPDXRef-item1105062
+FileChecksum: SHA1: fec49ff68fedd3559a1be7feaf408c89138d8445
+FileChecksum: MD5: abcac4bb8e96a58314ab4031926fca9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/cap_proc.c
+SPDXID: SPDXRef-item1105063
+FileChecksum: SHA1: 99fc1a255326c17ada43b526f78d837cd65625ae
+FileChecksum: MD5: 3ae532d89ef352c11d6572e023107fb2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/cap_extint.c
+SPDXID: SPDXRef-item1105064
+FileChecksum: SHA1: 6ebf45191f9a5e439caf2d5079fbd1f7173ba8c1
+FileChecksum: MD5: a7029161535db7d4ca6fb61c68126a9c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/cap_text.c
+SPDXID: SPDXRef-item1105065
+FileChecksum: SHA1: a4568c2b3fa2ba65ffe0a83ff6041ed7f911e066
+FileChecksum: MD5: 8e166b6962181448501a776d3eca8546
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/cap_alloc.c
+SPDXID: SPDXRef-item1105066
+FileChecksum: SHA1: d4a3558eb661078f9c742c4134d33269f2c9d9e7
+FileChecksum: MD5: 287f89b75241bab773c3b9f636b453a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/libcap.pc.in
+SPDXID: SPDXRef-item1105067
+FileChecksum: SHA1: 27a85a6f153d2141b8200a92c235612a9f525193
+FileChecksum: MD5: a72f3f7d9156b3df10921a63cd4e044e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/include/uapi/linux/securebits.h
+SPDXID: SPDXRef-item1105071
+FileChecksum: SHA1: 0ee1b70f7bfb048924c091de2d0f7062d1dd2d57
+FileChecksum: MD5: f8e1260182b2c88d7603a05a993e3012
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/include/uapi/linux/capability.h
+SPDXID: SPDXRef-item1105072
+FileChecksum: SHA1: 6917c81dc64e3695cb5cc4f8231afb9ff4393d1a
+FileChecksum: MD5: 880989d3341dd5a0ce064588607290e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/include/uapi/linux/prctl.h
+SPDXID: SPDXRef-item1105073
+FileChecksum: SHA1: 16a07a2becabe0fcd89a88af00146bab07ba9dcd
+FileChecksum: MD5: 460d8c5c1d24df880708e9f128db06be
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/include/sys/securebits.h
+SPDXID: SPDXRef-item1105075
+FileChecksum: SHA1: c8abbd1a1153c577477635d1e1b7480ee410b5a1
+FileChecksum: MD5: a64298d90142788a8e676e9ae1af7e75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/libcap/include/sys/capability.h
+SPDXID: SPDXRef-item1105076
+FileChecksum: SHA1: 72670672247f21690cc472d05c51f47cc4c49145
+FileChecksum: MD5: ddd34fa62271791dc65ce23e12c6d8cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/Makefile
+SPDXID: SPDXRef-item1105077
+FileChecksum: SHA1: bc9c87eeb2c8b9bdafe4914245bcd20e9b86e3b7
+FileChecksum: MD5: 2d9d6d61e6b4c61001aee9c29ea5070a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/contrib/Makefile
+SPDXID: SPDXRef-item1105079
+FileChecksum: SHA1: 5eab1b3e462ae9da5b5deca4d005e5da7094118c
+FileChecksum: MD5: 6e01989b4e04f58886bddf825bd21467
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/contrib/pcaps4convenience
+SPDXID: SPDXRef-item1105080
+FileChecksum: SHA1: 35de88fb6830597c5dd984263e447aacfaa35ad5
+FileChecksum: MD5: 33f98bf4e596aad960f7b4751eba94a7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/contrib/pcaps4server
+SPDXID: SPDXRef-item1105081
+FileChecksum: SHA1: 0375613c2610e437bcc234780c330c2a11f3f59d
+FileChecksum: MD5: e09bcd1593ddcb0fc926e09593b2a952
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/contrib/bug400591/Makefile
+SPDXID: SPDXRef-item1105083
+FileChecksum: SHA1: d6cf4dfe82762b33d009eb093829d40c63e017e7
+FileChecksum: MD5: 6094da4ee8717a48f8c5bc799b288b30
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/contrib/bug400591/bug.c
+SPDXID: SPDXRef-item1105084
+FileChecksum: SHA1: 775ffde89a43dee8992944aadf8cd03a5713d845
+FileChecksum: MD5: 03117217b0036a98877598ff8046ff25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/contrib/pcaps4suid0
+SPDXID: SPDXRef-item1105085
+FileChecksum: SHA1: 2ec54c6efba125cc55d08c8b8ca701bbb4f0719e
+FileChecksum: MD5: b9d9fa13c48a7b891ab190c6b0771792
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/License
+SPDXID: SPDXRef-item1105086
+FileChecksum: SHA1: 1f65128ca2bb6715d81ca6c60f997c997d0ac69e
+FileChecksum: MD5: 3f84fd6f29d453a56514cb7e4ead25f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-BSD-style
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/Makefile
+SPDXID: SPDXRef-item1105088
+FileChecksum: SHA1: 0508cded7791c6da21d76f019fd627a13ea76dfc
+FileChecksum: MD5: ed466184bdba765c9b62da71a18b6cde
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/getcap.c
+SPDXID: SPDXRef-item1105089
+FileChecksum: SHA1: 4ce6ce86609b66b69f7081d00deb3aa1c117c2c4
+FileChecksum: MD5: 24233c1b55f7be97e8cfd7fbb4753548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/.gitignore
+SPDXID: SPDXRef-item1105090
+FileChecksum: SHA1: 02a064f16b375acb897a6540e78b7a195c8a0f83
+FileChecksum: MD5: 73c012335604dcc1b8ff58cde83af01f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/quicktest.sh
+SPDXID: SPDXRef-item1105091
+FileChecksum: SHA1: 92e12ca78acbf4bdeef4e82cffdfa32950efb03a
+FileChecksum: MD5: 1de4f888a1162c9cdd14890ae5065431
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/old/setpcaps.c
+SPDXID: SPDXRef-item1105093
+FileChecksum: SHA1: 211c3ab7862c715de8bf2177fbdcdd8560e8827e
+FileChecksum: MD5: 70bb8de4bcd4b8ae4226fa24f0e7c304
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/old/sucap.c
+SPDXID: SPDXRef-item1105094
+FileChecksum: SHA1: 45fe7db98a7f01f2199c8ba3a8018e0cf90444c3
+FileChecksum: MD5: fae1b62ca50fa0103f2d39090d28cce3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/old/README
+SPDXID: SPDXRef-item1105095
+FileChecksum: SHA1: 483c0006525209400655d6ec853915077c7a1a49
+FileChecksum: MD5: cce42f825b793c24330ba8e0765a9edc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/old/execcap.c
+SPDXID: SPDXRef-item1105096
+FileChecksum: SHA1: 13a02c64acba307b038d5820200d01d7506911d0
+FileChecksum: MD5: 08739d53d6728f51fa0c74d59d42f391
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/capsh.c
+SPDXID: SPDXRef-item1105097
+FileChecksum: SHA1: 98df8a824eb4a8ef931e9a9dc1e9e07e2d479b0b
+FileChecksum: MD5: 8a1f37f260914d5656a853c62cab0137
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/getpcaps.c
+SPDXID: SPDXRef-item1105098
+FileChecksum: SHA1: de68596565bc273813acf769a9bdf69fa164acd0
+FileChecksum: MD5: 6e55aa9aa7eff07d28d26866f9fd8fbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/progs/setcap.c
+SPDXID: SPDXRef-item1105099
+FileChecksum: SHA1: c39c3651e4f0c209953dc94bba47e4e5d0470a59
+FileChecksum: MD5: 54b651dd86e830b39bfd441ccc961469
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/pgp.keys.asc
+SPDXID: SPDXRef-item1105100
+FileChecksum: SHA1: 0cb0ef40378df099a31ea89aa5ddb65aa8457c7d
+FileChecksum: MD5: d2ad7b1349a32343820649ef04fdc3bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/Makefile
+SPDXID: SPDXRef-item1105102
+FileChecksum: SHA1: 5877fb3da9c01bccff89328ecdc40eb0178e7d56
+FileChecksum: MD5: d2415eda3d2fe4abcdb033da211efd65
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_get_flag.3
+SPDXID: SPDXRef-item1105103
+FileChecksum: SHA1: d6a313cc6cd4280fe914482d4b5b4897352cd5d7
+FileChecksum: MD5: 8e579d4e469738dae24f87ec2f9e0340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/capsh.1
+SPDXID: SPDXRef-item1105104
+FileChecksum: SHA1: a349aa1f45460364bb2c37111f9c7810450a7174
+FileChecksum: MD5: c9fe63c2211b6ec0cd3972342e913ef8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/getcap.8
+SPDXID: SPDXRef-item1105105
+FileChecksum: SHA1: 0a5c23c9553d55e7c8dab16531a5e0de3d4b8b14
+FileChecksum: MD5: 62b11f27ea120a5d149953dba5e14772
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_compare.3
+SPDXID: SPDXRef-item1105106
+FileChecksum: SHA1: d6a313cc6cd4280fe914482d4b5b4897352cd5d7
+FileChecksum: MD5: 8e579d4e469738dae24f87ec2f9e0340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_copy_ext.3
+SPDXID: SPDXRef-item1105107
+FileChecksum: SHA1: bdd46aeb596c85488e2bd3f82e4c54197a2c28e6
+FileChecksum: MD5: 4b5fbe2b6ce39686349ef21287c4cf25
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_set_proc.3
+SPDXID: SPDXRef-item1105108
+FileChecksum: SHA1: 8c44c1ce96339a1063169fb225da54d5e21cad4b
+FileChecksum: MD5: 34f9021eae5e363d38514c2341dd8ad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_set_fd.3
+SPDXID: SPDXRef-item1105109
+FileChecksum: SHA1: 0b9e3ed72638a145bd3a042e79a19620ab320bd4
+FileChecksum: MD5: cee373feecddf5a26d77b85e61607234
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/libcap.3
+SPDXID: SPDXRef-item1105110
+FileChecksum: SHA1: 7d392f48b77487c9c8476bfbcb7d098d8f310a62
+FileChecksum: MD5: 33c7af206d7c87561e01a63b4b23682c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_from_name.3
+SPDXID: SPDXRef-item1105111
+FileChecksum: SHA1: 26a69d38a39e736d439870d39d4aa5a72a344802
+FileChecksum: MD5: 1a6ab1ace6ac21c6cc164bc437757ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_size.3
+SPDXID: SPDXRef-item1105112
+FileChecksum: SHA1: 4466d18addf3bbf691b1da039f1b1645c3d1b088
+FileChecksum: MD5: ef7de8d39fb0cd57edebbf003998cd54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_get_file.3
+SPDXID: SPDXRef-item1105113
+FileChecksum: SHA1: 22bab6851dcc403d62d6de42120d48f9f6271c97
+FileChecksum: MD5: 331fcfadc99d4c1741a375775e4cb899
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/capability.notes
+SPDXID: SPDXRef-item1105114
+FileChecksum: SHA1: dfc01dec23013354ea56dff88baa0254c0d87f07
+FileChecksum: MD5: a98a40cf0d0fa1c8ef0835b581e44a86
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_drop_bound.3
+SPDXID: SPDXRef-item1105115
+FileChecksum: SHA1: 8c44c1ce96339a1063169fb225da54d5e21cad4b
+FileChecksum: MD5: 34f9021eae5e363d38514c2341dd8ad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_copy_int.3
+SPDXID: SPDXRef-item1105116
+FileChecksum: SHA1: 4466d18addf3bbf691b1da039f1b1645c3d1b088
+FileChecksum: MD5: ef7de8d39fb0cd57edebbf003998cd54
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_clear_flag.3
+SPDXID: SPDXRef-item1105117
+FileChecksum: SHA1: d6a313cc6cd4280fe914482d4b5b4897352cd5d7
+FileChecksum: MD5: 8e579d4e469738dae24f87ec2f9e0340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_clear.3
+SPDXID: SPDXRef-item1105118
+FileChecksum: SHA1: 029580da98d31abb011397d77a5adae15ca0ec69
+FileChecksum: MD5: 02808d70cf7872cf69485e958af234ee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_get_pid.3
+SPDXID: SPDXRef-item1105119
+FileChecksum: SHA1: 8c44c1ce96339a1063169fb225da54d5e21cad4b
+FileChecksum: MD5: 34f9021eae5e363d38514c2341dd8ad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_set_flag.3
+SPDXID: SPDXRef-item1105120
+FileChecksum: SHA1: d6a313cc6cd4280fe914482d4b5b4897352cd5d7
+FileChecksum: MD5: 8e579d4e469738dae24f87ec2f9e0340
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_dup.3
+SPDXID: SPDXRef-item1105121
+FileChecksum: SHA1: 69b4254d7ed9f605ac18154415b2acb64c58a099
+FileChecksum: MD5: 8e5ca2bdc13e5b88bad99740fd76bbc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_free.3
+SPDXID: SPDXRef-item1105122
+FileChecksum: SHA1: 69b4254d7ed9f605ac18154415b2acb64c58a099
+FileChecksum: MD5: 8e5ca2bdc13e5b88bad99740fd76bbc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/old/_fsetfilecap.2
+SPDXID: SPDXRef-item1105124
+FileChecksum: SHA1: b17000bfb4d77fa33df0f75f6566dd6ff1298cdd
+FileChecksum: MD5: 88aa858fcbfbc78233f5508b3d766b68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/old/_getfilecap.2
+SPDXID: SPDXRef-item1105125
+FileChecksum: SHA1: b17000bfb4d77fa33df0f75f6566dd6ff1298cdd
+FileChecksum: MD5: 88aa858fcbfbc78233f5508b3d766b68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/old/_fgetfilecap.2
+SPDXID: SPDXRef-item1105126
+FileChecksum: SHA1: b17000bfb4d77fa33df0f75f6566dd6ff1298cdd
+FileChecksum: MD5: 88aa858fcbfbc78233f5508b3d766b68
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/old/_setproccap.2
+SPDXID: SPDXRef-item1105127
+FileChecksum: SHA1: 243713476d0cc7b0ffbb7bf9ad0379c19ee96923
+FileChecksum: MD5: f202d98b5e9e6bd38d1114be149b82e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/old/README
+SPDXID: SPDXRef-item1105128
+FileChecksum: SHA1: 483c0006525209400655d6ec853915077c7a1a49
+FileChecksum: MD5: cce42f825b793c24330ba8e0765a9edc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/old/_setfilecap.2
+SPDXID: SPDXRef-item1105129
+FileChecksum: SHA1: 816b41c72ff00a0223c87f56a8a8928463ce2edc
+FileChecksum: MD5: 298c00c2119cdfa061062e79e3a7b031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/old/_getproccap.2
+SPDXID: SPDXRef-item1105130
+FileChecksum: SHA1: 904c3e45682e95e6473dac8396118daed7ad9921
+FileChecksum: MD5: f5568c29f04cf04c10313557d6c8481f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_get_proc.3
+SPDXID: SPDXRef-item1105131
+FileChecksum: SHA1: 02484b3e88df07871c53a9c893c91dc8a0f21da5
+FileChecksum: MD5: c47e4df0570a6065cddc2dfb8cb4e2c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_to_text.3
+SPDXID: SPDXRef-item1105132
+FileChecksum: SHA1: 26a69d38a39e736d439870d39d4aa5a72a344802
+FileChecksum: MD5: 1a6ab1ace6ac21c6cc164bc437757ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_set_file.3
+SPDXID: SPDXRef-item1105133
+FileChecksum: SHA1: 0b9e3ed72638a145bd3a042e79a19620ab320bd4
+FileChecksum: MD5: cee373feecddf5a26d77b85e61607234
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_get_bound.3
+SPDXID: SPDXRef-item1105134
+FileChecksum: SHA1: 8c44c1ce96339a1063169fb225da54d5e21cad4b
+FileChecksum: MD5: 34f9021eae5e363d38514c2341dd8ad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_get_fd.3
+SPDXID: SPDXRef-item1105135
+FileChecksum: SHA1: 0b9e3ed72638a145bd3a042e79a19620ab320bd4
+FileChecksum: MD5: cee373feecddf5a26d77b85e61607234
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_to_name.3
+SPDXID: SPDXRef-item1105136
+FileChecksum: SHA1: 26a69d38a39e736d439870d39d4aa5a72a344802
+FileChecksum: MD5: 1a6ab1ace6ac21c6cc164bc437757ee7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/capsetp.3
+SPDXID: SPDXRef-item1105137
+FileChecksum: SHA1: 8c44c1ce96339a1063169fb225da54d5e21cad4b
+FileChecksum: MD5: 34f9021eae5e363d38514c2341dd8ad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/capgetp.3
+SPDXID: SPDXRef-item1105138
+FileChecksum: SHA1: 8c44c1ce96339a1063169fb225da54d5e21cad4b
+FileChecksum: MD5: 34f9021eae5e363d38514c2341dd8ad2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_from_text.3
+SPDXID: SPDXRef-item1105139
+FileChecksum: SHA1: 17b971ca8af40b9d3bc0daa7f994084e54f152a0
+FileChecksum: MD5: 7436ab7e7c6c1f356b49f65228be3e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/setcap.8
+SPDXID: SPDXRef-item1105140
+FileChecksum: SHA1: f4e638e45dc6cc5505ce8f60e97b7c6ef5ccb6b7
+FileChecksum: MD5: cc25cb8b8caa227c2c94a04e3b1efbb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/doc/cap_init.3
+SPDXID: SPDXRef-item1105141
+FileChecksum: SHA1: e97dc2380da736effbf7ce0d9b26a311b9e44d7c
+FileChecksum: MD5: 4869a5143d2bb2e67a9b871b1205d509
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/README
+SPDXID: SPDXRef-item1105142
+FileChecksum: SHA1: 44f559b6a31af2c14ad5e5c9011a4d2ede80451a
+FileChecksum: MD5: 5e4e8dc915f4f1d367845ac39a3a6023
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/.pc/applied-patches
+SPDXID: SPDXRef-item1105144
+FileChecksum: SHA1: 4a3128900d36f6c15f7c2963dd93a47e83b4a64a
+FileChecksum: MD5: f18637d3a19b56d79a831912c13cd2e2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/.pc/.quilt_series
+SPDXID: SPDXRef-item1105145
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/.pc/.version
+SPDXID: SPDXRef-item1105146
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/.pc/.quilt_patches
+SPDXID: SPDXRef-item1105147
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/.pc/0001-ensure-the-XATTR_NAME_CAPS-is-defined-when-it-is-use.patch/libcap/cap_file.c
+SPDXID: SPDXRef-item1105150
+FileChecksum: SHA1: 4a3da3eb0612e106f11ca4357be699d33e8976ab
+FileChecksum: MD5: 454a1b155a0a62e15dbf2dd824790c19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/.pc/0001-ensure-the-XATTR_NAME_CAPS-is-defined-when-it-is-use.patch/.timestamp
+SPDXID: SPDXRef-item1105151
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/.pc/0001-Fix-build-with-gperf-3.1.patch/libcap/Makefile
+SPDXID: SPDXRef-item1105154
+FileChecksum: SHA1: 57ca5850ebb5cee6fcbf78668b70313fb48a43b5
+FileChecksum: MD5: d0a1c24f090f715b1bfd488f23a0489a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/.pc/0001-Fix-build-with-gperf-3.1.patch/.timestamp
+SPDXID: SPDXRef-item1105155
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/template.c
+SPDXID: SPDXRef-item1105156
+FileChecksum: SHA1: bce2ce417337d5166fc2b456bfddfe06e64ae645
+FileChecksum: MD5: cf8a10c60903b3eca60cefcaee7e21b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/CHANGELOG
+SPDXID: SPDXRef-item1105157
+FileChecksum: SHA1: 8b86621ebc66c6023354647ecd5e138318036a90
+FileChecksum: MD5: 8ce8769ae6e1d8a7e195daa2af809a77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/pam_cap/Makefile
+SPDXID: SPDXRef-item1105159
+FileChecksum: SHA1: 76c03c24c6efe9b0af40918345458df4474e58cf
+FileChecksum: MD5: cd2580815d450392775e61f148c2430f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/pam_cap/License
+SPDXID: SPDXRef-item1105160
+FileChecksum: SHA1: bf77cfae0a77bd405578c6f49be4d672ef6ecdf7
+FileChecksum: MD5: 0ad4c9c052b9719ee4fce1bfc7c7dee4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Dual-license
+LicenseInfoInFile: LicenseRef-BSD-style
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/pam_cap/.gitignore
+SPDXID: SPDXRef-item1105161
+FileChecksum: SHA1: b4f9e0e556bb9f2089e2111bfd364cbd9eb3d29e
+FileChecksum: MD5: 903f34de9d1f6123cfaee13c9f174b58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/pam_cap/capability.conf
+SPDXID: SPDXRef-item1105162
+FileChecksum: SHA1: 376244a6649274ecac80e2667e342873e9e49c34
+FileChecksum: MD5: fa5804a90b16addeec23008102b4746d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/pam_cap/test.c
+SPDXID: SPDXRef-item1105163
+FileChecksum: SHA1: 423dd1bfe7a3c83ecde8e3855087f0254e31b89b
+FileChecksum: MD5: c48b22cb9213eed1aaabf3aa89efd4f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/pam_cap/pam_cap.c
+SPDXID: SPDXRef-item1105164
+FileChecksum: SHA1: aa29ef0096d2651559ecbd3003897a123374d494
+FileChecksum: MD5: dc32d95a04f1977f400a204214bec6c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/patches/series
+SPDXID: SPDXRef-item1105166
+FileChecksum: SHA1: 1be895699522cf898dba07e18ed1c1bb27ba2c79
+FileChecksum: MD5: 03c47435eaa9f727e5ec60f4b1769b4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libcap-2.25/Make.Rules
+SPDXID: SPDXRef-item1105169
+FileChecksum: SHA1: 257fa7f5063a04a7320f46a35c7fd50f5e18657f
+FileChecksum: MD5: 0b6a6689584349764709b4875117ae98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Dual-license
+LicenseName: Dual-license
+ExtractedText: <text> Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
+When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models. </text>
+
+LicenseID: LicenseRef-BSD-style
+LicenseName: BSD-style
+ExtractedText: <text> According to BSD license, add some modifications </text>
+

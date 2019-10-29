@@ -1,0 +1,1663 @@
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+
+##-------------------------
+## Document Information
+##-------------------------
+
+DocumentNamespace: http://139ca05c61ea/repo/SPDX2TV_libassuan-2.4.3-r0-patched.tar.gz_1571458464.spdx
+DocumentName: /srv/fossology/repository/report
+SPDXID: SPDXRef-DOCUMENT
+
+##-------------------------
+## Creation Information
+##-------------------------
+
+Creator: meta-spdxscanner
+Creator: meta-spdxscanner
+CreatorComment: <text>
+This document was created using license information and a generator from Fossology.
+</text>
+Created: 2019-10-19T04:14:24Z
+LicenseListVersion: 2.6
+
+##-------------------------
+## Package Information
+##-------------------------
+
+
+PackageName: libassuan
+PackageVersion: 2.4.3
+PackageFileName: libassuan-2.4.3-r0-patched.tar.gz
+SPDXID: SPDXRef-upload361
+PackageDownloadLocation: https://www.gnupg.org/ftp/gcrypt/libassuan/libassuan-2.4.3.tar.bz2
+PackageHomePage: http://www.gnupg.org/related_software/libassuan/
+PackageSummary: <text>IPC library used by GnuPG and GPGME</text>
+PackageVerificationCode: da39a3ee5e6b4b0d3255bfef95601890afd80709
+PackageDescription: <text>libassuan version 2.4.3</text>
+PackageChecksum: SHA1: 3af06ac1c757669d7ccacbbbb14fc04e3efd6551
+PackageChecksum: MD5: 901d0c5a404e4a3d93cfedaeb5352ef6
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseComments: <text> licenseInfoInFile determined by Scanners:
+ - nomos ("3.3.0".9fb9c7)
+ - monk ("3.3.0".9fb9c7) </text>
+PackageLicenseInfoFromFiles: NOASSERTION
+PackageCopyrightText: NOASSERTION
+
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-upload361
+
+##--------------------------
+## File Information
+##--------------------------
+
+##File
+
+FileName: spdx_temp/libassuan-add-pkgconfig-support.patch
+SPDXID: SPDXRef-item876230
+FileChecksum: SHA1: 49bb181a4823e1ddbf4a36abef05c2656a373a74
+FileChecksum: MD5: 749359cd952b20ea44b9bfdad59aeaea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/NEWS
+SPDXID: SPDXRef-item876233
+FileChecksum: SHA1: daef48ab7df4cf6540623244c40e9e4c0123707e
+FileChecksum: MD5: 445a38d1f65eafa924575a138f02a781
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/contrib/ChangeLog-2011
+SPDXID: SPDXRef-item876235
+FileChecksum: SHA1: 75fbaa1289007c1b21707cfb8288844e09cca5bc
+FileChecksum: MD5: f537123be195f19d561b562d5dad000a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/mkinstalldirs
+SPDXID: SPDXRef-item876236
+FileChecksum: SHA1: 729f727879696d3cb314575df891e0baa1ad2318
+FileChecksum: MD5: 82b7b70a9845ee61a01f20b29dd2df2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-Public-domain-ref
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/COPYING.LIB
+SPDXID: SPDXRef-item876237
+FileChecksum: SHA1: 9a1929f4700d2407c70b507b3b2aaf6226a9543c
+FileChecksum: MD5: 2d5025d4aa3495befef8f17206a5b0a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/aclocal.m4
+SPDXID: SPDXRef-item876238
+FileChecksum: SHA1: 559422da08765ff0f2f7f6f847d82aa5991fb850
+FileChecksum: MD5: b747920d48afa391f826608319009c50
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/Makefile.in
+SPDXID: SPDXRef-item876239
+FileChecksum: SHA1: 2aea7dc84aa00c44e793546c0f489ec126066014
+FileChecksum: MD5: aa56e27d7b779182d4cd2b871076da51
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/COPYING
+SPDXID: SPDXRef-item876240
+FileChecksum: SHA1: 842745cb706f8f2126506f544492f7a80dbe29b3
+FileChecksum: MD5: f27defe1e96c2e1ecd4e0c9be8967949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/configure
+SPDXID: SPDXRef-item876241
+FileChecksum: SHA1: c15c699624767b0c2c8e5377ced84d5c83d34ab3
+FileChecksum: MD5: e8b18d7743047ad609512c4d93a9910e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/system-w32ce.c
+SPDXID: SPDXRef-item876243
+FileChecksum: SHA1: 490e79829b96752f84e030a18c4a55d6f70bdfb2
+FileChecksum: MD5: 98b9ae2f329b40f7fb6bded32f1ce01b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/w32ce-fd-t.inc.h
+SPDXID: SPDXRef-item876244
+FileChecksum: SHA1: 29ff9921546318cd7d820508a61497a087238054
+FileChecksum: MD5: c524e22de87ddfa64cf9e65b51775e72
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-pipe-server.c
+SPDXID: SPDXRef-item876245
+FileChecksum: SHA1: a21f750c0a560bf4bb190f5516063294656ada2c
+FileChecksum: MD5: 89711b3d62b12fa30a8c7a6cf3e88eee
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/versioninfo.rc.in
+SPDXID: SPDXRef-item876246
+FileChecksum: SHA1: 5202b23b6720896735aaafb5af677e9079739ed5
+FileChecksum: MD5: 885750fae6d9f76a6737d4b55b860a9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-LGPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/stpcpy.c
+SPDXID: SPDXRef-item876247
+FileChecksum: SHA1: 24a27413dc799048d9d4cea749e59ab05cfe716e
+FileChecksum: MD5: 85e21d084990ea7c6bea480a43d1b5a5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/w32ce-add.h
+SPDXID: SPDXRef-item876248
+FileChecksum: SHA1: 15c6b747a82ec0a2c9b15154efe93d581722c319
+FileChecksum: MD5: d434e8e993049c71dc1c5fce8e08403d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/funopen.c
+SPDXID: SPDXRef-item876249
+FileChecksum: SHA1: f7aa2ecd25230d1f39ae9f0310e7661db5afbcdf
+FileChecksum: MD5: 88465d09d3fdc2b96588579cdc581d40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/putc_unlocked.c
+SPDXID: SPDXRef-item876250
+FileChecksum: SHA1: ea15e7b1a7e35db05a9bf502bec26caa2e3a4b4d
+FileChecksum: MD5: f05e606d55745191eb5b6bb18a1ea540
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/libassuan.m4
+SPDXID: SPDXRef-item876251
+FileChecksum: SHA1: 18f2464b9019cad36f8f82a273f94c9b2f03a64f
+FileChecksum: MD5: 6435eb2b6fe6d2021252d1bf05d920ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-socket-connect.c
+SPDXID: SPDXRef-item876252
+FileChecksum: SHA1: 2ad6dc53f1230d7aa0f17df8aecaee7ac00b62d3
+FileChecksum: MD5: bfe2ce22b46090ae5091133a8daadaea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/Makefile.in
+SPDXID: SPDXRef-item876253
+FileChecksum: SHA1: 22f757aeee4314b761c29fa3ab968e53c2d5e432
+FileChecksum: MD5: 976ce9db8bed52181e902b27d212cd08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/w32-sys-pth-impl.h
+SPDXID: SPDXRef-item876254
+FileChecksum: SHA1: 0d19170c62d5b1611698804dd3942606ad8d54de
+FileChecksum: MD5: 7e0a68932b467d6b4f6167ae657960ea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan.c
+SPDXID: SPDXRef-item876255
+FileChecksum: SHA1: 9356008bc3e18ecc7b3941839f940d9777ee4009
+FileChecksum: MD5: 671a4dc0f01491e3b07b568e30bd2e9d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/posix-sys-pth-impl.h
+SPDXID: SPDXRef-item876256
+FileChecksum: SHA1: f4ba619a50e5515fcba8084c96a6c4f170f16b2b
+FileChecksum: MD5: aa4b4a284d986ac90b901b73e7a9772a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-io.c
+SPDXID: SPDXRef-item876257
+FileChecksum: SHA1: 28da6d058956dc6819bec002fd6504520a86462a
+FileChecksum: MD5: 6f1d36ffdbd404b4ffb3e39d2fce8d99
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/gpgcedev.c
+SPDXID: SPDXRef-item876258
+FileChecksum: SHA1: d63a1ef6e180b3b2692f279f8cc96f5da569bb03
+FileChecksum: MD5: 4b01a1005e416bdc7d18a047b8fd0045
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-logging.c
+SPDXID: SPDXRef-item876259
+FileChecksum: SHA1: 420b41ee3d1ef50febc29433e655bacd6baf35d4
+FileChecksum: MD5: 5d326801985c10fdbefa704357853ca5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-socket.c
+SPDXID: SPDXRef-item876260
+FileChecksum: SHA1: de93fd21e3d61a467ca509617182628e60bfb8f2
+FileChecksum: MD5: e7ce6e13be60b9ac28851ef8b53a5dca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/libassuan-config.in
+SPDXID: SPDXRef-item876261
+FileChecksum: SHA1: b30d73767788aba0ebdec157ad7e97bcdba66323
+FileChecksum: MD5: a6bbf7c1ace9a09ec9125e2b52caa772
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/isascii.c
+SPDXID: SPDXRef-item876262
+FileChecksum: SHA1: 23a6b5c1ae373c8104919f4dc97e0765e32b3584
+FileChecksum: MD5: 1e06dd0284482d2bff1565549ac4f465
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/posix-includes.inc.h
+SPDXID: SPDXRef-item876263
+FileChecksum: SHA1: 4c34607008518375dee5ba8f495a75ab3ecb2f47
+FileChecksum: MD5: e015276e07ba13003ccbf7aed6a5f909
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/ChangeLog-2011
+SPDXID: SPDXRef-item876264
+FileChecksum: SHA1: 555870151610ed1ef4794a4b0cce26c91c2bf561
+FileChecksum: MD5: 439da7ce2ff91bf8b9caddc186481d73
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: LicenseRef-FSF
+LicenseInfoInFile: LicenseRef-GPL
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/debug.h
+SPDXID: SPDXRef-item876265
+FileChecksum: SHA1: 2a59c0b285a272ce5c721341290f9aa6818289ac
+FileChecksum: MD5: 7de2a8c92a89ec5f04ebfdb43b8affe4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-error.c
+SPDXID: SPDXRef-item876266
+FileChecksum: SHA1: 1eaf7d383613dea734a310e69ec761437fea87cc
+FileChecksum: MD5: f89fa72133ecf737408f550980514def
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/posix-sock-nonce.inc.h
+SPDXID: SPDXRef-item876267
+FileChecksum: SHA1: 0c614fe97b930bf2c9831355270087ad333b06cb
+FileChecksum: MD5: dfa1c3aaffbc40262cf8b5469ed92666
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-listen.c
+SPDXID: SPDXRef-item876268
+FileChecksum: SHA1: 90bb3f0937e059c4b93f0ff92d92dfc23830ee87
+FileChecksum: MD5: 07105738b985e1ae239e5f361f8369a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/libassuan.vers
+SPDXID: SPDXRef-item876269
+FileChecksum: SHA1: 902716506a6fcefb8d5db02edf4c81c82265a3ac
+FileChecksum: MD5: 597880e2de2ed22e07efbe5d4a685c53
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/Makefile.am
+SPDXID: SPDXRef-item876270
+FileChecksum: SHA1: c814c8ed33cc9bbb20cfdc31ba45e5c4b56969ee
+FileChecksum: MD5: 24dade8266fca99fbffab336f84d59eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/w32-includes.inc.h
+SPDXID: SPDXRef-item876271
+FileChecksum: SHA1: fa66dd0800208bdfc2d9964f59cbab9fa96f603d
+FileChecksum: MD5: 27d74217127f5b402febfdc9a65d4573
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-pipe-connect.c
+SPDXID: SPDXRef-item876272
+FileChecksum: SHA1: 0074a1e6a9ed46da9e26b55e5ed1ab860697d3b6
+FileChecksum: MD5: ce0b356fbbd6e82d1cbf862720c3a810
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/w32-sock-nonce.inc.h
+SPDXID: SPDXRef-item876273
+FileChecksum: SHA1: f23b58e00ea2cfb4178f7e9584e42c644833ac41
+FileChecksum: MD5: 0d264e39ce4dfa4db879f3d1ad85e5d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-inquire.c
+SPDXID: SPDXRef-item876274
+FileChecksum: SHA1: ac9d60261310991ddaaea6bdad9639e448dcbd5a
+FileChecksum: MD5: c9c35ea14c32bde930c307cbc9e1ab3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-buffer.c
+SPDXID: SPDXRef-item876275
+FileChecksum: SHA1: 8bc2e432fe1f6af474942758322c69792a4dcf0c
+FileChecksum: MD5: 7e18c3ce3a822270d5bf76338d5fd753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan.h.in
+SPDXID: SPDXRef-item876276
+FileChecksum: SHA1: b320e85e0f3a1ac3d53c0a218e267ff737c60cc7
+FileChecksum: MD5: 0fb47ba7b4844ff273033d358584d52c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/setenv.c
+SPDXID: SPDXRef-item876277
+FileChecksum: SHA1: 1a2b57f1153241afe73bffef72ce14c0389e70f9
+FileChecksum: MD5: ec4a5e4e2af793946f657fac32632bea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/posix-fd-t.inc.h
+SPDXID: SPDXRef-item876278
+FileChecksum: SHA1: cbee03b483d3766044d1589ee30e5be74d6bea16
+FileChecksum: MD5: 2e2a677ab21a41a215fa10e67274df8a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/sysutils.c
+SPDXID: SPDXRef-item876279
+FileChecksum: SHA1: 34bc671afbeedf0277c7140a10ed9f9186c4d3dd
+FileChecksum: MD5: b1dfbc75e2b69dbb2ad5baa32c4c5a08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-defs.h
+SPDXID: SPDXRef-item876280
+FileChecksum: SHA1: 0320bc2c57c093f2af51ff0fce67cc42c0cb7e87
+FileChecksum: MD5: 08db8ca25ab87db55ea86db615497be2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/memrchr.c
+SPDXID: SPDXRef-item876281
+FileChecksum: SHA1: 8e4b65f3db57d138e798dfed5cddbabcd19fefe0
+FileChecksum: MD5: 8247bbca9e10f6480f49fb0e64aee23f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-handler.c
+SPDXID: SPDXRef-item876282
+FileChecksum: SHA1: e0eda05758c01906bb265deb62effd2b014bc024
+FileChecksum: MD5: 60d7752b2bcb62b111f58e1e3f3af3e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/gpgcemgr.c
+SPDXID: SPDXRef-item876283
+FileChecksum: SHA1: c2381a35a21d0f35b67eb6f4de00647e36ddc66e
+FileChecksum: MD5: 608fc45d5eef8144863bf6da6f5e0cc2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/system-posix.c
+SPDXID: SPDXRef-item876284
+FileChecksum: SHA1: b0c3c8d153902d410f3cd95848930be00ea32de9
+FileChecksum: MD5: 3582f81d074bec0ea69adcb73e4dd7e1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/context.c
+SPDXID: SPDXRef-item876285
+FileChecksum: SHA1: ee864fedbc175369d72fe0cbcfa6797d35157abc
+FileChecksum: MD5: efbe178a7bebf8c46f0ec73dcc3ade2d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/client.c
+SPDXID: SPDXRef-item876286
+FileChecksum: SHA1: 11674cb7dbb36c99bd7ec1ccf8f8cb04925d665f
+FileChecksum: MD5: c985debeae68e43e05e33c9eaab6866d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/server.c
+SPDXID: SPDXRef-item876287
+FileChecksum: SHA1: 7c411c9daefcc995ce46d2a737ab5026a45fb36f
+FileChecksum: MD5: e3431ba2c1cc01c24ff818e595e27b6f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-socket-server.c
+SPDXID: SPDXRef-item876288
+FileChecksum: SHA1: 3eb8f6dbcb15af3e9d28e5665c76e2ed50147652
+FileChecksum: MD5: dbcfa9c98341015bbb1c2d9003ec9d3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/gpgcedev.def
+SPDXID: SPDXRef-item876289
+FileChecksum: SHA1: 8f51f403999654c85314230ee4b00b3296c1258b
+FileChecksum: MD5: 0074cfa80dcb1716dadcd745f61f738b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/w32-types.inc.h
+SPDXID: SPDXRef-item876290
+FileChecksum: SHA1: 9e326cb4d5f1db141c6d4eebe2a28548c2aa76c4
+FileChecksum: MD5: c89d93b30a8c62bd9798be7952431a45
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/mkheader.c
+SPDXID: SPDXRef-item876291
+FileChecksum: SHA1: c3f62c2a267cd022613af92ecca689d638da8798
+FileChecksum: MD5: 09762747412afbe231b0d5c4b6e4a62e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/conversion.c
+SPDXID: SPDXRef-item876292
+FileChecksum: SHA1: fa222eff6788ccb300f72aa688ae186638416bc3
+FileChecksum: MD5: d62dff1d3de2fd220db4941191c80152
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/debug.c
+SPDXID: SPDXRef-item876293
+FileChecksum: SHA1: 7830c02525e89c732aa46270240695de4d94cc65
+FileChecksum: MD5: e0b33020c3390c21c9a2c71c696e2dcc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/system.c
+SPDXID: SPDXRef-item876294
+FileChecksum: SHA1: 0426080207af99baae859db6ca46192dd889cb12
+FileChecksum: MD5: b00562b44587c10b75496cd00c93d2fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/posix-types.inc.h
+SPDXID: SPDXRef-item876295
+FileChecksum: SHA1: 0c5a0bf4ee6703cf34daeafae437211e558536bd
+FileChecksum: MD5: fd2d5006811f9ad9e72e379889e58ed3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/libassuan.def
+SPDXID: SPDXRef-item876296
+FileChecksum: SHA1: e2f22edebc983f240e1e75f996998e7545173e44
+FileChecksum: MD5: e1625eb36d4ae504210a51ba0b4b03fb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/system-w32.c
+SPDXID: SPDXRef-item876297
+FileChecksum: SHA1: 4d433a4c71a824a18e463a4a4b7506e4462a63d6
+FileChecksum: MD5: f7f7780ba43e91f3ef6ec079c7cacb6e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/w32-fd-t.inc.h
+SPDXID: SPDXRef-item876298
+FileChecksum: SHA1: 00c9f663a2e3c8a2eef04e544e9e2e17d8e13728
+FileChecksum: MD5: 347d4d76a1529de1f15ad3b3f08f9f66
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/src/assuan-uds.c
+SPDXID: SPDXRef-item876299
+FileChecksum: SHA1: 6c1581d4385810b690031f845c9814efb87b25d1
+FileChecksum: MD5: 896d2fe40f3c828166dd034008e335f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/ChangeLog-2011
+SPDXID: SPDXRef-item876300
+FileChecksum: SHA1: f294bea73852055661d9e059eb71651f905c148a
+FileChecksum: MD5: 1a9090d9ef912bb2a9d1e20fafe7b567
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: GPL-3.0
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/THANKS
+SPDXID: SPDXRef-item876301
+FileChecksum: SHA1: 43234e46aa92f027230f83c11d85aa895744938a
+FileChecksum: MD5: 74e35b219801ab86fbb4e18d9a7398c8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/ltversion.m4
+SPDXID: SPDXRef-item876303
+FileChecksum: SHA1: 25c2435fa4cb5dc86ffad28bf9b1a6a14dd53a68
+FileChecksum: MD5: 91dd5e1355d100dbdab7d71244ed2625
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/libtool.m4
+SPDXID: SPDXRef-item876304
+FileChecksum: SHA1: 1a7ebcd38892f8ea08cda5ce30de742688c5d154
+FileChecksum: MD5: 3079202979d986eaa5b37dd3a0c7359d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0-with-autoconf-exception
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/ltoptions.m4
+SPDXID: SPDXRef-item876305
+FileChecksum: SHA1: 05ec66892c8b30f20aa5278e1671ae4925a9c063
+FileChecksum: MD5: 67d5ebceaac562ddf0dde4e5cdffbe09
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/gpg-error.m4
+SPDXID: SPDXRef-item876306
+FileChecksum: SHA1: 3f568babcb7a825498e521998ff884f1bd85bcb8
+FileChecksum: MD5: 90591333ee67330655e88aeedc31ea0f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/Makefile.in
+SPDXID: SPDXRef-item876307
+FileChecksum: SHA1: 7e316a8cbc03103fb7e59f55c7b026a6715822b8
+FileChecksum: MD5: bd8f791309f600a75a4ba675db20a743
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/Makefile.am
+SPDXID: SPDXRef-item876308
+FileChecksum: SHA1: d2f80fed8f40d2bb8e600601ef6a143957b5470c
+FileChecksum: MD5: 8d2cb455a80d4c5c62cc508033dcd452
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/onceonly.m4
+SPDXID: SPDXRef-item876309
+FileChecksum: SHA1: 9260618c61892b8e4eea34ed2ab9ecaa779e4aa2
+FileChecksum: MD5: 48ad71a15c9d034cca3560675dbe8296
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/ltsugar.m4
+SPDXID: SPDXRef-item876310
+FileChecksum: SHA1: d6d1ea1fd251ced66ba87ceb6f9e3846124691c1
+FileChecksum: MD5: bc2f6032c98896249eadb56177c7d357
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/autobuild.m4
+SPDXID: SPDXRef-item876311
+FileChecksum: SHA1: 410bda27c360596de2243b06a06b1328929023a0
+FileChecksum: MD5: edbb94888b2f6126c51243d2ddf240f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-with-autoconf-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/sys_socket_h.m4
+SPDXID: SPDXRef-item876312
+FileChecksum: SHA1: 6669e1b2bf2dd799ce59f17afd1d0f3ffe5a87d8
+FileChecksum: MD5: 8dfc0305972386b44a6022bbd292d5b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/socklen.m4
+SPDXID: SPDXRef-item876313
+FileChecksum: SHA1: f4fb0c03e1f558c906f68276a3d490011c28b94b
+FileChecksum: MD5: f07a5889b2bf017b42f5a2ce3d65001e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/lt~obsolete.m4
+SPDXID: SPDXRef-item876314
+FileChecksum: SHA1: c0c6afe569131b4015d221bc853053cf884b2699
+FileChecksum: MD5: 47d420a13f9ba4e171772c3e3eee3e63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/m4/gnupg-pth.m4
+SPDXID: SPDXRef-item876315
+FileChecksum: SHA1: 7a4372733d8bd6a3b9fdeab11090ca8325557eb2
+FileChecksum: MD5: 54c22f4fd4ceea0e692c377855392564
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/TODO
+SPDXID: SPDXRef-item876316
+FileChecksum: SHA1: fe48bea1125d5249f021f94c661eef1b2cd9f03d
+FileChecksum: MD5: 4986636882c215da8364ef5bc4fd6811
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/config.h.in
+SPDXID: SPDXRef-item876317
+FileChecksum: SHA1: 209eefc156b2193fd2d0503ace268bd5b19831db
+FileChecksum: MD5: 195932c4fa9e36e9a6a1f44bdd9ab88a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/Makefile.am
+SPDXID: SPDXRef-item876318
+FileChecksum: SHA1: fb07dee8948c2b6c4c36bc202b8d439169086862
+FileChecksum: MD5: c2d5633c3d7e305e8f7a6cb7409ff3a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/VERSION
+SPDXID: SPDXRef-item876319
+FileChecksum: SHA1: 50919ab26b7c119efb3f2fa5000696e75a9fb378
+FileChecksum: MD5: 0d01803535a2944c4df185162b51a40c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/autogen.rc
+SPDXID: SPDXRef-item876320
+FileChecksum: SHA1: 1b6408f54db6299f5482b0e454c7e2af92be29b6
+FileChecksum: MD5: f93ba00574f4479caee8427c80fafcd5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/AUTHORS
+SPDXID: SPDXRef-item876321
+FileChecksum: SHA1: 1820d31e154d8499020a29c2d2776afd052fbf63
+FileChecksum: MD5: bf8e67b11d0419c1934869dfc95753bb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/ce-server.c
+SPDXID: SPDXRef-item876323
+FileChecksum: SHA1: b9b15417d9b75595fb8186cc48d49012ae4a75a9
+FileChecksum: MD5: e3e52fca7fac3e12b8376a27ab0c3906
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/version.c
+SPDXID: SPDXRef-item876324
+FileChecksum: SHA1: f919e4fb6280bb50ec5c9629299f62ce4f18a214
+FileChecksum: MD5: f36f9b558abe6a1a3bcda07d4cb63e7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/Makefile.in
+SPDXID: SPDXRef-item876325
+FileChecksum: SHA1: b40f18253c8abf4e8bf665c04b30c24b58dcccb4
+FileChecksum: MD5: 088a81bda8d8c9cb425bced315efeaa2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/fdpassing.c
+SPDXID: SPDXRef-item876326
+FileChecksum: SHA1: 007a2092e45ad16c2a838fbe31d0ba5ebb26112a
+FileChecksum: MD5: 2ff825f3849942e578bf83c766059e1d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/ChangeLog-2011
+SPDXID: SPDXRef-item876327
+FileChecksum: SHA1: 5873cd4f5b0dab3cf04f53c9dde854ddd64d3927
+FileChecksum: MD5: 10358b67ae4c03d47652270a2c2185d7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/Makefile.am
+SPDXID: SPDXRef-item876328
+FileChecksum: SHA1: e98aedf581b2580ed1df90b62d652183bbc20486
+FileChecksum: MD5: 5c19c507333f4b2694d11454277d1105
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/common.h
+SPDXID: SPDXRef-item876329
+FileChecksum: SHA1: bca3236228435a442b086ef485a20bffdf277038
+FileChecksum: MD5: 7b9e75dc5f926b72e30ec0d7f9d59eda
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/motd
+SPDXID: SPDXRef-item876330
+FileChecksum: SHA1: 4bf80a40a06f4f5ce64eab57fc5f815ea5a4c39d
+FileChecksum: MD5: eeb8eeb19521843d113175b07e947389
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/socks5.c
+SPDXID: SPDXRef-item876331
+FileChecksum: SHA1: 4e1c80ca4962254476199b720ed1ee6f70d35b86
+FileChecksum: MD5: 3f8f30ca4e368a88410732254dc5f7ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/ce-createpipe.c
+SPDXID: SPDXRef-item876332
+FileChecksum: SHA1: ffda277c323c45bf0621cd87b8c6c2f6bb86e676
+FileChecksum: MD5: 0fbe2c4aa27cd473bea13df6d62ebedc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/tests/pipeconnect.c
+SPDXID: SPDXRef-item876333
+FileChecksum: SHA1: 220d8235b4dce55899b07e13c7bc929ddc3f5749
+FileChecksum: MD5: f9960a1d2704019e4d43588cd15da976
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/README.GIT
+SPDXID: SPDXRef-item876334
+FileChecksum: SHA1: b05f185d3d62e554cbb5e3ba3cab738eac933982
+FileChecksum: MD5: c50a068cba6d05a6ebe722bd6942d8f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/stamp-vti
+SPDXID: SPDXRef-item876336
+FileChecksum: SHA1: 22e5079c3a63d2f2a91bfeaf8ae1b7241efc71e6
+FileChecksum: MD5: b96062ce91ea0a149a944f07a99f48e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/lgpl.texi
+SPDXID: SPDXRef-item876337
+FileChecksum: SHA1: d91b718cb70d2b4b5b6c78403356818fc4ddd307
+FileChecksum: MD5: f2b9b7717f7807b877ec1962442f3fae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/Makefile.in
+SPDXID: SPDXRef-item876338
+FileChecksum: SHA1: e704c9839387769f7342efcdf3de9706949b0785
+FileChecksum: MD5: f8c1b9a7828b2e467a5b8814e1054aa1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/ChangeLog-2011
+SPDXID: SPDXRef-item876339
+FileChecksum: SHA1: 1f7a5c7997b39a0ecb1ed0d60cd16be834398a5c
+FileChecksum: MD5: 7bc1118edc10d680e681702ba60c9e27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/Makefile.am
+SPDXID: SPDXRef-item876340
+FileChecksum: SHA1: 07f1e49c6c5e94df640598a0b7f958e5be395623
+FileChecksum: MD5: d6fadad29f970ab064b7a5c1e1ff13a0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/DCO
+SPDXID: SPDXRef-item876341
+FileChecksum: SHA1: cac68703a6bc2d2853d98539e4c272700a353e63
+FileChecksum: MD5: 7b8aca6c927a10f585c5853c996d3618
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-UnclassifiedLicense
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/README.apichanges
+SPDXID: SPDXRef-item876342
+FileChecksum: SHA1: 672e31aad2b3af38e5cf0c78da8ceae91c25f770
+FileChecksum: MD5: 24e9152d5aad43f7afd925f8c347a1d4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/HACKING
+SPDXID: SPDXRef-item876343
+FileChecksum: SHA1: e942ea8126b40e9d6fd47f27405976fe683a4547
+FileChecksum: MD5: aa6cf272ffac864283d2c32be0eb645e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.0+
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/version.texi
+SPDXID: SPDXRef-item876344
+FileChecksum: SHA1: 22e5079c3a63d2f2a91bfeaf8ae1b7241efc71e6
+FileChecksum: MD5: b96062ce91ea0a149a944f07a99f48e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/assuan.info
+SPDXID: SPDXRef-item876345
+FileChecksum: SHA1: 72adc3bac47d354a62ca8f43f6dfec44f3ac326c
+FileChecksum: MD5: 87e0ed93a3cea187a4e05e5a7d081249
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LGPL-2.1+
+LicenseInfoInFile: LGPL-2.1
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/assuan.texi
+SPDXID: SPDXRef-item876346
+FileChecksum: SHA1: 63a56e21db56d7e21bd76da52ec0e296847e38e1
+FileChecksum: MD5: f6c44f7b370f140a8fee9ef8bbdf3981
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/doc/gpl.texi
+SPDXID: SPDXRef-item876347
+FileChecksum: SHA1: 6d5f90a9f575eea3732153427fb9df153162de35
+FileChecksum: MD5: d93a6d42829547191a9d29023365e183
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/README
+SPDXID: SPDXRef-item876348
+FileChecksum: SHA1: 061fb381767ec2d40919bd2dd9e7821a4b81cf73
+FileChecksum: MD5: c9aeeb0ee233ec2748f45246b067c943
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/applied-patches
+SPDXID: SPDXRef-item876350
+FileChecksum: SHA1: eab294a83bacd0eb45f59a8e1523e0a75a15ca47
+FileChecksum: MD5: 053c9cefdedaa9fc85d4ec9c600fbcbc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/.quilt_series
+SPDXID: SPDXRef-item876351
+FileChecksum: SHA1: 2859777d6f2bf7f5165b3db310e170ac6c7c8672
+FileChecksum: MD5: e8a673d5d4d69a5fd11c880fd4c3c481
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/.version
+SPDXID: SPDXRef-item876352
+FileChecksum: SHA1: 7448d8798a4380162d4b56f9b452e2f6f9e24e7a
+FileChecksum: MD5: 26ab0db90d72e28ad0ba1e22ee510510
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/libassuan-add-pkgconfig-support.patch/src/libassuan.m4
+SPDXID: SPDXRef-item876355
+FileChecksum: SHA1: ff3aa0bc26d4dfcc6c48c221778846d39a8b568f
+FileChecksum: MD5: 8dc71029438f7eecc48ea857c1269570
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/libassuan-add-pkgconfig-support.patch/Makefile.am
+SPDXID: SPDXRef-item876356
+FileChecksum: SHA1: 3046eb8a41019a2a210205ab8eaed6de32f84519
+FileChecksum: MD5: 9f0ba976d6e11ee0ecdd18dad728053a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/libassuan-add-pkgconfig-support.patch/.timestamp
+SPDXID: SPDXRef-item876357
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/libassuan-add-pkgconfig-support.patch/configure.ac
+SPDXID: SPDXRef-item876358
+FileChecksum: SHA1: 33b964457a89afadc35a461e7b0e755413b35d8b
+FileChecksum: MD5: 99db4f7bb195399f57415b9fbf3c04ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/libassuan-add-pkgconfig-support.patch/libassuan.pc.in
+SPDXID: SPDXRef-item876359
+FileChecksum: SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+FileChecksum: MD5: d41d8cd98f00b204e9800998ecf8427e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/.pc/.quilt_patches
+SPDXID: SPDXRef-item876360
+FileChecksum: SHA1: 3113cbc22187a55b4d2617235511a5b220fbe88a
+FileChecksum: MD5: b405edf4c09a8c0583fb9bd5d26bb185
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/configure.ac
+SPDXID: SPDXRef-item876361
+FileChecksum: SHA1: 04f96a9d47c27cbb39130f38656673146ce5b443
+FileChecksum: MD5: 0b8822f1a718364bb5f00463890e7900
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LGPL-2.1+
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/git-log-footer
+SPDXID: SPDXRef-item876363
+FileChecksum: SHA1: 8a4a281f27bcc8db0850e2e783eb02e89b1ad7ee
+FileChecksum: MD5: b9f610b8b00f4034e5a8271bdbe4c4da
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/compile
+SPDXID: SPDXRef-item876364
+FileChecksum: SHA1: ba05b9b5706647c270b76d9bad66485c1a61720e
+FileChecksum: MD5: 0c8b042f99995c11aeb81bccc23c4c05
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/install-sh
+SPDXID: SPDXRef-item876365
+FileChecksum: SHA1: 664bbfb27be6eb13791003c4114d95a9c3d51ea1
+FileChecksum: MD5: 6e5fe73723cd40a28adc5b7b5650c8d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: X11
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-Public-domain
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/git-log-fix
+SPDXID: SPDXRef-item876366
+FileChecksum: SHA1: 1950a7277eb3bc16cf8b585344dfc67ea177c9ac
+FileChecksum: MD5: c16327565627e332d97ad1343668167a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/texinfo.tex
+SPDXID: SPDXRef-item876367
+FileChecksum: SHA1: aa35313f599fc45394b398604461faa3c49a1fa6
+FileChecksum: MD5: 42615d253ec769d84f9eb76069a2d855
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-3.0+
+LicenseInfoInFile: LicenseRef-TeX-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/ltmain.sh
+SPDXID: SPDXRef-item876368
+FileChecksum: SHA1: 666c1d153e353c1acb14bb2821747a738ee205ae
+FileChecksum: MD5: 72d23b6554eee35fd574074a2afa778d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: GPL-2.0+
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/config.sub
+SPDXID: SPDXRef-item876369
+FileChecksum: SHA1: de71ef83c06b8148193130313a0a489f7de72560
+FileChecksum: MD5: ab5cdf7080934d24cf4ca0739db766a1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/missing
+SPDXID: SPDXRef-item876370
+FileChecksum: SHA1: 30f869911496d5fb2ed58516f7f99735e0d076e0
+FileChecksum: MD5: 1ad54e190e8322176a47a48621ad0887
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/config.rpath
+SPDXID: SPDXRef-item876371
+FileChecksum: SHA1: c532386fab0554d2137994fac8b00c651542f660
+FileChecksum: MD5: 2547eb44589484b1ab6ce9e20686643d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/mdate-sh
+SPDXID: SPDXRef-item876372
+FileChecksum: SHA1: 71caaceae43e41885e200e609b63913c0cd5f7c7
+FileChecksum: MD5: cb6ad6c68a6629108307afb28985c040
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/config.guess
+SPDXID: SPDXRef-item876373
+FileChecksum: SHA1: 3f7002a9ccadf22c2e373572b5f5e64964fb75ce
+FileChecksum: MD5: 52f80eee57d1a5dc581fbb1f1c6a7bad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/build-aux/depcomp
+SPDXID: SPDXRef-item876374
+FileChecksum: SHA1: 71e07f3be78211e06de8267a4d1eb417ecd56705
+FileChecksum: MD5: f4aafb270c2f983f35b365aad5fe8870
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-GPL-exception
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/INSTALL
+SPDXID: SPDXRef-item876375
+FileChecksum: SHA1: a3770082a83c54b76ac936a6e58ef21092b1555c
+FileChecksum: MD5: 5d4638159851671944108691f23e4f28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/libassuan.pc.in
+SPDXID: SPDXRef-item876376
+FileChecksum: SHA1: 65247540da95ee39023de3e32f2ebee235ac4fdd
+FileChecksum: MD5: 913e472afa73e9bd52354b82f0cccc00
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/patches/series
+SPDXID: SPDXRef-item876379
+FileChecksum: SHA1: d1f1668573ebaefc6591c6fddb3f6faef657a694
+FileChecksum: MD5: 5b6d206c151afdc0f592b7cece02ad75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/autogen.sh
+SPDXID: SPDXRef-item876380
+FileChecksum: SHA1: a580ad7c984d75143e574db2cf09805235591ef2
+FileChecksum: MD5: 3f4ab7fc48cefefff0ceba6e4e92c132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: LicenseRef-FSF
+FileCopyrightText: NOASSERTION
+ 
+
+##File
+
+FileName: spdx_temp/libassuan-2.4.3/ChangeLog
+SPDXID: SPDXRef-item876381
+FileChecksum: SHA1: 571ed0e7d44dc00ba6712c9b44f245ad1c43f7ef
+FileChecksum: MD5: 7e956e676ace0fe3e6598fb6258c8161
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+FileCopyrightText: NOASSERTION
+ 
+
+
+
+##-------------------------
+## License Information
+##-------------------------
+
+LicenseID: LicenseRef-TeX-exception
+LicenseName: TeX-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL
+LicenseName: GNU General Public License
+ExtractedText: <text> GPL is referenced without a version number. Please look up GPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-Public-domain
+LicenseName: Public domain software
+ExtractedText: <text> Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
+
+In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
+
+Sometimes people use the term “public domain” in a loose fashion to mean “free” or “available gratis.” However, “public domain” is a legal term and means, precisely, “not copyrighted”. For clarity, we recommend using “public domain” for that meaning only, and using other terms to convey the other meanings.
+
+Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted. </text>
+
+LicenseID: LicenseRef-LGPL
+LicenseName: GNU Lesser General Public License
+ExtractedText: <text> LGPL is referenced without a version number. Please look up LGPL in the License Admin to view the different versions. </text>
+
+LicenseID: LicenseRef-GPL-with-autoconf-exception
+LicenseName: GPL-with-autoconf-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-GPL-exception
+LicenseName: GPL-exception
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-No_license_found
+LicenseName: No_license_found
+ExtractedText: <text> Not find any license in the scanned file </text>
+
+LicenseID: LicenseRef-Public-domain-ref
+LicenseName: Public-domain-ref
+ExtractedText: <text> License by Nomos. </text>
+
+LicenseID: LicenseRef-UnclassifiedLicense
+LicenseName: UnclassifiedLicense
+ExtractedText: <text> An unclassified license reference looks like a license (it contains common license terminology) but we don't recognize a specific license. </text>
+
+LicenseID: LicenseRef-FSF
+LicenseName: Free Software Foundation
+ExtractedText: <text> Copyright (C) 2003, 2006-2007 Free Software Foundation, Inc.
+This file is free software; the Free Software Foundation
+gives unlimited permission to copy and/or distribute it,
+with or without modifications, as long as this notice is preserved. </text>
+
